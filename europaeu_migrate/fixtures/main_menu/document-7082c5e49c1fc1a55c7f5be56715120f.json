@@ -1,0 +1,201 @@
+{
+    "_id": "7082c5e49c1fc1a55c7f5be56715120f",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "und",
+        "es",
+        "fr",
+        "ga",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "hr"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2012-06-06 15:27:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                45
+            ]
+        },
+        "parent": {
+            "und": [
+                "657d6bf4e7898531b89da123968ff302"
+            ]
+        },
+        "level": {
+            "und": [
+                5
+            ]
+        },
+        "title": {
+            "bg": [
+                "Текущ статус на законодателни процедури (PreLex)"
+            ],
+            "cs": [
+                "Aktuální stav legislativních balíčků (PreLex)"
+            ],
+            "da": [
+                "Lovgivningen trin for trin (PreLex)"
+            ],
+            "de": [
+                "Aktueller Stand von Gesetzgebungspaketen (PreLex)"
+            ],
+            "el": [
+                "Σημερινό καθεστώς νομοθετικών μέτρων (PreLex)"
+            ],
+            "und": [
+                "Current status of legislative packages (PreLex) "
+            ],
+            "es": [
+                "Estado actual de los paquetes legislativos (PreLex)"
+            ],
+            "et": [
+                "Õigusaktide pakettidega seotud menetluste jälgimine (PreLex)"
+            ],
+            "fi": [
+                "Säädösehdotusten tilan seuranta (PreLex)"
+            ],
+            "fr": [
+                "Statut actuel des séries de mesures législatives (PreLex)"
+            ],
+            "ga": [
+                "Stádas reatha na bpacáistí reachtaíochta (PreLex)"
+            ],
+            "hr": [
+                "Trenutačni status zakonodavnih paketa (PreLex)"
+            ],
+            "hu": [
+                "Az intézményközi eljárások adatbázisa (PreLex)"
+            ],
+            "it": [
+                "Stato attuale dei pacchetti legislativi (PreLex)"
+            ],
+            "lt": [
+                "Teisės aktų rinkinių dabartinė padėtis („PreLex“)"
+            ],
+            "lv": [
+                "Pašreizējo likumdošanas procedūru pārraudzība (“PreLex”)"
+            ],
+            "mt": [
+                "Qagħda attwali tal-pakketti leġiżlattivi (PreLex)"
+            ],
+            "nl": [
+                "Stand van zaken voor nieuwe wetgevingsvoorstellen (PreLex)"
+            ],
+            "pl": [
+                "Aktualny status pakietów prawodawczych (PreLex)"
+            ],
+            "pt": [
+                "Acompanhamento das propostas legislativas (Pre-Lex)"
+            ],
+            "ro": [
+                "Stadiul actual al actelor legislative (PreLex)"
+            ],
+            "sk": [
+                "Informácie o legislatíve v štádiu schvaľovania (PreLex)"
+            ],
+            "sl": [
+                "Trenutni status zakonodajnih svežnjev (PreLex)"
+            ],
+            "sv": [
+                "Lagförslagen steg för steg (Prelex)"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=bg"
+            ],
+            "cs": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=cs"
+            ],
+            "da": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=da"
+            ],
+            "de": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=de"
+            ],
+            "el": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=el"
+            ],
+            "und": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=en"
+            ],
+            "es": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=es"
+            ],
+            "et": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=et"
+            ],
+            "fi": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=fi"
+            ],
+            "fr": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=fr"
+            ],
+            "ga": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=ga"
+            ],
+            "hr": [
+                "empty"
+            ],
+            "hu": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=hu"
+            ],
+            "it": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=it"
+            ],
+            "lt": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=lt"
+            ],
+            "lv": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=lv"
+            ],
+            "mt": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=mt"
+            ],
+            "nl": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=nl"
+            ],
+            "pl": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=pl"
+            ],
+            "pt": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=pt"
+            ],
+            "ro": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=ro"
+            ],
+            "sk": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=sk"
+            ],
+            "sl": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=sl"
+            ],
+            "sv": [
+                "http://ec.europa.eu/prelex/apcnet.cfm?CL=sv"
+            ]
+        }
+    }
+}

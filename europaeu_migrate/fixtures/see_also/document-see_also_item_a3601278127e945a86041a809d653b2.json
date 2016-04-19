@@ -1,0 +1,495 @@
+{
+    "_id": "see_also_item_a3601278127e945a86041a809d653b2",
+    "type": "see_also_item",
+    "default_language": "en",
+    "languages": [
+        "lt",
+        "fi",
+        "it",
+        "pl",
+        "sk",
+        "ro",
+        "da",
+        "hu",
+        "pt",
+        "hr",
+        "el",
+        "et",
+        "ga",
+        "de",
+        "es",
+        "bg",
+        "sl",
+        "sv",
+        "lv",
+        "fr",
+        "cs",
+        "mt",
+        "nl",
+        "en"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Еврото",
+                "„Европа 2020“: нова икономическа стратегия",
+                "Икономически и парични въпроси",
+                "Многогодишна финансова рамка за 2014 – 2020 г.",
+                "Евростат",
+                "Икономически и финансови въпроси"
+            ],
+            "cs": [
+                "Euro",
+                "Evropa 2020: nová hospodářská strategie",
+                "Hospodářské a měnové záležitosti",
+                "Víceletý finanční rámec na období 2014–2020",
+                "Eurostat",
+                "Hospodářské a finanční záležitosti"
+            ],
+            "da": [
+                "Euroen",
+                "Europa 2020: en ny økonomisk strategi",
+                "Økonomi og valuta",
+                "Flerårig finansiel ramme 2014 – 2020",
+                "Eurostat",
+                "Økonomiske og finansielle anliggender"
+            ],
+            "de": [
+                "Der Euro",
+                "Europa 2020: eine neue Wirtschaftsstrategie",
+                "Wirtschaft und Finanzen",
+                "Mehrjähriger Finanzrahmen 2014 – 2020",
+                "Eurostat",
+                "Wirtschaft und Finanzen"
+            ],
+            "el": [
+                "Το ευρώ",
+                "Ευρώπη 2020: μια νέα οικονομική στρατηγική",
+                "Οικονομικά και νομισματικά θέματα",
+                "Πολυετές Δημοσιονομικό Πλαίσιο 2014 - 2020",
+                "Eurostat (Στατιστική υπηρεσία)",
+                "Οικονομικές και Χρηματοδοτικές Υποθέσεις"
+            ],
+            "en": [
+                "The euro",
+                "Europe 2020: a new economic strategy",
+                "Economic and Monetary Affairs",
+                "2014-2020 Multiannual Financial Framework 2014-2020",
+                "Eurostat",
+                "Economic and Financial Affairs"
+            ],
+            "es": [
+                "El euro",
+                "Europa 2020: nueva estrategia económica",
+                "Asuntos económicos y financieros",
+                "Marco financiero plurianual 2014-2020",
+                "Eurostat",
+                "Asuntos Económicos y Financieros"
+            ],
+            "et": [
+                "Euro",
+                "Euroopa 2020: uus majandusstrateegia",
+                "Majandus- ja rahaküsimused",
+                "Mitmeaastane finantsraamistik 2014–2020",
+                "Eurostat",
+                "Majandus- ja finantsküsimused"
+            ],
+            "fi": [
+                "Euro",
+                "Eurooppa 2020 – uusi talousstrategia",
+                "Talous- ja rahapolitiikka",
+                "Monivuotinen rahoituskehys 2014–2020",
+                "Eurostat",
+                "Talous- ja rahoitusasiat"
+            ],
+            "fr": [
+                "L'euro",
+                "Europe 2020: une nouvelle stratégie économique",
+                "Affaires économiques et monétaires",
+                "Cadre financier pluriannuel 2014-2020",
+                "Eurostat",
+                "Affaires économiques et financières"
+            ],
+            "ga": [
+                "Is é an euro",
+                "An Eoraip 2020: straitéis nua eacnamaíoch",
+                "Gnóthaí Eacnamaíochta agus Airgeadaíochta",
+                "Creat Airgeadais Ilbhliantúil 2014 – 2020",
+                "Eurostat",
+                "Gnóthaí Eacnamaíocha agus Airgeadais"
+            ],
+            "hr": [
+                "Euro",
+                "Europe 2020: nova gospodarska strategija",
+                "Gospodarska i monetarna pitanja",
+                "Višegodišnji financijski okvir 2014.-2020.",
+                "Eurostat",
+                "Gospodarska i financijska pitanja"
+            ],
+            "hu": [
+                "Az euró",
+                "Európa 2020: új gazdasági stratégia",
+                "Gazdasági és monetáris ügyek",
+                "A 2014–2020-as többéves pénzügyi keret",
+                "Eurostat",
+                "Gazdasági és pénzügyek"
+            ],
+            "it": [
+                "L'euro",
+                "Europa 2020: una nuova strategia economica",
+                "Affari economici e monetari",
+                "Quadro finanziario pluriennale 2014 - 2020",
+                "Eurostat",
+                "Affari economici e finanziari"
+            ],
+            "lt": [
+                "Euras",
+                "„Europa 2020“ – nauja ekonomikos strategija",
+                "Ekonomika ir pinigų reikalai",
+                "2014–2020 m. daugiametė finansinė programa",
+                "Eurostatas",
+                "Ekonomikos ir finansų reikalai"
+            ],
+            "lv": [
+                "Eiro",
+                "“Eiropa 2020”: jauna tautsaimniecības stratēģija",
+                "Ekonomikas un monetārās lietas",
+                "Daudzgadu finanšu shēma 2014 – 2020",
+                "ES Statistikas birojs (Eurostat)",
+                "Ekonomika un finanšu lietas"
+            ],
+            "mt": [
+                "L-ewro",
+                "Ewropa 2020: strateġija ekonomika ġdida",
+                "Affarijiet Ekonomici u Monetarji",
+                "Qafas Finanzjarju Multiannwali 2014 - 2020",
+                "Eurostat",
+                "Affarijiet Ekonomici u Finanzjarji"
+            ],
+            "nl": [
+                "De euro",
+                "Europa 2020: een nieuwe economische strategie",
+                "Economische en monetaire zaken",
+                "Meerjarig financieel kader 2014-2020",
+                "Eurostat",
+                "Economische en financiële zaken"
+            ],
+            "pl": [
+                "Euro",
+                "Europa 2020 − nowa strategia gospodarcza",
+                "Sprawy gospodarcze i walutowe",
+                "Wieloletnie ramy finansowe 2014–2020",
+                "Eurostat",
+                "Sprawy gospodarcze i finansowe"
+            ],
+            "pt": [
+                "O euro",
+                "Europa 2020: uma nova estratégia económica",
+                "Assuntos Económicos e Monetários",
+                "Quadro financeiro plurianual 2014 – 2020",
+                "Eurostat",
+                "Assuntos Económicos e Financeiros"
+            ],
+            "ro": [
+                "Moneda euro",
+                "Europa 2020: o nouă strategie economică",
+                "Afaceri economice şi monetare",
+                "Cadrul financiar multianual 2014-2020",
+                "Eurostat",
+                "Afaceri Economice şi Financiare"
+            ],
+            "sk": [
+                "Euro",
+                "Európa 2020: nová hospodárska stratégia",
+                "Hospodárske a menové záležitosti",
+                "Viacročný finančný rámec na roky 2014 – 2020",
+                "Eurostat",
+                "Hospodárske a finančné záležitosti"
+            ],
+            "sl": [
+                "Evro",
+                "Evropa 2020: nova gospodarska strategija",
+                "Ekonomske in monetarne zadeve",
+                "Večletni finančni okvir za obdobje 2014–2020",
+                "Eurostat",
+                "Gospodarske in finančne zadeve"
+            ],
+            "sv": [
+                "Euron",
+                "Europa 2020: en ny ekonomisk strategi",
+                "Ekonomiska och monetära frågor",
+                "EU:s långtidsbudget för 2014–2020",
+                "Eurostat – EU:s statistikkontor",
+                "Ekonomi och finans"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_bg.htm",
+                "http://ec.europa.eu/europe2020/index_bg.htm",
+                "http://europa.eu/pol/emu/index_bg.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_cs.htm",
+                "http://ec.europa.eu/europe2020/index_cs.htm",
+                "http://europa.eu/pol/emu/index_cs.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_da.htm",
+                "http://ec.europa.eu/europe2020/index_da.htm",
+                "http://europa.eu/pol/emu/index_da.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_de.htm",
+                "http://ec.europa.eu/europe2020/index_de.htm",
+                "http://europa.eu/pol/emu/index_de.htm",
+                "http://ec.europa.eu/budget/mff/highlights/index_de.cfm",
+                "http://ec.europa.eu/eurostat/de/home",
+                "http://ec.europa.eu/economy_finance/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_el.htm",
+                "http://ec.europa.eu/europe2020/index_el.htm",
+                "http://europa.eu/pol/emu/index_el.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_en.htm",
+                "http://ec.europa.eu/europe2020/index_en.htm",
+                "http://europa.eu/pol/emu/index_en.htm",
+                "http://ec.europa.eu/budget/mff/highlights/index_en.cfm",
+                "http://ec.europa.eu/eurostat/en/home",
+                "http://ec.europa.eu/economy_finance/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_es.htm",
+                "http://ec.europa.eu/europe2020/index_es.htm",
+                "http://europa.eu/pol/emu/index_es.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_et.htm",
+                "http://ec.europa.eu/europe2020/index_et.htm",
+                "http://europa.eu/pol/emu/index_et.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_fi.htm",
+                "http://ec.europa.eu/europe2020/index_fi.htm",
+                "http://europa.eu/pol/emu/index_fi.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_fr.htm",
+                "http://ec.europa.eu/europe2020/index_fr.htm",
+                "http://europa.eu/pol/emu/index_fr.htm",
+                "http://ec.europa.eu/budget/mff/highlights/index_fr.cfm",
+                "http://ec.europa.eu/eurostat/fr/home",
+                "http://ec.europa.eu/economy_finance/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_ga.htm",
+                "http://ec.europa.eu/europe2020/index_ga.htm",
+                "http://europa.eu/pol/emu/index_ga.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_en.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_hr.htm",
+                "empty",
+                "empty",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_hu.htm",
+                "http://ec.europa.eu/europe2020/index_hu.htm",
+                "http://europa.eu/pol/emu/index_hu.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_it.htm",
+                "http://ec.europa.eu/europe2020/index_it.htm",
+                "http://europa.eu/pol/emu/index_it.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_lt.htm",
+                "http://ec.europa.eu/europe2020/index_lt.htm",
+                "http://europa.eu/pol/emu/index_lt.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_lv.htm",
+                "http://ec.europa.eu/europe2020/index_lv.htm",
+                "http://europa.eu/pol/emu/index_lv.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_mt.htm",
+                "http://ec.europa.eu/europe2020/index_mt.htm",
+                "http://europa.eu/pol/emu/index_mt.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_nl.htm",
+                "http://ec.europa.eu/europe2020/index_nl.htm",
+                "http://europa.eu/pol/emu/index_nl.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_pl.htm",
+                "http://ec.europa.eu/europe2020/index_pl.htm",
+                "http://europa.eu/pol/emu/index_pl.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_pt.htm",
+                "http://ec.europa.eu/europe2020/index_pt.htm",
+                "http://europa.eu/pol/emu/index_pt.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_ro.htm",
+                "http://ec.europa.eu/europe2020/index_ro.htm",
+                "http://europa.eu/pol/emu/index_ro.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_sk.htm",
+                "http://ec.europa.eu/europe2020/index_sk.htm",
+                "http://europa.eu/pol/emu/index_sk.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_sl.htm",
+                "http://ec.europa.eu/europe2020/index_sl.htm",
+                "http://europa.eu/pol/emu/index_sl.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/basic-information/money/euro/index_sv.htm",
+                "http://ec.europa.eu/europe2020/index_sv.htm",
+                "http://europa.eu/pol/emu/index_sv.htm",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://ec.europa.eu/economy_finance/index_sv.htm"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Икономика"
+            ],
+            "cs": [
+                "Ekonomika EU"
+            ],
+            "da": [
+                "Økonomien"
+            ],
+            "de": [
+                "Die Wirtschaft"
+            ],
+            "el": [
+                "Η οικονομία"
+            ],
+            "en": [
+                "The economy"
+            ],
+            "es": [
+                "Economía"
+            ],
+            "et": [
+                "Majandus"
+            ],
+            "fi": [
+                "Talous"
+            ],
+            "fr": [
+                "L'économie de l'UE"
+            ],
+            "ga": [
+                "An geilleagar"
+            ],
+            "hr": [
+                "Ekonomin"
+            ],
+            "hu": [
+                "A gazdaság"
+            ],
+            "it": [
+                "L'economia"
+            ],
+            "lt": [
+                "Ekonomika"
+            ],
+            "lv": [
+                "Ekonomika"
+            ],
+            "mt": [
+                "L-ekonomija"
+            ],
+            "nl": [
+                "De economie"
+            ],
+            "pl": [
+                "Gospodarka"
+            ],
+            "pt": [
+                "A economia"
+            ],
+            "ro": [
+                "Economia"
+            ],
+            "sk": [
+                "Hospodárstvo"
+            ],
+            "sl": [
+                "Gospodarstvo"
+            ],
+            "sv": [
+                "Ekonomin"
+            ]
+        }
+    }
+}

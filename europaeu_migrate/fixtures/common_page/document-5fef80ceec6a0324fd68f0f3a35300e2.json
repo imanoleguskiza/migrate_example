@@ -1,0 +1,753 @@
+{
+  "_id": "5fef80ceec6a0324fd68f0f3a35300e2",
+  "type": "common_page",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/institutions-bodies/interinstitutional-bodies/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Междуинституционални органи"
+      ],
+      "cs": [
+        "Interinstitucionální orgány"
+      ],
+      "da": [
+        "Interinstitutionelle organer"
+      ],
+      "de": [
+        "Interinstitutionelle Einrichtungen"
+      ],
+      "el": [
+        "Διοργανικές υπηρεσίες"
+      ],
+      "en": [
+        "Interinstitutional bodies"
+      ],
+      "es": [
+        "Organismos interinstitucionales"
+      ],
+      "et": [
+        "Institutsioonidevahelised asutused"
+      ],
+      "fi": [
+        "Toimielinten yhteiset elimet"
+      ],
+      "fr": [
+        "Services interinstitutionnels"
+      ],
+      "ga": [
+        "Comhlachtaí idirfhorasacha"
+      ],
+      "hr": [
+        "Međuinstitucionalna tijela"
+      ],
+      "hu": [
+        "Intézményközi testületek"
+      ],
+      "it": [
+        "Organismi interistituzionali"
+      ],
+      "lt": [
+        "Tarpinstitucinės organizacijos"
+      ],
+      "lv": [
+        "Starpiestāžu struktūras"
+      ],
+      "mt": [
+        "Korpi Interistituzzjonali"
+      ],
+      "nl": [
+        "Interinstitutionele organen"
+      ],
+      "pl": [
+        "Inne organy europejskie"
+      ],
+      "pt": [
+        "Órgãos interinstitucionais"
+      ],
+      "ro": [
+        "Organisme interinstituţionale"
+      ],
+      "sk": [
+        "Medziinštitucionálne orgány"
+      ],
+      "sl": [
+        "Medinstitucionalni organi"
+      ],
+      "sv": [
+        "Interinstitutionella organ"
+      ]
+    },
+    "category": {
+      "und": [
+        "33755c51"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "/INDEX/HP/EN"
+      ],
+      "cs": [
+        "/INDEX/HP/EN"
+      ],
+      "da": [
+        "/INDEX/HP/EN"
+      ],
+      "de": [
+        "/INDEX/HP/EN"
+      ],
+      "el": [
+        "/INDEX/HP/EN"
+      ],
+      "en": [
+        "INSTITUTIONS/INTERINSTITUTIONAL/EN"
+      ],
+      "es": [
+        "/INDEX/HP/EN"
+      ],
+      "et": [
+        "/INDEX/HP/EN"
+      ],
+      "fi": [
+        "/INDEX/HP/EN"
+      ],
+      "fr": [
+        "/INDEX/HP/EN"
+      ],
+      "ga": [
+        "INSTITUTIONS/INTERINSTITUTIONAL/EN"
+      ],
+      "hr": [
+        "INSTITUTIONS/INTERINSTITUTIONAL/EN"
+      ],
+      "hu": [
+        "/INDEX/HP/EN"
+      ],
+      "it": [
+        "INSTITUTIONS/INTERINSTITUTIONAL/IT"
+      ],
+      "lt": [
+        "/INDEX/HP/EN"
+      ],
+      "lv": [
+        "/INDEX/HP/EN"
+      ],
+      "mt": [
+        "/INDEX/HP/EN"
+      ],
+      "nl": [
+        "/INDEX/HP/EN"
+      ],
+      "pl": [
+        "/INDEX/HP/EN"
+      ],
+      "pt": [
+        "/INDEX/HP/EN"
+      ],
+      "ro": [
+        "/INDEX/HP/EN"
+      ],
+      "sk": [
+        "/INDEX/HP/EN"
+      ],
+      "sl": [
+        "/INDEX/HP/EN"
+      ],
+      "sv": [
+        "/INDEX/HP/EN"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        "COMM/COMM-C02"
+      ],
+      "cs": [
+        "COMM/COMM-C02"
+      ],
+      "da": [
+        "COMM/COMM-C02"
+      ],
+      "de": [
+        "COMM/COMM-C02"
+      ],
+      "el": [
+        "COMM/COMM-C02"
+      ],
+      "en": [
+        "COMM/COMM/C-02"
+      ],
+      "es": [
+        "COMM/COMM-C02"
+      ],
+      "et": [
+        "COMM/COMM-C02"
+      ],
+      "fi": [
+        "COMM/COMM-C02"
+      ],
+      "fr": [
+        "COMM/COMM-C02"
+      ],
+      "ga": [
+        "COMM/COMM/C-02"
+      ],
+      "hr": [
+        "COMM/COMM/C-02"
+      ],
+      "hu": [
+        "COMM/COMM-C02"
+      ],
+      "it": [
+        "COMM/COMM/C-02"
+      ],
+      "lt": [
+        "COMM/COMM-C02"
+      ],
+      "lv": [
+        "COMM/COMM-C02"
+      ],
+      "mt": [
+        "COMM/COMM-C02"
+      ],
+      "nl": [
+        "COMM/COMM-C02"
+      ],
+      "pl": [
+        "COMM/COMM-C02"
+      ],
+      "pt": [
+        "COMM/COMM-C02"
+      ],
+      "ro": [
+        "COMM/COMM-C02"
+      ],
+      "sk": [
+        "COMM/COMM-C02"
+      ],
+      "sl": [
+        "COMM/COMM-C02"
+      ],
+      "sv": [
+        "COMM/COMM-C02"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "hr": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Междуинституционални органи"
+      ],
+      "cs": [
+        "Interinstitucionální orgány Evropské unie"
+      ],
+      "da": [
+        "Interinstitutionelle organer"
+      ],
+      "de": [
+        "Interinstitutionelle Einrichtungen der Europäischen Union"
+      ],
+      "el": [
+        "Θεσμικά όργανα της Ευρωπαϊκής Ένωσης - Διοργανικές υπηρεσίες"
+      ],
+      "en": [
+        "Interinstitutional bodies of the European Union"
+      ],
+      "es": [
+        "Organismos interinstitucionales de la Unión Europea"
+      ],
+      "et": [
+        "Institutsioonidevahelised asutused"
+      ],
+      "fi": [
+        "Euroopan unionin toimielinten yhteiset elimet"
+      ],
+      "fr": [
+        "Services interinstitutionnels de l'Union européenne"
+      ],
+      "ga": [
+        "Comhlachtaí idirfhorasacha an Aontais Eorpaigh"
+      ],
+      "hr": [
+        "Međuinstitucionalna tijela Europske unije"
+      ],
+      "hu": [
+        "Az Európai Unió intézményközi testületek"
+      ],
+      "it": [
+        "Organismi interistituzionali dell'Unione europea"
+      ],
+      "lt": [
+        "Tarpinstitucinės organizacijos"
+      ],
+      "lv": [
+        "Starpiestāžu struktūras"
+      ],
+      "mt": [
+        "Korpi Interistituzzjonali ta’ l-Unjoni Ewropea"
+      ],
+      "nl": [
+        "Interinstitutionele organen van de Europese Unie"
+      ],
+      "pl": [
+        "Inne organy europejskie"
+      ],
+      "pt": [
+        "Órgãos interinstitucionais da União Europeia"
+      ],
+      "ro": [
+        "Organisme interinstituţionale"
+      ],
+      "sk": [
+        "Medziinštitucionálne orgány Európskej únie"
+      ],
+      "sl": [
+        "Medinstitucionalni organi Evropske unije"
+      ],
+      "sv": [
+        "Europeiska unionens interinstitutionella organ"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "interinstitutional bodies",
+        "institutions",
+        "eu"
+      ],
+      "cs": [
+        "interinstitucionální orgány",
+        "instituce",
+        "eu"
+      ],
+      "da": [
+        "interinstitutionelle organer",
+        "institutioner",
+        "eu"
+      ],
+      "de": [
+        "interinstitutionelle einrichtungen",
+        "Institutionen",
+        "eu"
+      ],
+      "el": [
+        "θεσμικά όργανα",
+        "ευρωπαϊκή ένωση",
+        "εε",
+        "Διοργανικές υπηρεσίες"
+      ],
+      "en": [
+        "interinstitutional bodies",
+        "institutions",
+        "eu"
+      ],
+      "es": [
+        "organismos interinstitucionales",
+        "instituciones",
+        "ue"
+      ],
+      "et": [
+        "institutsioonidevahelised asutused",
+        "euroopa liit",
+        "el"
+      ],
+      "fi": [
+        "toimielinten yhteiset elimet",
+        "toimielimet",
+        "eu"
+      ],
+      "fr": [
+        "services interinstitutionnels",
+        "institutions",
+        "eu"
+      ],
+      "ga": [
+        "comhlachtaí idirfhorasacha",
+        "forais",
+        "ae"
+      ],
+      "hr": [
+        "međuinstitucionalna tijela",
+        "institucije",
+        "eu"
+      ],
+      "hu": [
+        "intézményközi testületek",
+        "intézmények",
+        "eu"
+      ],
+      "it": [
+        "organismi interistituzionali",
+        "istituzioni",
+        "ue"
+      ],
+      "lt": [
+        "Tarpinstitucinės organizacijos",
+        "institucijos",
+        "es"
+      ],
+      "lv": [
+        "starpiestāžu struktūras",
+        "institūcijas",
+        "es"
+      ],
+      "mt": [
+        "korpi interistituzzjonali",
+        "istituzzjonijiet",
+        "eu"
+      ],
+      "nl": [
+        "interinstitutionele organen",
+        "instellingen",
+        "eu"
+      ],
+      "pl": [
+        "inne organy europejskie",
+        "instytucje",
+        "ue"
+      ],
+      "pt": [
+        "órgãos interinstitucionais",
+        "instituições",
+        "ue"
+      ],
+      "ro": [
+        "interinstitutional bodies",
+        "institutions",
+        "eu"
+      ],
+      "sk": [
+        "medziinštitucionálne orgány",
+        "inštitúcie",
+        "eú"
+      ],
+      "sl": [
+        "medinstitucionalni organi",
+        "institucije",
+        "eu"
+      ],
+      "sv": [
+        "interinstitutionella organ",
+        "institutioner",
+        "eu"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "body": {
+      "bg": [
+        "<h2>                <a href=\"http://publications.europa.eu/bg/web/about-us/who-we-are\">Служба за публикации</a>             </h2>             <p>Пълното название на този орган е Службата за публикации на Европейския съюз. Той играе ролята на издателство за институциите на ЕС, като публикува и разпространява всички официални издания на ЕС в хартиен и електронен формат.</p>             <h2>                <a href=\"http://europa.eu/epso/index_bg.htm\" lang=\"bg\">Европейска служба за подбор на персонал</a>             </h2>             <p>Европейската служба за подбор на персонал (EPSO) започна да функционира през януари 2003 г. Нейната задача е да организира конкурсни изпити за набиране на персонал за работа във всички институции на ЕС. Това е по-ефективно от организирането на отделни конкурси от страна на всяка институция. Годишният бюджет на службата в размер на около 21 млн. евро е с 11% по-малко от средствата за набиране на персонал, изразходвани от институциите на ЕС преди нейното създаване.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Европейско училище по администрация</a>             </h2>             <p>Европейското училище по администрация е създадено на 10.2.2005 г. Задачата му е да провежда обучения на служители на ЕС в специфични области. Курсовете му са отворени за служители от всички институции на ЕС и по този начин спомагат за разпространението на общи ценности, насърчават по-добро разбирателство между служителите на ЕС и постигат икономии от мащаба. Училището работи в тясно сътрудничество с отделите за обучение във всички институции, за да се избегне дублиране на усилията.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/bg/CERT-LatestNews.html\">Екип за незабавно реагиране при компютърни инциденти (CERT)</a>             </h2>             <p>Задачата на CERT е да оказва помощ при управлението на заплахи срещу компютърните системи на ЕС. Той подпомага екипи за компютърна сигурност във всички институции на Съюза и си сътрудничи със свои партньори от публичния сектор в страните от ЕС.</p>             <p>Основан на 1 юни 2011 г., CERT ще работи със статут на пилотен проект през първата година. Възможно е той да достигне пълния си работен капацитет през 2012 г. в зависимост от резултатите от оценката на пилотната фаза.</p>"
+      ],
+      "cs": [
+        "<h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Evropská správní škola </a>             </h2>             <p>Evropská správní škola byla založena dne 10. února 2005. Jejím úkolem je zajistit zaměstnancům EU vzdělávání v některých konkrétních oblastech. Jejím hlavním rysem je, že její kurzy jsou otevřeny pracovníkům všech orgánů a institucí EU a tím přispívá k šíření společných hodnot, zlepšuje porozumění mezi zaměstnanci institucí a dosahuje úspor z rozsahu. Úzce spolupracuje se vzdělávacími odděleními všech institucí, aby se zabránilo překrývání činností.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/cs/CERT-LatestNews.html\">Skupina pro reakci na počítačové hrozby (CERT)</a>             </h2>             <p>Úkolem skupiny CERT je pomáhat s řízením rizik ohrožujících počítačové systémy orgánů EU. Skupina poskytuje podporu týmům, které zajišťují bezpečnost IT v jednotlivých institucích a orgánech EU, a je v kontaktu se skupinami podobného zaměření, jež působí v rámci orgánů veřejné správy států EU.</p>             <p>Skupina CERT byla založena 1. června 2011. První, zkušební rok její činnosti bude na závěr podroben hodnocení, přičemž v závislosti na výsledcích této evaluace by skupina mohla začít plně fungovat v roce 2012.</p>             <h2>                <a href=\"http://publications.europa.eu/cs/web/about-us/who-we-are\">             Úřad pro úřední tisky           </a>             </h2>             <p>Úplný název tohoto orgánu zní Úřad pro publikace Evropské unie. Působí jako vydavatelství institucí EU, které vydává a distribuuje veškeré úřední tisky Evropské unie v papírové i v elektronické podobě.</p>             <h2>                <a href=\"http://europa.eu/epso/index_cs.htm\" lang=\"cs\">             Úřad pro výběr personálu Evropských společenství           </a>             </h2>             <p>           Úřad pro výběr personálu Evropských společenství (EPSO) zahájil svou činnost v lednu 2003. Jeho úkolem je připravovat výběrová řízení pro výběr pracovníků pro všechny orgány EU. Je to efektivnější, než kdyby si každá instituce organizovala svá vlastní náborová řízení. Roční rozpočet Úřadu pro výběr personálu Evropských společenství ve výši zhruba 21 milionů eur je o 11 % nižší, než kolik instituce EU vydávaly za nábor dříve.         </p>"
+      ],
+      "da": [
+        "<h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Den Europæiske Forvaltningsskole </a>             </h2>             <p>Den Europæiske Forvaltningsskole, som blev oprettet den 10. februar 2005, har til formål at tilbyde EU's ansatte undervisning inden for en række specialområder. Som et særligt kendetegn er Forvaltningskolens kurser åbne for alle EU-institutioners personale, hvorved den bidrager til at sprede fælles værdier, øge forståelsen blandt institutionernes personale og opnå stordriftsfordele. Den arbejder tæt sammen med samtlige institutioners uddannelsesafdelinger for at undgå enhver form for overlapning.</p>             <h2>                <a href=\"http://europa.eu/epso/index_da.htm\" lang=\"da\">             Det Europæiske Personaleudvælgelseskontor           </a>             </h2>             <p>Det Europæiske Personaleudvælgelseskontor (EPSO) trådte i kraft i januar 2003. Dets opgave er at arrangere udvælgelsesprøver med henblik på at rekruttere til alle EU-institutionerne. Det er mere effektivt, end hvis hver institution skulle arrangere sine egne udvælgelsesprøver. EPSO's årlige budget er på ca. 21 mio. euro, hvilket er 11 % mindre end det beløb, EU før brugte på ansættelser.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/da/CERT-LatestNews.html\">It-udrykningsholdet CERT</a>             </h2>             <p>It-udrykningsholdet CERT (Computer Emergency Response Team) er med til at beskytte EU-institutionernes computersystemer – og hjælper it-sikkerhedsgrupper i hver EU-institution og tilsvarende grupper i den offentlige sektor i EU-landene.</p>             <p>CERT blev oprettet den 1. juni 2011 og fungerer i det første år som et pilotprojekt. Det kan blive fuldt driftsklart i 2012, afhængigt af resultaterne af evalueringen af pilotfasen.</p>             <h2>                <a href=\"http://publications.europa.eu/da/web/about-us/who-we-are\">             Publikationskontoret           </a>             </h2>             <p>Kontorets fulde navn er Den Europæiske Unions Publikationskontor. Det er EU-institutionernes forlag, der producerer og distribuerer alle officielle publikationer fra Den Europæiske Union på papir og i digital form.</p>"
+      ],
+      "de": [
+        "<h2>                <a href=\"http://publications.europa.eu/de/web/about-us/who-we-are\">             Amt für Veröffentlichungen           </a>             </h2>             <p>Der vollständige Name dieser Einrichtung ist “Amt für Veröffentlichungen der Europäischen Union”. Es ist der Verlag für die EU-Organe, der alle amtlichen Veröffentlichungen der Europäischen Union auf Papier und in digitaler Form herstellt und vertreibt.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/de/CERT-LatestNews.html\">Computer Emergency Response Team (CERT)</a>             </h2>             <p>CERT hat die Aufgabe, Attacken auf die Computersysteme der EU-Institutionen abzuwehren, die Teams für IT-Sicherheit in den EU-Institutionen zu unterstützen und mit den CERT-Stellen des öffentlichen Sektors in den EU-Ländern zusammenzuarbeiten.</p>             <p>CERT wurde am 1. Juni 2011 für die Dauer eines Jahres als Pilotprojekt eingesetzt und kann, nach einer Bewertung der Pilotphase, im Jahr 2012 voll einsatzfähig werden.</p>             <h2>                <a href=\"http://europa.eu/epso/index_de.htm\" lang=\"de\">             Europäisches Amt für Personalauswahl           </a>             </h2>             <p>Das Europäische Amt für Personalauswahl (EPSO) hat seine Arbeit im Januar 2003 aufgenommen. Es führt Auswahlverfahren zur Einstellung neuer Bediensteter für alle EU-Organe durch. Dies ist effizienter, als wenn jedes Organ eigene Auswahlverfahren durchführen müsste. EPSO verfügt über ein Jahresbudget von rund 21 Mio. €, d.h. 11 % weniger als die früheren Ausgaben aller Einrichtungen für die Einstellung neuer Mitarbeiter.</p>             <h2>                <a href=\"http://europa.eu/eas/index_de.htm\" lang=\"de\">             Europäische Verwaltungsakademie           </a>             </h2>             <p>Die Europäische Verwaltungsakademie wurde am 10. Februar 2005 gegründet und hat den Auftrag, dem EU-Personal Fortbildungsmaßnahmen auf bestimmten Gebieten anzubieten. Ein zentrales Merkmal der Akademie ist, dass sie dem Personal aller EU-Organe offen steht und somit zur Verbreitung gemeinsamer Werte beiträgt, ein besseres gegenseitiges Verständnis fördert und Größenvorteile ermöglicht. Die Akademie arbeitet eng mit den Fortbildungsreferaten aller Organe zusammen, um Doppelarbeit zu vermeiden.</p>"
+      ],
+      "el": [
+        "<h2>                <a href=\"http://publications.europa.eu/el/web/about-us/who-we-are\">             Η Υπηρεσία Εκδόσεων           </a>             </h2>             <p>Η πλήρης ονομασία του εν λόγω οργανισμού είναι Υπηρεσία Εκδόσεων της Ευρωπαϊκής Ένωσης. Ασκεί καθήκοντα εκδοτικού οίκου για τα όργανα της Ένωσης παράγοντας και διανέμοντας όλες τις επίσημες δημοσιεύσεις της Ευρωπαϊκής Ένωσης, σε χαρτί και σε ψηφιακή μορφή.</p>             <h2>                <a href=\"http://europa.eu/epso/index_el.htm\" lang=\"el\">             Η Ευρωπαϊκή Υπηρεσία Επιλογής Προσωπικού           </a>             </h2>             <p>Η Ευρωπαϊκή Υπηρεσία Επιλογής Προσωπικού (ΕΥΕΠ) άρχισε να λειτουργεί τον Ιανουάριο του 2003. Έργο της είναι να διοργανώνει εξετάσεις για την πρόσληψη προσωπικού που θα εργαστεί σε όλα τα όργανα της Ένωσης. Αυτή η διαδικασία είναι αποτελεσματικότερη από τη διοργάνωση διαγωνισμών πρόσληψης από κάθε όργανο χωριστά. Ο ετήσιος προϋπολογισμός της ΕΥΕΠ ύψους περίπου 21 εκατομμυρίων ευρώ είναι κατά 11% χαμηλότερος από τα ποσά που τα όργανα της Ένωσης δαπανούσαν παλαιότερα για την πρόσληψη υπαλλήλων.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Ευρωπαϊκή Σχολή Δημόσιας Διοίκησης </a>             </h2>             <p>Η Ευρωπαϊκή Σχολή Δημόσιας Διοίκησης άρχισε να λειτουργεί στις 10 Φεβρουαρίου 2005. Αποστολή της είναι η παροχή κατάρτισης σε μέλη του προσωπικού της ΕΕ επί μιας σειράς εξειδικευμένων θεμάτων. Κύριο γνώρισμά της είναι ότι στα μαθήματα που δίδονται σε αυτήν μπορεί να συμμετέχει το προσωπικό όλων των θεσμικών οργάνων της ΕΕ, πράγμα που συντελεί στη διάδοση κοινών αξιών, στην προώθηση της καλύτερης κατανόησης μεταξύ των υπαλλήλων των οργάνων και στην επίτευξη οικονομιών κλίμακας. Η Σχολή συνεργάζεται στενά με τις υπηρεσίες κατάρτισης όλων των θεσμικών οργάνων, προκειμένου να αποφεύγεται οποιαδήποτε αλληλεπικάλυψη κατά την εκπλήρωση της αποστολής τους.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/el/CERT-LatestNews.html\">Ομάδα αντιμετώπισης έκτακτων αναγκών στην πληροφορική (CERT)</a>             </h2>             <p>Αποστολή της CERT είναι να συμβάλλει στη διαχείριση των απειλών κατά των συστημάτων πληροφορικής των οργάνων της ΕΕ, συνεργαζόμενη, αφενός, με τις ομάδες ασφάλειας ΤΠ κάθε οργάνου της ΕΕ και, αφετέρου, με αντίστοιχους δημόσιους φορείς στις χώρες της ΕΕ.</p>             <p>Η CERT συστήθηκε την 1η Ιουνίου 2011 και θα λειτουργεί πειραματικά για τον πρώτο χρόνο. Από τα αποτελέσματα της πειραματικής της λειτουργίας θα κριθεί αν θα τεθεί σε πλήρη λειτουργία το 2012.</p>"
+      ],
+      "en": [
+        "<h2>                <a href=\"https://cert.europa.eu/cert/filteredition/en/CERT-LatestNews.html\">Computer Emergency Response Team (CERT)</a>             </h2>             <p>CERT's remit is to help manage threats to EU institutions' computer systems – supporting IT security teams in each EU Institution and liaising with public-sector CERT counterparts in EU countries.</p>             <p>Set up on 1 June 2011, CERT will operate as a pilot project for its first year, and could eventually become fully operational in 2012, depending on the assessment of the pilot phase.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">             European School of Administration           </a>             </h2>             <p>The European School of Administration was set up on 10 February 2005. Its task is to provide training in specific areas for members of EU staff. Its courses are open to staff of all the EU institutions, thereby helping spread common values, promoting better understanding among EU staff and achieving economies of scale. It works in close cooperation with the training departments of all the institutions to avoid any duplication of effort.</p>             <h2>                <a href=\"http://europa.eu/epso/index_en.htm\" lang=\"en\">             European Personnel Selection Office           </a>             </h2>             <p>The European Personnel Selection Office (EPSO) became operational in January 2003. Its task is to set competitive examinations for recruiting staff to work in all the EU institutions. This is more efficient than having each institution organise its own recruitment competitions. EPSO’s annual budget of roughly €21 million is 11% less than what the EU institutions used to spend on recruitment.</p>             <h2>                <a href=\"http://publications.europa.eu/en/web/about-us/who-we-are\">             Publications Office           </a>             </h2>             <p>The full name of this body is the Publications Office of the European Union. It acts as the publishing house for the EU institutions, producing and distributing all official European Union publications, on paper and in digital form.</p>"
+      ],
+      "es": [
+        "<h2>                <a href=\"https://cert.europa.eu/cert/filteredition/es/CERT-LatestNews.html\">Equipo de Respuesta para Emergencias Informáticas (CERT)</a>             </h2>             <p>Su cometido es contribuir a la gestión de las amenazas a los sistemas informáticos de las instituciones europeas, apoyando a los equipos de seguridad informática de cada institución de la UE y manteniéndose en contacto con las entidades correspondientes del sector público de los países miembros.</p>             <p>Creado el 1 de junio de 2011, el CERT tendrá en su primer año carácter de proyecto piloto y, en función de la evaluación de esta fase, podría pasar a ser plenamente operativo en 2012.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Escuela Europea de Administración </a>             </h2>             <p>La Escuela Europea de Administración se fundó el 10 de febrero de 2005. Su misión es ofrecer formación en determinadas áreas concretas para el personal de la UE. Su principal característica es que a sus cursos puede acceder el personal de todas las instituciones de la UE, contribuyendo así a la difusión de valores comunes, fomentando un mejor entendimiento entre el personal de las instituciones y logrando economías de escala. Funciona en estrecha colaboración con los departamentos de formación de todas las instituciones para evitar la duplicación de esfuerzos.</p>             <h2>                <a href=\"http://publications.europa.eu/es/web/about-us/who-we-are\">             Oficina de Publicaciones           </a>             </h2>             <p>El nombre completo de este organismo es Oficina de Publicaciones de la Unión Europea. Actúa como editorial de las instituciones de la UE, elaborando y distribuyendo todas las publicaciones oficiales de la Unión Europea, en papel y en soporte digital.</p>             <h2>                <a href=\"http://europa.eu/epso/index_es.htm\" lang=\"es\">             Oficina Europea de Selección de Personal           </a>             </h2>             <p>La Oficina de Selección de Personal de las Comunidades Europeas (OSPC) comenzó a funcionar en enero de 2003. Su función es preparar los concursos y oposiciones destinados a la selección y contratación del personal que trabajará en todas las instituciones de la Unión Europea. Esto es más eficaz que la opción de que cada institución organice sus propios procesos de contratación de personal. La Oficina tiene un presupuesto anual de unos 21 millones de euros, lo que representa un 11% menos que el importe que las instituciones gastaban en selección de personal.</p>"
+      ],
+      "et": [
+        "<h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Euroopa halduskool </a>             </h2>             <p>Euroopa haldusjuhtimise kool asutati 10. veebruaril 2005. Kooli ülesanne on korraldada ELi töötajate koolitust teatavates konkreetsetes valdkondades. Eriti oluline on see, et kursused on avatud kõikide ELi institutsioonide töötajatele, mis aitab kaasa ühiste väärtuste levimisele, töötajate ja institutsioonide vahelisele paremale mõistmisele ning tagab ka mastaabisäästu. Tarbetu kattumise vältimiseks teeb kool tihedat koostööd kõikide institutsioonide koolitusosakondadega.</p>             <h2>                <a href=\"http://publications.europa.eu/et/web/about-us/who-we-are\">             Euroopa Liidu Väljaannete Talitus           </a>             </h2>             <p>Euroopa Ühenduste Ametlike Väljaannete Talitus on ELi institutsioonide kirjastuse ametlik nimi.Talitus avaldab kõik Euroopa Liidu väljaanded nii paberil kui elektrooniliselt ning tegeleb nende levitamisega.</p>             <h2>                <a href=\"http://europa.eu/epso/index_et.htm\" lang=\"et\">             Euroopa Personalivaliku Amet           </a>             </h2>             <p>Euroopa Personalivaliku Amet alustas tegevust jaanuaris 2003.Ameti ülesanne on valmistada ette avalikke konkursse, et leida töötajaid kõikidesse Euroopa Liidu institutsioonidesse.Praegu korraldab ELi ametnike värbamist EPSO, mis on tunduvalt tõhusam võrreldes olukorraga, kus iga üksik institutsioon korraldaks oma konkursid ise.Ameti aastaeelarve on ligikaudu 21 miljonit eurot, mis on 11% vähem kui institutsioonide varasemad kulutused kokku.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/et/CERT-LatestNews.html\">Infoturbeintsidentidega tegelev rühm (CERT)</a>             </h2>             <p>Infoturbeintsidentidega tegeleva rühma (CERT) eesmärgiks on hallata ohtusid ELi institutsioonide arvutisüsteemidele, toetades infotehnoloogia turvalisusega tegelevaid üksuseid kõigis ELi institutsioonides ning tehes koostööd CERTi avaliku sektori osapooltega ELi liikmesriikides.</p>             <p>Kõnealune rühm loodi 1. juunil 2011 ning esimese aasta jooksul toimib see katseprojektina. Infoturbeintsidentidega tegelev rühm võiks saada täielikult toimivaks 2012. aastal, sõltuvalt katseetapi hindamisest.</p>"
+      ],
+      "fi": [
+        "<h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Euroopan yhteisöjen henkilöstökoulutuskeskus </a>             </h2>             <p>Euroopan yhteisöjen henkilöstökoulutuskeskus perustettiin 10. helmikuuta 2005. Sen tehtävänä on tarjota koulutusta EU:n henkilöstöön kuuluville. Koulutuskeskuksen järjestämät kurssit ovat avoimia kaikkien EU:n toimielinten henkilöstölle. Tällä tavoin voidaan edistää yhteisten arvojen levittämistä, auttaa eri toimielinten henkilöstöä ymmärtämään toistensa näkemyksiä ja saavuttaa mittakaavaetuja. Keskus tekee tiivistä yhteistyötä kaikkien toimielinten koulutusosastojen kanssa päällekkäisen työn välttämiseksi.</p>             <h2>                <a href=\"http://europa.eu/epso/index_fi.htm\" lang=\"fi\">             Euroopan yhteisöjen henkilöstövalintatoimisto           </a>             </h2>             <p>Euroopan yhteisöjen henkilöstövalintatoimisto (EPSO) aloitti toimintansa tammikuussa 2003. Sen tehtävänä on järjestää kilpailuja, joiden perusteella palkataan henkilöstöä kaikkiin EU:n toimielimiin. Tämä on tehokkaampaa kuin se, että jokainen toimielin järjestäisi omat kilpailunsa. EPSO:n vuotuinen talousarvio on noin 21 miljoonaa euroa, joka on 11 prosenttia vähemmän kuin kaikissa toimielimissä henkilöstön palkkaukseen aiemmin käytetty määrä.</p>             <h2>                <a href=\"http://publications.europa.eu/fi/web/about-us/who-we-are\">             Julkaisutoimisto           </a>             </h2>             <p>Julkaisutoimiston virallinen nimi on Euroopan unionin julkaisutoimisto. Se on EU:n toimielinten julkaisujen kustantaja, ja se tuottaa ja jakelee kaikki Euroopan unionin viralliset julkaisut (niin paperi- kuin sähköiset julkaisut).</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/fi/CERT-LatestNews.html\">Tietotekniikan kriisiryhmä</a>             </h2>             <p>EU:n toimielinten tietotekniikan kriisiryhmän (CERT) tehtävänä on käsitellä toimielinten tietotekniikkajärjestelmiin kohdistuvia uhkia. Se tukee kunkin toimielimen tietoturvayksiköiden työskentelyä ja pitää yhteyttä myös eri EU-maiden julkisen sektorin vastaaviin elimiin.</p>             <p>1.6.2011 perustettu kriisiryhmä toimii aluksi kokeiluhankkeena. Ensimmäisen toimintavuoden jälkeen toteutetaan arviointi, ja täysi toimintavalmius on tarkoitus saavuttaa vuonna 2012.</p>"
+      ],
+      "fr": [
+        "<h2>                <a href=\"http://europa.eu/eas/index_fr.htm\" lang=\"fr\">             Ecole européenne d’administration           </a>             </h2>             <p>L'École européenne d'administration a été établie le 10 février 2005. Sa mission consiste à organiser des formations pour le personnel de l'UE dans certains domaines spécifiques. La caractéristique principale de ces cours est qu'ils sont ouverts au personnel de toutes les institutions de l'UE, ce qui contribue à la diffusion de valeurs communes, favorise la compréhension entre le personnel des différentes institutions et permet de réaliser des économies d'échelle. L'EEA travaille en étroite collaboration avec les services des institutions chargés de la formation, afin d'éviter les activités redondantes.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/fr/CERT-LatestNews.html\">Équipe d'intervention en cas d'urgence informatique (CERT)</a>             </h2>             <p>L'équipe CERT a pour mission d'aider à gérer les menaces pesant sur les systèmes informatiques des institutions européennes. Elle soutient les services chargés de la sécurité informatique dans chacune de ces institutions et collabore avec ses homologues CERT dans les services publics des États membres de l'UE.</p>             <p>Établie le 1er juin 2011, l'équipe d'intervention en cas d'urgence informatique fonctionnera comme un projet pilote pendant sa première année d'existence. Elle pourrait devenir pleinement opérationnelle en 2012, selon les résultats de l'évaluation de la phase pilote.</p>             <h2>                <a href=\"http://publications.europa.eu/fr/web/about-us/who-we-are\">             Office des publications           </a>             </h2>             <p>Ayant pour dénomination complète «Office des publications de l’Union européenne», cet organe a pour mission d’assurer les publications des institutions européennes dont il est l’éditeur officiel. À ce titre il produit et distribue toutes les publications officielles de l’Union européenne, tant sur support papier que sous forme numérique.</p>             <h2>                <a href=\"http://europa.eu/epso/index_fr.htm\" lang=\"fr\"> Office européen de sélection du personnel </a>             </h2>             <p>L’office de sélection du personnel des Communautés européennes (OESP) est devenu opérationnel en janvier 2003. Son rôle consiste à organiser les concours de recrutement de personnel pour l’ensemble les institutions de l’Union. Cette centralisation est plus efficace que de laisser à chaque institution le soin d’organiser ses propres concours. Le budget annuel de l’EPSO, quelque 21 millions d’euros, est inférieur de 11 % à celui dépensé auparavant par les institutions de l’UE à des fins de recrutement.</p>"
+      ],
+      "ga": [
+        "<h2>                <a href=\"https://cert.europa.eu/cert/filteredition/ga/CERT-LatestNews.html\">An Fhoireann Fhreagartha um Éigeandáil Ríomhairí (CERT)</a>             </h2>             <p>Sainchúram CERT, sin bagairtí ar chórais ríomhairí na n-institiúidí AE a bhainistiú – iad ag tacú le foirne slándála TF i ngach institiúid AE agus i gcomhar lena macasamhla CERT san earnáil phoiblí i dtíortha an AE.</p>             <p>Arna bunú di an 1 Meitheamh 2011, is mar thionscadal píolótach a oibreoidh CERT sa chéad bhliain, agus meastar go mbeidh sí oibríochtúil go hiomlán in 2012, d'éis an chéim phíolótach a mheas.</p>             <h2>                <a href=\"http://europa.eu/epso/index_ga.htm\" lang=\"ga\">             An Oifig Eorpach um Roghnú Foirne           </a>             </h2>             <p>D'éirigh an Oifig Eorpach um Roghnú Foirne oibríoch in Eanáir 2003. Tá sé mar chuspóir aige scrúduithe iomaíocha a shocrú d'fhonn foireann a earcú d'fhorais an AE. Is éifeachtaí é sin ná gach foras a bheith ag eagrú a chuid comórtas iomaíoch féin. €21m atá mar bhuiséad bliantúil ag EPSO agus is lú de 11% é sin ná an méid airgid a chaitheadh forais an AE ar earcaíocht.</p>             <h2>                <a href=\"http://publications.europa.eu/ga/web/about-us/who-we-are\">             Oifig na bhFoilseachán           </a>             </h2>             <p>Oifig Foilseachán an Aontais Eorpaigh is ainm go hiomlán don chomhlacht seo. Teach foilseacháin d'fhorais an AE is ea é, ag foilsiú agus ag dáileadh foilseachán uile an Aontas Eorpaigh, ar pháipéar agus go digiteach.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Scoil Riaracháin na hEorpa </a>             </h2>             <p>Bunaíodh Scoil Riaracháin na hEorpa an 10 Feabhra 2005. Tá sé mar chuspóir aige cúrsaí oiliúna i sainréimsí a eagrú d'fhoireann an AE. Tig le comhalta as foras ar bith an AE cur isteach ar a cúrsaí, agus cuidíonn sé seo le scaipeadh comhluachanna, le tuiscint níos fearr i measc na foirne AE agus le barainneacht mhórscálach a bhaint amach. Oibríonn sé go dlúth le rannóga oiliúna na bhforas go léir d'fhonn aon dúbailt iarrachta a sheachaint.</p>"
+      ],
+      "hr": [
+        "<h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Europska upravna škola </a>             </h2>             <p>Europska upravna škola (EAS) osnovana je 10. veljače 2005. Njezina je zadaća osoblju EU-a pružiti izobrazbu u određenim posebnim područjima. Tečajevi koje nudi otvoreni su osoblju svih institucija EU-a, čime se pridonosi širenju zajedničkih vrijednosti, promicanju boljega razumijevanja među osobljem EU-a te ostvarivanju ekonomije razmjera. Europska upravna škola tijesno surađuje s odjelima za izobrazbu u svim institucijama da bi se izbjeglo svako udvostručavanje napora.</p>             <h2>                <a href=\"http://europa.eu/epso/index_hr.htm\" lang=\"hr\">Europski ured za odabir osoblja</a>             </h2>             <p>Europski ured za odabir osoblja (EPSO) počeo je djelovati u siječnju 2003. Zadaća mu je organizirati konkurentne natječaje za odabir osoblja koje će raditi u svim institucijama EU-a. Takav je pristup učinkovitiji od zasebnoga organiziranja natječaja za zapošljavanje u svakoj instituciji. EPSO-ov godišnji proračun iznosi otprilike 21 milijun eura, što je 11 % manje od iznosa koji su institucije EU-a prije trošile na odabir osoblja.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/hr/CERT-LatestNews.html\">Tim za hitni odgovor na računalne ugroze (CERT)</a>             </h2>             <p>CERT je nadležan za pružanje pomoći pri upravljanju prijetnjama računalnim sustavima u institucijama EU-a. CERT pruža podršku timovima za računalnu sigurnost u svim institucijama EU-a te surađuje s ustanovama istoga profila u javnom sektoru država članica EU-a.</p>             <p>CERT je osnovan 1. lipnja 2011. i tijekom prve godine svoga postojanja funkcionirat će kao pilot-projekt. Ovisno o rezultatima vrednovanja pilot-faze, tijekom 2012. mogao bi postati potpuno operativan.</p>             <h2>                <a href=\"http://publications.europa.eu/hr/web/about-us/who-we-are\">             Ured za publikacije           </a>             </h2>             <p>Puni naziv toga tijela jest Ured za publikacije Europske unije. Ured za publikacije djeluje kao izdavačka kuća institucija EU-a te u tome svojstvu izrađuje i distribuira sve službene publikacije Europske unije u papirnatome i digitalnome obliku.</p>"
+      ],
+      "hu": [
+        "<h2>                <a href=\"http://publications.europa.eu/hu/web/about-us/who-we-are\">             A Kiadványok Hivatala           </a>             </h2>             <p>E szerv teljes neve Európai Unió Kiadóhivatala. Az EU intézmények kiadójaként működik, alkotja és terjeszti az Európai valamennyi hivatalos kiadványát papíron vagy digitális formában.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/hu/CERT-LatestNews.html\">A számítógépes vészhelyzeteket elhárító csoport (CERT)</a>             </h2>             <p>A CERT feladata az, hogy segítsen elhárítani az Európai Unió intézményeinek számítógépes rendszereit érintő fenyegetéseket. A CERT támogatja az EU-intézmények számítástechnikai biztonsági csoportjainak munkáját, és szoros kapcsolatot tart fenn a tagállamok közszférájában hasonló feladatokat ellátó szervekkel.</p>             <p>A 2011. június 1-jén létrehozott csoport az első évben kísérleti projektként funkcionál, a kísérleti szakasz értékelésének eredményétől függően azonban 2012-ben már akár teljes kapacitással is működhet.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Európai Közigazgatási Iskola </a>             </h2>             <p>Az Európai Közigazgatási Iskolát 2005. február 10-én hozták létre. Feladata, hogy biztosítsaaz EU-intézmények személyzeti állománya képzését  bizonyos szakterületeken.Legfontosabb jellemzője, hogy az általa biztosított tanfolyamok nyitva állnak valamennyi EU-intézmény személyzeti állománya előtt, ezáltal az iskola hozzájárul a közös értékek terjesztéséhez, elősegíti a jobb megértést  az intézmények munkatársai körében, és lehetővé teszi a méretgazdaságosság szempontjainak érvényesítését is. Az iskola szorosan együttműködik valamennyi intézmény képzési részlegével annak érdekében, hogy elkerüljék az esetleges átfedéseket.</p>             <h2>                <a href=\"http://europa.eu/epso/index_hu.htm\" lang=\"hu\">             Európai Személyzeti Felvételi Hivatal           </a>             </h2>             <p>Az Európai Közösségek Személyzeti Felvételi Hivatala (EPSO) 2003 januárjában kezdte meg működését. azzal a feladattal, hogy versenyviszgákat szevezzen az uniós intézmények álláshelyeinek betöltésére. Ez hatékonyabb, mint ha minden egyes intézmény külön-külön szervezné meg saját felvételi vizsgáit. Az EPSO éves költségvetése mintegy 21 millió euro, ami 11%-kal kevesebb, mint amit az intézmények régebben a munkafelvételre fordítottak.</p>"
+      ],
+      "it": [
+        "<h2>                <a href=\"https://cert.europa.eu/cert/filteredition/it/CERT-LatestNews.html\">Gruppo di pronto intervento informatico (CERT)</a>             </h2>             <p>Il CERT contribuisce a gestire le minacce rivolte contro i sistemi informatici delle istituzioni dell'UE, fornendo assistenza alle unità responsabili della sicurezza informatica in ogni istituzione dell'UE e instaurando contatti con le controparti del settore pubblico nei paesi membri.</p>             <p>Istituito il 1° giugno 2011, nel primo anno di attività il CERT sarà un progetto pilota che, sulla base dei risultati ottenuti in questa fase iniziale, potrebbe diventare pienamente operativo nel 2012.</p>             <h2>                <a href=\"http://publications.europa.eu/it/web/about-us/who-we-are\">             L'Ufficio delle pubblicazioni           </a>             </h2>             <p>La denominazione completa di questo organismo è Ufficio delle pubblicazioni dell’Unione europea. L’Ufficio opera in qualità di casa editrice delle istituzioni comunitarie e provvede alla realizzazione e distribuzione di tutte le pubblicazioni ufficiali dell’Unione, in formato sia cartaceo che digitale.</p>             <h2>                <a href=\"http://europa.eu/epso/index_it.htm\" lang=\"it\">             L'Ufficio europeo di selezione del personale           </a>             </h2>             <p>L’Ufficio europeo di selezione del personale (EPSO) è diventato operativo nel gennaio 2003. Suo compito è organizzare concorsi finalizzati all’assunzione di personale in tutte le istituzioni dell’UE. Questo sistema risulta più efficiente rispetto all’organizzazione autonoma dei propri concorsi di assunzione. Il bilancio annuale dell’EPSO, infatti, è pari a circa 21 milioni di euro, inferiore dell’11% rispetto alla spesa che le istituzioni erano solite destinare alle assunzioni.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Scuola europea di amministrazione </a>             </h2>             <p>La Scuola europea di amministrazione è stata istituita il 10 febbraio 2005. Il suo compito consiste nell'offrire al personale dell'UE una formazione in alcuni settori specifici. La caratteristica principale dell'EAS risiede nel fatto che i corsi sono aperti a tutto il personale delle istituzioni dell'UE; in tal modo la Scuola contribuisce alla diffusione di valori comuni, alla promozione di una maggiore comprensione tra il personale delle istituzioni e alla realizzazione di economie di scala. L'EAS opera in stretta collaborazione con i servizi di formazione di tutte le istituzioni al fine di evitare inutili duplicazioni.</p>"
+      ],
+      "lt": [
+        "<h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Europos administravimo mokykla</a>             </h2>             <p>Europos administravimo mokykla buvo įkurta 2005 m. vasario 10 d. Jos užduotis – ES institucijų darbuotojams rengti mokymus tam tikrose konkrečiose srityse. Labai svarbu, kad mokyklos rengiami kursai yra atviri visų ES institucijų darbuotojams, nes tokiu būdu skleidžiamos bendrosios vertybės, skatinamas geresnis institucijų darbuotojų tarpusavio supratimas ir siekiama masto ekonomijos. Norėdama išvengti pastangų dubliavimosi, mokykla glaudžiai bendradarbiauja su visų institucijų mokymo departamentais.</p>             <h2>                <a href=\"http://europa.eu/epso/index_lt.htm\" lang=\"lt\">             Europos personalo atrankos tarnyba           </a>             </h2>             <p>Europos personalo atrankos tarnyba (EPAT, angl. EPSO) pradėjo veikti 2003 m. sausio mėn. Tarnybos uždavinys – nustatyti visų ES institucijų darbuotojų įdarbinimo konkurso egzaminus. Tai veiksmingiau negu rengti įdarbinimo konkursus kiekvienai institucijai atskirai. EPAT metinis biudžetas apytiksliai sudaro 21 mln. EUR – 11 % mažiau negu ankstesnės ES institucijų įdarbinimo išlaidos.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/lt/CERT-LatestNews.html\">             Kompiuterinių incidentų tyrimo tarnyba (CERT)           </a>             </h2>             <p>Kompiuterinių incidentų tyrimo tarnybos (CERT) uždavinys – padėti valdyti ES institucijų kompiuterinėms sistemoms gresiančius pavojus teikiant paramą visų ES institucijų IT saugumo tarnyboms ir bendradarbiaujant su atitinkamais ES šalių viešojo sektoriaus CERT partneriais.</p>             <p>CERT įsteigta 2011 m. birželio 1 d. Pirmaisiais metais jos veikla bus bandomoji. Jei bandomojo etapo veiklos vertinimo rezultatai bus teigiami, 2012 m. ji galės pradėti dirbti visu pajėgumu.</p>             <h2>                <a href=\"http://publications.europa.eu/lt/web/about-us/who-we-are\">             Leidinių biuras           </a>             </h2>             <p>Visas šios įstaigos pavadinimas yra Europos Sąjungos leidinių biuras. Tai ES institucijų leidykla, kurioje leidžiami ir iš kurios platinami visi oficialūs Europos Sąjungos spausdintiniai ir skaitmeniniai leidiniai.</p>"
+      ],
+      "lv": [
+        "<h2>                <a href=\"https://cert.europa.eu/cert/filteredition/lv/CERT-LatestNews.html\">Datorapdraudējumu reakcijas grupa (CERT)</a>             </h2>             <p>CERT grupas uzdevums ir palīdzēt novērst draudus ES iestāžu datorsistēmām. Tā atbalsta visu ES iestāžu IT drošības grupas un sadarbojas ar attiecīgajām CERT darba grupām ES dalībvalstu valsts sektorā.</p>             <p>Šī grupa ir izveidota 2011. gada 1. jūnijā, un pirmo gadu tā darbosies kā izmēģinājuma projekts. Pilntiesīgi tā varētu sākt darboties 2012. gadā pēc izmēģinājuma posma izvērtēšanas.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Eiropas Administrācijas skola </a>             </h2>             <p>Eiropas Administrācijas skolu izveidoja 2005. gada 10. februārī. Tās uzdevums ir nodrošināt ES iestāžu darbiniekiem apmācību īpašās jomās. Tās galvenā iezīme ir, ka piedāvātie kursi ir pieejami visām ES iestādēm, tādējādi izplatot kopīgās vērtības, veicinot labāku saprašanos starp iestāžu darbiniekiem un gūstot ietaupījumu uz apjoma rēķina. Lai izvairītos no darba dublēšanas, tā strādā ciešā sadarbībā ar visu iestāžu mācību nodaļām.</p>             <h2>                <a href=\"http://europa.eu/epso/index_lv.htm\" lang=\"lv\"> Eiropas Kopienu Personāla atlases birojs </a>             </h2>             <p>Eiropas Kopienu Personāla atlases birojs (EPSO) sāka darboties 2003. gada janvārī. Tā uzdevums ir sagatavot atklātus konkursus, lai izvēlētos augsti kvalificētus darbiniekus pieņemšanai darbā visās Eiropas Savienības iestādēs. Tas ir efektīvāk nekā ikviena iestāde pati organizētu personāla atlasi. Biroja gada budžets ir apmēram 21 miljons euro, kas ir par 11% mazāk nekā ES iestādes tērēja iepriekš.</p>             <h2>                <a href=\"http://publications.europa.eu/lv/web/about-us/who-we-are\">             Publikāciju birojs           </a>             </h2>             <p>Šīs iestādes pilns nosaukums ir Eiropas Savienības Publikāciju birojs. Tā ir ES iestāžu izdevniecība, kas veido un izplata visas Eiropas Savienības publikācijas papīra un elektroniskā formātā.</p>"
+      ],
+      "mt": [
+        "<h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">L-Iskola Ewropea tal-Amministrazzjoni </a>             </h2>             <p>L-Iskola Amministrattiva Ewropea twaqqfet fl-10 ta' Frar 2005. Il-missjoni tagħha hi li tipprovdi taħriġ f'ċerti oqsma speċifiċi għall-membri tal-istaff tal-UE. Il-karatteristika ewlenija tagħha hi li l-korsijiet tagħha huma miftuħa għall-istaff kollu tal-istituzzjonijiet tal-UE, u b'hekk tikkontribwixxi għat-tixrid ta' valuri komuni, il-promozzjoni ta' kooperazzjoni aħjar bejn l-istaff tal-istituzzjonijiet, u l-kisba ta' ekonomiji tal-iskala. Hija taħdem f'kooperazzjoni mill-qrib mad-dipartimenti tat-taħriġ tal-istituzzjonijiet kollha sabiex tevita kull duplikazzjoni tal-ħidma.</p>             <h2>                <a href=\"http://publications.europa.eu/mt/web/about-us/who-we-are\">             L-Uffiċċju għall-Pubblikazzjoniet           </a>             </h2>             <p>L-isem sħiħ ta’ dan il-korp hu l-Uffiċċju tal-Pubblikazzjonijiet tal-Unjoni Ewropea. Dan jaġġixxi bħala d-dar tal-pubblikazzjoni għall-istituzzjonijiet tal-UE, fejn jipproduċu u jqassmu l-pubblikazzjonijiet uffiċjali kollha ta’ l-Unjoni Ewropea, stampati jew f’forma diġitali.</p>             <h2>                <a href=\"http://europa.eu/epso/index_mt.htm\" lang=\"mt\">             L-Uffiċċju Ewropew għas-Selezzjoni tal-Persunal           </a>             </h2>             <p>L-Uffiċċju Ewropew għas-Selezzjoni tal-Persunal (EPSO) beda jopera f’Jannar ta’ l-2003. Ix-xogħol tiegħu hu li jfassal eżamijiet kompetittivi għar-reklutaġġ ta’ staff biex jaħdem fl-istituzzjonijet kollha ta’ l-UE. Dan huwa aktar effiċjenti milli jekk kull istituzzjoni torganizza l-kompetizzjonijet ta’ reklutaġġ tagħha stess. Il-baġit annwali ta’ l-EPSO ta’ madwar €21 miljun hu 11% anqas minn dak illi l-istituzzjonijiet ta’ l-UE kienu jonfqu qabel fuq ir-reklutaġġ.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/mt/CERT-LatestNews.html\">Skwadra ta' rispons f'emerġenza relatata mal-kompjuters (CERT)</a>             </h2>             <p>L-iskop tas-CERT hu li tgħin fil-ġestjoni  tat-theddid għas-sistemi tal-kompjuter tal-istituzzjonijiet tal-UE – billi tassisti lit-timijiet tas-sigurtà tal-IT f'kull istituzzjoni tal-UE u billi tikkoordina mal-kontrapartijiet tas-CERT fis-settur pubbliku fil-pajjiżi tal-UE.</p>             <p>Imwaqfa fl-1 ta' Ġunju 2011, CERT għandha topera bħala proġett pilota għall-ewwel sena tagħha, u tista' eventwalment tkun operazzjonali b'mod sħiħ fl-2012, dan jiddependi mill-valutazzjoni tal-fażi ta' prova tagħha.</p>"
+      ],
+      "nl": [
+        "<h2>                <a href=\"https://cert.europa.eu/cert/filteredition/nl/CERT-LatestNews.html\">Computercalamiteitenteam</a>             </h2>             <p>Het Computercalamiteitenteam (Computer Emergency Response Team) helpt bedreigingen voor de computersystemen van de EU-instellingen binnen de perken te houden. Daartoe werkt het samen met IT-beveiligingsteams van de EU-instellingen en van de EU-landen.</p>             <p>Het CERT is op 1 juni 2011 opgericht, voorlopig op proef voor een jaar. In 2012 zal op basis van een evaluatie worden beslist of het team een permanent karakter krijgt.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Europese Bestuursschool </a>             </h2>             <p>De Europese Bestuursschool werd opgericht op 10 februari 2005, met als taak het organiseren van opleidingsactiviteiten op bepaalde specifieke gebieden ten behoeve van de EU-personeelsleden. Vooral belangrijk daarbij is dat de cursussen toegankelijk zijn voor het personeel van alle EU-instellingen, waardoor de verspreiding van gemeenschappelijke waarden wordt versterkt, een betere verstandhouding tussen de personeelsleden van de instellingen wordt bevorderd, en een efficiënter gebruik van de middelen wordt verkregen. De school werkt nauw samen met de opleidingsdiensten van alle instellingen om een overlapping van het aanbod te vermijden.</p>             <h2>                <a href=\"http://europa.eu/epso/index_nl.htm\" lang=\"nl\">             Europees Bureau voor personeelsselectie           </a>             </h2>             <p>Het Europees Bureau voor personeelsselectie (EPSO) ging in januari 2003 van start. De taak van het Bureau bestaat erin vergelijkende onderzoeken te organiseren met het oog op de selectie van personeelsleden ten behoeve van alle EU-instellingen. Dit is efficiënter dan wanneer iedere instelling eigen vergelijkende onderzoeken zou organiseren. EPSO heeft een jaarbegroting van circa 21 miljoen euro, dit is 11% minder dan het bedrag dat voorheen door alle EU-instellingen samen werd uitgegeven.</p>             <h2>                <a href=\"http://publications.europa.eu/nl/web/about-us/who-we-are\">             Het Publicatiebureau           </a>             </h2>             <p>De volledige naam van dit orgaan is het Bureau voor publicaties van de Europese Unie. Het is de uitgever van de Europese instellingen en zorgt voor de productie en verspreiding van alle officiële publicaties van de Europese Unie, op papier en in elektronische vorm.</p>"
+      ],
+      "pl": [
+        "<h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Europejska Szkoła Administracji </a>             </h2>             <p>Europejska Szkoła Administracji została utworzona w dniu 10 lutego 2005 r. Do zadań szkoły należy zapewnianie pracownikom UE szkoleń w określonych dziedzinach. Podstawową charakterystyką szkoły jest to, że organizowane przez nią kursy są otwarte dla pracowników wszystkich instytucji UE, co przyczynia się do upowszechniania wspólnych wartości, propagowania lepszego zrozumienia wśród pracowników instytucji oraz osiągania efektu skali. Szkoła ściśle współpracuje z departamentami szkoleniowymi wszystkich instytucji, by dzięki temu uniknąć powielania wysiłków.</p>             <h2>                <a href=\"http://europa.eu/epso/index_pl.htm\" lang=\"pl\">             Europejski Urząd Doboru Kadr           </a>             </h2>             <p>Europejski Urząd Doboru Kadr zajmuje się rekrutacją dla potrzeb instytucji i innych jednostek UE. Jego zadaniem jest rozpisywanie i prowadzenie konkursowych egzaminów dla kandydatów na pracowników wszystkich instytucji unijnych. Rekrutacja przebiega dzięki niemu sprawniej, niż gdyby każda z instytucji prowadziła osobne konkursy. Roczny budżet EPSO sięga 21 mln euro – to o 11% mniej, aniżeli wynosiły unijne koszty rekrutacji przed jego powołaniem.</p>             <h2>                <a href=\"http://publications.europa.eu/pl/web/about-us/who-we-are\">             Urząd Publikacji (OP)           </a>             </h2>             <p>Pełna nazwa: Urząd Publikacji Unii Europejskiej. Działa on w charakterze wydawnictwa instytucji unijnych, wydając i rozpowszechniając wszelkie oficjalne publikacje – czy to drukiem, czy w formie elektronicznej.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/pl/CERT-LatestNews.html\">Zespół reagowania na incydenty komputerowe (CERT)</a>             </h2>             <p>Zadaniem zespołu jest wspomaganie ochrony systemów informatycznych instytucji UE przed zagrożeniami. W tym celu CERT wspiera służby poszczególnych instytucji UE odpowiedzialne za bezpieczeństwo informatyczne, a także współpracuje ze swoimi odpowiednikami z sektora publicznego w państwach członkowskich.</p>             <p>CERT ustanowiony został 1 czerwca 2011 r. Przez pierwszy rok funkcjonować będzie jako projekt pilotażowy – pełną operacyjność osiągnie prawdopodobnie w 2012 r., będzie to jednak zależeć od wyników oceny działalności na wstępnym etapie.</p>"
+      ],
+      "pt": [
+        "<h2>                <a href=\"https://cert.europa.eu/cert/filteredition/pt/CERT-LatestNews.html\">Equipa de resposta a emergências informáticas (Computer Emergency Response Team - CERT)</a>             </h2>             <p>Compete à equipa CERT ajudar a gerir as ameaças aos sistemas informáticos das instituições da UE, apoiando as equipas de segurança informática de cada instituição da UE e assegurando a ligação com os seus homólogos do sector público nos países da UE.</p>             <p>Criada a 1 de Junho de 2011, a equipa CERT começará por ser um projecto-piloto durante um ano, podendo ficar plenamente operacional em 2012, em função dos resultados da avaliação desta primeira fase.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Escola Europeia de Administração </a>             </h2>             <p>A Escola Europeia de Administração foi criada em 10 de Fevereiro de 2005 para oferecer formação profissional em determinadas áreas específicas aos funcionários comunitários. Os cursos estão abertos aos funcionários de todas as instituições da União Europeia, contribuindo assim para a divulgação de valores comuns, a promoção de uma melhor compreensão entre funcionários das instituições e a realização de economias de escala. A escola trabalha em estreita cooperação com os departamentos de formação de todas as instituições para evitar duplicação de esforços.</p>             <h2>                <a href=\"http://publications.europa.eu/pt/web/about-us/who-we-are\">             Serviço das Publicações           </a>             </h2>             <p>A designação completa deste órgão é Serviço das Publicações da União Europeia. É a editora das instituições da UE, sendo responsável pela publicação e distribuição, em papel ou em suporte digital, de todas as publicações oficiais da União Europeia.</p>             <h2>                <a href=\"http://europa.eu/epso/index_pt.htm\" lang=\"pt\">             Serviço Europeu de Selecção do Pessoal das Comunidades Europeias           </a>             </h2>             <p>O Serviço Europeu de Selecção de Pessoal das Comunidades Europeias (EPSO) deu início às suas actividades em Janeiro de 2003. Tem por missão preparar os concursos e exames destinados a seleccionar e a contratar pessoal para todas as instituições da União Europeia, o que é mais eficaz do que a organização de concursos de recrutamento por cada instituição. O seu orçamento anual é da ordem dos 21 milhões de euros, ou seja, menos 11 % do que aquilo que as instituições da UE gastavam com o recrutamento.</p>"
+      ],
+      "ro": [
+        "<h2>                <a href=\"https://cert.europa.eu/cert/filteredition/ro/CERT-LatestNews.html\">Echipa de intervenţie în caz de urgenţă informatică (CERT)</a>             </h2>             <p>CERT contribuie la gestionarea ameninţărilor cu care se confruntă sistemele informatice ale instituţiilor UE, oferind sprijin echipelor care răspund de securitatea informatică în cadrul instituţiilor europene şi menţinând contactul cu omologii din sectorul public al statelor membre.</p>             <p>CERT s-a înfiinţat la 1 iunie 2011 şi va funcţia ca proiect-pilot în primul an de existenţă. Ar putea deveni complet operaţional în 2012, în funcţie de rezultatele evaluării fazei pilot.</p>             <h2>                <a href=\"http://europa.eu/epso/index_ro.htm\" lang=\"ro\">             Oficiul European pentru Selecţia Personalului           </a>             </h2>             <p>Oficiul European pentru Selecţia Personalului (EPSO) a devenit operaţional în ianuarie 2003. Responsabilitatea sa este de a organiza concursuri pentru recrutarea personalului în vederea angajării în toate instituţiile UE. Această centralizare este mai eficientă decât dacă fiecare instituţie şi-ar organiza propriile concursuri. Bugetul anual al EPSO, de aproximativ 21 milioane euro, este mai mic cu 11% decât cheltuielile pe care instituţiile UE le suportau în trecut pentru recrutare.</p>             <h2>                <a href=\"http://publications.europa.eu/ro/web/about-us/who-we-are\">             Oficiul pentru Publicaţii           </a>             </h2>             <p>Denumirea completă a acestui organism este Oficiul pentru Publicaţii al Uniunii Europene. În calitatea sa de editură a instituţiilor europene, are ca misiune să producă şi să distribuie toate publicaţiile oficiale ale Uniunii Europene, atât pe suport tipărit, cât şi în format electronic.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Școala Europeană de Administrație </a>             </h2>             <p>Şcoala Europeană de Administraţie a fost înfiinţată la 10 februarie 2005. Misiunea sa este de a organiza cursuri de formare în domenii specifice pentru personalul UE. La aceste cursuri pot lua parte toţi membrii personalului care lucrează în instituţiile UE, SEA contribuind, astfel, la difuzarea valorilor comune, la promovarea unei mai bune înţelegeri între membrii personalului UE şi permiţând realizarea unor economii de scară. Ea lucrează în strânsă colaborare cu departamentele de formare din cadrul tuturor instituţiilor, pentru a evita depunerea unui efort dublu.</p>"
+      ],
+      "sk": [
+        "<h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Európska škola verejnej správy </a>             </h2>             <p>Európska škola verejnej správy bola založená 10. februára 2005. Jej úlohou je poskytovať odbornú prípravu zamestnancom európskych inštitúcií v určitých špecifických oblastiach. Ponúkané kurzy sú prístupné pre zamestnancov všetkých európskych inštitúcií, čo prispieva k rozširovaniu spoločných hodnôt, podporuje lepšie porozumenie medzi zamestnancami inštitúcií a vedie k úsporám z rozsahu. S cieľom vyhnúť sa duplicite, škola úzko spolupracuje s oddeleniami odbornej prípravy v rámci všetkých inštitúcií.</p>             <h2>                <a href=\"http://europa.eu/epso/index_sk.htm\" lang=\"sk\">             Európsky úrad pre výber pracovníkov           </a>             </h2>             <p>Európsky úrad pre výber pracovníkov (EPSO) začal fungovať v januári 2003. Jeho úlohou je vytvoriť skúšky formou verejnej súťaže pre prijímanie pracovníkov do zamestnania vo všetkých inštitúciách EÚ. Je to účinnejšie, ako keby mala každá inštitúcia organizovať svoje vlastné výberové konania. Ročný rozpočet EPSO rovnajúci sa zhruba 21 miliónom eur je o 11 % nižší ako je suma, ktorú na výber pracovníkov vynaložili inštitúcie EÚ v minulosti.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/sk/CERT-LatestNews.html\">Tím reakcie na núdzové počítačové situácie (CERT)</a>             </h2>             <p>Pracovnou náplňou tímu CERT je pomáhať riadiť hrozby pre počítačové systémy inštitúcií EÚ. Poskytuje podporu útvarom pre bezpečnosť IT každej inštitúcie a verejným orgánom členských štátov EÚ s rovnakou pôsobnosťou.</p>             <p>CERT, ktorý bol vytvorený 1. júna 2011, bude prvý rok pôsobiť v skúšobnom režime s eventuálnym nábehom na plnú prevádzkyschopnosť v roku 2012 (v závislosti od výsledkov hodnotenia skúšobnej prevádzky).</p>             <h2>                <a href=\"http://publications.europa.eu/sk/web/about-us/who-we-are\">             Úrad pre publikácie           </a>             </h2>             <p>Úplný názov tohto orgánu je Úrad pre vydávanie publikácií Európskej únie. Pôsobí ako vydavateľstvo pre inštitúcie EÚ, ktoré vydáva a distribuuje všetky úradné publikácie Európskej únie v papierovej alebo elektronickej forme.</p>"
+      ],
+      "sl": [
+        "<h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Evropska šola za upravo </a>             </h2>             <p>Evropska šola za upravo je bila ustanovljena 10. februarja 2005.Zadolžena je za organizacijo usposabljanj na nekaterih posebnih področjih za člane osebja EU. Glavna značilnost šole je, da so vsi njeni tečaji na voljo zaposlenim v vseh institucijah EU, kar pomaga širiti skupne vrednote, spodbuja boljše razumevanje med zaposlenimi v institucijah ter lajša doseganje ekonomije obsega. Šola tesno sodeluje z oddelki za usposabljanje v vseh institucijah, da se tako izogne podvajanju dela.</p>             <h2>                <a href=\"http://europa.eu/epso/index_sl.htm\" lang=\"sl\">             Evropski urad za izbor osebja           </a>             </h2>             <p>Evropski urad za izbor osebja (EPSO) je začel delovati januarja 2003. Njegova naloga je, da pripravi natečaje za zaposlovanje osebja za delo v vseh institucijah EU. To je bolj učinkovito, kot če bi vsaka institucija sama organizirala natečaj. Letni proračun Evropskega urada za izbor osebja s približno 21 milijoni EUR je 11 % manjši od zneska, ki so ga institucije EU običajno porabile za zaposlovanje.</p>             <h2>                <a href=\"https://cert.europa.eu/cert/filteredition/sl/CERT-LatestNews.html\">Skupina za odzivanje na računalniške grožnje (CERT)</a>             </h2>             <p>Skupina, ki se ukvarja z reševanjem varnostnih incidentov v računalniških sistemih evropskih institucij, podpira delo ekip za varnost informacijskih sistemov v posameznih institucijah in sodeluje s podobnimi službami javnih organov v državah članicah EU.</p>             <p>Ustanovljena je bila 1. junija 2011 in bo prvo leto delovala kot pilotni projekt. Odvisno od ocene pilotne faze naj bi predvidoma začela v celoti delovati leta 2012.</p>             <h2>                <a href=\"http://publications.europa.eu/sl/web/about-us/who-we-are\">             Urad za publikacije           </a>             </h2>             <p>Polni naziv tega organa je Urad za publikacije Evropske unije. Deluje kot založba za vse institucije EU, proizvaja in razpošilja vse uradne publikacije Evropske unije na papirju in v digitalni obliki.</p>"
+      ],
+      "sv": [
+        "<h2>                <a href=\"https://cert.europa.eu/cert/filteredition/sv/CERT-LatestNews.html\">Cert – organisation för incidenthantering</a>             </h2>             <p>Cert hjälper EU-institutionernas säkerhetsansvariga att hantera hot mot institutionernas datorsystem och samarbetar med EU-ländernas Cert-organisationer.</p>             <p>Cert bildades den 1 juni 2011 och drivs som ett pilotprojekt under ett år. Organisationen borde kunna vara i full gång under 2012, beroende på utvärderingen av pilotfasen.</p>             <h2>                <a href=\"http://europa.eu/epso/index_sv.htm\" lang=\"sv\">             Europeiska byrån för uttagningsprov för rekrytering av personal           </a>             </h2>             <p>Europeiska rekryteringsbyrån (EPSO) påbörjade sin verksamhet i januari 2003. Den har till uppgift att anordna uttagningsprov för att rekrytera personal till samtliga EU-institutioner. Det är mer effektivt än att varje institution själv anordnar sina uttagningsprov. EPSO:s årliga budget är ca 21 miljoner euro, vilket är 11 % mindre än vad EU-institutionerna tidigare spenderade på rekrytering.</p>             <h2>                <a href=\"http://europa.eu/eas/index_en.htm\" lang=\"en\">Europeiska förvaltningsskolan </a>             </h2>             <p>Europeiska förvaltningsskolan inrättades den 10 februari 2005. Den sysslar med utbildning av EU:s personal på vissa områden. Skolans fördel är att dess kurser är öppna för personal från alla EU:s institutioner, vilket bidrar till gemensamma värderingar, bättre förståelse mellan institutionernas anställda och stordriftsfördelar. Den samarbetar med institutionernas utbildningsavdelningar för att undvika dubbelarbete.</p>             <h2>                <a href=\"http://publications.europa.eu/sv/web/about-us/who-we-are\">             Publikationsbyrån           </a>             </h2>             <p>Detta organs fullständiga namn är Europeiska unionens publikationsbyrå. Publikationsbyrån är EU-institutionernas förlag och producerar och distribuerar Europeiska unionens alla officiella publikationer, såväl på papper som elektroniskt.</p>"
+      ]
+    }
+  }
+}

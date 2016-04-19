@@ -1,0 +1,594 @@
+{
+  "_id": "080126248e07751e",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e07751e",
+        "080126248e07751e",
+        "080126248e07751e",
+        "080126248e07751e",
+        "080126248e07751e",
+        "080126248e07751e",
+        "080126248e07751e",
+        "080126248e07751e",
+        "080126248e07751e",
+        "080126248e07751e"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски парламент (Брюксел) "
+      ],
+      "cs": [
+        "Evropský parlament (Brusel)"
+      ],
+      "da": [
+        "Europa-Parlamentet (Bruxelles)"
+      ],
+      "de": [
+        "Europäisches Parlament (Brüssel)"
+      ],
+      "el": [
+        "Ευρωπαϊκό Κοινοβούλιο (Βρυξέλλες)"
+      ],
+      "en": [
+        "European Parliament (Brussels)"
+      ],
+      "es": [
+        "Parlamento Europeo (Bruselas)"
+      ],
+      "et": [
+        "Euroopa Parlament (Brüssel)"
+      ],
+      "fi": [
+        "Euroopan parlamentti (Bryssel)"
+      ],
+      "fr": [
+        "Parlement européen (Bruxelles)"
+      ],
+      "ga": [
+        "Parlaimint na hEorpa (an Bhruiséil)"
+      ],
+      "hr": [
+        "Europski parlament (Bruxelles)"
+      ],
+      "hu": [
+        "Európai Parlament (Brüsszel)"
+      ],
+      "it": [
+        "Parlamento europeo (Bruxelles)"
+      ],
+      "lt": [
+        "Europos Parlamentas (Briuselis)"
+      ],
+      "lv": [
+        "Eiropas Parlaments (Brisele)"
+      ],
+      "mt": [
+        "Parlament Ewropew (Brussell)"
+      ],
+      "nl": [
+        "Europees Parlement (Brussel)"
+      ],
+      "pl": [
+        "Parlament Europejski (Bruksela)"
+      ],
+      "pt": [
+        "Parlamento Europeu (Bruxelas)"
+      ],
+      "ro": [
+        "Parlamentul European (Bruxelles)"
+      ],
+      "sk": [
+        "Európsky parlament (Brusel)"
+      ],
+      "sl": [
+        "Evropski parlament (Bruselj)"
+      ],
+      "sv": [
+        "Europaparlamentet (Bryssel)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Rue Wiertz/Wiertzstraat 60</p> <p>B-1047 Bruxelles/Brussel</p> <p>Belgique/België</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 284 21 11"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+32 2 284 69 74"
+      ]
+    },
+    "link_url": {
+      "bg": [
+        "https://www.secure.europarl.europa.eu/atyourservice/bg/askEP.html"
+      ],
+      "cs": [
+        "https://www.secure.europarl.europa.eu/atyourservice/cs/askEP.html"
+      ],
+      "da": [
+        "https://www.secure.europarl.europa.eu/atyourservice/da/askEP.html"
+      ],
+      "de": [
+        "https://www.secure.europarl.europa.eu/atyourservice/de/askEP.html"
+      ],
+      "el": [
+        "https://www.secure.europarl.europa.eu/atyourservice/el/askEP.html"
+      ],
+      "en": [
+        "https://www.secure.europarl.europa.eu/atyourservice/en/askEP.html"
+      ],
+      "es": [
+        "https://www.secure.europarl.europa.eu/atyourservice/es/askEP.html"
+      ],
+      "et": [
+        "https://www.secure.europarl.europa.eu/atyourservice/et/askEP.html"
+      ],
+      "fi": [
+        "https://www.secure.europarl.europa.eu/atyourservice/fi/askEP.html"
+      ],
+      "fr": [
+        "https://www.secure.europarl.europa.eu/atyourservice/fr/askEP.html"
+      ],
+      "ga": [
+        "https://www.secure.europarl.europa.eu/atyourservice/ga/askEP.html"
+      ],
+      "hr": [
+        "https://www.secure.europarl.europa.eu/atyourservice/hr/askEP.html"
+      ],
+      "hu": [
+        "https://www.secure.europarl.europa.eu/atyourservice/hu/askEP.html"
+      ],
+      "it": [
+        "https://www.secure.europarl.europa.eu/atyourservice/it/askEP.html"
+      ],
+      "lt": [
+        "https://www.secure.europarl.europa.eu/atyourservice/lt/askEP.html"
+      ],
+      "lv": [
+        "https://www.secure.europarl.europa.eu/atyourservice/lv/askEP.html"
+      ],
+      "mt": [
+        "https://www.secure.europarl.europa.eu/atyourservice/mt/askEP.html"
+      ],
+      "nl": [
+        "https://www.secure.europarl.europa.eu/atyourservice/nl/askEP.html"
+      ],
+      "pl": [
+        "https://www.secure.europarl.europa.eu/atyourservice/pl/askEP.html"
+      ],
+      "pt": [
+        "https://www.secure.europarl.europa.eu/atyourservice/pt/askEP.html"
+      ],
+      "ro": [
+        "https://www.secure.europarl.europa.eu/atyourservice/ro/askEP.html"
+      ],
+      "sk": [
+        "https://www.secure.europarl.europa.eu/atyourservice/sk/askEP.html"
+      ],
+      "sl": [
+        "https://www.secure.europarl.europa.eu/atyourservice/sl/askEP.html"
+      ],
+      "sv": [
+        "https://www.secure.europarl.europa.eu/atyourservice/sv/askEP.html"
+      ]
+    },
+    "link_label": {
+      "bg": [
+        "За контакти"
+      ],
+      "cs": [
+        "Kontakt"
+      ],
+      "da": [
+        "Kontakt"
+      ],
+      "de": [
+        "Kontakt"
+      ],
+      "el": [
+        "Επικοινωνία"
+      ],
+      "en": [
+        "Contact"
+      ],
+      "es": [
+        "Dirección de contacto"
+      ],
+      "et": [
+        "Kontakt"
+      ],
+      "fi": [
+        "Yhteydenotot"
+      ],
+      "fr": [
+        "Contact"
+      ],
+      "ga": [
+        "Teagmháil"
+      ],
+      "hr": [
+        "Kontakt"
+      ],
+      "hu": [
+        "Kapcsolat"
+      ],
+      "it": [
+        "Per contattarci"
+      ],
+      "lt": [
+        "Kontaktai"
+      ],
+      "lv": [
+        "Kontakti"
+      ],
+      "mt": [
+        "Kuntatt"
+      ],
+      "nl": [
+        "Contact"
+      ],
+      "pl": [
+        "Kontakt"
+      ],
+      "pt": [
+        "Contacto"
+      ],
+      "ro": [
+        "Contact"
+      ],
+      "sk": [
+        "Kontakt"
+      ],
+      "sl": [
+        "Kontakt"
+      ],
+      "sv": [
+        "Kontakt"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "https://www.facebook.com/europeanparliament",
+        "https://twitter.com/Europarl_en",
+        "https://plus.google.com/+europeanparliament/posts",
+        "https://www.linkedin.com/grp/home?gid=4157950",
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Facebook",
+        "Twitter",
+        "Google+",
+        "LinkedIn",
+        "Social networks"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    },
+    "visit": {
+      "bg": [
+        "<p>Вид посещение: Обиколка с екскурзовод, информационна сесия, индивидуална обиколка, пленарно заседание<br /> Минимален размер на групата: 20-45 души (с изключение на индивидуалните обиколки и пленарните заседания)<br /> Отделни посетители: понеделник-четвъртък, обиколката започва в 10:00 и в 15:00 ч. в петък в 10:00 ч.<br /> Изискване за предварителна резервация: Групи: 2 месеца. Отделни посетители: 15 минути преди посещението<br /> Минимална възраст на посетителите: 14 години<br /> <a href=\"http://www.europarl.europa.eu/visiting/bg/homepage.html\">Посетете Европейския парламент в Брюксел</a></p>"
+      ],
+      "cs": [
+        "<p>Typ návštěvy: Prohlídky s průvodcem, přednášky, individuální prohlídky, účast na plenárním zasedání</p> <p>Minimální velikost skupiny: 20–45 osob (s výjimkou individuálních prohlídek a účasti na plenárním zasedání)</p> <p>Návštěvy pro jednotlivce: pondělí až čtvrtek – začátek prohlídky vždy v 10:00 a 15:00; v pátek pouze v 10:00</p> <p>Povinná rezervace: Skupiny: 2 měsíce předem. Jednotlivci: 15 minut předem</p> <p>Minimální věk návštěvníků: 14 let</p> <p><a href=\"http://www.europarl.europa.eu/visiting/cs/homepage.html\">Navštivte budovu Evropského parlamentu v Bruselu</a></p>"
+      ],
+      "da": [
+        "<p>Former for besøg: Rundvisninger, informationsbesøg, individuelle rundvisninger, plenarmøder</p> <p>Minimumstørrelse på gruppe: 20-45 personer (bortset fra individuelle rundvisninger og plenarmøder)</p> <p>Enkeltpersoner: Mandag til torsdag, rundvisning kl. 10.00 og kl. 15.00. Fredag, rundvisning kl. 10.00</p> <p>Krav om forudbestilling: Grupper: 2 måneder. Enkeltpersoner: 15 minutter inden besøget</p> <p>Minimumsalder på besøgende: 14 år</p> <p><a href=\"http://www.europarl.europa.eu/visiting/da/homepage.html\">Besøg Europa-Parlamentet i Bruxelles</a></p>"
+      ],
+      "de": [
+        "<p>Art des Besuchs: Führung, Informationsbesuch, individuelle Führung, Plenartagung</p> <p>Mindestteilnehmerzahl: 20–45 Personen (außer individuelle Führung und Plenartagung)</p> <p>Einzelbesucher: Montag bis Donnerstag: Führungen um 10 und 15 Uhr. Freitag: Führung um 10 Uhr</p> <p>Anmeldung: Gruppen: zwei Monate im Voraus. Einzelbesucher: 15 Minuten vor Beginn des Besuchs</p> <p>Mindestalter der Besucher: 14 Jahre</p> <p><a href=\"http://www.europarl.europa.eu/visiting/de/homepage.html\">Besuchen Sie das Europäische Parlament in Brüssel</a></p>"
+      ],
+      "el": [
+        "<p>Είδη επισκέψεων: Ξεναγήσεις, ενημερωτικές επισκέψεις, ατομικές ξεναγήσεις, συνεδριάσεις ολομέλειας<br /> Ελάχιστο μέγεθος ομάδας επισκεπτών: 20-45 άτομα (πλην των ατομικών ξεναγήσεων και των συνεδριάσεων ολομέλειας)<br /> Μεμονωμένοι επισκέπτες: Δευτέρα - Πέμπτη: 10:00 και τις 15:00. Παρασκευή: 10:00.<br /> Υποχρέωση κράτησης: Ομαδικές επισκέψεις: 2 μήνες νωρίτερα. Μεμονωμένοι επισκέπτες: 15 λεπτά πριν.<br /> Κατώτατο όριο ηλικίας των επισκεπτών: 14 ετών<br /> <a href=\"http://www.europarl.europa.eu/visiting/el/homepage.html\">Επισκεφθείτε το Ευρωπαϊκό Κοινοβούλιο στις Βρυξέλλες</a></p>"
+      ],
+      "en": [
+        "<p>Type of visit: Guided tour, information session, individual tour, plenary sitting</p> <p>Minimum size of group: 20-45 people (except for individual tour &amp; plenary sitting)</p> <p>Individual visitors: Monday to Thursday, tour starts at 10:00 and 15:00 Friday, tour starts at 10:00</p> <p>Advance booking requirement: Groups: 2 months for group visits. Individual visitors: 15 minutes prior to visit</p> <p>Minimum age of visitors: 14 years old</p> <p><a href=\"http://www.europarl.europa.eu/visiting/en/homepage.html\">Visit the European Parliament in Brussels</a></p>"
+      ],
+      "es": [
+        "<p>Tipo de visita: Visita guiada, visita de información, visita individual, plenos</p> <p>Tamaño mínimo del grupo: 20-45 personas (salvo visitas individuales y plenos)</p> <p>Visitas individuales: De lunes a jueves hay dos turnos de visitas, a las 10.00 y a las 15.00 (los viernes hay un turno de visitas a las 10.00)</p> <p>Plazo mínimo para hacer la solicitud: Grupos: 2 meses para las visitas en grupo. Visitas individuales: 15 minutos antes de la visita</p> <p>Edad mínima de los visitantes: 14 años</p> <p><a href=\"http://www.europarl.europa.eu/visiting/es/homepage.html\">Visitas al Parlamento Europeo en Bruselas</a></p>"
+      ],
+      "et": [
+        "<p>Külastuste liigid: Ringkäik giidiga, teabekülastus, eraviisiline ringkäik, täiskogu istung</p> <p>Minimaalne rühma suurus: 20–45 inimest (välja arvatud eraviisilise ringkäigu ja täiskogu istungi puhul)</p> <p>Eraviisiline külastus: Esmaspäevast neljapäevani algavad ringkäigud kell 10:00 ja 15:00. Reedel algab ringkäik kell 10:00.</p> <p>Vajadus eelnevalt registreerida: Rühmad: 2 kuud enne rühma külastust. Eraviisiline külastus: 15 minutit enne külastust</p> <p>Minimaalne külastajate vanus: 14 aastat</p> <p><a href=\"http://www.europarl.europa.eu/visiting/et/homepage.html\">Külastage Euroopa Parlamenti Brüsselis</a></p>"
+      ],
+      "fi": [
+        "<p>Vierailutyypit: opastettu kierros, esittelytilaisuus, opastamaton kierros, täysistunto</p> <p>Ryhmän vähimmäiskoko: 20–45 henkeä (paitsi opastamattomilla kierroksilla ja täysistunnoissa)</p> <p>Yksittäiset vierailijat: maanantaista torstaihin: kierros alkaa klo 10.00 ja klo 15.00, perjantaisin: kierros alkaa klo 10.00</p> <p>Pakollinen etukäteisvaraus: ryhmät: 2 kuukautta etukäteen, yksittäiset vierailijat: 15 minuuttia ennen vierailua</p> <p>Vierailijoiden vähimmäisikä: 14 vuotta</p> <p><a href=\"http://www.europarl.europa.eu/visiting/fi/homepage.html\">Vierailut Euroopan parlamentissa Brysselissä</a></p>"
+      ],
+      "fr": [
+        "<p>Type de visite: Visite guidée, séance d'information, visite individuelle, séance plénière</p> <p>Taille des groupes: 20 à 45 personnes (sauf pour les visites individuelles et les séances plénières)</p> <p>Visites individuelles: Du lundi au jeudi, les visites débutent à 10h00 et à 15h00. Le vendredi, la visite débute à 10h00.</p> <p>Délai de réservation: Visite de groupes: 2 mois. Visites individuelles: 15 minutes avant la visite</p> <p>Âge minimum des visiteurs: 14 ans</p> <p><a href=\"http://www.europarl.europa.eu/visiting/fr/homepage.html\">Visiter le Parlement européen à Bruxelles</a></p>"
+      ],
+      "ga": [
+        "<p>Cineál cuairte: Turas treoraithe, seisiún eolais, turas pearsanta, cruinniú iomlánach</p> <p>Íosmhéid an ghrúpa: 20-45 duine (seachas an turas pearsanta agus cruinniú iomlánach)</p> <p>Daoine aonair: Dé Luain go Déardaoin, bíonn turas ag 10:00 agus 15:00. Dé hAoine, bíonn turas ag 10:00</p> <p>Riachtanas réamháirithinte: Grúpaí: 2 mhí. Daoine aonair: 15 nóiméad roimh an gcuairt</p> <p>Aois íosta na gcuairteoirí: 14 bliana d'aois</p> <p><a href=\"http://www.europarl.europa.eu/visiting/en/homepage.html\">Tabhair cuairt ar Pharlaimint na hEorpa sa Bhruiséil</a></p>"
+      ],
+      "hr": [
+        "<p>Vrsta posjeta: Razgledavanje s vodičem, informacijski sastanci, samostalno razgledavanje, plenarna sjednica</p> <p>Minimalna veličina skupine: 20 - 45 osoba (osim za samostalno razgledavanje i plenarnu sjednicu)</p> <p>Individualni posjetitelji: Od ponedjeljka do četvrtka razgledavanje započinje u 10.00 i 15.00 sati, u petak razgledavanje započinje u 10.00 sati</p> <p>Obvezna prethodna rezervacija: Skupine: 2 mjeseca prije posjeta. Individualni posjetitelji: 15 minuta prije posjeta</p> <p>Minimalna dob posjetitelja: 14 godina</p> <p><a href=\"http://www.europarl.europa.eu/visiting/hr/homepage.html\">Posjetite Europski parlament u Bruxellesu</a></p>"
+      ],
+      "hu": [
+        "<p>Látogatás típusa<span>: </span>Látogatás idegenvezetéssel, információs látogatás, egyéni látogatás, plenáris ülés</p> <p>Csoport minimális létszáma<span>: </span>20–45 fő (kivéve az egyéni látogatások és a plenáris ülések esetében)</p> <p>Egyéni látogatás: Hétfőtől csütörtökig: 10.00 és 15.00 órás kezdettel. Pénteken: 10.00 órás kezdettel</p> <p>Előzetes bejelentkezés: Csoportok: 2 hónappal a látogatás tervezett időpontja előtt. Egyéni látogatók: 15 perccel a látogatás előtt</p> <p>Látogatók alsó korhatára: 14 év</p> <p><a href=\"http://www.europarl.europa.eu/visiting/hu/homepage.html\">Látogatás az Európai Parlamentben, Brüsszelben</a></p>"
+      ],
+      "it": [
+        "<p>Tipo di visita: visita guidata, sessione informativa, visita individuale, seduta plenaria</p> <p>Numero minimo di partecipanti: 20-45 persone (ad eccezione delle visite individuali e delle sedute plenarie)</p> <p>Visitatori individuali: lunedì - giovedì: alle 10 e alle 15. venerdì: alle 10</p> <p>Prenotazione: gruppi: 2 mesi prima. visitatori individuali: 15 minuti prima</p> <p>Età minima dei visitatori: 14 anni</p> <p><a href=\"http://www.europarl.europa.eu/visiting/it/homepage.html\">Visitate il Parlamento europeo a Bruxelles</a></p>"
+      ],
+      "lt": [
+        "<p>Apsilankymo pobūdis: Ekskursija su gidu, informacinė paskaita, individuali ekskursija, plenarinis posėdis</p> <p>Grupės dydis: 20–45 asmenys (netaikoma individualioms ekskursijoms ir plenariniams posėdžiams)</p> <p>Individualūs lankytojai: Nuo pirmadienio iki ketvirtadienio ekskursijos prasideda 10 val. ir 15 val., penktadieniais – 10 val.</p> <p>Prieš kiek laiko būtina susitarti dėl apsilankymo?: Grupės: prieš 2 mėnesius. Individualūs lankytojai: 15 minučių prieš apsilankymą</p> <p>Minimalus lankytojų amžius: 14 metų</p> <p><a href=\"http://www.europarl.europa.eu/visiting/lt/homepage.html\">Apsilankykite Europos Parlamente Briuselyje</a></p>"
+      ],
+      "lv": [
+        "<p>Apmeklējuma veids: apmeklējums gida pavadībā, informatīvs apmeklējums, individuāls apmeklējums, plenārsēde</p> <p>Minimālais grupas lielums: 20–45 cilvēki (izņemot individuālos apmeklējumus un plenārsēdes).</p> <p>Individuāli apmeklētāji: no pirmdienas līdz ceturtdienai apmeklējumi notiek plkst. 10.00 un 15.00, bet piektdien — plkst. 10.00</p> <p>Iepriekšēja pieteikšanās: grupām 2 mēnešus iepriekš,. individuāliem apmeklētājiem 15 minūtes pirms apmeklējuma sākuma</p> <p>Apmeklētāju minimālais vecums: 14 gadi</p> <p><a href=\"http://www.europarl.europa.eu/visiting/lv/homepage.html\">Eiropas Parlamenta apmeklējums Briselē</a></p>"
+      ],
+      "mt": [
+        "<p>Tip ta’ żjara: Żjara gwidata, sessjoni ta’ informazzjoni, żjara individwali, seduta plenarja</p> <p>Daqs minimu ta’ grupp: 20-45 persuna (ħlief għal żjara individwali u s-seduta plenarja)</p> <p>Viżitaturi individwali: Mit-Tnejn sal-Ħamis, iż-żjara tibda fl-10: 00 u 15: 00. Il-Ġimgħa, iż-żjara tibda fl-10:00</p> <p>Ħtieġa ta' riżervazzjoni bil-quddiem: Gruppi: Xahrejn għal gruppi ta’ viżitaturi. Viżitaturi individwali: 15-il minuta qabel iż-żjara</p> <p>Età minima tal-viżitaturi: 14-il sena</p> <p><a href=\"http://www.europarl.europa.eu/visiting/mt/homepage.html\">Iżżur il-Parlament Ewropew fi Brussell</a></p>"
+      ],
+      "nl": [
+        "<p>Soort bezoek: Rondleiding, voorlichtingsbezoek, individueel bezoek, plenaire vergadering</p> <p>Groepsgrootte: 20-45 personen (behalve voor individuele bezoeken en plenaire vergaderingen)</p> <p>Individuele bezoekers: Rondleidingen van maandag tot donderdag om 10.00 en 15.00 uur, en op vrijdag om 10.00 uur.</p> <p>Reservering: Groepen: minimaal 2 maanden van tevoren. Individuele bezoekers: minimaal 15 minuten van tevoren.</p> <p>Minimumleeftijd: 14 jaar</p> <p><a href=\"http://www.europarl.europa.eu/visiting/nl/homepage.html\">Bezoek het Europees Parlement in Brussel</a></p>"
+      ],
+      "pl": [
+        "<p>Rodzaj wizyty: Zwiedzanie z przewodnikiem, sesja informacyjna, wizyta indywidualna, udział w posiedzeniu plenarnym</p> <p>Minimalna wielkość grupy: 20–45 osób (nie dotyczy wizyt indywidualnych i posiedzeń plenarnych)</p> <p>Wizyty indywidualne: Poniedziałek–czwartek: początek o godz. 10 i 15. Piątek: początek o godz. 10</p> <p>Wymóg rezerwacji: Grupy: 2 miesiące wcześniej. Wizyty indywidualne: 15 minut przed wizytą</p> <p>Minimalny wiek odwiedzających: 14 lat</p> <p><a href=\"http://www.europarl.europa.eu/visiting/pl/homepage.html\">Wizyty w Parlamencie Europejskim w Brukseli</a></p>"
+      ],
+      "pt": [
+        "<p>Tipo de visita visita guiada, sessão de informação, visita guiada individual, sessão plenária</p> <p>Número mínimo de participantes 20 a 45 pessoas (exceto visitas guiadas individuais e sessões plenárias)</p> <p>Visitantes individuais de segunda a quinta, início da visita guiada às 10h00 e 15h00; sexta, início da visita guiada às 10h00.</p> <p>Marcação prévia obrigatória grupos: 2 meses para grupos. visitantes individuais: 15 minutos antes do início da visita</p> <p>Idade mínima dos visitantes 14 anos</p> <p><a href=\"http://www.europarl.europa.eu/visiting/pt/homepage.html\">Visite o Parlamento Europeu em Bruxelas</a></p>"
+      ],
+      "ro": [
+        "<p>Tipul de vizită: tur ghidat, sesiune de informare, vizită individuală, asistare la şedinţele plenare</p> <p>Dimensiunea grupului: 20-45 de persoane (cu excepţia vizitei individuale şi a şedinţei plenare)</p> <p>Vizitatori individuali: de luni până joi, vizitele încep la ora 10 şi la ora 15. vinerea, vizitele încep la ora 10</p> <p>Rezervare: Grupuri: cu 2 luni înainte de data vizitei. Vizitatori individuali: cu 15 minute înainte de vizită</p> <p>Vârsta minimă a vizitatorilor: 14 ani</p> <p><a href=\"http://www.europarl.europa.eu/visiting/ro/homepage.html\">Vizitaţi Parlamentul European la Bruxelles</a></p>"
+      ],
+      "sk": [
+        "<p>Typy návštev: prehliadky, informatívne stretnutia, individuálne prehliadky, plenárne zasadnutia</p> <p>Minimálna veľkosť skupiny: 2 – 54 osôb ( s výnimkou individuálnych prehliadok a plenárnych zasadnutí)</p> <p>Individuálni návštevníci: pondelok – piatok, prehliadky začínajú o 10:00 a 15:00. piatok, prehliadky začínajú o 10:00</p> <p>Povinná rezervácia: skupiny: 2 mesiace pred návštevou v prípade skupinových návštev. individuálni návštevníci: 15 minút pred návštevou</p> <p>Minimálny vek návštevníkov: 14 rokov</p> <p><a href=\"http://www.europarl.europa.eu/visiting/sk/homepage.html\">Navštívte Európsky parlament v Bruseli</a></p>"
+      ],
+      "sl": [
+        "<p>Vrsta obiska: Vodeni ogled, informativna predstavitev, individualni ogled, plenarno zasedanje</p> <p>Velikost skupine: Najmanj 20–45 oseb (razen za individualni ogled in plenarno zasedanje)</p> <p>Obiski posameznikov: Ponedeljek – četrtrek, ogled ob 10.00 in 15.00; petek, ogled ob 10.00</p> <p>Vnaprejšnja rezervacija: Skupine: 2 meseca za skupinski obisk. Obiski posameznikov: 15 minut pred obiskom</p> <p>Starost obiskovalcev: Najmanj 14 let</p> <p><a href=\"http://www.europarl.europa.eu/visiting/sl/homepage.html\">Obiščite Evropski parlament v Bruslju</a></p>"
+      ],
+      "sv": [
+        "<p>Typ av besök: Guidade rundturer, föredrag, enskilda besök, plenarsammanträden</p> <p>Gruppens storlek: 20–45 personer (utom för enskilda besök och plenarsammanträden)</p> <p>Enskilda besökare: Måndag–torsdag, guidade turer kl.10.00 och 15.00. Fredag, guidad tur kl.10.00</p> <p>Förhandsbokning: Grupper: 2 månader. Enskilda besökare: 15 minuter före besöket</p> <p>Åldersgräns: 14 år</p> <p><a href=\"http://www.europarl.europa.eu/visiting/sv/homepage.html\">Besök Europaparlamentet i Bryssel</a></p>"
+      ]
+    }
+  }
+}

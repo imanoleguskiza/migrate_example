@@ -1,0 +1,303 @@
+{
+    "_id": "download_item_b021e4ce8c223c97d88a1230cf8329b",
+    "type": "download_item",
+    "default_language": "en",
+    "languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "es",
+        "fr",
+        "ga",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "ro",
+        "pl",
+        "pt",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "en",
+        "hr"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Europass автобиография",
+                "Общ доклад на ЕС"
+            ],
+            "cs": [
+                "Europass - životopis",
+                "Souhrnná zpráva o činnosti EU"
+            ],
+            "da": [
+                "Europass-Curriculum Vitæ",
+                "Den almindelige beretning om EU"
+            ],
+            "de": [
+                "Der Europass-Lebenslauf",
+                "Gesamtbericht über die Tätigkeit der Europäischen Union"
+            ],
+            "el": [
+                "Το βιογραφικό σημείωμα Europass",
+                "Γενική Έκθεση της ΕΕ"
+            ],
+            "en": [
+                "The Europass Curriculum Vitae",
+                "General report of the EU"
+            ],
+            "es": [
+                "El Curriculum Vitae Europass",
+                "Informe general de la UE"
+            ],
+            "et": [
+                "Europassi Curriculum Vitae",
+                "Üldaruanne ELi tegevuse kohta"
+            ],
+            "fi": [
+                "Europass-ansioluettelo",
+                "Yleiskertomus EU:n toiminnasta"
+            ],
+            "fr": [
+                "Le curriculum vitae Europass",
+                "Rapport général sur l'activité de l'UE"
+            ],
+            "ga": [
+                "Europass Curriculum Vitae",
+                "Tuarascáil ghinearálta an AE "
+            ],
+            "hr": [
+                "Europass Curriculum Vitae (CV) - životopis",
+                "Opće izvješće o EU-u"
+            ],
+            "hu": [
+                "Europass Önéletrajz",
+                "Általános jelentés az EU tevékenységeiről"
+            ],
+            "it": [
+                "Europass Curriculum Vitae",
+                "Relazione generale sull'attività dell'UE"
+            ],
+            "lt": [
+                "Europass gyvenimo aprašymas",
+                "Bendrasis pranešimas apie ES"
+            ],
+            "lv": [
+                "Europass Curriculum Vitae",
+                "ES vispārīgais ziņojums"
+            ],
+            "mt": [
+                "Il-Europass Curriculum Vitae",
+                "Rapport Ġenerali tal-UE"
+            ],
+            "nl": [
+                "Het Europass Curriculum Vitae",
+                "Algemeen verslag van de EU"
+            ],
+            "pl": [
+                "Europass - Curriculum Vitae",
+                "Sprawozdanie ogólne dotyczące działalności UE "
+            ],
+            "pt": [
+                "O Curriculum Vitae Europass",
+                "Relatório Geral sobre a atividade da UE"
+            ],
+            "ro": [
+                "Curriculum Vitae Europass",
+                "Raport general privind activitatea UE"
+            ],
+            "sk": [
+                "Curriculum Vitae Europass",
+                "Súhrnná správa o činnosti EÚ"
+            ],
+            "sl": [
+                "Europass življenjepis",
+                "Splošno poročilo EU"
+            ],
+            "sv": [
+                "Europass-meritförteckningen",
+                "Allmänna rapporten om EU"
+            ]
+        },
+        "link": {
+            "bg": [
+                "https://europass.cedefop.europa.eu/editors/bg/cv/compose.jsp?localeStr=bg_BG",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "cs": [
+                "https://europass.cedefop.europa.eu/editors/cs/cv/compose.jsp?localeStr=cs_CZ",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "da": [
+                "https://europass.cedefop.europa.eu/editors/da/cv/compose.jsp?localeStr=da_DK",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "de": [
+                "https://europass.cedefop.europa.eu/editors/de/cv/compose.jsp?localeStr=de_DE",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "el": [
+                "https://europass.cedefop.europa.eu/editors/el/cv/compose.jsp?localeStr=el_GR",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "en": [
+                "https://europass.cedefop.europa.eu/editors/en/cv/compose.jsp?localeStr=en_GB",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "es": [
+                "https://europass.cedefop.europa.eu/editors/es/cv/compose.jsp?localeStr=es_ES",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "et": [
+                "https://europass.cedefop.europa.eu/editors/et/cv/compose.jsp?localeStr=et_EE",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "fi": [
+                "https://europass.cedefop.europa.eu/editors/fi/cv/compose.jsp?localeStr=fi_FI",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "fr": [
+                "https://europass.cedefop.europa.eu/editors/fr/cv/compose.jsp?localeStr=fr_FR",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "ga": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "hr": [
+                "https://europass.cedefop.europa.eu/editors/hr/cv/compose.jsp?localeStr=hr_HR",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "hu": [
+                "https://europass.cedefop.europa.eu/editors/hu/cv/compose.jsp?localeStr=hu_HU",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "it": [
+                "https://europass.cedefop.europa.eu/editors/it/cv/compose.jsp?localeStr=it_IT",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "lt": [
+                "https://europass.cedefop.europa.eu/editors/lt/cv/compose.jsp?localeStr=lt_LT",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "lv": [
+                "https://europass.cedefop.europa.eu/editors/lv/cv/compose.jsp?localeStr=lv_LV",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "mt": [
+                "https://europass.cedefop.europa.eu/editors/mt/cv/compose.jsp?localeStr=mt_MT",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "nl": [
+                "https://europass.cedefop.europa.eu/editors/nl/cv/compose.jsp?localeStr=nl_NL",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "pl": [
+                "https://europass.cedefop.europa.eu/editors/pl/cv/compose.jsp?localeStr=pl_PL",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "pt": [
+                "https://europass.cedefop.europa.eu/editors/pt/cv/compose.jsp?localeStr=pt_PT",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "ro": [
+                "https://europass.cedefop.europa.eu/editors/ro/cv/compose.jsp?localeStr=ro_RO",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "sk": [
+                "https://europass.cedefop.europa.eu/editors/sk/cv/compose.jsp?localeStr=sk_SK",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "sl": [
+                "https://europass.cedefop.europa.eu/editors/sl/cv/compose.jsp?localeStr=sl_SI",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ],
+            "sv": [
+                "https://europass.cedefop.europa.eu/editors/sv/cv/compose.jsp?localeStr=sv_SE",
+                "http://europa.eu/generalreport/pdf/rg2011_en.pdf"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Официални документи"
+            ],
+            "cs": [
+                "Úřední dokumenty"
+            ],
+            "da": [
+                "Officielle dokumenter"
+            ],
+            "de": [
+                "Amtliche Dokumente"
+            ],
+            "el": [
+                "Επίσημα έγγραφα"
+            ],
+            "en": [
+                "Official documents"
+            ],
+            "es": [
+                "Documentos oficiales"
+            ],
+            "et": [
+                "Ametlikud dokumendid"
+            ],
+            "fi": [
+                "Viralliset asiakirjat"
+            ],
+            "fr": [
+                "Documents officiels"
+            ],
+            "ga": [
+                "Doiciméid oifigiúla"
+            ],
+            "hr": [
+                "EUROPA – Službeni dokumenti"
+            ],
+            "hu": [
+                "Hivatalos dokumentumok"
+            ],
+            "it": [
+                "Documenti ufficiali"
+            ],
+            "lt": [
+                "EUROPA. Oficialūs dokumentai"
+            ],
+            "lv": [
+                "Oficiālie dokumenti"
+            ],
+            "mt": [
+                "Dokumenti uffiċjali"
+            ],
+            "nl": [
+                "Officiële documenten"
+            ],
+            "pl": [
+                "Dokumenty urzędowe"
+            ],
+            "pt": [
+                "Documentos oficiais"
+            ],
+            "ro": [
+                "Documente oficiale"
+            ],
+            "sk": [
+                "Oficiálne dokumenty"
+            ],
+            "sl": [
+                "Uradni dokumenti"
+            ],
+            "sv": [
+                "Officiella handlingar"
+            ]
+        }
+    }
+}

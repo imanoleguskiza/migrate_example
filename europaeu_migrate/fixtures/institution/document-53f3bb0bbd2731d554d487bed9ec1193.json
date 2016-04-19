@@ -1,0 +1,788 @@
+{
+  "_id": "53f3bb0bbd2731d554d487bed9ec1193",
+  "type": "institution",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/emcdda/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски център за мониторинг на наркотици и наркомании"
+      ],
+      "cs": [
+        "Evropské monitorovací centrum pro drogy a drogovou závislost"
+      ],
+      "da": [
+        "Det Europæiske Overvågningscenter for Narkotika og Narkotikamisbrug"
+      ],
+      "de": [
+        "Europäische Beobachtungsstelle für Drogen und Drogensucht"
+      ],
+      "el": [
+        "Ευρωπαϊκό Κέντρο Παρακολούθησης Ναρκωτικών και Τοξικομανίας"
+      ],
+      "en": [
+        "European Monitoring Centre for Drugs and Drug Addiction"
+      ],
+      "es": [
+        "Observatorio Europeo de las Drogas y las Toxicomanías"
+      ],
+      "et": [
+        "Euroopa Narkootikumide ja Narkomaania Seirekeskus (EMCDDA)"
+      ],
+      "fi": [
+        "Euroopan huumausaineiden ja niiden väärinkäytön seurantakeskus"
+      ],
+      "fr": [
+        "Observatoire européen des drogues et des toxicomanies"
+      ],
+      "ga": [
+        "An Lárionad Eorpach Faireacháin um Dhrugaí agus Andúil i nDrugaí (EMCDDA)"
+      ],
+      "hr": [
+        "Europski centar za praćenje droga i ovisnosti o drogama"
+      ],
+      "hu": [
+        "A Kábítószer és a Kábítószer-függőség Európai Megfigyelőközpontja"
+      ],
+      "it": [
+        "Osservatorio europeo delle droghe e delle tossicodipendenze"
+      ],
+      "lt": [
+        "Europos narkotikų ir narkomanijos stebėsenos centras"
+      ],
+      "lv": [
+        "Eiropas Narkotiku un narkomānijas uzraudzības centrs"
+      ],
+      "mt": [
+        "Ċentru Ewropew ta' Monitoraġġ dwar id-Drogi u d-Dipendenza fuq id-Drogi"
+      ],
+      "nl": [
+        "Europees Waarnemingscentrum voor drugs en drugsverslaving"
+      ],
+      "pl": [
+        "Europejskie Centrum Monitorowania Narkotyków i Narkomanii"
+      ],
+      "pt": [
+        "Observatório Europeu da Droga e da Toxicodependência"
+      ],
+      "ro": [
+        "Observatorul European pentru Droguri şi Toxicomanie"
+      ],
+      "sk": [
+        "Európske monitorovacie centrum pre drogy a drogovú závislosť"
+      ],
+      "sl": [
+        "Evropski center za spremljanje drog in zasvojenosti z drogami"
+      ],
+      "sv": [
+        "Europeiska centrumet för kontroll av narkotika och narkotikamissbruk"
+      ]
+    },
+    "category": {
+      "und": [
+        "23337c14",
+        "40261c17"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "AGENCIES"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "EUROPA/"
+      ],
+      "es": [
+        "EUROPA"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "EUROPA/"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA/"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "EUROPA/"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "cs": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Oбщи сведения и достъп до Европейския център за мониторинг на наркотици и наркомании - aгенция на Европейския съюз"
+      ],
+      "cs": [
+        "Základní informace o Evropském monitorovacím centru pro drogy a drogovou závislost, agentuře Evropské unie"
+      ],
+      "da": [
+        "Adgang til og baggrundsoplysninger om Det Europæiske Overvågningscenter for Narkotika og Narkotikamisbrug, et EU-agentur"
+      ],
+      "de": [
+        "Hintergrundinformationen zur Europäischen Beobachtungsstelle für Drogen und Drogensucht, einer Agentur der Europäischen Union"
+      ],
+      "el": [
+        "Πρόσβαση στον οργανισμό της ΕΕ \"Ευρωπαϊκό Κέντρο Παρακολούθησης Ναρκωτικών και Τοξικομανίας\" και σε σχετικές πληροφορίες"
+      ],
+      "en": [
+        "Access to and background information on the European Monitoring Centre for Drugs and Drug Addiction, an agency of the European Union"
+      ],
+      "es": [
+        "Acceso a información general sobre el Observatorio Europeo de las Drogas y las Toxicomanías, agencia de la Unión Europea"
+      ],
+      "et": [
+        "Euroopa Liidu amet Euroopa Narkootikumide ja Narkomaania Seirekeskus - juurdepääs ja taustateave"
+      ],
+      "fi": [
+        "Tietoa Euroopan huumausaineiden ja niiden väärinkäytön seurantakeskuksesta (EMCDDA), joka on EU:n erillisvirasto"
+      ],
+      "fr": [
+        "Présentation de l'Observatoire européen des drogues et des toxicomanies, agence de l'Union européenne"
+      ],
+      "ga": [
+        "Rochtain ar an Lárionad Eorpach Faireacháin um Dhrugaí agus Andúil i nDrugaí, gníomhaireacht de chuid an Aontais Eorpaigh"
+      ],
+      "hr": [
+        "Pristup Europskomu centru za praćenje droga i ovisnosti o drogama (agenciji Europske unije) i popratne informacije"
+      ],
+      "hu": [
+        "Háttér-információk az Európai Unió egyik ügynökségéről, a Kábítószer és a Kábítószer-függőség Európai Megfigyelőközpontjáról "
+      ],
+      "it": [
+        "L'Osservatorio europeo delle droghe e delle tossicodipendenze, un'agenzia dell'Unione europea: accesso e informazioni generali"
+      ],
+      "lt": [
+        "Pagrindinė informacija apie Europos narkotikų ir narkomanijos stebėsenos centrą (ES agentūra)"
+      ],
+      "lv": [
+        "Īsumā par Eiropas Narkotiku un narkomānijas uzraudzības centru (vienu no Eiropas Savienības aģentūrām)"
+      ],
+      "mt": [
+        "Aċċess għall-informazzjoni ta' referenza dwar iċ-Ċentru Ewropew għall-Monitoraġġ tad-Droga u d-Dipendenza fuq id-Droga, aġenzija tal-Unjoni Ewropea"
+      ],
+      "nl": [
+        "Toegang tot en achtergrondinformatie over het Europees Waarnemingscentrum voor drugs en drugsverslaving, een agentschap van de Europese Unie"
+      ],
+      "pl": [
+        "Informacje na temat Europejskiego Centrum Monitorowania Narkotyków i Narkomanii (agencji Unii Europejskiej)"
+      ],
+      "pt": [
+        "Observatório Europeu da Droga e da Toxicodependência: acesso e informações gerais"
+      ],
+      "ro": [
+        "Prezentarea Observatorului European pentru Droguri şi Toxicomanie, una dintre agenţiile Uniunii Europene"
+      ],
+      "sk": [
+        "Základné informácie o Európskom monitorovacom centre pre drogy a drogovú závislosť, ktoré patrí medzi agentúry EÚ"
+      ],
+      "sl": [
+        "osnovni podatki o Evropskem centru za spremljanje drog in zasvojenosti z drogami (agencija EU)"
+      ],
+      "sv": [
+        "Europa.eu –  Om Europeiska centrumet för kontroll av narkotika och narkotikamissbruk, en EU-byrå"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "europa"
+      ],
+      "cs": [
+        "EUROPA",
+        "agentury",
+        "orgány",
+        "evropská",
+        "unie",
+        "eu"
+      ],
+      "da": [
+        "agenturer",
+        "europa",
+        "institutioner",
+        "den europæiske union",
+        "eu"
+      ],
+      "de": [
+        "europa",
+        "Einrichtungen",
+        "Institutionen",
+        "Europäische Union",
+        "EU"
+      ],
+      "el": [
+        "europa",
+        "Οργανισμοί (υπηρεσίες)",
+        "θεσμικά όργανα",
+        "Ευρωπαϊκή Ένωση",
+        "ΕΕ"
+      ],
+      "en": [
+        "europa"
+      ],
+      "es": [
+        "europa",
+        "organismos",
+        "instituciones",
+        "union europea",
+        "ue"
+      ],
+      "et": [
+        "europa",
+        "Ametid",
+        "institutsioonid",
+        "Euroopa Liit",
+        "EL"
+      ],
+      "fi": [
+        "europa",
+        "erillisvirastot",
+        "toimielimet",
+        "Euroopan unioni",
+        "EU"
+      ],
+      "fr": [
+        "europa",
+        "agences",
+        "institutions",
+        "Union européenne",
+        "UE"
+      ],
+      "ga": [
+        "europa"
+      ],
+      "hr": [
+        "europa"
+      ],
+      "hu": [
+        "europa",
+        "ügynökségek",
+        "intézmények",
+        "európai unió",
+        "eu"
+      ],
+      "it": [
+        "europa",
+        "agenzie",
+        "istituzioni",
+        "Unione europea",
+        "UE"
+      ],
+      "lt": [
+        "europa",
+        "agentūros",
+        "institucijos",
+        "europos sąjunga",
+        "es"
+      ],
+      "lv": [
+        "europa",
+        "aģentūras",
+        "iestādes",
+        "eiropas",
+        "savienība",
+        "es"
+      ],
+      "mt": [
+        "europa",
+        "aġenziji",
+        "istituzzjonijiet",
+        "unjoni ewropea",
+        "ue"
+      ],
+      "nl": [
+        "europa",
+        "agentschappen",
+        "instellingen",
+        "Europese Unie",
+        "EU"
+      ],
+      "pl": [
+        "europa",
+        "agencje",
+        "instytucje",
+        "unia europejska",
+        "UE"
+      ],
+      "pt": [
+        "europa",
+        "agências",
+        "instituições",
+        "União Europeia",
+        "UE"
+      ],
+      "ro": [
+        "europa"
+      ],
+      "sk": [
+        "europa",
+        "agentúry",
+        "inštitúcie",
+        "Európska únia",
+        "EÚ"
+      ],
+      "sl": [
+        "europa",
+        "agencije",
+        "institucije",
+        "evropska unija",
+        "eu"
+      ],
+      "sv": [
+        "europa",
+        "organ",
+        "institutioner",
+        "Europeiska unionen",
+        "EU"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "info1": {
+      "bg": [
+        "<p>Европейският център за мониторинг на наркотици и наркомании (EЦМНН) е събирателният център на ЕС за информация свързана с наркотиците. Неговата роля е да събира, анализира и разпространява „фактическа, обективна, надеждна и сравнима информация“ относно наркотиците и наркоманиите, като по този начин предоставя на гражданите добре обоснована, подкрепена с доказателства картина на наркотиците на европейско ниво.</p>             <p>Сред целевите групи на Центъра са политиците, които използват тази информация, за да помогнат за изграждането на ясни национални и общоевропейски стратегии за борба с наркотиците.  Центърът предоставя информация също така и на специалисти и изследователи, работещи в областта на наркотиците, както и на европейските медии и обществеността като цяло.</p>"
+      ],
+      "cs": [
+        "<p>Evropské monitorovací centrum pro drogy a drogovou závislost (EMCDDA) shromažďuje informace o drogové problematice v EU. Shromážděné údaje analyzuje a výsledky rozborů, které musí být „věcné, objektivní, spolehlivé a srovnatelné“, pak poskytuje veřejnosti i odborníkům, kteří mají možnost si na základě těchto konkrétních údajů vytvořit o drogové problematice reálnou představu.</p>             <p>Takové informace využívají například političtí činitelé, kterým slouží k formulaci vnitrostátní a celoevropské protidrogové strategie. Další cílovou skupinou jsou výzkumní pracovníci a jiní odborníci na drogovou problematiku, evropské sdělovací prostředky a v neposlední řadě i široká veřejnost.</p>"
+      ],
+      "da": [
+        "<p>Det Europæiske Overvågningscenter for Narkotika og Narkotikamisbrug (EMCDDA) er omdrejningspunktet for information om narkotika i EU.  Det har til opgave at indsamle, analysere og formidle \"faktuelle, objektive, pålidelige og sammenlignelige oplysninger\" om narkotika og narkotikamisbrug og dermed give et solidt og veldokumenteret billede af narkotikaspørgsmålet på europæisk plan.</p>             <p>Centrets målgrupper omfatter blandt andet beslutningstagere, der gør brug af disse oplysninger i udarbejdelsen af sammenhængende nationale og europæiske narkotikastrategier. Andre brugergrupper er fagfolk og forskere, der arbejder inden for narkotikaområdet, og mere generelt de europæiske medier og offentligheden.</p>"
+      ],
+      "de": [
+        "<p>Die Europäische Beobachtungsstelle für Drogen und Drogensucht (EBDD) ist die zentrale Drogeninformationsstelle in der Europäischen Union. Ihre Aufgabe besteht darin, objektive, zuverlässige und vergleichbare Informationen über Drogen- und Drogensucht zu liefern und auf diese Weise ihrem Publikum auf der Grundlage gesicherter Erkenntnisse ein fundiertes Bild der Drogenproblematik auf europäischer Ebene zu vermitteln.</p>             <p>Zu den Zielgruppen der Beobachtungsstelle gehören Entscheidungsträger, die diese Informationen nutzen, um an der Ausarbeitung von kohärenten nationalen und EU-Strategien mitzuwirken. Des Weiteren richtet sich ihre Arbeit an Fachkreise und Forscher und darüber hinaus an die europäischen Medien und die breite Öffentlichkeit.</p>"
+      ],
+      "el": [
+        "<p>Το Ευρωπαϊκό Κέντρο Παρακολούθησης Ναρκωτικών και Τοξικομανίας (ΕΚΠΝΤ) είναι το κομβικό σημείο πληροφόρησης για τα ναρκωτικά στην Ευρωπαϊκή Ένωση. Ο ρόλος του συνίσταται στη συγκέντρωση, ανάλυση και διάδοση αντικειμενικών, αξιόπιστων και συγκρίσιμων σοιχείων για τα ναρκωτικά και την τοξικομανία και, κατ’ επέκταση, στην παροχή έγκυρης και τεκμηριωμένης εικόνας του προβλήματος των ναρκωτικών σε ευρωπαϊκό επίπεδο.</p>             <p>Μεταξύ των ομάδων στις οποίες απευθύνεται το κέντρο συγκαταλέγονται οι υπεύθυνοι χάραξης πολιτικής, οι οποίοι χρησιμοποιούν αυτές τις πληροφορίες στη διαμόρφωση συνεκτικών στρατηγικών για τα ναρκωτικά σε εθνικό και ευρωπαϊκό επίπεδο.  Το κέντρο απευθύνεται επίσης σε επαγγελματίες και ερευνητές που ασχολούνται με το θέμα των ναρκωτικών, καθώς και στα μέσα μαζικής επικοινωνίας και το ευρύ κοινό. </p>"
+      ],
+      "en": [
+        "<p>The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) is the hub of drug-related information in the European Union. Its role is to gather, analyse and disseminate ‘factual, objective, reliable and comparable information’ on drugs and drug addiction and, in so doing, provide its audiences with a sound and evidence-based picture of the drug phenomenon at European level.</p>             <p>Among the Centre’s target groups are policy-makers, who use this information to help formulate coherent national and Community drug strategies. Also served are professionals and researchers working in the drugs field and, more broadly, the European media and general public.</p>"
+      ],
+      "es": [
+        "<p>El Observatorio Europeo de las Drogas y las Toxicomanías (OEDT) es el eje central de la información sobre drogas en la Unión Europea. Su función consiste en recopilar, analizar y difundir información objetiva, fiable y comparable sobre las drogas y la drogadicción en Europa, es decir, ofrecer a los interesados una imagen clara y objetiva del fenómeno de las drogas a escala europea.</p>             <p>Entre los grupos destinatarios de la información del Observatorio figura el de los responsables políticos, que utilizan esta información para formular estrategias coherentes en relación con las drogas en el ámbito nacional y europeo. La información se dirige también a los profesionales e investigadores que trabajan en este campo y, más en general, a los medios de comunicación europeos y a la opinión pública.</p>"
+      ],
+      "et": [
+        "<p>Euroopa Narkootikumide ja Narkomaania Seirekeskus (EMCDDA) on peamine narkootikume käsitleva teabe keskus Euroopa Liidus.  Keskuse ülesanne on koguda, analüüsida ja levitada faktilist, objektiivset, usaldusväärset ning võrreldavat teavet narkootikumide ja narkosõltuvuse kohta ning pakkuda seeläbi kindlat ja tõenditel tuginevat ülevaadet narkootikumidega seotud olukorrast Euroopa tasandil.</p>             <p>Keskuse sihtrühmade hulka kuuluvad poliitikakujundajad, kes kasutavad asjaomast teavet, et aidata koostada ühtset liikmesriikide ja ELi narkostrateegiat. Keskuse teenuseid saavad kasutada ka asjaomastel kutsealadel töötajad ja vastava valdkonna teadustöötajad ning laiemalt Euroopa meedia ja üldsus.   </p>"
+      ],
+      "fi": [
+        "<p>Euroopan huumausaineiden ja niiden väärinkäytön seurantakeskus (EMCDDA) on Euroopan unionin huumeita koskevan tiedon keskus. Sen tehtävänä on kerätä, analysoida ja levittää tutkittua, objektiivista, luotettavaa sekä vertailukelpoista tietoa huumausaineista ja niiden väärinkäytöstä sekä tarjota siten yleisölle oikea ja totuudenmukainen kuva huumeilmiöstä Euroopan tasolla.</p>             <p>Seurantakeskuksen yksi kohderyhmä ovat päättäjät, jotka käyttävät tätä tietoa apuna laatiessaan johdonmukaisia kansallisia ja EU:n tason huumestrategioita. Seurantakeskus palvelee myös huumeiden alalla työskenteleviä ammattilaisia ja tutkijoita sekä yleisemmin eurooppalaisia tiedotusvälineitä ja tavallista yleisöä.</p>"
+      ],
+      "fr": [
+        "<p>L’Observatoire européen des drogues et des toxicomanies (OEDT) est le centre de référence pour l’information sur les drogues dans l’Union européenne. Son rôle consiste à collecter, analyser et diffuser des informations objectives, fiables et comparables sur les drogues et les toxicomanies, offrant ainsi une vue d'ensemble scientifiquement fondée du phénomène au niveau européen. </p>             <p>L'Observatoire s'adresse notamment aux responsables politiques, qui s'appuient sur ses analyses pour élaborer des stratégies nationales et européennes cohérentes dans le domaine des drogues. Il cherche également à informer les professionnels et les chercheurs travaillant dans ce domaine et, plus généralement, les médias européens et le grand public.</p>"
+      ],
+      "ga": [
+        "<p>An Lárionad Eorpach Faireacháin um Dhrugaí agus Andúil i nDrugaí (EMCDDA), sin imleacán na faisnéise a bhaineann le drugaí san Aontas Eorpach.   Tá sé de chúram air 'faisnéis fhíorasach, oibiachtúil, iontaofa agus inchomparáide' faoi dhrugaí is faoi andúil i ndrugaí a bhailiú, a thaifeach agus a dháileadh agus, sa tslí sin, pictiúr iontaofa, arna bhunú ar fhianaise, a chur ar fáil do dhaoine ag an leibhéal Eorpach.  </p>             <p>I measc spriocghrúpaí an Lárionaid tá déantóirí beartas, a úsáideann an fhaisnéis sin chun straitéisí comhtháite náisiúnta agus Comhphobail um dhrugaí a chumadh.   Fairis sin fónann sé do ghairmiúlaigh is do lucht taighde atá ag obair i réimse na ndrugaí, agus, ar scála níos leithne, do mheáin is do phobal na hEorpa.  </p>"
+      ],
+      "hr": [
+        "<p>Europski centar za praćenje droga i ovisnosti o drogama (EMCDDA) središnje je informativno mjesto Europske unije za pitanja vezana uz drogu. Uloga je Centra prikupljati, analizirati i pružati objektivne, pouzdane i usporedive informacije o drogama i ovisnosti o drogama te na taj način omogućiti zainteresiranoj javnosti da stvori jasnu, znanstveno utemeljenu sliku o problemu droge na europskoj razini.</p>             <p>Kreatori politika, jedna od ciljnih skupina Centra, koriste se tim informacijama pri izradi dosljednjih nacionalnih i Zajedničinih strategija za suzbijanje droge. Daljnje su ciljne skupine stručnjaci i istraživači koji se bave problemom droge te europski mediji i šira javnost.</p>"
+      ],
+      "hu": [
+        "<p>A Kábítószer és a Kábítószer-függőség Európai Megfigyelőközpontja (EMCDDA) a kábítószerekkel kapcsolatos információk fő forrása az Európai Unióban. Szerepe az, hogy a kábítószerekről és a kábítószer-függőségről „tényszerű, tárgyilagos, megbízható és összehasonlítható információkat\" gyűjtsön, azokat elemezze és terjessze, és ezáltal teljes, bizonyítékokon alapuló képet tudjon felvázolni az érdekelt felek számára az európai kábítószerhelyzetről.</p>             <p>A központ célközönségeinek egyikét a politikai döntéshozók képezik – ők az információt koherens tagállami és uniós kábítószerügyi stratégiák kidolgozásához használják fel. Tevékenységével a központ a kábítószer területén dolgozó szakembereket és kutatókat, tágabb értelemben pedig az európai médiát és a nagyközönséget is szolgálja.</p>"
+      ],
+      "it": [
+        "<p>L'Osservatorio europeo delle droghe e delle tossicodipendenze (OEDT) è il centro di riferimento per le informazioni sulla droga nell'Unione europea. Il suo ruolo consiste nel raccogliere, analizzare e diffondere \"informazioni obiettive, affidabili e comparabili\" sulle droghe e le tossicodipendenze, in modo da fornire al pubblico un quadro chiaro e circostanziato del fenomeno a livello europeo.</p>             <p>Tra i destinatari delle attività dell'Osservatorio figurano i responsabili politici che usano queste informazioni per formulare strategie coerenti in materia di droga a livello nazionale ed europeo, i professionisti e i ricercatori che lavorano nel settore delle droghe e, più in generale, i mezzi di comunicazione e l'opinione pubblica.</p>"
+      ],
+      "lt": [
+        "<p>Europos narkotikų ir narkomanijos stebėsenos centras (EMCDDA) – tai pagrindinė informacijos apie narkotikus įstaiga Europos Sąjungoje. Centras renka, analizuoja ir platina faktinę, objektyvią, patikimą ir palyginamą informaciją apie narkotikus ir narkomaniją, o visi, ką tai domina, gauna patikimą ir faktais pagrįstą narkomanijos Europoje vaizdą.</p>             <p>Tarp tikslinių šio centro grupių yra politikos formuotuojai, kurie naudojasi šia informacija tam, kad padėtų rengti nuoseklias valstybių narių ir ES kovos su narkomanija strategijas. Centro informacija taip pat naudojasi narkotikų srities specialistai bei tyrėjai, o platesnes prasme – ir Europos žiniasklaida bei plačioji visuomenė.</p>"
+      ],
+      "lv": [
+        "<p>Eiropas Narkotiku un narkomānijas uzraudzības centrs (EMCDDA) ir organizācija, kurai ir visvairāk informācijas par narkotikām Eiropas Savienībā. Tās uzdevums ir vākt, analizēt un izplatīt uz faktiem balstītu, pamatotu, ticamu un salīdzināmu informāciju par narkotikām un narkomāniju, tādējādi Eiropas līmenī sabiedrībai sniedzot vispusīgu un ar pierādījumiem pamatotu pārskatu par narkotiku problēmu.</p>             <p>Viena no šā centra mērķgrupām ir politikas veidotāji, kas centra sniegto informāciju izmanto, lai izstrādātu saskaņotu valsts un ES stratēģiju narkotiku jomā. Tas sniedz informāciju arī speciālistiem un pētniekiem, kas darbojas narkotiku jomā, kā arī Eiropas plašsaziņas līdzekļiem un iedzīvotājiem. </p>"
+      ],
+      "mt": [
+        "<p>Iċ-Ċentru Ewropew għall-Monitoraġġ tad-Droga u d-Dipendenza fuq id-Droga (EMCDDA) huwa ċ-ċentru tal-informazzjoni li jkollha x'taqsam mad-droga fl-Unjoni Ewropea. Ir-rwol tiegħu hu li jiġbor, janalizza u jxerred \"Informazzjoni fattwali, oġġettiva, komparabbli u ta' min joqgħod fuqha\" dwar id-droga u d-dipendenza fuq id-droga. B'hekk jipprovdi stampa ċara bbażata fuq l-evidenza tal-fenomenu tad-droga fuq livell Ewropew.</p>             <p>Fost il-gruppi fil-mira taċ-Ċentru nsibu lil dawk li jfasslu l-politika, li jużaw din l-informazzjoni bħala għajnuna biex jifformulaw strateġiji nazzjonali u Komunitarji koerenti dwar id-droga. Insibu wkoll professjonisti u riċerkaturi li jaħdmu fil-qasam tad-droga u, b'mod aktar ġenerali, il-midja Ewropea u l-pubbliku.</p>"
+      ],
+      "nl": [
+        "<p>Het Europees Waarnemingscentrum voor drugs en drugsverslaving (EWDD) vervult een spilfunctie bij de informatie-uitwisseling op het gebied van drugs in de Europese Unie. Het EWDD heeft tot taak feitelijke, objectieve, betrouwbare en vergelijkbare informatie over drugs en drugsverslaving te verzamelen, te analyseren en te verspreiden, en zo zijn publiek een volledig en met feiten onderbouwd beeld van het verschijnsel drugs in Europa te verschaffen.</p>             <p>Tot de doelgroepen van het EWDD behoren beleidsmakers die dergelijke informatie gebruiken om een samenhangend nationaal en EU-drugsbeleid te formuleren. Ook vakmensen en onderzoekers op het gebied van drugs en in ruimere zin de Europese media en het grote publiek worden door het EWDD geïnformeerd.</p>"
+      ],
+      "pl": [
+        "<p>Europejskie Centrum Monitorowania Narkotyków i Narkomanii (EMCDDA) jest głównym ośrodkiem informacyjnym w zakresie problemu narkotyków w Unii Europejskiej. Zadaniem Centrum jest gromadzenie, analiza i upowszechnianie rzeczowych, obiektywnych, rzetelnych i porównywalnych informacji na temat narkotyków i narkomanii oraz, w ramach tych działań, zapewnianie swoim klientom wiarygodnego i udokumentowanego obrazu zjawiska narkomanii na poziomie europejskim.</p>             <p>Z usług Centrum korzystają m.in. politycy przy opracowywaniu spójnych krajowych i wspólnotowych strategii narkotykowych, osoby zajmujące się zawodowo problemem narkotyków, np. naukowcy, a bardziej ogólnie, europejskie media i społeczeństwo.</p>"
+      ],
+      "pt": [
+        "<p>O Observatório Europeu da Droga e da Toxicodependência (OEDT) centraliza as informações relativas ao fenómeno da droga na União Europeia. O seu papel é o de reunir, analisar e divulgar informações objectivas, fiáveis e comparáveis sobre a problemática da droga e da toxicodependência, fornecendo dados correctos e completos sobre o fenómeno ao nível da Europa. </p>             <p>Entre os públicos-alvo do OEDT destacam-se os decisores políticos que usam as referidas informações como um contributo para a definição de estratégias coerentes em matéria de droga a nível nacional e da UE.  As informações disponibilizadas pelo OEDT são igualmente úteis aos profissionais e investigadores que trabalham na área da droga e, de uma maneira geral, aos meios de comunicação social europeus e ao grande  público. </p>"
+      ],
+      "ro": [
+        "<p>Observatorul European pentru Droguri şi Toxicomanie (OEDT) este punctul de convergenţă pentru informaţiile legate de consumul de droguri în Uniunea Europeană. Rolul său este de a colecta, analiza şi difuza „informaţii autentice, obiective, fiabile şi comparabile” cu privire la droguri şi dependenţa de droguri, cu scopul de a furniza o imagine clară şi fundamentată asupra acestor fenomene la nivel european.</p>             <p>Observatorul se adresează responsabililor politici, care utilizează informaţiile pentru a ajuta autorităţile europene şi naţionale să elaboreze strategii coerente în domeniu. De asemenea, datele sunt destinate specialiştilor şi cercetătorilor care analizează fenomenul şi, în sens mai general, mass-mediei europene şi publicului larg.</p>"
+      ],
+      "sk": [
+        "<p>Európske monitorovacie centrum pre drogy a drogovú závislosť (EMCDDA) je centrálnym referenčným miestom pre informácie o drogách v Európskej únii. Jeho úlohou je zhromažďovať, analyzovať a šíriť faktické, objektívne, spoľahlivé a porovnateľné informácie o drogách a drogovej závislosti a zároveň poskytovať zainteresovaným subjektom spoľahlivý a dôkazmi podložený obraz o drogovom fenoméne na európskej úrovni.</p>             <p>Medzi cieľové skupiny centra patria tvorcovia politiky, ktorí využívajú tieto informácie na formulovanie koherentných celoštátnych a celoeurópskych drogových stratégií. EMCDDA takisto slúži odborníkom a výskumníkom v oblasti drog, ako aj európskym médiám a širokej verejnosti.</p>"
+      ],
+      "sl": [
+        "<p>Evropski center za spremljanje drog in zasvojenosti z drogami (EMCDDA) zbira vse podatke o drogah v Evropski uniji. Naloge centra so zbiranje, analiziranje in širjenje „resničnih, objektivnih, zanesljivih in primerljivih podatkov“ o drogah in zasvojenosti z drogami. To omogoča pregled razmer na področju drog v EU, ki temelji na dokazih.</p>             <p>Med ciljne skupine centra spadajo snovalci zakonodaje, ki podatke uporabijo pri oblikovanju ustreznih strategij v boju proti drogam na državni ravni in na ravni Evropske unije. Podatke uporabljajo tudi strokovnjaki in raziskovalci s področja drog ter evropski mediji in širša javnost.</p>"
+      ],
+      "sv": [
+        "<p>Europeiska centrumet för kontroll av narkotika och narkotikamissbruk (ECNN) är knutpunkten för narkotikainformationen i EU. Det har till uppgift att samla in, analysera och sprida objektiv, tillförlitlig och jämförbar information om narkotika och narkotikamissbruk, för att på så sätt ge sina målgrupper en korrekt och väl underbyggd bild av narkotikaproblemen i Europa. </p>             <p>Bland narkotikacentrumets målgrupper finns politiska beslutsfattare som använder informationen för att lägga upp narkotikastrategier nationellt och på EU-nivå. Andra som har nytta av informationen är de som jobbar med narkotikarelaterade frågor, forskare, media och allmänheten.</p>"
+      ]
+    },
+    "info2": {
+      "bg": [
+        "<p>Работата на Центъра е съсредоточена върху подобряването на съпоставимостта на информацията за наркотиците в границите на Европа и изграждането на необходимите за постигане на това методи и инструменти. Благодарение на досегашните усилия на Центъра сега страните от Съюза могат да направят оценка на своето представяне на европейско равнище и да разгледат общите проблеми и цели. Основна характеристика на феномена на наркотиците е неговата променлива, динамична природа, затова проследяването на развитието му е основна задача за EЦМНН. Центърът получава информация предимно от <span class=\"link-disabled\">мрежата Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Избор на превод за предходната връзка\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Избор на превод за предходната връзка\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> - група от национални центрове във всяка от 28-те страни от ЕС, Норвегия, страните кандидатки и Европейската комисия.  Годишният доклад за състоянието на проблема с наркотиците в Европа и статистическият онлайн бюлетин предлагат годишен преглед на ситуацията и тенденциите в Европа. Същевременно онлайн прегледът на ситуацията по държави предоставя голям обем данни относно наркотиците на национално ниво.</p>             <p>Дейността на EЦМНН е основана на предположението, че добрата информираност е ключът към ефективна стратегия за борба с наркотиците. Въпреки че Центърът не може да предложи определен политически модел, той вече оказва явно въздействие върху вземането на решения чрез своите анализи, инструменти и стандарти.</p>"
+      ],
+      "cs": [
+        "<p>Hlavním úkolem centra je zlepšit srovnatelnost informací o drogách a drogové závislosti v Evropě a vytvořit za tímto účelem vhodné metody a nástroje. Díky jeho činnosti mají nyní země možnost porovnat svou situaci se zbytkem Evropy, vysledovat společné problémy a stanovit si společné cíle. V drogové problematice dochází k neustálým změnám, a proto se EMCDDA zaměřuje na sledování nových trendů. Informace získává centrum především od <span class=\"link-disabled\">sítě Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrat překlad k předcházejícímu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrat překlad k předcházejícímu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>,  v níž spolupracuje 28 členských států EU, dále Norsko, kandidátské země a Evropská komise. Síť každoročně vydává zprávu o stavu drogové problematiky v Evropě a na internetu rovněž zveřejňuje statistický přehled.  Podrobnější údaje o této problematice v jednotlivých členských zemích lze současně nalézt v přehledech na internetu.</p>             <p>EMCDDA při své práci vychází z předpokladu, že účinná protidrogová strategie se musí zakládat na spolehlivých informacích.  Ačkoli centrum nemá pravomoc navrhovat samotné politické modely, zásadním způsobem se prostřednictvím svých analýz, instrumentů a norem podílí na rozhodovacím procesu.</p>"
+      ],
+      "da": [
+        "<p>Centrets vigtigste opgave er at forbedre narkotikaoplysningers sammenlignelighed i Europa og udtænke metoder og værktøjer til at opnå dette. Bestræbelserne har indtil nu ført til, at lande nu kan se, hvor de står fra en bredere europæisk synsvinkel, og se nærmere på de fælles problemer og mål. Et afgørende element ved narkotikaproblemet er dets skiftende og dynamiske natur, og en central opgave for EMCDDA er derfor at spore den nye udvikling. Centret får primært sine oplysninger fra \"<span class=\"link-disabled\">Reitox-nettet</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vælg oversættelse af det forrige link\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vælg oversættelse af det forrige link\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>\":  en gruppe med kontaktpunkter i alle 28 EU-lande, Norge, EU-kandidatlandene og Europa-Kommissionen. Årsrapporten om narkotikaproblematikken i EU og en statistisk onlinerapport giver en årlig oversigt over den seneste situation og udvikling for narkotika i Europa. Derudover giver onlineoversigter efter land en stor mængde nationale narkotikaoplysninger.</p>             <p>EMCDDA  arbejder ud fra den grundsætning, at velfunderede oplysninger er nøglen til en effektiv narkotikastrategi. Centret kan ikke selv foreslå nogen politisk model, men har med sine analyser, instrumenter og standarder stor indflydelse på beslutningstagningen. </p>"
+      ],
+      "de": [
+        "<p>Eines der Hauptziele der Beobachtungsstelle besteht darin, eine bessere Vergleichbarkeit der Informationen zum Drogenproblem innerhalb Europas zu erreichen und die notwendigen Methoden und Instrumente zur Verwirklichung dieses Ziels zu entwickeln. Aufgrund der geleisteten Arbeit können die Länder nunmehr beurteilen, wie sie sich im europäischen Gesamtbild ausmachen und gemeinsame Probleme und Zielsetzungen prüfen. Die Drogenproblematik zeichnet sich vor allem durch ihre Wechselhaftigkeit und Dynamik aus, weshalb eine zentrale Aufgabe der EBDD darin besteht, neue Entwicklungen zu erkennen und zu verfolgen. Ihre Informationen bezieht die Beobachtungsstelle in erster Linie aus dem <span class=\"link-disabled\">Reitox-Netzwerk</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Übersetzung für diesen Link wählen\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Übersetzung für diesen Link wählen\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, zu dem Kontaktstellen in allen 28 EU-Mitgliedstaaten sowie Norwegen, den Kandidatenländern und bei der Europäischen Kommission zählen. Der Jahresbericht über den Stand der Drogenproblematik in Europa sowie ein online veröffentlichtes Statistikbulletin geben alljährlich einen Überblick über die aktuelle Situation und die neuesten Trends in Europa. Darüber hinaus stellt die Agentur auf ihren Internetseiten aktuelle Länderprofile mit umfangreichen Informationen zur Drogensituation in den einzelnen Ländern zur Verfügung.</p>             <p>Der Arbeit der EBDD liegt die Annahme zugrunde, dass solide Informationen der Schlüssel zu einer wirksamen Drogenstrategie sind. Auch wenn die Beobachtungsstelle kein Modell für eine Drogenpolitik anzubieten vermag, so beeinflusst sie doch dank ihrer Analysen, Instrumente und Standards deutlich die Entscheidungsfindung.</p>"
+      ],
+      "el": [
+        "<p>Κύριος στόχος του κέντρου είναι η βελτίωση της συγκρισιμότητας των στοιχείων για τα ναρκωτικά σε όλη την Ευρώπη, καθώς και η αναζήτηση των αναγκαίων μεθόδων και εργαλείων για την επίτευξη του στόχου αυτού. Χάρη στο μέχρι σήμερα έργο του κέντρου, οι χώρες μπορούν να γνωρίζουν ποια είναι η θέση τους σε μια γενικότερη κατάταξη σε ευρωπαϊκό επίπεδο και να εξετάζουν κοινά προβλήματα και στόχους.  Κύριο χαρακτηριστικό του προβλήματος των ναρκωτικών είναι η μεταβαλλόμενη και δυναμική φύση του, και γι΄ αυτό η παρακολούθηση των τελυταίων εξελίξεων αποτελεί βασικό καθήκον του ΕΚΠΝΤ.  Το κέντρο συλλέγει στοιχεία κατά κύριο λόγο από το \"<span class=\"link-disabled\">δίκτυο Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>\": ένα δίκτυο σημείων επαφής σε καθένα από τα 28 κράτη μέλη της ΕΕ, τη Νορβηγία, τις υποψήφιες για προσχώρηση στην ΕΕ χώρες, καθώς και την Ευρωπαϊκή Επιτροπή.  Η ετήσια έκθεση για το πρόβλημα των ναρκωτικών στην Ευρώπη και ένα ηλεκτρονικό δελτίο στατιστικών στοιχείων παρέχουν σε ετήσια βάση μια εικόνα της κατάστασης και των τάσεων στην Ευρώπη. Επίσης, ηλεκτρονικές επισκοπήσεις της κατάστασης ανά χώρα αποτελούν πλούσια πηγή εθνικών στοιχείων για τα ναρκωτικά.</p>             <p>Το ΕΚΠΝΤ εργάζεται με βάση την παραδοχή ότι τα σωστά στοιχεία αποτελούν το κλειδί για μια αποτελεσματική στρατηγική για τα ναρκωτικά.  Μολονότι το κέντρο δεν μπορεί να προτείνει κανενός είδους μοντέλο πολιτικής, επηρεάζει σαφώς τη λήψη αποφάσεων μέσω των αναλύσεων, των εργαλείων και των προτύπων που ορίζει.</p>"
+      ],
+      "en": [
+        "<p>At the heart of the Centre’s work is the task of improving the comparability of drug information across Europe and devising the methods and tools required to achieve this. As a result of efforts to date, countries can now view how they fit into the wider European picture and examine common problems and goals. A key feature of the drug phenomenon is its shifting, dynamic nature, and tracking new developments is a central task of the EMCDDA. The Centre obtains information primarily from the ‘<a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\">Reitox network</a>’: a group of focal points in each of the 28 EU Member States, Norway, the candidate countries to the EU and at the European Commission. The Annual report on the state of the drugs problem in Europe and an online Statistical bulletin offer a yearly overview of the latest European drug situation and trends. Meanwhile online Country overviews provide a rich pool of national drug-related data.</p>             <p>The EMCDDA works on the assumption that sound information is the key to an effective strategy on drugs. Although the Centre cannot propose any kind of policy model, it is now making a clear impact on decision-making through its analyses, instruments and standards.</p>"
+      ],
+      "es": [
+        "<p>Uno de los principales objetivos del Observatorio se centra en ofrecer información sobre drogas que sea más fácilmente comparable en toda Europa, diseñando los métodos e instrumentos necesarios para lograrlo. Los resultados obtenidos hasta la fecha han permitido a los países calibrar su posición dentro de una perspectiva europea más amplia y analizar los problemas y objetivos comunes. Uno de los rasgos fundamentales del fenómeno de las drogas es su naturaleza cambiante y dinámica. De ahí que vigilar su evolución sea uno de los principales cometidos del OEDT. La principal fuente de información del Observatorio es la <span class=\"link-disabled\">\"red Reitox\"</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Elija traducciones del enlace precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Elija traducciones del enlace precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, integrada por centros de referencia de los 28 Estados miembros, Noruega, los países candidatos a la UE y la Comisión Europea. El Informe anual sobre el problema de la drogodependencia en Europa y el \"Statistical bulletin\" (boletín estadístico online) proporcionan cada año un panorama general actualizado de la situación y las tendencias en Europa. Además, los \"Country overviews\" (resúmenes online de datos nacionales) constituyen una valiosa fuente de información nacional sobre este fenómeno.</p>             <p>El OEDT trabaja sobre la premisa de que la información de calidad es la clave para una estrategia eficaz en materia de drogas. Aunque el Observatorio no pueda proponer ningún modelo de políticas, ejerce actualmente una clara influencia en la toma de decisiones mediante sus análisis, instrumentos y normas.</p>"
+      ],
+      "et": [
+        "<p>Keskuse tegevuse fookuses on parandada narkootikume käsitleva teabe võrreldavust Euroopas ning kavandada selle saavutamiseks vajalikke meetodeid ja vahendeid.   Seniste jõupingutuste ulemusena saavad riigid nüüd hinnata, kuidas nad sobituvad laiemasse Euroopa konteksti ning uurida ühiseid probleeme ja eesmärke. Narkoprobleemi põhiolemus seisneb selle muutumises - seega on uute suundumuste kindlakstegemine keskuse jaoks tähtis ülesanne. Keskus saab oma teabe põhiliselt <span class=\"link-disabled\">võrgustiku Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Valige lingiga seotud tõlked\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Valige lingiga seotud tõlked\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> vahendusel. See on rühm teabekeskusi ELi 28 liikmesriigis, Norras, ELi kandidaatriikides ja Euroopa Komisjonis.  Iga-aastane aruanne narkoprobleemiga seotud olukorra kohta Euroopas ning Internetis kättesaadav statistiline väljaanne annavad viimase ülevaate asjakohasest olukorrast ja suundumustest Euroopas.  Riikide ülevaadetes Internetis leidub hulgaliselt eri riike käsitlevat narkootikumidega seotud teavet. </p>             <p>Keskus lähtub eeldusest, et usaldusväärne teave on tõhusa narkostrateegia aluseks. Keskus ei saa küll pakkuda välja poliitikat, kuid ta mõjutab kindlasti otsuste tegemist oma analüüside, vahendite ja standardite kaudu.</p>"
+      ],
+      "fi": [
+        "<p>Keskuksen toiminnan ydintehtävä on pyrkiä parantamaan huumetiedon vertailtavuutta kautta Euroopan ja kehittämään menetelmiä sekä työvälineitä tämän tavoitteen saavuttamiseksi. Tähänastisten ponnistelujen tuloksena eri maat voivat jo nähdä, miten ne sijoittuvat laajempaan eurooppalaiseen kokonaiskuvaan, sekä pohtia yhteisiä ongelmia ja tavoitteita. Koko huumekysymyksen keskeinen piirre on sen vaihteleva ja dynaaminen luonne, minkä vuoksi uusien kehityssuuntausten havaitseminen onkin EMCDDA:n keskeinen tehtävä. EMCDDA saa tietoja ensisijassa <span class=\"link-disabled\">Reitox-verkostolta</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Näytä edellisen linkin kieliversiot\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Näytä edellisen linkin kieliversiot\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, joka koostuu EU:n kunkin 28 jäsenvaltion, Norjan, jäsenehdokasvaltioiden ja Euroopan komission seurantakeskuksista. Vuosiraportti Euroopan huumeongelmasta ja online-muodossa julkaistu tilastotiedote (Statistical bulletin) tarjoavat vuotuisen katsauksen uusimpaan huumetilanteeseen ja sen kehityssuuntauksiin. Myös maakohtaiset yleiskatsaukset (Country overviews) tarjoavat paljon huumeisiin liittyvää tietoa online-muodossa.</p>             <p>‏‏EMCDDA:n toiminnan periaatteena on ajatus, että oikea tieto on tehokkaan huumestrategian perusedellytys. Vaikka seurantakeskus ei voikaan ehdottaa minkäänlaista huumepolitiikan mallia, se vaikuttaa nykyään näkyvästi päätöksentekoon analyysiensa, tiedonkeruuvälineidensä ja -standardiensa välityksellä.</p>"
+      ],
+      "fr": [
+        "<p>L'Observatoire a pour mission principale d'améliorer la comparabilité des informations sur les drogues dans toute l'Europe et de définir les méthodes et outils nécessaires pour y parvenir. Grâce à son travail, les pays de l'UE sont désormais en mesure de se situer dans le paysage européen et d'analyser leurs problèmes et objectifs communs. Le phénomène des drogues étant par nature mouvant et évolutif, le suivi des nouvelles tendances fait partie des tâches centrales de l'Observatoire. Sa principale source d'informations est le <span class=\"link-disabled\">réseau Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Choisir les traductions du lien précédent\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Choisir les traductions du lien précédent\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Ce réseau est composé de centres d'informations (appelés «points focaux») établis dans chacun des pays membres de l'UE, ainsi qu'en Norvège et dans les pays candidats à l'UE. La Commission européenne en fait également partie.  Deux publications offrent chaque année une vue d’ensemble de la situation des drogues et des nouvelles tendances: le Rapport annuel sur l'état du phénomène de la drogue en Europe et le Bulletin statistique, disponible en ligne. Parallèlement, les profils par pays (Country situation overviews), également publiés sur le site de l'Observatoire, sont une source d’informations précieuse sur la situation des drogues dans chaque pays.</p>             <p>Le principe guidant le travail de l'OEDT est qu'une information approfondie est indispensable à la mise en œuvre d'une stratégie efficace en matière de drogue. S'il n'a pas vocation à proposer des mesures types, l'Observatoire exerce aujourd'hui une influence manifeste sur les processus décisionnels, par les analyses, les instruments et les normes qu'il élabore.</p>"
+      ],
+      "ga": [
+        "<p>Croí na hoibre sa Lárionad, sin inchomparáideacht na faisnéise faoi dhrugaí ar fud na hEorpa a fheabhsú agus teacht ar na modhanna is uirlisí is gá chuige sin.   Mar thoradh ar na hiarrachtaí, anois tá tíortha in ann a n-ionad sa phictiúr leathan Eorpach a mheas agus comhfhadhbanna is comhchuspóirí a scrúdú.   Gné lárnach d'fheiniméan na ndrugaí, sin a nádúr luaineach, dinimiciúil agus mar sin is cúram lárnach de chuid an EMCDDA forbairtí nua a rianú.   Ón ‘<span class=\"link-disabled\">líonra Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>’ go priomha a fhaigheann an Lárionad an fhaisnéis:   sin grúpa lárphointí i ngach ceann de 28 Ballstát an AE, san Iorua, san tíortha is iarrthóirí agus sa Choimisiún Eorpach.   I dTuarascáil Bhliantúil ar fhadhb na ndrugaí san Eoraip agus san fheasachán Staidrimh ar líne tá forléargas bliantúil ar a bhful ag tarlú san Eoraip maidir le drugaí agus ar na treochtaí.   Idir an dá linn, tugann forléargais Tíre lear saibhir sonraí náisiúnta faoi dhrugaí.  </p>             <p>Glacann an EMCDDA leis gur rud lárnach i straitéis éifeachtach ar dhrugaí is ea faisnéis iontaofa.   Bíodh nach féidir leis an Lárionad aon chineál de shamhail beartais a mholadh, is tá tionchar soiléir aige anois ar an gcinnteoireacht trína chuid taifeach, uirlisí agus caighdeán.  </p>"
+      ],
+      "hr": [
+        "<p>Osnovni je cilj Centra poboljšati usporedivost podataka o drogi na europskoj razini te razviti metode i alate kojima bi se to postiglo. Zahvaljujući dosadašnjim naporima zemlje mogu sagledati svoj položaj u širemu europskom kontekstu te razmotriti zajedničke probleme i ciljeve. Problem droge obilježen je promjenjivošću i dinamikom, što praćenje novih razvoja čini središnjim zadatkom EMCDDA-a. Centar dobiva informacije prvenstveno zahvaljujući mreži <span class=\"link-disabled\">„Reitox“</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Odaberi prijevod prethodne poveznice\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Odaberi prijevod prethodne poveznice\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, skupini kontaktnih točaka u 28 država članica EU-a, Norveškoj, državama kandidatkinjama i Europskoj komisiji. Godišnje izvješće o problemu droge u Europi i internetski statistički bilten omogućuju godišnji pregled aktualnoga stanja i trendova vezanih uz problem droge u Europi. Uz to, profili zemalja objavljeni na internetu bogat su izvor nacionalnih podataka vezanih uz drogu.</p>             <p>EMCDDA djeluje pod pretpostavkom da je pouzdana informacija temelj učinkovite strategije za suzbijanje droge. Iako Centar nije ovlašten predlagati model politike, svojim analizama, instrumentima i standardima jasno utječe na odluke koje se donose.</p>"
+      ],
+      "hu": [
+        "<p>A központ fő feladata, hogy javítsa a kábítószerrel kapcsolatos információk európai szintű összehasonlíthatóságát, és kidolgozza az ehhez szükséges módszereket és eszközöket. Az eddigi erőfeszítések eredményeként az egyes országok immár áttekinthetik, hogyan illeszkednek be a szélesebb európai panorámába, és megvizsgálhatják a közös problémákat és célokat. A kábítószerhelyzet alakulását változékonyság, dinamizmus jellemzi, ezért az új fejlemények követése az EMCDDA egyik fontos feladata. A központ az információkat elsősorban a <span class=\"link-disabled\">Reitox hálózattól</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Az előző linken elérhető szöveg fordításai\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Az előző linken elérhető szöveg fordításai\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, azaz a 28 EU-tagország, Norvégia, a tagjelölt országok és a Bizottság kapcsolattartó pontjainak hálózatától szerzi. A kábítószer-probléma európai helyzetéről beszámoló éves jelentés és az online statisztikai közlöny éves áttekintést nyújt a kábítószerrel kapcsolatos aktuális helyzetről és a legújabb tendenciákról, az online országjelentések pedig a nemzeti kábítószerügyi adatokhoz adnak hozzáférést.</p>             <p>Az EMCDDA munkáját az az elgondolás vezérli, hogy a kábítószerügyi stratégiák sikerének a kulcsa a megalapozott információban rejlik. Jóllehet a központ nem javasolhat szakpolitikai intézkedéseket, az általa végzett elemzések, valamint az általa kidolgozott eszközök és szabványok nyilvánvaló befolyást gyakorolnak a döntéshozatalra.</p>"
+      ],
+      "it": [
+        "<p>L'obiettivo principale dell'Osservatorio è migliorare la comparabilità delle informazioni sulla droga in tutta Europa ed elaborare i metodi e gli strumenti necessari a tal fine.  Gli sforzi finora compiuti hanno permesso ai paesi partecipanti di collocarsi nel più ampio panorama europeo e analizzare problemi e obiettivi comuni. Una caratteristica fondamentale del fenomeno della droga è la sua natura mutevole e dinamica: individuare le nuove tendenze è il compito principale dell'OEDT. L'Osservatorio raccoglie le informazioni essenzialmente attraverso la \"<span class=\"link-disabled\">rete Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Scegli le traduzioni del link precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Scegli le traduzioni del link precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>\", un gruppo di punti focali situati in ciascuno dei 28 Stati membri dell'UE, in Norvegia, nei paesi candidati e presso la Commissione europea. La relazione annuale sull'evoluzione del fenomeno della droga in Europa e un bollettino statistico online presentano gli sviluppi e le tendenze più recenti in Europa. Inoltre, una serie di sintesi riguardanti i singoli paesi fornisce online molti dati relativi alla droga sul piano nazionale.</p>             <p>Il lavoro dell'OEDT si basa sulla premessa che una corretta informazione è il presupposto fondamentale per una strategia efficace in materia di droga. Pur non potendo proporre un modello politico, l'Osservatorio ha un impatto evidente sul processo decisionale attraverso le analisi, gli strumenti e le metodologie elaborati.</p>"
+      ],
+      "lt": [
+        "<p>Viena iš svarbiausių centro užduočių – gerinti informacijos apie narkotikus Europoje palyginamumą bei rengti tam reikalingą metodiką ir priemones. Iki šiol pasiekta tai, kad šalys dabar gali susidaryti savo padėties Europoje vaizdą ir svarstyti bendras problemas bei tikslus. Narkomanijos reiškinys pasižymi nepastovumu ir dinamiškumu, o sekti naujas jos apraiškas ir kitimą yra svarbiausia Europos narkotikų ir narkomanijos stebėsenos centro užduotis. Informaciją centras gauna visų pirma iš <span class=\"link-disabled\">tinklo „Reitox“</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Pasirinkti šios nuorodos vertimus\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Pasirinkti šios nuorodos vertimus\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> –  tai kontaktinių centrų visose 28 ES valstybėse narėse, Norvegijoje, šalyse kandidatėse ir Europos Komisijoje grupė. Naujausia narkomanijos padėtis ir tendencijos Europoje kasmet apžvelgiama metiniame pranešime apie narkotikų problemos Europoje padėtį ir elektroninėje statistikos suvestinėje, o elektroninėse šalių apžvalgose pateikiama daug duomenų apie narkomaniją atskirose šalyse.</p>             <p>Europos narkotikų ir narkomanijos stebėsenos centras savo veikloje laikosi principo, kad patikima informacija yra būtina veiksmingos kovos su narkomanija strategijos prielaida. Nors centras negali siūlyti jokių politikos modelių, jo analizė, priemonės ir standartai turi neginčijamos įtakos priimamiems sprendimams.</p>"
+      ],
+      "lv": [
+        "<p>Centra galvenais uzdevums ir uzlabot ar narkotikām saistītas informācijas salīdzināmību visā Eiropā un radīt šā mērķa sasniegšanai vajadzīgās metodes un rīkus. Pateicoties līdzšinējiem pūliņiem valstis tagad var novērtēt sevi plašākā Eiropas mērogā un apzināt kopīgās problēmas un mērķus. Viena no narkotiku problēmas pamatiezīmēm ir tās mainīgums un dinamiskums, bet EMCDDA galvenais uzdevums ir sekošana līdzi jaunajām tendencēm. Centrs informāciju saņem pirmām kārtām no tīkla “<span class=\"link-disabled\">Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Izvēlieties saites tulkojumu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Izvēlieties saites tulkojumu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>”. Tajā ietilpst koordinācijas centri visās 28 Eiropas Savienības dalībvalstīs, Norvēģijā, ES kandidātvalstīs un Eiropas Komisijā. Ikgadējā ziņojumā par to, kāds Eiropā ir stāvoklis narkotiku jomā, un internetā pieejamā statistikas biļetenā var gūt pārskatu par jaunākajām tendencēm. Plaša un daudzveidīga informācija par situāciju katrā valstī atsevišķi atrodama internetā publicētos pārskatos par valstīm.</p>             <p>EMCDDA darbojas, pamatojoties uz pieņēmumu, ka pienācīgai informācijai ir galvenā nozīme efektīvā narkotiku stratēģijā.  Lai arī centrs nedrīkst piedāvāt politiskus risinājumus, tas pavisam noteikti ietekmē lēmumu pieņemšanu ar analīzes, instrumentu un standartu palīdzību.</p>"
+      ],
+      "mt": [
+        "<p>Fil-qalba tal-ħidma taċ-Ċentru hemm l-isfida tat-titjib tal-ipparagunar tal-informazzjoni dwar id-droga madwar l-Ewropa u s-sejba tal-metodi u l-għodda meħtieġa biex dan jinkiseb. B'riżultat tal-isforzi s'issa, il-pajjiżi jistgħu jaraw kif jidhru fl-Ewropa u jeżaminaw il-problemi u l-għanijiet komuni. Element ewlieni tal-fenomenu tad-droga huwa n-natura dinamika, dejjem tiċċaqlaq tad-droga. Iċ-Ċentru għandu l-impenn ċentrali li jintraċċa l-iżviluppi l-ġodda. Iċ-Ċentru jġib l-informazzjoni l-aktar min-‘<span class=\"link-disabled\">netwerk Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>’: grupp ta' punti fokali f'kull wieħed mis-28 Stat Membru tal-UE, kif ukoll in-Norveġja, il-pajjiżi kandidati tal-UE u l-Kummissjoni Ewropea. Ir-rapport Annwali dwar l-istat tal-problema tad-droga fl-Ewropa u l-bullettin elettroniku tal-Istatistika joffru dehra annwali tas-sitwazzjoni u t-tendenzi tad-droga fl-Ewropa. Sadanittant ħarsiet ġenerali tal-Pajjiżi onlajn jipprovdu ġabra għanja ta' tagħrif nazzjonali li għandu x'jaqsam mad-droga.</p>             <p>Iċ-Ċentru jaħdem billi jassumi li l-informazzjoni tajba hija strumentali għal strateġija effettiva dwar id-droga. Għalkemm iċ-Ċentru ma jistax jipproponi xi tip ta' mudell politiku, xorta qed iħalli impatt ċar fuq it-teħid tad-deċiżjonijiet permezz tal-analiżi, l-istrumenti u l-istandards.</p>"
+      ],
+      "nl": [
+        "<p>Kernactiviteiten van het Waarnemingscentrum zijn het vergelijkbaar maken van informatie over drugs in Europa en het ontwikkelen van methoden en instrumenten hiertoe. Daardoor kunnen landen nu nagaan hoe zij in het grotere Europese beeld passen en de gemeenschappelijke problematiek en maatregelen tegen drugs onderzoeken. Grilligheid en dynamiek zijn de belangrijkste kenmerken van de drugsproblematiek en het EWDD richt zich dan ook voornamelijk op het opsporen van nieuwe ontwikkelingen. Het Waarnemingscentrum krijgt zijn informatie voornamelijk van het <span class=\"link-disabled\">Reitox-netwerk</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Bekijk deze link in een andere taal\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Bekijk deze link in een andere taal\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> van \"national focal points\" in elk van de 28 EU-lidstaten, Noorwegen, de kandidaat-lidstaten van de EU en bij de Europese Commissie. In het jaarverslag over de stand van de drugsproblematiek in Europa en in het online Statistical bulletin wordt een jaarlijks overzicht gegeven van de actuele situatie en nieuwe trends. Ondertussen wordt in de online Country overviews een schat aan gegevens over drugs uit afzonderlijke landen verstrekt.</p>             <p>Het EWDD gaat ervan uit dat gedegen informatie de sleutel is tot een doelmatig drugsbeleid. Ook al mag het Waarnemingscentrum geen beleidsmodel voorstellen, toch wordt nu dankzij de analyses, instrumenten en normen van het EWDD een duidelijke invloed op de besluitvorming zichtbaar.</p>"
+      ],
+      "pl": [
+        "<p>Głównym celem działalności agencji jest zwiększenie porównywalności informacji o narkotykach i narkomanii w Europie oraz wypracowanie metod i narzędzi koniecznych do osiągnięcia tego celu. W wyniku dotychczasowych działań państwa mogą stwierdzić, jak wypadają na tle innych krajów europejskich, oraz przeanalizować wspólne problemy i cele. Kluczową cechą problemu narkotyków jest jego zmienność – dynamiczna natura. Dlatego śledzenie jego rozwoju jest głównym zadaniem Centrum. Centrum uzyskuje informacje przede wszystkim od <span class=\"link-disabled\">sieci Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Wybierz wersję językową tego linka\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Wybierz wersję językową tego linka\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> obejmującej krajowe centra monitoringu obecne w każdym z 28 państw członkowskich UE, Norwegii, w krajach kandydujących do UE oraz przy Komisji Europejskiej. Sprawozdanie roczne dotyczące problemu narkotyków w Europie oraz internetowy Biuletyn statystyczny umożliwiają roczny przegląd obecnej sytuacji i trendów w tym zakresie. Z kolei internetowe streszczenia dotyczące sytuacji w poszczególnych krajach stanowią bogaty zbiór danych krajowych na temat narkotyków.</p>             <p>EMCDDA wychodzi z założenia, że rzetelne informacje mają zasadnicze znaczenie dla skutecznej strategii antynarkotykowej. Choć Centrum nie może proponować żadnych rozwiązań politycznych, ma wyraźny wpływ na proces podejmowania decyzji przez swoje analizy, instrumenty i standardy.</p>"
+      ],
+      "pt": [
+        "<p>Um dos principais objectivos do OEDT é melhorar a comparabilidade das informações relacionadas com a droga disponíveis em toda a Europa e desenvolver métodos e instrumentos para o conseguir.  Fruto dos esforços desenvolvidos, os países podem agora comparar a sua situação com o resto da Europa e examinar problemas e objectivos comuns.  Uma das características essenciais do fenómeno da droga é a sua constante mutação, pelo que o acompanhamento dos novos desenvolvimentos é uma tarefa essencial do OEDT. A principal fonte de informação da agência é a <span class=\"link-disabled\">Rede Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traduções da ligação anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traduções da ligação anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>: uma rede constituída por entidades dos 28 países da UE, da Noruega, dos países candidatos à adesão à UE e da Comissão Europeia.  Todos os anos, o Relatório Anual sobre a Evolução do Fenómeno da Droga na União Europeia e na Noruega e um boletim estatístico disponível em linha dão uma panorâmica actualizada da situação e das tendências. Por outro lado, os sumários de informação nacional, também em linha, fornecem um conjunto variado de dados relacionados com a droga para cada país.</p>             <p>O trabalho do OEDT assenta no pressuposto de que a boa informação é indispensável para uma estratégia eficaz de combate à droga. E, apesar de não poder propor qualquer tipo de modelo político, o OEDT tem um impacto inegável no processo de decisão através das análises, dos instrumentos e das normas que disponibiliza. </p>"
+      ],
+      "ro": [
+        "<p>Activităţile OEDT vizează îmbunătăţirea comparabilităţii informaţiilor din Europa şi definirea metodelor şi a instrumentelor necesare pentru a realiza acest lucru. Ca urmare a eforturilor sale, ţările îşi pot analiza acum poziţia într-un context mai larg, european, şi pot examina eventualele probleme şi obiective comune. Toate aspectele legate de droguri se caracterizează printr-o natură dinamică, în perpetuă schimbare. De aceea, una dintre misiunile OEDT este de a urmări evoluţia acestora. Informaţiile sunt culese, în principal, prin „<span class=\"link-disabled\">reţeaua Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traducerile linkului anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traducerile linkului anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>”, care reuneşte puncte de contact din cele 28 de state membre ale UE, Norvegia, ţările candidate şi Comisia Europeană. În fiecare an, Observatorul publică un buletin statistic on-line şi un raport cu privire la situaţia problemei drogurilor în Europa, oferind o prezentare de ansamblu a acesteia şi ilustrând cele mai recente tendinţe. În plus, pune la dispoziţie sinteze on-line cu privire la fiecare ţară în parte.</p>             <p>OEDT îşi desfăşoară activitatea pornind de la premisa că pentru a concepe o strategie antidrog eficientă sunt necesare informaţii corecte.  Deşi nu poate propune niciun fel de model de politică, acesta exercită în prezent o influenţă clară asupra proceselor decizionale, prin intermediul analizelor, instrumentelor şi standardelor sale.</p>"
+      ],
+      "sk": [
+        "<p>Jadrom práce centra je úloha zlepšovať porovnateľnosť informácií o drogách v celej Európe a navrhovať metódy a nástroje na jej splnenie. V dôsledku tohto úsilia môžu dnes krajiny posúdiť, ako zapadajú do širšieho európskeho obrazu a skúmať spoločné problémy a ciele. Hlavnou črtou drogového fenoménu je nestály a dynamický charakter a centrálnou úlohou centra je sledovať nový vývoj. EMCDDA získava informácie najmä zo <span class=\"link-disabled\">siete Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrať preklady k predchádzajúcemu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>: skupiny kontaktných miest v každom z 28 členských štátov EÚ, v Nórsku, kandidátskych krajinách a v Európskej komisii. Výročná správa o stave drogovej problematiky v Európe a online štatistický bulletin poskytujú ročný prehľad o najnovšej situácii a trendoch. Národné prehľady zas ponúkajú bohatý zdroj vnútroštátnych údajov o drogách.</p>             <p>EMCDDA pracuje s predpokladom, že správne informácie sú kľúčom k účinnej drogovej stratégii. Hoci centrum nemôže navrhovať žiadny druh modelu politiky, prostredníctvom svojich analýz, nástrojov a noriem má jasný vplyv na rozhodovanie.</p>"
+      ],
+      "sl": [
+        "<p>Glavni nalogi centra sta izboljšanje primerljivosti podatkov o drogah po Evropi ter oblikovanje načinov in orodij za dosego tega cilja. Center državam pomaga razumeti njihove razmere na področju drog glede na širši evropski prostor ter jim omogoča proučitev skupnih težav in ciljev. Spremenljiva in dinamična narava je temeljna značilnost pojava drog, zato je spremljanje novih gibanj osrednja naloga centra. Center podatke večinoma pridobiva z „<span class=\"link-disabled\">omrežjem Reitox</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Seznam prevodov predhodne povezave\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Seznam prevodov predhodne povezave\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>“ –  skupino kontaktnih točk v vseh 28 državah EU, na Norveškem, v državah kandidatkah za vstop v EU ter v Evropski komisiji. Letno poročilo o stanju na področju drog v Evropi in spletni statistični bilten ponujata vsakoletni pregled stanja in trendov na področju drog v Evropi.  Spletni pregled podatkov po posameznih državah je bogat vir informacij o drogah na državni ravni.</p>             <p>Pri Evropskem centru za spremljanje drog in zasvojenosti z drogami so prepričani, da so zanesljivi podatki bistveni za učinkovito strategijo boja proti drogam.  Čeprav center ne more predlagati določenega modela politike, s svojimi analizami, orodji in standardi močno vpliva na oblikovanje odločitev.</p>"
+      ],
+      "sv": [
+        "<p>Narkotikacentrumets främsta uppgift är att ta fram metoder och redskap som gör det lättare att jämföra narkotikainformation från hela Europa. De olika länderna kan nu lättare se sin egen roll i ett större europeiskt sammanhang och jobba med gemensamma problem och mål. Narkotikaproblematiken förändras ständigt. En viktig uppgift för ECNN är därför att följa den senaste utvecklingen. Narkotikacentrumet får i första hand information via”<span class=\"link-disabled\">Reitox nätverket</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Visa översättning av föregående länk\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Visa översättning av föregående länk\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.emcdda.europa.eu/about/partners/reitox-network\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>” som består av kontaktpunkterna i de 28 EU-länderna samt Norge, kandidatländerna och EU-kommissionen. I årsrapporten om situationen på narkotikaområdet i Europa och den statistiska bulletinen, som publiceras på nätet, får man en årlig översikt över gällande läge och trender. Det finns också information på nätet om narkotikasituationen i varje land (”Country situation summaries”).</p>             <p>Narkotikacentrumets filosofi är att korrekt information är nyckeln till en effektiv narkotikastrategi. Även om narkotikacentrumet inte har mandat att lägga fram någon politisk modell så kan det påverka beslutsfattarna med hjälp av sina analyser, instrument och normer.</p>"
+      ]
+    },
+    "left_sub_menu": {
+      "und": [
+        true
+      ]
+    }
+  }
+}

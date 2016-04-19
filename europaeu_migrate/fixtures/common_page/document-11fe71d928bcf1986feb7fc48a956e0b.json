@@ -1,0 +1,890 @@
+{
+  "_id": "11fe71d928bcf1986feb7fc48a956e0b",
+  "type": "common_page",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/abouteuropa/language_policy/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/abouteuropa/language_policy/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/abouteuropa/language_policy/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/abouteuropa/language_policy/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/abouteuropa/language_policy/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/abouteuropa/language_policy/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/abouteuropa/language_policy/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/abouteuropa/language_policy/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/abouteuropa/language_policy/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/abouteuropa/language_policy/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/abouteuropa/language_policy/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/abouteuropa/language_policy/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/abouteuropa/language_policy/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/abouteuropa/language_policy/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/abouteuropa/language_policy/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/abouteuropa/language_policy/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/abouteuropa/language_policy/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/abouteuropa/language_policy/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/abouteuropa/language_policy/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/abouteuropa/language_policy/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/abouteuropa/language_policy/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/abouteuropa/language_policy/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/abouteuropa/language_policy/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/abouteuropa/language_policy/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Езикова политика"
+      ],
+      "cs": [
+        "Jazyková politika"
+      ],
+      "da": [
+        "Sprogpolitik"
+      ],
+      "de": [
+        "Sprachenpolitik"
+      ],
+      "el": [
+        "Γλωσσική πολιτική"
+      ],
+      "en": [
+        "Language policy"
+      ],
+      "es": [
+        "Política lingüística"
+      ],
+      "et": [
+        "Keelepoliitika"
+      ],
+      "fi": [
+        "kielipolitiikka"
+      ],
+      "fr": [
+        "Politique linguistique"
+      ],
+      "ga": [
+        "Beartas teanga"
+      ],
+      "hr": [
+        "Jezična politika"
+      ],
+      "hu": [
+        "Nyelvpolitika"
+      ],
+      "it": [
+        "Politica linguistica"
+      ],
+      "lt": [
+        "Kalbų politika"
+      ],
+      "lv": [
+        "valodu politika"
+      ],
+      "mt": [
+        "Politika dwar il-lingwa"
+      ],
+      "nl": [
+        "Talenbeleid op de Europa-website"
+      ],
+      "pl": [
+        "Polityka językowa"
+      ],
+      "pt": [
+        "Política em matéria de línguas"
+      ],
+      "ro": [
+        "Politica lingvistică"
+      ],
+      "sk": [
+        "Jazyková politika"
+      ],
+      "sl": [
+        "Jezikovna politika"
+      ],
+      "sv": [
+        "Språkpolicy"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA"
+      ],
+      "cs": [
+        "EUROPA"
+      ],
+      "da": [
+        "EUROPA"
+      ],
+      "de": [
+        "EUROPA"
+      ],
+      "el": [
+        "EUROPA"
+      ],
+      "en": [
+        "EUROPA"
+      ],
+      "es": [
+        "EUROPA"
+      ],
+      "et": [
+        "EUROPA"
+      ],
+      "fi": [
+        "EUROPA"
+      ],
+      "fr": [
+        "EUROPA"
+      ],
+      "ga": [
+        "EUROPA"
+      ],
+      "hr": [
+        "EUROPA"
+      ],
+      "hu": [
+        "EUROPA"
+      ],
+      "it": [
+        "EUROPA"
+      ],
+      "lt": [
+        "EUROPA"
+      ],
+      "lv": [
+        "EUROPA"
+      ],
+      "mt": [
+        "EUROPA"
+      ],
+      "nl": [
+        "EUROPA"
+      ],
+      "pl": [
+        "EUROPA"
+      ],
+      "pt": [
+        "EUROPA"
+      ],
+      "ro": [
+        "EUROPA"
+      ],
+      "sk": [
+        "EUROPA"
+      ],
+      "sl": [
+        "EUROPA"
+      ],
+      "sv": [
+        "EUROPA"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        "COMM/A/5"
+      ],
+      "cs": [
+        "COMM/A/5"
+      ],
+      "da": [
+        "COMM/A/5"
+      ],
+      "de": [
+        "COMM/A/5"
+      ],
+      "el": [
+        "COMM/A/5"
+      ],
+      "en": [
+        "COMM/A/5"
+      ],
+      "es": [
+        "COMM/A/5"
+      ],
+      "et": [
+        "COMM/A/5"
+      ],
+      "fi": [
+        "COMM/A/5"
+      ],
+      "fr": [
+        "COMM/A/5"
+      ],
+      "ga": [
+        "COMM/A/5"
+      ],
+      "hr": [
+        "COMM/A/5"
+      ],
+      "hu": [
+        "COMM/A/5"
+      ],
+      "it": [
+        "COMM/A/5"
+      ],
+      "lt": [
+        "COMM/A/5"
+      ],
+      "lv": [
+        "COMM/A/5"
+      ],
+      "mt": [
+        "COMM/A/5"
+      ],
+      "nl": [
+        "COMM/A/5"
+      ],
+      "pl": [
+        "COMM/A/5"
+      ],
+      "pt": [
+        "COMM/A/5"
+      ],
+      "ro": [
+        "COMM/A/5"
+      ],
+      "sk": [
+        "COMM/A/5"
+      ],
+      "sl": [
+        "COMM/A/5"
+      ],
+      "sv": [
+        "COMM/A/5"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Езици, на които се публикува информация на уебсайта."
+      ],
+      "cs": [
+        "Ve kterých jazycích se zveřejňují informace na stránkách EUROPA"
+      ],
+      "da": [
+        "Information om de sprog, websitets oplysninger foreligger på"
+      ],
+      "de": [
+        "Informationen darüber, in welchen Sprachen die verschiedenen Informationen auf dieser Website veröffentlicht werden."
+      ],
+      "el": [
+        "Πληροφορίες για τις γλώσσες στις οποίες δημοσιεύονται διάφορες πληροφορίες στον ιστότοπο"
+      ],
+      "en": [
+        "Information about languages in which different information is published on the website."
+      ],
+      "es": [
+        "Información sobre las lenguas en las que se publican los distintos tipos de información en esta web."
+      ],
+      "et": [
+        "Millistes keeltes eri teavet veebisaidil avaldatakse."
+      ],
+      "fi": [
+        "EUROPA-sivuston tarjonta eri kielillä"
+      ],
+      "fr": [
+        "Informations sur les langues dans lesquelles les informations sont publiées sur EUROPA."
+      ],
+      "ga": [
+        "Eolas faoi na teangacha ina bhfoilsítear eolas éagsúil ar an suíomh gréasáin."
+      ],
+      "hr": [
+        "Informacije o jezicima na kojima se različite informacije objavljuju na web-mjestu"
+      ],
+      "hu": [
+        "Információk arról, milyen nyelveken olvashatók az EUROPA portálon közzétett különböző információk"
+      ],
+      "it": [
+        "Informazioni sulle lingue in cui sono pubblicate le informazioni sul sito"
+      ],
+      "lt": [
+        "Kuriomis kalbomis skelbiama kokia informacija šioje svetainėje."
+      ],
+      "lv": [
+        "Informācija par valodām, kurās tīmekļa vietnē ir publicēta dažāda informācija."
+      ],
+      "mt": [
+        "Informazzjoni dwar il-lingwi li fihom hi ppubblikata informazzjoni differenti fuq il-websajt."
+      ],
+      "nl": [
+        "Informatie over de talen waarin de informatie op de website beschikbaar is."
+      ],
+      "pl": [
+        "Informacje na temat tego, w jakich językach publikowane są treści w portalu EUROPA"
+      ],
+      "pt": [
+        "Línguas em que são publicadas as informações neste sítio."
+      ],
+      "ro": [
+        "Informații despre limbile în care sunt publicate pe site informații de diverse tipuri."
+      ],
+      "sk": [
+        "Jazyková politika uverejňovania rôznych informácií na tomto portáli."
+      ],
+      "sl": [
+        "Informacije o jezikih na portalu."
+      ],
+      "sv": [
+        "Läs om vilken typ av information som publiceras på vilka språk"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "Многоезичие",
+        "езици",
+        "съдържание на уебсайта",
+        "оптимизиране",
+        "Европейска комисия",
+        "еuropa",
+        "Европейски съюз",
+        "ЕС",
+        "езикова политика"
+      ],
+      "cs": [
+        "mnohojazyčnost",
+        "jazyky",
+        "obsah stránek",
+        "optimalizace",
+        "Evropská komise",
+        "europa, evropa",
+        "Evropská unie",
+        "EU",
+        "jazyková politika"
+      ],
+      "da": [
+        "flersprogethed",
+        "sprog",
+        "websitets indhold",
+        "optimere",
+        "europa-kommissionen, kommissionen",
+        "europa",
+        "den europæiske union, unionen",
+        "EU",
+        "sprogpolitik"
+      ],
+      "de": [
+        "Mehrsprachigkeit",
+        "Sprachen",
+        "Inhalt der Website",
+        "optimieren",
+        "Europäische Kommission",
+        "Europa",
+        "Europäische Union",
+        "EU",
+        "Sprachenregelung, Sprachenpolitik"
+      ],
+      "el": [
+        "Πολυγλωσσία",
+        "γλώσσες",
+        "περιεχόμενο του ιστότοπου",
+        "βελτιστοποίηση",
+        "Ευρωπαϊκή Επιτροπή",
+        "europa",
+        "Ευρωπαϊκή Ένωση",
+        "ΕΕ",
+        "Γλωσσική πολιτική"
+      ],
+      "en": [
+        "Multilingualism",
+        "languages",
+        "European Commission",
+        "europa",
+        "European Union",
+        "EU",
+        "language policy",
+        "EU official languages? webpage in my own languag"
+      ],
+      "es": [
+        "Multilingüismo",
+        "lenguas, idiomas",
+        "contenido del sitio",
+        "optimizar",
+        "Comisión Europea",
+        "europa",
+        "Unión Europea",
+        "UE",
+        "política lingüística"
+      ],
+      "et": [
+        "Mitmekeelsus",
+        "keeled",
+        "veebisaidi sisu",
+        "optimeerimine",
+        "Euroopa Komisjon",
+        "europa",
+        "Euroopa Liit",
+        "EL",
+        "Keelepoliitika"
+      ],
+      "fi": [
+        "Monikielisyys",
+        "Kielet",
+        "sisältö",
+        "kielivalikoima",
+        "Euroopan komissio",
+        "Eurooppa, europa",
+        "Euroopan unioni",
+        "EU",
+        "Kielipolitiikka"
+      ],
+      "fr": [
+        "Multilinguisme",
+        "Langues",
+        "Contenu du site web",
+        "optimiser",
+        "Commission européenne",
+        "Europa",
+        "Union européenne",
+        "ue",
+        "politique linguistique"
+      ],
+      "ga": [
+        "Ilteangachas",
+        "teangacha",
+        "inneachar suímh gréasáin",
+        "barrfheabhsú",
+        "An Coimisiún Eorpach",
+        "europa",
+        "An tAontas Eorpach",
+        "AE",
+        "beartas teanga"
+      ],
+      "hr": [
+        "Višejezičnost",
+        "jezici",
+        "sadržaj web-mjesta",
+        "optimizacija",
+        "Europska komisija",
+        "europa",
+        "Europska unija",
+        "EU",
+        "jezična politika"
+      ],
+      "hu": [
+        "Többnyelvűség",
+        "nyelvek, nyelvismeret",
+        "a portál tartalma, a webhely tartalma, a honlap",
+        "optimalizálás, optimalizál",
+        "Európai Bizottság",
+        "EUROPA, Európa",
+        "Európai Unió",
+        "EU",
+        "nyelvpolitika"
+      ],
+      "it": [
+        "multilinguismo",
+        "lingue",
+        "contenuti del sito",
+        "ottimizzare",
+        "Commissione europea",
+        "europa",
+        "Unione europea",
+        "UE",
+        "politica linguistica"
+      ],
+      "lt": [
+        "Daugiakalbystė",
+        "kalbos",
+        "svetainės turinys",
+        "optimizuoti",
+        "Europos Komisija",
+        "Europa",
+        "Europos Sąjunga",
+        "ES",
+        "kalbų politika"
+      ],
+      "lv": [
+        "Daudzvalodība",
+        "valodas",
+        "Vietnes saturs",
+        "optimizēt",
+        "Eiropas Komisija",
+        "europa",
+        "Eiropas Savienība",
+        "ES",
+        "valodu politika"
+      ],
+      "mt": [
+        "Multilingwiżmu",
+        "lingwi",
+        "kontenut tal-websajt",
+        "ottimizza",
+        "Kummissjoni Ewropea",
+        "europa",
+        "Unjoni Ewropea",
+        "UE",
+        "politika dwar il-lingwa"
+      ],
+      "nl": [
+        "meertaligheid",
+        "talen",
+        "inhoud van de website",
+        "optimaliseren",
+        "Europese Commissie",
+        "Europa, Europa-website",
+        "Europese Unie",
+        "EU",
+        "talenbeleid"
+      ],
+      "pl": [
+        "wielojęzyczność",
+        "języki",
+        "treść strony, zawartość strony",
+        "optymalizacja",
+        "Komisja Europejska",
+        "Europa",
+        "Unia Europejska",
+        "UE",
+        "polityka językowa"
+      ],
+      "pt": [
+        "multilinguismo",
+        "línguas",
+        "conteúdo do sítio",
+        "otimizar",
+        "comissão europeia",
+        "europa",
+        "união europeia",
+        "ue",
+        "política em matéria de línguas, política lin"
+      ],
+      "ro": [
+        "Multilingvism",
+        "limbi străine",
+        "conținutul site-ului",
+        "optimizare",
+        "Comisia Europeană",
+        "europa",
+        "Uniunea Europeană",
+        "UE",
+        "politica lingvistică"
+      ],
+      "sk": [
+        "Viacjazyčnosť",
+        "jazyky",
+        "obsah webovej lokality",
+        "optimalizovať",
+        "Európska komisia",
+        "europa",
+        "Európska únia",
+        "EÚ",
+        "jazyková politika"
+      ],
+      "sl": [
+        "Večjezičnost",
+        "jeziki",
+        "Vsebina spletišča",
+        "optimizirati",
+        "Evropska komisija",
+        "europa",
+        "Evropska unija",
+        "EU",
+        "jezikovna politika, jeziki spletišča"
+      ],
+      "sv": [
+        "flerspråkighet",
+        "språk",
+        "webbinnehåll",
+        "optimera",
+        "europeiska kommissionen, eu-kommissionen",
+        "europa, europa.eu",
+        "europeiska unionen",
+        "eu",
+        "språkpolicy"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "04-300-Information Society Industry"
+      ],
+      "cs": [
+        "04-300-Information Society Industry"
+      ],
+      "da": [
+        "04-300-Information Society Industry"
+      ],
+      "de": [
+        "04-300-Information Society Industry"
+      ],
+      "el": [
+        "04-300-Information Society Industry"
+      ],
+      "en": [
+        "04-300-Information Society Industry"
+      ],
+      "es": [
+        "04-300-Information Society Industry"
+      ],
+      "et": [
+        "04-300-Information Society Industry"
+      ],
+      "fi": [
+        "04-300-Information Society Industry"
+      ],
+      "fr": [
+        "04-300-Information Society Industry"
+      ],
+      "ga": [
+        "04-300-Information Society Industry"
+      ],
+      "hr": [
+        "04-300-Information Society Industry"
+      ],
+      "hu": [
+        "04-300-Information Society Industry"
+      ],
+      "it": [
+        "04-300-Information Society Industry"
+      ],
+      "lt": [
+        "04-300-Information Society Industry"
+      ],
+      "lv": [
+        "04-300-Information Society Industry"
+      ],
+      "mt": [
+        "04-300-Information Society Industry"
+      ],
+      "nl": [
+        "04-300-Information Society Industry"
+      ],
+      "pl": [
+        "04-300-Information Society Industry"
+      ],
+      "pt": [
+        "04-300-Information Society Industry"
+      ],
+      "ro": [
+        "04-300-Information Society Industry"
+      ],
+      "sk": [
+        "04-300-Information Society Industry"
+      ],
+      "sl": [
+        "04-300-Information Society Industry"
+      ],
+      "sv": [
+        "04-300-Information Society Industry"
+      ]
+    },
+    "body": {
+      "bg": [
+        "<p>Нашата цел е да ви предоставим информация на вашия роден език или на език, който разбирате, в зависимост от вида на информацията, която търсите.</p>             <h2>Официални езици на ЕС</h2>             <p>български, хърватски, чешки, датски, нидерландски, английски, естонски, фински, френски, немски, гръцки, унгарски, ирландски, италиански, латвийски, литовски, малтийски, полски, португалски, румънски, словашки, словенски, испански и шведски.</p>             <h2>Други официални езици на страните от ЕС</h2>             <p>За някои езици — като валенсиански/каталонски, баски, галисийски и уелски — в бъдеще ще важат специални правила. В ход са преговори относно разпоредбите със засегнатите страни, които ще поемат разходите.</p>             <h2>Видове информация и езикова политика</h2>             <ul>                <li>                   <b>Законодателство и основни политически документи</b>                   <br/> Публикуват се на всички официални езици на ЕС.</li>                <li>                   <b>Официални документи<br/>                   </b>Достъпни поне на езиците, които са били официални в ЕС в деня на публикацията. Документите, които не са правно задължителни, обикновено се публикуват на английски, френски и немски.</li>                <li>                   <b>Обща информация<br/>                   </b>Публикува се на всички официални езици на ЕС.</li>                <li>                   <b>Спешна или бързо остаряваща информация <br/>                   </b>Първоначално се публикува на един език с оглед на конкретната целева аудитория. По-късно може да се публикува и на други езици в зависимост от нуждите на потребителите.</li>                <li>                   <b>Специализирана информация</b> (техническа информация, кампании, покани за подаване на оферти) и <b>новини / събития</b>                   <br/> Достъпна на ограничен брой езици или дори само на един — изборът зависи от целевата аудитория.</li>             </ul>             <h2>Защо дадена уебстраница не е достъпна на вашия език?</h2>             <p>Понякога потребителите на EUROPA се изненадват, ако не могат да намерят дадена страница на сайта на определен език.</p>             <p>Причината може да е, че просто не сме имали време да преведем всичко — особено когато става въпрос за езиците на страните, присъединили се към ЕС през 2004, 2007 и 2013 г.</p>             <p>Някои сайтове обаче са достъпни само на три, два или дори само на един език (обикновено на английски).</p>             <p>По принцип достъпните в EUROPA езици зависят от следните <b>ограничения</b>:</p>             <ul>                <li>                   <b>превод</b> – имаме достъп до ограничен брой преводачи и ограничен бюджет за превод (средства на данъкоплатците);</li>                <li>                   <b>важност</b> — закони и документи, представляващи голям интерес за обществеността, трябва да бъдат публично достъпни, затова те се публикуват на всички официални езици на ЕС.<br/> Други документи се превеждат само на необходимите езици (например комуникациите с националните органи, организации или лица)</li>                <li>                   <b>разходна ефективност</b> — за да се пестят парите на данъкоплатците, силно специализираните уебстраници с ограничен брой потребители не се публикуват на всички езици. Приоритетът е да се предоставя целенасочена информация бързо и ефективно, дори когато някои потребители ще трябва да я четат на чужд език.</li>                <li>                   <b>спешност</b> — някои публикации трябва да бъдат прочетени незабавно. Публикуваме текста първо само на един или няколко езика (като вземаме предвид целевата аудитория) и по-късно добавяме още езици — на един или няколко етапа.</li>                <li>                   <b>технически</b> ограничения — поддържането на сайт на повече от 20 езика изисква повече хора и пари.</li>             </ul>             <p>Като се има всичко това предвид, EUROPA постепенно ще възприеме следния подход:</p>             <ul>                <li>на <b>първо </b>и<b> второ ниво</b> от всеки сайт ще се публикува достъпна и неподлежаща на чести промени информация за обществеността на <b>всички официални езици</b>.</li>                <li>страниците, съдържащи <b>бързо остаряваща или силно специализирана информация</b>, по принцип ще бъдат публикувани на няколко езика в зависимост от аудиторията.</li>             </ul>"
+      ],
+      "cs": [
+        "<p>Naším cílem je informovat vás ve vašem jazyce nebo v jazyce, kterému rozumíte. Záleží také na tom, jaký typ informací hledáte.</p>             <h2>Úřední jazyky EU</h2>             <p>angličtina, bulharština, čeština, dánština, estonština, finština, francouzština, chorvatština, irština, italština, litevština, lotyština, maďarština, maltština, němčina, nizozemština, polština, portugalština, rumunština, řečtina, slovenština, slovinština, španělština, švédština</p>             <h2>Další úřední jazyky ve členských státech EU</h2>             <p>V budoucnu se budou vztahovat zvláštní pravidla na další jazyky (katalánštinu/valencijštinu, baskičtinu, galicijštinu a velštinu). V současné době se jedná o podobě těchto pravidel s dotyčnými zeměmi, jež ponesou vzniklé náklady.</p>             <h2>Typy informací a jazyková politika</h2>             <ul>                <li>                   <b>Právní předpisy a hlavní politické dokumenty</b>                   <br/> Zveřejňují se ve všech úředních jazycích EU.</li>                <li>                   <b>Úřední dokumenty<br/>                   </b>Úřední dokumenty jsou k dispozici přinejmenším v jazycích, které měly status úředního jazyka EU v den zveřejnění. Ostatní dokumenty, které nejsou právně závazné, se obvykle zveřejňují anglicky, francouzsky a německy.</li>                <li>                   <b>Obecné informace<br/>                   </b>Zveřejňují se ve všech úředních jazycích EU.</li>                <li>                   <b>Naléhavé informace a informace s krátkodobou platností <br/>                   </b>Uvádějí se nejprve v jediném jazyce, s ohledem na svou specifickou cílovou skupinu. Ostatní jazykové verze lze podle potřeb uživatelů přidat později.</li>                <li>                   <b>Specializované informace</b> (technické informace, kampaně, vyhlášení nabídkových řízení) a <b>zprávy/akce</b>                   <br/> Dostupné v omezeném počtu jazyků nebo dokonce jen v jednom – záleží na tom, komu jsou určeny.</li>             </ul>             <h2>Proč není některá internetová stránka k dispozici ve vašem jazyce?</h2>             <p>Uživatelé stránek EUROPA se někdy pozastavují nad tím, že nemohou najít konkrétní stránku portálu EUROPA v určitém jazyce.</p>             <p>To může to být jednoduše tím, že jsme dosud neměli čas přeložit vše – zejména v případě jazyků zemí, které do EU vstoupily v roce 2004, 2007 a 2013.</p>             <p>Některé stránky jsou navíc k dispozici pouze ve třech, dvou nebo dokonce pouze v jednom jazyce (obvykle v angličtině).</p>             <p>To, v jakých jazycích jsou určité stránky portálu EUROPA k dispozici, souvisí především s těmito <b>omezeními</b>:</p>             <ul>                <li>                   <b>překlad</b> – máme jen omezený počet překladatelů a omezený rozpočet pro překlady (v celém rozsahu pochází z peněz daňových poplatníků).</li>                <li>                   <b>důležitost</b> – právní předpisy a dokumenty zásadního veřejného zájmu musí být přístupné nejširší veřejnosti, a proto se uvádějí ve všech úředních jazycích EU.<br/> Ostatní dokumenty se překládají pouze do těch jazyků, do nichž je to nutné (např. při korespondenci s orgány, organizacemi či jednotlivci z členských států)</li>                <li>                   <b>hospodárnost</b> – penězi daňových poplatníků nelze plýtvat, vysoce specializované internetové stránky s omezeným počtem uživatelů tedy nejsou zveřejňovány ve všech jazycích. Prioritou je poskytovat cílené informace rychle a účinně, i když někteří uživatelé budou muset číst v cizím jazyce.</li>                <li>                   <b>naléhavost</b> – některé informace je třeba sdělit okamžitě. Text zveřejňujeme nejprve v jednom nebo několika jazycích (přičemž bereme v úvahu cílovou skupinu ) a poté v jedné nebo několika etapách přidáváme další jazyky.</li>                <li>                   <b>technické</b> překážky – provoz stránek ve více než 20 jazycích si vyžaduje více osob a finančních prostředků.</li>             </ul>             <p>S přihlédnutím ke všemu výše uvedenému bude portál EUROPA vzhledem k jazykovým verzím svých stránek přecházet k tomuto pojetí:</p>             <ul>                <li>                   <b>První</b> a <b>druhá úroveň</b> stránek bude uvádět jednoduché informace dlouhodobější platnosti určené laické veřejnosti. Ty budou přeloženy do <b>všech úředních jazyků</b>.</li>                <li>Stránky obsahující <b>krátkodobě platné nebo velmi odborné informace</b> budou zpravidla uvedeny v několika jazycích – nebo dokonce jen jednom – v závislosti na tom, jakým čtenářům jsou určeny.</li>             </ul>"
+      ],
+      "da": [
+        "<p>Vi gør vores bedste for at give dig oplysninger på dansk – eller et sprog, du kan forstå, alt efter hvilke oplysninger du er interesseret i.</p>             <h2>Officielle EU-sprog</h2>             <p>Bulgarsk, dansk, engelsk, estisk, finsk, fransk, græsk, irsk, italiensk, kroatisk, lettisk, litauisk, maltesisk, nederlandsk, polsk, portugisisk, rumænsk, slovakisk, slovensk, spansk, svensk, tjekkisk, tysk og ungarsk.</p>             <h2>Andre officielle sprog i EU-landene</h2>             <p>I fremtiden vil sprog som catalansk/valenciansk, baskisk, galicisk og walisisk være omfattet af særlige regler. Der er forhandlinger i gang med de berørte lande, som selv skal betale regningen.</p>             <h2>Hvilken slags oplysninger offentliggøres på hvilke sprog?</h2>             <ul>                <li>                   <b>Lovgivning og vigtige politiske dokumenter</b>                   <br/> Offentliggøres på alle officielle EU-sprog.</li>                <li>                   <b>Officielle dokumenter<br/>                   </b>Foreligger som minimum på de sprog, der havde officiel EU-status på udgivelsestidspunktet. Dokumenter, der ikke er juridisk bindende, offentliggøres som regel på engelsk, fransk og tysk.</li>                <li>                   <b>Generelle oplysninger<br/>                   </b>Offentliggøres på alle officielle EU-sprog.</li>                <li>                   <b>Hastende eller kortlivede oplysninger <br/>                   </b>Kommer først på ét sprog, alt efter den specifikke målgruppe. Andre sprog kan tilføjes senere, hvis der er behov for det.</li>                <li>                   <b>Specifikke oplysninger</b> (teknisk information, kampagner, udbud) og <b>nyheder/begivenheder</b>                   <br/> Findes på et begrænset antal sprog eller endda kun på ét – det afhænger af målgruppen.</li>             </ul>             <h2>Hvorfor er det ikke alle sider, der findes på dansk?</h2>             <p>Mange brugere bliver overraskede, hvis de ikke kan finde en bestemt side på EUROPA på et bestemt sprog.</p>             <p>Det kan ganske enkelt være, fordi vi har ikke har haft tid til at oversætte det hele endnu –især når det gælder sprogene i de lande, der kom med i EU i 2004, 2007 og 2013.</p>             <p>Nogle websites findes dog kun på tre, to eller endda kun et enkelt sprog (sædvanligvis engelsk).</p>             <p>Følgende <b>kriterier </b>afgør som regel, om et website på EUROPA foreligger på flere sprog:</p>             <ul>                <li>                   <b>Oversættelse </b>– vi har kun adgang til et begrænset antal oversættere og et begrænset budget (finansieret af skatteyderne).</li>                <li>                   <b>Vigtighed</b> – borgerne skal have adgang til lovgivning og vigtige dokumenter af almen interesse på alle officielle EU-sprog.<br/> Andre dokumenter foreligger kun på de sprog, der er behov for, f.eks. kommunikation med nationale myndigheder, organisationer eller privatpersoner.</li>                <li>                   <b>Omkostningseffektivitet</b> – hvis et website er meget specialiseret og kun besøges af et begrænset antal personer, bliver det ikke offentliggjort på alle sprog for at spare på skatteydernes penge. Det vigtigste er at give målrettede oplysninger hurtigt og effektivt – selv om nogle brugere vil skulle læse dem på et fremmedsprog.</li>                <li>                   <b>Hastende karakter</b> – nogle oplysninger skal ud hurtigst muligt. Vi offentliggør dem først på et eller to sprog (afhængigt af målgruppen) og tilføjer andre sprog senere i et eller flere trin.</li>                <li>                   <b>Tekniske</b> kriterier – det kræver personale og penge at administrere et site på over 20 sprog.</li>             </ul>             <p>EUROPA vil under alle omstændigheder i stigende grad følge disse retningslinjer:</p>             <ul>                <li>Webstedernes <b>første </b>og <b>andet niveau</b> indeholder korte og klare oplysninger til den brede offentlighed på <b>alle officielle sprog</b>.</li>                <li>Sider med <b>kortlivede eller meget specifikke oplysninger</b> vil generelt kun foreligge på et par sprog – eller kun et enkelt – afhængigt af de pågældende brugere.</li>             </ul>"
+      ],
+      "de": [
+        "<p>Je nach Art der gesuchten Informationen sind wir bemüht, Ihnen diese in Ihrer Sprache oder einer Ihnen verständlichen Sprache zur Verfügung zu stellen.</p>             <h2>EU-Amtssprachen</h2>             <p>Bulgarisch, Dänisch, Deutsch, Englisch, Estnisch, Finnisch, Französisch, Griechisch, Irisch, Italienisch, Kroatisch, Lettisch, Litauisch, Maltesisch, Niederländisch, Polnisch, Portugiesisch, Rumänisch, Schwedisch, Slowakisch, Slowenisch, Spanisch, Tschechisch, Ungarisch</p>             <h2>Andere in EU-Ländern verwendete Amtssprachen</h2>             <p>Künftig wird es Sonderregelungen für Sprachen wie Valencianisch/Katalanisch, Baskisch, Galicisch und Walisisch geben. Entsprechende Vereinbarungen mit den betroffenen Ländern, die die Kosten selbst tragen müssen, werden derzeit ausgehandelt.</p>             <h2>Informationsarten und Sprachenpolitik</h2>             <ul>                <li>                   <b>Rechtsvorschriften und politisch bedeutsame Dokumente</b>                   <br/> werden in allen EU-Amtssprachen veröffentlicht.</li>                <li>                   <b>Amtliche Dokumente<br/>                   </b>sind zumindest in den Sprachen verfügbar, die zum Zeitpunkt der Veröffentlichung EU-Amtssprachen waren. Nicht rechtsverbindliche Dokumente werden in der Regel in Deutsch, Englisch und Französisch veröffentlicht.</li>                <li>                   <b>Allgemeine Informationen<br/>                   </b>werden in allen EU-Amtssprachen veröffentlicht.</li>                <li>                   <b>Dringende, kurzlebige Informationen <br/>                   </b>erscheinen je nach Zielgruppe zunächst nur in einer Sprache. Andere Sprachen werden gegebenenfalls später hinzugefügt, je nach Bedarf der Nutzer.</li>                <li>                   <b>Spezialisierte Informationen</b> (fachspezifische Informationen, Kampagnen, Ausschreibungen) und <b>Nachrichten/Veranstaltungen</b>                   <br/> werden je nach Zielgruppe nur in einer begrenzten Anzahl von Sprachen oder sogar nur in einer Sprache veröffentlicht.</li>             </ul>             <h2>Warum ist eine bestimmte Webseite nicht in Ihrer Sprache verfügbar?</h2>             <p>EUROPA-Nutzer sind häufig überrascht, wenn sie eine bestimmte Seite nicht in der gewünschten Sprache finden.</p>             <p>Insbesondere für die Sprachen der Länder, die der EU in den Jahren 2004, 2007 und 2013 beigetreten sind, liegt das eventuell einfach daran, dass wir aus Zeitgründen noch nicht alles übersetzen konnten.</p>             <p>Einige Websites stehen jedoch nur in drei, zwei oder sogar nur einer Sprache (in der Regel Englisch) zur Verfügung.</p>             <p>Welche Sprachen auf EUROPA verfügbar sind, hängt von folgenden <b>Faktoren</b> ab:</p>             <ul>                <li>                   <b>Übersetzung</b>: Uns steht nur eine begrenzte Anzahl von Übersetzern und ein begrenztes (aus Steuergeldern finanziertes) Budget zur Verfügung.</li>                <li>                   <b>Bedeutung</b>: Rechtsvorschriften und Dokumente von hohem öffentlichen Interesse müssen öffentlich zugänglich sein. Daher werden diese in allen EU-Amtssprachen veröffentlicht.<br/> Andere Dokumente werden nur in den Sprachen veröffentlicht, die beispielsweise für die Kommunikation mit nationalen Behörden, Organisationen oder Privatpersonen benötigt werden.</li>                <li>                   <b>Kosteneffizienz</b>: Um Steuergelder zu sparen, werden hochspezialisierte Webseiten, die nur von einer begrenzten Anzahl von Nutzern besucht werden, nicht in allen Sprachen veröffentlicht. Vorrangiges Ziel ist es, gezielte Informationen schnell und effizient bereitzustellen – auch wenn manche Nutzer diese dann in einer Fremdsprache lesen müssen.</li>                <li>                   <b>Dringlichkeit</b>: Bestimmte Informationen müssen sofort zugänglich gemacht werden. Je nach Zielgruppe veröffentlichen wir den Text zunächst nur in einer oder einigen Sprachen. Weitere Sprachen werden später in einem Schritt oder nach und nach hinzugefügt.</li>                <li>                   <b>Technische Zwänge</b>: Die Verwaltung einer Website in über 20 Sprachen ist aufwendiger und teurer.</li>             </ul>             <p>Unter Berücksichtigung all dieser Faktoren richtet sich die EUROPA-Sprachenpolitik künftig zunehmend nach folgendem Grundsatz:</p>             <ul>                <li>Die <b>erste</b> und <b>zweite</b> Ebene jeder Website enthalten einfache und auf Dauer angelegte Informationen für die breite Öffentlichkeit in <b>allen Amtssprachen</b>.</li>                <li>Seiten mit <b>kurzlebigen oder hochspezialisierten Informationen</b> werden in der Regel nur in einigen Sprachen erscheinen oder – je nach Zielgruppe – sogar nur in einer.</li>             </ul>"
+      ],
+      "el": [
+        "<p>Στόχος μας είναι να σας ενημερώνουμε στη γλώσσα σας, ή σε γλώσσα που καταλαβαίνετε, ανάλογα με το είδος των πληροφοριών που ζητάτε.</p>             <h2>Επίσημες γλώσσες της ΕΕ</h2>             <p>αγγλικά, βουλγαρικά, γαλλικά, γερμανικά, δανικά, ελληνικά, εσθονικά, ιρλανδικά, ισπανικά, ιταλικά, κροατικά, λετονικά, λιθουανικά, μαλτέζικα, ολλανδικά, ουγγρικά, πολωνικά, πορτογαλικά, ρουμανικά, σλοβακικά, σλοβενικά, σουηδικά, τσέχικα, φινλανδικά.</p>             <h2>Άλλες επίσημες γλώσσες χωρών της ΕΕ</h2>             <p>Για τα βαλενθιανά, τα καταλανικά, τα βασκικά, τα γαλικιανά και τα ουαλικά θα ισχύουν ειδικοί κανόνες στο μέλλον. Οι σχετικές διαπραγματεύσεις διεξάγονται με τις ενδιαφερόμενες χώρες, οι οποίες θα καλύψουν και το συνεπαγόμενο κόστος.</p>             <h2>Είδος πληροφοριών και γλωσσική πολιτική</h2>             <ul>                <li>                   <b>Νομοθεσία και σημαντικά πολιτικά έγγραφα</b>                   <br/> Δημοσιεύονται σε όλες τις επίσημες γλώσσες της ΕΕ.</li>                <li>                   <b>Επίσημα έγγραφα<br/>                   </b>Είναι διαθέσιμα τουλάχιστον στις γλώσσες που ήταν επίσημες γλώσσες της ΕΕ κατά την ημερομηνία της δημοσίευσής τους. Τα μη δεσμευτικά από νομική άποψη έγγραφα δημοσιεύονται συνήθως στα αγγλικά, τα γαλλικά και τα γερμανικά.</li>                <li>                   <b>Γενικές πληροφορίες<br/>                   </b>Δημοσιεύονται σε όλες τις επίσημες γλώσσες της ΕΕ.</li>                <li>                   <b>Πληροφορίες επείγοντος ή προσωρινού χαρακτήρα <br/>                   </b>Δημοσιεύονται αρχικά σε μια γλώσσα, καθώς απευθύνονται σε συγκεκριμένο κοινό. Αργότερα μπορεί να προστεθούν και άλλες γλώσσες, ανάλογα με τις ανάγκες των χρηστών. </li>                <li>                   <b>Ειδικές πληροφορίες</b> (τεχνικές πληροφορίες, εκστρατείες, προκηρύξεις διαγωνισμών) και <b>ειδήσεις / εκδηλώσεις</b>                   <br/> Δημοσιεύονται σε περιορισμένο αριθμό γλωσσών ή και σε μία μόνο γλώσσα, ανάλογα με το κοινό στο οποίο απευθύνονται.</li>             </ul>             <h2>Γιατί μια συγκεκριμένη ιστοσελίδα δεν υπάρχει στη γλώσσα σας; </h2>             <p>Οι χρήστες του EUROPA εκπλήσσονται μερικές φορές γιατί μια σελίδα του EUROPA δεν είναι διαθέσιμη στη γλώσσα τους.</p>             <p>Αυτό μπορεί να οφείλεται απλά στο ότι δεν έχουμε τον χρόνο να μεταφράσουμε τα πάντα, ειδικά όταν πρόκειται για τις γλώσσες των χωρών που προσχώρησαν το 2004, το 2007 και το 2013.</p>             <p>Ορισμένοι ωστόσο ιστότοποι είναι διαθέσιμοι μόνο σε τρεις, δύο ή ακόμη σε μία γλώσσα (συνήθως αγγλικά).</p>             <p>Σε γενικές γραμμές, το ποιες γλώσσες είναι διαθέσιμες στον EUROPA εξαρτάται από τους ακόλουθους <b>περιοριστικούς παράγοντες</b>:</p>             <ul>                <li>                   <b>Μετάφραση</b> - διαθέτουμε περιορισμένο αριθμό μεταφραστών και περιορισμένο προϋπολογισμό για τη μετάφραση (που χρηματοδοτείται από τα χρήματα των φορολογουμένων).</li>                <li>                   <b>Σπουδαιότητα</b> - όλα τα νομοθετικά κείμενα και τα έγγραφα μεγάλου δημόσιου ενδιαφέροντος πρέπει να είναι διαθέσιμα στο κοινό, και, κατά συνέπεια, μεταφράζονται σε όλες τις επίσημες γλώσσες της ΕΕ.<br/> Άλλα έγγραφα (π.χ. αλληλογραφία με εθνικές αρχές, οργανισμούς ή πολίτες) μεταφράζονται μόνο στις απαιτούμενες γλώσσες \"εργασίας\".</li>                <li>                   <b>Σχέση κόστους/αποτελεσματικότητας</b> - για λόγους εξοικονόμησης των χρημάτων των φορολογουμένων, οι πολύ εξειδικευμένες ιστοσελίδες που προορίζονται για σχετικά λίγους χρήστες δεν δημοσιεύονται σε όλες τις γλώσσες. Προτεραιότητά μας είναι να παρέχουμε στοχευμένη ενημέρωση γρήγορα και αποτελεσματικά - ακόμη κι αν ορισμένοι χρήστες πρέπει να διαβάζουν τις πληροφορίες σε ξένη γλώσσα.</li>                <li>                   <b>Επείγον χαρακτήρας</b> - ορισμένες πληροφορίες προορίζονται για άμεση χρήση. Δημοσιεύουμε το σχετικό κείμενο πρώτα σε μια-δυο γλώσσες (λαμβάνοντας υπόψη για ποιο κοινό προορίζονται) και αργότερα προσθέτουμε, σε ένα ή περισσότερα στάδια, άλλες γλώσσες. </li>                <li>                   <b>Τεχνικοί</b> περιορισμοί - η διαχείριση ενός ιστότοπου σε πάνω από 20 γλώσσες απαιτεί σημαντικούς ανθρώπινους και οικονομικούς πόρους. </li>             </ul>             <p>Λαμβάνοντας όλα αυτά υπόψη, ο ιστότοπος EUROPA θα ακολουθεί σταδιακά την εξής προσέγγιση:</p>             <ul>                <li>Το <b>πρώτο </b>και<b> δεύτερο επίπεδο</b> κάθε ιστότοπου θα περιέχει βασικές και μόνιμου χαρακτήρα πληροφορίες για το ευρύ κοινό, σε <b>όλες τις επίσημες γλώσσες</b>.</li>                <li>Οι σελίδες που περιέχουν <b>πληροφορίες προσωρινού ή πολύ εξειδικευμένου χαρακτήρα</b> θα δημοσιεύονται κατά κανόνα σε ορισμένες γλώσσες - ή και σε μια μόνο - ανάλογα με το κοινό για το οποίο προορίζονται.</li>             </ul>"
+      ],
+      "en": [
+        "<p>We aim to provide information in your language - or one you understand - depending on the type of information you're looking for.</p>             <h2>EU official languages</h2>             <p>Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swedish.</p>             <h2>Other official languages used in EU countries</h2>             <p>Languages including Valencian/Catalan, Basque, Galician and Welsh will be covered by special rules in future. Arrangements are being negotiated with the countries concerned, which will bear the costs themselves.</p>             <h2>Information types &amp; language policy</h2>             <ul>                <li>                   <b>Legislation &amp; key political documents</b>                   <br/>Published in all EU official languages.</li>                <li>                   <b>Official documents<br/>                   </b>Available in at least those languages that had official EU status on the date of publication. Documents that are not legally binding are usually published in English, French and German.</li>                <li>                   <b>General information<br/>                   </b>Published in all EU official languages.</li>                <li>                   <b>Urgent or short-lived information <br/>                   </b>Appears in a single language initially, given the specific target audience. Other languages may be added later, depending on user needs.</li>                <li>                   <b>Specialised information</b> (technical info, campaigns, calls for tender) &amp; <b>news / events</b>                   <br/>Available in a restricted number of languages or even just one – the choice depends on the target audience.</li>             </ul>             <h2>Why isn't a particular webpage available in your language?</h2>             <p>EUROPA users are sometimes surprised if they can't find a particular EUROPA page in a given language.</p>             <p>This may be simply because we've not yet had time to translate everything – especially where the languages of the countries that joined in 2004, 2007 and 2013 are concerned.</p>             <p>But some sites are only available in 2 or 3 languages - or even just one (usually English).</p>             <p>Generally, the range of languages used on EUROPA depends on the following <b>constraints</b>:</p>             <ul>                <li>                   <b>Translation</b> – we only have access to limited numbers of translators and a restricted budget for translation (funded by taxpayers).</li>                <li>                   <b>Importance</b> – laws and documents of major public interest must be publicly available, so they appear in all EU official languages.<br/>Other documents appear only in the languages needed (e.g. for communication with national authorities, organisations or individuals).</li>                <li>                   <b>Cost-effectiveness</b> – to save taxpayers' money, very specialised webpages with a restricted number of users are not published in all languages. The priority is to provide targeted information rapidly and efficiently - even though some users will have to read it in a foreign language.</li>                <li>                   <b>Urgency</b> – some items are for immediate consumption. We publish the text first in one language or a couple of languages only (taking the target audience into account) and add other languages later, in one or more steps.</li>                <li>                   <b>Technical</b> constraints – running a site in over 20 languages involves more people and money.</li>             </ul>             <p>Bearing all this in mind, EUROPA will increasingly be taking the following approach:</p>             <ul>                <li>The <b>first </b>and<b> second levels</b> of each site will contain straightforward information with a long timespan for the general public, in <b>all official languages</b>.</li>                <li>Pages containing <b>short-lived or very specialised information</b> will generally appear in a few languages - or even just one - depending on the readership.</li>             </ul>"
+      ],
+      "es": [
+        "<p>Nuestro objetivo es informar al lector en su propia lengua o en otra que entienda, en función del tipo de información que desee obtener.</p>             <h2>Lenguas oficiales de la UE</h2>             <p>Alemán, búlgaro, checo, croata, danés, eslovaco, esloveno, español, estonio, finés, francés, griego, húngaro, inglés, irlandés, italiano, letón, lituano, maltés, neerlandés, polaco, portugués, rumano y sueco.</p>             <h2>Otras lenguas oficiales de los Estados miembros de la UE</h2>             <p>En el futuro habrá normas especiales para lenguas como el catalán/valenciano, el euskera, el gallego, etc. Se están negociando acuerdos con los países interesados, que deberán correr con los gastos.</p>             <h2>Tipos de información y política lingüística</h2>             <ul>                <li>                   <b>Legislación y documentos políticos clave</b>                   <br/> Se publican en todas las lenguas oficiales de la UE.</li>                <li>                   <b>Documentos oficiales<br/>                   </b>Se publican como mínimo en aquellas lenguas que en la fecha de su publicación fueran lenguas oficiales de la UE. Por lo general, los documentos no vinculantes jurídicamente se publican en alemán, francés e inglés.</li>                <li>                   <b>Información general<br/>                   </b>Se publica en todas las lenguas oficiales de la UE.</li>                <li>                   <b>Información urgente o de validez limitada en el tiempo <br/>                   </b>Al principio aparece en una sola lengua si va dirigida a unos lectores específicos. Posteriormente se añaden otras, siempre en función de las necesidades de los usuarios.</li>                <li>                   <b>Información especializada</b> (datos técnicos, campañas, licitaciones), <b>noticias y eventos</b>                   <br/> Aparecen en un número limitado de lenguas o incluso en una sola: depende del lector al que se destinen.</li>             </ul>             <h2>¿Por qué no existe en su lengua una determinada web?</h2>             <p>Los usuarios de Europa se extrañan a veces de no encontrar alguna página de Europa en una determinada lengua.</p>             <p>Esto puede deberse simplemente a que no ha dado tiempo a traducirla, sobre todo si se trata de lenguas de los países incorporados a la UE en 2004, 2007 y 2013.</p>             <p>Pero algunas páginas solo están disponibles en tres, dos o incluso una única lengua (que suele ser el inglés).</p>             <p>En general, el número de lenguas empleadas en EUROPA viene condicionado por los siguientes <b>factores</b>:</p>             <ul>                <li>                   <b>Traducción</b>. Solo podemos recurrir a un número limitado de traductores, y el presupuesto para traducción (financiado con dinero público) es restringido.</li>                <li>                   <b>Importancia</b>. La legislación y los documentos de gran interés general deben hacerse públicos, por lo que aparecen en todas las lenguas oficiales de la UE.<br/> Otros documentos se traducen solo a las lenguas necesarias (por ejemplo, para comunicarse con administraciones, entidades o personas de un país determinado)</li>                <li>                   <b>Relación coste-eficacia</b>. Para ahorrar dinero del contribuyente, las páginas muy especializadas y destinadas a pocos lectores no se publican en todas las lenguas. Lo principal es dar esa información específica con rapidez y eficacia, aunque algunos usuarios deban leerla en una lengua extranjera.</li>                <li>                   <b>Urgencia</b>. Algunas informaciones deben comunicarse de inmediato. Primero se publica el texto solo en una o dos lenguas (según los lectores a quienes se destine) y más tarde, en una o dos etapas, se añaden otras.</li>                <li>                   <b>Imperativos técnicos</b>. Administrar una web en más de 20 lenguas requiere gran cantidad de recursos humanos y financieros.</li>             </ul>             <p>Teniendo todo esto en cuenta, EUROPA se basará cada vez más en el siguiente enfoque:</p>             <ul>                <li>En el <b>primer</b> y <b>segundo nivel </b> de cada sitio se ofrecerá información básica, con un plazo de validez largo y destinada a un público no especializado, en <b>todas las lenguas oficiales</b>.</li>                <li>En general, la información <b>muy especializada o con un plazo de validez corto</b> solo se publicará en  algunas lenguas o incluso en una sola, según los lectores a quienes se destine.</li>             </ul>"
+      ],
+      "et": [
+        "<p>Meie eesmärk on pakkuda teavet Teie emakeeles või muus keeles, millest Te aru saate – sõltuvalt teie otsitavast teabest.</p>             <h2>ELi ametlikud keeled</h2>             <p>bulgaaria, eesti, hispaania, hollandi, horvaadi, iiri, inglise, itaalia, kreeka, leedu, läti, malta, poola, portugali, prantsuse, rootsi, rumeenia, saksa, slovaki, sloveeni, soome, taani, tšehhi ja ungari keel.</p>             <h2>Muud ELi liikmesriikide ametlikud keeled</h2>             <p>Tulevikus kehtestatakse selliste keelte nagu katalaani, baski, galeegi ja kõmri keel suhtes erieeskirjad. Läbirääkimised asjaomaste liikmesriikidega käivad ning nad peavad kandma tõlkimisega kaasnevad kulud ise.</p>             <h2>Teabeliigid ja keelepoliitika</h2>             <ul>                <li>                   <b>Õigusaktid ja olulised poliitilised dokumendid</b>                   <br/> Avaldatakse kõigis ELi ametlikes keeltes.</li>                <li>                   <b>Ametlikud dokumendid<br/>                   </b>Kättesaadavad vähemalt nendes keeltes, millel oli dokumendi avaldamise ajal ELis ametliku keele staatus. Õiguslikult mittesiduvad dokumendid avaldatakse tavaliselt inglise, prantsuse ja saksa keeles.</li>                <li>                   <b>Üldteave<br/>                   </b>Avaldatakse kõigis ELi ametlikes keeltes.</li>                <li>                   <b>Kiireloomuline või kiiresti aeguv teave <br/>                   </b>Esialgu avaldatakse ühes keeles, vastavalt konkreetsele sihtrühmale. Muudes keeltes võidakse selline teave lisada hiljem, sõltuvalt kasutaja vajadustest.</li>                <li>                   <b>Eriteave</b> (tehniline teave, kampaaniad, pakkumismenetlused) ja <b>uudised/üritused</b>                   <br/> Kättesaadav piiratud arvus keeltes või ainult ühes keeles – valik sõltub sihtrühmast.</li>             </ul>             <h2>Miks ei ole konkreetse veebileht kättesaadav Teie keeles?</h2>             <p>EUROPA kasutajad on mõnikord üllatunud, kui nad ei leia konkreetset EUROPA lehekülge otsitavas keeles.</p>             <p>See võib olla niimoodi lihtsalt seetõttu, et me ei ole veel jõudnud kõike tõlkida – eelkõige kui on tegemist nende riikide keeltega, kes ühinesid ELiga aastatel 2004, 2007 ja 2013.</p>             <p>Mõned saidid on kättesaadavad ainult kahes või kolmes keeles või isegi ainult ühes (tavaliselt inglise) keeles.</p>             <p>Üldiselt sõltub EUROPA keelevalik järgmistest <b>piirangutest</b>:</p>             <ul>                <li>                   <b>tõlge</b> – meie tõlkijate arv ja tõlke-eelarve (mida rahastavad maksumaksjad) on piiratud;</li>                <li>                   <b>olulisus</b> – õigusaktid ja suuremat avalikku huvi pakkuvad dokumendid peavad olema avalikult kättesaadavad, seega avaldatakse need kõigis ELi ametlikes keeltes;<br/> Muud dokumendid avaldatakse üksnes vajalikes keeltes (nt teabevahetus riiklike ametiasutuste, organisatsioonide või üksikisikutega);</li>                <li>                   <b>kulutasuvus </b> – maksumaksjate raha säästmiseks ei avaldata väga spetsialiseeritud ja väikese kasutajate arvuga veebilehekülgi kõigis keeletes. Prioriteediks on pakkuda sihtotstarbelist teavet kiiresti ja tõhusalt, kuigi mõned kasutajad peavad seda lugema võõrkeeles;</li>                <li>                   <b>kiireloomulisus </b> – teatud teemad on mõeldud koheseks tarbimiseks. Avaldame teksti kõigepealt ühes või paaris keeles (vastavalt sihtrühmale) ja lisame muud keeled hiljem, kas ühes või mitmes etapis;</li>                <li>                   <b>tehnilised</b> piirangud – veebisaidi haldamine rohkem kui 20 keeles hõlmab rohkem inimesi ja raha.</li>             </ul>             <p>Kõike seda arvesse võttes rakendame portaalis EUROPA järgmist lähenemisviisi:</p>             <ul>                <li>Iga saidi <b>esimene</b> ja <b>teine tasand</b> sisaldab laiemale publikule mõeldud lihtsamat muutumatut teavet <b>kõigis ametlikes keeltes</b>.</li>                <li>                   <b>Kiirelt aeguvat või väga erialast teavet</b> hõlmavad leheküljed avaldatakse üldiselt üksikutes keeltes või ainult ühes keeles, sõltuvalt lugejaskonnast.</li>             </ul>"
+      ],
+      "fi": [
+        "<p>EUROPA-sivustolla pyritään tarjoamaan kansalaisille tietoa heidän äidinkielellään – tai kielellä, jota he ymmärtävät. Kielivalikoima riippuu siitä, millaisesta tiedosta on kyse.</p>             <h2>EU:n viralliset kielet</h2>             <p>EU:n viralliset kielet ovat bulgaria, englanti, espanja, hollanti, iiri, italia, kreikka, kroaatti, latvia, liettua, malta, portugali, puola, ranska, romania, ruotsi, saksa, slovakki, sloveeni, suomi, tanska, tšekki, unkari ja viro.</p>             <h2>EU-maiden muut viralliset kielet</h2>             <p>EU:n jäsenmaiden muita virallisia kieliä (esim. katalaani, baski, galego ja kymri) varten on suunnitteilla erityissäännöt, joista neuvotellaan asianomaisten maiden kanssa, sillä maat joutuvat itse maksamaan näiden kielten käyttöön liittyvät kustannukset.</p>             <h2>EUROPA-sivuston tarjonta eri kielillä</h2>             <ul>                <li>                   <b>Lainsäädäntö ja poliittisesti tärkeät asiakirjat </b>                   <br/> Julkaistaan kaikilla EU:n virallisilla kielillä.</li>                <li>                   <b>Viralliset asiakirjat<br/>                   </b>Viralliset asiakirjat ovat saatavilla ainakin niillä kielillä, jotka olivat julkaisupäivänä EU:n virallisia kieliä. Jos asiakirjat eivät ole oikeudellisesti sitovia, ne julkaistaan yleensä vain englanniksi, ranskaksi ja saksaksi.</li>                <li>                   <b>Yleiset tiedot<br/>                   </b>Julkaistaan kaikilla EU:n virallisilla kielillä.</li>                <li>                   <b>Kiireelliset tai nopeasti vanhenevat tiedot <br/>                   </b>Julkaistaan ensin yhdellä kielellä, joka valitaan kohdeyleisön perusteella. Muita kieliversioita voidaan lisätä myöhemmin käyttäjien tarpeen mukaan.</li>                <li>                   <b>Erikoistiedot </b>(tekniset tiedot, kampanjat, tarjouskilpailut) ja <b>uutiset/tapahtumatiedot</b>                   <br/> Julkaistaan yhdellä kielellä tai vain osalla kielistä. Kielivalikoima riippuu kohdeyleisöstä.</li>             </ul>             <h2>Miksi jokin verkkosivu ei ole saatavilla äidinkielelläsi?</h2>             <p>EUROPA-sivuston käyttäjät ihmettelevät toisinaan sitä, että tiettyä sivua ei ole saatavilla heidän äidinkielellään.</p>             <p>Syynä voi olla yksinkertaisesti se, että kaikkia sivuja ei ole vielä ehditty kääntää kaikille kielille. Tämä koskee erityisesti EU:n uusimpien jäsenmaiden (vuosina 2004, 2007 ja 2013 liittyneet maat) kieliä.</p>             <p>Osa sivuista on saatavilla kolmella, kahdella tai ainoastaan yhdellä kielellä (yleensä englanniksi).</p>             <p>EUROPA-sivuston <b>kielivalikoimaan vaikuttavat yleisesti seuraavat tekijät</b>:</p>             <ul>                <li>                   <b>kääntäminen</b> – käytettävissä on vain rajallinen määrä kääntäjiä ja rajallinen käännösbudjetti, joka rahoitetaan verovaroista</li>                <li>                   <b>tiedon tärkeys</b> – lainsäädännön ja yleisen edun kannalta tärkeiden asiakirjojen on oltava kansalaisten saatavilla, joten ne julkaistaan kaikilla EU:n virallisilla kielillä.<br/> Muut asiakirjat julkaistaan vain tarvittavilla kielillä (esim. asiakirjat, joita käytetään viestinnässä kansallisten viranomaisten, organisaatioiden tai yksityishenkilöiden kanssa).</li>                <li>                   <b>kustannustehokkuus </b>– erikoistietoa sisältäviä verkkosivuja, joiden käyttäjäryhmä on pieni, ei säästösyistä julkaista kaikilla kielillä. Ensisijaisena tavoitteena on välittää kohdennettua tietoa nopeasti ja tehokkaasti, vaikka osa käyttäjistä joutuu lukemaan sivuja vieraalla kielellä.</li>                <li>                   <b>kiireellisyys </b>– joidenkin tietojen on oltava saatavilla heti. Tällöin teksti julkaistaan ensin yhdellä tai vain muutamalla kielellä (kohderyhmän mukaan), ja muut kieliversiot lisätään myöhemmin joko yhdellä kertaa tai vaiheittain.</li>                <li>                   <b>tekniset rajoitteet </b>– sivuston ylläpito yli 20 kielellä vaatii paljon henkilöresursseja ja varoja.</li>             </ul>             <p>Näillä perusteilla EUROPA-sivustolla pyritään noudattamaan seuraavaa käytäntöä:</p>             <ul>                <li>joka sivuston <b>ensimmäisellä ja toisella tasolla</b> on suurelle yleisölle tarkoitettuja, suhteellisen muuttumattomia sivuja <b>kaikilla EU:n virallisilla kielillä</b>                </li>                <li>sivut, joilla on <b>nopeasti vanhenevaa tai hyvin erikoistunutta tietoa</b>, julkaistaan yleensä vain muutamalla tai yhdellä kielellä kohderyhmän mukaan.</li>             </ul>"
+      ],
+      "fr": [
+        "<p>Notre objectif est de vous informer dans votre propre langue ou dans une langue que vous comprenez, selon la nature des informations que vous recherchez.</p>             <h2>Langues officielles de l'UE</h2>             <p>allemand, anglais, bulgare, croate, danois, espagnol, estonien, finnois, français, grec, hongrois, irlandais, italien, letton, lituanien, maltais, néerlandais, polonais, portugais, roumain, slovaque, slovène, suédois et tchèque.</p>             <h2>Autres langues officielles de pays de l'UE</h2>             <p>À terme, l'emploi de langues telles que le catalan/valencien, le basque, le galicien ou l'écossais sera régi par des règles spécifiques issues des négociations menées avec les pays concernés. Ces derniers devront en assumer le coût.</p>             <h2>Types d'information et politique linguistique</h2>             <ul>                <li>                   <b>Législation et documents politiquement importants</b>                   <br/> Publication dans toutes les langues officielles.</li>                <li>                   <b>Documents officiels<br/>                   </b>Documents disponibles au moins dans les langues qui étaient officielles à la date de leur publication. Les documents juridiquement non contraignants sont généralement publiés en anglais, en français et en allemand.</li>                <li>                   <b>Informations générales<br/>                   </b>Publication dans toutes les langues officielles.</li>                <li>                   <b>Informations urgentes ou ponctuelles <br/>                   </b>Publication au départ dans une seule langue, en fonction du public visé. D'autres langues peuvent être ajoutées ultérieurement, selon les besoins des utilisateurs.</li>                <li>                   <b>Informations spécialisées</b> (informations techniques, campagnes, appels d'offres) et <b>actualité/agenda</b>                   <br/> Publication dans un nombre limité de langues, voire dans une seule, le choix dépendant du public visé.</li>             </ul>             <h2>Vous ne trouvez pas l'information dans votre langue?</h2>             <p>Les utilisateurs d'EUROPA s'étonnent parfois qu'une page du site ne soit pas disponible dans leur langue.</p>             <p>C'est simplement parce que nous n'avons pas encore eu le temps de tout traduire, en particulier pour les pays ayant adhéré à l'UE en 2004, 2007 et 2013.</p>             <p>Certains sites ne sont toutefois disponibles qu'en deux ou trois langues, voire une seule (en général, l’anglais).</p>             <p>D'une manière générale, le nombre de langues disponibles sur les pages d'EUROPA dépend des <b>contraintes</b> suivantes:</p>             <ul>                <li>             la <b>traduction</b>: nous ne pouvons faire appel qu'à un nombre restreint de traducteurs, dans les limites du budget consacré à cette activité (financée par les contribuables);</li>                <li>             l'<b>importance</b>: les citoyens doivent avoir accès à la législation et aux documents présentant un intérêt public majeur; ces documents sont donc produits dans toutes les langues officielles.<br/> D'autres documents ne sont traduits que dans les langues nécessaires (exemple: communication avec des autorités nationales, des organisations ou des particuliers);</li>                <li>             le <b>rapport coût/utilité</b>: afin d'éviter des dépenses inutiles, les sites très spécialisés destinés à un public restreint ne sont pas publiés dans toutes les langues. L'essentiel est de fournir les informations de manière rapide et efficace, même si cela implique de devoir les lire dans une langue étrangère;</li>                <li>             l'<b>urgence</b>: certaines informations doivent être communiquées rapidement. Nous publions dans un premier temps le texte dans une langue ou dans un petit nombre de langues (en tenant compte du public cible) et nous en ajoutons d'autres ultérieurement, en une ou plusieurs étapes;</li>                <li>             les contraintes <b>techniques</b>: la gestion d'un site en plus de vingt langues nécessite d'importantes ressources humaines et budgétaires.</li>             </ul>             <p>Compte tenu de ces contraintes, nous mettons progressivement en œuvre l'approche suivante:</p>             <ul>                <li>les <b>premier</b> et <b>deuxième</b> niveaux de chaque site contiendront des pages d’information simples et stables, destinées au grand public et rédigées dans <b>toutes les langues officielles</b>;</li>                <li>les pages contenant des <b>informations éphémères ou très spécialisées</b> seront présentées, en règle générale, dans un petit nombre de langues, voire une seule, en fonction du public visé.</li>             </ul>"
+      ],
+      "ga": [
+        "<p>Is é an cuspóir atá againn eolas a sholáthar duit i do theanga féin, nó i dteanga a thuigeann tú, ag brath ar an gcineál eolais a theastaíonn uait.</p>             <h2>Teangacha oifigiúla an Aontais Eorpaigh</h2>             <p>An Béarla, an Bhulgáiris, an Chróitis, an Danmhairgis, an Eastóinis, an Fhionlainnis, an Fhraincis, an Ghaeilge, an Ghearmáinis, an Ghréigis, an Iodáilis, an Laitvis, an Liotuáinis, an Mháltais, an Ollainnis, an Pholainnis, an Phortaingéilis, an Rómáinis, an tSlóivéinis, an tSlóvaicis, an Spáinnis, an tSeicis, an tSualainnis agus an Ungáiris.</p>             <h2>Teangacha oifigiúla eile a úsáidtear i dtíortha san Aontas Eorpach</h2>             <p>Amach anseo, beidh rialacha speisialta ann do theangacha amhail an Vaileinsis/an Chatalóinis, an Bhascais, an Ghailísis, an Bhreatnais srl. Táthar i mbun caibidlíochta leis na tíortha i gceist maidir leis na socruithe a chuirfear i bhfeidhm. Is ar na tíortha sin a bheidh na costais ghaolmhara.</p>             <h2>Cineálacha eolais agus beartas teanga</h2>             <ul>                <li>                   <b>Reachtaíocht agus príomhdhoiciméid pholaitiúla</b>                   <br/> Foilsítear iad seo i dteangacha oifigiúla go léir an Aontais Eorpaigh.</li>                <li>                   <b>Doiciméid oifigiúla<br/>                   </b>Tá na doiciméid seo ar fáil sna teangacha a raibh stádas oifigiúil acu san Aontas Eorpach ar an dáta foilsithe ar a laghad. Foilsítear doiciméid nach bhfuil ceangal dlí leo sa Bhéarla, sa Fhraincis agus sa Ghearmáinis de ghnáth.</li>                <li>                   <b>Eolas ginearálta<br/>                   </b>Foilsítear é i dteangacha oifigiúla go léir an Aontais Eorpaigh.</li>                <li>                   <b>Eolas atá práinneach nó a bhfuil saolré gearr aige <br/>                   </b>Ní fhoilsítear ach i dteanga amháin i dtús báire é, ag brath ar an bpobal ar a bhfuil sé dírithe. Cuirfear leaganacha teanga eile ar fáil níos déanaí, ag brath ar riachtanais an phobail.</li>                <li>                   <b>Saineolas</b> (eolas teicniúil, feachtais, iarratais ar thairiscintí) agus <b>nuacht / imeachtaí</b>                   <br/> Tá an t-eolas seo ar fáil i líon teoranta teangacha, nó i dteanga amháin uaireanta. Beidh sin ag brath ar an bpobal ar a bhfuil sé dírithe.</li>             </ul>             <h2>Cén fáth nach bhfuil eolas ar fáil i do theanga?</h2>             <p>Ar uairibh bíonn iontas ar úsáideoirí EUROPA mura bhfuil leathanach EUROPA ar fáil ina dteanga féin.</p>             <p>B'fhéidir nach raibh an t-am againn fós gach rud a aistriú, go háirithe do na tíortha a tháinig isteach san Aontas in 2004, in 2007 nó in 2013.</p>             <p>Tá suíomhanna áirithe ann nach bhfuil ar fáil ach i dtrí theanga, in dhá theanga nó i dteanga amháin fiú (Béarla de ghnáth).</p>             <p>Go ginearálta, braitheann na teangacha a bhíonn ar fáil ar EUROPA ar na <b>srianta</b> seo a leanas:</p>             <ul>                <li>                   <b>Aistriúchán</b> – níl fáil againn ach ar líon teoranta aistritheoirí agus ar bhuiséad teoranta don aistriúchán (airgead na gcáiníocóirí).</li>                <li>                   <b>Tábhacht</b> – ní mór fáil a bheith ag an bpobal ar an reachtaíocht go léir agus ar na doiciméid go léir a bhfuil tábhacht ag baint leo don phobal agus, dá bhrí sin, cuirtear na doiciméid sin ar fáil sna teangacha oifigiúla ar fad.<br/> Ní aistrítear doiciméid eile (mar shampla, cumarsáid leis na húdaráis náisiúnta, le heagraíochtaí nó le daoine aonair) ach isteach sna teangacha atá ag teastáil, áfach.</li>                <li>                   <b>Cost-éifeachtúlacht</b> – chun airgead na gcáiníocóirí a shábháil, ní fhoilsítear i ngach teanga suíomhanna speisialaithe nach léann ach líon beag úsáideoirí. Is é is tábhachtaí eolas spriocdhírithe a chur ar fáil a thapúla agus a éifeachtaí agus is féidir, cé go mbeidh ar úsáideoirí áirithe é a léamh i dteanga iasachta.</li>                <li>                   <b>Práinn</b> –  is gá roinnt ábhar a fhoilsiú go pras. Foilsímid an téacs i dteanga amháin nó i gcúpla teanga i dtús báire (ag féachaint don phobal is mó a mbaineann sé leis) agus cuirimid na leaganacha teanga eile ar fáil de réir a chéile.</li>                <li>             Srianta <b>teicniúla</b> –  tá gá le go leor acmhainní daonna agus airgeadais chun suíomh a bhainistiú i mbreis is 20 teanga.</li>             </ul>             <p>Chuige sin, beidh an cur chuige seo a leanas á chur chun feidhme ag EUROPA de réir a chéile:</p>             <ul>                <li>Beidh eolas simplí a bheidh bailí ar feadh tréimhse fada agus atá dírithe ar an bpobal ar fáil i n<b>gach teanga oifigiúil</b> mar chuid den <b>chéad</b> agus den <b>dara leibhéal</b> ar gach suíomh.</li>                <li>Leathanaigh ar a bhfuil eolas gearrshaolach nó an-speisialaithe, déanfar iad a fhoilsiú i roinnt teanga de ghnáth, nó i dteanga amháin b'fhéidir, ag brath ar na léitheoirí ar a bhfuil an t-eolas dírithe.</li>             </ul>"
+      ],
+      "hr": [
+        "<p>Cilj nam je pružiti vam informacije na vašem jeziku – ili nekom jeziku koji razumijete – ovisno o vrsti informacija koje tražite.</p>             <h2>Službeni jezici EU-a</h2>             <p>Bugarski, češki, danski, engleski, estonski, finski, francuski, grčki, hrvatski, irski, latvijski, litavski, mađarski, malteški, nizozemski, njemački, poljski, portugalski, rumunjski, slovački, slovenski, španjolski, švedski, talijanski.</p>             <h2>Drugi službeni jezici u državama članicama EU-a</h2>             <p>Određeni će jezici, primjerice valencijanski/katalonski, baskijski, galješki i velški, u budućnosti biti obuhvaćeni posebnim pravilima. O mogućim se aranžmanima trenutačno pregovara s predmetnim zemljama, koje će troškove aranžmana snositi samostalno.</p>             <h2>Vrste informacija i jezična politika</h2>             <ul>                <li>                   <b>Zakonodavstvo i ključni politički dokumenti</b>                   <br/> Objavljuju se na svim službenim jezicima EU-a.</li>                <li>                   <b>Službeni dokumenti<br/>                   </b>Dostupni su barem na jezicima koji su u trenutku njihove objave imali status službenog jezika EU-a. Dokumenti koji nisu pravno obvezujući obično se objavljuju na engleskom, francuskom i njemačkom.</li>                <li>                   <b>Opće informacije<br/>                   </b>Objavljuju se na svim službenim jezicima EU-a.</li>                <li>                   <b>Hitne ili kratkoročne informacije <br/>                   </b>Prvotno se objavljuju na jednom jeziku, ovisno o tome tko je ciljana publika. Drugi se jezici mogu naknadno dodati ovisno o potrebama korisnika.</li>                <li>                   <b>Posebne informacije</b> (tehničke informacije, kampanje, natječaji) te <b>vijesti i događanja</b>                   <br/> Dostupni su na ograničenom broju jezika ili samo na jednom jeziku, a odabir jezika ovisi o tome tko je ciljana publika.</li>             </ul>             <h2>Zašto određena web-stranica nije dostupna na vašem jeziku?</h2>             <p>Korisnici portala EUROPA katkad se iznenade ako određenu stranicu ne mogu pronaći na određenom jeziku.</p>             <p>To može biti i zato što dosad jednostavno nismo imali vremena za prijevod, što se posebno odnosi na jezike zemalja koje su pristupile Uniji 2004., 2007. i 2013.</p>             <p>Određena su web-mjesta međutim dostupna samo na dva ili tri jezika, katkad samo i na jednom (obično engleskom).</p>             <p>Broj jezika na kojima je određeni sadržaj na portalu EUROPA dostupan načelno ovisi o sljedećim <b>ograničenjima</b>:</p>             <ul>                <li>                   <b>Prijevod</b> – zbog ograničenog broja prevoditelja s kojima surađujemo i ograničenosti sredstava za prevođenje, koje se financira doprinosima poreznih obveznika.</li>                <li>                   <b>Važnost</b> – pravni propisi i dokumenti od općeg interesa moraju biti javno dostupni i objavljuju se na svim službenim jezicima EU-a.<br/> Drugi se dokumenti objavljuju samo na jezicima koji su za to potrebni (npr. za komunikaciju s nacionalnim tijelima, organizacijama i pojedincima).</li>                <li>                   <b>Ekonomičnost</b> – specijalizirane se stranice s ograničenim brojem korisnika ne objavljuju na svim jezicima radi uštede novca poreznih obveznika. Prioritet je ciljanu informaciju pružiti brzo i učinkovito, čak i uz uvjet da ih određeni korisnici moraju pročitati na stranom jeziku.</li>                <li>                   <b>Hitnost</b> – određene se informacije moraju objaviti bez odgode. Takve tekstove objavljujemo prvo na jednom jeziku ili na ograničenom broju jezika, uzimajući u obzir tko je ciljana publika, a zatim, odjedanput ili postupno, dodajemo i druge jezike.</li>                <li>                   <b>Tehnička</b> ograničenja – upravljanje web-mjestom na više od 20 jezika iziskuje znatna novčana i kadrovska sredstva.</li>             </ul>             <p>Imajući to na umu, na portalu EUROPA u sve će se većoj mjeri primjenjivati sljedeći pristup:</p>             <ul>                <li>                   <b>Prva </b>i<b> druga razina</b> svakog web-mjesta sadržavat će jasne i dugoročne informacije namijenjene općoj javnosti na <b>svim službenim jezicima</b>.</li>                <li>Stranice koje sadržavaju <b>kratkoročne ili usko specijalizirane informacije</b> uglavnom će se objavljivati na jednom jeziku ili na ograničenom broju jezika, ovisno o čitateljstvu.</li>             </ul>"
+      ],
+      "hu": [
+        "<p>Célunk, hogy az érdeklődőket – az információ jellegétől függően – a saját nyelvükön vagy egy általuk értett nyelven lássuk el a keresett információkkal.</p>             <h2>Az Európai Unió hivatalos nyelvei</h2>             <p>Az EU 24 hivatalos nyelve a következő: angol, bolgár, cseh, dán, észt, finn, francia, görög, holland, horvát, ír, lengyel, lett, litván, magyar, máltai, német, olasz, portugál, román, spanyol, svéd, szlovák és szlovén.</p>             <h2>Az EU egyes országaiban hivatalos nyelvként elismert más nyelvek</h2>             <p>A katalán/valenciai, baszk, galíciai és a walesi nyelvre a jövőben külön szabályok fognak vonatkozni; az ebből fakadó többletköltségeket az adott országoknak kell állniuk. Ennek kapcsán az EU jelenleg folytat tárgyalásokat az érintett tagállamokkal.</p>             <h2>Milyen nyelveken olvashatók az EUROPA portálon közzétett különböző információk?</h2>             <ul>                <li>                   <b>Jogszabályok és politikai jelentőségű dokumentumok</b>                   <br/> Minden hivatalos nyelven elérhetők.</li>                <li>                   <b>Hivatalos dokumentumok<br/>                   </b>Azokon a nyelveken bizonyosan elérhetők, amelyek a dokumentumok közzétételekor az Európai Unió hivatalos nyelvei voltak. A jogilag nem kötelező erejű dokumentumokat rendszerint angolul, franciául és németül tesszük közzé.</li>                <li>                   <b>Általános információk<br/>                   </b>Minden hivatalos nyelven elérhetők.</li>                <li>                   <b>Sürgős vagy viszonylag gyorsan aktualitásukat vesztő információk <br/>                   </b>Kezdetben csak egyetlen nyelven kerülnek közzétételre, melynek kiválasztása a célközönségtől függ. A felhasználói igények függvényében az adott információt idővel esetleg közzétesszük más nyelveken is.</li>                <li>                   <b>Speciális tartalmak</b> (technikai információk, kampányok, közbeszerzési felhívások), <b>hírek/események</b>                   <br/> Ezeket a tartalmakat csak néhány – bizonyos esetekben csak egyetlen – nyelven tesszük közzé. A rendelkezésre álló nyelvi változatok az adott célközönségtől függenek. </li>             </ul>             <h2>Miért nem érhető el minden információ valamennyi nyelven?</h2>             <p>Az EUROPA portál felhasználói néha meglepve tapasztalják, hogy nem mindegyik EUROPA-oldal olvasható anyanyelvükön.</p>             <p>Ez – főleg a közelmúltban (2004-ben, 2007-ben, illetve 2013-ban) csatlakozott országok esetében – egyszerűen abból fakad, hogy még nem volt időnk mindent lefordítani. </p>             <p>Egyes oldalak azonban csak három, kettő vagy akár egyetlen (leggyakrabban angol) nyelven érhetők el.</p>             <p>Az, hogy milyen nyelven olvashatók az egyes EUROPA oldalak, rendszerint a következő <b>tényezőktől</b> függ:</p>             <ul>                <li>                   <b>fordítási kapacitás</b> – fordítóink száma és a fordításra elkülönített költségvetés (amelyet az adófizetők pénzéből finanszírozunk) korlátozott;</li>                <li>                   <b>jelentőség</b> – a nagyközönségnek valamennyi jogszabályhoz, valamint fontos és közérdekű dokumentumhoz hozzá kell férnie, így ezeket az összes hivatalos nyelven közzétesszük. <br/> Egyéb dokumentumokat – pl. a tagállami hatóságokkal, szervezetekkel vagy magánszemélyekkel folytatott levelezést – csak a szükséges nyelvekre fordítunk le;</li>                <li>                   <b>költséghatékonyság</b> – a viszonylag kevesek által látogatott, nagyon speciális információkat tartalmazó honlapok tartalmát (az adófizetők pénzének megkímélése érdekében) nem fordítjuk le minden nyelvre. A cél ebben az esetben az, hogy gyorsan és hatékonyan közöljük ezeket a tematikailag behatárolt, célzott információkat, még ha az olvasók egy részének idegen nyelven is kell olvasnia őket;</li>                <li>                   <b>sürgősség</b> – bizonyos típusú információkat (hírértékük miatt) gyorsan kell közzétenni.  Az ilyen jellegű szövegeket csak egy vagy két nyelven tesszük közzé (a célközönség figyelembevételével), a többi nyelvi változatot pedig később, egy vagy több lépésben készítjük el;</li>                <li>                   <b>technikai</b> akadályok – egy honlap működtetése több mint 20 nyelven nagyon bonyolult, jelentős emberi és pénzügyi kapacitást igénylő feladat.</li>             </ul>             <p>Mindezeket figyelembe véve az alábbi politikát fogjuk fokozatosan megvalósítani: </p>             <ul>                <li>Az EUROPA portál <b>két legfelső</b>                   <b>szintjén</b> található weboldalak az <b>EU valamennyi hivatalos nyelvén</b> tartalmazzák majd a nem szakmai közönségnek szánt, közérthető és állandó információkat.</li>                <li>A <b>hamar elévülő vagy felettébb speciális információkat</b> tartalmazó oldalak általános szabályként és a célközönségtől függően csak néhány – esetleg egyetlen – nyelven jelennek meg.</li>             </ul>"
+      ],
+      "it": [
+        "<p>Il nostro obiettivo è fornire ai cittadini informazioni nella loro lingua o in una lingua che possono capire, a seconda del tipo di informazioni cercate.</p>             <h2>Lingue ufficiali dell'UE</h2>             <p>Bulgaro, ceco, croato, danese, estone, finlandese, francese, greco, inglese, irlandese, italiano, lettone, lituano, maltese, olandese, polacco, portoghese, rumeno, slovacco, sloveno, spagnolo, svedese, tedesco e ungherese</p>             <h2>Altre lingue ufficiali utilizzate nei paesi dell'UE</h2>             <p>Lingue tra cui il catalano/valenziano, il basco, il galiziano e il gallese saranno oggetto di norme speciali in futuro. Attualmente sono in corso trattative per trovare un accordo con i paesi interessati, che dovranno sostenere i relativi costi.</p>             <h2>Tipi di informazioni e politica linguistica</h2>             <ul>                <li>                   <b>Legislazione e documenti politici chiave</b>                   <br/> Pubblicati in tutte le lingue ufficiali.</li>                <li>                   <b>Documenti ufficiali<br/>                   </b>Disponibili almeno nelle lingue che erano ufficiali alla data di pubblicazione. Di solito, i documenti non giuridicamente vincolanti sono pubblicati in inglese, francese e tedesco.</li>                <li>                   <b>Informazioni generali<br/>                   </b>Pubblicate in tutte le lingue ufficiali.</li>                <li>                   <b>Informazioni urgenti o di breve durata <br/>                   </b>Pubblicate inizialmente in una sola lingua, dato il pubblico specifico. Altre lingue possono essere aggiunte successivamente, in funzione delle esigenze degli utenti.</li>                <li>                   <b>Informazioni specializzate</b> (tecniche, campagne, bandi di gara) e <b>notizie / eventi</b>.             <br/> Disponibili in un numero limitato di lingue o anche solo in una, in funzione del pubblico destinatario.</li>             </ul>             <h2>Perché una determinata pagina web non è disponibile nella vostra lingua?</h2>             <p>Talvolta gli utenti di EUROPA sono sorpresi di non trovare una pagina di EUROPA in una determinata lingua.</p>             <p>Può essere semplicemente dovuto al fatto che non abbiamo ancora avuto il tempo di tradurre tutto - in particolare per le lingue dei paesi che hanno aderito all'UE nel 2004, 2007 e 2013.</p>             <p>Alcuni siti sono però disponibili in due, tre o anche solo una lingua (di solito l'inglese).</p>             <p>In linea di massima, il numero di lingue su EUROPA dipende dai seguenti <b>fattori:</b>             </p>             <ul>                <li>                   <b>traduzione</b>: possiamo contare su un numero limitato di traduttori, e anche il bilancio disponibile per le traduzioni, finanziato dai contribuenti, è limitato</li>                <li>                   <b>importanza</b>: la legislazione e i documenti di notevole interesse pubblico devono essere accessibili a tutti, quindi appaiono in tutte le lingue ufficiali dell’UE.<br/> Altri documenti sono pubblicati solo nelle lingue necessarie (per es. per comunicare con autorità nazionali, organizzazioni o privati)</li>                <li>                   <b>rapporto costi-benefici</b>: per risparmiare il denaro dei contribuenti, le pagine web molto specializzate, con un numero limitato di utenti, non sono pubblicate in tutte le lingue. L’obiettivo prioritario è fornire informazioni mirate in modo rapido ed efficiente, anche se ciò significa che alcuni utilizzatori dovranno leggerle in una lingua straniera</li>                <li>                   <b>urgenza</b>: alcune informazioni sono necessarie nell'immediato. Il testo viene inizialmente pubblicato in una o due lingue (tenendo conto del pubblico destinatario), per poi aggiungere altre lingue in un secondo tempo, in una o più fasi</li>                <li>             vincoli <b>tecnici</b>: per gestire un sito in oltre 20 lingue occorrono più persone e capitali.</li>             </ul>             <p>Tenuto conto di tutti questi elementi, EUROPA adotterà sempre più la seguente strategia:</p>             <ul>                <li>il <b>primo</b> e il <b>secondo livello</b> di ogni sito conterranno informazioni fondamentali e stabili destinate al grande pubblico, in <b>tutte le lingue ufficiali</b>                </li>                <li>le pagine contenenti <b>informazioni di breve durata, o molto specializzate</b>, figureranno in generale in un numero limitato di lingue - o anche solo una - a seconda dei destinatari.</li>             </ul>"
+      ],
+      "lt": [
+        "<p>Mūsų tikslas – suteikti informaciją jūsų gimtąja arba kita jums suprantama kalba, priklausomai nuo to, kokios informacijos ieškote.</p>             <h2>ES oficialiosios kalbos</h2>             <p>Airių, anglų, bulgarų, čekų, danų, estų, graikų, ispanų, italų, kroatų, latvių, lenkų, lietuvių, maltiečių, olandų, portugalų, prancūzų, rumunų, slovakų, slovėnų, suomių, švedų, vengrų, vokiečių.</p>             <h2>Kitos ES šalyse naudojamos oficialiosios kalbos</h2>             <p>Ateityje joms bus nustatytos specialios taisyklės, pavyzdžiui, Valensijos katalonų, baskų, galisų, valų ir kitoms kalboms. Šiuo metu vyksta derybos su atitinkamomis šalimis, kurios pačios apmokės susijusias išlaidas.</p>             <h2>Informacijos rūšys ir kalbų politika</h2>             <ul>                <li>                   <b>Teisės aktai ir pagrindiniai politiniai dokumentai</b>                   <br/> Skelbiami visomis oficialiosiomis ES kalbomis.</li>                <li>                   <b>Oficialūs dokumentai<br/>                   </b>Teikiami bent tomis kalbomis, kurios dokumentų paskelbimo dieną turėjo oficialiosios ES kalbos statusą. Teisiškai neprivalomi dokumentai paprastai skelbiami anglų, prancūzų ir vokiečių kalbomis.</li>                <li>                   <b>Bendroji informacija<br/>                   </b>Skelbiama visomis oficialiosiomis ES kalbomis.</li>                <li>                   <b>Skubi arba trumpą laiką aktuali informacija <br/>                   </b>Iš pradžių skelbiama viena kalba, atsižvelgiant į tikslinę auditoriją. Vėliau informacija gali būti skelbiama ir kitomis kalbomis, priklausomai nuo naudotojų poreikių.</li>                <li>                   <b>Speciali informacija</b> (techninė informacija, informacija apie kampanijas, konkursus) ir <b>naujienos bei pranešimai apie renginius</b>                   <br/> Skelbiama tik kai kuriomis kalbomis arba tik viena kaba – kokia, priklauso nuo tikslinės auditorijos.</li>             </ul>             <h2>Kodėl konkretaus puslapio nėra jūsų kalba?</h2>             <p>Portalo EUROPA naudotojai dažnai nustemba, jei negali rasti konkretaus portalo EUROPA puslapio konkrečia kalba.</p>             <p>Tai gali būti paprasčiausiai dėl to, kad dar nespėjome visko išversti, ypač į kalbas tų šalių, kurios į ES įstojo 2004 m., 2007 m. ir 2013 m.</p>             <p>Tačiau kai kuriose svetainėse informacija teikiama 3, 2 arba tik viena kalba (paprastai anglų).</p>             <p>Paprastai, kokiomis kalbomis teikiama informacija svetainėje EUROPA, priklauso nuo toliau nurodytų <b>ribojančių veiksnių</b>.</p>             <ul>                <li>                   <b>Vertimo galimybių</b>, nes ribotas tiek vertėjų, kurių paslaugomis galime naudotis, skaičius, tiek vertimui skirtos lėšos (iš mokesčių mokėtojų pinigų).</li>                <li>                   <b>Svarbos</b>, nes visuomenė privalo turėti galimybę susipažinti su teisės aktais ir kitais visuotinės svarbos dokumentais, taigi jie skelbiami visomis oficialiosiomis ES kalbomis.<br/> Kiti dokumentai skelbiami tik tomis kalbomis, kuriomis reikia (pavyzdžiui, bendraujant su nacionalinėmis valdžios institucijomis, organizacijomis arba individualiais asmenimis).</li>                <li>                   <b>Ekonomiškumo sumetimų</b>, nes siekiama taupyti mokesčių mokėtojų pinigus, tad jei svetainės yra labai specifinės ir jas peržiūri mažai naudotojų, jos neskelbiamos visomis kalbomis. Svarbiausia yra tikslinę informaciją pateikti greitai ir veiksmingai – net jei kai kurie naudotojai turės ją perskaityti užsienio kalba.</li>                <li>                   <b>Skubos</b>, nes kai kurią informaciją reikia pateikti nedelsiant. Pirmiausia paskelbiame tekstą tik viena arba dviem kalbomis (atsižvelgdami į tikslinę auditoriją), o vėliau – ir kitomis kalbomis per vieną ar daugiau kartų.</li>                <li>                   <b>Techninių</b> apribojimų, nes tvarkyti svetainę, kuri rengiama daugiau kaip 20-čia kalbų reikia daugiau žmonių ir lėšų.</li>             </ul>             <p>Atsižvelgiant į visa tai, portale EUROPA bus vis labiau laikomasi tokios tvarkos:</p>             <ul>                <li>kiekvienos svetainės <b>pirmojo</b> ir <b>antrojo lygmens</b> puslapiuose <b>visomis oficialiosiomis kalbomis</b> bus skelbiama ilgos trukmės lengvai suprantama informacija plačiajai visuomenei;</li>                <li>puslapiai su <b>trumpą laiką aktualia arba labai specializuota informacija</b> paprastai bus skelbiami keliomis kalbomis arba tik viena kalba, priklausomai nuo skaitytojų, kuriems tie puslapiai skirti.</li>             </ul>"
+      ],
+      "lv": [
+        "<p>Mūsu nolūks ir informēt jūs dzimtajā valodā vai valodā, kuru jūs saprotat (atkarībā no tā, kādu informāciju meklējat).</p>             <h2>ES oficiālās valodas</h2>             <p>Angļu, bulgāru, čehu, dāņu, franču, grieķu, horvātu, igauņu, īru, itāļu, latviešu, lietuviešu, maltiešu, nīderlandiešu, poļu, portugāļu, rumāņu, slovāku, slovēņu, somu, spāņu, ungāru, vācu, zviedru.</p>             <h2>Citas ES dalībvalstīs izmantotās oficiālās valodas</h2>             <p>Uz tādām valodām kā katalāņu jeb valensiešu, basku, galisiešu un velsiešu nākotnē attieksies īpaši noteikumi. Risinājumi tiek apspriesti ar attiecīgajām valstīm, kam pašām būs jāsedz izmaksas.</p>             <h2>Informācijas veidi un valodu politika</h2>             <ul>                <li>                   <b>Tiesību akti un svarīgākie politikas dokumenti</b>                   <br/> Publicē visās ES oficiālajās valodās.</li>                <li>                   <b>Oficiālie dokumenti<br/>                   </b>Pieejami vismaz tajās valodās, kas bija oficiālās ES valodas dokumentu publicēšanas dienā. Dokumentus, kuri nav juridiski saistoši, parasti publicē angļu, franču un vācu valodā.</li>                <li>                   <b>Vispārīga informācija<br/>                   </b>Publicē visās ES oficiālajās valodās.</li>                <li>                   <b>Steidzama vai uz īsu brīdi aktuāla informācija <br/>                   </b>Sākumā to publicē tikai vienā valodā atkarībā no konkrētās mērķauditorijas. Vēlāk atkarībā no lietotāju vajadzībām var pievienot tulkojumus citās valodās.</li>                <li>                   <b>Specializēta informācija</b> (tehniskā informācija, kampaņas, konkursi) un <b>jaunākās ziņas vai pasākumi</b>                   <br/> Publicē tikai dažās vai pat vienā valodā atkarībā no mērķauditorijas.</li>             </ul>             <h2>Kāpēc kāda tīmekļa vietne nav pieejama jūsu valodā?</h2>             <p>Portāla EUROPA lietotāji nereti ir pārsteigti, ja nevar atrast kādu EUROPA lapu savā valodā.</p>             <p>Vienkārši var gadīties, ka mums ir pietrūcis laika visu iztulkot — īpaši to valstu valodās, kuras pievienojās ES 2004., 2007. un 2013. gadā.</p>             <p>Tomēr dažas lapas ir divās, trijās vai pat tikai vienā (parasti angļu) valodā.</p>             <p>Kopumā portālā EUROPA izmantoto valodu skaits ir atkarīgs no vairākiem <b>faktoriem</b>.</p>             <ul>                <li>                   <b>Tulkošana </b>— mūsu rīcībā ir ierobežots tulkotāju skaits, tāpat ierobežots ir arī tulkošanas vajadzībām atvēlētais budžets (nodokļu maksātāju nauda).</li>                <li>                   <b>Svarīgums</b> — tiesību aktiem un sabiedrībai nozīmīgiem dokumentiem jābūt publiski pieejamiem, tāpēc tos tulko visās ES oficiālajās valodās.<br/> Citi dokumenti ir tikai tajās valodās, kas nepieciešamas, piemēram, saziņai ar valstu iestādēm, organizācijām vai privātpersonām.</li>                <li>                   <b>Izmaksu lietderība</b> — lai ietaupītu nodokļu maksātāju naudu, ļoti specializētas tīmekļa vietnes, kurām ir ierobežots skaits lietotāju, nav publicētas visās valodās. Galvenais ir ātri un efektīvi sniegt mērķorientētu informāciju, lai gan var gadīties, ka dažiem lietotājiem tā būs jālasa svešvalodā.</li>                <li>                   <b>Steidzamība </b>— ir ziņas, kas ir aktuālas tieši konkrētajā brīdī. Mēs vispirms publicējam tekstu vienā vai divās valodās (atkarībā no mērķauditorijas) un pārējās valodas pakāpeniski pievienojam vēlāk.</li>                <li>                   <b>Tehniskie </b>ierobežojumi — tīmekļa vietnes uzturēšanai vairāk nekā 20 valodās vajag vairāk cilvēku un naudas.</li>             </ul>             <p>Ņemot to visu vērā, portālā EUROPA aizvien biežāk izmantosim šādu pieeju:</p>             <ul>                <li>katras vietnes <b>pirmajā </b>un <b>otrajā </b>līmenī būs plašai sabiedrībai domāta nemainīgi aktuāla pamatinformācija <b>visās oficiālajās valodās</b>,</li>                <li>lapas, kurās ir <b>īslaicīgas aktualitātes vai ļoti specifiska informācija</b>, parasti būs dažās valodās vai pat tikai vienā — atkarībā no potenciālo lasītāju loka.</li>             </ul>"
+      ],
+      "mt": [
+        "<p>L-għan tagħna hu li nipprovduk b'informazzjoni fil-lingwa tiegħek - jew f'lingwa li tifhem - skont x'tip ta' informazzjoni tkun qed tfittex.</p>             <h2>Il-lingwi uffiċjali tal-UE</h2>             <p>Il-Bulgaru, il-Kroat, iċ-Ċek, id-Daniż, l-Olandiż, l-Ingliż, l-Estonjan, il-Finlandiż, il-Franċiż, il-Ġermaniż, il-Grieg, l-Ungeriż, l-Irlandiż, it-Taljan, il-Latvjan, il-Litwan, il-Malti, il-Pollakk, il-Portugiż, ir-Rumen, is-Slovakk, is-Sloven, l-Ispanjol u l-Isvediż.</p>             <h2>Lingwi uffiċjali oħra użati fil-pajjiżi tal-UE</h2>             <p>Lingwi inkluż il-Valenzjan/il-Katalan, il-Bask, il-Galizjan u l-Welsh se jkunu koperti minn regoli speċjali fil-futur. L-arranġamenti qed jiġu nnegozjati mal-pajjiżi kkonċernati, li se jħallsu l-ispiża huma stess.</p>             <h2>Tipi ta' informazzjoni u politika dwar il-lingwa</h2>             <ul>                <li>                   <b>Leġiżlazzjoni u dokumenti politiċi ewlenin</b>                   <br/> Ippubblikati fil-lingwi uffiċjali kollha tal-UE.</li>                <li>                   <b>Dokumenti uffiċjali<br/>                   </b>Disponibbli f'tal-inqas dawk il-lingwi li kienu uffiċjali fid-data tal-pubblikazzjoni. Id-dokumenti li mhumiex vinkolanti huma ġeneralment ippubblikati bl-Ingliż, il-Franċiż u l-Ġermaniż.</li>                <li>                   <b>Informazzjoni ġenerali<br/>                   </b>Ippubblikata fil-lingwi uffiċjali kollha tal-UE.</li>                <li>                   <b>Informazzjoni urġenti jew b’validità qasira <br/>                   </b>Tidher f’lingwa waħda inizjalment, minħabba l-udjenza fil-mira speċifika. Lingwi oħra jistgħu jiġu miżjuda aktar tard, skont il-bżonnijiet tal-utenti.</li>                <li>                   <b>Informazzjoni speċjalizzata</b> (informazzjoni teknika, kampanji, sejħiet għal offerti) u <b>aħbarijiet / avvenimenti</b>                   <br/> Disponibbli f’numru ristrett ta’ lingwi jew anki biss f'lingwa waħda – l-għażla tiddependi fuq l-udjenza mmirata.</li>             </ul>             <h2>Għaliex paġna tal-web partikolari mhix disponibbli fil-lingwa tiegħek?</h2>             <p>L-utenti ta’ EUROPA xi kultant ikunu sorpriżi li ma jistgħux isibu paġna partikolari fuq EUROPA f’lingwa partikolari.</p>             <p>Dan jista’ jkun sempliċiment għax għadna ma sibniex il-ħin nittraduċu kollox – speċjalment fejn il-lingwi tal-pajjiżi li ssieħbu fl-2004, l-2007 u l-2013 huma konċernati.</p>             <p>Iżda xi siti huma disponibbli biss f'żewġ jew tliet lingwi - jew saħansitra f'lingwa waħda biss (normalment bl-Ingliż).</p>             <p>Ġeneralment, il-lingwi disponibbli fuq EUROPA jiddependu fuq dawn <b>il-limiti</b>:</p>             <ul>                <li>                   <b>It-traduzzjoni</b> – għandna biss aċċess għal numru limitat ta' tradutturi u baġit limitat għat-traduzzjoni (il-flus ta' dawk li jħallsu t-taxxa).</li>                <li>                   <b>L-importanza</b> – liġijiet u dokumenti ta’ interess pubbliku maġġuri għandhom ikunu disponibbli pubblikament, għalhekk jidhru fil-lingwi uffiċjali kollha tal-UE.<br/> Dokumenti oħra jidhru biss fil-lingwi meħtieġa (eż. għall-komunikazzjoni mal-awtoritajiet nazzjonali, organizzazzjonijiet jew individwi).</li>                <li>                   <b>Il-kosteffettività</b> – biex niffrankaw il-flus ta’ dawk li jħallsu t-taxxa, is-siti speċjalizzati ħafna b’numru ristrett ta’ utenti ma jiġux ippubblikati fil-lingwi kollha. Il-prijorità hija li nipprovdu informazzjoni mmirata b’mod rapidu u effiċjenti - anke jekk xi utenti se jkollhom jaqrawha f’lingwa barranija.</li>                <li>                   <b>L-urġenza</b> – xi informazzjoni hi għall-konsum immedjat. Aħna nippubblikaw it-test l-ewwel f’lingwa waħda jew fi ftit lingwi biss (filwaqt li nqisu l-udjenza fil-mira) u nżidu lingwi oħrajn aktar tard, f’pass wieħed jew aktar.</li>                <li>             Il-limiti <b>tekniċi</b> – il-ġestjoni ta’ sit f’aktar minn 20 lingwa tinvolvi aktar nies u flus.</li>             </ul>             <p>Fid-dawl ta' dan, is-sit EUROPA se japplika dejjem iżjed dan il-metodu:</p>             <ul>                <li>L-<b>ewwel</b> u <b>t-tieni livelli</b> ta' kull sit se jkun fihom informazzjoni ġenerali valida fit-tul għall-pubbliku inġenerali, <b>fil-lingwi uffiċjali kollha</b>.</li>                <li>Il-paġni b’<b>informazzjoni valida għal żmien qasir ħafna jew speċjalizzata</b> ġeneralment se jidhru fi ftit lingwi - jew anke waħda biss - skont il-qarrejja.</li>             </ul>"
+      ],
+      "nl": [
+        "<p>We proberen u te informeren in uw eigen taal of een taal die u begrijpt, afhankelijk van het soort informatie.</p>             <h2>Officiële talen van de EU</h2>             <p>Dat zijn Bulgaars, Deens, Duits, Engels, Ests, Fins, Frans, Grieks, Hongaars, Iers, Italiaans, Kroatisch, Lets, Litouws, Maltees, Nederlands, Pools, Portugees, Roemeens, Sloveens, Slowaaks, Spaans, Tsjechisch, Zweeds.</p>             <h2>Andere officiële talen die in de EU-landen worden gesproken</h2>             <p>Voor vertalingen in onder andere het Catalaans/Valenciaans, Baskisch, Galicisch en Welsh worden afspraken gemaakt met de betrokken landen, die de kosten daarvan zelf zullen dragen.</p>             <h2>Soorten informatie en talenbeleid</h2>             <ul>                <li>                   <b>Wetgeving en belangrijke beleidsdocumenten</b>                   <br/> Beschikbaar in alle officiële EU-talen</li>                <li>                   <b>Officiële documenten<br/>                   </b>Beschikbaar in de officiële EU-talen op de datum van publicatie, soms in meer talen. Juridisch niet-bindende documenten worden over het algemeen in het Duits, Engels en Frans gepubliceerd.</li>                <li>                   <b>Algemene informatie<br/>                   </b>Beschikbaar in alle officiële EU-talen</li>                <li>                   <b>Dringende informatie of informatie die snel niet meer relevant is <br/>                   </b>Aanvankelijk alleen in de taal van de specifieke doelgroep. Andere talen kunnen later worden toegevoegd, afhankelijk van de behoeften van de gebruikers.</li>                <li>                   <b>Gespecialiseerde informatie</b> (technische informatie, campagnes, aanbestedingen) en <b>nieuws/evenementen</b>                   <br/> Beschikbaar in één of enkele talen, afhankelijk van de doelgroep</li>             </ul>             <h2>Waarom is een bepaalde webpagina niet beschikbaar in mijn taal?</h2>             <p>Als gebruiker van de Europa-website bent u misschien verbaasd als een bepaalde pagina niet in uw taal beschikbaar is.</p>             <p>Soms is dat simpelweg het geval omdat wij nog niet de tijd hebben gehad om alles te vertalen.</p>             <p>Maar sommige websites zijn slechts in één of enkele talen beschikbaar (waaronder meestal Engels).</p>             <p>Over het algemeen gelden de volgende <b>beperkingen</b> voor het aantal talen op de EUROPA-website:</p>             <ul>                <li>                   <b>Vertaling</b> - we beschikken over een beperkt aantal vertalers en een beperkt budget voor vertalingen (voor rekening van de belastingbetaler).</li>                <li>                   <b>Belang</b> - wetgeving en documenten die voor iedereen van groot belang zijn, moeten openbaar toegankelijk worden gemaakt. Daarom verschijnen ze in alle officiële EU-talen.<br/> Andere documenten worden alleen in de benodigde talen gepubliceerd (bv. communicatie met nationale autoriteiten, organisaties of individuen).</li>                <li>                   <b>Kosteneffectiviteit</b> - om belastinggeld te besparen, zijn zeer gespecialiseerde webpagina’s met een beperkt aantal gebruikers niet in alle talen beschikbaar. Onze prioriteit is  snel en efficiënt gerichte informatie te verstrekken, ook als dit betekent dat sommige gebruikers de informatie in een vreemde taal moeten lezen.</li>                <li>                   <b>Urgentie</b> - sommige informatie moet direct gepubliceerd worden. We publiceren de tekst eerst in één taal of enkele talen (gericht op de doelgroep) en voegen later andere talen toe.</li>                <li>                   <b>Technische</b> beperkingen - een site die volledig in ruim 20 talen beschikbaar is, kost extra personeel en geld.</li>             </ul>             <p>Daarom zal op de EUROPA-website steeds vaker gelden dat:</p>             <ul>                <li>het <b>eerste</b> en <b>tweede niveau</b> van elke site algemene informatie voor het grote publiek bevatten die lang relevant blijft. Deze niveau's worden in <b>alle officiële EU-talen</b> gepubliceerd.</li>                <li>pagina's met informatie die <b>snel niet meer relevant is of die zeer specialistisch</b> is, meestal slechts in één of enkele talen verschijnen, afhankelijk van de doelgroep.</li>             </ul>"
+      ],
+      "pl": [
+        "<p>Naszym celem jest dostarczanie użytkownikom informacji w ich własnym lub zrozumiałym dla nich języku, w zależności od rodzaju poszukiwanych treści.</p>             <h2>Języki urzędowe UE</h2>             <p>Angielski, bułgarski, chorwacki, czeski, duński, estoński, fiński, francuski, grecki, hiszpański, irlandzki, litewski, łotewski, maltański, niderlandzki, niemiecki, polski, portugalski, rumuński, słowacki, słoweński, szwedzki, węgierski, włoski.</p>             <h2>Inne języki urzędowe w krajach UE</h2>             <p>Języki te – w tym kataloński/walencki, baskijski, galicyjski i walijski – zostaną w przyszłości objęte osobnymi przepisami. Obecnie prowadzone są negocjacje w tej sprawie z odpowiednimi krajami UE (to one będą ponosić koszty przyszłych rozwiązań).</p>             <h2>Rodzaje informacji a polityka językowa</h2>             <ul>                <li>                   <b>Prawodawstwo i najważniejsze dokumenty polityczne</b>                   <br/> Publikowane we wszystkich językach urzędowych UE.</li>                <li>                   <b>Dokumenty urzędowe<br/>                   </b>Publikowane co najmniej w tych językach, które miały status języków urzędowych UE w dniu ich publikacji. Dokumenty, które nie mają charakteru prawnie wiążącego, są z reguły publikowane w języku angielskim, francuskim i niemieckim.</li>                <li>                   <b>Informacje ogólne<br/>                   </b>Publikowane we wszystkich językach urzędowych UE.</li>                <li>                   <b>Informacje pilne lub szybko ulegające dezaktualizacji <br/>                   </b>Zamieszczane są początkowo tylko w jednym języku, w zależności od tego, do jakiej grupy użytkowników są skierowane. W późniejszym terminie, jeśli pojawi się takie zapotrzebowanie, mogą zostać dodane inne języki.</li>                <li>                   <b>Informacje specjalistyczne</b> (informacje techniczne, kampanie, ogłoszenia o przetargach) oraz <b>aktualności / wydarzenia</b>                   <br/> Dostępne w kilku językach lub nawet tylko w jednym – wybór języka zależy od tego, dla jakiej grupy odbiorców informacje są przeznaczone.</li>             </ul>             <h2>Dlaczego strona internetowa nie jest dostępna w wybranym języku?</h2>             <p>Użytkowników portalu EUROPA czasami dziwi, że dana strona nie jest dostępna w wybranym języku.</p>             <p>Powodem może być to, że nie udało nam się jeszcze wszystkiego przetłumaczyć – dotyczy to zwłaszcza języków krajów, które przystąpiły do Unii w roku 2004, 2007 i 2013.</p>             <p>Niektóre strony są jednak dostępne tylko w dwóch lub trzech językach, a nawet w jednym (zazwyczaj angielskim).</p>             <p>To, w jakich językach publikowane są strony portalu EUROPA, jest uwarunkowane kilkoma różnymi <b>czynnikami</b>:</p>             <ul>                <li>                   <b>proces tłumaczenia</b> – nasze zasoby tłumaczy, podobnie jak budżet przeznaczony na ten cel, są ograniczone (tłumaczenie jest finansowane z pieniędzy podatników)</li>                <li>                   <b>znaczenie</b> – akty prawne i dokumenty, które są ważne z punktu widzenia interesu publicznego, muszą być powszechnie dostępne, a więc publikowane są we wszystkich językach urzędowych UE.<br/> Innego rodzaju dokumenty – na przykład treść wymiany pism z władzami krajowymi, organizacjami i osobami prywatnymi – są zamieszczane tylko w potrzebnych wersjach językowych</li>                <li>                   <b>oszczędność</b> – aby zaoszczędzić pieniądze podatników, strony internetowe, które mają bardzo specjalistyczną tematykę i wąskie grono odbiorców, nie są publikowane we wszystkich językach. Priorytetem jest szybkie i efektywne udostępnienie tego rodzaju informacji, nawet jeśli oznacza to, że niektórzy użytkownicy będą musieli je przeczytać w języku obcym</li>                <li>                   <b>pilny charakter</b> – niektóre treści muszą zostać zamieszczone bezzwłocznie. Najpierw publikujemy tekst tylko w jednym lub kilku językach (biorąc pod uwagę grupę, do której informacje są skierowane), a następnie dodajemy inne języki, stopniowo lub jednocześnie</li>                <li>             ograniczenia <b>techniczne</b> – do prowadzenia strony w ponad 20 językach potrzebna jest większa liczba osób i większy budżet.</li>             </ul>             <p>Biorąc pod uwagę te wszystkie czynniki, polityka językowa portalu EUROPA będzie w coraz większym stopniu opierać się na następujących zasadach:</p>             <ul>                <li>Każda część portalu będzie zawierać, na <b>pierwszym</b> i <b>drugim poziomie</b> swojej struktury, przystępnie napisane informacje o charakterze stałym, przeznaczone dla ogółu społeczeństwa i dostępne <b>we wszystkich językach urzędowych</b>.</li>                <li>Strony z informacjami <b>szybko ulegającymi dezaktualizacji bądź wysoce specjalistycznymi</b> będą publikowane w kilku językach – lub nawet tylko jednym – w zależności od grupy odbiorców.</li>             </ul>"
+      ],
+      "pt": [
+        "<p>O nosso objetivo é facultar-lhe informações na sua língua ou noutra língua que perceba, em função do tipo de informação que procura.</p>             <h2>Línguas oficiais da UE</h2>             <p>Alemão, búlgaro, checo, croata, dinamarquês, eslovaco, esloveno, espanhol, estónio, finlandês, francês, grego, neerlandês, húngaro, inglês, irlandês, italiano, letão, lituano, maltês, polaco, português, romeno e sueco.</p>             <h2>Outras línguas oficiais faladas nos países da UE</h2>             <p>No futuro, línguas como o valenciano, o catalão, o basco, o galego e o galês estarão sujeitas a regras especiais. Estão atualmente a ser negociadas disposições especiais com os países interessados, que terão de suportar os custos inerentes à publicação nessas línguas.  </p>             <h2>Tipos de informação e política linguística</h2>             <ul>                <li>                   <b>Legislação e documentos políticos importantes</b>                   <br/> Publicados em todas as línguas oficiais</li>                <li>                   <b>Documentos oficiais<br/>                   </b>Disponíveis, pelo menos, nas línguas com estatuto de língua oficial à data da sua publicação. Os documentos que não são juridicamente vinculativos são geralmente publicados em inglês, francês e alemão</li>                <li>                   <b>Informações gerais<br/>                   </b>Publicadas em todas as línguas oficiais</li>                <li>                   <b>Informações urgentes ou efémeras <br/>                   </b>São publicadas inicialmente numa única língua, em função do público a que se destinam.  Outras línguas poderão ser acrescentadas mais tarde, consoante as necessidades dos utilizadores</li>                <li>                   <b>Informações especializadas</b> (informações técnicas, campanhas, concursos), <b>notícias e eventos</b>                   <br/> Nem sempre são publicadas em todas as línguas. As línguas são escolhidas em função do público a que se destinam</li>             </ul>             <h2>Por que motivo uma determinada página não existe na sua língua? </h2>             <p>Os utilizadores do portal EUROPA acham muitas vezes estranho que uma dada página não esteja disponível na sua língua. </p>             <p>Pode ser simplesmente por ainda não termos tido tempo de traduzir tudo, nomeadamente no caso dos países que aderiram recentemente à UE (em 2004, 2007 e 2013).   </p>             <p>Mas também há sítios que só estão disponíveis em três, duas ou mesmo numa língua (geralmente inglês).</p>             <p>O número de línguas disponíveis no portal EUROPA depende nomeadamente dos seguintes <b>fatores</b>:</p>             <ul>                <li>                   <b>Tradução</b> – o número de tradutores e o orçamento afetado à tradução são limitados (financiado pelos contribuintes)</li>                <li>                   <b>Importância</b> – os cidadãos devem ter acesso a toda a legislação e aos principais documentos de interesse público, pelo que estes são publicados em todas as línguas oficiais<br/> Outros documentos aparecem apenas nas línguas necessárias (por exemplo, para fins de comunicação com autoridades nacionais, organizações ou cidadãos)</li>                <li>                   <b>Relação custo-eficácia </b> – para poupar o dinheiro dos contribuintes, os sítios altamente especializados, consultados por poucas pessoas, não existem em todas as línguas. A prioridade é prestar informações específicas de forma rápida e eficaz, mesmo se alguns leitores tiverem de as ler numa língua estrangeira</li>                <li>                   <b>Urgência</b> – alguns tipos de informação devem ser publicados rapidamente.  O texto é publicado inicialmente numa ou duas línguas (em função do público a que se destinam). Posteriormente, são acrescentadas as outras línguas mais tarde, numa ou em várias etapas </li>                <li>                   <b>Limitações técnicas</b>  – gerir um sítio com mais de 20 línguas exige recursos humanos e financeiros consideráveis</li>             </ul>             <p>Tendo em conta estes elementos, o portal EUROPA aplicará cada vez mais a seguinte abordagem:</p>             <ul>                <li>O <b>primeiro </b>e o <b>segundo níveis</b> de cada sítio contêm informações simples e estáveis, destinadas a um público não especializado, que são publicadas em <b>todas as línguas oficiais</b>.</li>                <li>As páginas com <b>informações efémeras ou muito especializadas</b> serão publicadas em geral só numa ou  em algumas línguas, dependendo do público a que se destinam.</li>             </ul>"
+      ],
+      "ro": [
+        "<p>Obiectivul nostru este de a vă oferi informații în limba dumneavoastră sau într-o limbă pe care o înțelegeți, în funcție de ce fel de informații căutați.</p>             <h2>Limbile oficiale ale UE</h2>             <p>bulgară, croată, cehă, daneză, engleză, estonă, finlandeză, franceză, germană, greacă, irlandeză, italiană, letonă, lituaniană, maghiară, malteză, neerlandeză, poloneză, portugheză, română, slovacă, slovenă, spaniolă, suedeză.</p>             <h2>Alte limbi oficiale utilizate în țările UE</h2>             <p>În viitor, utilizarea unor limbi precum catalana/valenciana, basca, galiciana și galeza va fi reglementată de norme speciale rezultate în urma negocierilor în curs cu țările respective. Costurile aferente vor f suportate de acestea din urmă.</p>             <h2>Tipuri de informații și politica lingvistică</h2>             <ul>                <li>                   <b>Legislație și documentele politice importante</b>                   <br/> Publicate în toate limbile oficiale.</li>                <li>                   <b>Documentele oficiale<br/>                   </b>Disponibile cel puțin în limbile care au statut oficial la data publicării. Documentele care nu sunt obligatorii din punct de vedere juridic sunt de obicei publicate în engleză, franceză și germană.</li>                <li>                   <b>Informațiile cu caracter general<br/>                   </b>Publicate în toate limbile oficiale.</li>                <li>                   <b>Informații urgente sau care se perimează rapid <br/>                   </b>Inițial publicate într-o singură limbă, în funcție de publicul-țintă.  Alte limbi pot fi adăugate ulterior, în funcție de nevoile utilizatorilor.</li>                <li>                   <b>Informații specializate</b> (cu caracter tehnic, referitoare la campanii sau la cereri de oferte) și <b>știri/evenimente</b>                   <br/> Publicate într-un număr limitat de limbi sau chiar într-o singură limbă, în funcție de publicul-țintă.</li>             </ul>             <h2>De ce unele pagini de internet nu sunt disponibile în limba dumneavoastră?</h2>             <p>Uneori, utilizatorii portalului EUROPA sunt surprinși să constate că unele pagini ale site-ului nu sunt disponibile în limba lor.</p>             <p>Motivul este acela că pur și simplu nu am avut încă timp să traducem tot, în special pentru țările care au aderat la UE în 2004, 2007 și 2013.</p>             <p>Însă există și site-uri care sunt disponibile doar în 2 sau 3 limbi și uneori doar într-o singură limbă (de obicei, engleză).</p>             <p>În general, numărul de limbi în care pot fi citite paginile EUROPA depinde de următorii <b>factori</b>:</p>             <ul>                <li>                   <b>traducere</b> - dispunem de un număr restrâns de traducători, în limitele bugetului consacrat acestei activități (finanțată de contribuabili);</li>                <li>                   <b>importanță</b> - cetățenii trebuie să aibă acces la toată legislația și la toate documentele de interes public major, prin urmare acestea sunt publicate în toate limbile oficiale.<br/> Alte documente nu sunt traduse decât în limbile necesare (de exemplu, pentru comunicarea cu autoritățile naționale, organismele sau persoanele fizice din țările respective);</li>                <li>                   <b>raportul costuri-rentabilitate</b> - pentru o bună gestionare a banilor publici, paginile de internet foarte specializate, cu un număr restrâns de utilizatori, nu sunt publicate în toate limbile. Pentru noi este o prioritate să furnizăm informații rapid și eficient, chiar dacă unii utilizatori vor trebui să le citească într-o limbă străină;</li>                <li>                   <b>caracterul urgent</b> - unele informații trebuie publicate rapid. Mai întâi publicăm textul într-o limbă sau într-un număr restrâns de limbi (ținând cont de publicul-țintă) și adăugăm ulterior alte versiuni lingvistice, într-una sau mai multe etape;</li>                <li>                   <b>factorii tehnici</b> - administrarea unui site în peste 20 de limbi necesită mai multe resurse umane și financiare.</li>             </ul>             <p>Luând în considerare toate aceste elemente, vom aplica treptat următoarea abordare:</p>             <ul>                <li>pentru fiecare site, <b>nivelurile <b>unu </b>și doi </b> vor cuprinde informații simple și stabile, destinate marelui public, în <b>toate limbile oficiale</b>;</li>                <li>paginile care conțin <b>informații perisabile sau foarte specializate</b> vor fi publicate, în general, în câteva limbi sau chiar într-o singură limbă, în funcție de publicul vizat.</li>             </ul>"
+      ],
+      "sk": [
+        "<p>Naším cieľom je poskytovať informácie vo vašom jazyku alebo v jazyku, ktorému rozumiete, v závislosti od druhu hľadaných informácií.</p>             <h2>Úradné jazyky EÚ</h2>             <p>Anglický, bulharský, český, dánsky, estónsky, fínsky, francúzsky, grécky, holandský, chorvátsky, írsky, litovský, lotyšský, maďarský, maltský, nemecký, poľský, portugalský, rumunský, slovenský, slovinský, španielsky, švédsky, taliansky.</p>             <h2>Ďalšie úradné jazyky používané v krajinách EÚ</h2>             <p>V budúcnosti sa budú vzťahovať osobitné pravidlá na jazyky ako katalánčina/valencijčina, baskičtina, galícijčina či waleština. O opatreniach sa rokuje s príslušnými krajinami, ktoré budú znášať súvisiace náklady.</p>             <h2>Druhy informácií a jazyková politika</h2>             <ul>                <li>                   <b>Právne predpisy a kľúčové politické dokumenty</b>                   <br/> Dostupné vo všetkých úradných jazykoch EÚ.</li>                <li>                   <b>Úradné dokumenty<br/>                   </b>Úradné dokumenty sú k dispozícii minimálne v tých jazykoch, ktoré boli úradnými jazykmi EÚ v čase ich uverejnenia. Dokumenty, ktoré nie sú právne záväzné, sa zvyčajne uverejňujú v angličtine, francúzštine a nemčine.</li>                <li>                   <b>Všeobecné informácie<br/>                   </b>Dostupné vo všetkých úradných jazykoch EÚ.</li>                <li>                   <b>Naliehavé informácie alebo informácie s krátkou životnosťou <br/>                   </b>Vzhľadom na špecifickú cieľovú skupinu sa pôvodne uverejnia v jednom jazyku. Neskôr sa prípadne doplnia ďalšie jazyky v závislosti od potrieb používateľov.</li>                <li>                   <b>Informácie špecifického charakteru </b>(technické informácie, kampane, výzvy na predkladanie ponúk) a <b>aktuality/podujatia</b>                   <br/> Dostupné v obmedzenom počte jazykov alebo len v jednom – voľba jazyka závisí od cieľovej skupiny.</li>             </ul>             <h2>Prečo nie je určitá stránka dostupná vo vašom jazyku?</h2>             <p>Používatelia portálu EUROPA sú niekedy prekvapení, že nevedia nájsť stránku v určitom jazyku.</p>             <p>Dôvodom môže byť jednoducho skutočnosť, že sme zatiaľ nemali čas všetko preložiť, najmä pokiaľ ide o jazyky krajín, ktoré pristúpili v roku 2004, 2007 a 2013.</p>             <p>Niektoré stránky sú však dostupné len v 2 alebo 3 alebo dokonca len v jednom jazyku (obvykle v angličtine).</p>             <p>Ponuku jazykov používaných na portáli EUROPA v zásade ovplyvňujú tieto <b>obmedzenia</b>:</p>             <ul>                <li>                   <b>Preklad </b>– sme limitovaní ľudskými zdrojmi (počtom prekladateľov) a rozpočtom, ktorý je vyhradený na tieto činnosti (peniaze daňových poplatníkov).</li>                <li>                   <b>Význam </b>– prioritne musíme verejnosti sprístupniť právne predpisy a dokumenty veľkého verejného záujmu, ktoré sa uverejňujú vo všetkých úradných jazykoch EÚ.<br/> Iné dokumenty sa uverejňujú len jazykoch, v ktorých je to potrebné (napr. v prípade komunikácia s vnútroštátnymi orgánmi, organizáciami alebo jednotlivcami).</li>                <li>                   <b>Efektívne využívanie pridelených zdrojov</b>– aby sa ušetrili peniaze daňových poplatníkov, veľmi špecializované webové stránky s obmedzeným počtom používateľov nie sú dostupné vo všetkých jazykoch. Prioritou je poskytovanie cielených informácií rýchlo a efektívne, aj za cenu, že ich niektorí používatelia budú musieť čítať v cudzom jazyku.</li>                <li>                   <b>Naliehavosť </b>– niektoré informácie sú aktuálne len krátko. Text najskôr uverejníme len v jednom jazyku alebo niekoľkých jazykoch (berúc do úvahy cieľovú skupinu) a ďalšie jazyky doplníme neskôr (naraz alebo postupne).</li>                <li>                   <b>Technické </b>obmedzenia – správa stránok vo viac ako 20 jazykoch znamená viac ľudí a peňazí.</li>             </ul>             <p>Vzhľadom na všetky tieto skutočnosti budeme na portáli EUROPA postupne zavádzať tento prístup:</p>             <ul>                <li>Každá stránka bude na <b>prvej </b>a <b>druhej úrovni </b>obsahovať základné informácie dlhodobého charakteru určené všeobecnej verejnosti, a to vo <b>všetkých úradných jazykoch</b>.</li>                <li>Stránky obsahujúce <b>informácie s krátkou životnosťou alebo veľmi odborné informácie</b> budú k dispozícii obyčajne v niekoľkých jazykoch – alebo dokonca len v jednom – v závislosti od okruhu čitateľov.</li>             </ul>"
+      ],
+      "sl": [
+        "<p>Informacije vam želimo ponuditi v vašem maternem jeziku ali jeziku, ki ga razumete. Pri tem je treba upoštevati vrsto informacij, ki jih iščete.</p>             <h2>Uradni jeziki EU</h2>             <p>Angleščina, bolgarščina, češčina, danščina, estonščina, finščina, francoščina, grščina, hrvaščina, irščina, italijanščina, latvijščina, litovščina, madžarščina, malteščina, nemščina, nizozemščina, poljščina, portugalščina, romunščina, slovaščina, slovenščina, španščina in švedščina.</p>             <h2>Drugi uradni jeziki v državah članicah EU</h2>             <p>V prihodnosti predvidevamo posebno ureditev za jezike, kot so katalonščina/valencijščina, baskovščina, galicijščina in valižanščina. O podrobnostih se dogovarjamo z zadevnimi državami članicami, ki bodo morale s tem povezane stroške kriti same.</p>             <h2>Vrste informacij in jezikovna politika</h2>             <ul>                <li>                   <b>Zakonodaja in ključni politični dokumenti</b>                   <br/> Objavljeni v vseh uradnih jezikih EU.</li>                <li>                   <b>Uradni dokumenti<br/>                   </b>Na voljo so vsaj v jezikih, ki so bili uradni jeziki EU na dan objave dokumentov. Dokumenti, ki niso pravno zavezujoči, so v glavnem objavljeni v angleškem, francoskem in nemškem jeziku.</li>                <li>                   <b>Splošne informacije<br/>                   </b>Objavljene v vseh uradnih jezikih EU.</li>                <li>                   <b>Nujne in trenutne informacije <br/>                   </b>Najprej jih objavimo samo v enem jeziku – glede na ciljno skupino uporabnikov. Pozneje jih objavimo tudi v drugih jezikih glede na potrebe uporabnikov.</li>                <li>                   <b>Posebne informacije</b> (tehnične informacije, kampanje, javni razpisi) in <b>novice/dogodki</b>                   <br/> Na voljo so v omejenem številu jezikov ali samo enem jeziku – glede na ciljno skupino uporabnikov.</li>             </ul>             <h2>Zakaj določena spletna stran ni na voljo v vašem jeziku</h2>             <p>Uporabniki portala EUROPA so včasih presenečeni, ko na portalu EUROPA ne najdejo določene strani v določenem jeziku.</p>             <p>Prevod namreč še ni na voljo – to velja zlasti za države, ki so se EU pridružile v letih 2004, 2007 in 2013.</p>             <p>Nekatere strani so na voljo samo v dveh ali treh jezikih ali celo v enem samem (običajno angleščini).</p>             <p>Na splošno je število jezikov, ki so na voljo na portalu EUROPA, odvisno od naslednjih <b>dejavnikov</b>:</p>             <ul>                <li>                   <b>prevajanje </b>– na voljo imamo samo omejeno število prevajalcev in omejen proračun za prevajanje (davkoplačevalski denar);</li>                <li>                   <b>pomen</b>– zakonodaja in dokumenti, ki so večjega javnega interesa, morajo biti javno dostopni, zato so na voljo v vseh uradnih jezikih.<br/> Drugi dokumenti se prevajajo samo v nekatere jezike (denimo korespondenca z nacionalnimi organi, organizacijami ali posamezniki);</li>                <li>                   <b>stroškovna učinkovitost</b> –  da bi prihranili denar evropskih davkoplačevalcev, zelo specializirane strani, ki jih uporablja omejeno število bralcev, niso prevedene v vse jezike. Predvsem si prizadevamo zagotoviti, da so informacije na voljo hitro in učinkovito, čeprav jih bodo morali nekateri uporabniki strani zato brati v tujem jeziku;</li>                <li>                   <b>nujnost </b> – nekatere informacije je treba objaviti takoj. Besedilo najprej objavimo samo v enem ali nekaj jezikih (z upoštevanjem ciljne skupine uporabnikov) in pozneje dodamo druge jezike – vse naenkrat ali postopno;</li>                <li>                   <b>tehnične omejitve</b> – za urejanje spletišča z več kot 20 jeziki  potrebujemo več zaposlenih in več denarja.</li>             </ul>             <p>Zaradi tega bo portal EUROPA vedno bolj uporabljal naslednji pristop:</p>             <ul>                <li>                   <b>vrhnje </b>strani in <b>podstrani</b> spletišč bodo v <b>vseh uradnih jezikih</b> vsebovale razumljive in časovno neomejene informacije, namenjene splošni javnosti;</li>                <li>strani s <b>kratkoročnimi in specializiranimi informacijami</b> bodo običajno na voljo samo v nekaj jezikih – ali samo v enem – odvisno od obiskovalcev teh spletnih strani.</li>             </ul>"
+      ],
+      "sv": [
+        "<p>Vi försöker ge dig information på svenska eller något annat språk du förstår, beroende på vilka uppgifter du söker.</p>             <h2>EU:s officiella språk</h2>             <p>Bulgariska, danska, engelska, estniska, finska, franska, grekiska, iriska, italienska, kroatiska, lettiska, litauiska, maltesiska, nederländska, polska, portugisiska, rumänska, slovakiska, slovenska, spanska, svenska, tjeckiska, tyska och ungerska.</p>             <h2>Andra officiella språk i EU-länderna</h2>             <p>I framtiden kommer det att finnas särskilda regler för t.ex. valencianska, katalanska, baskiska, galiciska och walesiska. Förhandlingar om detta pågår. Eventuella kostnader får de berörda länderna själva stå för.</p>             <h2>Vilken typ av information publiceras på vilka språk?</h2>             <ul>                <li>                   <b>Lagstiftning och viktiga policydokument</b>                   <br/> Finns på alla officiella EU-språk.</li>                <li>                   <b>Officiella dokument<br/>                   </b>Finns åtminstone på de språk som var officiella EU-språk när dokumentet publicerades. Dokument som inte är rättsligt bindande finns normalt på engelska, franska och tyska.</li>                <li>                   <b>Allmän information<br/>                   </b>Finns på alla officiella EU-språk.</li>                <li>                   <b>Brådskande eller kortlivad information <br/>                   </b>Läggs först ut på bara ett språk, beroende på målgrupp. Andra språk kan vid behov läggas till senare.</li>                <li>                   <b>Specialinformation</b> (tekniska uppgifter, kampanjer, offentlig upphandling) och <b>nyheter/evenemang</b>                   <br/> Finns bara på ett begränsat antal språk – ibland bara ett – beroende på målgrupp.</li>             </ul>             <h2>Varför finns inte alla sidor på svenska?</h2>             <p>En del besökare på europa.eu blir förvånade när den information de söker inte finns på deras eget språk.</p>             <p>Ofta beror det helt enkelt på att vi inte har hunnit översätta allt. Det gäller särskilt språken i de länder som gick med i EU 2004, 2007 och 2013.</p>             <p>En del webbplatser finns dessutom bara på två eller tre språk, och ibland bara ett språk (oftast engelska).</p>             <p>                <b>Hur många språk</b> sidorna finns på beror på följande faktorer:</p>             <ul>                <li>                   <b>Översättning</b> – vi har begränsade resurser och det får inte kosta skattebetalarna för mycket.</li>                <li>                   <b>Relevans</b> – lagstiftning och dokument av allmänt intresse ska vara allmänt tillgängliga och finns därför på alla officiella EU-språk.<br/> Andra dokument översätts bara till de språk som behövs (t.ex. för kommunikationen med myndigheter, organisationer eller privatpersoner).</li>                <li>                   <b>Kostnadseffektivitet</b> – mycket specialiserade webbsidor med ett begränsat antal besökare finns inte på alla språk. På så vis håller vi nere kostnaderna. Det viktigaste är att lägga ut sidorna snabbt och effektivt – även om en del måste läsa informationen på ett främmande språk.</li>                <li>                   <b>Aktualitet</b> – en del information vill vi få ut på en gång. Vi lägger först ut texten på ett eller ett par språk (beroende på målgrupp) och lägger till fler språk senare, i ett eller flera steg.</li>                <li>                   <b>Tekniska resurser</b> – att sköta en webbplats på över 20 språk kräver mer personal och pengar.</li>             </ul>             <p>Därför har vi följande språkpolicy:</p>             <ul>                <li>Den <b>första och andra nivån</b> på varje webbplats innehåller beständig information för allmänheten på <b>samtliga officiella språk</b>.</li>                <li>Sidor med <b>kortlivad eller mycket specialiserad information</b> lägger vi normalt bara ut på ett fåtal språk – eller till och med bara ett – beroende på målgrupp.</li>             </ul>"
+      ]
+    }
+  }
+}

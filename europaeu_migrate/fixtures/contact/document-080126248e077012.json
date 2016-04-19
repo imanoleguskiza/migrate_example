@@ -1,0 +1,214 @@
+{
+  "_id": "080126248e077012",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "it",
+    "lv",
+    "lt",
+    "hr",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "sk",
+    "sl",
+    "pt",
+    "ro",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e077012",
+        "080126248e077012",
+        "080126248e077012"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Сателитен център на Европейския съюз(Satcen)"
+      ],
+      "cs": [
+        "Satelitní středisko Evropské unie(Satcen)"
+      ],
+      "da": [
+        "EU-Satellitcenter(Satcen)"
+      ],
+      "de": [
+        "Satellitenzentrum der Europäischen Union(Satcen)"
+      ],
+      "el": [
+        "Δορυφορικό Κέντρο της Ευρωπαϊκής Ένωσης(Satcen)"
+      ],
+      "en": [
+        "European Union Satellite Centre(Satcen)"
+      ],
+      "es": [
+        "Centro de satélites de la Unión Europea(Satcen)"
+      ],
+      "et": [
+        "Euroopa Liidu Satelliidikeskus(Satcen)"
+      ],
+      "fi": [
+        "Euroopan unionin satelliittikeskus(EUSK)"
+      ],
+      "fr": [
+        "Centre satellitaire de l'Union européenne(CSUE)"
+      ],
+      "ga": [
+        "Lárionad Satailíte an Aontais Eorpaigh(Satcen)"
+      ],
+      "hr": [
+        "Satelitski centar Europske unije(Satcen)"
+      ],
+      "hu": [
+        "Európai Unió Műholdközpontja(Satcen)"
+      ],
+      "it": [
+        "Centro satellitare dell’Unione europea(Satcen)"
+      ],
+      "lt": [
+        "Europos Sąjungos palydovų centras(Satcen)"
+      ],
+      "lv": [
+        "Eiropas Savienības Satelītcentrs(Satcen)"
+      ],
+      "mt": [
+        "iċ-Ċentru Satellitari ta' l-Unjoni Ewropea(Satcen)"
+      ],
+      "nl": [
+        "Satellietcentrum van de Europese Unie(Satcen)"
+      ],
+      "pl": [
+        "Centrum Satelitarne Unii Europejskiej(Satcen)"
+      ],
+      "pt": [
+        "Centro de Satélites da União Europeia(Satcen)"
+      ],
+      "ro": [
+        "Centrul Satelitar al Uniunii Europene(Satcen)"
+      ],
+      "sk": [
+        "Satelitné stredisko Európskej únie(Satcen)"
+      ],
+      "sl": [
+        "Satelitski center Evropske unije(Satcen)"
+      ],
+      "sv": [
+        "Europeiska unionens satellitcentrum(Satcen)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/satcen_logo.png"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+34 91 678 60 00"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+34 91 678 60 06"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "https://www.satcen.europa.eu/index.php?option=com_contact&task=view&contact_id=1&Itemid=7"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact Satcen"
+      ]
+    }
+  }
+}

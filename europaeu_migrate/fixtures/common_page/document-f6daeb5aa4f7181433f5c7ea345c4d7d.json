@@ -1,0 +1,882 @@
+{
+    "_id": "f6daeb5aa4f7181433f5c7ea345c4d7d",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/publications/resources-publishers/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/publications/resources-publishers/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/publications/resources-publishers/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/publications/resources-publishers/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/publications/resources-publishers/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/publications/resources-publishers/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/publications/resources-publishers/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/publications/resources-publishers/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/publications/resources-publishers/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/publications/resources-publishers/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/publications/resources-publishers/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/publications/resources-publishers/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/publications/resources-publishers/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/publications/resources-publishers/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/publications/resources-publishers/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/publications/resources-publishers/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/publications/resources-publishers/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/publications/resources-publishers/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/publications/resources-publishers/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/publications/resources-publishers/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/publications/resources-publishers/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/publications/resources-publishers/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/publications/resources-publishers/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/publications/resources-publishers/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Материали за издатели и автори"
+            ],
+            "cs": [
+                "Materiály pro vydavatele a autory textů"
+            ],
+            "da": [
+                "Ressourcer for udgivere og forfattere"
+            ],
+            "de": [
+                "Ressourcen für Herausgeber und Autoren"
+            ],
+            "el": [
+                "Πηγές για εκδότες και συντάκτες"
+            ],
+            "en": [
+                "Resources for publishers and writers"
+            ],
+            "es": [
+                "Recursos para editores y redactores"
+            ],
+            "et": [
+                "Allikad tekstide avaldajatele ja kirjutajatele"
+            ],
+            "fi": [
+                "Ohjeita julkaisijoille ja kirjoittajille"
+            ],
+            "fr": [
+                "Ressources pour les éditeurs et rédacteurs"
+            ],
+            "ga": [
+                "Acmhainní d’fhoilsitheoirí agus do scríbhneoirí"
+            ],
+            "hr": [
+                "EUROPA – Izvori informacija za izdavače i autore"
+            ],
+            "hu": [
+                "Információk kiadóknak és szerzőknek"
+            ],
+            "it": [
+                "Risorse per editori e autori"
+            ],
+            "lt": [
+                "EUROPA. Medžiaga leidėjams ir autoriams"
+            ],
+            "lv": [
+                "Materiāli izdevējiem un autoriem"
+            ],
+            "mt": [
+                "Riżorsi għall-pubblikaturi u l-kittieba"
+            ],
+            "nl": [
+                "Materiaal voor uitgevers en auteurs"
+            ],
+            "pl": [
+                "Materiały dla wydawców i autorów"
+            ],
+            "pt": [
+                "Material para editores e escritores"
+            ],
+            "ro": [
+                "Resurse pentru editori şi autori"
+            ],
+            "sk": [
+                "Podkladové materiály pre vydavateľov a autorov"
+            ],
+            "sl": [
+                "Gradivo za založnike in avtorje"
+            ],
+            "sv": [
+                "Hjälpmedel för förläggare och skribenter"
+            ]
+        },
+        "category": {
+            "und": [
+                "94333c5"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/"
+            ],
+            "cs": [
+                "EUROPA/"
+            ],
+            "da": [
+                "EUROPA/"
+            ],
+            "de": [
+                "EUROPA/"
+            ],
+            "el": [
+                "EUROPA/"
+            ],
+            "en": [
+                "EUROPA/"
+            ],
+            "es": [
+                "EUROPA/"
+            ],
+            "et": [
+                "EUROPA/"
+            ],
+            "fi": [
+                "EUROPA/"
+            ],
+            "fr": [
+                "EUROPA/"
+            ],
+            "ga": [
+                "EUROPA/"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "EUROPA/"
+            ],
+            "it": [
+                "EUROPA/"
+            ],
+            "lt": [
+                "EUROPA/"
+            ],
+            "lv": [
+                "EUROPA/"
+            ],
+            "mt": [
+                "EUROPA/"
+            ],
+            "nl": [
+                "EUROPA/"
+            ],
+            "pl": [
+                "EUROPA/"
+            ],
+            "pt": [
+                "EUROPA/"
+            ],
+            "ro": [
+                "EUROPA/"
+            ],
+            "sk": [
+                "EUROPA/"
+            ],
+            "sl": [
+                "EUROPA/"
+            ],
+            "sv": [
+                "EUROPA/"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "ipg"
+            ],
+            "cs": [
+                "ipg"
+            ],
+            "da": [
+                "ipg"
+            ],
+            "de": [
+                "ipg"
+            ],
+            "el": [
+                "ipg"
+            ],
+            "en": [
+                "ipg"
+            ],
+            "es": [
+                "ipg"
+            ],
+            "et": [
+                "ipg"
+            ],
+            "fi": [
+                "ipg"
+            ],
+            "fr": [
+                "ipg"
+            ],
+            "ga": [
+                "ipg"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "ipg"
+            ],
+            "it": [
+                "ipg"
+            ],
+            "lt": [
+                "ipg"
+            ],
+            "lv": [
+                "ipg"
+            ],
+            "mt": [
+                "ipg"
+            ],
+            "nl": [
+                "ipg"
+            ],
+            "pl": [
+                "ipg"
+            ],
+            "pt": [
+                "ipg"
+            ],
+            "ro": [
+                "ipg"
+            ],
+            "sk": [
+                "ipg"
+            ],
+            "sl": [
+                "ipg"
+            ],
+            "sv": [
+                "ipg"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Различни материали за издатели, например терминологични речници на ЕС, логото на ЕС и издания на Служба за публикации."
+            ],
+            "cs": [
+                "Podkladové materiály: glosáře terminologie EU, logo EU, materiály Úřadu pro publikace."
+            ],
+            "da": [
+                "Få adgang til forskellige ressourcer for udgivere, f.eks. glossarer over EU-terminologi, EU's logo og Publikationskontoret."
+            ],
+            "de": [
+                "Verschiedene Ressourcen für Herausgeber, z. B. EU-Fachvokabular, EU-Logo und Amt für Veröffentlichungen"
+            ],
+            "el": [
+                "Πρόσβαση σε διάφορες πηγές για εκδότες, όπως γλωσσάρια ορολογίας της  ΕΕ, στον λογότυπο της ΕΕ και στην Υπηρεσία Εκδόσεων."
+            ],
+            "en": [
+                "Access various resources for Publishers such as glossaries of EU terminology, the EU logo and the Publications Office."
+            ],
+            "es": [
+                "Acceso a varios recursos para editores, como glosarios terminológicos de la UE, el emblema de la UE y la Oficina de Publicaciones."
+            ],
+            "et": [
+                "Juurdepääs erinevatele allikatele tekstide avaldajate jaoks − nagu ELi terminoloogia sõnastikud, ELi logo ja Euroopa Liidu Väljaannete Talitus.  "
+            ],
+            "fi": [
+                "Tietoa julkaisijoille tarjolla olevasta aineistosta ja -palveluista, kuten EU-sanastoista, EU-tunnuksen käytöstä ja EU:n julkaisutoimistosta."
+            ],
+            "fr": [
+                "Accéder à diverses ressources destinées aux éditeurs: glossaires terminologiques de l'UE, logo de l'UE et Office des publications"
+            ],
+            "ga": [
+                "Beidh fáil agat ar acmhainní éagsúla d’fhoilsitheoirí ar nós gluaiseanna téarmeolaíochta AE, lógó an AE agus Oifig na bhFoilseachán."
+            ],
+            "hr": [
+                "Pristup izdavača raznim izvorima informacija kao što su terminološki glosari EU-a, logotip EU-a i Ured za publikacije EU-a."
+            ],
+            "hu": [
+                "Információforrások, amelyek hasznosak lehetnek a kiadók számára; uniós fogalomtárak, információk az EU logójáról és link a Kiadóhivatal honlapjára"
+            ],
+            "it": [
+                "Accesso a varie risorse disponibili per gli editori, come i glossari della terminologia UE, il logo dell'UE e l'Ufficio delle pubblicazioni."
+            ],
+            "lt": [
+                "Įvairi medžiaga leidėjams, pavyzdžiui, ES terminų žodynai, ES logotipas, nuoroda į Leidinių biuro svetainę."
+            ],
+            "lv": [
+                "Piekļuve visdažādākajiem izdevējiem noderīgiem resursiem, piemēram, ES terminoloģijas glosārijiem, ES logo un Publikāciju birojam."
+            ],
+            "mt": [
+                "Ara riżorsi differenti għall-Pubblikaturi bħal glossarji tat-terminoloġij tal-UE, il-logo tal-UE u l-Uffiċċju tal-Pubblikazzjonijiet."
+            ],
+            "nl": [
+                "Allerlei informatiebronnen, zoals glossaria van EU-terminologie, en links naar het EU-logo en het Publicatiebureau."
+            ],
+            "pl": [
+                "Dostęp do różnych rodzajów źródeł przydatnych dla wydawców, np.: glosariuszy terminologii UE, logo UE i Urzędu Publikacji"
+            ],
+            "pt": [
+                "Consultar o material colocado à disposição dos editores, tal como glossários de terminologia da UE, o logótipo da UE e as publicações do Serviço das Publicações da UE."
+            ],
+            "ro": [
+                "Informaţii utile pentru editori: glosare cu terminologia UE, logoul UE, site-ul Oficiului pentru Publicaţii."
+            ],
+            "sk": [
+                "Prístup k rôznym informačným zdrojom pre vydávateľov (glosáre terminológie EÚ, podmienky použitia loga EÚ, informácie o Úrade pre vydávanie publikácií atď.)."
+            ],
+            "sl": [
+                "Pomoč in pripomočki za založnike, npr. terminološki glosarji EU, logotipi EU in Urad za publikacije."
+            ],
+            "sv": [
+                "Material för förläggare och skribenter, t.ex. skrivregler, EU-ordlistor, regler för EU-logotypen och länk till Publikationsbyårn."
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "издатели",
+                "речници на ЕС",
+                "терминология на ЕС",
+                "Служба за публикации на ЕС",
+                "лого на ЕС",
+                "европейски институции",
+                "EUROPA",
+                "ЕС"
+            ],
+            "cs": [
+                "Vydavatelé EU",
+                "glosáře EU",
+                "terminologie EU",
+                "Úřad pro publikace",
+                "logo EU",
+                "Evropské instituce",
+                "EUROPA",
+                "EU"
+            ],
+            "da": [
+                "EU-udgivere",
+                "EU-glossarer",
+                "EU-terminologi",
+                "EU's Publikationskontor",
+                "EU's logo",
+                "EU-institutioner",
+                "EUROPA",
+                "EU"
+            ],
+            "de": [
+                "EU-Verlage",
+                "EU-Glossare",
+                "EU-Fachvokabular",
+                "EU-Amt für Veröffentlichungen",
+                "EU-Logo",
+                "Europäische Institutionen",
+                "EUROPA",
+                "EU"
+            ],
+            "el": [
+                "Εκδότες ΕΕ",
+                "γλωσσάρια ΕΕ",
+                "ορολογία ΕΕ",
+                "Υπηρεσία Εκδόσεων ΕΕ",
+                "λογότυπος ΕΕ",
+                "Ευρωπαϊκά όργανα",
+                "EUROPA",
+                "ΕΕ"
+            ],
+            "en": [
+                "EU publishers",
+                "EU glossaries",
+                "EU terminology",
+                "EU Publications Office",
+                "EU logo",
+                "European institutions",
+                "EUROPA",
+                "EU"
+            ],
+            "es": [
+                "Editores de la UE",
+                "glosarios de la UE",
+                "terminología de la UE",
+                "Oficina de Publicaciones de la UE",
+                "emblema de la UE",
+                "logotipo de la UE",
+                "instituciones de la UE",
+                "EUROPA",
+                "UE"
+            ],
+            "et": [
+                "ELi tekstide avaldajad",
+                "ELi sõnastikud",
+                "ELi terminoloogia",
+                "Euroopa Liidu Väljaannete Talitus",
+                "ELi logo",
+                "Euroopa institutsioonid",
+                "EUROPA",
+                "EL"
+            ],
+            "fi": [
+                "EU:n julkaisijat",
+                "kustantajat",
+                "EU:n sanastot",
+                "EU-sanastot",
+                "EU:n terminologia",
+                "EU:n julkaisutoimisto",
+                "EU:n tunnus",
+                "EU:n logo",
+                "EU:n toimielimet",
+                "EUROPA",
+                "EU"
+            ],
+            "fr": [
+                "Éditeurs européens",
+                "glossaires de l'UE",
+                "terminologie de l'UE",
+                "Office des publications de l'UE",
+                "logo de l'UE",
+                "institutions européennes",
+                "EUROPA",
+                "UE"
+            ],
+            "ga": [
+                "Foilsitheoirí AE",
+                "gluaiseanna AE",
+                "téarmeolaíocht AE",
+                "Oifig na bhFoilseachán",
+                "lógó an AE",
+                "institiúidí Eorpacha",
+                "EUROPA",
+                "AE"
+            ],
+            "hr": [
+                "izdavači EU-a",
+                "glosari EU-a",
+                "terminologija EU-a",
+                "Ured za publikacije EU-a",
+                "logotip EU-a",
+                "europske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "hu": [
+                "Kiadók",
+                "uniós fogalomtárak",
+                "uniós terminológia",
+                "az EU Kiadóhivatala",
+                "az EU logója",
+                "európai intézmények",
+                "EUROPA",
+                "EU"
+            ],
+            "it": [
+                "Editori dell'UE",
+                "glossari dell'UE",
+                "terminologia UE",
+                "Ufficio delle pubblicazioni dell'UE",
+                "logo dell'UE",
+                "istituzioni europee",
+                "EUROPA",
+                "UE"
+            ],
+            "lt": [
+                "ES leidėjai",
+                "ES žodynai",
+                "ES terminologija",
+                "ES Leidinių biuras",
+                "ES logotipas",
+                "ES institucijos",
+                "EUROPA",
+                "ES"
+            ],
+            "lv": [
+                "ES izdevēji",
+                "ES glosāriji",
+                "ES terminoloģija",
+                "ES Publikāciju birojs",
+                "ES logo",
+                "ES iestādes",
+                "EUROPA",
+                "ES"
+            ],
+            "mt": [
+                "Pubblikaturi tal-UE",
+                "glossarji tal-UE",
+                "terminoloġij tal-UE",
+                "Uffiċċju tal-Pubblikazzjonijiet tal-UE",
+                "logo tal-UE",
+                "istituzzjonijiet Ewropej",
+                "EUROPA",
+                "UE"
+            ],
+            "nl": [
+                "EU-uitgevers",
+                "EU-glossaria",
+                "EU-terminologie",
+                "Publicatiebureau van de EU",
+                "EU-logo",
+                "Europese instellingen",
+                "EUROPA",
+                "EU"
+            ],
+            "pl": [
+                "Wydawcy UE",
+                "glosariusze UE",
+                "terminologia UE",
+                "Urząd Publikacji UE",
+                "logo UE",
+                "instytucje europejskie",
+                "EUROPA",
+                "UE"
+            ],
+            "pt": [
+                "Editores da UE",
+                "glossários da UE",
+                "terminologia da UE",
+                "Serviço das Publicações da UE",
+                "logótipo da UE",
+                "instituições europeias",
+                "EUROPA",
+                "UE"
+            ],
+            "ro": [
+                "Editori UE",
+                "glosare UE",
+                "terminologie UE",
+                "Oficiul pentru Publicaţii al UE",
+                "logoul UE",
+                "instituţii europene",
+                "EUROPA",
+                "UE"
+            ],
+            "sk": [
+                "vydavatelia EÚ",
+                "logo EÚ",
+                "terminológia EÚ",
+                "Úrad pre vydávanie publikácií EÚ",
+                "logo EÚ",
+                "európske inštitúcie",
+                "Európa",
+                "EÚ"
+            ],
+            "sl": [
+                "Založniki EU",
+                "glosarji EU",
+                "terminologija EU",
+                "urad za publikacije EU",
+                "logotip EU",
+                "evropske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "sv": [
+                "EU-förläggare",
+                "ordlistor",
+                "EU-terminologi",
+                "EU:s publikationsbyrå",
+                "EU:s logotyp",
+                "EU-institutioner",
+                "europa.eu",
+                "EUROPA",
+                "EU"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Материали за издатели и автори</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Издателства</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/bg/web/about-us/who-we-are\">                                              <span>Служба за публикации</span>                                           </a>                                           <p>Междуинституционалната служба, отговаряща за публикацията на документи, брошури и книги, изготвени от институциите, агенциите и останалите органи на ЕС</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/bg/web/about-us/contact\">                                              <span>Форум на европейските издатели</span>                                           </a>                                           <p>Насоки за желаещите да използват повторно или да превеждат публикации на ЕС</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_bg.htm\">                                              <span>Лого на ЕС</span>                                           </a>                                           <p>Изтеглете логото на ЕС и намерете информация за правилното му възпроизвеждане</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/bg/bg-5000200.htm\">                                              <span>Емблеми на европейските институции и органи</span>                                           </a>                                           <p>Пълен списък с емблемите и логата на европейските институции и органи</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Писатели</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=bg\">                                              <span>Речник</span>                                           </a>                                           <p>Обяснения на технически и правни термини</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=bg/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Многоезичен тезаурус с политически, правни, икономически и други термини от сферата на дейност на ЕС</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "cs": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Materiály pro vydavatele a autory textů</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Vydavatelé</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/cs/web/about-us/who-we-are\">                                              <span>Úřad pro publikace</span>                                           </a>                                           <p>Interinstitucionální úřad, který vydává dokumenty, brožury a knihy vytvořené orgány, agenturami a jinými subjekty EU</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/cs/web/about-us/contact\">                                              <span>Fórum vydavatelů EU</span>                                           </a>                                           <p>Poradenství pro ty, ktěří chtějí použít jako zdroj či přeložit některou z publikací EU</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_cs.htm\">                                              <span>Logo EU</span>                                           </a>                                           <p>Logo EU ke stažení a pravidla vztahující se na jeho reprodukci</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/cs/cs-5000200.htm\">                                              <span>Symboly evropských orgánů a institucí</span>                                           </a>                                           <p>Znaky a loga všech orgánů a ostatních institucí EU</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Autoři textů</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=da\">                                              <span>Slovník pojmů</span>                                           </a>                                           <p>Definice odborných a právních pojmů</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=cs/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Mnohojazyčný tezaurus obsahující politické, právní, ekonomické a jiné termíny s návazností na EU</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "da": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Ressourcer for udgivere og forfattere</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Udgivere</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/da/web/about-us/who-we-are\">                                              <span>Publikationskontoret</span>                                           </a>                                           <p>Kontor, der udgiver dokumenter, brochurer og bøger for alle EU's institutioner, agenturer og andre organer</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/da/web/about-us/contact\">                                              <span>EU's forlæggerforum</span>                                           </a>                                           <p>Vejledning i genbrug eller oversættelse af EU-publikationer</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_da.htm\">                                              <span>EU-logoet</span>                                           </a>                                           <p>Download EU's logo og læs, hvordan du skal gengive det korrekt</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/da/da-5000200.htm\">                                              <span>EU‑institutionernes og ‑organernes logoer</span>                                           </a>                                           <p>Fuldstændig liste over EU-institutionernes og ‑organernes logoer</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Forfattere</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=bg\">                                              <span>Glossar</span>                                           </a>                                           <p>EU's fagudtryk og juridiske begreber – hvad betyder de?</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=da/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>En flersproget tesaurus om politik, jura, økonomi og andre emner, EU beskæftiger sig med</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "de": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Ressourcen für Herausgeber und Autoren</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Herausgeber</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/de/web/about-us/who-we-are\">                                              <span>Amt für Veröffentlichungen</span>                                           </a>                                           <p>The inter-institutional office tasked with publishing documents, brochures and books created by the EU institutions, agencies and other bodies</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/de/web/about-us/contact\">                                              <span>Verlegerforum der Europäischen Union</span>                                           </a>                                           <p>Leitfaden für alle, die Veröffentlichungen der EU übersetzen oder verbreiten möchten</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_de.htm\">                                              <span>EU-Logo</span>                                           </a>                                           <p>Laden Sie hier das EU-Logo herunter und informieren Sie sich, wie es korrekt reproduziert wird.</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/de/de-5000200.htm\">                                              <span>Embleme der Europäischen Organe und Einrichtungen</span>                                           </a>                                           <p>Vollständige Aufstellung der Embleme und Logos der Europäischen Organe und sonstigen Stellen</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Autoren</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=de\">                                              <span>Glossar</span>                                           </a>                                           <p>Fach- und Rechtsbegriffe erklärt</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=de/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Mehrsprachiger Thesaurus zu Politik, Recht, Wirtschaft und anderen Bereichen mit Bezug zur EU</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "el": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Πηγές για εκδότες και συντάκτες</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Εκδότες</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/el/web/about-us/who-we-are\">                                              <span>Υπηρεσία Εκδόσεων</span>                                           </a>                                           <p>Διοργανική υπηρεσία αρμόδια για την έκδοση εγγράφων, φυλλαδίων και βιβλίων που συντάσσονται από τα όργανα, τους οργανισμούς και άλλες υπηρεσίες της ΕΕ</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/el/web/about-us/contact\">                                              <span>Φόρουμ εκδοτών της Ευρωπαϊκής Ένωσης</span>                                           </a>                                           <p>Οδηγίες για όσους επιθυμούν να χρησιμοποιήσουν ή να μεταφράσουν εκδόσεις της ΕΕ</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_el.htm\">                                              <span>Λογότυπος της ΕΕ</span>                                           </a>                                           <p>Τηλεφορτώστε τον λογότυπο της ΕΕ και ενημερωθείτε για το πώς μπορείτε να τον αναπαραγάγετε</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/el/el-5000200.htm\">                                              <span>Εμβλήματα των ευρωπαϊκών οργάνων και οργανισμών</span>                                           </a>                                           <p>Πλήρης κατάλογος εμβλημάτων και λογοτύπων των ευρωπαϊκών οργάνων και οργανισμών</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Συντάκτες</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=bg\">                                              <span>Γλωσσάριο</span>                                           </a>                                           <p>Επεξήγηση τεχνικών και νομικών όρων</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=el/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Πολύγλωσσος θησαυρός που καλύπτει τις πολιτικές, τη νομοθεσία, τα οικονομικά και άλλους τομείς δραστηριοτήτων της ΕΕ</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "en": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Resources for publishers and writers</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Publishers</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/en/web/about-us/who-we-are\">                                              <span>Publications Office</span>                                           </a>                                           <p>The inter-institutional office tasked with publishing documents, brochures and books created by the EU institutions, agencies and other bodies</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/en/web/about-us/contact\">                                              <span>Editorial partnership</span>                                           </a>                                           <p>Guidance if you want to re-use or translate EU publications</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_en.htm\">                                              <span>EU logo</span>                                           </a>                                           <p>Download the EU logo and access information on the correct way to reproduce it</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/en/en-5000200.htm\">                                              <span>Emblems of European institutions and bodies</span>                                           </a>                                           <p>Complete list of emblems and logos of the European institutions and other bodies</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Writers</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html\">                                              <span>Glossary</span>                                           </a>                                           <p>Technical and legal terminology explained</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/\">                                              <span>Eurovoc</span>                                           </a>                                           <p>A multilingual thesaurus covering politics, law, economics and other fields relevant to the EU</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "es": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Recursos para editores y redactores</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Editores</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/es/web/about-us/who-we-are\">                                              <span>Oficina de Publicaciones</span>                                           </a>                                           <p>Oficina interinstitucional encargada de la edición de documentos, prospectos y libros de las instituciones, agencias y otros organismos de la UE</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/es/web/about-us/contact\">                                              <span>Foro de Editores de la Unión Europea</span>                                           </a>                                           <p>Orientaciones para reutilizar o traducir las publicaciones de la UE</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_es.htm\">                                              <span>Logo UE</span>                                           </a>                                           <p>Descarga del emblema de la UE e información sobre la manera correcta de reproducirlo</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/es/es-5000200.htm\">                                              <span>Emblemas de las instituciones y organismos europeos</span>                                           </a>                                           <p>Lista completa de los emblemas y logotipos de las instituciones y organismos europeos</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Redactores</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=es\">                                              <span>Glosario</span>                                           </a>                                           <p>Explicación de términos técnicos y jurídicos</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=es/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Tesauro multilingüe de política, derecho, economía y otros ámbitos de actividad de la UE</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "et": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Allikad tekstide avaldajatele ja kirjutajatele</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Kirjastajad</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/et/web/about-us/who-we-are\">                                              <span>Euroopa Liidu Väljaannete Talitus</span>                                           </a>                                           <p>Institutsioonidevaheline talitus, mille ülesandeks on ELi intitutsioonide, ametite ja muude organisatsioonide koostatud dokumentide, brošüüride ja raamatute avaldamine.</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/et/web/about-us/contact\">                                              <span>Euroopa Liidu väljaandjate foorum</span>                                           </a>                                           <p>Juhised juhuks, kui soovite taaskasutada või tõlkida ELi väljaandeid.</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_et.htm\">                                              <span>ELi logo</span>                                           </a>                                           <p>ELi logo allalaadimine koos vajaliku teabega selle korrektse kasutamise kohta.</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/et/et-5000200.htm\">                                              <span>Euroopa institutsioonide ja asutuste embleemid</span>                                           </a>                                           <p>Täielik loetelu Euroopa institutsioonide ja asutuste embleemidest ning logodest</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Autorid</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=el\">                                              <span>Sõnastik</span>                                           </a>                                           <p>Tehniliste ja õigusterminite seletused</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=et/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Mitmekeelne tesaurus, mis hõlmab poliitikavaldkondi, õigust, majandust ja muid ELiga seotud valdkondi</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fi": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Ohjeita julkaisijoille ja kirjoittajille</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Julkaisijoille</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/fi/web/about-us/who-we-are\">                                              <span>EU:n julkaisutoimisto</span>                                           </a>                                           <p>EU:n toimielinten, virastojen ja muiden elinten yhteinen toimisto, jonka tehtävänä on julkaista niiden laatimia asiakirjoja, esitteitä ja kirjoja.</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/fi/web/about-us/contact\">                                              <span>Euroopan unionin kustantajien foorumi</span>                                           </a>                                           <p>Ohjeita EU-julkaisujen levittämiseen ja kääntämiseen</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_fi.htm\">                                              <span>EU:n tunnus</span>                                           </a>                                           <p>Lataa EU:n tunnus ja opi käyttämään sitä oikein</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/fi/fi-5000200.htm\">                                              <span>EU:n toimielinten ja muiden elinten tunnukset</span>                                           </a>                                           <p>EU:n toimielinten ja muiden elinten tunnusten luettelo</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Kirjoittajille</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=fi\">                                              <span>Sanasto</span>                                           </a>                                           <p>Teknisten ja oikeudellisten termien selityksiä</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=fi/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Monikielinen tesaurus, joka kattaa kaikki EU:n toiminta-alat (politiikka, talous, oikeus jne.)</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Ressources pour les éditeurs et rédacteurs</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Éditeurs</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/fr/web/about-us/who-we-are\">                                              <span>Office des publications</span>                                           </a>                                           <p>Office interinstitutionnel chargé de la publication des documents, brochures et ouvrages produits par les institutions, agences et organes de l'UE</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/fr/web/about-us/contact\">                                              <span>Forum des éditeurs de l'Union européenne</span>                                           </a>                                           <p>Ressources pour les personnes souhaitant réutiliser ou traduire des publications de l'UE</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_fr.htm\">                                              <span>Logo de l'UE</span>                                           </a>                                           <p>Télécharger le logo de l'UE et consulter les instructions de reproduction</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/fr/fr-5000200.htm\">                                              <span>Emblèmes des institutions et organes de l'Union européenne</span>                                           </a>                                           <p>Liste exhaustive des emblèmes et logos des institutions et autres organes de l'UE</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Rédacteurs</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=fr\">                                              <span>Glossaire</span>                                           </a>                                           <p>Explication de termes techniques et juridiques</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=fr/node\">                                              <span>EuroVoc</span>                                           </a>                                           <p>Thésaurus multilingue couvrant les domaines de la politique, du droit et de l'économie, ainsi que d'autres domaines d'activité de l'UE</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ga": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Acmhainní d’fhoilsitheoirí agus do scríbhneoirí</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Fhoilsitheoirí</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/ga/web/about-us/who-we-are\">                                              <span>Oifig na bhFoilseachán</span>                                           </a>                                           <p>An oifig idirinstitiúideach a bhfuil de chúram uirthi doiciméid, bróisiúir is leabhair a fhoilsiú a chruthaigh institiúidí, gníomhaireachtaí is comhlachtaí eile an AE</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/ga/web/about-us/contact\">                                              <span>Fóram foilsitheoirí an Aontais Eorpaigh</span>                                           </a>                                           <p>Treoir más mian leat foilseacháin AE a athúsáid nó a aistriú</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_ga.htm\">                                              <span>Lógó an AE</span>                                           </a>                                           <p>Íoslódáil lógó an AE agus aimsigh eolas ar an tslí cheart chun é a atáirgeadh</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/ga/ga-5000200.htm\">                                              <span>Feathail na nInstitiúidí agus na gComhlachtaí Eorpacha</span>                                           </a>                                           <p>Liosta iomlán na bhfeathal agus lógónna na nInstitiúidí agus na gComhlachtaí Eorpacha eile.</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Scríbhneoirí</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=ga\">                                              <span>Gluais</span>                                           </a>                                           <p>Téarmaí teicniúla is dlí arna míniú</p>                                        </li>                                        <li>                                           <span class=\"link-disabled\">                                              <span>Eurovoc</span>                                           </span>                                           <span class=\"ws-popup ws-modal\">                                              <a class=\"ws-ico\" href=\"javascript:void(0)\"                                                 onclick=\"return webservice.popup(this,'')\"                                                 title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                                                 <img alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                                                      src=\"http://europa.eu/wel/images/languages/ws.gif\"                                                      height=\"13\"                                                      width=\"16\"/>                                                 <span class=\"s\"> </span>                                              </a>                                              <span class=\"ws-links\">                                                 <span class=\"ws-popup-layout\">                                                    <a hreflang=\"bg\" lang=\"bg\" title=\"български (bg)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=bg/node\">                                                       <span>български (</span>bg                           <span>)</span>                                                    </a>                                                    <a hreflang=\"cs\" lang=\"cs\" title=\"čeština (cs)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=cs/node\">                                                       <span>čeština (</span>cs                           <span>)</span>                                                    </a>                                                    <a hreflang=\"da\" lang=\"da\" title=\"dansk (da)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=da/node\">                                                       <span>dansk (</span>da                           <span>)</span>                                                    </a>                                                    <a hreflang=\"de\" lang=\"de\" title=\"Deutsch (de)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=de/node\">                                                       <span>Deutsch (</span>de                           <span>)</span>                                                    </a>                                                    <a hreflang=\"el\" lang=\"el\" title=\"ελληνικά (el)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=el/node\">                                                       <span>ελληνικά (</span>el                           <span>)</span>                                                    </a>                                                    <a hreflang=\"en\" lang=\"en\" title=\"English (en)\"                                                       href=\"http://eurovoc.europa.eu/drupal/\">                                                       <span>English (</span>en                           <span>)</span>                                                    </a>                                                    <a hreflang=\"es\" lang=\"es\" title=\"español (es)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=es/node\">                                                       <span>español (</span>es                           <span>)</span>                                                    </a>                                                    <a hreflang=\"et\" lang=\"et\" title=\"eesti keel (et)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=et/node\">                                                       <span>eesti keel (</span>et                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fi\" lang=\"fi\" title=\"suomi (fi)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=fi/node\">                                                       <span>suomi (</span>fi                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fr\" lang=\"fr\" title=\"français (fr)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=fr/node\">                                                       <span>français (</span>fr                           <span>)</span>                                                    </a>                                                    <a hreflang=\"hr\" lang=\"hr\" title=\"hrvatski (hr)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=hr/node\">                                                       <span>hrvatski (</span>hr                           <span>)</span>                                                    </a>                                                    <a hreflang=\"hu\" lang=\"hu\" title=\"magyar (hu)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=hu/node\">                                                       <span>magyar (</span>hu                           <span>)</span>                                                    </a>                                                    <a hreflang=\"it\" lang=\"it\" title=\"italiano (it)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=it/node\">                                                       <span>italiano (</span>it                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lt\" lang=\"lt\" title=\"lietuvių kalba (lt)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=lt/node\">                                                       <span>lietuvių kalba (</span>lt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lv\" lang=\"lv\" title=\"latviešu valoda (lv)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=lv/node\">                                                       <span>latviešu valoda (</span>lv                           <span>)</span>                                                    </a>                                                    <a hreflang=\"mt\" lang=\"mt\" title=\"Malti (mt)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=mt/node\">                                                       <span>Malti (</span>mt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"nl\" lang=\"nl\" title=\"Nederlands (nl)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=nl/node\">                                                       <span>Nederlands (</span>nl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pl\" lang=\"pl\" title=\"polski (pl)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=pl/node\">                                                       <span>polski (</span>pl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pt\" lang=\"pt\" title=\"português (pt)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=pt/node\">                                                       <span>português (</span>pt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"ro\" lang=\"ro\" title=\"română (ro)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=ro/node\">                                                       <span>română (</span>ro                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sk\" lang=\"sk\" title=\"slovenčina (sk)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=sk/node\">                                                       <span>slovenčina (</span>sk                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sl\" lang=\"sl\" title=\"slovenščina (sl)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=sl/node\">                                                       <span>slovenščina (</span>sl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sv\" lang=\"sv\" title=\"svenska (sv)\"                                                       href=\"http://eurovoc.europa.eu/drupal/?q=sv/node\">                                                       <span>svenska (</span>sv                           <span>)</span>                                                    </a>                                                 </span>                                              </span>                                           </span>                                           <p>Stórchiste ilteangach a fholaíonn polaitíocht, dlí, eacnamaíocht agus réimsí eile atá ábhartha don AE</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">EUROPA – Izvori informacija za izdavače i autore</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Izdavači</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/hr/web/about-us/who-we-are\">                                              <span>Ured za publikacije</span>                                           </a>                                           <p>Međuinstitucijski ured zadužen za objavljivanje dokumenata, brošura i knjiga čiji su autori institucije, agencije i ostala tijela EU-a.</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/hr/web/about-us/contact\">                                              <span>Forum izdavača Europske unije</span>                                           </a>                                           <p>Upute za ponovnu upotrebu i prevođenje publikacija EU-a</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_hr.htm\">                                              <span>Logotip EU-a</span>                                           </a>                                           <p>Preuzimanje logotipa EU-a s interneta i informacije o ispravnoj reprodukciji.</p>                                        </li>                                        <li>                                           <span class=\"link-disabled\">                                              <span>Amblemi europskih institucija i tijela</span>                                           </span>                                           <span class=\"ws-popup ws-modal\">                                              <a class=\"ws-ico\" href=\"javascript:void(0)\"                                                 onclick=\"return webservice.popup(this,'')\"                                                 title=\"Odaberi prijevod prethodne poveznice\">                                                 <img alt=\"Odaberi prijevod prethodne poveznice\"                                                      src=\"http://europa.eu/wel/images/languages/ws.gif\"                                                      height=\"13\"                                                      width=\"16\"/>                                                 <span class=\"s\"> </span>                                              </a>                                              <span class=\"ws-links\">                                                 <span class=\"ws-popup-layout\">                                                    <a hreflang=\"bg\" lang=\"bg\" title=\"български (bg)\"                                                       href=\"http://publications.europa.eu/code/bg/bg-5000200.htm\">                                                       <span>български (</span>bg                           <span>)</span>                                                    </a>                                                    <a hreflang=\"cs\" lang=\"cs\" title=\"čeština (cs)\"                                                       href=\"http://publications.europa.eu/code/cs/cs-5000200.htm\">                                                       <span>čeština (</span>cs                           <span>)</span>                                                    </a>                                                    <a hreflang=\"da\" lang=\"da\" title=\"dansk (da)\"                                                       href=\"http://publications.europa.eu/code/da/da-5000200.htm\">                                                       <span>dansk (</span>da                           <span>)</span>                                                    </a>                                                    <a hreflang=\"de\" lang=\"de\" title=\"Deutsch (de)\"                                                       href=\"http://publications.europa.eu/code/de/de-5000200.htm\">                                                       <span>Deutsch (</span>de                           <span>)</span>                                                    </a>                                                    <a hreflang=\"el\" lang=\"el\" title=\"ελληνικά (el)\"                                                       href=\"http://publications.europa.eu/code/el/el-5000200.htm\">                                                       <span>ελληνικά (</span>el                           <span>)</span>                                                    </a>                                                    <a hreflang=\"en\" lang=\"en\" title=\"English (en)\"                                                       href=\"http://publications.europa.eu/code/en/en-5000200.htm\">                                                       <span>English (</span>en                           <span>)</span>                                                    </a>                                                    <a hreflang=\"es\" lang=\"es\" title=\"español (es)\"                                                       href=\"http://publications.europa.eu/code/es/es-5000200.htm\">                                                       <span>español (</span>es                           <span>)</span>                                                    </a>                                                    <a hreflang=\"et\" lang=\"et\" title=\"eesti keel (et)\"                                                       href=\"http://publications.europa.eu/code/et/et-5000200.htm\">                                                       <span>eesti keel (</span>et                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fi\" lang=\"fi\" title=\"suomi (fi)\"                                                       href=\"http://publications.europa.eu/code/fi/fi-5000200.htm\">                                                       <span>suomi (</span>fi                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fr\" lang=\"fr\" title=\"français (fr)\"                                                       href=\"http://publications.europa.eu/code/fr/fr-5000200.htm\">                                                       <span>français (</span>fr                           <span>)</span>                                                    </a>                                                    <a hreflang=\"ga\" lang=\"ga\" title=\"Gaeilge (ga)\"                                                       href=\"http://publications.europa.eu/code/ga/ga-5000200.htm\">                                                       <span>Gaeilge (</span>ga                           <span>)</span>                                                    </a>                                                    <a hreflang=\"hu\" lang=\"hu\" title=\"magyar (hu)\"                                                       href=\"http://publications.europa.eu/code/hu/hu-5000200.htm\">                                                       <span>magyar (</span>hu                           <span>)</span>                                                    </a>                                                    <a hreflang=\"it\" lang=\"it\" title=\"italiano (it)\"                                                       href=\"http://publications.europa.eu/code/it/it-5000200.htm\">                                                       <span>italiano (</span>it                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lt\" lang=\"lt\" title=\"lietuvių kalba (lt)\"                                                       href=\"http://publications.europa.eu/code/lt/lt-5000200.htm\">                                                       <span>lietuvių kalba (</span>lt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lv\" lang=\"lv\" title=\"latviešu valoda (lv)\"                                                       href=\"http://publications.europa.eu/code/lv/lv-5000200.htm\">                                                       <span>latviešu valoda (</span>lv                           <span>)</span>                                                    </a>                                                    <a hreflang=\"mt\" lang=\"mt\" title=\"Malti (mt)\"                                                       href=\"http://publications.europa.eu/code/mt/mt-5000200.htm\">                                                       <span>Malti (</span>mt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"nl\" lang=\"nl\" title=\"Nederlands (nl)\"                                                       href=\"http://publications.europa.eu/code/nl/nl-5000200.htm\">                                                       <span>Nederlands (</span>nl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pl\" lang=\"pl\" title=\"polski (pl)\"                                                       href=\"http://publications.europa.eu/code/pl/pl-5000200.htm\">                                                       <span>polski (</span>pl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pt\" lang=\"pt\" title=\"português (pt)\"                                                       href=\"http://publications.europa.eu/code/pt/pt-5000200.htm\">                                                       <span>português (</span>pt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"ro\" lang=\"ro\" title=\"română (ro)\"                                                       href=\"http://publications.europa.eu/code/ro/ro-5000200.htm\">                                                       <span>română (</span>ro                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sk\" lang=\"sk\" title=\"slovenčina (sk)\"                                                       href=\"http://publications.europa.eu/code/sk/sk-5000200.htm\">                                                       <span>slovenčina (</span>sk                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sl\" lang=\"sl\" title=\"slovenščina (sl)\"                                                       href=\"http://publications.europa.eu/code/sl/sl-5000200.htm\">                                                       <span>slovenščina (</span>sl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sv\" lang=\"sv\" title=\"svenska (sv)\"                                                       href=\"http://publications.europa.eu/code/sv/sv-5000200.htm\">                                                       <span>svenska (</span>sv                           <span>)</span>                                                    </a>                                                 </span>                                              </span>                                           </span>                                           <p>Potpuni popis amblema i logotipa europskih institucija i drugih tijela</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Autori</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=hr\">                                              <span>Glosar</span>                                           </a>                                           <p>Objašnjenja tehničke i pravne terminologije</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=hr/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Višejezični pojmovnik kojim su obuhvaćeni politička, pravna, ekonomska i ostala područja u vezi s EU-om</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hu": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Információk kiadóknak és szerzőknek</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Kiadók</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/hu/web/about-us/who-we-are\">                                              <span>Kiadóhivatal</span>                                           </a>                                           <p>Az intézményközi hivatal teszi közzé az EU intézményei, ügynökségei és más szervei által létrehozott dokumentumokat, tájékoztató kiadványokat és könyveket</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/hu/web/about-us/contact\">                                              <span>Az Európai Unió Kiadói Fóruma</span>                                           </a>                                           <p>Útbaigazítás azoknak, akik uniós kiadványokat szeretnének felhasználni vagy lefordítani</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_hu.htm\">                                              <span>EU-logó</span>                                           </a>                                           <p>Az uniós logó letöltése, továbbá tájékozódás a logó megfelelő sokszorosításával kapcsolatos tudnivalókról</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/hu/hu-5000200.htm\">                                              <span>Az európai intézmények és szervek emblémái</span>                                           </a>                                           <p>Az európai uniós intézmények és más szervek emblémáinak és logóinak teljes listája</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Szerzők</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=hu\">                                              <span>Fogalomtár</span>                                           </a>                                           <p>Szaknyelvi és jogi kifejezések magyarázata</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=hu/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Az Unió tevékenységi területeinek szókincsét felölelő többnyelvű tezaurusz</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "it": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Risorse per editori e autori</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Editori</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/it/web/about-us/who-we-are\">                                              <span>Ufficio delle pubblicazioni</span>                                           </a>                                           <p>Ufficio interistituzionale incaricato di pubblicare documenti, opuscoli e libri prodotti dalle istituzioni, dalle agenzie e dagli altri organismi dell'UE</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/it/web/about-us/contact\">                                              <span>Forum degli editori dell'Unione europea</span>                                           </a>                                           <p>Linee guida per riutilizzare o tradurre pubblicazioni dell'UE</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_it.htm\">                                              <span>Logo dell'UE</span>                                           </a>                                           <p>Scarica il logo dell'UE e consulta le informazioni sul modo corretto di riprodurlo</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/it/it-5000200.htm\">                                              <span>Emblemi delle istituzioni e degli organi europei</span>                                           </a>                                           <p>Elenco completo degli emblemi e dei logo delle istituzioni e degli altri organi europei</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Autori</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=it\">                                              <span>Glossario</span>                                           </a>                                           <p>Spiegazione della terminologia tecnica e giuridica</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=it/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Thesaurus multilingue che copre politica, diritto, economica e altri settori di attività dell'UE</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">EUROPA. Medžiaga leidėjams ir autoriams</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Leidėjai</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/lt/web/about-us/who-we-are\">                                              <span>Leidinių biuras</span>                                           </a>                                           <p>Institucijų biuras, kurio užduotis – leisti ES institucijų, agentūrų ir kitų įstaigų parengtus dokumentus, knygeles ir knygas.</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/lt/web/about-us/contact\">                                              <span>Europos Sąjungos leidėjų forumas</span>                                           </a>                                           <p>ES leidinių vertimo ir naudojimosi jais gairės</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_lt.htm\">                                              <span>ES logotipas</span>                                           </a>                                           <p>Atsisiųskite ES logotipą ir sužinokite, kaip teisingai juo naudotis</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/lt/lt-5000200.htm\">                                              <span>Europos Sąjungos institucijų ir įstaigų emblemos</span>                                           </a>                                           <p>Europos Sąjungos institucijų ir įstaigų emblemos bei logotipai</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Autoriai</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=lt\">                                              <span>Žodynėlis</span>                                           </a>                                           <p>Techninių ir teisinių terminų aiškinamasis žodynėlis</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=lt/node\">                                              <span>„Eurovoc“</span>                                           </a>                                           <p>Daugiakalbis ES politikos, teisės, ekonomikos ir kitų su ES susijusių sričių terminų žodynas</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Materiāli izdevējiem un autoriem</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Izdevēji</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/lv/web/about-us/who-we-are\">                                              <span>Publikāciju birojs</span>                                           </a>                                           <p>ES iestāžu birojs, kura ziņā ir ES iestāžu, aģentūru un citu struktūru sagatavotu dokumentu, brošūru un grāmatu izdošana.</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/lv/web/about-us/contact\">                                              <span>Eiropas Savienības izdevēju forums</span>                                           </a>                                           <p>Padomi tiem, kuri vēlas izmantot vai tulkot ES publikācijas</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_lv.htm\">                                              <span>ES logo</span>                                           </a>                                           <p>Lejupielādējiet ES logo un uzziniet, kā to pareizi izmantot</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/lv/lv-5000200.htm\">                                              <span>Eiropas iestāžu un struktūru emblēmas</span>                                           </a>                                           <p>Visu ES iestāžu un citu struktūru emblēmu un logotipu saraksts.</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Autori</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=lv\">                                              <span>Glosārijs</span>                                           </a>                                           <p>Tehnisku un juridisku ES terminu skaidrojums</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=lv/node\">                                              <span>“Eurovoc”</span>                                           </a>                                           <p>Daudzvalodu tēzaurs, kas aptver visas ES darbības jomas</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "mt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Riżorsi għall-pubblikaturi u l-kittieba</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Pubblikaturi</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/mt/web/about-us/who-we-are\">                                              <span>Uffiċċju tal-Pubblikazzjonijiet</span>                                           </a>                                           <p>L-uffiċċju interistituzzjonali li għandu l-inkarigu li jippubblika d-dokumenti, il-fuljetti u l-kotba li jinħarġu mill-istituzzjonijiet, l-aġenziji u l-entitajiet l-oħra tal-UE</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/mt/web/about-us/contact\">                                              <span>Forum għall-pubblikaturi tal-Unjoni Ewropea</span>                                           </a>                                           <p>Gwida jekk tixtieq tuża mill-ġdid jew tittraduċi pubblikazzjonijiet tal-UE</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_mt.htm\">                                              <span>Logo tal-UE</span>                                           </a>                                           <p>Niżżel il-logo tal-UE u sib informazzjoni dwar il-mod korrett kif tirriproduċiha</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/mt/mt-5000200.htm\">                                              <span>Emblemi tal-istituzzjonijiet u l-entitajiet Ewropej</span>                                           </a>                                           <p>Lista sħiħa ta' emblemi u logos tal-istituzzjonijiet u l-entitajiet Ewropej</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Kittieba</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=mt\">                                              <span>Glossarju</span>                                           </a>                                           <p>Spjegazzjoni tat-terminoloġija teknika u legali</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=mt/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Teżawru multilingwi li jkopri l-politika, il-liġi, l-ekonomija u oqsma oħra rilevanti għall-UE</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "nl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Materiaal voor uitgevers en auteurs</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Uitgevers</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/nl/web/about-us/who-we-are\">                                              <span>Bureau voor publicaties</span>                                           </a>                                           <p>De uitgever van documenten, brochures en boeken van alle instellingen, agentschappen en andere organen van de EU</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/nl/web/about-us/contact\">                                              <span>Uitgeversforum van de Europese Unie</span>                                           </a>                                           <p>Richtsnoeren voor wie EU-publicaties wil hergebruiken of vertalen</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_nl.htm\">                                              <span>EU-logo</span>                                           </a>                                           <p>Download hier het EU-logo en lees hoe u het moet gebruiken</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/nl/nl-5000200.htm\">                                              <span>Logo’s van de Europese instellingen en organen</span>                                           </a>                                           <p>Lijst van alle logo’s van de Europese instellingen en andere organen</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Auteurs</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=nl\">                                              <span>Verklarende woordenlijst</span>                                           </a>                                           <p>Uitleg bij technische en juridische termen</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=nl/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Een meertalige thesaurus over beleid, wetgeving, economie en andere onderwerpen in verband met de EU</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Materiały dla wydawców i autorów</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Wydawcy</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/pl/web/about-us/who-we-are\">                                              <span>Urząd Publikacji</span>                                           </a>                                           <p>Międzyinstytucjonalny urząd odpowiedzialny za publikowanie dokumentów, broszur i książek opracowanych przez instytucje, agencje i inne organy UE</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/pl/web/about-us/contact\">                                              <span>Forum wydawców Unii Europejskiej</span>                                           </a>                                           <p>Wytyczne dotyczące wykorzystywania lub tłumaczenia publikacji UE</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_pl.htm\">                                              <span>Logo UE</span>                                           </a>                                           <p>Pobierz logo UE i sprawdź informacje o zasadach jego wykorzystywania</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/pl/pl-5000200.htm\">                                              <span>Symbole wszystkich europejskich instytucji i organów</span>                                           </a>                                           <p>Pełna lista symboli oraz logo instytucji i innych organów europejskich</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Autorzy</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=pl\">                                              <span>Glosariusz</span>                                           </a>                                           <p>Terminy techniczne i prawne</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=pl/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Wielojęzyczny słownik tematyczny obejmujący politykę, prawo, ekonomię i inne dziedziny działalności UE</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Material para editores e escritores</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Editores</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/pt/web/about-us/who-we-are\">                                              <span>Serviço das Publicações</span>                                           </a>                                           <p>Serviço interinstitucional responsável pela publicação de documentos, brochuras e livros da autoria das instituições, agências ou outros organismos da UE</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/pt/web/about-us/contact\">                                              <span>Fórum dos editores da União Europeia</span>                                           </a>                                           <p>Conselhos para quem pretende reproduzir ou traduzir publicações da UE</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_pt.htm\">                                              <span>Logotipo da UE</span>                                           </a>                                           <p>Descarregue o logotipo da UE e obtenha informações sobre as respetivas condições de reprodução</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/pt/pt-5000200.htm\">                                              <span>Símbolos das instituições e órgãos europeus</span>                                           </a>                                           <p>Lista completa dos símbolos e logotipos das instituições e órgãos europeus</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Escritores</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=pt\">                                              <span>Glossário</span>                                           </a>                                           <p>Terminologia técnica e jurídica</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=pt/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Tesauro multilingue com terminologia relacionada com os domínios de intervenção da UE</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ro": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Resurse pentru editori şi autori</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Editori</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/ro/web/about-us/who-we-are\">                                              <span>Oficiul pentru Publicaţii</span>                                           </a>                                           <p>Oficiul interinstituţional care se ocupă cu publicarea documentelor, a broşurilor şi a publicaţiilor editate de instituţiile, agenţiile şi organismele UE</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/ro/web/about-us/contact\">                                              <span>Forumul editorilor Uniunii Europene</span>                                           </a>                                           <p>Recomandări în cazul în care doriţi să reutilizaţi sau să traduceţi publicaţiile UE</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_ro.htm\">                                              <span>Emblema UE</span>                                           </a>                                           <p>Descărcaţi emblema UE şi consultaţi condiţiile privind reproducerea acesteia</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/ro/ro-5000200.htm\">                                              <span>Emblemele instituţiilor şi organismelor UE</span>                                           </a>                                           <p>Lista emblemelor instituţiilor şi organismelor europene</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Autori</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=ro\">                                              <span>Glosar</span>                                           </a>                                           <p>Terminologie tehnică şi juridică, explicată</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=ro/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Tezaur multilingv acoperind politicile, legislaţia, economia şi alte domenii relevante pentru UE</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sk": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Podkladové materiály pre vydavateľov a autorov</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Vydavateľstvá</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/sk/web/about-us/who-we-are\">                                              <span>Úrad pre publikácie</span>                                           </a>                                           <p>Medziinštitucionálny úrad zodpovedný za publikovanie dokumentov, brožúr a kníh vydaných inštitúciami, agentúrami a inými orgánmi EÚ</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/sk/web/about-us/contact\">                                              <span>Fórum vydavateľov Európskej únie</span>                                           </a>                                           <p>Informácie týkajúce sa šírenia a prekladu publikácií EÚ</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_sk.htm\">                                              <span>Logo EÚ</span>                                           </a>                                           <p>Logo EÚ na stiahnutie a informácie o jeho povolenej reprodukcii</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/sk/sk-5000200.htm\">                                              <span>Emblémy európskych inštitúcií a orgánov</span>                                           </a>                                           <p>Úplný zoznam emblémov a log európskych inštitúcií a ostatných orgánov</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Autori</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=sk\">                                              <span>Glosár</span>                                           </a>                                           <p>Výklad odbornej a právnickej terminológie</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=sk/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Viacjazyčný tezaurus pojmov týkajúcich sa politiky, práva, ekonómie a ďalších oblastí súvisiacich s EÚ</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Gradivo za založnike in avtorje</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Založniki</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/sl/web/about-us/who-we-are\">                                              <span>Urad za publikacije</span>                                           </a>                                           <p>Medistitucionalni urad, zadolžen za objavo dokumentov, brošur in knjig, ki jih pripravijo institucije, agencije in drugi organi EU</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/sl/web/about-us/contact\">                                              <span>Založniški forum EU</span>                                           </a>                                           <p>Nasveti za uporabo ali prevajanje publikacij EU</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_sl.htm\">                                              <span>Simboli/LOGOTIPI EU</span>                                           </a>                                           <p>Prenos simbolov EU in informacije o njihovi reprodukciji</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/sl/sl-5000200.htm\">                                              <span>Emblemi evropskih institucij in organov</span>                                           </a>                                           <p>Vsi emblemi in logotipi evropskih institucij in drugih organov</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Avtorji</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=sl\">                                              <span>Glosar</span>                                           </a>                                           <p>Razlaga tehničnih in pravnih izrazov</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=sl/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Večjezični tezaver, ki zajema politiko, ekonomijo in druga področja v zvezi z EU.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Hjälpmedel för förläggare och skribenter</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Förläggare</h2>                                     <ul>                                        <li>                                           <a href=\"http://publications.europa.eu/sv/web/about-us/who-we-are\">                                              <span>Publikationsbyrån</span>                                           </a>                                           <p>EU:s eget förlag som ger ut handlingar, broschyrer och böcker från EU:s institutioner, byråer och organ.</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/sv/web/about-us/contact\">                                              <span>EU:s förläggarforum</span>                                           </a>                                           <p>Information för dig som vill använda eller översätta EU-publikationer.</p>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/about-eu/basic-information/symbols/flag/index_sv.htm\">                                              <span>EU-flaggan</span>                                           </a>                                           <p>Ladda ner EU-logotypen och läs vilka regler som gäller för återgivning.</p>                                        </li>                                        <li>                                           <a href=\"http://publications.europa.eu/code/sv/sv-5000200.htm\">                                              <span>Logotyper för EU:s institutioner och organ</span>                                           </a>                                           <p>Lista över alla institutioners och organs logotyper.</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Skribenter</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/summary/glossary.html?locale=sv\">                                              <span>Ordlista</span>                                           </a>                                           <p>Förklaring av tekniska och juridiska EU-termer.</p>                                        </li>                                        <li>                                           <a href=\"http://eurovoc.europa.eu/drupal/?q=sv/node\">                                              <span>Eurovoc</span>                                           </a>                                           <p>Flerspråkig tesaurus för EU:s olika verksamhetsområden.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ]
+        },
+        "download_item": {
+            "und": [
+                "download_item_f6daeb5aa4f7181433f5c7ea345c4d7d"
+            ]
+        }
+    }
+}

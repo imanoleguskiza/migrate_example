@@ -1,0 +1,966 @@
+{
+    "_id": "5b4f2072cfb4993f370776ce4e185f6e",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/eu-life/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/eu-life/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/eu-life/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/eu-life/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/eu-life/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/eu-life/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/eu-life/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/eu-life/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/eu-life/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/eu-life/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/eu-life/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/eu-life/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/eu-life/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/eu-life/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/eu-life/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/eu-life/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/eu-life/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/eu-life/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/eu-life/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/eu-life/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/eu-life/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/eu-life/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/eu-life/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/eu-life/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Живот и бизнес в ЕС"
+            ],
+            "cs": [
+                "Život a podnikání v EU"
+            ],
+            "da": [
+                "At bo og arbejde i EU"
+            ],
+            "de": [
+                "Leben und Geschäftstätigkeit in der EU"
+            ],
+            "el": [
+                "Ζωή και επιχειρήσεις στην ΕΕ"
+            ],
+            "en": [
+                "Life and business in the EU"
+            ],
+            "es": [
+                "Vida y negocios en la UE"
+            ],
+            "et": [
+                "Elu ja ettevõtlus ELis"
+            ],
+            "fi": [
+                "Kansalaiset ja yritykset EU:ssa"
+            ],
+            "fr": [
+                "Vivre et faire des affaires dans l'UE"
+            ],
+            "ga": [
+                "An saol agus gnó san AE"
+            ],
+            "hr": [
+                "Život i posao u EU-u"
+            ],
+            "hu": [
+                "Élet és vállalkozás az EU-ban"
+            ],
+            "it": [
+                "Vivere e fare impresa nell'UE"
+            ],
+            "lt": [
+                "Gyvenimas ir verslas ES"
+            ],
+            "lv": [
+                "Dzīve un uzņēmējdarbība ES"
+            ],
+            "mt": [
+                "Ħajja u negozju fl-UE"
+            ],
+            "nl": [
+                "Leven en zakendoen in de EU"
+            ],
+            "pl": [
+                "Życie i praca w UE"
+            ],
+            "pt": [
+                "Viver e fazer negócios na UE"
+            ],
+            "ro": [
+                "Viața și activitățile comerciale în UE"
+            ],
+            "sk": [
+                "Život a podnikanie v EÚ"
+            ],
+            "sl": [
+                "Življenje in poslovanje v EU"
+            ],
+            "sv": [
+                "Bo och driva företag i EU"
+            ]
+        },
+        "category": {
+            "und": [
+                "56720c9",
+                "91087c1"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "COMM/EUROPA/EU-LIFE/BG"
+            ],
+            "cs": [
+                "COMM/EUROPA/EU-LIFE/CS"
+            ],
+            "da": [
+                "COMM/EUROPA/EU-LIFE/DA"
+            ],
+            "de": [
+                "COMM/EUROPA/EU-LIFE/DE"
+            ],
+            "el": [
+                "COMM/EUROPA/EU-LIFE/EL"
+            ],
+            "en": [
+                "COMM/EUROPA/EU-LIFE/EN"
+            ],
+            "es": [
+                "COMM/EUROPA/EU-LIFE/ES"
+            ],
+            "et": [
+                "COMM/EUROPA/EU-LIFE/ET"
+            ],
+            "fi": [
+                "COMM/EUROPA/EU-LIFE/FI"
+            ],
+            "fr": [
+                "COMM/EUROPA/EU-LIFE/FR"
+            ],
+            "ga": [
+                "COMM/EUROPA/EU-LIFE/GA"
+            ],
+            "hr": [
+                "COMM/EUROPA/EU-LIFE/HR"
+            ],
+            "hu": [
+                "COMM/EUROPA/EU-LIFE/HU"
+            ],
+            "it": [
+                "COMM/EUROPA/EU-LIFE/IT"
+            ],
+            "lt": [
+                "COMM/EUROPA/EU-LIFE/LT"
+            ],
+            "lv": [
+                "COMM/EUROPA/EU-LIFE/LV"
+            ],
+            "mt": [
+                "COMM/EUROPA/EU-LIFE/MT"
+            ],
+            "nl": [
+                "COMM/EUROPA/EU-LIFE/NL"
+            ],
+            "pl": [
+                "COMM/EUROPA/EU-LIFE/PL"
+            ],
+            "pt": [
+                "COMM/EUROPA/EU-LIFE/PT"
+            ],
+            "ro": [
+                "COMM/EUROPA/EU-LIFE/RO"
+            ],
+            "sk": [
+                "COMM/EUROPA/EU-LIFE/SK"
+            ],
+            "sl": [
+                "COMM/EUROPA/EU-LIFE/SL"
+            ],
+            "sv": [
+                "COMM/EUROPA/EU-LIFE/SV"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM/A05"
+            ],
+            "cs": [
+                "COMM/COMM/A05"
+            ],
+            "da": [
+                "COMM/COMM/A05"
+            ],
+            "de": [
+                "COMM/COMM/A05"
+            ],
+            "el": [
+                "COMM/COMM/A05"
+            ],
+            "en": [
+                "COMM/COMM/A05"
+            ],
+            "es": [
+                "COMM/COMM/A05"
+            ],
+            "et": [
+                "COMM/COMM/A05"
+            ],
+            "fi": [
+                "COMM/COMM/A05"
+            ],
+            "fr": [
+                "COMM/COMM/A05"
+            ],
+            "ga": [
+                "COMM/COMM/A05"
+            ],
+            "hr": [
+                "COMM/COMM/A05"
+            ],
+            "hu": [
+                "COMM/COMM/A05"
+            ],
+            "it": [
+                "COMM/COMM/A05"
+            ],
+            "lt": [
+                "COMM/COMM/A05"
+            ],
+            "lv": [
+                "COMM/COMM/A05"
+            ],
+            "mt": [
+                "COMM/COMM/A05"
+            ],
+            "nl": [
+                "COMM/COMM/A05"
+            ],
+            "pl": [
+                "COMM/COMM/A05"
+            ],
+            "pt": [
+                "COMM/COMM/A05"
+            ],
+            "ro": [
+                "COMM/COMM/A05"
+            ],
+            "sk": [
+                "COMM/COMM/A05"
+            ],
+            "sl": [
+                "COMM/COMM/A05"
+            ],
+            "sv": [
+                "COMM/COMM/A05"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Живот и бизнес в ЕС"
+            ],
+            "cs": [
+                "Život a podnikání v EU"
+            ],
+            "da": [
+                "At bo og arbejde i EU"
+            ],
+            "de": [
+                "Leben und Geschäftstätigkeit in der EU"
+            ],
+            "el": [
+                "Ζωή και επιχειρήσεις στην ΕΕ"
+            ],
+            "en": [
+                "Life and business in the EU"
+            ],
+            "es": [
+                "Vida y negocios en la UE"
+            ],
+            "et": [
+                "Elu ja ettevõtlus ELis"
+            ],
+            "fi": [
+                "Kansalaiset ja yritykset EU:ssa"
+            ],
+            "fr": [
+                "Vivre et faire des affaires dans l'UE"
+            ],
+            "ga": [
+                "An saol agus gnó san AE"
+            ],
+            "hr": [
+                "Život i posao u EU-u"
+            ],
+            "hu": [
+                "Élet és vállalkozás az EU-ban"
+            ],
+            "it": [
+                "Vivere e fare impresa nell'UE"
+            ],
+            "lt": [
+                "Gyvenimas ir verslas ES"
+            ],
+            "lv": [
+                "Dzīve un uzņēmējdarbība ES"
+            ],
+            "mt": [
+                "Ħajja u negozju fl-UE"
+            ],
+            "nl": [
+                "Leven en zakendoen in de EU"
+            ],
+            "pl": [
+                "Życie i praca w UE"
+            ],
+            "pt": [
+                "Viver e fazer negócios na UE"
+            ],
+            "ro": [
+                "Viața și activitățile comerciale în UE"
+            ],
+            "sk": [
+                "Život a podnikanie v EÚ"
+            ],
+            "sl": [
+                "Življenje in poslovanje v EU"
+            ],
+            "sv": [
+                "Bo och driva företag i EU"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "ЕС",
+                "Европейски съюз",
+                "работа",
+                "учене",
+                "образование",
+                "здравеопазване",
+                "права на потребителите",
+                "пътуване",
+                "пребиваване",
+                "правни съвети",
+                "законодателство",
+                "право",
+                "бизнес"
+            ],
+            "cs": [
+                "EU",
+                "Evropská unie",
+                "práce",
+                "studium",
+                "zdravotní péče",
+                "spotřebitelská práva",
+                "cestování",
+                "pobyt",
+                "právní poradenství",
+                "právo",
+                "podnikání"
+            ],
+            "da": [
+                "EU",
+                "Europæiske Union",
+                "arbejde",
+                "studere",
+                "sundhedspleje",
+                "forbrugerrettigheder",
+                "rejse",
+                "ophold",
+                "juridisk rådgivning",
+                "jura",
+                "erhverv."
+            ],
+            "de": [
+                "EU",
+                "Europäische Union",
+                "Arbeit",
+                "Studieren",
+                "Gesundheitsversorgung",
+                "Gesundheitsfürsorge",
+                "Verbraucherrechte",
+                "Reisen",
+                "Aufenthalt",
+                "Rechtsberatung",
+                "Recht",
+                "Gesetz",
+                "Unternehmen",
+                "Wirtschaft"
+            ],
+            "el": [
+                "ΕΕ",
+                "Ευρωπαϊκή Ένωση",
+                "εργασία",
+                "σπουδές",
+                "υγειονομική περίθαλψη",
+                "δικαιώματα καταναλωτών",
+                "ταξίδια",
+                "διαμονή",
+                "νομικές συμβουλές",
+                "δίκαιο",
+                "επιχειρήσεις"
+            ],
+            "en": [
+                "EU",
+                "european union",
+                "work",
+                "study",
+                "healthcare",
+                "consumer rights",
+                "travel",
+                "residence",
+                "legal advice",
+                "law",
+                "business"
+            ],
+            "es": [
+                "UE",
+                "Unión Europea",
+                "trabajar",
+                "estudiar",
+                "sanidad",
+                "derechos de los consumidores",
+                "viajar",
+                "residencia",
+                "asesoramiento jurídico",
+                "legislación",
+                "negocios."
+            ],
+            "et": [
+                "EL",
+                "Euroopa Liit",
+                "töötamine",
+                "õppimine",
+                "tervishoid",
+                "tarbijaõigused",
+                "reisimine",
+                "elamine",
+                "õigusnõustamine",
+                "seadus",
+                "õigus",
+                "ettevõtlus."
+            ],
+            "fi": [
+                "EU",
+                "Euroopan unioni",
+                "työ",
+                "opiskelu",
+                "terveydenhuolto",
+                "kuluttajaoikeudet",
+                "matkustus",
+                "asuminen",
+                "oikeudellinen neuvonta",
+                "laki",
+                "liiketoiminta",
+                "kaupankäynti"
+            ],
+            "fr": [
+                "UE",
+                "Union européenne",
+                "travailler",
+                "étudier",
+                "soins de santé",
+                "droits des consommateurs",
+                "voyager",
+                "résidence",
+                "séjour",
+                "aide juridique",
+                "conseil",
+                "avis",
+                "droit",
+                "législation",
+                "entreprise",
+                "commerce"
+            ],
+            "ga": [
+                "An AE",
+                "an Aontas Eorpach",
+                "obair",
+                "staidéar",
+                "cúram sláinte",
+                "cearta tomhaltóirí",
+                "taisteal",
+                "áit chónaithe",
+                "comhairle dlí",
+                "dlí",
+                "gnó."
+            ],
+            "hr": [
+                "EU",
+                "Europska unija",
+                "rad",
+                "studiranje",
+                "zdravstvena skrb",
+                "prava potrošača",
+                "putovanja",
+                "boravište",
+                "pravni savjeti",
+                "zakon",
+                "poslovanje"
+            ],
+            "hu": [
+                "EU",
+                "Európai Unió",
+                "munkavállalás",
+                "tanulás",
+                "egészségügyi ellátás",
+                "fogyasztói jogok",
+                "utazás",
+                "tartózkodás",
+                "jogi tanács",
+                "jog",
+                "vállalkozás"
+            ],
+            "it": [
+                "UE",
+                "Unione europea",
+                "lavorare",
+                "studiare",
+                "assistenza sanitaria",
+                "diritti dei consumatori",
+                "viaggi",
+                "residenza",
+                "soggiorno",
+                "assistenza giuridica",
+                "diritto",
+                "imprese."
+            ],
+            "lt": [
+                "ES",
+                "Europos Sąjunga",
+                "darbas",
+                "studijos",
+                "sveikatos priežiūra",
+                "vartotojų teisės",
+                "kelionės",
+                "gyvenimas",
+                "teisinė konsultacija",
+                "teisė",
+                "verslas."
+            ],
+            "lv": [
+                "ES",
+                "Eiropas Savienība",
+                "darbs",
+                "studijas",
+                "veselības aprūpe",
+                "patērētāju tiesības",
+                "ceļošana",
+                "dzīve",
+                "jurista padoms",
+                "tiesības uzņēmējdarbība"
+            ],
+            "mt": [
+                "UE",
+                "Unjoni Ewropea",
+                "xogħol",
+                "studju",
+                "kura tas-saħħa",
+                "drittijiet tal-konsumatur",
+                "vjaġġar",
+                "residenza",
+                "parir legali",
+                "liġi",
+                "negozju"
+            ],
+            "nl": [
+                "EU",
+                "Europese Unie",
+                "werk",
+                "studie",
+                "gezondheid",
+                "consumentenrechten",
+                "reizen",
+                "wonen",
+                "rechtshulp",
+                "recht",
+                "bedrijfsleven"
+            ],
+            "pl": [
+                "UE",
+                "Unia Europejska",
+                "praca",
+                "studia",
+                "opieka zdrowotna",
+                "prawa konsumenta",
+                "podróże",
+                "pobyt stały",
+                "porady prawne",
+                "przepisy",
+                "biznes",
+                "działalność gospodarcza"
+            ],
+            "pt": [
+                "ue",
+                "união europeia",
+                "trabalhar",
+                "estudar",
+                "assistência médica",
+                "direitos do consumidor",
+                "viajar",
+                "residência",
+                "aconselhamento jurídico",
+                "legislação",
+                "empresas."
+            ],
+            "ro": [
+                "UE",
+                "Uniunea Europeană",
+                "muncă",
+                "studii",
+                "îngrijiri medicale",
+                "drepturile consumatorului",
+                "călătorii",
+                "reședință",
+                "consiliere juridică",
+                "lege",
+                "întreprinderi",
+                "activități comerciale"
+            ],
+            "sk": [
+                "EÚ",
+                "Európska únia",
+                "práca",
+                "štúdium",
+                "zdravotná starostlivosť",
+                "práva spotrebiteľa",
+                "cestovanie",
+                "pobyt",
+                "právne poradenstvo",
+                "právo",
+                "podnikanie."
+            ],
+            "sl": [
+                "EU",
+                "Evropska unija",
+                "delo",
+                "študij",
+                "zdravstveno varstvo",
+                "pravice potrošnikov",
+                "potovanje",
+                "prebivanje",
+                "pravni nasveti",
+                "zakonodaja",
+                "podjetja"
+            ],
+            "sv": [
+                "EU",
+                "Europeiska unionen",
+                "arbeta",
+                "jobba",
+                "studera",
+                "plugga",
+                "sjukvård",
+                "konsumentskydd",
+                "resa",
+                "bosätta sig",
+                "rådgivning",
+                "lagstiftning",
+                "företag"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "20-000-Free Movement of Persons"
+            ],
+            "cs": [
+                "20-000-Free Movement of Persons"
+            ],
+            "da": [
+                "20-000-Free Movement of Persons"
+            ],
+            "de": [
+                "20-000-Free Movement of Persons"
+            ],
+            "el": [
+                "20-000-Free Movement of Persons"
+            ],
+            "en": [
+                "20-000-Free Movement of Persons"
+            ],
+            "es": [
+                "20-000-Free Movement of Persons"
+            ],
+            "et": [
+                "20-000-Free Movement of Persons"
+            ],
+            "fi": [
+                "20-000-Free Movement of Persons"
+            ],
+            "fr": [
+                "20-000-Free Movement of Persons"
+            ],
+            "ga": [
+                "20-000-Free Movement of Persons"
+            ],
+            "hr": [
+                "20-000-Free Movement of Persons"
+            ],
+            "hu": [
+                "20-000-Free Movement of Persons"
+            ],
+            "it": [
+                "20-000-Free Movement of Persons"
+            ],
+            "lt": [
+                "20-000-Free Movement of Persons"
+            ],
+            "lv": [
+                "20-000-Free Movement of Persons"
+            ],
+            "mt": [
+                "20-000-Free Movement of Persons"
+            ],
+            "nl": [
+                "20-000-Free Movement of Persons"
+            ],
+            "pl": [
+                "20-000-Free Movement of Persons"
+            ],
+            "pt": [
+                "20-000-Free Movement of Persons"
+            ],
+            "ro": [
+                "20-000-Free Movement of Persons"
+            ],
+            "sk": [
+                "20-000-Free Movement of Persons"
+            ],
+            "sl": [
+                "20-000-Free Movement of Persons"
+            ],
+            "sv": [
+                "20-000-Free Movement of Persons"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<h3>Живот, работа, пътуване в ЕС</h3>             <p>Информация и правни съвети за правата ви, когато живеете, работите, пътувате и учите в чужбина, включително за достъпа до здравни грижи и потребителските ви права.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_bg.htm\" lang=\"bg\">Работа и пенсии</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_bg.htm\" lang=\"bg\">Образование и младеж</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_bg.htm\" lang=\"bg\">Здравеопазване</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_bg.htm\" lang=\"bg\">Права на потребителите</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_bg.htm\" lang=\"bg\">Пътуване</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_bg.htm\" lang=\"bg\">Живот в чужбина</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_bg.htm\" lang=\"bg\">Семейство – закони в другите страни от ЕС</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_bg.htm\" lang=\"bg\">Шофиране </a>                </li>             </ul>             <h3>Бизнес в ЕС</h3>             <p>                <span>Търсите съвет как да развивате бизнес в чужбина - във или извън ЕС? В този раздел се предоставя информация за данъци, внос и износ на стоки и финансова помощ за предприятия, както и по други теми.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_bg.htm\" lang=\"bg\">Стартиращи предприятия</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_bg.htm\" lang=\"bg\">ДДС и митници</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_bg.htm\" lang=\"bg\">Европейски стандарти</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_bg.htm\"                      lang=\"bg\">Наемане на работа и благосъстояние на персонала</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_bg.htm\" lang=\"bg\">Внос и износ</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_bg.htm\" lang=\"bg\">Финансиране и подкрепа</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_bg.htm\" lang=\"bg\">Правила за околната среда</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_bg.htm\" lang=\"bg\">Обществени поръчки в ЕС - правила и насоки</a>                </li>             </ul>"
+            ],
+            "cs": [
+                "<h3>Můj život v EU</h3>             <p>Informace a právní poradenství ohledně vašich práv týkajících se pobytu, zaměstnání, studia a cestování v zahraničí, včetně přístupu ke zdravotní péči a spotřebitelských práv.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_cs.htm\" lang=\"cs\">Práce a důchod</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_cs.htm\" lang=\"cs\">Vzdělávání a mládež</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_cs.htm\" lang=\"cs\">Zdravotní péče</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_cs.htm\" lang=\"cs\">Vaše spotřebitelská práva</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_cs.htm\" lang=\"cs\">Cestování</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_cs.htm\" lang=\"cs\">Život v zahraničí</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_cs.htm\" lang=\"cs\">Rodina – právní předpisy v jiných zemích EU</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_cs.htm\" lang=\"cs\">Řízení vozidel </a>                </li>             </ul>             <h3>Podnikání v EU</h3>             <p>                <span>Sháníte rady týkající se podnikání v zahraničí, ať již v rámci EU nebo mimo ní? V této sekci se kromě jiného dozvíte informace o daních, dovozu a vývozu zboží a o finanční podpoře poskytované podnikům.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_cs.htm\" lang=\"cs\">Začínající podniky</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_cs.htm\" lang=\"cs\">DPH a cla</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_cs.htm\" lang=\"cs\">Evropské normy</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_cs.htm\"                      lang=\"cs\">Přijímání nových pracovníků a dobré pracovní podmínky</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_cs.htm\" lang=\"cs\">Dovozy a vývozy</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_cs.htm\" lang=\"cs\">Financování a podpora</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_cs.htm\" lang=\"cs\">Pravidla v oblasti životního prostředí</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_cs.htm\" lang=\"cs\">Veřejné zakázky v EU – pravidla a pokyny</a>                </li>             </ul>"
+            ],
+            "da": [
+                "<h3>At leve, arbejde og rejse i EU</h3>             <p>Her finder du information og juridisk rådgivning om din ret til at bosætte dig, arbejde, rejse og studere i udlandet, herunder adgangen til sundhedspleje og forbrugerrettigheder.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_da.htm\" lang=\"da\">Job og pensioner</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_da.htm\" lang=\"da\">Uddannelse og unge</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_da.htm\" lang=\"da\">Sundhedspleje</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_da.htm\" lang=\"da\">Forbrugerrettigheder</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_da.htm\" lang=\"da\">Rejser</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_da.htm\" lang=\"da\">At bo i udlandet</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_da.htm\" lang=\"da\">Familie – lovgivningen i andre EU-lande</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_da.htm\" lang=\"da\">At køre bil i udlandet </a>                </li>             </ul>             <h3>Forretninger i EU</h3>             <p>                <span>Har du brug for råd om, hvordan du kan gøre forretninger i andre lande både i og uden for EU? Her kan du blandt andet læse om skat, import og eksport og økonomisk støtte til virksomheder.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_da.htm\" lang=\"da\">Nye virksomheder</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_da.htm\" lang=\"da\">Moms og toldafgifter </a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_da.htm\" lang=\"da\">Europæiske standarder</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_da.htm\"                      lang=\"da\">Ansættelse og personalevelfærd</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_da.htm\" lang=\"da\">Import og eksport</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_da.htm\" lang=\"da\">Finansiering og tilskud</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_da.htm\" lang=\"da\">Miljøregler</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_da.htm\" lang=\"da\">Offentlige kontrakter i EU – regler og procedurer</a>                </li>             </ul>"
+            ],
+            "de": [
+                "<h3>Leben, Arbeiten und Reisen in der EU</h3>             <p>Informationen zu Ihren Rechten bei Aufenthalten im Ausland – beruflich, auf Reisen oder für Ihr Studium –, insbesondere hinsichtlich Krankenversicherung und Verbraucherschutz.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_de.htm\" lang=\"de\">Arbeiten und Ruhestand</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_de.htm\" lang=\"de\">Bildung und Jugend</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_de.htm\" lang=\"de\">Gesundheitsfürsorge</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_de.htm\" lang=\"de\">Verbraucherrechte</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_de.htm\" lang=\"de\">Reisen</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_de.htm\" lang=\"de\">Leben im Ausland</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_de.htm\" lang=\"de\">Familie – Gesetzgebung  in anderen EU-Ländern</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_de.htm\" lang=\"de\">Führen und Halten von Kraftfahrzeugen </a>                </li>             </ul>             <h3>Geschäfte tätigen in der EU</h3>             <p>                <span>Brauchen Sie Informationen zur Ausübung einer Geschäftstätigkeit im EU-Ausland oder in anderen Ländern? In diesem Abschnitt finden Sie Wissenswertes zu Steuern, zur Ein- und Ausfuhr von Waren, zur finanziellen Unterstützung von Unternehmen und zu anderen Themen.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_de.htm\" lang=\"de\">Existenzgründung</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_de.htm\" lang=\"de\">MwSt. und Zoll</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_de.htm\" lang=\"de\">Europäische Normen</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_de.htm\"                      lang=\"de\">Einstellung und Personalfürsorge</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_de.htm\" lang=\"de\">Einfuhr und Ausfuhr</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_de.htm\" lang=\"de\">Finanzierung und Förderung</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_de.htm\" lang=\"de\">Umweltschutzvorschriften</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_de.htm\" lang=\"de\">Öffentliches Auftragswesen in der EU – Regeln und Leitlinien</a>                </li>             </ul>"
+            ],
+            "el": [
+                "<h3>Ζωή, εργασία, ταξίδια στην ΕΕ</h3>             <p>Πληροφορίες και νομικές συμβουλές σχετικά με το δικαιώμα σας  να ζείτε, να εργάζεστε, να ταξιδεύετε και να σπουδάζετε στο εξωτερικό, καθώς και σχετικά με την πρόσβαση στην υγειονομική περίθαλψη και τα δικαιώματα που έχετε ως καταναλωτές.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_el.htm\" lang=\"el\">Εργασία και συνταξιοδότηση</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_el.htm\" lang=\"el\">Εκπαίδευση και νεολαία</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_el.htm\" lang=\"el\">Υγειονομική περίθαλψη</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_el.htm\" lang=\"el\">Δικαιώματα των καταναλωτών</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_el.htm\" lang=\"el\">Ταξίδια</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_el.htm\" lang=\"el\">Διαμονή στο εξωτερικό</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_el.htm\" lang=\"el\">Οικογένεια – Νομοθεσία άλλων χωρών της ΕΕ</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_el.htm\" lang=\"el\">Οδήγηση </a>                </li>             </ul>             <h3>Επιχειρηματική δραστηριότητα στην ΕΕ</h3>             <p>                <span>Αναζητάτε συμβουλές για την ανάληψη επιχειρηματικής δραστηριότητας στο εξωτερικό εντός ή εκτός της ΕΕ; Εδώ θα βρείτε πληροφορίες για τη φορολογία, την εισαγωγή και εξαγωγή εμπορευμάτων, τη χρηματοδοτική στήριξη επιχειρήσεων και άλλα θέματα.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_el.htm\" lang=\"el\">Νεοφυείς επιχειρήσεις </a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_el.htm\" lang=\"el\">ΦΠΑ &amp; φόροι</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_el.htm\" lang=\"el\">Ευρωπαϊκά πρότυπα</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_el.htm\"                      lang=\"el\">Πρόσληψη και κοινωνική προστασία του προσωπικού</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_el.htm\" lang=\"el\">Εισαγωγές και εξαγωγές</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_el.htm\" lang=\"el\">Χρηματοδότηση και στήριξη</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_el.htm\" lang=\"el\">Περιβαλλοντικοί κανόνες</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_el.htm\" lang=\"el\">Δημόσιες συμβάσεις στην ΕΕ: κανόνες και κατευθυντήριες γραμμές</a>                </li>             </ul>"
+            ],
+            "en": [
+                "<h3>Living, working, travelling in the EU</h3>             <p>                <span>Information and legal advice on your rights to live, work, travel and study abroad, including access to healthcare and consumer rights.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_en.htm\" lang=\"en\">Work and retirement</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_en.htm\" lang=\"en\">Education and youth</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_en.htm\" lang=\"en\">Healthcare</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_en.htm\" lang=\"en\">Consumer rights</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_en.htm\" lang=\"en\">Travel</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_en.htm\" lang=\"en\">Living abroad</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_en.htm\" lang=\"en\">Family – laws in other EU countries</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_en.htm\" lang=\"en\">Driving </a>                </li>             </ul>             <h3>Doing business in the EU</h3>             <p>                <span>Looking for advice on doing business abroad within or outside the EU? This section provides information on taxes, importing and exporting goods and financial support for businesses as well as other topics.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_en.htm\" lang=\"en\">Start-ups</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_en.htm\" lang=\"en\">VAT &amp; customs</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_en.htm\" lang=\"en\">European standards</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_en.htm\"                      lang=\"en\">Recruitment and staff welfare</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_en.htm\" lang=\"en\">Import and export</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_en.htm\" lang=\"en\">Finance and support</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_en.htm\" lang=\"en\">Environmental rules</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_en.htm\" lang=\"en\">Public contracts in the EU – rules and guidelines</a>                </li>             </ul>"
+            ],
+            "es": [
+                "<h3>Vivir, trabajar y viajar en la UE</h3>             <p>Información y consejos jurídicos sobre su derecho a vivir, trabajar, viajar y estudiar en el extranjero, incluidos el acceso a la sanidad y los derechos de los consumidores.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_es.htm\" lang=\"es\">Trabajo y jubilación</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_es.htm\" lang=\"es\">Educación y juventud</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_es.htm\" lang=\"es\">Sanidad</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_es.htm\" lang=\"es\">Derechos del consumidor</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_es.htm\" lang=\"es\">Viajes</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_es.htm\" lang=\"es\">Vivir en el extranjero</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_es.htm\" lang=\"es\">Familia – leyes de otros países de la UE</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_es.htm\" lang=\"es\">Conducción </a>                </li>             </ul>             <h3>Hacer negocios en la UE</h3>             <p>                <span>¿Busca consejo sobre negocios en el extranjero, dentro o fuera de la UE? Aquí encontrará información sobre impuestos, importación y exportación, ayuda financiera a las empresas, etc.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_es.htm\" lang=\"es\">Empresas emergentes</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_es.htm\" lang=\"es\">IVA y aduanas</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_es.htm\" lang=\"es\">Normas europeas</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_es.htm\"                      lang=\"es\">Contratación y bienestar del personal</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_es.htm\" lang=\"es\">Importación y exportación</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_es.htm\" lang=\"es\">Financiación y ayudas</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_es.htm\" lang=\"es\">Normas medioambientales</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_es.htm\" lang=\"es\">Contratación pública en la UE: normas y directrices</a>                </li>             </ul>"
+            ],
+            "et": [
+                "<h3>Elamine, töötamine ja reisimine ELis</h3>             <p>Teave ja õigusabi välismaal elamise, töötamise, reisimise ja õppimise, sealhulgas tervishoiuteenustele ja tarbijaõigustele juurdepääsu kohta.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_et.htm\" lang=\"et\">Töötamine ja pensionile jäämine</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_et.htm\" lang=\"et\">Haridus ja noored</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_et.htm\" lang=\"et\">Tervishoid</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_et.htm\" lang=\"et\">Tarbijate õigused</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_et.htm\" lang=\"et\">Reisimine</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_et.htm\" lang=\"et\">Välismaal elamine</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_et.htm\" lang=\"et\">Perekond – seadused teistes ELi liikmesriikides</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_et.htm\" lang=\"et\">Auto juhtimine </a>                </li>             </ul>             <h3>Ettevõtlus ELis</h3>             <p>                <span>Soovite nõuandeid ettevõtluse kohta välismaal, ELis või väljaspool seda? Käesolevast veebisaidi osast leiate teavet maksude, kaupade importimise ja eksportimise, ettevõtjatele ettenähtud rahaliste toetuste ning muude teemade kohta.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_et.htm\" lang=\"et\">Idufirmad</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_et.htm\" lang=\"et\">Käibemaks ja toll</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_et.htm\" lang=\"et\">Euroopa standardid</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_et.htm\"                      lang=\"et\">Värbamine ja töötajate heaolu</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_et.htm\" lang=\"et\">Import ja eksport</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_et.htm\" lang=\"et\">Rahastamine ja toetused</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_et.htm\" lang=\"et\">Keskkonnaeeskirjad</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_et.htm\" lang=\"et\">Avalikud hanked ELis – eeskirjad ja suunised</a>                </li>             </ul>"
+            ],
+            "fi": [
+                "<h3>Asuminen, työskentely ja matkustaminen EU:n alueella</h3>             <p>Tietoa oikeudesta elää, työskennellä, matkustaa ja opiskella toisessa EU-maassa sekä terveydenhoidosta ja kuluttajien oikeuksista.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_fi.htm\" lang=\"fi\">Työ ja eläke</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_fi.htm\" lang=\"fi\">Koulutus ja nuoriso</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_fi.htm\" lang=\"fi\">Terveydenhuolto</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_fi.htm\" lang=\"fi\">Kuluttajan oikeudet</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_fi.htm\" lang=\"fi\">Matkailu</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_fi.htm\" lang=\"fi\">Asuminen ulkomailla</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_fi.htm\" lang=\"fi\">Perheasiat – lait muissa EU-maissa</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_fi.htm\" lang=\"fi\">Autoilu </a>                </li>             </ul>             <h3>Yritystoiminta EU:ssa</h3>             <p>                <span>Haetko tietoa yritystoiminnasta EU:ssa ja sen ulkopuolella? Tässä osiossa on tietoa esimerkiksi verotuksesta, tuonnista ja viennistä sekä yritysten rahoitusmahdollisuuksista.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_fi.htm\" lang=\"fi\">Uudet yritykset</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_fi.htm\" lang=\"fi\">ALV ja tulliasiat</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_fi.htm\" lang=\"fi\">Eurooppalaiset standardit</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_fi.htm\"                      lang=\"fi\">Rekrytointi ja työhyvinvointi</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_fi.htm\" lang=\"fi\">Tuonti ja vienti</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_fi.htm\" lang=\"fi\">Rahoitus ja tuet</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_fi.htm\" lang=\"fi\">Ympäristösäännöt</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_fi.htm\" lang=\"fi\">Julkiset hankinnat EU:ssa – säännöt ja ohjeet</a>                </li>             </ul>"
+            ],
+            "fr": [
+                "<h3>Vivre, travailler et voyager dans l’UE</h3>             <p>Informations et conseils juridiques sur les droits liés au fait de résider, de travailler, de voyager et d'étudier à l'étranger, l'accès aux soins de santé et les droits des consommateurs.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_fr.htm\" lang=\"fr\">Travail et retraite</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_fr.htm\" lang=\"fr\">Éducation et jeunesse</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_fr.htm\" lang=\"fr\">Soins de santé</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_fr.htm\" lang=\"fr\">Droits des consommateurs</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_fr.htm\" lang=\"fr\">Voyager</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_fr.htm\" lang=\"fr\">Vivre à l'étranger</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_fr.htm\" lang=\"fr\">Famille – Législation dans d'autres pays de l'UE</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_fr.htm\" lang=\"fr\">Conduire </a>                </li>             </ul>             <h3>Faire des affaires dans l'UE</h3>             <p>                <span>Vous souhaitez obtenir des conseils pour exercer des activités commerciales à l'étranger, dans ou en dehors de l'Union européenne? Cette rubrique fournit des informations sur des sujets tels que la fiscalité, l'importation et l'exportation de marchandises ou le soutien financier aux entreprises.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_fr.htm\" lang=\"fr\">Créer une entreprise</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_fr.htm\" lang=\"fr\">TVA et douanes</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_fr.htm\" lang=\"fr\">Normes européennes</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_fr.htm\"                      lang=\"fr\">Recrutement et bien-être du personnel</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_fr.htm\" lang=\"fr\">Importation et exportation</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_fr.htm\" lang=\"fr\">Aides et financements</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_fr.htm\" lang=\"fr\">Normes environnementales</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_fr.htm\" lang=\"fr\">Marchés publics dans l'UE: réglementation et lignes directrices</a>                </li>             </ul>"
+            ],
+            "ga": [
+                "<h3>Cúrsaí saoil, oibre agus taistil san Aontas Eorpach</h3>             <p>Eolas agus comhairle dlí i dtaobh na gceart atá agat cónaí, obair, taisteal agus staidéar a dhéanamh ar an gcoigríoch, na cearta atá agat cúram sláinte a fháil agus na cearta atá agat mar thomhaltóir san áireamh.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_ga.htm\" lang=\"ga\">Obair agus scor</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_ga.htm\" lang=\"ga\">Oideachas agus an óige </a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_ga.htm\" lang=\"ga\">Cúram sláinte</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_ga.htm\" lang=\"ga\">Cearta tomhaltóirí</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_ga.htm\" lang=\"ga\">Taisteal</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_ga.htm\" lang=\"ga\">Maireachtáil thar lear</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_ga.htm\" lang=\"ga\">Teaghlach – dlíthe i dtíortha eile AE</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_ga.htm\" lang=\"ga\">Tiomáint </a>                </li>             </ul>             <h3>I mbun gnó san AE</h3>             <p>                <span>An dteastaíonn comhairle uait faoi ghnó a dhéanamh thar lear san AE nó lasmuigh de? Tugtar eolas duit anseo faoi chánacha, faoi earraí a allmhairiú agus a onnmhairiú agus faoi thacaíocht airgeadais do ghnólachtaí i measc rudaí eile.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_ga.htm\" lang=\"ga\">Cuideachtaí nuathionscanta</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_ga.htm\" lang=\"ga\">Cáin bhreisluacha agus Custaim</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_ga.htm\" lang=\"ga\">Caighdeáin Eorpacha</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_ga.htm\"                      lang=\"ga\">Earcaíocht agus leas foirne</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_ga.htm\" lang=\"ga\">Allmhairiú agus onnmhairiú</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_ga.htm\" lang=\"ga\">Maoiniú agus tacaíocht</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_ga.htm\" lang=\"ga\">Rialacha comhshaoil</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_ga.htm\" lang=\"ga\">Soláthar poiblí AE – rialacha agus treoirlínte</a>                </li>             </ul>"
+            ],
+            "hr": [
+                "<h3>Vaš život u EU-u</h3>             <p>Informacije i pravni savjeti o pravima na život, rad i studiranje u inozemstvu, uključujući pristup zdravstvenoj skrbi i pravima potrošača.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_hr.htm\" lang=\"hr\">Rad i umirovljenje</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_hr.htm\" lang=\"hr\">Obrazovanje i mladi</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_hr.htm\" lang=\"hr\">Zdravstvena skrb</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_hr.htm\" lang=\"hr\">Prava potrošača</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_hr.htm\" lang=\"hr\">Putovanje</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_hr.htm\" lang=\"hr\">Život u inozemstvu</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_hr.htm\" lang=\"hr\">Obitelj – zakoni u drugim državama članicama EU-a</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_hr.htm\" lang=\"hr\">Vožnja</a>                </li>             </ul>             <h3>Poslovanje u EU-u</h3>             <p>                <span>Trebate savjet o poslovanju u inozemstvu unutar ili izvan EU-a? U ovom odjeljku možete pronaći informacije o porezima, uvozu i izvozu robe te financijskoj potpori za poduzeća kao i o ostalim pitanjima.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_hr.htm\" lang=\"hr\">Nova poduzeća</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_hr.htm\" lang=\"hr\">PDV i carina</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_hr.htm\" lang=\"hr\">Europski standardi</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_hr.htm\"                      lang=\"hr\">Zapošljavanje i skrb o osoblju</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_hr.htm\" lang=\"hr\">Uvoz i izvoz</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_hr.htm\" lang=\"hr\">Financiranje i potpora</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_hr.htm\" lang=\"hr\">Pravila o zaštiti okoliša</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_hr.htm\" lang=\"hr\">Javna nabava u EU-u – pravila i smjernice</a>                </li>             </ul>"
+            ],
+            "hu": [
+                "<h3>Utazás, munkavállalás, letelepedés az EU-ban</h3>             <p>Európai Unión belüli utazásra készül? Másik uniós országban szeretne letelepedni, munkát vállalni, vagy tanulmányokat folytatni? Az alábbi oldalakon hasznos információkat és jogi tanácsokat olvashat az Önt megillető jogokról, ideértve az egészségügyi ellátással kapcsolatos és a fogyasztói jogokat is.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_hu.htm\" lang=\"hu\">Munkavállalás és nyugdíjba vonulás</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_hu.htm\" lang=\"hu\">Oktatás és ifjúságügy</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_hu.htm\" lang=\"hu\">Egészségügyi ellátás</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_hu.htm\" lang=\"hu\">Fogyasztók az EU-ban</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_hu.htm\" lang=\"hu\">Utazás</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_hu.htm\" lang=\"hu\">Letelepedés egy másik tagállamban</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_hu.htm\" lang=\"hu\">Családjogi rendelkezések más EU-országokban</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_hu.htm\" lang=\"hu\">Járművezetés </a>                </li>             </ul>             <h3>Vállalkozói tevékenység az EU-ban</h3>             <p>                <span>Tanácsra van szüksége ahhoz, hogy vállalkozói tevékenységet folytasson külföldön, az Európai Unión belül vagy akár az EU-n kívül? Ez a rész tájékoztatást nyújt az adózásról, az árubehozatalról és -kivitelről, a vállalkozóások előtt nyitva álló pénzügyi támogatási lehetőségekről és más témákról.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_hu.htm\" lang=\"hu\">Vállalkozásindítás</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_hu.htm\" lang=\"hu\">Héa, vámok</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_hu.htm\" lang=\"hu\">Európai szabványok</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_hu.htm\"                      lang=\"hu\">Munkaerő-felvétel és a munkavállalók jóléte</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_hu.htm\" lang=\"hu\">Import és export</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_hu.htm\" lang=\"hu\">Finanszírozás és támogatás</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_hu.htm\" lang=\"hu\">Környezetvédelmi szabályok</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_hu.htm\" lang=\"hu\">Közbeszerzés az EU-ban: szabályok és iránymutatások</a>                </li>             </ul>"
+            ],
+            "it": [
+                "<h3>Vivere, lavorare, viaggiare nell'UE</h3>             <p>Informazioni e consulenza legale sui tuoi diritti a vivere, lavorare, viaggiare e studiare all'estero, compresi l'accesso all'assistenza sanitaria e i diritti dei consumatori.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_it.htm\" lang=\"it\">Lavoro e pensionamento</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_it.htm\" lang=\"it\">Istruzione e giovani</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_it.htm\" lang=\"it\">Assistenza sanitaria</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_it.htm\" lang=\"it\">Diritti dei consumatori</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_it.htm\" lang=\"it\">Viaggiare</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_it.htm\" lang=\"it\">Vivere all'estero</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_it.htm\" lang=\"it\">Famiglia – legislazioni in altri paesi UE</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_it.htm\" lang=\"it\">Automobili</a>                </li>             </ul>             <h3>Fare impresa nell'UE</h3>             <p>                <span>Hai bisogno di consulenza su come operare all'estero, nell'UE o altrove? In questa sezione troverai informazioni su imposte, importazioni ed esportazioni, sostegno finanziario alle imprese e vari altri argomenti.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_it.htm\" lang=\"it\">Nuove imprese</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_it.htm\" lang=\"it\">IVA e dogane</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_it.htm\" lang=\"it\">Norme europee</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_it.htm\"                      lang=\"it\">Assunzioni e benessere del personale</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_it.htm\" lang=\"it\">Importazioni ed esportazioni</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_it.htm\" lang=\"it\">Finanziamenti e sostegno</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_it.htm\" lang=\"it\">Norme ambientali</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_it.htm\" lang=\"it\">Appalti pubblici nell'UE - regole e linee guida</a>                </li>             </ul>"
+            ],
+            "lt": [
+                "<h3>Gyvenimas, darbas ir keliavimas ES</h3>             <p>Informacija ir teisinės konsultacijos apie jūsų teises gyventi, dirbti, keliauti ir mokytis užsienyje, galimybes naudotis sveikatos priežiūros paslaugomis ir vartotojų teisėmis.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_lt.htm\" lang=\"lt\">Darbas ir pensija</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_lt.htm\" lang=\"lt\">Švietimas ir jaunimas</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_lt.htm\" lang=\"lt\">Sveikatos priežiūra</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_lt.htm\" lang=\"lt\">Vartotojų teisės</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_lt.htm\" lang=\"lt\">Kelionės</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_lt.htm\" lang=\"lt\">Gyvenimas užsienyje</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_lt.htm\" lang=\"lt\">Šeima. Kitų ES šalių įstatymai</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_lt.htm\" lang=\"lt\">Vairuotojams </a>                </li>             </ul>             <h3>Verslas ES</h3>             <p>                <span>Reikia patarimo dėl verslo užsienyje – ES arba už jos ribų? Šiame skyriuje rasite informacijos apie mokesčius, prekių importavimą bei eksportavimą, finansinę paramą įmonėms ir kt.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_lt.htm\" lang=\"lt\">Pradedančiosios įmonės</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_lt.htm\" lang=\"lt\">PVM ir muitinė</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_lt.htm\" lang=\"lt\">Europos standartai</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_lt.htm\"                      lang=\"lt\">Įdarbinimas ir darbuotojų gerovė</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_lt.htm\" lang=\"lt\">Importas ir eksportas</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_lt.htm\" lang=\"lt\">Finansavimas ir parama</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_lt.htm\" lang=\"lt\">Aplinkos srities taisyklės</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_lt.htm\" lang=\"lt\">Viešieji pirkimai ES. Taisyklės ir gairės</a>                </li>             </ul>"
+            ],
+            "lv": [
+                "<h3>Dzīve, darbs, ceļošana ES</h3>             <p>Informācija un juridiski ieteikumi par jūsu tiesībām dzīvot, strādāt, ceļot un studēt citās ES valstīs, tostarp par tiesībām uz veselības aprūpi un patērētāju tiesībām.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_lv.htm\" lang=\"lv\">Darbs un pensionēšanās</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_lv.htm\" lang=\"lv\">Izglītība un jaunatne</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_lv.htm\" lang=\"lv\">Veselības aprūpe</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_lv.htm\" lang=\"lv\">Patērētāju tiesības</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_lv.htm\" lang=\"lv\">Ceļošana</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_lv.htm\" lang=\"lv\">Dzīve ārzemēs</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_lv.htm\" lang=\"lv\">Ģimenes tiesības citās ES valstīs</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_lv.htm\" lang=\"lv\">Autovadītājiem </a>                </li>             </ul>             <h3>Uzņēmējdarbība ES</h3>             <p>                <span>Vēlaties izvērst uzņēmējdarbību ārzemēs ES vai aiz tās robežām un meklējat padomu? Šajā sadaļā atradīsit informāciju par nodokļiem, preču importu un eksportu, uzņēmumiem pieejamo finansiālo atbalstu un daudz ko citu.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_lv.htm\" lang=\"lv\">Uzņēmuma izveide</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_lv.htm\" lang=\"lv\">PVN un muita</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_lv.htm\" lang=\"lv\">Eiropas standarti</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_lv.htm\"                      lang=\"lv\">Darbā pieņemšana un darbinieku labklājība</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_lv.htm\" lang=\"lv\">Imports un eksports</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_lv.htm\" lang=\"lv\">Finanses un atbalsts</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_lv.htm\" lang=\"lv\">Vides noteikumi</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_lv.htm\" lang=\"lv\">Publiskais iepirkums ES. Noteikumi un pamatnostādnes</a>                </li>             </ul>"
+            ],
+            "mt": [
+                "<h3>Għajxien, xogħol, ivvjaġġar fl-UE</h3>             <p>Informazzjoni u parir legali dwar id-drittijiet tiegħek li tgħix, taħdem, tivvjaġġa u tistudja barra pajjiżek, inkluż l-aċċess għall-kura tas-saħħa u d-drittijiet tal-konsumatur.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_mt.htm\" lang=\"mt\">Xogħol u rtirar</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_mt.htm\" lang=\"mt\">Edukazzjoni u żgħażagħ</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_mt.htm\" lang=\"mt\">Kura tas-saħħa</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_mt.htm\" lang=\"mt\">Id-drittijiet tal-konsumatur</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_mt.htm\" lang=\"mt\">L-ivvjaġġar</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_mt.htm\" lang=\"mt\">Tgħix barra minn pajjiżek</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_mt.htm\" lang=\"mt\">Familja - liġijiet f'pajjiżi oħra tal-UE</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_mt.htm\" lang=\"mt\">Is-sewqan </a>                </li>             </ul>             <h3>Twettiq ta’ negozju fl-UE</h3>             <p>                <span>Qed tifttex parir dwar kif twettaq negozju barra pajjiżek fl-UE jew lil hinn minnha? Din it-taqsima tipprovdilek informazzjoni dwar it-taxxi, l-importazzjoni u l-esportazzjoni tal-prodotti u l-appoġġ finanzjarju kemm għan-negozji kif ukoll għal temi oħrajn.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_mt.htm\" lang=\"mt\">Negozji ġodda</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_mt.htm\" lang=\"mt\">VAT u Dwani</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_mt.htm\" lang=\"mt\">Standards Ewropej</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_mt.htm\"                      lang=\"mt\">Reklutaġġ u benesseri tal-istaff</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_mt.htm\" lang=\"mt\">Importazzjoni u Esportazzjoni</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_mt.htm\" lang=\"mt\">Finanzi u appoġġ</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_mt.htm\" lang=\"mt\">Regoli ambjentali</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_mt.htm\" lang=\"mt\">Akkwist pubbliku fl-UE - regoli u linji gwida</a>                </li>             </ul>"
+            ],
+            "nl": [
+                "<h3>Wonen, werken en reizen in de EU</h3>             <p>Informatie en juridisch advies over uw rechten (bijv. als patiënt of consument) wanneer u naar een ander EU-land op reis gaat of daar gaat wonen, werken of studeren.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_nl.htm\" lang=\"nl\">Werk en pensioenen</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_nl.htm\" lang=\"nl\">Onderwijs en jeugdzaken</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_nl.htm\" lang=\"nl\">Gezondheidszorg</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_nl.htm\" lang=\"nl\">Uw rechten als consument</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_nl.htm\" lang=\"nl\">Reizen</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_nl.htm\" lang=\"nl\">Wonen in het buitenland</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_nl.htm\" lang=\"nl\">Gezinszaken: wetgeving in andere EU-landen</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_nl.htm\" lang=\"nl\">Autorijden </a>                </li>             </ul>             <h3>Zakendoen in de EU</h3>             <p>                <span>Wilt u advies over zakendoen in het buitenland, binnen of buiten de EU? Hier vindt u informatie over belastingen, in- en uitvoer van goederen, financiële steun voor bedrijven en nog veel meer.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_nl.htm\" lang=\"nl\">Een bedrijf oprichten</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_nl.htm\" lang=\"nl\">Btw en douane</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_nl.htm\" lang=\"nl\">Europese normen</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_nl.htm\"                      lang=\"nl\">Aanwerving en welzijn van personeel</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_nl.htm\" lang=\"nl\">Invoer en uitvoer</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_nl.htm\" lang=\"nl\">Financiën en steun</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_nl.htm\" lang=\"nl\">Milieuvoorschriften</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_nl.htm\" lang=\"nl\">Openbare aanbestedingen in de EU: regels en richtsnoeren</a>                </li>             </ul>"
+            ],
+            "pl": [
+                "<h3>Życie, praca i podróże na obszarze UE</h3>             <p>Informacje i porady prawne na temat prawa do mieszkania i podjęcia pracy lub studiów za granicą oraz do podróżowania po UE, a także na temat dostępu do opieki zdrowotnej i praw konsumenta.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_pl.htm\" lang=\"pl\">Praca i emerytura</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_pl.htm\" lang=\"pl\">Edukacja i młodzież</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_pl.htm\" lang=\"pl\">Opieka zdrowotna</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_pl.htm\" lang=\"pl\">Prawa konsumentów</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_pl.htm\" lang=\"pl\">Podróże</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_pl.htm\" lang=\"pl\">Mieszkać za granicą</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_pl.htm\" lang=\"pl\">Rodzina – prawo w innych krajach UE</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_pl.htm\" lang=\"pl\">Prowadzenie pojazdów </a>                </li>             </ul>             <h3>Prowadzenie firmy w UE</h3>             <p>                <span>Potrzebujesz porady, jak prowadzić działalność gospodarczą w UE lub poza nią? W tym dziale znajdziesz informacje na temat podatków, importu i eksportu towarów, wsparcia finansowego dla przedsiębiorstw oraz na inne tematy.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_pl.htm\" lang=\"pl\">Firmy rozpoczynające działalność</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_pl.htm\" lang=\"pl\">VAT i cła</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_pl.htm\" lang=\"pl\">Normy europejskie</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_pl.htm\"                      lang=\"pl\">Zatrudnianie i sprawy socjalne pracowników</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_pl.htm\" lang=\"pl\">Import i eksport</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_pl.htm\" lang=\"pl\">Finansowanie i pomoc</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_pl.htm\" lang=\"pl\">Przepisy dotyczące ochrony środowiska</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_pl.htm\" lang=\"pl\">Zamówienia publiczne w UE – zasady i wskazówki</a>                </li>             </ul>"
+            ],
+            "pt": [
+                "<h3>Viver, trabalhar e viajar na UE</h3>             <p>Informações e conselhos jurídicos sobre o direito de viver, trabalhar, viajar ou estudar no estrangeiro, incluindo o acesso aos cuidados de saúde e os direitos dos consumidores.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_pt.htm\" lang=\"pt\">Trabalho e reforma</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_pt.htm\" lang=\"pt\">Educação e juventude</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_pt.htm\" lang=\"pt\">Cuidados de saúde</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_pt.htm\" lang=\"pt\">Direitos dos consumidores</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_pt.htm\" lang=\"pt\">Viajar</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_pt.htm\" lang=\"pt\">Viver no estrangeiro</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_pt.htm\" lang=\"pt\">Legislação de outros países da UE relativa à família</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_pt.htm\" lang=\"pt\">Automóveis</a>                </li>             </ul>             <h3>Fazer negócios na UE</h3>             <p>                <span>Precisa de aconselhamento sobre como fazer negócios noutro país, dentro ou fora da UE? Esta secção dá-lhe informações sobre aspetos importantes, nomeadamente impostos, importação e exportação de mercadorias e apoio financeiro às empresas.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_pt.htm\" lang=\"pt\">Startups</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_pt.htm\" lang=\"pt\">IVA e outros impostos</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_pt.htm\" lang=\"pt\">Normas europeias</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_pt.htm\"                      lang=\"pt\">Recrutamento e política de pessoal</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_pt.htm\" lang=\"pt\">Importação e exportação</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_pt.htm\" lang=\"pt\">Financiamento e apoio</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_pt.htm\" lang=\"pt\">Regras ambientais</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_pt.htm\" lang=\"pt\">Contratos públicos na UE: regras e orientações</a>                </li>             </ul>"
+            ],
+            "ro": [
+                "<h3>Viața, munca și călătoriile în UE</h3>             <p>Informaţii privind dreptul de a locui, de a lucra, de a călători şi de a studia în altă ţară, inclusiv dreptul la îngrijiri medicale şi drepturile consumatorilor.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_ro.htm\" lang=\"ro\">Munca şi pensionarea</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_ro.htm\" lang=\"ro\">Educație și tineret</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_ro.htm\" lang=\"ro\">Asistenţă medicală</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_ro.htm\" lang=\"ro\">Drepturile consumatorilor</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_ro.htm\" lang=\"ro\">Călătorii</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_ro.htm\" lang=\"ro\">Persoane care locuiesc în străinătate</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_ro.htm\" lang=\"ro\">Familie – Legislaţiile ţărilor UE</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_ro.htm\" lang=\"ro\">Conducători auto </a>                </li>             </ul>             <h3>Activităţi comerciale</h3>             <p>                <span>Doriţi să desfăşuraţi activităţi comerciale într-un alt stat membru sau în afara UE şi aveţi nevoie de consiliere? Veţi găsi aici informaţii referitoare la impozite, importul/exportul de mărfuri, sprijinul financiar de care pot beneficia întreprinderile şi alte aspecte importante.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_ro.htm\" lang=\"ro\">Întreprinderi noi</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_ro.htm\" lang=\"ro\">TVA și drepturi vamale</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_ro.htm\" lang=\"ro\">Standardele europene</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_ro.htm\"                      lang=\"ro\">Angajare şi bunăstarea salariaţilor</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_ro.htm\" lang=\"ro\">Import şi export</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_ro.htm\" lang=\"ro\">Finanţare şi sprijin</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_ro.htm\" lang=\"ro\">Normele de mediu</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_ro.htm\" lang=\"ro\">Achiziţiile publice în UE - norme şi orientări</a>                </li>             </ul>"
+            ],
+            "sk": [
+                "<h3>Život, práca a cestovanie v EÚ</h3>             <p>Informácie a právne poradenstvo o vašich právach týkajúcich sa pobytu, práce, cestovania a štúdia v zahraničí vrátane prístupu k zdravotnej starostlivosti a práv spotrebiteľa.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_sk.htm\" lang=\"sk\">Práca a dôchodok</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_sk.htm\" lang=\"sk\">Vzdelávanie a mládež</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_sk.htm\" lang=\"sk\">Zdravotná starostlivosť</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_sk.htm\" lang=\"sk\">Práva spotrebiteľa</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_sk.htm\" lang=\"sk\">Cestovanie</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_sk.htm\" lang=\"sk\">Život v zahraničí</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_sk.htm\" lang=\"sk\">Rodina – právne predpisy v iných krajinách EÚ</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_sk.htm\" lang=\"sk\">Pre vodičov </a>                </li>             </ul>             <h3>Podnikanie v EÚ</h3>             <p>                <span>Potrebujete poradenstvo pri podnikaní v zahraničí v rámci EÚ alebo mimo nej? V tejto časti nájdete informácie o daniach, dovoze a vývoze tovaru, finančnej podpore pre podniky a mnohých ďalších oblastiach.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_sk.htm\" lang=\"sk\">Začínajúce podniky</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_sk.htm\" lang=\"sk\">DPH a clá</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_sk.htm\" lang=\"sk\">Európske normy</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_sk.htm\"                      lang=\"sk\">Nábor a sociálne istoty zamestnancov</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_sk.htm\" lang=\"sk\">Dovoz a vývoz</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_sk.htm\" lang=\"sk\">Financie a podpora</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_sk.htm\" lang=\"sk\">Environmentálne normy</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_sk.htm\" lang=\"sk\">Verejné obstarávanie v EÚ – predpisy a usmernenia</a>                </li>             </ul>"
+            ],
+            "sl": [
+                "<h3>Bivanje, delo in potovanje v EU</h3>             <p>Na tej strani boste našli informacije in pravne nasvete o vaših pravicah glede bivanja, dela, potovanja in študija v tujini, vključno z dostopom do zdravstvene oskrbe in pravicami potrošnikov.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_sl.htm\" lang=\"sl\">Zaposlitev in upokojitev</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_sl.htm\" lang=\"sl\">Izobraževanje in mladi</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_sl.htm\" lang=\"sl\">Zdravstveno varstvo</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_sl.htm\" lang=\"sl\">Pravice potrošnikov</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_sl.htm\" lang=\"sl\">Potovanje</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_sl.htm\" lang=\"sl\">Pravica do prebivanja</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_sl.htm\" lang=\"sl\">Družinska zakonodaja v drugih državah EU</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_sl.htm\" lang=\"sl\">Vozila</a>                </li>             </ul>             <h3>Poslovanje v EU</h3>             <p>                <span>Potrebujete pomoč pri poslovanju v tujini – EU ali drugod po svetu? Stran z informacijami o davkih, uvozu in izvozu blaga ter finančni pomoči za podjetja.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_sl.htm\" lang=\"sl\">Zagonska podjetja</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_sl.htm\" lang=\"sl\">DDV in carina</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_sl.htm\" lang=\"sl\">Evropski standardi</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_sl.htm\"                      lang=\"sl\">Zaposlovanje in delovno okolje</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_sl.htm\" lang=\"sl\">Uvoz in izvoz</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_sl.htm\" lang=\"sl\">Financiranje in pomoč</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_sl.htm\" lang=\"sl\">Okoljski predpisi</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_sl.htm\" lang=\"sl\">Javno naročanje v EU – pravila in smernice</a>                </li>             </ul>"
+            ],
+            "sv": [
+                "<h3>Bo, arbeta och resa i EU</h3>             <p>Här hittar du information om att bo, arbeta, resa och studera i andra EU-länder, tillgång till hälso- och sjukvård och dina rättigheter som konsument.</p>             <ul>                <li>                   <a href=\"http://europa.eu/eu-life/work-pensions/index_sv.htm\" lang=\"sv\">Arbete och pension</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/education-training/index_sv.htm\" lang=\"sv\">Utbildning och praktik</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/healthcare/index_sv.htm\" lang=\"sv\">Hälso- och sjukvård</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/consumer-rights/index_sv.htm\" lang=\"sv\">Dina rättigheter som konsument</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/travel-tourism/index_sv.htm\" lang=\"sv\">Resor</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/residence-rights/index_sv.htm\" lang=\"sv\">Bo utomlands</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/family/index_sv.htm\" lang=\"sv\">Familj – lagar i andra EU-länder</a>                </li>                <li>                   <a href=\"http://europa.eu/eu-life/vehicles/index_sv.htm\" lang=\"sv\">Bil och körkort </a>                </li>             </ul>             <h3>Göra affärer i EU</h3>             <p>                <span>Behöver du rådgivning om företagsverksamhet inom eller utanför EU? Här får du information om skatter, import och export av varor, ekonomiskt stöd till företag och andra ämnen.</span>             </p>             <ul>                <li>                   <a href=\"http://europa.eu/business/startups/index_sv.htm\" lang=\"sv\">Nystartade företag</a>                </li>                <li>                   <a href=\"http://europa.eu/business/vat-customs/index_sv.htm\" lang=\"sv\">Moms och tullar</a>                </li>                <li>                   <a href=\"http://europa.eu/business/eu-standards/index_sv.htm\" lang=\"sv\">Europeiska standarder</a>                </li>                <li>                   <a href=\"http://europa.eu/business/recruitment-staff-welfare/index_sv.htm\"                      lang=\"sv\">Rekrytering och arbetsregler</a>                </li>                <li>                   <a href=\"http://europa.eu/business/import-export/index_sv.htm\" lang=\"sv\">Import och export</a>                </li>                <li>                   <a href=\"http://europa.eu/business/finance-support/index_sv.htm\" lang=\"sv\">Finansiering och hjälp</a>                </li>                <li>                   <a href=\"http://europa.eu/business/environment-rules/index_sv.htm\" lang=\"sv\">Miljöregler</a>                </li>                <li>                   <a href=\"http://europa.eu/business/public-contracts/index_sv.htm\" lang=\"sv\">Offentlig upphandling i EU – regler och allmän information</a>                </li>             </ul>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_5b4f2072cfb4993f370776ce4e185f6e"
+            ]
+        }
+    }
+}

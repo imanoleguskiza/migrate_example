@@ -1,0 +1,316 @@
+{
+  "_id": "carrousel2008",
+  "type": "europe-carrousel_item",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "en",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "sv"
+  ],
+  "fields": {
+    "title": {
+      "bg": [
+        2008
+      ],
+      "cs": [
+        2008
+      ],
+      "da": [
+        2008
+      ],
+      "de": [
+        2008
+      ],
+      "el": [
+        2008
+      ],
+      "en": [
+        2008
+      ],
+      "es": [
+        2008
+      ],
+      "et": [
+        2008
+      ],
+      "fi": [
+        2008
+      ],
+      "fr": [
+        2008
+      ],
+      "ga": [
+        2008
+      ],
+      "hu": [
+        2008
+      ],
+      "it": [
+        2008
+      ],
+      "lt": [
+        2008
+      ],
+      "lv": [
+        2008
+      ],
+      "mt": [
+        2008
+      ],
+      "nl": [
+        2008
+      ],
+      "pl": [
+        2008
+      ],
+      "pt": [
+        2008
+      ],
+      "ro": [
+        2008
+      ],
+      "sk": [
+        2008
+      ],
+      "sl": [
+        2008
+      ],
+      "sv": [
+        2008
+      ]
+    },
+    "image_thumb": {
+      "bg": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_ga.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2008_sv.jpg"
+      ]
+    },
+    "image": {
+      "bg": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_ga.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2008_sv.jpg"
+      ]
+    },
+    "image_alt": {
+      "bg": [
+        2008
+      ],
+      "cs": [
+        2008
+      ],
+      "da": [
+        2008
+      ],
+      "de": [
+        2008
+      ],
+      "el": [
+        2008
+      ],
+      "en": [
+        2008
+      ],
+      "es": [
+        2008
+      ],
+      "et": [
+        2008
+      ],
+      "fi": [
+        2008
+      ],
+      "fr": [
+        2008
+      ],
+      "ga": [
+        2008
+      ],
+      "hu": [
+        2008
+      ],
+      "it": [
+        2008
+      ],
+      "lt": [
+        2008
+      ],
+      "lv": [
+        2008
+      ],
+      "mt": [
+        2008
+      ],
+      "nl": [
+        2008
+      ],
+      "pl": [
+        2008
+      ],
+      "pt": [
+        2008
+      ],
+      "ro": [
+        2008
+      ],
+      "sk": [
+        2008
+      ],
+      "sl": [
+        2008
+      ],
+      "sv": [
+        2008
+      ]
+    }
+  }
+}

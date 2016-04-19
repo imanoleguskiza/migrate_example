@@ -1,0 +1,853 @@
+{
+    "_id": "ab15654ac3af0eef40f605f7c6b5040a",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/business/environment-rules/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/business/environment-rules/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/business/environment-rules/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/business/environment-rules/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/business/environment-rules/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/business/environment-rules/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/business/environment-rules/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/business/environment-rules/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/business/environment-rules/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/business/environment-rules/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/business/environment-rules/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/business/environment-rules/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/business/environment-rules/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/business/environment-rules/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/business/environment-rules/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/business/environment-rules/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/business/environment-rules/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/business/environment-rules/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/business/environment-rules/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/business/environment-rules/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/business/environment-rules/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/business/environment-rules/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/business/environment-rules/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/business/environment-rules/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "ЕВРОПА — Правила за околната среда"
+            ],
+            "cs": [
+                "Pravidla v oblasti životního prostředí"
+            ],
+            "da": [
+                "Miljøregler"
+            ],
+            "de": [
+                "Umweltschutzvorschriften"
+            ],
+            "el": [
+                "Περιβαλλοντικοί κανόνες"
+            ],
+            "en": [
+                "Environmental rules"
+            ],
+            "es": [
+                "Normas medioambientales"
+            ],
+            "et": [
+                "Keskkonnaeeskirjad"
+            ],
+            "fi": [
+                "Ympäristösäännöt"
+            ],
+            "fr": [
+                "Normes environnementales"
+            ],
+            "ga": [
+                "Rialacha comhshaoil"
+            ],
+            "hr": [
+                "Pravila o zaštiti okoliša"
+            ],
+            "hu": [
+                "Környezetvédelmi szabályok"
+            ],
+            "it": [
+                "Norme ambientali"
+            ],
+            "lt": [
+                "Aplinkos srities taisyklės"
+            ],
+            "lv": [
+                "Vides noteikumi"
+            ],
+            "mt": [
+                "Regoli ambjentali"
+            ],
+            "nl": [
+                "Milieuvoorschriften"
+            ],
+            "pl": [
+                "Przepisy dotyczące ochrony środowiska"
+            ],
+            "pt": [
+                "Regras ambientais"
+            ],
+            "ro": [
+                "Normele de mediu"
+            ],
+            "sk": [
+                "Environmentálne normy"
+            ],
+            "sl": [
+                "Okoljski predpisi"
+            ],
+            "sv": [
+                "Miljöregler"
+            ]
+        },
+        "category": {
+            "und": [
+                "60623c2"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "/INDEX/HP/EN"
+            ],
+            "cs": [
+                "/INDEX/HP/EN"
+            ],
+            "da": [
+                "/INDEX/HP/EN"
+            ],
+            "de": [
+                "/INDEX/HP/EN"
+            ],
+            "el": [
+                "/INDEX/HP/EN"
+            ],
+            "en": [
+                "/INDEX/HP/EN"
+            ],
+            "es": [
+                "/INDEX/HP/EN"
+            ],
+            "et": [
+                "/INDEX/HP/EN"
+            ],
+            "fi": [
+                "/INDEX/HP/EN"
+            ],
+            "fr": [
+                "/INDEX/HP/EN"
+            ],
+            "ga": [
+                "/INDEX/HP/EN"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "/INDEX/HP/EN"
+            ],
+            "it": [
+                "/INDEX/HP/EN"
+            ],
+            "lt": [
+                "/INDEX/HP/EN"
+            ],
+            "lv": [
+                "/INDEX/HP/EN"
+            ],
+            "mt": [
+                "/INDEX/HP/EN"
+            ],
+            "nl": [
+                "/INDEX/HP/EN"
+            ],
+            "pl": [
+                "/INDEX/HP/EN"
+            ],
+            "pt": [
+                "/INDEX/HP/EN"
+            ],
+            "ro": [
+                "/INDEX/HP/EN"
+            ],
+            "sk": [
+                "/INDEX/HP/EN"
+            ],
+            "sl": [
+                "/INDEX/HP/EN"
+            ],
+            "sv": [
+                "/INDEX/HP/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM-C02"
+            ],
+            "cs": [
+                "COMM/COMM-C02"
+            ],
+            "da": [
+                "COMM/COMM-C02"
+            ],
+            "de": [
+                "COMM/COMM-C02"
+            ],
+            "el": [
+                "COMM/COMM-C02"
+            ],
+            "en": [
+                "COMM/COMM/A5"
+            ],
+            "es": [
+                "COMM/COMM-C02"
+            ],
+            "et": [
+                "COMM/COMM-C02"
+            ],
+            "fi": [
+                "COMM/COMM-C02"
+            ],
+            "fr": [
+                "COMM/COMM-C02"
+            ],
+            "ga": [
+                "COMM/COMM-C02"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "COMM/COMM-C02"
+            ],
+            "it": [
+                "COMM/COMM-C02"
+            ],
+            "lt": [
+                "COMM/COMM-C02"
+            ],
+            "lv": [
+                "COMM/COMM-C02"
+            ],
+            "mt": [
+                "COMM/COMM-C02"
+            ],
+            "nl": [
+                "COMM/COMM-C02"
+            ],
+            "pl": [
+                "COMM/COMM-C02"
+            ],
+            "pt": [
+                "COMM/COMM-C02"
+            ],
+            "ro": [
+                "COMM/COMM-C02"
+            ],
+            "sk": [
+                "COMM/COMM-C02"
+            ],
+            "sl": [
+                "COMM/COMM-C02"
+            ],
+            "sv": [
+                "COMM/COMM-C02"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Преглед на правилата на ЕС за околната среда и търговията с емисии"
+            ],
+            "cs": [
+                "Pravidla EU týkající se životního prostředí a obchodování s emisemi"
+            ],
+            "da": [
+                "Oversigt over EU's miljøregler og handel med emissioner"
+            ],
+            "de": [
+                "Überblick über die EU-Umweltschutzvorschriften und den Emissionshandel"
+            ],
+            "el": [
+                "Περιβαλλοντικοί κανόνες της ΕΕ και εμπορία δικαιωμάτων εκπομπής"
+            ],
+            "en": [
+                "Overview of EU environmental rules and emissions trading"
+            ],
+            "es": [
+                "Normativa medioambiental europea y comercio de emisiones: panorama general"
+            ],
+            "et": [
+                "Ülevaade ELi keskkonnaeeskirjadest ja heitkogustega kauplemisest"
+            ],
+            "fi": [
+                "Katsaus EU:n ympäristölainsäädäntöön ja päästökauppaan"
+            ],
+            "fr": [
+                "Aperçu des normes environnementales et du système d'échange de quotas d'émission de l'UE"
+            ],
+            "ga": [
+                "Forléargas ar rialacha comhshaoil an AE agus trádáil astaíochtaí"
+            ],
+            "hr": [
+                "Pravila EU-a o zaštiti okoliša i trgovanje emisijskim jedinicama"
+            ],
+            "hu": [
+                "Az európai uniós környezetvédelmi szabályok és a kibocsátáskereskedelem áttekintése"
+            ],
+            "it": [
+                "Panoramica delle norme ambientali dell'UE e del sistema per lo scambio delle quote di emissioni"
+            ],
+            "lt": [
+                "ES aplinkos srities taisyklių ir prekybos apyvartiniais taršos leidimais apžvalga"
+            ],
+            "lv": [
+                "ES vides noteikumu un emisijas kvotu tirdzniecības apskats"
+            ],
+            "mt": [
+                "Ħarsa lejn ir-regoli ambjentali tal-UE u skambju tal-emissjonijiet"
+            ],
+            "nl": [
+                "Overzicht van de EU-milieuvoorschriften en het emissiehandelsstelsel"
+            ],
+            "pl": [
+                "Przepisy UE w zakresie ochrony środowiska i informacje o handlu uprawnieniami do emisji"
+            ],
+            "pt": [
+                "Regras ambientais da UE e comércio de emissões"
+            ],
+            "ro": [
+                "Normele de mediu ale UE şi sistemul de comercializare a certificatelor de emisii "
+            ],
+            "sk": [
+                "Prehľad environmentálnych pravidiel EÚ a informácie o obchodovaní s emisiami"
+            ],
+            "sl": [
+                "Okoljski predpisi EU in trgovanje z emisijami"
+            ],
+            "sv": [
+                "Överblick över EU:s miljöregler och utsläppshandel"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "Правила за околната среда",
+                "спазване",
+                "търговия с емисии на парни",
+                "климат",
+                "европейски институции",
+                "EUROPA",
+                "ЕС"
+            ],
+            "cs": [
+                "Pravidla pro oblast životního prostředí",
+                "dodržování, plnění, předpisů, pravidel",
+                "obchodování s emisemi",
+                "klima",
+                "evropské orgány a instituce",
+                "EUROPA",
+                "EU"
+            ],
+            "da": [
+                "Miljøregler",
+                "overholde",
+                "handel med emissioner",
+                "klima",
+                "EU-institutioner",
+                "EUROPA",
+                "EU"
+            ],
+            "de": [
+                "Umweltschutzvorschriften",
+                "Einhaltung, einhalten",
+                "Emissionshandel",
+                "Klima",
+                "europäische Institutionen",
+                "EUROPA",
+                "EU"
+            ],
+            "el": [
+                "Περιβαλλοντικοί κανόνες",
+                "συμμόρφωση",
+                "εμπορία δικαιωμάτων εκπομ",
+                "κλίμα",
+                "ευρωπαϊκά θεσμικά όργανα",
+                "EUROPA",
+                "ΕΕ"
+            ],
+            "en": [
+                "Environmental rules",
+                "comply",
+                "emissions trading",
+                "climate",
+                "European institutions",
+                "EUROPA",
+                "EU"
+            ],
+            "es": [
+                "Normas medioambientales",
+                "cumplir",
+                "comercio de derechos de emisión",
+                "clima",
+                "instituciones europeas",
+                "EUROPA",
+                "UE"
+            ],
+            "et": [
+                "Keskkonnaeeskirjad",
+                "täitma",
+                "heitkogustega kauplemine",
+                "kliima",
+                "Euroopa Liidu institutsioonid",
+                "EUROPA",
+                "EL"
+            ],
+            "fi": [
+                "Ympäristölainsäädäntö",
+                "noudattaa",
+                "päästökauppa",
+                "ilmasto",
+                "EU:n toimielimet",
+                "EUROPA",
+                "EU"
+            ],
+            "fr": [
+                "Normes environnementales",
+                "se conformer",
+                "échange de droits d’émission",
+                "climat",
+                "institutions européennes",
+                "EUROPA",
+                "UE"
+            ],
+            "ga": [
+                "Rialacha comhshaoil",
+                "comhlíonadh",
+                "trádáil astaíochtaí",
+                "aeráid",
+                "Institiúidí Eorpacha",
+                "EUROPA",
+                "AE"
+            ],
+            "hr": [
+                "Pravila o zaštiti okoliša",
+                "pridržavanje",
+                "trgovanje emisijskim jedinicama",
+                "klima",
+                "europske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "hu": [
+                "környezetvédelmi szabályok",
+                "megfelelés",
+                "kibocsátási kvóták kereskedelme",
+                "éghajlat",
+                "európai intézmények, uniós intézmények",
+                "EUROPA",
+                "EU"
+            ],
+            "it": [
+                "norme ambientali",
+                "rispettare",
+                "scambio delle quote di emissioni",
+                "clima",
+                "istituzioni europee",
+                "EUROPA",
+                "UE"
+            ],
+            "lt": [
+                "Aplinkos srities taisyklės",
+                "atitikti, laikytis",
+                "prekyba apyvartiniais taršos leidimais",
+                "klimatas",
+                "Europos institucijos",
+                "EUROPA",
+                "ES"
+            ],
+            "lv": [
+                "Vides noteikumi",
+                "ievērot",
+                "emisijas kvotu tirdzniecība",
+                "klimats, klimata",
+                "Eiropas Savienības iestādes, institūcijas",
+                "Portāls “EUROPA”",
+                "ES"
+            ],
+            "mt": [
+                "Regoli ambjentali",
+                "konformi",
+                "skambju tal-emissjonijiet",
+                "klima",
+                "Istituzzjonijiet Ewropej",
+                "Fittex fuq EUROPA",
+                "UE"
+            ],
+            "nl": [
+                "milieuvoorschriften",
+                "naleving",
+                "emissiehandel",
+                "klimaat",
+                "Europese instellingen",
+                "EUROPA",
+                "EU"
+            ],
+            "pl": [
+                "Przepisy dotyczące ochrony środowiska",
+                "wymogi",
+                "handel uprawnieniami do emisji",
+                "klimat",
+                "instytucje europejskie",
+                "EUROPA",
+                "UE"
+            ],
+            "pt": [
+                "regras ambientais",
+                "conformidade",
+                "comércio de emissões",
+                "clima",
+                "instituições europeias",
+                "europa",
+                "ue"
+            ],
+            "ro": [
+                "Norme de mediu",
+                "repectare",
+                "comercializarea certificatelor de emisii de gaze",
+                "mediu",
+                "instituţii europene",
+                "europa",
+                "ue"
+            ],
+            "sk": [
+                "environmentálne pravidlá",
+                "dodržiavanie, súlad",
+                "obchodovanie s emisiami",
+                "klíma",
+                "Európske inštitúcie",
+                "EUROPA",
+                "EÚ"
+            ],
+            "sl": [
+                "Okoljski predpisi",
+                "spoštovanje",
+                "trgovanje z emisijami",
+                "podnebje",
+                "evropske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "sv": [
+                "miljöregler",
+                "efterlevnad, uppfylla",
+                "utsläppshandel",
+                "klimat",
+                "europeiska institutioner",
+                "europa, europa.eu",
+                "eu"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">ЕВРОПА — Правила за околната среда</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Спазване на правилата на ЕС за околната среда</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_bg.htm\">                                              <span>Сертифициране по EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_bg.htm\">                                              <span>Енергийни етикети</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_bg.htm\">                                              <span>Изисквания за екопроектиране</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_bg.htm\">                                              <span>Кандидатстване за екомаркировка на ЕС</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "cs": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Pravidla v oblasti životního prostředí</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Dodržování pravidel EU v oblasti životního prostředí</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_cs.htm\">                                              <span>Certifikace EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_cs.htm\">                                              <span>Energetické štítky</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_cs.htm\">                                              <span>Požadavky na ekodesign</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_cs.htm\">                                              <span>Jak zažádat o ekoznačku EU</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "da": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Miljøregler</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Overholdelse af EU's miljøregler</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_da.htm\">                                              <span>EMAS-certificering</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_da.htm\">                                              <span>Energimærker</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_da.htm\">                                              <span>Krav til miljøvenligt design</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_da.htm\">                                              <span>Ansøg om EU's økomærke</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "de": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Umweltschutzvorschriften</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Einhaltung der EU-Umweltschutzvorschriften</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_de.htm\">                                              <span>EMAS-Zertifizierung</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_de.htm\">                                              <span>Energiekennzeichen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_de.htm\">                                              <span>Ökodesign-Anforderungen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_de.htm\">                                              <span>Beantragung des EU-Umweltzeichens</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "el": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Περιβαλλοντικοί κανόνες</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Συμμόρφωση με τους περιβαλλοντικούς κανόνες της ΕΕ</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_el.htm\">                                              <span>Πιστοποίηση EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_el.htm\">                                              <span>Ενεργειακό σήμα</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_el.htm\">                                              <span>Απαιτήσεις οικολογικού σχεδιασμού</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_el.htm\">                                              <span>Υποβολή αίτησης για χορήγηση οικολογικού σήματος της ΕΕ</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "en": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Environmental rules</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Complying with EU environmental rules</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_en.htm\">                                              <span>EMAS certification</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_en.htm\">                                              <span>Energy labels</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_en.htm\">                                              <span>Eco-design requirements</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_en.htm\">                                              <span>Apply for an EU ecolabel</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "es": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Normas medioambientales</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Cumplir la normativa medioambiental europea</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_es.htm\">                                              <span>Certificación EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_es.htm\">                                              <span>Etiquetas energéticas</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_es.htm\">                                              <span>Requisitos de diseño ecológico</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_es.htm\">                                              <span>Solicitar la etiqueta ecológica de la UE</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "et": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Keskkonnaeeskirjad</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Vastavus ELi keskkonnaeeskirjadele</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_et.htm\">                                              <span>EMASi sertifikaat</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_et.htm\">                                              <span>Energiamärgised</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_et.htm\">                                              <span>Ökodisaini nõuded</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_et.htm\">                                              <span>Taotle ELi ökomärgist</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fi": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Ympäristösäännöt</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">EU:n ympäristösääntöjen noudattaminen</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_fi.htm\">                                              <span>EMAS-sertifiointi</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_fi.htm\">                                              <span>Energiamerkintä</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_fi.htm\">                                              <span>Ekosuunnitteluvaatimukset</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_fi.htm\">                                              <span>Hae EU-ympäristömerkkiä</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Normes environnementales</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Respecter les normes environnementales de l'UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_fr.htm\">                                              <span>Certification EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_fr.htm\">                                              <span>Étiquettes énergétiques</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_fr.htm\">                                              <span>Exigences d'écoconception</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_fr.htm\">                                              <span>Introduire une demande de label écologique de l’UE</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ga": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Rialacha comhshaoil</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Rialacha comhshaoil an AE a chomhlíonadh</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_ga.htm\">                                              <span>Deimhniú EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_ga.htm\">                                              <span>Lipéid fuinnimh</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_ga.htm\">                                              <span>Ceanglais éicidhearthóireachta</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_ga.htm\">                                              <span>Éicilipéad de chuid AE a iarraidh</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Pravila o zaštiti okoliša</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Pridržavanje pravila EU-a o zaštiti okoliša</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_hr.htm\">                                              <span>Registracija u sustavu EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_hr.htm\">                                              <span>Oznake energetske učinkovitosti</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_hr.htm\">                                              <span>Zahtjevi za ekološki dizajn</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_hr.htm\">                                              <span>Podnesite zahtjev za znak za okoliš EU-a</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hu": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Környezetvédelmi szabályok</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Az európai uniós környezetvédelmi szabályoknak való megfelelés</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_hu.htm\">                                              <span>EMAS-tanúsítás</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_hu.htm\">                                              <span>Energiafogyasztási címkék</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_hu.htm\">                                              <span>A környezettudatos tervezésre vonatkozó követelmények</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_hu.htm\">                                              <span>Uniós ökocímke igénylése</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "it": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Norme ambientali</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Rispettare le norme ambientali dell'UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_it.htm\">                                              <span>Certificazione EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_it.htm\">                                              <span>Etichette energetiche</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_it.htm\">                                              <span>Requisiti in materia di progettazione ecocompatibile</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_it.htm\">                                              <span>Chiedere un marchio di qualità ecologica (Ecolabel UE)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Aplinkos srities taisyklės</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">ES aplinkos srities taisyklių laikymasis</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_lt.htm\">                                              <span>EMAS sertifikatas</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_lt.htm\">                                              <span>Energijos vartojimo efektyvumo etiketės</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_lt.htm\">                                              <span>Ekologinio projektavimo reikalavimai</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_lt.htm\">                                              <span>ES ekologinio ženklo paraiška</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Vides noteikumi</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">ES vides noteikumu ievērošana</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_lv.htm\">                                              <span>EMAS sertifikāts</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_lv.htm\">                                              <span>Energomarķējums</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_lv.htm\">                                              <span>Ekodizaina prasības</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_lv.htm\">                                              <span>Pieteikšanās ES ekomarķējumam</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "mt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Regoli ambjentali</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Konformità mar-regoli ambjentali tal-UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_mt.htm\">                                              <span>Iċ-ċertifikazzjoni EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_mt.htm\">                                              <span>Tikketti tal-enerġija</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_mt.htm\">                                              <span>Ir-rekwiżiti tal-ekodisinn</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_mt.htm\">                                              <span>L-applikazzjoni għal ekotikketta tal-UE</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "nl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Milieuvoorschriften</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">EU-milieuvoorschriften naleven</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_nl.htm\">                                              <span>EMAS-certificering</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_nl.htm\">                                              <span>Energielabel</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_nl.htm\">                                              <span>Ecologisch ontwerp</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_nl.htm\">                                              <span>Een EU-milieukeur aanvragen</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Przepisy dotyczące ochrony środowiska</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Zgodność z unijnymi przepisami w zakresie ochrony środowiska</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_pl.htm\">                                              <span>Certyfikacja EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_pl.htm\">                                              <span>Etykietowanie energetyczne</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_pl.htm\">                                              <span>Wymogi dotyczące ekoprojektu</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_pl.htm\">                                              <span>Jak uzyskać oznakowanie ekologiczne UE</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Regras ambientais</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Conformidade com as regras ambientais da UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_pt.htm\">                                              <span>Certificação EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_pt.htm\">                                              <span>Rótulos energéticos</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_pt.htm\">                                              <span>Requisitos de conceção ecológica</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_pt.htm\">                                              <span>Candidatar-se a um rótulo ecológico da UE</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ro": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Normele de mediu</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Respectarea normelor de mediu</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_ro.htm\">                                              <span>Certificarea EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_ro.htm\">                                              <span>Etichetele energetice</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_ro.htm\">                                              <span>Cerințe în materie de proiectare ecologică</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_ro.htm\">                                              <span>Solicitați eticheta ecologică a UE</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sk": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Environmentálne normy</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Dodržiavanie environmentálnych noriem EÚ</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_sk.htm\">                                              <span>Certifikácia EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_sk.htm\">                                              <span>Energetické štítky</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_sk.htm\">                                              <span>Požiadavky na ekodizajn</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_sk.htm\">                                              <span>Požiadajte o environmentálnu značku EÚ</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Okoljski predpisi</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Upoštevanje okoljskih predpisov EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_sl.htm\">                                              <span>Registracija v sistemu EMAS</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_sl.htm\">                                              <span>Energijske nalepke</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_sl.htm\">                                              <span>Ekološko načrtovanje izdelkov</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_sl.htm\">                                              <span>Kako do znaka za okolje EU</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Miljöregler</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">EU:s miljöregler</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/emas-certification/index_sv.htm\">                                              <span>Emas-certifiering</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/energy-labels/index_sv.htm\">                                              <span>Energimärkning</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-design/index_sv.htm\">                                              <span>Ekodesignkrav</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/environment/eco-label/index_sv.htm\">                                              <span>Ansök om EU:s miljömärke</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_ab15654ac3af0eef40f605f7c6b5040a"
+            ]
+        }
+    }
+}

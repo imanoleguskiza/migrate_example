@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e076e70",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e076e70",
+        "080126248e076e70",
+        "080126248e076e70",
+        "080126248e076e70"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Агенция за опазване на морския транспорт(EMSA)"
+      ],
+      "cs": [
+        "Evropská agentura pro námořní bezpečnost(EMSA)"
+      ],
+      "da": [
+        "Det Europæiske Søfartssikkerhedsagentur(EMSA)"
+      ],
+      "de": [
+        "Europäische Agentur für die Sicherheit des Seeverkehrs(EMSA)"
+      ],
+      "el": [
+        "Ευρωπαϊκός Οργανισμός για την Ασφάλεια στη Θάλασσα(EMSA)"
+      ],
+      "en": [
+        "European Maritime Safety Agency(EMSA)"
+      ],
+      "es": [
+        "Agencia Europea de Seguridad Marítima(EMSA)"
+      ],
+      "et": [
+        "Euroopa Meresõiduohutuse Amet(EMSA)"
+      ],
+      "fi": [
+        "Euroopan meriturvallisuusvirasto(EMSA)"
+      ],
+      "fr": [
+        "Agence européenne pour la sécurité maritime(EMSA)"
+      ],
+      "ga": [
+        "An Ghníomhaireacht Eorpach um Shábháilteacht Mhuirí(EMSA)"
+      ],
+      "hr": [
+        "Europska agencija za pomorsku sigurnost(EMSA)"
+      ],
+      "hu": [
+        "Európai Tengerbiztonsági Ügynökség(EMSA)"
+      ],
+      "it": [
+        "Agenzia europea per la sicurezza marittima(EMSA)"
+      ],
+      "lt": [
+        "Europosjūrų saugumoagenta(EMSA)"
+      ],
+      "lv": [
+        "Eiropas Jūras drošības aģentūra(EMSA)"
+      ],
+      "mt": [
+        "l-Aġenzija Ewropea għas-Sigurtà Marittima(EMSA)"
+      ],
+      "nl": [
+        "Europees Agentschap voor maritieme veiligheid(EMSA)"
+      ],
+      "pl": [
+        "Europejska Agencja ds. Bezpieczeństwa na Morzu(EMSA)"
+      ],
+      "pt": [
+        "Agência Europeia da Segurança Marítima(EMSA)"
+      ],
+      "ro": [
+        "Agenţia Europeană pentru Siguranţa Maritimă(EMSA)"
+      ],
+      "sk": [
+        "Európska námorná bezpečnostná agentúra(EMSA)"
+      ],
+      "sl": [
+        "Evropska agencija za pomorsko varnost(EMSA)"
+      ],
+      "sv": [
+        "Europeiska sjösäkerhetsbyrån(Emsa)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/emsa_logo.gif"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Praça Europa 4</p> <p>1249-206 Lisbon</p> <p>Portugal</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+351 21 1209 200"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+351 21 1209 210"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:information@emsa.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact EMSA"
+      ]
+    }
+  }
+}

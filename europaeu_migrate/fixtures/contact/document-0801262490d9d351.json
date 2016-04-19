@@ -1,0 +1,73 @@
+{
+  "_id": "0801262490d9d351",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "en"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "0801262490d9d351",
+        "0801262490d9d351",
+        "0801262490d9d351",
+        "0801262490d9d351",
+        "0801262490d9d351",
+        "0801262490d9d351"
+      ]
+    },
+    "title": {
+      "en": [
+        "European Banking Authority(EBA)"
+      ]
+    },
+    "logo": {
+      "en": [
+        "http://europa.eu/contact/images/agencies/eba_logo.gif"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p><span>One Canada Square (Floor 46)</span><br /><span>Canary Wharf</span><br /><span>London E14 5AA| UK</span></p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+44 (0)207 382 1776"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+44 (0)207 382 1771"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:info@eba.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact"
+      ]
+    },
+    "social_url": {
+      "en": [
+        "https://twitter.com/EBA_News",
+        "https://www.youtube.com/channel/UCdA4XI3lkdlllcNlTR3AHbA"
+      ]
+    },
+    "social_label": {
+      "en": [
+        "Twitter ",
+        "YouTube"
+      ]
+    }
+  }
+}

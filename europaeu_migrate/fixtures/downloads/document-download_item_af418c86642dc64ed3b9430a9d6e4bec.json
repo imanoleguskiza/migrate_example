@@ -1,0 +1,351 @@
+{
+    "_id": "download_item_af418c86642dc64ed3b9430a9d6e4bec",
+    "type": "download_item",
+    "default_language": "en",
+    "languages": [
+        "hr",
+        "en",
+        "sk",
+        "ro",
+        "nl",
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hu",
+        "it",
+        "pt",
+        "mt",
+        "lv",
+        "pl",
+        "lt",
+        "sv",
+        "sl"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Европа и вие - Кратък преглед на постиженията на ЕС ",
+                "Европа говори – езиците в Европейския съюз",
+                "Европа за жените"
+            ],
+            "cs": [
+                "Evropa a vy - Shrnutí dosažených výsledků EU",
+                "Řeč pro Evropu – Jazyky v Evropské unii",
+                "Evropa pro ženy"
+            ],
+            "da": [
+                "EU og dig - Et øjebliksbillede af EU’s resultater",
+                "Sproglig mangfoldighed i Europa – EU og sprog",
+                "Et Europa for kvinder"
+            ],
+            "de": [
+                "Europa und Sie - Was die EU erreicht hat : eine Momentaufnahme",
+                "Viele Sprachen für ein Europa – Sprachen in der Europäischen Union",
+                "Europa für Frauen"
+            ],
+            "el": [
+                "Εσείς και η Ευρώπη - Μια σύντομη επισκόπηση των επιτευγμάτων της Ευρωπαϊκής Ένωσης",
+                "Μιλώντας για την Ευρώπη - Οι γλώσσες στην Ευρωπαϊκή Ένωση",
+                "Η Ευρώπη για τις γυναίκες"
+            ],
+            "en": [
+                "Europe and you - A snapshot of EU achievements",
+                "Speaking for Europe - Languages in the European Union",
+                "Europe for women"
+            ],
+            "es": [
+                "Europa y usted - Resumen de los logros de la Unión Europea",
+                "Hablar las lenguas europeas – Las lenguas en la Unión Europea",
+                "Una Europa para las mujeres"
+            ],
+            "et": [
+                "Euroopa ja Sina - Läbilõige ELi saavutustest",
+                "Euroopa nimel kõneldes - Keeled Euroopa Liidus",
+                "Euroopa naiste jaoks"
+            ],
+            "fi": [
+                "Eurooppa ja sinä - Katsaus EU:n saavutuksiin",
+                "Kielet Euroopan puolesta – Kielet Euroopan unionissa",
+                "Eurooppa naisille"
+            ],
+            "fr": [
+                "L'Europe et vous - Quelques instantanés de l'Union européenne en action",
+                "Parler les langues de l'Europe – Les langues dans l'Union européenne",
+                "L'Europe pour les femmes"
+            ],
+            "ga": [
+                "Tusa agus an Eoraip - Léargas ar an méid atá bainte amach ag an AE",
+                "Ag labhairt ar son na hEorpa - Teangacha san Aontas Eorpach",
+                "An Eoraip do mhná"
+            ],
+            "hr": [
+                "EU i Vi - praktični primjeri što EU čini",
+                "Govoriti za Europu - Jezici u Europskoj uniji",
+                "Europa za žene"
+            ],
+            "hu": [
+                "Európa és ön - Az EU vívmányainak áttekintése",
+                "A beszélő Európa nevében – Nyelvek az Európai Unióban",
+                "Európa a nőkért"
+            ],
+            "it": [
+                "L’Europa e voi - Una panoramica dei successi dell’Unione europea",
+                "Parlare le lingue europee - Le lingue nell'Unione europea",
+                "L'Europa per le donne"
+            ],
+            "lt": [
+                "Europa ir jūs - ES laimėjimų apžvalga",
+                "„Daugiabalsė Europa. Kalbos Europos Sąjungoje“",
+                "„Europa moterims“"
+            ],
+            "lv": [
+                "Eiropa un tu - Ieskats ES sasniegumos",
+                "Runājot Eiropas valodā (valodas Eiropas Savienībā)",
+                "Eiropa sievietēm"
+            ],
+            "mt": [
+                "L-Ewropa u int - Ħarsa ħafifa lejn il-kisbiet tal-UE",
+                "Nitkellmu għall-Ewropa - Il-lingwi fl-Unjoni Ewropea",
+                "L-Ewropa għan-nisa"
+            ],
+            "nl": [
+                "Europa en u - Overzicht van de belangrijkste resultaten",
+                "Europa op de bres voor meertaligheid - Talen in de Europese Unie",
+                "Europa voor vrouwen"
+            ],
+            "pl": [
+                "Europa i Ty - Przegląd osiągnięć Unii Europejskiej",
+                "Po europejsku − Języki w Unii Europejskiej",
+                "Europa dla kobiet"
+            ],
+            "pt": [
+                "A Europa consigo - Breve perspectiva do que fez a União Europeia ao longo deste ano",
+                "Falar as línguas da Europa - As línguas na União Europeia",
+                "Uma Europa para as mulheres"
+            ],
+            "ro": [
+                "Europa şi voi - Instantanee ale realizărilor UE",
+                "Vorbind pentru Europa - Limbile în Uniunea Europeană",
+                "Europa pentru femei"
+            ],
+            "sk": [
+                "Európa a vy - Stručný prehľad úspechov EÚ",
+                "Európa hovorí – Jazyky v Európskej únii",
+                "Európa pre ženy"
+            ],
+            "sl": [
+                "Evropa in vi - Kratek pregled dosežkov EU",
+                "Govoriti za Evropo: jeziki v Evropski uniji",
+                "Evropa za ženske"
+            ],
+            "sv": [
+                "Europa och du - En snabbskiss över EU:s insatser",
+                "Att föra Europas talan – Språken i EU",
+                "Europa för kvinnor"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://bookshop.europa.eu/bg/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/bg/--pbNAAB08127/",
+                "http://bookshop.europa.eu/bg/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "cs": [
+                "http://bookshop.europa.eu/cs/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/cs/-e-pro-evropu-pbNAAB08127/",
+                "http://bookshop.europa.eu/cs/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "da": [
+                "http://bookshop.europa.eu/da/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/da/sproglig-mangfoldighed-i-europa-pbNAAB08127/",
+                "http://bookshop.europa.eu/da/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "de": [
+                "http://bookshop.europa.eu/de/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/de/viele-sprachen-fuer-ein-europa-pbNAAB08127/",
+                "http://bookshop.europa.eu/de/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "el": [
+                "http://bookshop.europa.eu/el/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/el/--pbNAAB08127/",
+                "http://bookshop.europa.eu/el/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "en": [
+                "http://bookshop.europa.eu/en/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/en/speaking-for-europe-pbNAAB08127/",
+                "http://bookshop.europa.eu/en/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "es": [
+                "http://bookshop.europa.eu/es/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/es/hablar-las-lenguas-europeas-pbNAAB08127/",
+                "http://bookshop.europa.eu/es/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "et": [
+                "http://bookshop.europa.eu/et/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/et/euroopa-nimel-k-neldes-pbNAAB08127/",
+                "http://bookshop.europa.eu/et/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "fi": [
+                "http://bookshop.europa.eu/fi/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/fi/kielet-euroopan-puolesta-pbNAAB08127/",
+                "http://bookshop.europa.eu/fi/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "fr": [
+                "http://bookshop.europa.eu/fr/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/fr/parler-les-langues-de-l-europe-pbNAAB08127/",
+                "http://bookshop.europa.eu/fr/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "ga": [
+                "http://europa.eu/nolink",
+                "http://bookshop.europa.eu/ga/speaking-for-europe-pbNAAB08127/",
+                "http://bookshop.europa.eu/ga/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "hr": [
+                "http://europa.eu/nolink",
+                "http://bookshop.europa.eu/hr/speaking-for-europe-pbNAAB08127/",
+                "empty"
+            ],
+            "hu": [
+                "http://bookshop.europa.eu/hu/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/hu/eur-pa-nev-ben-pbNAAB08127/",
+                "http://bookshop.europa.eu/hu/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "it": [
+                "http://bookshop.europa.eu/it/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/it/parlare-le-lingue-europee-pbNAAB08127/",
+                "http://bookshop.europa.eu/it/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "lt": [
+                "http://bookshop.europa.eu/lt/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/lt/daugiabals-europa-pbNAAB08127/",
+                "http://bookshop.europa.eu/lt/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "lv": [
+                "http://bookshop.europa.eu/lv/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/lv/run-jot-eiropas-valod--pbNAAB08127/",
+                "http://bookshop.europa.eu/lv/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "mt": [
+                "http://europa.eu/nolink",
+                "http://bookshop.europa.eu/mt/nitkellmu-g-all-ewropa-pbNAAB08127/",
+                "http://bookshop.europa.eu/mt/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "nl": [
+                "http://bookshop.europa.eu/nl/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/nl/europa-op-de-bres-voor-meertaligheid-pbNAAB08127/",
+                "http://bookshop.europa.eu/nl/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "pl": [
+                "http://bookshop.europa.eu/pl/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/pl/po-europejsku-pbNAAB08127/",
+                "http://bookshop.europa.eu/pl/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "pt": [
+                "http://bookshop.europa.eu/pt/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/pt/falar-as-l-nguas-da-europa-pbNAAB08127/",
+                "http://bookshop.europa.eu/pt/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "ro": [
+                "http://bookshop.europa.eu/ro/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/ro/vorbind-pentru-europa-pbNAAB08127/",
+                "http://bookshop.europa.eu/ro/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "sk": [
+                "http://bookshop.europa.eu/sk/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/sk/eur-pa-hovor--pbNAAB08127/",
+                "http://bookshop.europa.eu/sk/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "sl": [
+                "http://bookshop.europa.eu/sl/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/sl/govoriti-za-evropo-pbNAAB08127/",
+                "http://bookshop.europa.eu/sl/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ],
+            "sv": [
+                "http://bookshop.europa.eu/sv/europe-and-you-pbNA3110661/?CatalogCategoryID=tgUKABst4kkAAAEjJ5EY4e5L",
+                "http://bookshop.europa.eu/sv/att-foera-europas-talan-pbNAAB08127/",
+                "http://bookshop.europa.eu/sv/europe-for-women-pbNA3009224/?CatalogCategoryID=WpIKABst.SMAAAEjGJEY4e5L"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Факти и цифри"
+            ],
+            "cs": [
+                "Fakta a čísla"
+            ],
+            "da": [
+                "Nøgletal og fakta"
+            ],
+            "de": [
+                "Fakten und Zahlen"
+            ],
+            "el": [
+                "Στοιχεία και αριθμοί"
+            ],
+            "en": [
+                "Facts and figures"
+            ],
+            "es": [
+                "Hechos y cifras"
+            ],
+            "et": [
+                "Faktid ja arvandmed"
+            ],
+            "fi": [
+                "Perustietoa"
+            ],
+            "fr": [
+                "L'Europe en quelques chiffres"
+            ],
+            "ga": [
+                "Fíorais agus figiúirí"
+            ],
+            "hr": [
+                "Činjenice i brojke"
+            ],
+            "hu": [
+                "Tények és adatok"
+            ],
+            "it": [
+                "L'Europa in cifre"
+            ],
+            "lt": [
+                "Faktai ir skaičiai"
+            ],
+            "lv": [
+                "Fakti un skaitļi"
+            ],
+            "mt": [
+                "Fatti u figuri"
+            ],
+            "nl": [
+                "Feiten en cijfers"
+            ],
+            "pl": [
+                "Fakty i liczby"
+            ],
+            "pt": [
+                "Factos e números"
+            ],
+            "ro": [
+                "Date şi cifre"
+            ],
+            "sk": [
+                "Fakty a čísla"
+            ],
+            "sl": [
+                "Dejstva in podatki"
+            ],
+            "sv": [
+                "Fakta och siffror"
+            ]
+        }
+    }
+}

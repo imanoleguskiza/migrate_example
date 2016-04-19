@@ -1,0 +1,288 @@
+<?php
+/**
+ * @file
+ * Code for the EuropaEu Migrate module.
+ */
+
+/**
+ * Implements hook_migrate_api().
+ */
+function europaeu_migrate_migrate_api() {
+  return array(
+    'api' => 2,
+    'groups' => array(
+      'EuropaEuMigrate' => array(
+        'title' => t('EuropaEu Migration'),
+      ),
+    ),
+    'migrations' => array(
+      'EuropaEuMigrateMainMenu' => array(
+        'class_name' => 'EuropaEuMainMenuMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateServicesMenu' => array(
+        'class_name' => 'EuropaEuServicesMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateCommonPage' => array(
+        'class_name' => 'EuropaEuCommonPageMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateCountry' => array(
+        'class_name' => 'EuropaEuCountryMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateInstitution' => array(
+        'class_name' => 'EuropaEuInstitutionMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateTopic' => array(
+        'class_name' => 'EuropaEuTopicMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateInstitutionType' => array(
+        'class_name' => 'EuropaEuInstitutionTypeMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateSeeAlso' => array(
+        'class_name' => 'EuropaEuSeeAlsoMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateDownloads' => array(
+        'class_name' => 'EuropaEuDownloadsMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateVideoGallery' => array(
+        'class_name' => 'EuropaEuVideoGalleryMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateBean' => array(
+        'class_name' => 'EuropaEuBeanMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateContactDetails' => array(
+        'class_name' => 'EuropaEuContactDetailsMigration',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+      'EuropaEuMigrateTopicAttachment' => array(
+        'class_name' => 'EuropaEuMigrateTopicAttachment',
+        'group_name' => 'EuropaEuMigrate',
+      ),
+    ),
+  );
+}
+
+/**
+ * Check for images and files.
+ *
+ * @param string|array $files
+ *   File or files from the calling place.
+ *
+ * @return string|array
+ *   Checked file or files.
+ */
+function _europaeu_migrate_file_check($files) {
+  $domain_name = variable_get('europaeu_migrate_domain_name');
+  $domain_name = rtrim($domain_name, '/');
+  // Can be a string or an array.
+  if (is_array($files)) {
+    $i = 0;
+    foreach ($files as $file) {
+      // Check that the value is a valid URL.
+      if (!filter_var($file, FILTER_VALIDATE_URL)) {
+        $files[$i] = $domain_name . $file;
+      }
+      // Now check if the resource exists.
+      if (!$fp = curl_init($files[$i])) {
+        unset($files[$i]);
+      }
+      $i++;
+    }
+    if (empty($files)) {
+      $files = FALSE;
+    }
+  }
+  // String.
+  else {
+    if (!filter_var($files, FILTER_VALIDATE_URL)) {
+      $files = $domain_name . $files;
+    }
+    if (!$fp = curl_init($files)) {
+      $files = FALSE;
+    }
+  }
+  // String or array.
+  return $files;
+}
+
+/**
+ * Helper function to find the matching classification term.
+ *
+ * @param string|array $value
+ *   Contains terms.
+ *
+ * @return array
+ *   Term ids of the parameter(s).
+ */
+function _europaeu_migrate_get_classification($value) {
+  $vocabulary_name = 'classification';
+  $values = !is_array($value) ? (array) $value : $value;
+  $tids = array();
+
+  foreach ($values as $term) {
+    $vid = taxonomy_vocabulary_machine_name_load($vocabulary_name)->vid;
+    $code = str_replace('-', '', filter_var($term, FILTER_SANITIZE_NUMBER_INT));
+    $query = new EntityFieldQuery();
+    $result = $query
+        ->entityCondition('entity_type', 'taxonomy_term')
+        ->propertyCondition('name', $code)
+        ->propertyCondition('vid', $vid)
+        ->execute();
+
+    if (!empty($result['taxonomy_term'])) {
+      $tids[] = array_shift($result['taxonomy_term'])->tid;
+    }
+  }
+
+  return $tids;
+}
+
+/**
+ * Replace <img> tags and <a> linking to images href.
+ *
+ * @param string $text
+ *   Text to filter.
+ * @param string $site
+ *   Site name.
+ *
+ * @return string
+ *   Text filtered.
+ */
+function _europaeu_migrate_import_contents_filter($text, $site) {
+  // Remove styles.
+  preg_match_all('/style="(.*?)"/s', $text, $styles);
+  preg_match_all('/class="lead"/s', $text, $styles);
+  if (is_array($styles[0])) {
+    foreach ($styles[0] as $style) {
+      $text = str_replace($style, '', $text);
+    }
+  }
+
+  // Find all the img tags.
+  preg_match_all('#<img(.*?)src="(.*?)"#s', $text, $images);
+  $i = 0;
+  // Handling images.
+  if (!empty($images[2])) {
+    foreach ($images[2] as $image) {
+      $file_link = _europaeu_migrate_import_files($image, 'img/body');
+      if ($file_link) {
+        $text = str_replace($images[2][$i], $file_link, $text);
+      }
+      $i++;
+    }
+  }
+  $domain_name = variable_get('europaeu_migrate_domain_name');
+  // Find all the internal links.
+  preg_match_all('#<a(.*?)href="' . $domain_name . $site . '/(.*?)"#s', $text, $links);
+  // Handle internal links.
+  $i = 0;
+  if (!empty($links[2])) {
+    foreach ($links[2] as $link) {
+      $europa_link = FALSE;
+      // Find internal links to files.
+      preg_match('#(.*?)/(.*?).(doc|docx|xls|ppt|pdf|zip|rar)$#', $link, $file);
+      if (!empty($file[2])) {
+        // Import the file and replace the href attibute of the link.
+        $europa_link = _europaeu_migrate_import_files($domain_name . $site . '/' . $link, 'docs/body');
+      }
+      else {
+        // We assume it is a link to a webpage.
+        $europa_link = $GLOBALS['base_url'] . '/' . _europaeu_migrate_path($link);
+      }
+      if ($europa_link) {
+        $text = str_replace($links[0][$i], '<a ' . $links[1][$i] . ' href="' . $europa_link . '"', $text);
+      }
+      $i++;
+    }
+  }
+
+  // Fix the Html, if possible.
+  $text = check_markup($text, 'full_html');
+
+  return $text;
+}
+
+/**
+ * Helper function to copy files to the Drupal filesystem.
+ *
+ * @param string $file
+ *   Text to filter.
+ * @param string $dir
+ *   Foreseen folder.
+ *
+ * @return string
+ *   Text filtered.
+ */
+function _europaeu_migrate_import_files($file, $dir) {
+  // Build the folder tree if needed.
+  $dest = 'public://' . $dir;
+  $wrapper = file_stream_wrapper_get_instance_by_uri($dest);
+  $path = $wrapper->realpath();
+  // Check if the folder exists otherwise create it.
+  if (!is_dir($path)) {
+    drupal_mkdir($dest, NULL, TRUE);
+  }
+
+  // Run the checks.
+  $file = _europaeu_migrate_file_check($file);
+  if ($file) {
+    // Import the file, the TRUE parameter means that it will be managed.
+    $dfile = system_retrieve_file($file, $dest, TRUE, FILE_EXISTS_REPLACE);
+    $file_link = file_create_url($dfile->uri);
+  }
+  else {
+    $file_link = FALSE;
+  }
+
+  return $file_link;
+}
+
+/**
+ * Helper function to get the current path to assign to nodes.
+ *
+ * @param string $url
+ *   Orginal url.
+ * @param string $site
+ *   Site name.
+ *
+ * @return string
+ *   Path.
+ */
+function _europaeu_migrate_path($url, $site = FALSE) {
+  $lang = locale_language_list('name');
+  $lang_keys = array_keys($lang);
+  $domain_name = variable_get('europaeu_migrate_domain_name');
+  $str = array();
+  $str[] = rtrim($domain_name, '/');
+
+  foreach ($lang_keys as $lang_key) {
+    $str[] = '/index_' . $lang_key . '.htm';
+    $str[] = '_' . $lang_key . '.htm';
+    $str[] = '/index_' . $lang_key . '.xml';
+    $str[] = '_' . $lang_key . '.xml';
+  }
+
+  if ($site) {
+    $str[] = '/' . $site . '/';
+  }
+
+  $rep[] = '';
+  for ($i = 0; $i < count($str); $i++) {
+    $rep[$i] = '';
+  }
+
+  // Given the source and replace arrays, apply every replacement.
+  $path = str_replace($str, $rep, $url);
+
+  return $path;
+}

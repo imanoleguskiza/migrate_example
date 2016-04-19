@@ -1,0 +1,423 @@
+{
+  "_id": "080126248974c008",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "hr",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "ga",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv",
+    "nl",
+    "pl",
+    "fr"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-03-04 14:01:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        4
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/env/thumb_env_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/env/thumb_env_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/env/thumb_env_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/env/thumb_env_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/env/thumb_env_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/thumb_env.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/env/thumb_env_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/env/thumb_env_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/env/thumb_env_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/env/thumb_env_en.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/env/thumb_env_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/env/thumb_env_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/env/thumb_env_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/env/thumb_env_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/env/thumb_env_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/env/thumb_env_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/env/thumb_env_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/env/thumb_env_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/env/thumb_env_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/env/thumb_env_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/env/thumb_env_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/env/thumb_env_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/env/thumb_env_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/env/thumb_env_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Околна среда"
+      ],
+      "cs": [
+        "Životní prostředí"
+      ],
+      "da": [
+        "Miljø"
+      ],
+      "de": [
+        "Umwelt"
+      ],
+      "el": [
+        "Περιβάλλον"
+      ],
+      "en": [
+        "Environment"
+      ],
+      "es": [
+        "Medio ambiente"
+      ],
+      "et": [
+        "Keskkond"
+      ],
+      "fi": [
+        "Ympäristö"
+      ],
+      "fr": [
+        "Environnement"
+      ],
+      "ga": [
+        "An comhshaol"
+      ],
+      "hr": [
+        "Okoliš"
+      ],
+      "hu": [
+        "Környezetvédelmi politika"
+      ],
+      "it": [
+        "Ambiente"
+      ],
+      "lt": [
+        "Aplinka"
+      ],
+      "lv": [
+        "Vide"
+      ],
+      "mt": [
+        "L-Ambjent"
+      ],
+      "nl": [
+        "Milieu"
+      ],
+      "pl": [
+        "Środowisko"
+      ],
+      "pt": [
+        "Ambiente"
+      ],
+      "ro": [
+        "Mediu"
+      ],
+      "sk": [
+        "Životné prostredie"
+      ],
+      "sl": [
+        "Okolje"
+      ],
+      "sv": [
+        "Miljö"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Околна среда"
+      ],
+      "cs": [
+        "Životní prostředí"
+      ],
+      "da": [
+        "Miljø"
+      ],
+      "de": [
+        "Umwelt"
+      ],
+      "el": [
+        "Περιβάλλον"
+      ],
+      "en": [
+        "Environment"
+      ],
+      "es": [
+        "Medio ambiente"
+      ],
+      "et": [
+        "Keskkond"
+      ],
+      "fi": [
+        "Ympäristö"
+      ],
+      "fr": [
+        "Environnement"
+      ],
+      "ga": [
+        "An comhshaol"
+      ],
+      "hr": [
+        "Okoliš"
+      ],
+      "hu": [
+        "Környezetvédelmi politika"
+      ],
+      "it": [
+        "Ambiente"
+      ],
+      "lt": [
+        "Aplinka"
+      ],
+      "lv": [
+        "Vide"
+      ],
+      "mt": [
+        "L-Ambjent"
+      ],
+      "nl": [
+        "Milieu"
+      ],
+      "pl": [
+        "Środowisko"
+      ],
+      "pt": [
+        "Ambiente"
+      ],
+      "ro": [
+        "Mediu"
+      ],
+      "sk": [
+        "Životné prostredie"
+      ],
+      "sl": [
+        "Okolje"
+      ],
+      "sv": [
+        "Miljö"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през ноември 2014 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Rukopis aktualizován v Listopad 2014</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript aktualisiert im November 2014</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Manuskript aktualisiert im November 2014</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto original actualizado en noviembre de 2014</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud november 2014</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty marraskuu 2014</p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit actualisé en novembre 2014</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt cothrom le dáta mí na Samhna 2014</p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u studeni 2014.</p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">A kézirat frissítve: 2014. november</p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Redazione aggiornata ad novembre 2014</p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2014 m. novembris mėn.</p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunināts 2014. gada novembris.</p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Manuskritt aġġornat f'Novembru 2014</p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Tekst bijgewerkt in november 2014</p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano w czerwcu 2014 r.</p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em novembro de 2014</p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în noiembrie 2014</p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol aktualizovaný v november 2014</p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen november 2014.</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterat i november 2014</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c17"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-BG-C/NA0414868BGC_002.pdf?FileName=NA0414868BGC_002.pdf&SKU=NA0414868BGC_PDF&CatalogueNumber=NA-04-0414868-868-BG-C"
+      ],
+      "cs": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-CS-C/NA0414868CSC_002.pdf?FileName=NA0414868CSC_002.pdf&SKU=NA0414868CSC_PDF&CatalogueNumber=NA-04-0414868-868-CS-C"
+      ],
+      "da": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-DA-C/NA0414868DAC_002.pdf?FileName=NA0414868DAC_002.pdf&SKU=NA0414868DAC_PDF&CatalogueNumber=NA-04-0414868-868-DA-C"
+      ],
+      "de": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-DE-C/NA0414868DEC_002.pdf?FileName=NA0414868DEC_002.pdf&SKU=NA0414868DEC_PDF&CatalogueNumber=NA-04-0414868-868-DE-C"
+      ],
+      "el": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-EL-C/NA0414868ELC_002.pdf?FileName=NA0414868ELC_002.pdf&SKU=NA0414868ELC_PDF&CatalogueNumber=NA-04-0414868-868-EL-C"
+      ],
+      "en": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-EN-C/NA0414868ENC_002.pdf?FileName=NA0414868ENC_002.pdf&SKU=NA0414868ENC_PDF&CatalogueNumber=NA-04-0414868-868-EN-C"
+      ],
+      "es": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-ES-C/NA0414868ESC_002.pdf?FileName=NA0414868ESC_002.pdf&SKU=NA0414868ESC_PDF&CatalogueNumber=NA-04-0414868-868-ES-C"
+      ],
+      "et": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-ET-C/NA0414868ETC_002.pdf?FileName=NA0414868ETC_002.pdf&SKU=NA0414868ETC_PDF&CatalogueNumber=NA-04-0414868-868-ET-C"
+      ],
+      "fi": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-FI-C/NA0414868FIC_002.pdf?FileName=NA0414868FIC_002.pdf&SKU=NA0414868FIC_PDF&CatalogueNumber=NA-04-0414868-868-FI-C"
+      ],
+      "fr": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-FR-C/NA0414868FRC_002.pdf?FileName=NA0414868FRC_002.pdf&SKU=NA0414868FRC_PDF&CatalogueNumber=NA-04-0414868-868-FR-C"
+      ],
+      "ga": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-GA-C/NA0414868GAC_002.pdf?FileName=NA0414868GAC_002.pdf&SKU=NA0414868GAC_PDF&CatalogueNumber=NA-04-0414868-868-GA-C"
+      ],
+      "hr": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-HR-C/NA0414868HRC_002.pdf?FileName=NA0414868HRC_002.pdf&SKU=NA0414868HRC_PDF&CatalogueNumber=NA-04-0414868-868-HR-C"
+      ],
+      "hu": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-HU-C/NA0414868HUC_002.pdf?FileName=NA0414868HUC_002.pdf&SKU=NA0414868HUC_PDF&CatalogueNumber=NA-04-0414868-868-HU-C"
+      ],
+      "it": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-IT-C/NA0414868ITC_002.pdf?FileName=NA0414868ITC_002.pdf&SKU=NA0414868ITC_PDF&CatalogueNumber=NA-04-0414868-868-IT-C"
+      ],
+      "lt": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-LT-C/NA0414868LTC_002.pdf?FileName=NA0414868LTC_002.pdf&SKU=NA0414868LTC_PDF&CatalogueNumber=NA-04-0414868-868-LT-C"
+      ],
+      "lv": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-LT-C/NA0414868LTC_002.pdf?FileName=NA0414868LTC_002.pdf&SKU=NA0414868LTC_PDF&CatalogueNumber=NA-04-0414868-868-LT-C"
+      ],
+      "mt": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-MT-C/NA0414868MTC_002.pdf?FileName=NA0414868MTC_002.pdf&SKU=NA0414868MTC_PDF&CatalogueNumber=NA-04-0414868-868-MT-C"
+      ],
+      "nl": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-NL-C/NA0414868NLC_002.pdf?FileName=NA0414868NLC_002.pdf&SKU=NA0414868NLC_PDF&CatalogueNumber=NA-04-0414868-868-NL-C"
+      ],
+      "pl": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-PL-C/NA0414868PLC_002.pdf?FileName=NA0414868PLC_002.pdf&SKU=NA0414868PLC_PDF&CatalogueNumber=NA-04-0414868-868-PL-C"
+      ],
+      "pt": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-PT-C/NA0414868PTC_002.pdf?FileName=NA0414868PTC_002.pdf&SKU=NA0414868PTC_PDF&CatalogueNumber=NA-04-0414868-868-PT-C"
+      ],
+      "ro": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-RO-C/NA0414868ROC_002.pdf?FileName=NA0414868ROC_002.pdf&SKU=NA0414868ROC_PDF&CatalogueNumber=NA-04-0414868-868-RO-C"
+      ],
+      "sk": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-SK-C/NA0414868SKC_002.pdf?FileName=NA0414868SKC_002.pdf&SKU=NA0414868SKC_PDF&CatalogueNumber=NA-04-0414868-868-SK-C"
+      ],
+      "sl": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-SL-C/NA0414868SLC_002.pdf?FileName=NA0414868SLC_002.pdf&SKU=NA0414868SLC_PDF&CatalogueNumber=NA-04-0414868-868-SL-C"
+      ],
+      "sv": [
+        "http://bookshop.europa.eu/en/environment-pbNA0414868/downloads/NA-04-0414868-868-SV-C/NA0414868SVC_002.pdf?FileName=NA0414868SVC_002.pdf&SKU=NA0414868SVC_PDF&CatalogueNumber=NA-04-0414868-868-SV-C"
+      ]
+    }
+  }
+}

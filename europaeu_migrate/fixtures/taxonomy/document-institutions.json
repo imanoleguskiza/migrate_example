@@ -1,0 +1,112 @@
+{
+  "_id": "institutions",
+  "type": "category",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "weight": {
+      "und": [
+        1
+      ]
+    },
+    "subject": {
+      "en": [
+        "Institutions and bodies"
+      ],
+      "bg": [
+        "Институции и органи"
+      ],
+      "cs": [
+        "Orgány a instituce Evropské unie"
+      ],
+      "da": [
+        "Institutioner og organer"
+      ],
+      "de": [
+        "Institutionen und Einrichtungen"
+      ],
+      "et": [
+        "Institutsioonid ja asutused"
+      ],
+      "el": [
+        "Όργανα και οργανισμοί"
+      ],
+      "es": [
+        "Instituciones y organismos"
+      ],
+      "fr": [
+        "Institutions et organes"
+      ],
+      "ga": [
+        "Institiúidí agus comhlachtaí"
+      ],
+      "hr": [
+        "Institucije i tijela"
+      ],
+      "it": [
+        "Istituzioni e organi"
+      ],
+      "lv": [
+        "Iestādes un institūcijas"
+      ],
+      "lt": [
+        "Institucijos ir įstaigos"
+      ],
+      "hu": [
+        "Intézmények és szervek"
+      ],
+      "mt": [
+        "Istituzzjonijiet u entitajiet"
+      ],
+      "nl": [
+        "Instellingen en organen"
+      ],
+      "pl": [
+        "Instytucje i organy UE"
+      ],
+      "pt": [
+        "Instituições e órgãos"
+      ],
+      "ro": [
+        "Instituţii şi organisme"
+      ],
+      "sk": [
+        "Inštitúcie a orgány"
+      ],
+      "sl": [
+        "Institucije in organi"
+      ],
+      "fi": [
+        "Toimielimet ja muut elimet"
+      ],
+      "sv": [
+        "Institutioner och organ"
+      ]
+    }
+  }
+}

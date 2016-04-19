@@ -1,0 +1,906 @@
+{
+    "_id": "31b5fe2c4e6f5c16074a06591043e2fa",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/basic-information/money/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/basic-information/money/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/basic-information/money/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/basic-information/money/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/basic-information/money/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/basic-information/money/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/basic-information/money/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/basic-information/money/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/basic-information/money/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/basic-information/money/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/basic-information/money/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/basic-information/money/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/basic-information/money/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/basic-information/money/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/basic-information/money/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/basic-information/money/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/basic-information/money/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/basic-information/money/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/basic-information/money/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/basic-information/money/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/basic-information/money/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/basic-information/money/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/basic-information/money/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/basic-information/money/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Парични въпроси в ЕС"
+            ],
+            "cs": [
+                "Finanční prostředky EU"
+            ],
+            "da": [
+                "Penge og EU"
+            ],
+            "de": [
+                "Die EU und das Geld"
+            ],
+            "el": [
+                "Τα οικονομικά της ΕΕ"
+            ],
+            "en": [
+                "Money and the EU"
+            ],
+            "es": [
+                "Dinero y UE"
+            ],
+            "et": [
+                "Raha ja EL"
+            ],
+            "fi": [
+                "EU ja raha"
+            ],
+            "fr": [
+                "Le budget de l'UE"
+            ],
+            "ga": [
+                "Airgead agus an AE"
+            ],
+            "hr": [
+                "Proračun EU-a"
+            ],
+            "hu": [
+                "Az EU és a pénz"
+            ],
+            "it": [
+                "Le finanze dell'UE"
+            ],
+            "lt": [
+                "Pinigai ir ES"
+            ],
+            "lv": [
+                "Nauda un ES"
+            ],
+            "mt": [
+                "Il-flus u l-UE"
+            ],
+            "nl": [
+                "Geld en de EU"
+            ],
+            "pl": [
+                "Pieniądze i UE"
+            ],
+            "pt": [
+                "As finanças da UE"
+            ],
+            "ro": [
+                "Bugetul UE"
+            ],
+            "sk": [
+                "Peniaze a EÚ"
+            ],
+            "sl": [
+                "proračun EU"
+            ],
+            "sv": [
+                "Pengar och EU"
+            ]
+        },
+        "category": {
+            "und": [
+                "33755c55"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "cs": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "da": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "de": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "el": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "en": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "es": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "et": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fi": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fr": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ga": [
+                "EUROPA/MAR GHEALL AR-AE/GA"
+            ],
+            "hr": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "hu": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "it": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lv": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "mt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "nl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ro": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sk": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sv": [
+                "EUROPA/ABOUT-EU/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM"
+            ],
+            "cs": [
+                "COMM"
+            ],
+            "da": [
+                "COMM"
+            ],
+            "de": [
+                "COMM"
+            ],
+            "el": [
+                "COMM"
+            ],
+            "en": [
+                "COMM"
+            ],
+            "es": [
+                "COMM"
+            ],
+            "et": [
+                "COMM"
+            ],
+            "fi": [
+                "COMM"
+            ],
+            "fr": [
+                "COMM"
+            ],
+            "ga": [
+                "COMM"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "COMM"
+            ],
+            "it": [
+                "COMM"
+            ],
+            "lt": [
+                "COMM"
+            ],
+            "lv": [
+                "COMM"
+            ],
+            "mt": [
+                "COMM"
+            ],
+            "nl": [
+                "COMM"
+            ],
+            "pl": [
+                "COMM"
+            ],
+            "pt": [
+                "COMM"
+            ],
+            "ro": [
+                "COMM"
+            ],
+            "sk": [
+                "COMM"
+            ],
+            "sl": [
+                "COMM"
+            ],
+            "sv": [
+                "COMM"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Как се финансира и изразходва бюджетът на ЕС? Кои страни използват еврото? Какъв е отговорът на ЕС на икономическата и финансовата криза? Научете повече."
+            ],
+            "cs": [
+                "Z čeho je rozpočet EU financován a na co se využívá? Které země platí eurem? Jak EU řeší hospodářskou a finanční krizi? Info zde."
+            ],
+            "da": [
+                "Hvordan finansieres og anvendes EU-budgettet? Hvilke lande bruger euroen? Hvad er EU's reaktion på den økonomiske og finansielle krise? Find svaret her."
+            ],
+            "de": [
+                " Wie wird der EU-Haushalt finanziert und ausgeführt? Welche Länder verwenden den Euro? Wie reagiert die EU auf die Wirtschafts- und Finanzkrise? Hier finden Sie die Antworten."
+            ],
+            "el": [
+                "«Πώς χρηματοδοτείται και πώς δαπανάται ο προϋπολογισμός της ΕΕ; Ποιες χώρες χρησιμοποιούν το ευρώ; Πώς αντιμετωπίζει η ΕΕ την οικονομική κρίση;» Δείτε εδώ."
+            ],
+            "en": [
+                "How is the EU budget funded and spent? Which countries use the euro? What is the EU's response to the economic & financial crisis? Find out here."
+            ],
+            "es": [
+                "¿Cómo se financia y se gasta el presupuesto de la UE? ¿Qué países usan el euro? ¿Cuál es la respuesta de la UE a la crisis económica y financiera? Descúbralo aquí."
+            ],
+            "et": [
+                "'Kuidas ELi eelarvet rahastatakse ja kulutatakse? Millised riigid kasutavad eurot? Kuidas reageerib EL majandus- ja finantskriisile? Lisateavet leiate siit."
+            ],
+            "fi": [
+                "Mistä EU:n talousarviovarat ovat peräisin ja mihin niitä käytetään? Mitkä maat käyttävät euroa? Miten EU on vastannut talous- ja finanssikriisiin? Lue tältä sivulta."
+            ],
+            "fr": [
+                "Comment le budget de l'UE est-il financé et dépensé? Quels pays utilisent l'euro? Quelle est la réponse de l'UE à la crise économique et financière? En savoir plus."
+            ],
+            "ga": [
+                "Cad as a dtagann buiséad an Aontais Eorpaigh agus conas a chaitear é? Cé na tíortha a úsáideann an euro? Conas atá an tAontas Eorpach ag dul i ngleic leis an ngéarchéim airgeadais? Tuilleadh eolais anseo."
+            ],
+            "hr": [
+                "Kako se financira i troši proračun EU-a? U kojim se državama upotrebljava euro? Kako EU odgovara na gospodarsku i financijsku krizu? Saznajte ovdje."
+            ],
+            "hu": [
+                "Miből finanszírozza és mire költi az EU a költségvetési forrásait? Mely országok használják az eurót? Hogyan kezeli az EU a gazdasági és pénzügyi válságot? A kérdésekre itt választ kaphat."
+            ],
+            "it": [
+                "'Come viene finanziato e speso il bilancio dell'UE? Quali paesi usano l'euro? Qual è la risposta dell'UE alla crisi economica e finanziaria? Per saperne di più."
+            ],
+            "lt": [
+                "Kaip surenkamas ir išleidžiamas ES biudžetas? Kurios šalys naudoja eurą? Kokių veiksmų ES ėmėsi reaguodama į ekonomikos ir finansų krizę? Skaitykite plačiau čia."
+            ],
+            "lv": [
+                "Kā tiek finansēts un tērēts ES budžets? Kuru valstu valūta ir eiro? Kāda ir ES reakcija uz ekonomikas un finanšu krīzi? Atbildes meklējiet te."
+            ],
+            "mt": [
+                "'Kif inhu ffinanzjat u minfuq il-baġit tal-UE? Liema pajjiżi jużaw l-euro? X'inhu r-rispons tal-UE għall-kriżi ekonomika u finanzjarja? Skopri hawnhekk."
+            ],
+            "nl": [
+                "Waar komt het EU-geld vandaan en waaraan wordt het besteed? Welke landen gebruiken de euro? Wat doet de EU tegen de economische en financiële crisis? Lees hier meer."
+            ],
+            "pl": [
+                "Skąd bierze się budżet UE i jak jest wydawany? W których krajach można płacić euro? Co UE zrobiła w odpowiedzi na kryzys gospodarczy i finansowy? Tutaj znajdziesz odpowiedzi na te pytania."
+            ],
+            "pt": [
+                "Como é financiado e gasto o orçamento da UE? Que países utilizam o euro? Qual é a resposta da UE à crise económica e financeira? Mais informações aqui."
+            ],
+            "ro": [
+                "Cum este finanțat și cheltuit bugetul UE? Ce țări utilizează moneda euro? Care este răspunsul UE la criza economică și financiară? Aflați aici "
+            ],
+            "sk": [
+                "Aké sú zdroje príjmov a na čo sa využíva rozpočet EÚ? Ktoré krajiny používajú euro? Aké je reakcia EÚ na hospodársku a finančnú krízu? Viac sa dozviete tu."
+            ],
+            "sl": [
+                "Kako se financira in porablja proračun EU? Katere države uporabljajo evro? Kako se EU odziva na finančno in gospodarsko krizo? Preberite tukaj."
+            ],
+            "sv": [
+                "Hur finansieras EU:s budget och vad går pengarna till? Vilka länder har infört euron? Vad gjorde EU under ekonomi- och finanskrisen? Läs mer här."
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "бюджет",
+                "разходи",
+                "средства",
+                "доход",
+                "приходи",
+                "евро",
+                "валута",
+                "парична единица"
+            ],
+            "cs": [
+                "EU",
+                "rozpočet",
+                "výdaje",
+                "výdajové",
+                "fond",
+                "příjmy",
+                "příjmy",
+                "euro",
+                "měna"
+            ],
+            "da": [
+                "EU",
+                "budget",
+                "udgifter",
+                "udgiftsposter",
+                "fond",
+                "indkomst",
+                "indtægter",
+                "euro",
+                "valuta"
+            ],
+            "de": [
+                "EU",
+                "Haushalt",
+                "Budget",
+                "Ausgaben",
+                "Fonds",
+                "Mittel",
+                "Einnahmen",
+                "Euro",
+                "Währung"
+            ],
+            "el": [
+                "ΕΕ",
+                "προϋπολογισμός",
+                "έξοδα",
+                "δαπάνες",
+                "ταμείο",
+                "κονδύλι",
+                "εισόδημα",
+                "έσοδα",
+                "ευρώ",
+                "νόμισμα"
+            ],
+            "en": [
+                "EU",
+                "budget",
+                "expenditure",
+                "spending",
+                "fund",
+                "income",
+                "revenue",
+                "euro",
+                "currency"
+            ],
+            "es": [
+                "UE",
+                "presupuesto",
+                "gasto",
+                "gastos",
+                "fondo",
+                "renta",
+                "ingresos",
+                "euro",
+                "moneda"
+            ],
+            "et": [
+                "EL",
+                "eelarve",
+                "kulud",
+                "kulutamine",
+                "fond",
+                "sissetulek",
+                "tulu",
+                "euro",
+                "valuuta",
+                "vääring"
+            ],
+            "fi": [
+                "EU",
+                "budjetti",
+                "talousarvio",
+                "menot",
+                "varat",
+                "tulot",
+                "euro",
+                "valuutta"
+            ],
+            "fr": [
+                "UE",
+                "budget",
+                "dépenses",
+                "dépenser",
+                "fonds",
+                "revenu",
+                "recettes",
+                "euro",
+                "monnaie"
+            ],
+            "ga": [
+                "AE",
+                "buiséad",
+                "caiteachas",
+                "caitheamh",
+                "ciste",
+                "ioncam",
+                "teacht isteach",
+                "euro",
+                "airgeadra"
+            ],
+            "hr": [
+                "EU",
+                "proračun",
+                "rashodi",
+                "potrošnja",
+                "financiranje",
+                "dohodak",
+                "dobit",
+                "prihodi",
+                "euro",
+                "valuta"
+            ],
+            "hu": [
+                "EU",
+                "Európai Unió",
+                "költségvetés",
+                "kiadások",
+                "költségek",
+                "források",
+                "alapok",
+                "bevétel",
+                "jövedelem",
+                "euró",
+                "fizetőeszköz",
+                "pénznem",
+                "valuta"
+            ],
+            "it": [
+                "UE",
+                "bilancio",
+                "spesa",
+                "esecuzione della spesa",
+                "finanziare",
+                "reddito",
+                "entrate",
+                "euro",
+                "valuta"
+            ],
+            "lt": [
+                "ES",
+                "biudžetas",
+                "išlaidos",
+                "fondas",
+                "pajamos",
+                "įplaukos",
+                "euras",
+                "valiuta"
+            ],
+            "lv": [
+                "ES",
+                "budžets",
+                "izdevumi",
+                "tēriņi",
+                "līdzekļi",
+                "ienākumi",
+                "ieņēmumi",
+                "eiro",
+                "valūta"
+            ],
+            "mt": [
+                "UE",
+                "baġit",
+                "nefqa",
+                "infiq",
+                "fondi",
+                "introjtu",
+                "dħul",
+                "euro",
+                "munita"
+            ],
+            "nl": [
+                "EU",
+                "begroting",
+                "uitgaven",
+                "besteding",
+                "geld",
+                "inkomsten",
+                "inkomen",
+                "euro",
+                "munt",
+                "valuta"
+            ],
+            "pl": [
+                "UE",
+                "budżet",
+                "wydatki",
+                "wydatkowanie",
+                "fundusz",
+                "dochód",
+                "dochody",
+                "euro",
+                "waluta"
+            ],
+            "pt": [
+                "UE",
+                "orçamento",
+                "despesa",
+                "gastos",
+                "financiar",
+                "receitas",
+                "rendimento",
+                "euro",
+                "moeda"
+            ],
+            "ro": [
+                "UE",
+                "buget",
+                "cheltuieli",
+                "fond",
+                "finanțare",
+                "venit",
+                "încasări",
+                "euro",
+                "monedă"
+            ],
+            "sk": [
+                "EÚ",
+                "rozpočet",
+                "výdavky",
+                "náklady",
+                "financovanie",
+                "príjem",
+                "euro",
+                "mena"
+            ],
+            "sl": [
+                "EU",
+                "proračun",
+                "poraba",
+                "odhodki",
+                "sredstva",
+                "financiranje",
+                "dohodki",
+                "prihodki",
+                "evro",
+                "valuta"
+            ],
+            "sv": [
+                "EU",
+                "budget",
+                "utgifter",
+                "kostnader",
+                "medel",
+                "inkomst",
+                "intäkt",
+                "euro",
+                "valuta"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<p>Бюджетът на ЕС се финансира от няколко източника, включително процент от брутния национален доход на всяка държава членка. Той се изразходва за различни цели като повишаване на жизнения стандарт в по-бедните региони и гарантиране на безопасността на храните. Еврото е общата валута на повечето държави от ЕС.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_bg.htm\"                   lang=\"bg\">Как се финансира ЕС?</a>             </h2>             <p>ЕС получава приходи не само от вноските на държавите членки, но и от мита върху вноса на продукти от страни извън Съюза и процент от данъка върху добавената стойност (ДДС) във всяка страна.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_bg.htm\"                   lang=\"bg\">Как се изразходва бюджетът на ЕС?</a>             </h2>             <p>Бюджетът на ЕС се използва за финансиране на широк кръг от дейности – от развитие на селските райони и опазване на околната среда до защита на външните граници и утвърждаване на човешките права. Комисията, Съветът и Парламентът определят размера на бюджета и неговото разпределение. За реалното изразходване на средствата обаче са отговорни Комисията и държавите от ЕС.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_bg.htm\"                   lang=\"bg\">Еврото</a>             </h2>             <p>Еврото, което ежедневно се използва от около 338,6 милиона европейци, е най-осезаемото доказателство за сътрудничеството между държавите от ЕС. Ползата от общата валута се забелязва веднага от всеки, пътуващ в чужбина или пазаруващ онлайн от уебсайтове в друга страна от ЕС.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Икономическа и финансова криза</a>             </h2>             <p>Правителствата на страните в ЕС, Европейската централна банка и Комисията предприеха енергични и непрекъснати действия за справяне с <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">икономическата криза</a> след нейното избухване през 2008 г. Всички те работят в тясно сътрудничество за подкрепа на растежа и заетостта, защита на спестяванията, поддържане на кредитиране на достъпна цена за предприятията и домакинствата, осигуряване на финансова стабилност и изграждане на по-добра система на управление за в бъдеще.</p>"
+            ],
+            "cs": [
+                "<p>Příjmy rozpočtu Evropské unie pocházejí z různých zdrojů, mezi něž patří i procentuální část hrubého národního příjmu jednotlivých členských států. Tyto peníze jsou vynakládány na nejrůznější činnosti Unie – od zvyšování životní úrovně lidí v chudších regionech po opatření zajišťující nezávadnost potravin. Ve většině členských zemí se platí eurem, společnou měnou Unie.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_cs.htm\"                   lang=\"cs\">Jak je financován chod Evropské unie?</a>             </h2>             <p>Příjmy Evropské unie netvoří pouze příspěvky jednotlivých členských států, ale také dovozní cla na výrobky dovážené ze států za hranicemi EU a rovněž procento z daně z přidané hodnoty vybrané v členských státech.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_cs.htm\"                   lang=\"cs\">Jak se využívá rozpočet EU?</a>             </h2>             <p>Prostředky z rozpočtu EU se využívají na nejrůznější činnosti: od rozvoje venkova, přes ochranu životního prostředí a vnějších hranic Unie po prosazování lidských práv. O velikosti rozpočtu a jeho přerozdělování rozhodují společně Komise, Rada a Evropský parlament. Za to, jak budou prostředky nakonec v jednotlivých oblastech využity, odpovídá Komise a orgány členských států.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_cs.htm\"                   lang=\"cs\">Euro</a>             </h2>             <p>Euro, společnou měnu EU, používá denně okolo 338,6 milionu Evropanů. Je jedním z nejhmatatelnějších výsledků spolupráce členských států. Jeho přínos je okamžitě ocení všichni, kteří po Unii cestují nebo nakupují v internetových obchodech jiných zemí EU.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Hospodářská a finanční krize</a>             </h2>             <p> Od vypuknutí světové <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">hospodářské krize</a> v roce 2008 podnikají členské státy EU, Evropská centrální banka a Komise celou řadu energických kroků. Společně usilují o podporu růstu a zaměstnanosti, ochranu úspor, nepolevující příliv dostupných úvěrů pro podnikatele a domácnosti, zajištění finanční stability a zavedení fungujícího systému správy ekonomických záležitostí do budoucna. </p>"
+            ],
+            "da": [
+                "<p>EU's budget finansieres af kilder, som blandt andet omfatter en procentdel af hvert medlemslands bruttonationalindkomst. Det bruges på så forskellige formål som at hæve levestandarden i de fattigere regioner og at garantere fødevaresikkerhed. Euroen er fælles valuta i de fleste EU-lande.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_da.htm\"                   lang=\"da\">Hvordan finansieres EU?</a>             </h2>             <p>EU's indtægter stammer ikke kun fra medlemslandenes bidrag, men også fra importafgifter på varer fra lande uden for EU og en procentdel af den moms, der opkræves i de enkelte medlemslande. </p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_da.htm\"                   lang=\"da\">Hvordan bruges EU-budgettet?</a>             </h2>             <p>EU-budgettet betaler for en lang række aktiviteter fra udvikling af landdistrikterne og miljøbeskyttelse til beskyttelse af de ydre grænser og forbedring af menneskerettighederne. Kommissionen, Rådet og Parlamentet har alle indflydelse på, hvor stort budgettet er, og hvordan det fordeles. Men det er Kommissionen og EU-landene, der er ansvarlige for det faktiske forbrug.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_da.htm\"                   lang=\"da\">Euroen</a>             </h2>             <p>Euroen – som hver dag anvendes af omkring 338,6 millioner europæere – er det mest håndgribelige bevis på samarbejdet mellem EU-landene. Fordelene er umiddelbart indlysende for enhver, der rejser til udlandet eller handler online på websites i andre EU-lande.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Den finansielle og økonomiske krise</a>             </h2>             <p> Siden den <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">økonomiske krise</a> brød ud på verdensplan i 2008, har den foranlediget handling blandt EU's medlemslande, Den Europæiske Centralbank og Kommissionen.  Alle har arbejdet tæt sammen om at fremme vækst og beskæftigelse, beskytte indskud, opretholde lånemuligheder, som virksomheder og husstande kan betale, sikre økonomisk stabilitet og indføre et bedre ledelsessystem for fremtiden.</p>"
+            ],
+            "de": [
+                "<p>Der Haushalt der EU wird aus verschiedenen Quellen gespeist. Unter anderem trägt jeder Mitgliedstaat mit einem bestimmten Prozentsatz seines Bruttonationaleinkommens zum Haushalt bei. Die Haushaltsmittel werden in die unterschiedlichsten Maßnahmen investiert, beispielsweise um den Lebensstandard in ärmeren Regionen anzuheben oder die Sicherheit von Lebensmitteln zu gewährleisten. In den meisten EU-Ländern wird der Euro als Währung verwendet.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_de.htm\"                   lang=\"de\">Wie wird die EU finanziert?</a>             </h2>             <p>Die EU bezieht ihre Einnahmen nicht nur aus den Beiträgen der Mitgliedstaaten, sondern auch aus Einfuhrzöllen auf Waren aus Nicht-EU-Ländern. Außerdem erhält sie einen bestimmten Prozentsatz der Mehrwertsteuer, die die einzelnen Länder erheben.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_de.htm\"                   lang=\"de\">Wie werden die EU-Haushaltsmittel ausgegeben?</a>             </h2>             <p>Aus dem EU-Haushalt werden zahlreiche Maßnahmen in unterschiedlichsten Bereichen finanziert: von der Entwicklung des ländlichen Raums und dem Umweltschutz bis hin zum Schutz der EU-Außengrenzen und der Förderung der Menschenrechte. Über die Höhe des Haushalts und die Zuweisung der Haushaltsmittel entscheiden die Kommission, der Rat und das Parlament gemeinsam. Die tatsächlichen Ausgaben werden allerdings von der Kommission und den EU-Ländern getätigt.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_de.htm\"                   lang=\"de\">Der Euro</a>             </h2>             <p>338,6 Millionen Europäerinnen und Europäer bezahlen jeden Tag mit dem Euro. Damit ist die gemeinsame Währung der wohl greifbarste Beweis für die Zusammenarbeit unter den EU-Ländern. Für diejenigen, die ins EU-Ausland reisen oder EU-weit im Internet einkaufen, liegen die Vorteile des Euro auf der Hand.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Die Wirtschafts- und Finanzkrise</a>             </h2>             <p> Seit dem Ausbruch der weltweiten <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Wirtschaftskrise</a> 2008 haben die Regierungen der EU-Länder, die Europäische Zentralbank und die Kommission nachdrücklich und anhaltend reagiert. Sie haben in enger Kooperation gemeinsam darauf hingearbeitet, Wachstum und Beschäftigung zu fördern, Spareinlagen und die Verfügbarkeit erschwinglicher Kredite für Unternehmen und Haushalte zu sichern, die Finanzstabilität zu gewährleisten sowie eine bessere umfassende Finanzordnung einzuführen. </p>"
+            ],
+            "el": [
+                "<p>Ο προϋπολογισμός της ΕΕ χρηματοδοτείται από διάφορους πόρους, περιλαμβανομένου και ενός ποσοστού του ακαθάριστου εθνικού εισοδήματος κάθε κράτους μέλους. Τα κονδύλια του προϋπολογισμού διατίθενται για πληθώρα σκοπών, όπως η βελτίωση του βιοτικού επιπέδου στις φτωχότερες περιφέρειες και η επισιτιστική ασφάλεια. Το ευρώ είναι το κοινό νόμισμα των περισσοτέρων κρατών μελών της ΕΕ.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_el.htm\"                   lang=\"el\">Πώς χρηματοδοτείται η ΕΕ;</a>             </h2>             <p>Τα έσοδα της ΕΕ προέρχονται από τις συνεισφορές των κρατών μελών, αλλά και από τους δασμούς που επιβάλλονται στα προϊόντα που εισάγονται από τρίτες χώρες καθώς και από ένα ποσοστό του φόρου προστιθεμένης αξίας που εισπράττει κάθε χώρα.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_el.htm\"                   lang=\"el\">Πώς διατίθεται ο προϋπολογισμός της ΕΕ;</a>             </h2>             <p>Ο προϋπολογισμός της ΕΕ χρηματοδοτεί ευρύ φάσμα δραστηριοτήτων, από την αγροτική ανάπτυξη και την προστασία του περιβάλλοντος μέχρι την προστασία των εξωτερικών συνόρων και την προαγωγή των ανθρωπίνων δικαιωμάτων. Όλα τα όργανα, δηλ. η Eπιτροπή, το Συμβούλιο και το Κοινοβούλιο, έχουν λόγο στο μέγεθος και την κατάρτιση του προϋπολογισμού. Ωστόσο, την ευθύνη για τον τρόπο διάθεσης των κονδυλίων έχουν η Επιτροπή και οι χώρες της ΕΕ.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_el.htm\"                   lang=\"el\">Το ευρώ</a>             </h2>             <p>Το ευρώ, το νόμισμα που χρησιμοποιούν καθημερινά γύρω στα 338,6 εκατομμύρια Ευρωπαίοι, είναι η πιο χειροπιαστή απόδειξη συνεργασίας μεταξύ των κρατών μελών της ΕΕ. Τα πλεονεκτήματά του γίνονται αμέσως αντιληπτά από οποιονδήποτε ταξιδεύει στο εξωτερικό ή πραγματοποιεί ηλεκτρονικές αγορές από ιστότοπους άλλης χώρας της ΕΕ.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Η οικονομική και δημοσιονομική κρίση</a>             </h2>             <p> Αφότου ξέσπασε παγκοσμίως το 2008, η <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">οικονομική κρίση</a> προκάλεσε την άμεση και έντονη αντίδραση των εθνικών κυβερνήσεων των χωρών μελών, της Ευρωπαϊκής Κεντρικής Τράπεζας και της Επιτροπής. Όλα τα μέρη συνεργάστηκαν στενά για την τόνωση της ανάπτυξης και της απασχόλησης, την προστασία των καταθέσεων, τη διατήρηση των δυνατοτήτων προσιτού δανεισμού για τις επιχειρήσεις και τα νοικοκυριά, τη διασφάλιση δημοσιονομικής σταθερότητας και την εφαρμογή ενός συστήματος καλύτερης διακυβέρνησης στο μέλλον. </p>"
+            ],
+            "en": [
+                "<p>The EU budget is funded from sources including a percentage of each member country's gross national income. It is spent on efforts as diverse as raising the standard of living in poorer regions and ensuring food safety. The euro is the common currency of most EU countries.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_en.htm\"                   lang=\"en\">How is the EU funded?</a>             </h2>             <p>The EU obtains revenue not only from contributions from member countries but also from import duties on products from outside the EU and a percentage of the value-added tax levied by each country.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_en.htm\"                   lang=\"en\">How is the EU budget spent?</a>             </h2>             <p>The EU budget pays for a vast array of activities from rural development and environmental protection to protection of external borders and promotion of human rights. The Commission, Council and Parliament all have a say in how big the budget is and how it is allocated. But the Commission and EU countries are responsible for the actual spending.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_en.htm\"                   lang=\"en\">The euro</a>             </h2>             <p>The euro – used every day by some 338.6 million Europeans – is the most tangible proof of cooperation between EU countries. Its benefits are immediately obvious to anyone travelling abroad or shopping online on websites based in another EU country.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/focuson/crisis/index_en.htm\"                   lang=\"en\">The Economic and Financial Crisis</a>             </h2>             <p>The <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">economic crisis</a> has prompted intense and sustained action by the EU's national governments, the European Central Bank and the Commission since it erupted worldwide in 2008. All have been working closely together to support growth and employment, protect savings, maintain a flow of affordable credit for businesses and households, ensure financial stability, and put in place a better governance system for the future.</p>"
+            ],
+            "es": [
+                "<p>El presupuesto de la UE procede de distintas fuentes: entre otras, de un porcentaje de la renta nacional bruta de cada país miembro. Se destina a fines tan diversos como mejorar el nivel de vida de las regiones más pobres o velar por la seguridad de los alimentos. El euro es la moneda común de la mayoría de los países.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_es.htm\"                   lang=\"es\">¿Cómo se financia la UE?</a>             </h2>             <p>Los ingresos de la UE no solo proceden de las contribuciones de los países que la componen, sino también de los derechos de importación con los que se gravan los productos procedentes de países no miembros y de un porcentaje del impuesto sobre el valor añadido recaudado por cada país.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_es.htm\"                   lang=\"es\">¿Cómo se gasta el presupuesto de la UE?</a>             </h2>             <p>Con el presupuesto de la UE se pagan actividades muy diversas: desde impulsar el desarrollo rural y defender el medio ambiente hasta proteger las fronteras exteriores o promover los derechos humanos. Comisión, Consejo y Parlamento dan su opinión sobre la cuantía del presupuesto y la manera de asignarlo, pero los responsables del gasto efectivo son la Comisión y los países miembros.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_es.htm\"                   lang=\"es\">El euro</a>             </h2>             <p>El euro —que utilizan cada día unos 338,6 millones de europeos— es la prueba más tangible de la cooperación entre los países de la UE. Sus ventajas están a la vista para cualquiera que viaje al extranjero o haga compras por internet en webs de otros países.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">La crisis económica y financiera</a>             </h2>             <p> Desde que empezó, en 2008, la <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">crisis económica</a> ha llevado a una actuación intensa y sostenida de los gobiernos nacionales, el Banco Central Europeo y la Comisión. Todos han colaborado estrechamente para apoyar el crecimiento y el empleo, proteger el ahorro, mantener un flujo de crédito asequible para las empresas y los hogares, garantizar la estabilidad financiera e introducir un mejor sistema de gobernanza para el futuro. </p>"
+            ],
+            "et": [
+                "<p>ELi eelarvet rahastatakse eri allikatest, mille hulgas on ka teatav osa iga liikmesriigi kogurahvatulust. Eelarveraha kasutatakse väga erinevaks otstarbeks, näiteks elatustaseme tõstmiseks vaesemates piirkondades ja toiduohutuse tagamiseks. Euro on enamikus ELi liikmesriikides kasutatav ühisraha.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_et.htm\"                   lang=\"et\">Kuidas ELi rahastatakse?</a>             </h2>             <p>ELi tulu koguneb lisaks liikmesriikide panustele ka ELi imporditavate kaupade suhtes rakendatud tollimaksudest ja teatavast osast igas liikmesriigis kogutud käibemaksust.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_et.htm\"                   lang=\"et\">Kuidas ELi eelarvet kasutatakse?</a>             </h2>             <p>ELi eelarvest rahastatakse suurt hulka tegevusi, alates maaelu arengust ja keskkonnakaitsest kuni välispiiride kaitse ja inimõiguste edendamiseni. Komisjonil, nõukogul ja Euroopa Parlamendil on kõigil sõnaõigus eelarve suuruse ja eraldiste üle otsustamisel. Tegelike kulutuste eest vastutavad komisjon ja ELi liikmesriigid.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_et.htm\"                   lang=\"et\">Euro</a>             </h2>             <p>Euro, mida igapäevaselt kasutab umbes 338,6 miljonit eurooplast, on kõige käegakatsutavam tõend ELi liikmesriikide koostööst. Eurost tulenevad hüved on koheselt selged kõigile, kes reisivad välismaale või teevad sisseoste mõnes muus ELi liikmesriigis hallatavatel internetilehekülgedel.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Majandus- ja finantskriis</a>             </h2>             <p> Alates <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">majanduskriisi</a> vallandumisest 2008. aastal on ELi liikmesriikide valitsused, Euroopa Keskpank ning Euroopa Komisjon võtnud intensiivseid ja jätkuvaid meetmeid. Kõik pooled on teinud tihedat koostööd majanduskasvu soodustamiseks ja töökohtade loomiseks, hoiuste kaitsmiseks, taskukohaste laenude jätkuvaks andmiseks ettevõtjatele ja kodanikele, finantsstabiilsuse tagamiseks ning tulevikuks parema juhtimissüsteemi loomiseks. </p>"
+            ],
+            "fi": [
+                "<p>EU:n toiminnan rahoitus saadaan useista eri lähteitä. Esimerkiksi jäsenmaat maksavat EU:n budjettiin tietyn prosenttiosuuden omasta bruttokansantulostaan. Toimet, joihin varat käytetään, vaihtelevat köyhien alueiden elintason nostosta elintarviketurvallisuudesta huolehtimiseen. Useimmissa EU-maissa käytetään yhteistä valuuttaa, euroa.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_fi.htm\"                   lang=\"fi\">EU:n talousarvion rahoitus</a>             </h2>             <p>EU:n tulot muodostuvat paitsi jäsenmaiden maksamista maksuista myös EU:n ulkopuolelta tuotavien tuotteiden tuontitulleista sekä osuudesta, jonka EU saa jäsenmaissa kerätystä arvonlisäverosta.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_fi.htm\"                   lang=\"fi\">EU:n talousarviovarojen käyttö</a>             </h2>             <p>EU:n talousarviosta rahoitetaan lukuisia erilaisia toimia, esimerkiksi maaseudun kehittämistoimenpiteitä, ympäristönsuojelua, ulkorajojen suojelua ja ihmisoikeuksien edistämistoimia. Komissio, neuvosto ja parlamentti päättävät yhdessä talousarvion koosta ja jakoperusteista. Varojen varsinaisesta käytöstä ovat kuitenkin vastuussa komissio ja EU-maat.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_fi.htm\"                   lang=\"fi\">Euro</a>             </h2>             <p>Konkreettisin osoitus EU-maiden välisestä yhteistyöstä on yhteinen raha euro, jota käyttää joka päivä noin 338,6 miljoonaa eurooppalaista. Euron hyödyt käyvät nopeasti selväksi jokaiselle, joka matkustaa ulkomailla tai tekee ostoksia toiseen EU-maahan sijoittautuneesta verkkokaupasta.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Talous- ja finanssikriisi</a>             </h2>             <p> Ympäri maailmaa vuonna 2008 puhjennut <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">talouskriisi</a> sai EU-maiden hallitukset, Euroopan keskuspankin ja komission ryhtymään intensiivisiin ja pitkäjänteisiin toimiin. Ne ovat tehneet tiivistä yhteistyötä tukeakseen kasvua ja työllisyyttä, suojatakseen kansalaisten säästöjä, huolehtiakseen siitä, että yritykset ja kotitaloudet ovat voineet saada kohtuuhintaista luottoa, turvatakseen rahoitusvakauden ja luodakseen paremman talouden ohjausjärjestelmän. </p>"
+            ],
+            "fr": [
+                "<p>Le budget de l'Union européenne (UE) est en partie financé par un pourcentage du revenu national brut de chaque pays membre. Il sert à financer des mesures aussi diverses que celles visant à améliorer le niveau de vie dans les régions défavorisées ou à garantir la sécurité alimentaire. La plupart des pays de l'UE utilisent une monnaie commune, l'euro.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_fr.htm\"                   lang=\"fr\">Comment l'UE est-elle financée?</a>             </h2>             <p>Les recettes du budget de l'UE proviennent des contributions des pays membres, mais aussi des droits à l'importation imposés sur les produits provenant de pays non membres de l'UE et d'un pourcentage de la taxe sur la valeur ajoutée prélevée par chaque pays.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_fr.htm\"                   lang=\"fr\">À quoi est consacré le budget de l'UE?</a>             </h2>             <p>Le budget de l'UE finance des activités dans de nombreux domaines, comme le développement rural, la protection de l'environnement, le contrôle aux frontières extérieures ou la défense des droits de l'homme. La taille et la répartition du budget sont décidées par la Commission, le Conseil et le Parlement. Mais les dépenses elles-mêmes sont du ressort des États membres et de la Commission.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_fr.htm\"                   lang=\"fr\">L'euro</a>             </h2>             <p>L'euro, qui est utilisé chaque jour par 338,6 millions d'Européens, est la preuve la plus tangible de la coopération entre les pays de l'UE. Ses avantages sont évidents pour quiconque voyage dans l'UE ou fait des achats sur des sites web établis dans un autre pays de l'UE.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">La crise économique et financière</a>             </h2>             <p> La <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">crise économique</a> mondiale qui a éclaté en 2008 a poussé les gouvernements de toute l'UE, la Banque centrale européenne et la Commission à passer à l'action de façon intense et continue. Tous les acteurs concernés collaborent étroitement pour soutenir la croissance et l'emploi, protéger les épargnants, maintenir des possibilités de crédit abordable pour les entreprises et les ménages, assurer la stabilité financière et mettre en place un meilleur système de gouvernance pour l'avenir. </p>"
+            ],
+            "ga": [
+                "<p>Maoinítear buiséad an AE ó fhoinsí lena n-áirítear céatadán d'ollioncam náisiúnta gach ballstáit. Caitear é ar iarrachtaí chomh héagsúil leis an gcaighdeán maireachtála a ardú sna réigiúin is boichte agus sábháilteacht bhia a áirithiú. Is é an euro an comhairgeadra i mbunús mór thíortha an AE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_ga.htm\"                   lang=\"ga\">Cad as a dtagann airgead an AE?</a>             </h2>             <p>Faigheann an AE fáltais ní hamháin ó ranníocaíochtaí ó bhalltíortha ach lena chois sin ó dhleachta ar allmhairí a ghearrtar ar tháirgí ó lasmuigh den AE agus céatadán den cháin bhreisluacha a ghearrann gach tír.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_ga.htm\"                   lang=\"ga\">Conas a chaitear buiséad an AE?</a>             </h2>             <p>Íoctar as liosta mór gníomhaíochtaí le buiséad an AE, ó fhorbairt na tuaithe agus caomhnú an comhshaoil go cosaint teorainneacha seachtracha agus cur chun cinn chearta an duine. Tá cead aighnis ag an gCoimisiún, ag an gComhairle agus ag an bParlaimint i cé chomh mór is a bheidh an buiséad agus conas a chionroinnfear é. Ach is é an Coimisiún agus tíortha an AE atá freagrach as an gcaiteachas iarbhír.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_ga.htm\"                   lang=\"ga\">An euro</a>             </h2>             <p>Is é an euro – a úsáideann tuairim is 338,6 milliún duine de mhuintir na hEorpa gach lá – an cruthúnas is inbhraite de chomhar idir thíortha an AE. Is léir a bhuntáistí láithreach do dhuine ar bith a thaistealaíonn thar lear nó a dhéanann siopadóireacht ar líne ar shuímh ghréasáin atá lonnaithe i dtír eile de chuid an AE.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">An Ghéarcheim Gheilleagrach agus Airgeadais</a>             </h2>             <p> Ó tháinig sé chun cinn ar fud an domhain sa bhliain 2008 ghríosaigh <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">an ghéarchéim gheilleagrach</a>rialtais náisiúnta an AE, an Banc Ceannais Eorpach agus an Coimisiún chun dianbheart marthanach a dhéanamh. Tá gach institiúid díobh ag oibriú as lámha a chéile chun tacú le fás agus le fostaíocht, coigilteas a chosaint, sreabhadh creidmheasa inacmhainne a choimeád do ghnóthais agus do theaghlaigh, cobhsaíocht airgeadais a chinntiú, agus chun córas rialachais níos fearr a chur i bhfeidhm don todhchaí. </p>"
+            ],
+            "hr": [
+                "<p>Proračun EU-a financira se, među ostalim, dijelom bruto nacionalnog dohotka svih država članica. Koristi se u različite svrhe, od podizanja životnog standarda u siromašnijim regijama do brige za sigurnost hrane. Euro je zajednička valuta većine država članica EU-a.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_hr.htm\"                   lang=\"hr\">Kako se financira EU?</a>             </h2>             <p>Prihod EU-a ne čine samo doprinosi država članica nego i uvozne carine na proizvode iz zemalja izvan EU-a te postotak poreza na dodanu vrijednost koji se ubire u svakoj zemlji.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_hr.htm\"                   lang=\"hr\">Kako se troši proračun EU-a?</a>             </h2>             <p>Iz proračuna EU-a financiraju se brojne aktivnosti, od ruralnog razvoja i zaštite okoliša do zaštite vanjskih granica i promicanja ljudskih prava. Komisija, Vijeće i Parlament zajednički odlučuju o iznosu i raspodjeli proračuna. Međutim za stvarno trošenje nadležne su Komisija i države članice.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_hr.htm\"                   lang=\"hr\">Euro</a>             </h2>             <p>Euro, kojim se svakodnevno koristi 338,6 milijuna Europljana, najopipljiviji je dokaz suradnje među državama članicama. Njegove su prednosti očite svakom tko putuje u inozemstvo ili kupuje putem internetskih stranica iz druge države članice.</p>             <h2>           Gospodarska i financijska kriza <a href=\"http://ec.europa.eu/economy_finance/focuson/crisis/index_en.htm\"                   lang=\"en\">                   <img src=\"http://europa.eu/wel/images/languages/lang_en.gif\" align=\"bottom\"                        alt=\"English\"                        border=\"none\"                        class=\"alIco\"                        height=\"13\"                        lang=\"en\"                        width=\"18\"/>                </a>             </h2>             <p>Izbijanjem <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">gospodarske krize</a> 2008. države članice, Europska središnja banka i Komisija potaknute su na poduzimanje odlučnih i održivih mjera. Bliskom suradnjom podupiru gospodarski rast i zapošljavanje, osiguravaju ušteđevine i dostupnost povoljnih kredita za poduzeća i kućanstva, jamče financijsku stabilnost te uspostavljaju bolji sustav upravljanja za budućnost.</p>"
+            ],
+            "hu": [
+                "<p>Az EU költségvetését többek között az egyes tagállamok bruttó nemzeti jövedelmének bizonyos hányadából finanszírozzák.  Ezeket a forrásokat különféle tevékenységekre fordítják, például a szegényebb régiók életszínvonalának növelésére vagy az élelmiszer-biztonságra.  A legtöbb uniós ország közös valutája az euró. </p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_hu.htm\"                   lang=\"hu\">Az EU finanszírozása</a>             </h2>             <p>Az EU bevétele részben a tagállami hozzájárulásokból, részben pedig az Unión kívülről érkező termékekre kivetett importvámokból származik, továbbá az egyes országok által kivetett hozzáadottérték-adó bizonyos hányadából.  </p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_hu.htm\"                   lang=\"hu\">Hogyan költi el az EU a pénzt?</a>             </h2>             <p>Az EU a költségvetéséből számtalan tevékenységet finanszíroz, a vidékfejlesztéstől kezdve a környezetvédelmen át a külső határok védelméig és az emberi jogok előmozdításáig.  A Bizottság, a Tanács és a Parlament egyaránt részt vesz a költségvetés összegének és elosztási módjának a meghatározásában. A források tényleges elköltéséért azonban a Bizottság és az uniós tagállamok felelősek. </p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_hu.htm\"                   lang=\"hu\">Az euró</a>             </h2>             <p>Az uniós országok közötti együttműködés legkézzelfoghatóbb bizonyítéka a közös fizetőeszköz, az euró, amelyet nap mint nap mintegy 338,6 millió európai polgár használ. Az euró előnyei mindenki számára nyilvánvalóak, aki külföldre utazik vagy más uniós tagállamban üzemeltetett weboldalon kíván vásárolni.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">A gazdasági és pénzügyi válság</a>             </h2>             <p> A <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">gazdasági világválság</a> 2008-as kirobbanása óta az Európai Központi Bank, a Bizottság és az uniós tagállamok kormányai hatékony és következetes intézkedéseket hoztak a problémák orvoslására. Egymással szorosan együttműködnek annak érdekében, hogy támogassák a növekedést és a foglalkoztatást, védjék a megtakarításokat, jobb kormányzási rendszert léptessenek életbe, valamint hogy biztosítsák a pénzügyi stabilitást és azt, hogy a vállalkozások és a háztartások megfizethető áron jussanak hitelhez. </p>"
+            ],
+            "it": [
+                "<p>Il bilancio dell'UE è finanziato da varie fonti, tra le quali una percentuale del reddito nazionale lordo di ciascun paese membro. Le risorse sono destinate a misure molto diverse, come innalzare il tenore di vita nelle regioni più povere e garantire la sicurezza alimentare. La maggior parte dei paesi dell'UE utilizzano una moneta comune, l'euro.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_it.htm\"                   lang=\"it\">Come viene finanziata l'UE</a>             </h2>             <p>Le entrate dell'UE non derivano solo dai contributi dei paesi membri, ma anche da dazi all'importazione sui prodotti provenienti dall'esterno dell'Unione e da una percentuale dell'IVA riscossa da ciascun paese.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_it.htm\"                   lang=\"it\">Come viene speso il bilancio dell'UE</a>             </h2>             <p>Il bilancio dell'UE finanzia numerose attività in settori che vanno dallo sviluppo rurale e la protezione dell'ambiente alla difesa delle frontiere esterne e la promozione dei diritti umani. Commissione, Consiglio e Parlamento decidono insieme l'entità del bilancio e la ripartizione delle risorse. Responsabili dell'effettiva esecuzione della spesa sono tuttavia la Commissione e i paesi dell'UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_it.htm\"                   lang=\"it\">L'euro</a>             </h2>             <p>L'euro, utilizzato ogni giorno da circa 338,6 milioni di europei, è la prova più tangibile della cooperazione tra i paesi dell'UE. I suoi vantaggi sono evidenti a chiunque faccia viaggi all'estero o acquisti online su siti basati in un altro paese dell'UE.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">La crisi economica e finanziaria</a>             </h2>             <p> Da quando è scoppiata, nel 2008, la <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">crisi economica</a> mondiale ha richiesto interventi energici e ripetuti da parte dei governi dei paesi UE, della Banca centrale europea e della Commissione. Tutti questi attori hanno collaborato per sostenere la crescita e l'occupazione, tutelare i risparmi, mantenere un flusso di credito accessibile per le imprese e le famiglie, garantire la stabilità finanziaria ed istituire un sistema di governance migliore per il futuro. </p>"
+            ],
+            "lt": [
+                "<p>ES biudžeto finansavimo šaltiniai įvairūs, tarp jų – tam tikra kiekvienos valstybės narės bendrųjų nacionalinių pajamų dalis. Šios lėšos leidžiamos siekiant įvairiausių tikslų, pavyzdžiui, didinti skurdesnių regionų gyvenimo lygį, užtikrinti maisto saugą. Daugumoje ES šalių naudojama bendra valiuta euras.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_lt.htm\"                   lang=\"lt\">Kaip finansuojama ES?</a>             </h2>             <p>ES pajamas sudaro ne tik valstybių narių įnašai, bet ir lėšos, gaunamos iš produktų importo iš ES nepriklausančių šalių muitų, bei iš kiekvienos valstybės narės renkamo pridėtinės vertės mokesčio dalis.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_lt.htm\"                   lang=\"lt\">Kaip naudojamos ES biudžeto lėšos?</a>             </h2>             <p>ES biudžeto lėšos skiriamos įvairiausiai veiklai: kaimo plėtrai, aplinkos, išorės sienų apsaugai, žmogaus teisių propagavimui ir kt. Apie biudžeto dydį ir jo lėšų paskirstymą nuomonę išsako trys institucijos – Komisija, Taryba ir Parlamentas. Tačiau už pačias išlaidas atsakinga Komisija ir ES šalys.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_lt.htm\"                   lang=\"lt\">Euras</a>             </h2>             <p>Euras – valiuta, kuria kasdien naudojasi apie 338,6 mln. europiečių – yra apčiuopiamiausias ES šalių bendradarbiavimo įrodymas. Euro nauda akivaizdi kiekvienam keliaujančiam į užsienį ar apsiperkančiam internetu kitos ES šalies svetainėje.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Ekonomikos ir finansų krizė</a>             </h2>             <p> 2008 m. pasaulį sukrėtus <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">ekonomikos krizei</a> ES šalių vyriausybės, Europos centrinis bankas ir Komisija ėmėsi intensyvių ilgalaikių veiksmų. Jie visi glaudžiai bendradarbiavo siekdami remti ekonomikos augimą ir užimtumą, apsaugoti santaupas, išlaikyti įmonėms ir namų ūkiams prieinamų kreditų srautą, užtikrinti finansinį stabilumą ir geresnę valdymo sistemą ateičiai. </p>"
+            ],
+            "lv": [
+                "<p>ES budžetu veido no vairākiem avotiem, tostarp katra dalībvalsts iemaksā zināmu procentuālu daļu no sava nacionālā kopienākuma. Šos līdzekļus tērē ļoti dažādām vajadzībām, piemēram, paaugstina dzīves līmeni relatīvi nabadzīgos reģionos un gādā par pārtikas nekaitīgumu. Vairumā ES dalībvalstu ir vienota valūta eiro.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_lv.htm\"                   lang=\"lv\">Kur ES iegūst līdzekļus</a>             </h2>             <p>ES ienākumus gūst ne tikai no dalībvalstu iemaksām, bet arī no importa nodokļiem, kas uzlikti no ārpussavienības valstīm importētām precēm. Tā saņem arī procentuālu daļu no katrā valstī iekasētā pievienotās vērtības nodokļa.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_lv.htm\"                   lang=\"lv\">Kā tiek izlietots ES budžets</a>             </h2>             <p>No ES budžeta finansē pasākumus visdažādākajās jomās: sākot no lauku attīstības un vides aizsardzības līdz pat ES ārējo robežu aizsardzībai un cilvēktiesību aizstāvībai. Visas trīs galvenās ES iestādes — Padome, Parlaments un Komisija — kopīgi lemj par budžeta apjomu un sadalījumu. Toties līdzekļu faktiskā izlietošana ir Komisijas un dalībvalstu ziņā.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_lv.htm\"                   lang=\"lv\">Eiro</a>             </h2>             <p>Eiro valūta, ko ik dienu izmanto ap 338,6 miljoniem ES iedzīvotāju, ir visuzskatāmākais ES valstu sadarbības piemērs. Tās priekšrocības uzreiz sajūt ikviens, kas dodas uz ārzemēm vai iepērkas citu ES dalībvalstu interneta veikalos.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Ekonomikas un finanšu krīze</a>             </h2>             <p>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Ekonomikas krīze</a>, kopš tā piemeklēja pasauli 2008. gadā, ir pamudinājusi ES valstu valdības, Eiropas Centrālo banku un Komisiju uz spraigu un pastāvīgu rīcību. Tās visas intensīvi sadarbojas, lai atbalstītu izaugsmi un nodarbinātību, aizsargātu ietaupījumus, uzturētu zemu izmaksu kredīta plūsmu uzņēmumiem un ģimenēm, garantētu finanšu stabilitāti un ieviestu labāku pārvaldības sistēmu priekšdienām. </p>"
+            ],
+            "mt": [
+                "<p>Il-baġit tal-UE hu ffinanzjat minn sorsi li jinkludu perċentwal tad-dħul gross nazzjonali ta' kull pajjiż membru. Jintefaq fuq sforzi differenti bħal kundizzjonijiet ta' għajxien aħjar fl-ifqar reġjuni u l-iżgurar tas-sikurezza tal-ikel. L-ewro hi l-munita komuni għal ħafna mill-pajjiżi tal-UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_mt.htm\"                   lang=\"mt\">Kif tiġi ffinanzjata l-UE?</a>             </h2>             <p>L-UE tikseb id-dħul tagħha mhux biss mill-kontribuzzjonijiet tal-istati membri iżda wkoll minn dazji fuq l-importazzjonijiet fuq prodotti minn barra l-UE u perċentwal tat-taxxa fuq il-valur miżjud imposta minn kull pajjiż membru.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_mt.htm\"                   lang=\"mt\">Kif jintefaq il-baġit tal-UE?</a>             </h2>             <p>Il-baġit tal-UE jħallas firxa wiesgħa ta' attivitajiet mill-iżvilupp rurali u l-ħarsien ambjentali sal-ħarsien tal-fruntieri esterni u l-promozzjoni tad-drittijiet fundamentali. Il-Kummissjoni, il-Kunsill u l-Parlament ilkoll għandhom sehem biex jiddeċiedu dwar id-daqs tal-baġit u kif għandu jiġi allokat. Iżda l-Kummissjoni u l-pajjiżi tal-UE huma responsabbli għall-infiq kurrenti.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_mt.htm\"                   lang=\"mt\">L-ewro</a>             </h2>             <p>L-ewro, li jintuża ta' kuljum minn madwar 338.6 miljun Ewropew, hu l-iktar prova tanġibbli tal-kooperazzjoni bejn il-pajjiżi tal-UE. Il-benefiċċji tal-ewro huma ovvji għal kull min jivvjaġġa jew jixtri onlajn fuq websajts ibbażati f'pajjiż ieħor tal-UE.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Il-Kriżi Ekonomika u Finanzjarja</a>             </h2>             <p> Il-<a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">kriżi ekonomika</a>, mill-bidu tagħha fl-2008, qanqlet azzjoni intensa u kontinwa mill-gvernijiet nazzjonali tal-UE, il-Bank Ċentrali Ewropew u l-Kummissjoni. Ilkoll ħadmu flimkien biex jappoġġaw it-tkabbir ekonomiku u l-impjiegi, jipproteġu l-flus imfaddla, iżommu fluss ta' kreditu li n-negozji u l-familji jistgħu jiksbu, jiżguraw l-istabbiltà finanzjarja, u jimplimentaw sistema ta' governanza mtejba għall-futur. </p>"
+            ],
+            "nl": [
+                "<p>De inkomsten van de EU-begroting zijn onder meer gebaseerd op een percentage van het bnp van elk EU-land. De uitgaven betreffen allerlei zaken, van het verhogen van de levensstandaard in arme gebieden tot het verzekeren van de voedselveiligheid. De euro is de gemeenschappelijke munt van de meeste EU-landen.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_nl.htm\"                   lang=\"nl\">Zo wordt de EU gefinancierd</a>             </h2>             <p>De EU-begroting wordt betaald met bijdragen van de EU-landen, maar ook met invoerrechten op producten van buiten de EU en een percentage van de btw-opbrengst van elk land.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_nl.htm\"                   lang=\"nl\">Zo wordt het EU-geld besteed</a>             </h2>             <p>De EU-begroting financiert een brede waaier van activiteiten, van plattelandsontwikkeling en milieubescherming tot bescherming van de mensenrechten en de buitengrenzen van de EU. De Commissie, het Parlement en de Raad hebben allemaal inspraak in de omvang van de begroting en de verdeling van de middelen. Maar uiteindelijk zijn het de Commissie en de EU-landen die het geld mogen uitgeven.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_nl.htm\"                   lang=\"nl\">De euro</a>             </h2>             <p>De euro wordt iedere dag gebruikt door zo'n 338,6 miljoen Europeanen en is het meest tastbare bewijs van de samenwerking tussen de EU-landen. De voordelen ervan zijn manifest als u naar het buitenland reist of op internet dingen koopt uit een ander EU-land.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">De economische en financiële crisis</a>             </h2>             <p> De wereldwijde <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">economische crisis</a> heeft sinds ze in 2008 uitbrak, aanleiding gegeven tot intense en langdurige interventies van de nationale regeringen, de Europese Centrale Bank en de Commissie. Iedereen heeft nauw samengewerkt om groei en werkgelegenheid te bevorderen, spaargelden te beschermen, betaalbaar krediet voor bedrijven en gezinnen te verstrekken, de financiële stabiliteit te bevorderen en een beter bestuur voor de toekomst mogelijk te maken. </p>"
+            ],
+            "pl": [
+                "<p>Budżet UE jest finansowany ze źródeł obejmujących określony procent dochodu narodowego brutto każdego państwa członkowskiego. Wydatki z budżetu wykorzystuje się na tak różnorodne działania, jak poprawa poziomu życia w uboższych regionach oraz zapewnienie bezpieczeństwa żywności. Euro jest wspólną walutą większości państw UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_pl.htm\"                   lang=\"pl\">W jaki sposób finansowana jest Unia Europejska?</a>             </h2>             <p>Unia Europejska uzyskuje dochody nie tylko ze składek państw członkowskich, lecz również z ceł przywozowych nakładanych na produkty pochodzące spoza UE oraz w postaci określonego odsetka podatku od wartości dodanej (VAT) pobieranego przez każde państwo członkowskie.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_pl.htm\"                   lang=\"pl\">W jaki sposób wykorzystywane są środki z budżetu UE?</a>             </h2>             <p>Z budżetu UE finansuje się szeroki zakres działań, począwszy od rozwoju wsi i ochrony środowiska, a skończywszy na ochronie granic zewnętrznych i propagowaniu praw człowieka. Ustalanie wielkości budżetu i sposobu jego rozdzielania należy do Komisji, Rady i Parlamentu. Za rzeczywiste wykorzystanie budżetu odpowiadają natomiast Komisja i państwa członkowskie UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_pl.htm\"                   lang=\"pl\">Euro</a>             </h2>             <p>Euro – waluta używana codziennie przez około 338,6 milionów Europejczyków – jest najbardziej namacalnym dowodem współpracy między państwami UE. Korzyści płynące ze wspólnej waluty są oczywiste dla każdego, kto podróżuje za granicą lub dokonuje zakupów na stronach internetowych działających w innym państwie UE.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Kryzys gospodarczy i finansowy</a>             </h2>             <p> W odpowiedzi na <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">kryzys gospodarczy</a>, który w 2008 r. objął cały świat,  władze państw członkowskich, Europejski Bank Centralny i Komisja podjęły w ścisłej współpracy wiele działań, których celem jest: pobudzenie wzrostu gospodarczego i zatrudnienia, chronienie oszczędności obywateli, zapewnienie przedsiębiorstwom i gospodarstwom domowym dostępu do przystępnych pożyczek, zagwarantowanie stabilności finansowej oraz ustanowienie lepszego systemu zarządzania. </p>"
+            ],
+            "pt": [
+                "<p>Entre as fontes de financiamento que contribuem para o orçamento da UE figura uma percentagem do rendimento nacional bruto de cada Estado-Membro. O orçamento da UE destina-se a ações tão diversas como melhorar o nível de vida nas regiões mais desfavorecidas ou garantir a segurança dos alimentos. O euro é a moeda comum da maioria dos países da UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_pt.htm\"                   lang=\"pt\">Como é financiada a UE?</a>             </h2>             <p>As receitas da UE provêm não só das contribuições dos seus Estados-Membros, mas também dos direitos de importação aplicados a produtos provenientes de países terceiros e de uma percentagem do imposto sobre o valor acrescentado (IVA) cobrado por cada país.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_pt.htm\"                   lang=\"pt\">Como é gasto o orçamento da UE?</a>             </h2>             <p>As verbas do orçamento da UE destinam-se a cobrir um vasto leque de atividades, que vão desde o desenvolvimento rural e a defesa do ambiente à proteção das fronteiras externas e à promoção dos direitos humanos. Os pontos de vista da Comissão, do Conselho e do Parlamento são tidos em conta para determinar o montante global do orçamento e a atribuição das diferentes verbas, mas a Comissão e os países da UE são os responsáveis pela forma como o dinheiro é efetivamente gasto.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_pt.htm\"                   lang=\"pt\">O euro</a>             </h2>             <p>O euro – diariamente utilizado por cerca de 338,6 milhões de europeus – é a prova mais palpável da cooperação entre os países da UE. As suas vantagens são óbvias para qualquer pessoa que viaje para o estrangeiro ou faça compras em linha em sítios da Internet estabelecidos noutro país da UE.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">A crise económica e financeira</a>             </h2>             <p> Desde o início da <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">crise económica</a> mundial, em 2008, tem-se assistido a um empenhamento constante e determinado dos governos dos países da UE, do Banco Central Europeu e da Comissão Europeia, que têm  colaborado de forma estreita para promover o crescimento e o emprego, proteger a poupança, manter um fluxo de crédito acessível aos particulares e às empresas, assegurar a estabilidade financeira e instaurar um melhor sistema de governança para o futuro. </p>"
+            ],
+            "ro": [
+                "<p>Bugetul UE este finanţat din surse care includ un procent din venitul naţional brut al fiecărui stat membru. Acest buget este orientat către domenii foarte diferite, cum ar fi creşterea nivelului de trai în regiunile mai sărace sau garantarea siguranţei alimentare. Euro este moneda comună a celor mai multe ţări ale Uniunii.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_ro.htm\"                   lang=\"ro\">Cum este finanțat bugetul UE?</a>             </h2>             <p>În bugetul UE se regăsesc nu numai contribuţiile statelor membre, ci şi taxele vamale de import aplicate produselor provenind din afara Uniunii şi un procent din taxa pe valoare adăugată percepută de fiecare ţară.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_ro.htm\"                   lang=\"ro\">Cum este cheltuit bugetul UE?</a>             </h2>             <p>Din bugetul UE sunt finanţate diverse activităţi, de la dezvoltare rurală şi protecţia mediului, până la promovarea drepturilor omului şi asigurarea protecţiei la frontierele externe. Comisia, Consiliul şi Parlamentul sunt instituţiile care au un cuvânt de spus în stabilirea şi alocarea bugetului. Însă Comisia şi statele membre răspund de cheltuirea efectivă a fondurilor.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_ro.htm\"                   lang=\"ro\">Moneda euro</a>             </h2>             <p>Euro, moneda folosită zilnic de aproximativ 338,6 de milioane de europeni, este dovada cea mai tangibilă a cooperării dintre statele membre. Avantajele sale sunt evidente pentru orice persoană care călătoreşte în străinătate sau face cumpărături on-line pe site-uri din alte ţări ale UE.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Criza economică şi financiară</a>             </h2>             <p>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Criza economică</a> declanşată în 2008 şi care afectează toate ţările din lume a determinat ţările UE, Banca Centrală Europeană şi Comisia să ia măsuri majore şi sistematice.  care vizează favorizarea creşterii economice şi crearea de locuri de muncă, protejarea economiilor contribuabililor, menţinerea unui flux de lichidităţi corespunzător pentru întreprinderi şi cetăţeni, asigurarea stabilităţii financiare şi crearea unui sistem de guvernanţă mai bun pentru viitor. </p>"
+            ],
+            "sk": [
+                "<p>Rozpočet EÚ je financovaný z rôznych zdrojov, napríklad z príspevku vo výške určitého percenta hrubého národného dôchodku každého členského štátu. Prostriedky z rozpočtu sa používajú na rôznorodé ciele, ako napríklad zvyšovanie životných štandardov chudobnejších regiónov a zaistenie potravín bezpečných pre zdravie. Euro je spoločná mena vo väčšine krajín EÚ.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_sk.htm\"                   lang=\"sk\">Aké sú zdroje príjmov EÚ?</a>             </h2>             <p>Zdrojom príjmov EÚ sú nielen príspevky členských štátov, ale aj importné clá na výrobky dovezené do EÚ a podiel na DPH odvedenej v jednotlivých členských štátoch.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_sk.htm\"                   lang=\"sk\">Na čo sa využíva rozpočet EÚ?</a>             </h2>             <p>Z rozpočtu EÚ sa financuje široké spektrum činností – od rozvoja vidieka a ochrany životného prostredia po ochranu vonkajších hraníc Únie a podporu ľudských práv. O výške rozpočtu a jeho použití rozhodujú na návrh Komisie spoločne Rada a Parlament. Za skutočné plnenie a čerpanie rozpočtu však zodpovedá Komisia a členské štáty EÚ.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_sk.htm\"                   lang=\"sk\">Euro</a>             </h2>             <p>Euro, ktoré každodenne používa skoro 338,6 milióna Európanov, je najhmatateľnejším dôkazom spolupráce krajín EÚ. Prínosy eura okamžite pocíti každý, kto cestuje do zahraničia alebo nakupuje na internete od predajcu z iného štátu eurozóny.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Hospodárska a finančná kríza</a>             </h2>             <p> Od prepuknutia v celosvetovom meradle v roku 2008 si <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">hospodárska kríza</a> vyžaduje rýchle a kontinuálne opatrenia zo strany národných vlád, Európskej centrálnej banky a Komisie. Všetky tieto inštitúcie úzko spolupracujú na podpore rastu a tvorby pracovných miest, ochrane úspor, zachovaní poskytovania úverov podnikateľom a domácnostiam, zabezpečovaní finančnej stability a na zavádzaní lepších pravidiel hospodárskej správy a riadenia do budúcnosti. </p>"
+            ],
+            "sl": [
+                "<p>Proračun EU se financira iz različnih virov, tudi iz deleža bruto nacionalnega dohodka držav članic. Proračunska sredstva so med drugim namenjena dvigu življenjskega standarda v revnih regijah in skrbi za varnost hrane. Evro je skupna valuta večine držav EU.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_sl.htm\"                   lang=\"sl\">Viri financiranja EU</a>             </h2>             <p>Evropska unija prihodke črpa iz različnih virov: prispevkov držav članic, uvoznih dajatev za proizvode iz držav zunaj EU in odstotnega deleža davka na dodano vrednost, ki ga pobirajo države članice.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_sl.htm\"                   lang=\"sl\">Poraba proračunskih sredstev EU</a>             </h2>             <p>Iz proračuna EU se financirajo številne dejavnosti, od razvoja podeželja in varstva okolja do nadzora na zunanjih mejah in uveljavljanja človekovih pravic. Evropska komisija, Svet in Evropski parlament odločajo o višini proračuna in dodeljevanju sredstev. Toda odgovornost za dejansko porabo sredstev nosijo Evropska komisija in države EU.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_sl.htm\"                   lang=\"sl\">Evro</a>             </h2>             <p>Evro, s katerim vsak dan plačuje približno 338,6 milijonov evropskih državljanov, je otipljiv dokaz sodelovanja držav EU. Evropskim državljanom prinaša veliko koristi, zlasti kadar potujejo v tujino ali opravljajo spletne nakupe na tujih spletnih straneh.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Gospodarska in finančna kriza</a>             </h2>             <p> Zaradi svetovne <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">gospodarske krize</a>, ki se je začela leta 2008, so države članice EU, Evropska centralna banka in Evropska komisija prisiljene sprejemati nekatere odločne in trajnostne ukrepe, in tako podpreti gospodarsko rast in zaposlovanje, zavarovati prihranke, ohraniti dostopnost posojil za podjetja in gospodinjstva, zagotoviti finančno stabilnost ter izboljšati sistem finančnega upravljanja. </p>"
+            ],
+            "sv": [
+                "<p>EU:s budget finansieras bland annat genom att varje medlemsland bidrar med en andel av sin bruttonationalinkomst. Budgeten används till alltifrån insatser för att höja levnadsstandarden i fattigare regioner till att trygga livsmedelsförsörjningen. Euron är gemensam valuta i de flesta EU-länder.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/revenue-income/index_sv.htm\"                   lang=\"sv\">Hur finansieras EU:s verksamhet?</a>             </h2>             <p>EU får in pengar på flera sätt: genom bidrag från medlemsländerna, genom tullar på varor från länder utanför EU och genom en procentandel av den moms som tas ut i medlemsländerna.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/expenditure/index_sv.htm\"                   lang=\"sv\">Hur används EU:s budget?</a>             </h2>             <p>Via EU:s budget betalas en rad verksamheter, t.ex. landsbygdsutveckling, miljöskydd, skydd av de yttre gränserna och främjande av mänskliga rättigheter. Kommissionen, ministerrådet och parlamentet beslutar om budgetens storlek och hur den ska användas, men kommissionen och EU-länderna ansvarar för de faktiska utgifterna.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/money/euro/index_sv.htm\"                   lang=\"sv\">Euron</a>             </h2>             <p>Euron – som används varje dag av cirka 338,6 miljoner människor i Europa – är det mest handfasta beviset på samarbetet mellan EU-länderna. Alla som reser utomlands eller handlar på webbplatser i andra EU-länder ser direkt den praktiska nyttan med euron.</p>             <h2>                <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">Den ekonomiska och finansiella krisen</a>             </h2>             <p> Den globala <a href=\"http://ec.europa.eu/economy_finance/crisis/index_en.htm\" lang=\"en\">ekonomiska krisen</a> som inleddes 2008 har krävt snabba och ihållande insatser från EU-länderna, Europeiska centralbanken och EU-kommissionen.  De arbetar nära tillsammans för att stödja tillväxt och sysselsättning, skydda besparingar, upprätthålla kreditflödet till företag och hushåll och förbättra styrelseformerna. </p>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_31b5fe2c4e6f5c16074a06591043e2fa"
+            ]
+        }
+    }
+}

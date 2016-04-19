@@ -1,0 +1,201 @@
+{
+    "_id": "612ddfe012983d4298217b801923afe",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "hu",
+        "lt",
+        "de",
+        "fr",
+        "pl",
+        "mt",
+        "fi",
+        "ga",
+        "es",
+        "pt",
+        "sk",
+        "el",
+        "it",
+        "cs",
+        "nl",
+        "sl",
+        "sv",
+        "hr",
+        "da",
+        "bg",
+        "ro",
+        "et",
+        "und",
+        "lv"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2009-07-23 0:00:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                16
+            ]
+        },
+        "parent": {
+            "und": [
+                "65fb9fe6d1af2364cfd25606440fbd2"
+            ]
+        },
+        "level": {
+            "und": [
+                3
+            ]
+        },
+        "title": {
+            "bg": [
+                "Свържете се с уебекипа"
+            ],
+            "cs": [
+                "Obraťte se na internetový tým"
+            ],
+            "da": [
+                "Kontakt webteamet"
+            ],
+            "de": [
+                "Kontakt zum Webteam"
+            ],
+            "el": [
+                "Επικοινωνήστε με την ομάδα του ιστότοπου"
+            ],
+            "und": [
+                "Contact the web team"
+            ],
+            "es": [
+                "Contactar con el equipo de la web"
+            ],
+            "et": [
+                "Võtke ühendust meie veebimeeskonnaga"
+            ],
+            "fi": [
+                "Palautetta sivustosta"
+            ],
+            "fr": [
+                "Contacter l’équipe web"
+            ],
+            "ga": [
+                "Déan teagmháil le foireann an tsuímh gréasáin"
+            ],
+            "hr": [
+                "Obratite se ​web-timu"
+            ],
+            "hu": [
+                "Kapcsolatfelvétel a portál webkoordinátoraival"
+            ],
+            "it": [
+                "Contatta l’équipe web"
+            ],
+            "lt": [
+                "Susisiekite su interneto svetainės komanda"
+            ],
+            "lv": [
+                "Kā sazināties ar šīs vietnes veidotājiem"
+            ],
+            "mt": [
+                "Ikkuntattja lit-tim web"
+            ],
+            "nl": [
+                "Webteam europa.eu"
+            ],
+            "pl": [
+                "Kontakt z administratorem strony"
+            ],
+            "pt": [
+                "Contactar a equipa Web"
+            ],
+            "ro": [
+                "Rețele de socializare"
+            ],
+            "sk": [
+                "Kontaktujte webový tím"
+            ],
+            "sl": [
+                "Pišite spletni ekipi"
+            ],
+            "sv": [
+                "Kontakta webbteamet"
+            ]
+        },
+        "link": {
+            "bg": [
+                "contact/mailbox"
+            ],
+            "cs": [
+                "contact/mailbox"
+            ],
+            "da": [
+                "contact/mailbox"
+            ],
+            "de": [
+                "contact/mailbox"
+            ],
+            "el": [
+                "contact/mailbox"
+            ],
+            "und": [
+                "contact/mailbox"
+            ],
+            "es": [
+                "contact/mailbox"
+            ],
+            "et": [
+                "contact/mailbox"
+            ],
+            "fi": [
+                "contact/mailbox"
+            ],
+            "fr": [
+                "contact/mailbox"
+            ],
+            "ga": [
+                "contact/mailbox"
+            ],
+            "hr": [
+                "contact/mailbox"
+            ],
+            "hu": [
+                "contact/mailbox"
+            ],
+            "it": [
+                "contact/mailbox"
+            ],
+            "lt": [
+                "contact/mailbox"
+            ],
+            "lv": [
+                "contact/mailbox"
+            ],
+            "mt": [
+                "contact/mailbox"
+            ],
+            "nl": [
+                "contact/mailbox"
+            ],
+            "pl": [
+                "contact/mailbox"
+            ],
+            "pt": [
+                "contact/mailbox"
+            ],
+            "ro": [
+                "contact/mailbox"
+            ],
+            "sk": [
+                "contact/mailbox"
+            ],
+            "sl": [
+                "contact/mailbox"
+            ],
+            "sv": [
+                "contact/mailbox"
+            ]
+        }
+    }
+}

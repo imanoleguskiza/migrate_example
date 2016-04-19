@@ -1,0 +1,710 @@
+{
+  "_id": "8fa602d1f20dda0a3fe9ad9d1a3d7b6e",
+  "type": "institution",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/erc/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Изпълнителна агенция на Европейския съвет за научни изследвания"
+      ],
+      "cs": [
+        "Výkonná agentura Evropské rady pro výzkum"
+      ],
+      "da": [
+        "Forvaltningsorganet for Det Europæiske Forskningsråd"
+      ],
+      "de": [
+        "Exekutivagentur des Europäischen Forschungsrates"
+      ],
+      "el": [
+        "Εκτελεστικός Οργανισμός του Ευρωπαϊκού Συμβουλίου Έρευνας"
+      ],
+      "en": [
+        "European Research Council Executive Agency"
+      ],
+      "es": [
+        "La Agencia Ejecutiva del Consejo Europeo de Investigación"
+      ],
+      "et": [
+        "Euroopa Teadusnõukogu Rakendusamet"
+      ],
+      "fi": [
+        "Euroopan tutkimusneuvoston toimeenpanovirasto"
+      ],
+      "fr": [
+        "Agence exécutive du Conseil européen de la recherche"
+      ],
+      "ga": [
+        "Gníomhaireacht Feidhmiúcháin Chomhairle Taighde na hEorpa"
+      ],
+      "hr": [
+        "Izvršna agencija Europskoga istraživačkog vijeća"
+      ],
+      "hu": [
+        "Az Európai Kutatási Tanács Végrehajtó Ügynöksége"
+      ],
+      "it": [
+        "Agenzia esecutiva del Consiglio europeo della ricerca"
+      ],
+      "lt": [
+        "Europos mokslinių tyrimų tarybos vykdomoji įstaiga"
+      ],
+      "lv": [
+        "Eiropas Pētniecības padomes izpildaģentūra"
+      ],
+      "mt": [
+        "l-Aġenzija Eżekuttiva tal-Kunsill Ewropew għar-Riċerka"
+      ],
+      "nl": [
+        "Uitvoerend Agentschap Europese Onderzoeksraad"
+      ],
+      "pl": [
+        "Agencja Wykonawcza Europejskiej Rady ds. Badań Naukowych"
+      ],
+      "pt": [
+        "Agência Executiva do Conselho Europeu de Investigação (CEI)"
+      ],
+      "ro": [
+        "Agenţia Executivă a Consiliului European pentru Cercetare"
+      ],
+      "sk": [
+        "Výkonná agentúra Európskej rady pre výskum"
+      ],
+      "sl": [
+        "Izvajalska agencija Evropskega raziskovalnega sveta"
+      ],
+      "sv": [
+        "Genomförandeorganet för Europeiska forskningsrådet"
+      ]
+    },
+    "category": {
+      "und": [
+        "23337c45",
+        "40261c31"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "EUROPA/"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "EUROPA/"
+      ],
+      "es": [
+        "EUROPA/"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "EUROPA/"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA/"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "EUROPA/"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Достъп и основна информация за Изпълнителна агенция „Интелигентна Енергия” - агенция на Европейския съюз"
+      ],
+      "cs": [
+        "Europa"
+      ],
+      "da": [
+        "Europa"
+      ],
+      "de": [
+        "Europa"
+      ],
+      "el": [
+        "European Commission - Access to, and background information on the Intellignet Energy Executive Agency, an agency of the European Union"
+      ],
+      "en": [
+        "European Commission - Access to, and background information on the Intellignet Energy Executive Agency, an agency of the European Union"
+      ],
+      "es": [
+        "Europa"
+      ],
+      "et": [
+        "European Commission - Access to, and background information on the Intellignet Energy Executive Agency, an agency of the European Union"
+      ],
+      "fi": [
+        "Europa"
+      ],
+      "fr": [
+        "European Commission - Access to, and background information on the Intellignet Energy Executive Agency, an agency of the European Union"
+      ],
+      "ga": [
+        "An Coimisiún Eorpach – Rochtain ar an nGníomhaireacht Feidhmiúcháin um Iomaíochas agus Nuálaíocht, ar gníomhaireacht de chuid an Aontais Eorpaigh í, agus faisnéis chúlra maidir léi"
+      ],
+      "hr": [
+        "Europska komisija - Pristup Izvršnoj agenciji za inteligentnu energiju (agenciji Europske unije) i popratne informacije "
+      ],
+      "hu": [
+        "Europa"
+      ],
+      "it": [
+        "Europa"
+      ],
+      "lt": [
+        "European Commission - Access to, and background information on the Intellignet Energy Executive Agency, an agency of the European Union"
+      ],
+      "lv": [
+        "Europa"
+      ],
+      "mt": [
+        "Europa"
+      ],
+      "nl": [
+        "Europa"
+      ],
+      "pl": [
+        "Europa"
+      ],
+      "pt": [
+        "europa"
+      ],
+      "ro": [
+        "Comisia Europeană - Acces şi informaţii generale referitoare la Agenţia Executivă pentru Competitivitate şi Inovare, o agenţie a Uniunii Europene"
+      ],
+      "sk": [
+        "Europa"
+      ],
+      "sl": [
+        "Europa"
+      ],
+      "sv": [
+        "Europa"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "europa"
+      ],
+      "cs": [
+        "europa"
+      ],
+      "da": [
+        "europa"
+      ],
+      "de": [
+        "europa"
+      ],
+      "el": [
+        "europa"
+      ],
+      "en": [
+        "europa"
+      ],
+      "es": [
+        "europa"
+      ],
+      "et": [
+        "europa"
+      ],
+      "fi": [
+        "europa"
+      ],
+      "fr": [
+        "europa"
+      ],
+      "ga": [
+        "europa"
+      ],
+      "hr": [
+        "europa"
+      ],
+      "hu": [
+        "europa"
+      ],
+      "it": [
+        "europa"
+      ],
+      "lt": [
+        "europa"
+      ],
+      "lv": [
+        "europa"
+      ],
+      "mt": [
+        "europa"
+      ],
+      "nl": [
+        "europa"
+      ],
+      "pl": [
+        "europa"
+      ],
+      "pt": [
+        "europa"
+      ],
+      "ro": [
+        "europa"
+      ],
+      "sk": [
+        "europa"
+      ],
+      "sl": [
+        "europa"
+      ],
+      "sv": [
+        "europa"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "info1": {
+      "bg": [
+        "<p>Европейския съвет за научни изследвания (ERC) е част от Седмата рамкова програма за научно-изследователска дейност на ЕС (РП7). Създадена е от Европейската комисия с цел да насърчава изследователската дейност в гранични научно-изследователски области, като води началото си от февруари 2007 г. и специфичната програма „Идеи” на РП7, с общ бюджет от 7.5 млрд. Евро (2007 - 2013 г.).</p>"
+      ],
+      "cs": [
+        "<p>Evropská rada pro výzkum (ERV, též angl. ERC) je součástí sedmého rámcového programu EU pro výzkum (7. RP). Byla zřízena v únoru 2007 Evropskou komisí na základě specifického programu „Myšlenky“ sedmého rámcového programu, aby podporovala hraniční výzkum určovaný výzkumnými pracovníky (tzv. investigator-driven frontier research). Její celkový rozpočet na období 2007-2013 činí 7,5 miliard eur.</p>"
+      ],
+      "da": [
+        "<p>Det Europæiske Forskningsråd (ERC) er et initiativ under EU's 7. rammeprogram for forskning (RP7). Det blev oprettet af Kommissionen i februar 2007 for at støtte forskerinitieret frontlinjeforskning under særprogrammet \"Idéer\". Dets samlede budget er på 7,5 milliarder euro (2007-2013).</p>"
+      ],
+      "de": [
+        "<p>Der Europäische Forschungsrat (EFR) ist Bestandteil des 7. Forschungsrahmenprogramms (7. RP) der EU. Er wurde von der Europäischen Kommission im Februar 2007 auf der Grundlage des spezifischen Programms „Ideen“ (7. RP) eingerichtet, um die von Forschern angeregte Pionierforschung zu unterstützen. Sein Gesamthaushalt für den Zeitraum 2007–2013 beträgt 7,5 Milliarden Euro.</p>"
+      ],
+      "el": [
+        "<p>Το Ευρωπαϊκό Συμβούλιο Έρευνας (ΕΣΕ) είναι μέρος του έβδομου προγράμματος πλαισίου για την έρευνα της ΕΕ (ΠΠ7). Ιδρύθηκε από την Ευρωπαϊκή Επιτροπή τον Φεβρουάριο 2007 βάσει του ειδικού προγράμματος του ΠΠ7 IDEAS για να στηρίζει δραστηριότητες έρευνας αιχμής που αναλαμβάνονται με πρωτοβουλία των ίδιων των ερευνητών. Διαθέτει συνολικό προϋπολογισμό 7,5 δις ευρώ (2007-2013).</p>"
+      ],
+      "en": [
+        "<p>The European Research Council (ERC) is part of the EU's Seventh Research Framework Programme (FP7). It is set up by the European Commission to support investigator-driven frontier research and was established in February 2007 on the basis of the FP7 IDEAS specific programme, with a total budget of 7.5 billion Euro (2007-2013).</p>"
+      ],
+      "es": [
+        "<p>El Consejo Europeo de Investigación surge del Séptimo Programa Marco de Investigación. Creado por la Comisión Europea para apoyar la “investigación en las fronteras del conocimiento” impulsada por los propios investigadores, inició su actividad en febrero de 2007 a partir del programa específico IDEAS, incluido en el Programa Marco, con un presupuesto total de 7 500 millones de euros (2007-2013).</p>"
+      ],
+      "et": [
+        "<p>Euroopa Teadusnõukogu tegutseb ELi teadusuuringute seitsmenda raamprogrammi (FP7) alusel. Euroopa Komisjon asutas teadusnõukogu 2007. aasta veebruaris vastavalt FP7 eriprogrammile „Ideed” eesmärgiga toetada teadlaste algatatud nn eesliini teadusprojekte. Teadusnõukogu eelarve ajavahemikuks 2007–2013 on 7,5 miljardit eurot.</p>"
+      ],
+      "fi": [
+        "<p>Euroopan komissio perusti Euroopan tutkimusneuvoston (ERC) helmikuussa 2007 osana EU:n seitsemättä tutkimuspuiteohjelmaa. ERC:n tehtävänä on päättää tieteen eturintamaan kuuluville tutkijalähtöisille tutkimushankkeille myönnettävästä tuesta. Tukea annetaan puiteohjelman \"Ideat\"-erityisohjelmasta, jonka kokonaismäärärahat ovat 7,5 miljardia euroa kaudella 2007–2013.</p>"
+      ],
+      "fr": [
+        "<p>Le Conseil européen de la recherche (CER) s'inscrit dans le septième programme-cadre de recherche de l'UE (7<sup>e</sup> PC). Doté d'un budget total de 7,5 milliards d'euros pour la période 2007-2013, il a été institué par la Commission européenne en février 2007, sur la base du programme spécifique «Idées» du 7<sup>e</sup> PC, en vue de soutenir des activités de recherche exploratoire proposées par les chercheurs eux-mêmes.</p>"
+      ],
+      "ga": [
+        "<p>Cuid de Sheachtú Creatchlár Taighde an AE (FP7) is ea Gníomhaireacht Feidhmiúcháin Chomhairle Taighde na hEorpa (ERC). Ba é an Coimisiún Eorpach a bhunaigh í i mí Feabhra 2007 chun tacú le taighde ar thús cadhnaíochta arna thionscnamh ag imscrúdaitheoirí, bunaithe ar an gClár Sonrach “Idéanna” lena gcuirtear i ngníomh an 7ú Creatchlár, le buiséad iomlán de 7.5 bhilliún euro (2007-2013).  </p>"
+      ],
+      "hr": [
+        "<p>Europsko istraživačko vijeće (ERC) dio je EU-ova 7. okvirnog programa za istraživanje (FP7). Osnovala ga je Europska komisija u veljači 2007. na temelju posebnoga programa IDEAS iz 7. okvirnog programa kako bi poduprla pionirska istraživanja na prijedlog znanstvenika. Za razdoblje 2007. - 2013. raspolaže proračunom od 7,5 milijardi eura.</p>"
+      ],
+      "hu": [
+        "<p>Az Európai Kutatási Tanács (European Research Council, ERC) az EU hetedik kutatási és technológiafejlesztési keretprogramjának (FP7) keretében működik. A tanácsot, melynek feladata a kutatók által javasolt „felderítő” kutatás támogatása, 2007 februárjában hozta létre az Európai Bizottság, a keretprogram Ötletek elnevezésű egyedi programjához kapcsolódóan. A 2007–2013 közötti időszakban az ERC 7,5 milliárd eurós költségvetéssel rendelkezik.</p>"
+      ],
+      "it": [
+        "<p>Il Consiglio europeo della ricerca è stato istituito nel febbraio 2007 dalla Commissione europea nell'ambito del Settimo programma quadro per la ricerca (7° PQ), al fine di provvedere all'attuazione del programma specifico \"Idee\" del 7° PQ e sostenere la ricerca di frontiera svolta su iniziativa dei ricercatori. Per il periodo 2007-2013 il Consiglio dispone di un bilancio complessivo di 7,5 miliardi di euro.</p>"
+      ],
+      "lt": [
+        "<p>Europos mokslinių tyrimų taryba (EMTT) įsteigta pagal ES mokslinių tyrimų septintąją bendrąją programą (7BP). Siekdama, kad būtų remiami pažangiausi moksliniai tyrimai, vykdomi mokslinių tyrimų bendruomenės iniciatyva, Tarybą 2007 m. vasario mėn. įsteigė Europos Komisija pagal 7BP specialiąją programą IDEAS. Jai 2007–2013 m. skirtas 7,5 mlrd. eurų biudžetas.</p>"
+      ],
+      "lv": [
+        "<p>Eiropas Pētniecības padomes izveide ietilpst ES 7. pētniecības pamatprogrammā (7. pamatprogramma). To 2007. gada februārī nodibināja Eiropas Komisija, lai atbalstītu pētniecības celmlaužus, par pamatu izmantojot 7. pamatprogrammas īpašo IDEAS programmu. Pētniecības padomes budžets no 2007. līdz 2013. gadam ir 7,5 miljardi eiro.</p>"
+      ],
+      "mt": [
+        "<p>Il-Kunsill Ewropew għar-Riċerka (ERC) jagħmel parti mis-Seba' Programm Qafas għar-Riċerka (FP7) tal-UE. B'baġit totali ta' 7.5 biljun Ewro għall-perjodu 2007-2013, inħoloq mill-Kummissjoni Ewropea fi Frar 2007, fuq il-bażi tal-programm speċifiku tal-FP7 \"IDEAT\", biex jappoġġja r-riċerka fuq il-fruntieri tal-għarfien.</p>"
+      ],
+      "nl": [
+        "<p>De Europese Onderzoeksraad (ERC) is een onderdeel van het zevende kaderprogramma voor onderzoek (KP7) van de EU. De ERC werd in februari 2007 door de Europese Commissie op grond van het specifieke programma IDEAS opgericht om door onderzoekers aangestuurde \"grensverleggende\" onderzoeksprojecten te ondersteunen. Het totale budget voor de periode 2007-2013 bedraagt 7,5 miljard euro.</p>"
+      ],
+      "pl": [
+        "<p>Europejska Rada ds. Badań Naukowych (ERC) działa w ramach siódmego programu ramowego UE w dziedzinie badań naukowych (7. PR). Rada powstała w lutym 2007 r. – powołała ją do życia Komisja Europejska w oparciu o program szczegółowy 7. PR „Pomysły”, aby umożliwić wspieranie inicjowanych przez naukowców projektów badań przekraczających granice aktualnego poziomu wiedzy (badań „pionierskich”). Budżet rady na lata 2007–2013 wynosi 7,5 mld euro.</p>"
+      ],
+      "pt": [
+        "<p>O Conselho Europeu de Investigação (CEI) faz parte do 7º programa-quadro de investigação da UE (7º PQ). Foi criado em fevereiro de 2007, pela Comissão Europeia, para apoiar projetos de \"investigação de ponta” apresentados por iniciativa dos investigadores, com base no programa específico \"Ideias\", que conta com um orçamento total de 7,5 mil milhões de euros (2007-2013).O Conselho Europeu de Investigação (CEI) faz parte do 7º programa-quadro de investigação da UE (7º PQ).   </p>"
+      ],
+      "ro": [
+        "<p>Consiliul European pentru Cercetare (CEC) face parte din cel de-al şaptelea program-cadru al UE pentru cercetare (PC7). Consiliul a fost înfiinţat de către Comisia Europeană în februarie 2007, pe baza programului specific IDEI din cadrul PC7, în vederea sprijinirii activităţilor de cercetare exploratorie propuse de cercetători. Consiliul dispune de un buget total de 7,5 miliarde de euro (pentru perioada 2007-2013).</p>"
+      ],
+      "sk": [
+        "<p>Európsku radu pre výskum (ERV) zastrešuje 7. rámcový program pre výskum (7RP). Založila ju Európska komisia s cieľom podporiť výskum na hraniciach súčasného poznania iniciovaný výskumnými pracovníkmi a svoju činnosť začala vo februári 2007 v rámci osobitného programu „Myšlienky“, ktorý je súčasťou 7RP s celkovým rozpočtom 7,5 miliardy eur (2007 – 2013).</p>"
+      ],
+      "sl": [
+        "<p>Evropski raziskovalni svet (ERC) je del 7. okvirnega raziskovalnega programa EU. Evropska komisija ga je ustanovila februarja 2007 na podlagi programa IDEAS iz 7. okvirnega programa, da bi podprla pionirske raziskave, ki jih predlagajo znanstveniki. Proračun za obdobje 2007–2013 znaša 7,5 milijarde EUR.</p>"
+      ],
+      "sv": [
+        "<p>Europeiska forskningsrådet är en del av EU:s sjunde ramprogram för forskning. Forskningsrådet inrättades av EU-kommissionen i februari 2007 för att stödja forskardriven spetsforskning inom det särskilda programmet Idéer inom det sjunde ramprogrammet (2007–2013). Det har en total budget på 7,5 miljarder euro, som kommissionen har det slutliga ansvaret för.</p>"
+      ]
+    },
+    "info2": {
+      "bg": [
+        "<p>Нейна основна цел е да насърчава научното превъзходство в Европа, като подкрепя и окуражава най-добрите и креативни учени, стипендианти и инженери, които са поканени да изпращат своите индивидуални проектни предложения във всяка възможна област на научно-изследователската дейност. </p>             <p>Европейският съвет за научни изследвания (ERC) се състои от независим Научно-изследователски съвет и Изпълнителна агенция, функционираща от името на Европейската комисия. Европейският съвет за научни изследвания определя научно-изследователската стратегия и методологии, докато Изпълнителната агенция за научни изследвания изпълнява и прилага тези стратегии и методологии при управлението и функционирането на дейностите за финансиране на Европейския съвет за научни изследвания (ERC) в юридическия контекст на РП7. </p>             <p>Изпълнителната агенция на Европейския съвет за научни изследвания (ERC) е създадена официално през декември 2007 г., като получава административна автономност на 15 юли 2009 г. </p>             <p>Европейският съвет за научни изследвания (ERC) функционира прозрачно, благодарение на неговата автономна и независима структура, предоставена му от Европейската комисия, на която се отчита. Последната дума за изпълнение и бюджет на РП7 се пада на Европейската комисия. </p>             <p>Изпълнителната агенция на Европейския съвет за научни изследвания (ERC) изпълнява следните дейности:</p>             <ul>                <li>Реализиране на годишната работна програма, определена от Научния съвет на Европейския съвет за научни изследвания (ERC), и приета от Комисията</li>                <li>Координиране на покани за проектни предложения в съответствие с работната програма</li>                <li>Осигуряване на информация и съдействие на кандидатите</li>                <li>Организиране на оценителнa проверка на партньорите</li>                <li>Създаване и ръководене на грантовите споразумения в съответствие с финансовите регламенти на ЕС</li>                <li>Осигуряване на съдействие на Научния съвет на Европейския съвет за научни изследвания</li>             </ul>"
+      ],
+      "cs": [
+        "<p>Hlavním úkolem rady je podněcovat vysoce kvalitní vědeckou činnost v Evropě prostřednictvím podpory nejlepších a nejkreativnějších vědců a akademických a technických odborníků, kteří mohou předkládat samostatné návrhy ve všech oblastech výzkumu.</p>             <p>Evropská rada pro výzkum se skládá z nezávislé vědecké rady a výkonné agentury, která jedná jménem Evropské komise. Vědecká rada ERV určuje strategii a metodiku, zatímco výkonná agentura ERV tuto strategii a metodiku uplatňuje při správě a provádění činnosti ERV v oblasti financování v právním rámci 7. RP.</p>             <p>Výkonná agentura ERV byla oficiálně založena v prosinci 2007 a samostatný provoz zahájila 15. července 2009.</p>             <p>Evropská komise, které je ERV podřízena, zaručuje její transparentnost, nezávislost a integritu. Nese též konečnou odpovědnost za provádění 7. RP a jeho rozpočtu.</p>             <p>Výkonná agentura ERV má na starosti tyto úkoly:</p>             <ul>                <li>provádět roční pracovní program stanovený vědeckou radou ERV a schválený Komisí</li>                <li>v souladu s pracovním programem vyhlašovat výzvy k předkládání návrhů</li>                <li>poskytovat žadatelům informace a podporu</li>                <li>organizovat oponentní řízení (tzv. peer review)</li>                <li>uzavírat a spravovat grantové dohody v souladu s finančním nařízením EU </li>                <li>být nápomocna vědecké radě ERV.</li>             </ul>"
+      ],
+      "da": [
+        "<p>Forskningsrådet skal fremme videnskabelig topkvalitet i EU ved at støtte og motivere de dygtigste og virkelig nyskabende videnskabsfolk, forskere og ingeniører. De opfordres til at indsende forslag til projekter inden for alle forskningsdiscipliner.</p>             <p>Forskningsrådet består af et uafhængigt videnskabeligt råd og et forvaltningsorgan, der udfører opgaver for Kommissionen. Forskningsrådets videnskabelige råd skal bl.a. fastlægge de videnskabelige strategier og metoder, som Forskningsrådets forvaltningsorgan skal gennemføre og lægge til grund for sin administration af finansieringsprojekterne under RP7.</p>             <p>Forskningsrådets forvaltningsorgan blev oprettet i december 2007 og blev selvstændigt administrativt den 15. juli 2009.</p>             <p>Åbenhed, uafhængighed og integritet er nøgleordene for Forskningsrådets arbejde – det står Kommissionen som garant for. Forskningsrådet står for sin del til ansvar over for Kommissionen, som har det endelige ansvar for gennemførelsen af RP7 og dets budget.</p>             <p>Forskningsrådets forvaltningsorgan:</p>             <ul>                <li>gennemfører det årlige arbejdsprogram, der fastlægges af Forskningsrådets videnskabelige råd og vedtages af Kommissionen</li>                <li>står for indkaldelser af forslag under arbejdsprogrammet</li>                <li>informerer og hjælper ansøgere</li>                <li>foretager faglige evalueringer (\"peer reviews\")</li>                <li>udarbejder og forvalter tilskudsaftaler i overensstemmelse med EU's finansforordning</li>                <li>bistår Det Videnskabelige Råd.</li>             </ul>             <p> </p>"
+      ],
+      "de": [
+        "<p>Ziel des EFR ist es, auf wissenschaftliche Spitzenleistungen in Europa hinzuwirken, indem die allerbesten, wirklich kreativen Wissenschaftler, Akademiker und Ingenieure gefördert und angeregt werden, ihre Vorschläge aus beliebigen Gebieten der Forschung einzureichen.</p>             <p>Der EFR besteht aus einem unabhängigen wissenschaftlichen Rat und einer Exekutivagentur, die im Namen der Europäischen Kommission handelt. Der wissenschaftliche Rat des EFR legt die wissenschaftlichen Strategien und Methodiken fest, die die EFR-Exekutivagentur umsetzt und bei der Verwaltung und Durchführung der Finanzierungsmaßnahmen des EFR im Rahmen des 7. RP anwendet.</p>             <p>Die EFR-Exekutivagentur wurde im Dezember 2007 offiziell eingerichtet und genießt seit dem 15. Juli 2009 Verwaltungsautonomie.</p>             <p>Die Kommission garantiert Transparenz, Autonomie und Integrität der Arbeit des EFR, der ihr gegenüber rechenschaftspflichtig ist. Die Kommission trägt auch die Endverantwortung für die Durchführung des 7. RP und dessen Haushalt.</p>             <p>Aufgaben der EFR-Exekutivagentur:</p>             <ul>                <li>Durchführung des jährlichen Arbeitsprogramms, wie es vom wissenschaftlichen Rat des EFR festgelegt und von der Kommission verabschiedet wurde</li>                <li>Herausgabe von Aufforderungen zur Einreichung von Vorschlägen, im Einklang mit dem Arbeitsprogramm</li>                <li>Information und Unterstützung der Antragsteller</li>                <li>Organisation der Gutachterbewertung</li>                <li>Aufstellung und Verwaltung von Zuschussvereinbarungen gemäß der EU-Haushaltsordnung</li>                <li>Unterstützung des wissenschaftlichen Rates des EFR</li>             </ul>             <p> </p>"
+      ],
+      "el": [
+        "<p>Κύριος στόχος του είναι να ενισχύσει την επιστημονική αριστεία στην Ευρώπη στηρίζοντας και ενθαρρύνοντας τους καλύτερους, πραγματικά δημιουργικούς, επιστήμονες, ακαδημαϊκούς και μηχανικούς που καλούνται να υποβάλουν τις επιμέρους προτάσεις τους σε οιοδήποτε ερευνητικό πεδίο.</p>             <p>Το ΕΣΕ αποτελείται από ένα ανεξάρτητο επιστημονικό συμβούλιο και έναν εκτελεστικό οργανισμό που ενεργεί εξ ονόματος της Ευρωπαϊκής Επιτροπής. Το επιστημονικό συμβούλιο καθορίζει την επιστημονική στρατηγική και τις μεθόδους τις οποίες εφαρμόζει ο εκτελεστικός οργανισμός του ΕΣΕ κατά τη διαχείριση των χρηματοδοτικών δραστηριοτήτων και τη διοίκηση του ΕΣΕ εντός του νομικού πλαισίου του ΠΠ7.</p>             <p>Ο εκτελεστικός οργανισμός ιδρύθηκε επίσημα τον Δεκέμβριο 2007 και απέκτησε διοικητική αυτονομία στις 15 Ιουλίου 2009.</p>             <p>Η Ευρωπαϊκή Επιτροπή, στην οποία λογοδοτεί το ΕΣΕ, εγγυάται τη διαφάνεια λειτουργίας, την αυτονομία και την ακεραιότητά του. Η Ευρωπαϊκή Επιτροπή αναλαμβάνει την τελική ευθύνη για την εκτέλεση του ΠΠ7 και για τον προϋπολογισμό του.</p>             <p>Καθήκοντα του εκτελεστικού οργανισμού του ΕΣΕ:</p>             <ul>                <li>Εκτέλεση του ετήσιου προγράμματος εργασίας που εκπονεί το επιστημονικό συμβούλιο του ΕΣΕ και εγκρίνει η Επιτροπή.</li>                <li>Υλοποίηση των προσκλήσεων υποβολής προτάσεων σύμφωνα με το πρόγραμμα εργασίας.</li>                <li>Παροχή πληροφοριών και στήριξης στους αιτούντες.</li>                <li>Διοργάνωση αξιολόγησης από ομότιμους κριτές</li>                <li>Σύναψη και διαχείριση συμφωνιών επιχορηγήσεων σύμφωνα με τον δημοσιονομικό κανονισμό της ΕΕ.</li>                <li>Παροχή συνδρομής στο επιστημονικό συμβούλιο του ΕΣΕ.</li>             </ul>             <p> </p>"
+      ],
+      "en": [
+        "<p>Its main aim is to stimulate scientific excellence in Europe by supporting and encouraging the very best, truly creative scientists, scholars and engineers, who are invited to submit their individual proposals in any field of research.</p>             <p>The ERC consists of an independent Scientific Council and an Executive Agency acting on behalf of the European Commission. The ERC Scientific Council defines the scientific strategy and methodologies, whereas the ERC Executive Agency implements and applies these strategies and methodologies in the management and operations of the ERC funding activities in the legal context of FP7.</p>             <p>The ERC Executive Agency was formally established in December 2007 and gained administrative autonomy on 15 July 2009.</p>             <p>The ERC operates transparently with autonomy and integrity which is guaranteed by the European Commission, to which it is accountable. The European Commission assumes final responsibility for the execution of FP7and its budget.</p>             <p>The ERC Executive Agency manages the following tasks:</p>             <ul>                <li>Execute the annual work programme, as defined by the ERC Scientific Council and adopted by the Commission</li>                <li>Implement calls for proposals, in accordance with the work programme</li>                <li>Provide information and support to applicants</li>                <li>Organise peer review evaluation</li>                <li>Establish and manage grant agreements, in accordance with the EU's financial regulation</li>                <li>Provide assistance to the ERC Scientific Council</li>             </ul>"
+      ],
+      "es": [
+        "<p>Su principal objetivo es estimular la calidad científica en Europa incentivando a los científicos, ingenieros e investigadores mejores y más creativos, que quedan invitados a presentar sus propuestas en cualquier rama de la investigación.</p>             <p>El Consejo Europeo de Investigación se compone de un Consejo Científico independiente y una Agencia Ejecutiva que representa a la Comisión Europea. El primero define la estrategia y la metodología científica, y la segunda las aplica a la gestión y el funcionamiento de las actividades de financiación del Consejo Europeo de Investigación en el contexto jurídico del Séptimo Programa Marco.</p>             <p>La Agencia Ejecutiva del Consejo Europeo de Investigación se creó oficialmente en diciembre de 2007 y tiene autonomía administrativa desde el 15 de julio de 2009.</p>             <p>El Consejo actúa con transparencia, autonomía e integridad garantizadas por la Comisión Europea, ante la cual es responsable. La Comisión Europea es la responsable última de la ejecución del Programa Marco y su presupuesto.</p>             <p>La Agencia Ejecutiva del Consejo Europeo de Investigación tiene a su cargo las tareas siguientes:</p>             <ul>                <li>Ejecutar el programa de trabajo anual definido por el Consejo Científico y adoptado por la Comisión</li>                <li>Gestionar las convocatorias de propuestas de acuerdo con el programa de trabajo</li>                <li>Facilitar información y ayuda a los solicitantes</li>                <li>Organizar la evaluación <i>inter pares</i>                </li>                <li>Establecer y gestionar las concesiones de ayuda de acuerdo con la normativa financiera de la UE</li>                <li>Facilitar ayuda al Consejo Científico</li>             </ul>             <p> </p>"
+      ],
+      "et": [
+        "<p>Peamine eesmärk on stimuleerida Euroopas eesrindlikku teadustööd, toetades ja innustades parimaid loovaid teadlasi, teadureid ja insenere, kes on teretulnud esitama oma ettepanekuid mis tahes uurimisvaldkonnas.</p>             <p>Euroopa Teadusnõukogu koosneb sõltumatust teadusnõukogust ja Euroopa Komisjoni esindavast rakendusametist. Euroopa Teadusnõukogu sõltumatu teadusnõukogu määrab kindlaks teadusstrateegia ja meetodid ning Euroopa Teadusnõukogu Rakendusamet rakendab ja kohaldab neid oma töös ja rahastamistegevuses vastavalt FP7 sätetele.</p>             <p>Euroopa Teadusnõukogu Rakendusamet loodi ametlikult 2007. aasta detsembris ning ta muutus halduslikult iseseisvaks 15. juulil 2009.</p>             <p>Euroopa Komisjon tagab teadusnõukogu tegevuse läbipaistvuse, sõltumatuse ja terviklikkuse. Teadusnõukogu annab aru Euroopa Komisjonile. Lõplik vastutus teadusuuringute seitsmenda raamprogrammi elluviimise ja selle eelarve täitmise eest lasub Euroopa Komisjonil.</p>             <p>Euroopa Teadusnõukogu Rakendusamet täidab järgmisi ülesandeid:</p>             <ul>                <li>tegutseb vastavalt teadusnõukogu määratletud ja komisjoni vastuvõetud tööprogrammile</li>                <li>rakendab konkursikutseid kooskõlas tööprogrammiga</li>                <li>esitab taotlejatele teavet ja pakub toetust</li>                <li>rakendab konkursikutseid kooskõlas tööprogrammiga</li>                <li>korraldab toetuslepingute sõlmimist ja haldab neid lepinguid vastavalt ELi finantsmäärusele</li>                <li>abistab Euroopa Teadusnõukogu sõltumatut teadusnõukogu.</li>             </ul>"
+      ],
+      "fi": [
+        "<p>ERC:n toiminnan päätavoitteena on edistää eurooppalaista tieteellistä huippuosaamista suuntaamalla tukea luoville eturivin tutkijoille, tieteenharjoittajille ja insinööreille kaikilla tieteen ja teknologian aloilla.</p>             <p>ERC muodostuu riippumattomasta tieteellisestä neuvostosta ja Euroopan komissiota edustavasta toimeenpanovirastosta. Tieteellinen neuvosto määrittelee yleisen tieteellisen strategian ja menetelmät. ERC:n toimeenpanovirasto puolestaan vastaa siitä, että näitä strategioita ja menetelmiä noudatetaan ERC:n rahoitustoimissa ja niiden hallinnoinnissa puiteohjelman säännösten mukaisesti.</p>             <p>Toimeenpanovirasto perustettiin virallisesti joulukuussa 2007, ja se aloitti toimintansa hallinnollisesti itsenäisenä elimenä 15. heinäkuuta 2009.</p>             <p>ERC on vastuussa Euroopan komissiolle, joka valvoo, että ERC toimii avoimesti, itsenäisesti ja puolueettomasti. Komissio vastaa myös koko seitsemännen puiteohjelman ja sen budjetin toteuttamisesta.</p>             <p>ERC:n toimeenpanoviraston tehtävänä on:</p>             <ul>                <li>toteuttaa vuotuinen työohjelma, jonka ERC:n tieteellinen neuvosto laatii ja komissio hyväksyy</li>                <li>julkaista ehdotuspyyntöjä työohjelman mukaisesti</li>                <li>antaa tietoa ja apua hakijoille</li>                <li>järjestää vertaisarviointeja</li>                <li>tehdä ja hallinnoida avustussopimuksia EU:n varainhoitoasetuksen mukaisesti</li>                <li>avustaa ERC:n tieteellistä neuvostoa.</li>             </ul>"
+      ],
+      "fr": [
+        "<p>Il vise principalement à stimuler l'excellence scientifique en Europe en soutenant et en encourageant les meilleurs scientifiques, ingénieurs et universitaires réellement créatifs, qui sont invités à soumettre leurs propositions dans n'importe quel domaine de la recherche.</p>             <p>Le CER est composé d'un conseil scientifique indépendant et d'une agence exécutive agissant au nom de la Commission européenne. Le conseil scientifique définit la stratégie et les méthodes scientifiques, tandis que l'agence exécutive est chargée de leur mise en œuvre en ce qui concerne la gestion et l'administration des activités de financement du CER dans le cadre juridique du 7<sup>e</sup> PC.</p>             <p>L'agence exécutive du CER, instituée officiellement en décembre 2007, bénéficie d'une autonomie administrative depuis le 15 juillet 2009.</p>             <p>Le CER fonctionne de manière transparente, avec l'autonomie et l'intégrité que lui garantit la Commission européenne, à laquelle il rend compte. La Commission assume la responsabilité finale de l'exécution du 7<sup>e</sup> PC et de son budget.</p>             <p>L’agence exécutive du CER est chargée des tâches suivantes:</p>             <ul>                <li>exécution du programme de travail annuel, défini par le conseil scientifique du CER et adopté par la Commission;</li>                <li>mise en œuvre d'appels à propositions, conformément au programme de travail;</li>                <li>information et soutien aux candidats;</li>                <li>organisation d'évaluations par les pairs;</li>                <li>conclusion et gestion de conventions de subvention, conformément au règlement financier de l'Union européenne;</li>                <li>aide au conseil scientifique du CER.</li>             </ul>             <p> </p>"
+      ],
+      "ga": [
+        "<p>Is í a príomhaidhm feabhas eolaíoch a spreagadh san Eoraip trí na heolaithe, na scoláirí agus na hinnealtóirí is fearr agus is cruthaithí a thacú agus a spreagadh, a thugtar cuireadh dóibh tograí aonair maidir le haon réimse taighde a chur ar aghaidh. </p>             <p>Comhairle Eolaíoch agus Gníomhaireacht Feidhmiúcháin a ghníomhaíonn ar son an Choimisiúin Eorpaigh atá san ERC. Sainíonn Comhairle Eolaíochta an ERC an straitéis agus na modheolaíochtaí eolaíocha, agus cuireann Gníomhaireacht Feidhmiúcháin an ERC iad sin chun feidhme mar chuid de bhainistíocht agus d’ oibríochtaí mhaoinithe an ERC i gcomhthéacs dlí an tSeachtú Creatchláir. </p>             <p>Bunaíodh Gníomhaireacht Feidhmiúcháin an ERC go foirmiúil i mí na Nollag 2007 agus bhain sí féinriail riaracháin iomlán amach an 15 Iúil 2009. </p>             <p>Eagraíocht uathrialach ionraic thrédhearcach is ea an ERC atá faoi ráthaíocht an Choimisiúin Eorpaigh, dá bhfreagraíonn sí.  Glacann an Coimisiún Eorpach freagracht dheiridh as fhorghníomhú an tSeachtú Creatchláir agus a bhuiséid. </p>             <p>Bainistíonn Gníomhaireacht Feidhmiúcháin an ERC na cúraimí seo a leanas:</p>             <ul>                <li>Cur chun feidhme an chláir bhliantúil oibre, arna shainiú ag Comhairle Eolaíoch an ERC agus arna ghlacadh ag an gCoimisiún</li>                <li>Cur chun feidhme gairmeacha tograí, i gcomhréir leis an gclár oibre</li>                <li>Soláthar faisnéise agus tacaíochta d’iarrthóirí</li>                <li>Measúnú ar phiar-athbhreithniú a eagrú</li>                <li>Comhaontuithe deontais a bhunú agus a bhainistiú, i gcomhréir le rialachán airgeadais an AE</li>                <li>Cúnamh a sholáthar do Chomhairle Eolaíoch an ERC</li>             </ul>"
+      ],
+      "hr": [
+        "<p>Glavni mu je cilj poticati znanstvenu izvrsnost u Europi pružanjem potpore te ohrabrivanjem najboljih i uistinu kreativnih znanstvenika, učenjaka i inženjera koji su pozvani da dostave svoje prijedloge iz svih područja istraživanja. </p>             <p>Europsko istraživačko vijeće sastoji se od neovisnoga Znanstvenog vijeća i Izvršne agencije koja djeluje u ime Europske komisije. Znanstveno vijeće određuje znanstvenu strategiju i metodologiju, dok Izvršna agencija vodi financijske aktivnosti Europskoga istraživačkog vijeća unutar pravnoga okvira 7. okvirnog programa te se brine o provedbi i primjeni strategija i metodologije.</p>             <p>Izvršna agencija ERC-a službeno je osnovana u prosincu 2007., a upravnu neovisnost stekla je 15. srpnja 2009. </p>             <p>Europsko istraživačko vijeće posluje transparentno, autonomno i cjelovito, za što jamči Europska komisija kojoj odgovara za svoj rad.      Europska komisija preuzima krajnju odgovornost za provedbu 7. okvirnog programa i njegova proračuna.</p>             <p>Izvršna agencija Europskoga istraživačkog vijeća obavlja sljedeće zadatke:  </p>             <ul>                <li>provodi godišnji program rada koji određuje Znanstveno vijeće Europskoga istraživačkog vijeća, a donosi Komisija</li>                <li>upravlja pozivima za podnošenje prijedloga, sukladno programu rada</li>                <li>pruža informacije i pomoć kandidatima </li>                <li>organizira stručno vrednovanje prijedloga</li>                <li>utvrđuje i vodi ugovore o dodjeli nepovratnih sredstava u skladu s financijskim propisima EU-a</li>                <li>pomaže Znanstvenome vijeću Europskoga istraživačkog vijeća.</li>             </ul>"
+      ],
+      "hu": [
+        "<p>Az intézmény legfőbb célja az európai tudományos kiválóság fejlesztése. Ezt a célt a tevékenységi területükön legjobbnak számító, valóban kreatív tudósok, kutatók és mérnökök ösztönzése, támogatása révén igyekszik elérni. A tanács a tudomány minden területéről várja e szakemberek egyéni pályázatait.</p>             <p>Az ERC a független Tudományos Tanácsból és az Európai Bizottság nevében eljáró Végrehajtó Ügynökségből áll. A Tudományos Tanács a tudományos stratégia és módszertan meghatározásáért felel, a Végrehajtó Ügynökség feladata pedig az, hogy az így kialakított stratégiákat és módszereket a kutatási tanács finanszírozási tevékenységeinek irányítása és megvalósítása során az FP7 jogi keretein belül végrehajtsa és alkalmazza.</p>             <p>A Végrehajtó Ügynökség hivatalosan 2007 decemberében alakult meg, igazgatási önállóságot 2009. július 15-e óta élvez.</p>             <p>A kutatási tanács működését az átláthatóság, a függetlenség és az integritás jellemzi: ennek biztosításáról felügyelő szerve, az Európai Bizottság gondoskodik. A keretprogram végrehajtásáért és költségvetéséért végső fokon az Európai Bizottság visel felelősséget.</p>             <p>Az Európai Kutatási Tanács Végrehajtó Ügynöksége a következő feladatokat látja el:</p>             <ul>                <li>végrehajtja az Európai Kutatási Tanács Tudományos Tanácsa által kidolgozott és az Európai Bizottság által elfogadott éves munkatervet;</li>                <li>kezeli a pályázati felhívásokat, a munkatervvel összhangban;</li>                <li>tájékoztatást és segítséget nyújt a pályázóknak;</li>                <li>megszervezi a szakértői értékelést;</li>                <li>kidolgozza és kezeli a támogatási megállapodásokat, összhangban az EU költségvetési rendeletével;</li>                <li>támogatást biztosít az Európai Kutatási Tanács Tudományos Tanácsa számára.</li>             </ul>"
+      ],
+      "it": [
+        "<p>L'obiettivo principale del Consiglio europeo della ricerca è stimolare l'eccellenza scientifica in Europa sostenendo ed incoraggiando i migliori scienziati, studiosi ed ingegneri ed invitandoli a presentare le loro proposte nei vari settori della ricerca.</p>             <p>Il CER è composto da un consiglio scientifico indipendente e da un'agenzia esecutiva che opera per conto della Commissione europea. Il consiglio scientifico definisce la strategia scientifica e le relative metodologie, mentre l'agenzia esecutiva provvede all'attuazione di tali strategie e metodologie gestendo le attività di finanziamento del CER nel contesto giuridico del 7° PQ.</p>             <p>L'agenzia esecutiva del CER è stata formalmente istituita nel dicembre 2007 ed è diventata autonoma dal punto di vista amministrativo il 15 luglio 2009.</p>             <p>Il Consiglio europeo della ricerca opera in modo trasparente e in piena integrità ed autonomia, principi di cui si fa garante la Commissione europea, alla quale rende conto. La Commissione europea detiene la responsabilità finale dell'esecuzione del 7° PQ e del relativo bilancio.</p>             <p>L'agenzia esecutiva del Consiglio europeo della ricerca svolge i seguenti compiti:</p>             <ul>                <li>attuare il programma di lavoro annuale, quale definito dal consiglio scientifico e adottato dalla Commissione;</li>                <li>gestire gli inviti a presentare proposte conformemente al programma di lavoro;</li>                <li>fornire informazioni e sostegno ai candidati;</li>                <li>organizzare valutazioni <i>inter pares</i>;</li>                <li>concludere e gestire convenzioni di finanziamento, ai sensi del regolamento finanziario dell'UE;</li>                <li>prestare assistenza al consiglio scientifico.</li>             </ul>             <p> </p>"
+      ],
+      "lt": [
+        "<p>Pagrindinė EMTT paskirtis – puoselėti Europoje mokslinę kompetenciją remiant ir skatinant geriausius, iš tiesų kūrybingus mokslininkus ir inžinierius, kurie kviečiami teikti savo asmeninius bet kurios tiriamosios srities pasiūlymus.</p>             <p>EMTT sudaro nepriklausoma Mokslo taryba ir Vykdomoji agentūra, veikianti Europos Komisijos vardu. EMTT mokslo taryba nustato mokslo strategiją ir metodiką, o EMTT vykdomoji  įstaiga jas vykdo ir taiko valdant EMTT ir atliekant finansavimo operacijas pagal teisines 7BP nuostatas.</p>             <p>EMTT sudaro nepriklausoma Mokslo taryba ir Vykdomoji agentūra, veikianti Europos Komisijos vardu. EMTT mokslo taryba nustato mokslo strategiją ir metodiką, o EMTT vykdomoji  įstaiga jas vykdo ir taiko valdant EMTT ir atliekant finansavimo operacijas pagal teisines 7BP nuostatas.</p>             <p>EMTT veikia skaidriai, savarankiškai ir principingai – tai užtikrina Europos Komisija, kuriai EMTT yra atskaitinga. Europos Komisija prisiima finansinę 7BP įgyvendinimo ir jos biudžeto vykdymo atsakomybę.</p>             <p>EMTT vykdomosios agentūros užduotys:</p>             <ul>                <li>vykdyti EMTT mokslo tarybos sudarytą ir Europos Komisijos patvirtintą metinę darbo programą;</li>                <li>atsižvelgiant į darbo programą skelbti kvietimus teikti siūlymus;</li>                <li>teikti informaciją ir pagalbą paraiškų teikėjams;</li>                <li>rengti tos pačios srities specialistų atliekamą vertinimą;</li>                <li>sudaryti ir valdyti susitarimus dėl dotacijų, laikantis ES finansinio reglamento;</li>                <li>padėti EMTT mokslo tarybai.</li>             </ul>"
+      ],
+      "lv": [
+        "<p>Tās galvenais  mērķis ir radīt labvēlīgu augsni zinātnes sasniegumiem Eiropā, atbalstot un motivējot vislabākos radošos zinātniekus, akadēmiķus un inženierus, kurus aicina iesniegt priekšlikumus visās pētniecības jomās.</p>             <p>Eiropas Pētniecības padomi veido neatkarīga zinātniskā padome un izpildaģentūra, kas darbojas Eiropas Komisijas uzdevumā. Zinātniskā padome nosaka zinātnisko stratēģiju un metodiku, savukārt izpildaģentūra īsteno un piemēro šo stratēģiju un metodiku, pārvaldot un regulējot Eiropas Pētniecības padomes finansēšanas pasākumus saistībā ar 7. pētniecības pamatprogrammu.</p>             <p>Eiropas Pētniecības padomes izpildaģentūru nodibināja 2007. gada decembrī, bet 2009. gada 15. jūlijā tā kļuva administratīvi neatkarīga struktūrvienība.</p>             <p>Eiropas Komisija garantē pārredzamību, neatkarību un integritāti Eiropas Pētniecības padomes darbā, kas noris Komisijas pārziņā. Eiropas Komisija uzņemas galīgo atbildību par 7. pamatprogrammas un tās budžeta īstenošanu.</p>             <p>Eiropas Pētniecības padomes izpildaģentūrai (ERC) ir šādi uzdevumi:</p>             <ul>                <li>īstenot gada darba programmu, ko izstrādājusi ERC zinātniskā padome un pieņēmusi Komisija,</li>                <li>izsludināt pieteikumu konkursus saskaņā ar darba programmu,</li>                <li>sniegt informāciju un atbalstu pieteikuma iesniedzējiem,</li>                <li>rīkot speciālistu veiktu salīdzinošu pārskatīšanu,</li>                <li>sagatavot un pārvaldīt dotāciju nolīgumus atbilstoši ES Finanšu regulai,</li>                <li>sniegt atbalstu ERC zinātniskajai padomei.</li>             </ul>"
+      ],
+      "mt": [
+        "<p>L-għan prinċipali tiegħu huwa l-eċċellenza xjentifika fl-Ewropa billi jappoġġja u jħeġġeġ l-aqwa xjentisti, akkademiċi u inġiniera kreattivi, li huma mistiedna jibagħtu l-proposti individwali tagħhom fi kwalunkwe qasam tar-riċerka.</p>             <p>L-ERC jikkonsisti f'Kunsill Xjentifiku indipendenti u Aġenzija Eżekuttiva li taġixxi f'isem il-Kummissjoni Ewropea. Il-Kunsill Xjentifiku tal-ERC jiddefinixxi l-istrateġija u l-metodoloġiji xjentifiċi, filwqt li l-Aġenzija Eżekuttiva tal-ERC timplimenta u tapplika dwan l-istrateġiji u metodoloġiji fit-tmexxija u l-operazzjonijiet tal-attivitajiet ta' finanzjament tal-ERC fil-kuntest legali tal-FP7.</p>             <p>L-Aġenzija Eżekuttiva tal-ERC ġiet stabbilita formalment f'Diċembru 2007 u kisbet awtonomija amministrattiva fil-15 ta' Lulju 2009.</p>             <p>L-ERC jopera b'mod trasparenti b'awtonomija u integrità li hija garantita mill-Kummissjoni Ewropea, li hija responsabbli għalih. Il-Kummissjoni Ewropea tassumi r-responsabbiltà finali tat-twettiq tal-FP7 u l-baġit tiegħu.</p>             <p>L-Aġenzija Eżekuttiva tal-ERC tmexxi dawn il-ħidmiet:</p>             <ul>                <li>Teżegwixxi l-programm ta' ħidma annwali, kif stipulat mill-Kunsill Xjentifiku tal-ERC u adotatt mill-Kummissjoni</li>                <li>Timplimenta s-sejħiet għal proposti skont il-programm ta' ħidma</li>                <li>Tipprovdi informazzjoni u appoġġ lill-applikanti</li>                <li>Torganizza valutazzjoni tal-analiżi tal-esperti</li>                <li>Tistabbilixxi u tmexxi ftehimiet ta' għotjiet skont ir-regolament finanzjarju tal-UE</li>                <li>Tipprovdi għajnuna lill-Kunsill Xjentifiku tal-ERC</li>             </ul>"
+      ],
+      "nl": [
+        "<p>De belangrijkste taak van de ERC is het stimuleren van wetenschappelijke expertise in Europa door de allerbeste creatieve wetenschappers, geleerden en ingenieurs te steunen en hen de kans te geven individuele voorstellen op hun onderzoeksgebied in te dienen.</p>             <p>De ERC omvat een onafhankelijke wetenschappelijke raad en een uitvoerend agentschap dat namens de Europese Commissie optreedt. De wetenschappelijke raad legt de wetenschappelijke strategie en methodologieën vast, terwijl het uitvoerend agentschap ze uitvoert en toepast bij het beheer en de uitvoering van de financieringsactiviteiten in het kader van KP7.</p>             <p>Het uitvoerend agentschap werd in december 2007 officieel opgericht en heeft op 15 juli 2009 bestuurlijke autonomie gekregen.</p>             <p>De ERC legt verantwoording af aan de Europese Commissie, die op haar beurt waarborgt dat de ERC op transparante, autonome en integere manier werkt. De Europese Commissie draagt de eindverantwoordelijkheid voor de uitvoering van KP7 en het eraan verbonden budget.</p>             <p>De taken van het uitvoerend agentschap van de ERC zijn:</p>             <ul>                <li>het jaarlijks werkprogramma uitvoeren, zoals vastgesteld door de wetenschappelijke raad en aangenomen door de Commissie;</li>                <li>oproepen tot het indienen van voorstellen doen, overeenkomstig het werkprogramma;</li>                <li>informatie en steun bieden aan de inschrijvers;</li>                <li>beoordeling door \"peer review\" organiseren;</li>                <li>subsidieovereenkomsten opstellen en beheren overeenkomstig het Financieel Reglement van de EU;</li>                <li>hulp bieden aan de wetenschappelijke raad van de ERC.</li>             </ul>             <p> </p>"
+      ],
+      "pl": [
+        "<p>Jej głównym zadaniem jest danie impulsu do rozwoju pracy naukowej wysokiej jakości w Europie poprzez wspieranie najlepszych, najbardziej kreatywnych naukowców, inżynierów i pracowników akademickich, którzy mogą zgłaszać swoje wnioski we wszystkich dziedzinach badań.</p>             <p>ERC składa się z niezależnej rady naukowej oraz z agencji wykonawczej działającej w imieniu Komisji Europejskiej. Rada naukowa ERC określa strategię naukową i metodologię, które następnie agencja wykonawcza przekłada na praktykę stosowaną w procesie zarządzania oraz prowadzenia finansów ERC w kontekście prawnym 7. PR.</p>             <p>Agencję wykonawczą ERC oficjalnie ustanowiono w grudniu 2007 r. Od 15 lipca 2009 r. jest ona w pełni operacyjna.</p>             <p>ERC działa z zachowaniem zasad przejrzystości i integralności. Na straży tych zasad stoi Komisja Europejska, przed którą ERC odpowiada. Komisja Europejska ponosi ostateczną odpowiedzialność za wykonywanie 7. PR i jego budżetu.</p>             <p>Do zadań agencji wykonawczej ERC należy m.in:</p>             <ul>                <li>wykonanie rocznego programu prac, określonego przez radę naukową ERC i przyjętego przez Komisję</li>                <li>wdrożenie zaproszeń do składania wniosków, zgodnie z programem prac</li>                <li>zapewnienie wnioskodawcom informacji i wsparcia</li>                <li>organizacja oceny opartej na wzajemnej weryfikacji</li>                <li>sporządzenie umów o dotacje i zarządzanie nimi, zgodnie z rozporządzeniem finansowym UE</li>                <li>zapewnienie wsparcia radzie naukowej ERC.</li>             </ul>             <p> </p>"
+      ],
+      "pt": [
+        "<p>Tem como objetivo principal estimular a excelência científica na Europa, através do apoio e incentivo aos cientistas, investigadores e engenheiros mais genuinamente criativos, que são convidados a apresentar propostas em todos os domínios da investigação.</p>             <p>O CEI é constituído por um conselho científico independente e por uma agência executiva que age em nome da Comissão Europeia. O conselho científico do CEI define a estratégia científica e os métodos de trabalho e a agência executiva do CEI aplica essa estratégia e métodos na gestão das atividades de financiamento do CEI no contexto jurídico do 7º PQ.</p>             <p>A agência executiva do CEI foi formalmente instituída em dezembro de 2007, tendo-lhe sido atribuída autonomia administrativa a 15 de julho de 2009.</p>             <p>O CEI funciona de forma transparente, com plena autonomia e integridade, garantidas pela Comissão Europeia, perante a qual presta contas. A Comissão Europeia assume a responsabilidade final pela execução do 7º PQ e do respetivo orçamento.</p>             <p>A agência executiva do CEI tem as seguintes tarefas</p>             <ul>                <li>Executar o programa de trabalho anual, tal como definido pelo conselho científico do CEI e adotado pela Comissão,</li>                <li>Gerir os convites à apresentação de propostas, em conformidade com o programa de trabalho,</li>                <li>Prestar informações e apoio aos candidatos,</li>                <li>Organizar processos de avaliação e análise pelos pares,</li>                <li>Estabelecer e gerir os acordos de subvenção, em conformidade com o regulamento financeiro da UE,</li>                <li>Prestar assistência ao conselho científico do CEI.</li>             </ul>"
+      ],
+      "ro": [
+        "<p>Principalul său obiectiv este acela de a stimula excelenţa ştiinţifică în Europa, sprijinind şi încurajând oamenii de ştiinţă, academicienii şi inginerii cei mai buni şi cu adevărat creativi, care sunt invitaţi să depună propuneri în orice domeniu al cercetării.</p>             <p>CEC este format dintr-un consiliu ştiinţific şi o agenţie executivă care acţionează în numele Comisiei Europene. Consiliul Ştiinţific al CEC defineşte strategia şi metodele ştiinţifice, în timp ce Agenţia Executivă a acestuia implementează şi aplică aceste strategii şi metode în gestionarea şi derularea activităţilor de finanţare ale CEC în contextul legislativ al PC7.</p>             <p>Agenţia Executivă a CEC a fost înfiinţată oficial în decembrie 2007 şi a obţinut autonomie administrativă în data de 15 iulie 2009.</p>             <p>CEC funcţionează în mod transparent, deţinând autonomie şi integritate, garantate de către Comisia Europeană, în faţa căreia raportează. Comisia Europeană îşi asumă responsabilitatea finală faţă de executarea PC7 şi faţă de bugetul alocat acestuia.</p>             <p>Agenţia Executivă a CEC are următoarele sarcini:</p>             <ul>                <li>executarea programului de lucru anual, definit de către Consiliul ştiinţific al CEC şi adoptat de către Comisie;</li>                <li>punerea în aplicare a apelurilor pentru propuneri, în conformitate cu programul de lucru;</li>                <li>informarea şi sprijinirea candidaţilor;</li>                <li>organizarea de evaluări de către colegi;</li>                <li>încheierea şi administrarea de acorduri de subvenţionare, în conformitate cu regulamentul de finanţare al UE;</li>                <li>acordarea de asistenţă Consiliului Ştiinţific al Consiliului European pentru Cercetare.</li>             </ul>"
+      ],
+      "sk": [
+        "<p>Jej hlavným cieľom je stimulovať rozvoj vedeckého výskumu na najvyššej úrovni v Európe prostredníctvom podpory a motivácie tých najlepších a najtvorivejších vedcov, študentov a inžinierov, ktorí môžu predkladať svoje návrhy v ľubovoľnej oblasti výskumu.</p>             <p>ERV pozostáva z nezávislej vedeckej rady a výkonnej agentúry, ktorá zastupuje Európsku komisiu. Vedecká rada ERV definuje stratégiu a metódy vedeckého výskumu a výkonná agentúra ERV ich zavádza a uplatňuje pri správe a vykonávaní činností Európskej rady pre výskum súvisiacich s financovaním výskumu v právnom kontexte 7RP.</p>             <p>Výkonná agentúra ERV bola formálne založená v decembri 2007 a 15. júla 2009 získala administratívnu autonómiu.</p>             <p>Európska komisia, ktorej sa ERV zodpovedá, vystupuje ako garant nezávislosti a integrity jej činností. Európska komisia rovnako preberá aj konečnú zodpovednosť za realizáciu 7RP a rozpočet programu.</p>             <p>Výkonná agentúra ERV má na starosti tieto úlohy:</p>             <ul>                <li>vykonávať ročný pracovný program definovaný vedeckou radou ERV a schválený Komisiou</li>                <li>uverejňovať výzvy na predkladanie návrhov v súlade s pracovným programom</li>                <li>poskytovať informácie a podporu žiadateľom</li>                <li>organizovať preskúmania a hodnotenia odborných prác odborníkmi z daného odboru</li>                <li>uzatvárať a spravovať grantové dohody v súlade s finančnými nariadeniami EÚ</li>                <li>poskytovať podporu vedeckej rade ERV</li>             </ul>             <p> </p>"
+      ],
+      "sl": [
+        "<p>Osnovni namen Evropskega raziskovalnega sveta je spodbuditi znanstveno odličnost v Evropi. Podpira namreč najboljše in resnično ustvarjalne znanstvenike, učenjake in inženirje, ki lahko oddajo predlog za katerokoli področje raziskav.</p>             <p>Evropski raziskovalni svet sestavljata znanstveni svet, ki je neodvisen, in izvajalska agencija, ki dela v imenu Evropske komisije. Znanstveni svet določi znanstveno strategijo in program dela. Izvajalska agencija vodi finančne dejavnosti Evropskega raziskovalnega sveta v pravnem okviru 7. okvirnega programa in skrbi za izvedbo strategije in programa dela.</p>             <p>Izvajalska agencija je bila uradno ustanovljena decembra 2007, popolnoma samostojno pa posluje od 15. julija 2009.</p>             <p>Evropski raziskovalni svet svoje delo utemeljuje na preglednosti, avtonomnosti in poštenosti, za kar jamči Evropska komisija, ki ji je tudi odgovoren. Evropska komisija nosi tudi končno odgovornost za izvajanje 7. okvirnega programa in za izvrševanje njegovega proračuna.</p>             <p>Izvajalska agencija Evropskega raziskovalnega sveta opravlja naslednje naloge:</p>             <ul>                <li>uresničitev letnega delovnega programa, ki ga določi znanstveni svet Evropskega raziskovalnega sveta in sprejme Komisija;</li>                <li>izvedba pozivov za zbiranje predlogov v skladu z delovnim programom;</li>                <li>obveščanje in pomoč kandidatom;</li>                <li>priprava zunanjega ekspertnega ocenjevanja predlogov;</li>                <li>priprava in vodenje sporazumov o nepovratnih sredstvih v skladu s finančnimi predpisi EU;</li>                <li>pomoč znanstvenemu svetu Evropskega raziskovalnega sveta.</li>             </ul>"
+      ],
+      "sv": [
+        "<p>Forskningsrådet ska stimulera vetenskaplig excellens i Europa genom att stödja och uppmuntra de allra bästa, verkligt nyskapande forskarna, akademikerna och ingenjörerna. De uppmuntras att skicka in förslag till forskningsprojekt inom alla discipliner.</p>             <p>Forskningsrådet är ansvarigt inför kommissionen, som ska garantera att arbetet bedrivs öppet och självständigt.</p>             <p>Genomförandeorganet för Europeiska forskningsrådet inrättades formellt i december 2007 och blev administrativt självständigt den 15 juli 2009.</p>             <p>Forskningsrådet består av ett oberoende vetenskapligt råd och ett genomförandeorgan som arbetar för EU-kommissionen. Det vetenskapliga rådet ska lägga fast den vetenskapliga strategin och metoderna. Genomförandeorganet ska genomföra och tillämpa strategierna och metoderna då man handlägger finansieringen av projekt inom det sjunde ramprogrammet.</p>             <p>Genomförandeorganet utför följande uppgifter:</p>             <ul>                <li>Genomföra det årliga arbetsprogram som det vetenskapliga rådet fastställer och EU-kommissionen antar.</li>                <li>Genomföra ansökningsomgångar i enlighet med arbetsprogrammet.</li>                <li>Informera och hjälpa sökande.</li>                <li>Ansvara för att projektförslag utvärderas av externa forskare.</li>                <li>Utarbeta och förvalta avtal om forskningsbidrag, i enlighet med EU:s budgetförordning.</li>                <li>Bistå forskningsrådets vetenskapliga råd.</li>             </ul>"
+      ]
+    },
+    "left_sub_menu": {
+      "und": [
+        true
+      ]
+    }
+  }
+}

@@ -1,0 +1,833 @@
+{
+  "_id": "3f4d8fcf2b70587e687939f9b7f08436",
+  "type": "common_page",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/publications/reports-booklets/general-report/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Общ доклад — Дейност на Европейския съюз"
+      ],
+      "cs": [
+        "Souhrnná zpráva o činnosti Evropské unie"
+      ],
+      "da": [
+        "Den almindelige beretning – Den Europæiske Unions aktiviteter"
+      ],
+      "de": [
+        "Gesamtbericht – Tätigkeit der Europäischen Union"
+      ],
+      "el": [
+        "Γενική Έκθεση - Δραστηριότητες της Ευρωπαϊκής Ένωσης"
+      ],
+      "en": [
+        "General Report – Activities of the European Union"
+      ],
+      "es": [
+        "Informe General – Actividades de la Unión Europea"
+      ],
+      "et": [
+        "Üldaruanne Euroopa Liidu tegevuse kohta"
+      ],
+      "fi": [
+        "Yleiskertomus Euroopan unionin toiminnasta"
+      ],
+      "fr": [
+        "Rapport général sur l'activité de l'Union européenne"
+      ],
+      "ga": [
+        "Tuarascáil Ghinearálta - Gníomhaíochtaí an Aontais Eorpaigh"
+      ],
+      "hr": [
+        "Opće izvješće – aktivnosti Europske unije"
+      ],
+      "hu": [
+        "Általános jelentés az Európai Unió tevékenységeiről"
+      ],
+      "it": [
+        "Relazione generale sull'attività dell'Unione europea"
+      ],
+      "lt": [
+        "Bendrasis pranešimas apie Europos Sąjungos veiklą"
+      ],
+      "lv": [
+        "Pārskata ziņojums par Eiropas Savienības darbību"
+      ],
+      "mt": [
+        "Ir-Rapport Ġenerali – Attivitajiet tal-Unjoni Ewropea"
+      ],
+      "nl": [
+        "Algemeen verslag - werkzaamheden van de Europese Unie"
+      ],
+      "pl": [
+        "Sprawozdanie ogólne z działalności Unii Europejskiej"
+      ],
+      "pt": [
+        "Relatório Geral - Atividade da União Europeia"
+      ],
+      "ro": [
+        "Raport general - Activitățile Uniunii Europene"
+      ],
+      "sk": [
+        "Súhrnná správa – Činnosti Európskej únie"
+      ],
+      "sl": [
+        "Splošno poročilo o dejavnostih Evropske unije"
+      ],
+      "sv": [
+        "Allmän rapport om EU:s verksamhet"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "cs": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "da": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "de": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "el": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "en": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "es": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "et": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "fi": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "fr": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "ga": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "hr": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "hu": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "it": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "lt": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "lv": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "mt": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "nl": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "pl": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "pt": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "ro": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "sk": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "sl": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ],
+      "sv": [
+        "EUROPA/PUBLICATIONS/REPORTS-BOOKLETS/GENERAL-REPORT/EN"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        "COMM/COMM.A.5"
+      ],
+      "cs": [
+        "COMM/COMM.A.5"
+      ],
+      "da": [
+        "COMM/COMM.A.5"
+      ],
+      "de": [
+        "COMM/COMM.A.5"
+      ],
+      "el": [
+        "COMM/COMM.A.5"
+      ],
+      "en": [
+        "COMM/COMM.A.5"
+      ],
+      "es": [
+        "COMM/COMM.A.5"
+      ],
+      "et": [
+        "COMM/COMM.A.5"
+      ],
+      "fi": [
+        "COMM/COMM.A.5"
+      ],
+      "fr": [
+        "COMM/COMM.A.5"
+      ],
+      "ga": [
+        "COMM/COMM.A.5"
+      ],
+      "hr": [
+        "COMM/COMM.A.5"
+      ],
+      "hu": [
+        "COMM/COMM.A.5"
+      ],
+      "it": [
+        "COMM/COMM.A.5"
+      ],
+      "lt": [
+        "COMM/COMM.A.5"
+      ],
+      "lv": [
+        "COMM/COMM.A.5"
+      ],
+      "mt": [
+        "COMM/COMM.A.5"
+      ],
+      "nl": [
+        "COMM/COMM.A.5"
+      ],
+      "pl": [
+        "COMM/COMM.A.5"
+      ],
+      "pt": [
+        "COMM/COMM.A.5"
+      ],
+      "ro": [
+        "COMM/COMM.A.5"
+      ],
+      "sk": [
+        "COMM/COMM.A.5"
+      ],
+      "sl": [
+        "COMM/COMM.A.5"
+      ],
+      "sv": [
+        "COMM/COMM.A.5"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Годишен доклад, който съдържа отчет на основните инициативи и постижения на ЕС през годината."
+      ],
+      "cs": [
+        "Výroční zpráva podávající přehled nejdůležitějších iniciativ a úspěchů EU v uplynulém roce"
+      ],
+      "da": [
+        "Den årlige beretning, som giver et overblik over EU's vigtigste initiativer og resultater i årets løb."
+      ],
+      "de": [
+        "Jährlicher Bericht zu den wichtigsten Initiativen und Erfolgen der EU im betreffenden Jahr."
+      ],
+      "el": [
+        "Ετήσια έκθεση για τις σημαντικότερες πρωτοβουλίες και τα επιτεύγματα της ΕΕ το συγκεκριμένο έτος."
+      ],
+      "en": [
+        "Annual report giving an account of the EU's major initiatives and achievements throughout the year."
+      ],
+      "es": [
+        "Informe anual que da cuenta de los principales logros e iniciativas de la UE a lo largo del año."
+      ],
+      "et": [
+        "Iga-aastane aruanne ELi peamiste algatuste ja saavutuste kohta kogu aasta vältel."
+      ],
+      "fi": [
+        "Vuosiraportti, jossa kuvataan EU:n tärkeimmät toimet ja saavutukset vuoden ajalta"
+      ],
+      "fr": [
+        "Rapport général présentant les principales initiatives et réalisations de l'UE au cours de l'année écoulée"
+      ],
+      "ga": [
+        "Tuarascáil ghinearálta ina dtugtar cuntas ar mhórthionscnaimh agus ar mhóréachtaí an Aontais Eorpaigh le linn na bliana."
+      ],
+      "hr": [
+        "Godišnje izvješće kojim se daje pregled glavnih inicijativa i postignuća EU-a tijekom godine."
+      ],
+      "hu": [
+        "Az általános jelentésben az Európai Bizottság ismerteti az év során útnak indított legfontosabb uniós kezdeményezéseket és az elért legjelentősebb uniós eredményeket."
+      ],
+      "it": [
+        "La relazione annuale illustra le principali iniziative e i risultati di maggior rilievo realizzati dall'UE nel corso dell'anno."
+      ],
+      "lt": [
+        "Metiniame pranešime apžvelgiamos svarbiausios tų metų ES iniciatyvos ir didžiausi laimėjimai."
+      ],
+      "lv": [
+        "Ikgadējs ziņojums, kurā izklāstītas ES galvenās iniciatīvas un panākumi gada laikā."
+      ],
+      "mt": [
+        "Ir-Rapport annwali jagħti rendikont tal-inizjattivi u l-kisbiet ewlenin tal-UE tul is-sena."
+      ],
+      "nl": [
+        "Het algemeen verslag van de Europese Commissie geeft een overzicht van de belangrijkste initiatieven en resultaten van de EU in het afgelopen jaar."
+      ],
+      "pl": [
+        "Sprawozdanie ogólne przedstawia najważniejsze unijne inicjatywy i osiągnięcia w wybranym roku."
+      ],
+      "pt": [
+        "O relatório geral elaborado pela Comissão Europeia apresenta as principais iniciativas e resultados alcançados pela UE ao longo do ano."
+      ],
+      "ro": [
+        "Raportul general al Comisiei Europene prezintă principalele inițiative și realizări ale UE din anul respectiv."
+      ],
+      "sk": [
+        "Súhrnná správa podáva prehľad najdôležitejších iniciatív a úspechov, ktoré EÚ v priebehu roka dosiahla."
+      ],
+      "sl": [
+        "Splošno poročilo o glavnih pobudah in uspehih Evropske unije v preteklem letu."
+      ],
+      "sv": [
+        "Årsrapport som redogör för EU:s viktigaste insatser under året."
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "ЕС",
+        "Европейски съюз",
+        "Европа",
+        "общ доклад",
+        "дейности",
+        "Общ доклад за 2015 г."
+      ],
+      "cs": [
+        "EU",
+        "Evropská unie",
+        "Evropa",
+        "souhrnná zpráva",
+        "činnost",
+        "Souhrnná zpráva 2015"
+      ],
+      "da": [
+        "EU",
+        "Den Europæiske Union",
+        "Europa",
+        "almindelig beretning",
+        "aktiviteter",
+        "virksomhed",
+        "Den almindelige beretning 2015"
+      ],
+      "de": [
+        "EU",
+        "Europäische Union",
+        "Europa",
+        "Gesamtbericht",
+        "Tätigkeit",
+        "Tätigkeiten",
+        "Gesamtbericht 2015"
+      ],
+      "el": [
+        "ΕΕ",
+        "Ευρωπαϊκή Ένωση",
+        "Ευρώπη",
+        "γενική έκθεση",
+        "δραστηριότητες",
+        "Γενική Έκθεση 2015"
+      ],
+      "en": [
+        "EU",
+        "European Union",
+        "Europe",
+        "general report",
+        "activities",
+        "General report of 2015"
+      ],
+      "es": [
+        "UE",
+        "Unión Europea",
+        "Europa",
+        "Informe General",
+        "Actividades",
+        "Informe General de 2015"
+      ],
+      "et": [
+        "EL",
+        "Euroopa Liit",
+        "Euroopa",
+        "üldaruanne",
+        "tegevusvaldkonnad",
+        "2015. aasta üldaruanne"
+      ],
+      "fi": [
+        "EU",
+        "Euroopan unioni",
+        "unioni",
+        "yleiskertomus",
+        "toimet",
+        "toiminta",
+        "aloitteet",
+        "Yleiskertomus 2015"
+      ],
+      "fr": [
+        "UE",
+        "Union européenne",
+        "Europe",
+        "rapport général",
+        "activités",
+        "Rapport général 2015"
+      ],
+      "ga": [
+        "AE",
+        "an tAontas Eorpach",
+        "an Eoraip",
+        "tuarascáil ghinearálta",
+        "gníomhaíochtaí",
+        "Tuarascáil Ghinearálta 2015"
+      ],
+      "hr": [
+        "EU",
+        "Europska unija",
+        "Europa",
+        "Opće izvješće",
+        "aktivnosti",
+        "Opće izvješće za 2015."
+      ],
+      "hu": [
+        "EU",
+        "Unió",
+        "Európai Unió",
+        "Európa",
+        "általános jelentés",
+        "tevékenységek",
+        "2015. évi általános jelentés"
+      ],
+      "it": [
+        "UE",
+        "Unione europea",
+        "Europa",
+        "relazione generale",
+        "attività",
+        "Relazione generale 2015"
+      ],
+      "lt": [
+        "ES",
+        "Europos Sąjunga",
+        "Europa",
+        "bendrasis pranešimas",
+        "veikla",
+        "2015 m. bendrasis pranešimas"
+      ],
+      "lv": [
+        "ES",
+        "Eiropas Savienība",
+        "Eiropa",
+        "vispārējs ziņojums",
+        "pārskats",
+        "pārskata ziņ",
+        "darbības",
+        "aktivitātes",
+        "pasākumi",
+        "2015. gada pārskata ziņojums"
+      ],
+      "mt": [
+        "UE",
+        "Unjoni Ewropea",
+        "Ewropa",
+        "rapport ġenerali",
+        "attivitajiet",
+        "Rapport Ġenerali 2015"
+      ],
+      "nl": [
+        "EU",
+        "Europese Unie",
+        "Europa",
+        "algemeen verslag",
+        "activiteiten",
+        "Algemeen verslag 2015"
+      ],
+      "pl": [
+        "UE",
+        "Unia Europejska",
+        "Europa",
+        "sprawozdanie ogólne",
+        "działalność",
+        "Sprawozdanie ogólne za rok 2015"
+      ],
+      "pt": [
+        "ue",
+        "união europeia",
+        "europa",
+        "relatório geral",
+        "atividade",
+        "atividades",
+        "Relatório Geral de 2015"
+      ],
+      "ro": [
+        "UE",
+        "Uniunea Europeană",
+        "Europa",
+        "raport general",
+        "activități",
+        "Raportul general pe 2015"
+      ],
+      "sk": [
+        "EÚ",
+        "Európska únia",
+        "Európa",
+        "súhrnná správa",
+        "činnosti",
+        "podujatia",
+        "Súhrnná správa za rok 2015"
+      ],
+      "sl": [
+        "EU",
+        "Evropska unija",
+        "Evropa",
+        "splošno poročilo",
+        "dejavnosti",
+        "Splošno poročilo za leto 2015"
+      ],
+      "sv": [
+        "EU",
+        "Europeiska unionen",
+        "europa",
+        "europa.eu",
+        "allmän rapport",
+        "verksamhet",
+        "aktivitet",
+        "insats",
+        "Allmänna rapporten 2015"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "body": {
+      "bg": [
+        "<p>В публикувания от Европейската комисия Общ доклад се прави отчет на основните инициативи и постижения на ЕС от изминалата годината.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001bgn_bg.jpg\"                           alt=\"Общ доклад за дейността на Европейския съюз през 2015 г.\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>ЕС през 2015 г.</h3>                   <p>Искате ли да узнаете какво направи Европейският съюз през 2015 г.? Какъв напредък постигна в изпълнението на своите приоритети? Мерките, които предприе, за да се насърчи създаването на работни места, растежа и инвестициите? Ролята, която изигра за постигане на споразумение за климата в Париж?</p>                   <p>Можете да откриете отговорите на всички тези и много други въпроси в общия доклад „ЕС през 2015 г.“ За бърз преглед вижте публикацията „ЕС през 2015 г. — Основни моменти“.</p>                </div>             </div>             <p>                <strong>Поръчайте, изтеглете или прочетете „ЕС през 2015 г. — Общ доклад“ и „ЕС през 2015 г. — Основни моменти“</strong> на <a href=\"http://publications.europa.eu/bg/web/general-report\">уебсайта на Службата за публикации</a>:</p>             <ul>                <li>PDF версия (безплатно)</li>                <li>електронна книга (безплатно)</li>                <li>HTML версия (безплатно)</li>                <li>хартиен екземпляр (срещу заплащане)</li>             </ul>"
+      ],
+      "cs": [
+        "<p>Souhrnná zpráva Evropské komise podává přehled nejdůležitějších iniciativ a úspěchů EU v uplynulém roce.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001csn_cs.jpg\"                           alt=\"Souhrnná zpráva o činnosti Evropské unie 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>Činnost EU v roce 2015</h3>                   <p>Chcete se dozvědět více o činnosti Evropské unie v roce 2015? Jakého pokroku dosáhla při plnění svých priorit? Jaká opatření přijala na podporu tvorby pracovních míst, hospodářského růstu a investic? Jakou úlohu hrála při dosažení dohody o klimatu v Paříži?</p>                   <p>Odpovědi na všechny tyto i mnohé další otázky najdete v souhrnné zprávě za rok 2015. Ke zprávě je rovněž připojen stručný přehled.</p>                </div>             </div>             <p>                <strong>Souhrnnou zprávu i stručný přehled si můžete objednat, stáhnout či přečíst</strong> na <a href=\"http://publications.europa.eu/cs/web/general-report\">stránkách Úřadu pro publikace EU</a>:</p>             <ul>                <li>formát PDF (zdarma)</li>                <li>e-kniha (zdarma)</li>                <li>verze HTML (zdarma)</li>                <li>tištěná verze (za poplatek)</li>             </ul>"
+      ],
+      "da": [
+        "<p>Den almindelige beretning, som offentliggøres af Europa-Kommissionen, redegør for EU's største initiativer og resultater i det forgangne år.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001dan_da.jpg\"                           alt=\"Den almindelige beretning om Den Europæiske Unions virksomhed i 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>EU i 2015</h3>                   <p>Vil du vide, hvad EU foretog sig 2015? Hvilke fremskridt blev der gjort med hensyn til EU's aktiviteter? Hvad blev der gjort for at fremme beskæftigelse, vækst og investeringer? Hvilken rolle spillede EU i indgåelsen af klimaaftalen i Paris?</p>                   <p>Du kan finde svaret på alle disse spørgsmål og meget mere i den almindelige beretning om EU i 2015. Læs højdepunkterne og få et hurtigt overblik.</p>                </div>             </div>             <p>                <strong>Bestil, download eller læs \"EU i 2015 - Almindelig beretning\" og dens højdepunkter</strong> på <a href=\"http://publications.europa.eu/da/web/general-report\">Publikationskontorets hjemmeside</a>:</p>             <ul>                <li>Pdf-udgave (gratis)</li>                <li>E-bog (gratis)</li>                <li>Html-udgave (gratis)</li>                <li>Papirudgave (mod betaling)</li>             </ul>"
+      ],
+      "de": [
+        "<p>Der Gesamtbericht der Europäischen Kommission informiert Sie über die wichtigsten Initiativen und Erfolge der EU im vergangenen Jahr.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001den_de.jpg\"                           alt=\"Gesamtbericht über die Tätigkeit der Europäischen Union 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>Die EU im Jahr 2015</h3>                   <p>Was hat die Europäische Union 2015 erreicht? Welche Fortschritte hat sie bei der Verwirklichung ihrer Prioritäten erzielt? Was hat sie zur Förderung von Beschäftigung, Wachstum und Investitionen getan? Welche Rolle hat sie beim Klimaabkommen in Paris gespielt?</p>                   <p>Antworten auf diese und viele andere Fragen finden Sie im Gesamtbericht „Die EU im Jahr 2015“ oder in unserer Broschüre „Das Wichtigste im Überblick“.</p>                </div>             </div>             <p>Auf der <a href=\"http://publications.europa.eu/de/web/general-report\">Website des Amts für Veröffentlichungen</a> können Sie den <strong>Gesamtbericht und die Broschüre bestellen, herunterladen oder lesen</strong>:</p>             <ul>                <li>PDF (kostenlos)</li>                <li>E-Book (kostenlos)</li>                <li>HTML (kostenlos)</li>                <li>Papierausgabe (gegen Gebühr)</li>             </ul>"
+      ],
+      "el": [
+        "<p>Η Γενική Έκθεση που δημοσιεύει η Ευρωπαϊκή Επιτροπή παρουσιάζει τις σημαντικότερες πρωτοβουλίες και τα επιτεύγματα της ΕΕ τη χρονιά που πέρασε.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001eln_el.jpg\"                           alt=\"Γενική Έκθεση για τις δραστηριότητες της Ευρωπαϊκής Ένωσης 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>Η ΕΕ το 2015</h3>                   <p>Θέλετε να μάθετε τι πέτυχε η Ευρωπαϊκή Ένωση το 2015; Την πρόοδο που σημείωσε στην υλοποίηση των προτεραιοτήτων της; Ποια μέτρα έλαβε για την τόνωση της απασχόλησης, της ανάπτυξης και των επενδύσεων; Τον ρόλο της στη συμφωνία για το κλίμα που επιτεύχθηκε στο Παρίσι;</p>                   <p>Όλες αυτές τις απαντήσεις αλλά και πολλές άλλες πληροφορίες μπορείτε να βρείτε στη Γενική Έκθεση «Η ΕΕ το 2015». Διαβάστε τα σημαντικότερα σημεία για μια σύντομη ενημέρωση.</p>                </div>             </div>             <p>                <strong>Μπορείτε να παραγγείλετε, να τηλεφορτώσετε ή να διαβάσετε τη Γενική Έκθεση «Η ΕΕ το 2015» και τα σημαντικότερα σημεία της</strong> στον <a href=\"http://publications.europa.eu/el/web/general-report\">ιστότοπο της Υπηρεσίας Εκδόσεων</a>:</p>             <ul>                <li>έκδοση PDF (δωρεάν)</li>                <li>ηλεκτρονικό βιβλίο (δωρεάν)</li>                <li>έκδοση HTML (δωρεάν)</li>                <li>έκδοση σε χαρτί (επί πληρωμή)</li>             </ul>"
+      ],
+      "en": [
+        "<p>The General Report published by the European Commission gives an account of the EU's major initiatives and achievements of the past year.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001enn_en.jpg\"                           alt=\"General Report on the activities of the European Union 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>The EU in 2015</h3>                   <p>Do you want to know what the European Union achieved in 2015? What progress it made in delivering on its priorities? The measures it took to boost jobs, growth and investment? The part it played in the climate deal achieved in Paris?</p>                   <p>You can find the answers to all these questions and more in \"The EU in 2015\" General Report. Read the highlights for a quick overview.</p>                </div>             </div>             <p>                <b>Order, download or read the The EU in 2015 - General Report and its highlights</b> on the <a href=\"http://publications.europa.eu/en/web/general-report\">Publications Office website</a>:</p>             <ul>                <li>PDF version (free)</li>                <li>e-book version (free)</li>                <li>HTML version (free)</li>                <li>paper copy (for a fee)</li>             </ul>"
+      ],
+      "es": [
+        "<p>El Informe General publicado por la Comisión Europea repasa los principales logros e iniciativas de la UE en el año anterior.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001esn_es.jpg\"                           alt=\"Informe general sobre la actividad de la Unión Europea 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>La UE en 2015</h3>                   <p>¿Quiere saber qué logró la Unión Europea en 2015? ¿Sus avances respecto al cumplimiento de sus prioridades? ¿Qué medidas tomó para impulsar el empleo, el crecimiento y la inversión? ¿Su papel en el acuerdo sobre el clima alcanzado en París?</p>                   <p>Encontrará las respuestas a estas y otras preguntas en el Informe General \"La UE en 2015\". Si desea hacerse una idea rápida, vea los puntos esenciales.</p>                </div>             </div>             <p>                <strong>Encargue, descargue o consulte el Informe General \"La UE en 2015\" y sus puntos esenciales</strong> en la <a href=\"http://publications.europa.eu/es/web/general-report\">web de la Oficina de Publicaciones</a>:</p>             <ul>                <li>versión PDF (gratuita)</li>                <li>versión para e-book (gratuita)</li>                <li>versión HTML (gratuita)</li>                <li>ejemplar impreso (previo pago)</li>             </ul>"
+      ],
+      "et": [
+        "<p>Euroopa Komisjoni avaldatavas üldises aruandes antakse ülevaade ELi peamistest algatustest ja saavutustest möödunud aastal.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001etn_et.jpg\"                           alt=\"Üldaruanne Euroopa Liidu tegevuse kohta 2015. aastal\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>EL 2015. aastal</h3>                   <p>Soovite teada, mida Euroopa Liit saavutas aastal 2015? Milliseid edusamme on tehtud prioriteetide saavutamiseks? Millised on töökohtade loomise, majanduskasvu ja investeeringute edendamiseks võetud meetmed? Milline oli ELi roll kliimakokkuleppe saavutamisel Pariisis?</p>                   <p>Vastused neile ja veel paljudele teistele küsimustele leiate üldaruandest „EL 2015. aastal”. Tutvuge kiire ülevaate saamiseks põhipunktidega.</p>                </div>             </div>             <p>                <strong>Üldaruanne „EL 2015. aastal” ja selle põhipunktid on tellimiseks, allalaadimiseks ja lugemiseks</strong> kättesaadavad <a href=\"http://publications.europa.eu/et/web/general-report\">Euroopa Liidu Väljaannete Talituse veebisaidil</a>:</p>             <ul>                <li>PDF-vormingus (tasuta)</li>                <li>e-raamatuna (tasuta)</li>                <li>HTML-vormingus (tasuta)</li>                <li>paberkandjal (tasu eest)</li>             </ul>"
+      ],
+      "fi": [
+        "<p>Euroopan komission julkaisemassa yleiskertomuksessa esitellään EU:n tärkeimmät toimet ja saavutukset viime vuoden ajalta.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001fin_fi.jpg\"                           alt=\"Yleiskertomus Euroopan unionin toiminnasta vuonna 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>EU vuonna 2015</h3>                   <p>Haluatko tietää, mitä Euroopan unioni sai aikaan vuonna 2015? Miten EU onnistui saavuttamaan tavoitteensa? Mitä se teki luodakseen työpaikkoja ja edistääkseen kasvua ja investointeja? Millainen rooli sillä oli Pariisin ilmastosopimuksen aikaansaamisessa?</p>                   <p>Muun muassa näitä asioita käsitellään vuoden 2015 yleiskertomuksessa. Tiivistelmäosiot tarjoavat hyvän yleiskuvan kustakin aiheesta.</p>                </div>             </div>             <p>                <strong>Voit lukea, ladata tai tilata vuoden 2015 yleiskertomuksen</strong>                <a href=\"http://publications.europa.eu/fi/web/general-report\">EU:n julkaisutoimiston verkkosivulta</a>:</p>             <ul>                <li>PDF-versio (maksuton)</li>                <li>sähköinen kirja (maksuton)</li>                <li>HTML-versio (maksuton)</li>                <li>paperiversio (maksullinen)</li>             </ul>"
+      ],
+      "fr": [
+        "<p>Le rapport général publié par la Commission européenne présente les principales initiatives et réalisations de l'UE au cours de l'année écoulée.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001frn_fr.jpg\"                           alt=\"Rapport général sur l'activité de l'Union européenne 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>L'UE en 2015</h3>                   <p>Vous souhaitez savoir ce qu'a réalisé l'Union européenne en 2015? Quels progrès elle a accomplis pour mettre en œuvre ses priorités? Les mesures qu'elle a prises pour stimuler l’emploi, la croissance et l’investissement? Le rôle qu’elle a joué dans l’accord sur le climat conclu à Paris?</p>                   <p>Vous trouverez les réponses à toutes ces questions et à bien d'autres dans le rapport général «L'UE en 2015». Pour un aperçu rapide, vous pouvez simplement lire les principales réalisations.</p>                </div>             </div>             <p>Vous pouvez <strong>commander, télécharger ou lire le rapport général et les principales réalisations</strong> sur le <a href=\"http://publications.europa.eu/fr/web/general-report\">site web de l'Office des publications</a>:</p>             <ul>                <li>version pdf (gratuite)</li>                <li>version livre électronique (gratuite)</li>                <li>version HTML (gratuite)</li>                <li>version papier (payante)</li>             </ul>"
+      ],
+      "ga": [
+        "<p>Sa tuarascáil ghinearálta a d'fhoilsigh an Coimisiún Eorpach, tugtar cuntas ar mhórthionscnaimh agus ar mhóréachtaí an Aontais Eorpaigh le linn na bliana seo caite.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001enn_en.jpg\"                           alt=\"Tuarascáil ghinearálta faoi ghníomhaíochtaí an Aontais Eorpaigh 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>An tAontas Eorpach in 2015</h3>                   <p>Ar mhaith leat bheith ar an eolas faoinar bhain an tAontas Eorpach amach in 2015? Cén dul chun cinn a rinne sé i dtaobh a gcuid tosaíochtaí a chur i gcrích? Cérbh iad na bearta a rinne sé chun borradh a chur faoin bhfostaíocht, faoin bhfás agus faoin infheistíocht? Cérbh é an ról a bhí aige i dtaca le comhaontú a bhaint amach ar son na haeráide i bPáras?</p>                   <p>Tá na freagraí ar na ceisteanna sin ar fad agus tuilleadh lena chois le fáil sa Tuarascáil Ghinearálta, \"An tAontas Eorpach in 2015\". Chun forléargas tapa a fháil, léigh faoi na buaicphointí.</p>                </div>             </div>             <p>                <b>Is féidir \"An tAontas Eorpach - Tuarascáil Ghinearálta agus a chuid buaicphointí\" a ordú, a íoslódáil nó a léamh</b> ar <a href=\"http://publications.europa.eu/ga/web/general-report\">shuíomh gréasáin Oifig na bhFoilseachán</a>:</p>             <ul>                <li>leagan PDF (saor in aisce)</li>                <li>leagan ríomhleabhair (saor in aisce)</li>                <li>leagan HTML (saor in aisce)</li>                <li>i bhfoirm cóip chrua (táille le híoc)</li>             </ul>"
+      ],
+      "hr": [
+        "<p>Opće izvješće koje objavljuje Europska komisija pregled je glavnih inicijativa i postignuća EU-a u protekloj godini.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001hrn_hr.jpg\"                           alt=\"Opće izvješće o aktivnostima Europske unije 2015.\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>EU 2015.</h3>                   <p>Zanimaju li vas postignuća Europske unije 2015.? U kojoj je mjeri ostvaren napredak u pogledu zadanih prioriteta? Koje su mjere poduzete za poticanje zapošljavanja, rasta i ulaganja? Kakvu je ulogu imao EU u postizanju sporazuma o klimi u Parizu?</p>                   <p>Odgovore na ta i druga pitanja potražite u Općem izvješću „EU 2015.“ U sažetku je dan kratak pregled.</p>                </div>             </div>             <p>                <strong>Naručite, preuzmite ili pročitajte Opće izvješće „EU 2015.“ te njegov sažetak</strong> na <a href=\"http://publications.europa.eu/hr/web/general-report\">web-mjestu Ureda za publikacije</a>:</p>             <ul>                <li>u PDF formatu (besplatno)</li>                <li>u obliku elektroničke knjige (besplatno)</li>                <li>u HTML verziji (besplatno)</li>                <li>u tiskanom obliku (uz plaćanje)</li>             </ul>"
+      ],
+      "hu": [
+        "<p>Az Európai Bizottság által közzétett általános jelentés ismerteti az elmúlt év során útnak indított legfontosabb uniós kezdeményezéseket és a tavaly elért legjelentősebb uniós eredményeket.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001hun_hu.jpg\"                           alt=\"Általános jelentés az Európai Unió tevékenységeiről, 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>Az EU 2015-ben</h3>                   <p>Milyen eredményeket ért el az Európai Unió 2015 folyamán? Milyen előrelépést sikerült felmutatnia az uniós prioritások megvalósítása terén? Milyen intézkedéseket hozott a foglalkoztatás, a gazdasági növekedés és a beruházások fellendítése érdekében? Milyen szerepet játszott abban, hogy Párizsban sikerült tető alá hozni az új éghajlatvédelmi megállapodást?</p>                   <p>Ha Ön választ szeretne kapni a fenti kérdésekre, lapozza fel „Az EU 2015-ben” című általános jelentést, amelyben más érdekes uniós témákról is tájékozódhat. Ha gyorsan át szeretné tekinteni a legfőbb eredményeket, olvassa el az ezekről készített összefoglalót.</p>                </div>             </div>             <p>                <strong>Rendelje meg, töltse le, illetve olvassa el „Az EU 2015-ben – Általános jelentés az Európai Unió tevékenységeiről” című kiadványt és a 2015-ben elért kiemelkedő eredményekről készült rövid összefoglalót</strong> a <a href=\"http://publications.europa.eu/hu/web/general-report\">Kiadóhivatal honlapján</a>:</p>             <ul>                <li>PDF (ingyenes)</li>                <li>e-book (ingyenes)</li>                <li>HTML (ingyenes)</li>                <li>nyomtatott példány (térítésköteles)</li>             </ul>"
+      ],
+      "it": [
+        "<p>La relazione generale della pubblicata dalla Commissione europea illustra le principali iniziative e i risultati di maggior rilievo realizzati dall'UE lo scorso anno.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001itn_it.jpg\"                           alt=\"Relazione generale sull'attività dell'Unione europea 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>L’UE nel 2015</h3>                   <p>Vuoi sapere cosa ha realizzato l'Unione europea nel 2015? Quali progressi ha compiuto verso la realizzazione delle sue priorità? Le misure adottate per promuovere l’occupazione, la crescita e gli investimenti? Il ruolo che ha svolto nell’accordo sul clima raggiunto a Parigi?</p>                   <p>Troverai tutte le risposte, e altro ancora, nella relazione generale \"L'UE nel 2015\". Leggi la sintesi per una rapida panoramica.</p>                </div>             </div>             <p>                <strong>Ordina, scarica o leggi la Relazione generale - L'UE nel 2015 e la sua sintesi</strong> sul <a href=\"http://publications.europa.eu/it/web/general-report\">sito dell'Ufficio delle pubblicazioni</a>:</p>             <ul>                <li>versione PDF (gratuito)</li>                <li>versione e-book (gratuito)</li>                <li>versione HTML (gratuito)</li>                <li>su carta (a pagamento)</li>             </ul>"
+      ],
+      "lt": [
+        "<p>Europos Komisijos paskelbtame bendrajame pranešime apžvelgiamos svarbiausios praėjusių metų ES iniciatyvos ir didžiausi laimėjimai.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001ltn_lt.jpg\"                           alt=\"2015 m. bendrasis pranešimas apie Europos Sąjungos veiklą\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>ES 2015 m.</h3>                   <p>Norite sužinoti, ką Europos Sąjunga pasiekė 2015 m.? Kokią pažangą ji padarė siekdama savo prioritetų? Kokių priemonių ji ėmėsi, kad paskatintų darbo vietų kūrimą, ekonomikos augimą ir investicijas? Kokį vaidmenį atliko rengiant susitarimą dėl klimato Paryžiuje?</p>                   <p>Atsakymus į visus šiuos ir daugybę kitų klausimų rasite bendrajame pranešime „ES 2015 m.“ Jeigu norite greitai sužinoti, apie ką jame rašoma, susipažinkite su jo svarbiausių punktų apžvalga.</p>                </div>             </div>             <p>                <strong>Užsisakykite, parsisiųsdinkite arba skaitykite bendrąjį pranešimą „ES 2015 m.“ ir jo apžvalgą</strong>                <a href=\"http://publications.europa.eu/lt/web/general-report\">Leidinių biuro svetainėje</a>:</p>             <ul>                <li>PDF formatas (nemokamai)</li>                <li>e. knygos formatas (nemokamai)</li>                <li>HTML formatas (nemokamai)</li>                <li>spausdintinis egzempliorius (mokamas)</li>             </ul>"
+      ],
+      "lv": [
+        "<p>Eiropas Komisijas publicētajā pārskata ziņojumā par Eiropas Savienības darbību izklāstītas ES galvenās iniciatīvas un panākumi iepriekšējā gadā.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001lvn_lv.jpg\"                           alt=\"Pārskata ziņojums par ES darbību 2015. gadā\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>Eiropas Savienība 2015. gadā</h3>                   <p>Vai vēlaties uzzināt, kādi bija Eiropas Savienības panākumi 2015. gadā? Kā veicās ar prioritāru mērķu sasniegšanu? Ko tā darīja, lai veicinātu nodarbinātību, izaugsmi un investīcijas? Kāds bija ES ieguldījums klimata aizsardzības līguma noslēgšanā Parīzē?</p>                   <p>Uz visiem šiem un citiem jautājumiem atbildes varat atrast pārskata ziņojumā “Eiropas Savienība 2015. gadā”. Izlasiet kopsavilkumu, lai ātri iegūtu ieskatu.</p>                </div>             </div>             <p>                <strong>Pasūtiet, lejupielādējiet vai lasiet pārskata ziņojumu par ES darbību 2015. gadā un tā kopsavilkumu</strong>                <a href=\"http://publications.europa.eu/lv/web/general-report\">Publikāciju biroja vietnē</a>:</p>             <ul>                <li>PDF versija (par velti)</li>                <li>E-grāmata (par velti)</li>                <li>HTML versija (par velti)</li>                <li>izdevums drukātā veidā (par maksu)</li>             </ul>"
+      ],
+      "mt": [
+        "<p>Ir-Rapport Ġenerali ppubblikat mill-Kummissjoni Ewropea jagħti rendikont tal-inizjattivi u l-kisbiet ewlenin tal-UE tas-sena l-oħra.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001mtn_mt.jpg\"                           alt=\"Rapport ġenerali dwar l-attivitajiet tal-Unjoni Ewropea 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>L-UE fl-2015</h3>                   <p>Tixtieq tkun taf x'wettqet l-Unjoni Ewropea fl-2015? Xi progress għamlet fit-twassil tal-prijoritajiet tagħha? Il-miżuri li ħadet biex issaħħaħ l-impjiegi, l-iżvilupp u l-investiment? Is-sehem li kellha fil-ftehim dwar il-klima f'Pariġi?</p>                   <p>Tista' ssib it-tweġibiet għal dawn il-mistoqsijiet kollha jew aktar fir-Rapport Ġenerali \"L-UE fl-2015\". Aqra l-punti ewlenin għal ħarsa ġenerali ta’ malajr.</p>                </div>             </div>             <p>                <strong>Ordna, iddawnlowdja jew aqra L-UE fl-2015 - Rapport Ġenerali u l-punti ewlenin tiegħu</strong> mis-<a href=\"http://publications.europa.eu/mt/web/general-report\">sit web tal-Uffiċċju tal-Pubblikazzjonijiet</a>:</p>             <ul>                <li>verżjoni PDF (bla ħlas)</li>                <li>verżjoni ktieb elettroniku (bla ħlas)</li>                <li>verżjoni HTML (bla ħlas)</li>                <li>kopja stampata (bi ħlas)</li>             </ul>"
+      ],
+      "nl": [
+        "<p>Het algemeen verslag wordt verzorgd door de Europese Commissie. Het geeft een overzicht van de belangrijkste initiatieven en resultaten van de EU in het afgelopen jaar.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001nln_nl.jpg\"                           alt=\"Algemeen verslag over de werkzaamheden van de Europese Unie (2015)\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>De EU in 2015</h3>                   <p>Wat heeft de Europese Unie in 2015 bereikt? Welke vorderingen heeft zij gemaakt bij haar prioriteiten? Wat heeft zij gedaan om werkgelegenheid, groei en investeringen te stimuleren? Welke rol heeft zij gespeeld in de klimaatovereenkomst van Parijs?</p>                   <p>De antwoorden op al deze vragen en meer vindt u in het algemeen verslag 2015. Onder \"Belangrijkste punten\" vindt u een kort overzicht.</p>                </div>             </div>             <p>                <strong>Bestel, download of lees \"De EU in 2015 - Algemeen verslag\" en de belangrijkste punten ervan</strong> op de website van het <a href=\"http://publications.europa.eu/nl/web/general-report\">Publicatiebureau</a>:</p>             <ul>                <li>pdf-versie (gratis)</li>                <li>e-boek (gratis)</li>                <li>html-versie (gratis)</li>                <li>op papier (tegen vergoeding)</li>             </ul>"
+      ],
+      "pl": [
+        "<p>W sprawozdaniu ogólnym, opracowanym przez Komisję Europejską, przedstawiono najważniejsze unijne inicjatywy i osiągnięcia w minionym roku.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001pln_pl.jpg\"                           alt=\"Sprawozdanie ogólne z działalności Unii Europejskiej w 2015 r.\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>UE w 2015 r.</h3>                   <p>Czym zajmowała się Unia Europejska w 2015 roku? Jakie postępy poczyniono w realizacji ustalonych priorytetów? Jakie podjęła decyzje, aby tworzyć miejsca pracy, pobudzać wzrost gospodarczy i inwestycje? Jaką rolę odegrała na konferencji klimatycznej w Paryżu?</p>                   <p>Odpowiedzi na wszystkie te i inne pytania można znaleźć w sprawozdaniu ogólnym za rok 2015. Podsumowanie najważniejszych informacji</p>                </div>             </div>             <p>                <strong>Zamów lub pobierz sprawozdanie ogólne i podsumowanie</strong> na stronie <a href=\"http://publications.europa.eu/pl/web/general-report\">Urzędu Publikacji</a>:</p>             <ul>                <li>wersja PDF (bezpłatna)</li>                <li>e-book (bezpłatny)</li>                <li>wersja HTML (bezpłatna)</li>                <li>wersja papierowa (za opłatą)</li>             </ul>"
+      ],
+      "pt": [
+        "<p>O Relatório Geral publicado pela Comissão Europeia apresenta as principais iniciativas e resultados alcançados pela UE no ano anterior.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001ptn_pt.jpg\"                           alt=\"Relatório Geral sobre a Atividade da União Europeia - 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>A UE em 2015</h3>                   <p>Gostaria de saber o que a União Europeia realizou em 2015? Quais os progressos que efetuou na concretização das suas prioridades? As medidas que tomou para impulsionar o emprego, o crescimento e o investimento? O papel que desempenhou no acordo alcançado em Paris sobre o clima?</p>                   <p>O relatório geral sobre a UE em 2015 dá resposta a estas e a outras perguntas. Se deseja ter uma visão geral, consulte os tópicos.</p>                </div>             </div>             <p>                <strong>Encomende, descarregue ou consulte o Relatório Geral - A UE em 2015 e os seus tópicos</strong> no <a href=\"http://publications.europa.eu/pt/web/general-report\">sítio do Serviços das Publicações</a>:</p>             <ul>                <li>versão em PDF (gratuita)</li>                <li>versão em formato de livro eletrónico (gratuita)</li>                <li>versão em HTML (gratuita)</li>                <li>em papel (a pagamento)</li>             </ul>"
+      ],
+      "ro": [
+        "<p>Raportul general publicat de Comisia Europeană prezintă principalele inițiative și realizări ale UE din anul precedent.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001ron_ro.jpg\"                           alt=\"Raport general privind activitatea Uniunii Europene în 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>UE în 2015</h3>                   <p>Care au fost realizările Uniunii Europene în 2015? În ce măsură au fost îndeplinite obiectivele prioritare? Ce a făcut UE pentru a stimula crearea de locuri de muncă, creșterea economică și investițiile? Ce rol a jucat în încheierea acordului de la Paris privind schimbările climatice?</p>                   <p>Raportul general „UE în 2015” vă oferă răspunsurile la toate aceste întrebări, precum și multe alte informații interesante. Citiți principalele rezultate pentru a vă face o imagine de ansamblu.</p>                </div>             </div>             <p>                <strong>Comandați, descărcați sau citiți on-line raportul general „UE în 2015” și principalele rezultate pe care le evidențiază</strong> pe <a href=\"http://publications.europa.eu/ro/web/general-report\">site-ul Oficiului pentru Publicații</a>:</p>             <ul>                <li>versiune PDF (gratuită)</li>                <li>versiune carte electronică (gratuită)</li>                <li>versiune HTML (gratuită)</li>                <li>exemplar tipărit (contra cost)</li>             </ul>"
+      ],
+      "sk": [
+        "<p>Súhrnná správa, ktorú uverejnila Európska komisia, podáva prehľad najdôležitejších iniciatív a úspechov, ktoré EÚ zaznamenala v priebehu uplynulého roka.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001skn_sk.jpg\"                           alt=\"Súhrnná správa o činnosti Európskej únie za rok 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>EÚ v roku 2015</h3>                   <p>Zaujíma vás, čo Európska únia dosiahla v roku 2015? Aký pokrok dosiahla pri plnení svojich priorít? Aké opatrenia na podporu tvorby pracovných miest, rastu a investícií prijala? Akú úlohu zohrala pri dosiahnutí dohody o klíme v Paríži?</p>                   <p>Odpovede na všetky tieto otázky a ešte omnoho viac môžete nájsť v Súhrnnej správe „EÚ v roku 2015“. Prečítajte si hlavné body pre rýchly prehľad.</p>                </div>             </div>             <p>                <strong>Objednať, stiahnuť alebo prečítať Súhrnnú správu o činnosti EÚ za rok 2015 a jej hlavné body</strong> si môžete prostredníctvom <a href=\"http://publications.europa.eu/sk/web/general-report\">webového sídla Úradu pre publikácie</a>:</p>             <ul>                <li>vo formáte PDF (bezplatne)</li>                <li>vo forme elektronickej knihy (bezplatne)</li>                <li>vo formáte HTML (bezplatne)</li>                <li>v tlačenej verzii (za poplatok)</li>             </ul>"
+      ],
+      "sl": [
+        "<p>Evropska komisija je v splošnem poročilu predstavila glavne pobude in dosežke Evropske unije v preteklem letu.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001sln_sl.jpg\"                           alt=\"Splošno poročilo o dejavnostih Evropske unije za leto 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>Evropska unija v letu 2015</h3>                   <p>Vas zanima, kaj je Evropska unija dosegla v letu 2015? Kakšen napredek je dosegla pri uresničevanju svojih prednostnih nalog? Katere ukrepe je sprejela za spodbujanje novih delovnih mest, gospodarske rasti in naložb? Kakšna je bila njena vloga pri podnebnem sporazumu, ki je bil dosežen v Parizu?</p>                   <p>Odgovore na ta in druga vprašanja boste našli v splošnem poročilu o dejavnostih Evropske unije za leto 2015. Glavni poudarki so na voljo v povzetku poročila.</p>                </div>             </div>             <p>                <strong>Splošno poročilo o dejavnostih EU za leto 2015 in povzetek poročila</strong> sta na voljo na spletišču <a href=\"http://publications.europa.eu/sl/web/general-report\">Urada za publikacije</a>:</p>             <ul>                <li>različica PDF (brezplačna)</li>                <li>e-knjiga (brezplačna)</li>                <li>različica HTML (brezplačna)</li>                <li>tiskana različica (plačljiva)</li>             </ul>"
+      ],
+      "sv": [
+        "<p>EU-kommissionens allmänna rapport redogör för EU:s viktigaste insatser under året som gått.</p>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/naad16001svn_sv.jpg\"                           alt=\"Allmän rapport om Europeiska unionens verksamhet 2015\"                           style=\"padding: 0 8px 22px 0;\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3>EU 2015</h3>                   <p>Vill du veta vad EU gjorde 2015? Hur väl lyckades EU genomföra sina prioriteringar? Vad gjorde man för att främja jobb, tillväxt och investeringar? Hur bidrog EU till klimatavtalet i Paris?</p>                   <p>Svaren hittar du i 2015 års allmänna rapport ”EU 2015”. Det finns också en sammanfattning med de viktigaste händelserna.</p>                </div>             </div>             <p>                <strong>Beställ, ladda ner eller läs Allmänna rapporten 2015 och sammanfattningen</strong> på <a href=\"http://publications.europa.eu/sv/web/general-report\">Publikationsbyråns webbplats</a>:</p>             <ul>                <li>Pdf-fil (gratis)</li>                <li>E-bok (gratis)</li>                <li>Html-version (gratis)</li>                <li>Tryckt exemplar (mot en avgift)</li>             </ul>"
+      ]
+    }
+  }
+}

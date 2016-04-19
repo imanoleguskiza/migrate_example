@@ -1,0 +1,793 @@
+{
+    "_id": "5c2d65b518d0c9bb160812864f96d3cb",
+    "type": "institution",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/ohim/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Служба за хармонизиране на Вътрешния пазар (търговски марки и модели)"
+            ],
+            "cs": [
+                "Úřad pro harmonizaci ve vnitřním trhu (ochranné známky a průmyslové vzory)"
+            ],
+            "da": [
+                "Kontoret for Harmonisering i det Indre Marked (Varemærker og Design)"
+            ],
+            "de": [
+                "Harmonisierungsamt für den Binnenmarkt (Marken, Muster und Modelle)"
+            ],
+            "el": [
+                "Γραφείο Εναρμόνισης στην Εσωτερική Αγορά (σήματα, σχέδια και υποδείγματα)"
+            ],
+            "en": [
+                "Office for Harmonisation in the Internal Market (Trade Marks and Designs)"
+            ],
+            "es": [
+                "Oficina de Armonización del Mercado Interior (Marcas, Dibujos y Modelos)"
+            ],
+            "et": [
+                "Siseturu Ühtlustamise Amet (SÜA) (Kaubamärgid ja Tööstusdisainilahendused)"
+            ],
+            "fi": [
+                "Sisämarkkinoilla toimiva yhdenmukaistamisvirasto (tavaramerkit ja mallit)"
+            ],
+            "fr": [
+                "Office de l’harmonisation dans le marché intérieur (marques, dessins et modèles)"
+            ],
+            "ga": [
+                "An Oifig um Chomhchuibhiú sa Mhargadh Inmheánach (Trádmharcanna agus Dearaí) "
+            ],
+            "hr": [
+                "Ured za usklađivanje na unutarnjemu tržištu (žigovi i dizajni)"
+            ],
+            "hu": [
+                "Belső Piaci Harmonizációs Hivatal  (védjegyek és formatervezési minták)"
+            ],
+            "it": [
+                "Ufficio per l’armonizzazione nel mercato interno (marchi, disegni e modelli)"
+            ],
+            "lt": [
+                "Vidaus rinkos harmonizavimo tarnyba (Prekių ženklai ir pramoninis dizainas)"
+            ],
+            "lv": [
+                "Iekšējā tirgus saskaņošanas birojs  (preču zīmes un dizainparaugi)"
+            ],
+            "mt": [
+                "l-Uffi  ċċju għall-Armonizzazzjoni fi s-Suq Intern (Trade Marks u Disinni)"
+            ],
+            "nl": [
+                "Harmonisatiebureau voor de interne markt (merken, tekeningen en modellen)"
+            ],
+            "pl": [
+                "Urząd ds. Harmonizacji Rynku Wewnętrznego (Znaki Towarowe i Wzory)"
+            ],
+            "pt": [
+                "Instituto de Harmonização no Mercado Interno (marcas, desenhos e modelos)"
+            ],
+            "ro": [
+                "Oficiul pentru Armonizare în cadrul Pieţei Interne (mărci, desene şi modele industriale)"
+            ],
+            "sk": [
+                "Úrad pre harmonizáciu vnútorného trhu (známky a dizajny)"
+            ],
+            "sl": [
+                "Urad za harmonizacijo na notranjem trgu EU (znamke in modeli) – UHNT"
+            ],
+            "sv": [
+                "Kontoret för harmonisering inom den inre marknaden (varumärken och mönster)"
+            ]
+        },
+        "category": {
+            "und": [
+                "23337c25",
+                "40261c22"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/"
+            ],
+            "cs": [
+                "AGENCIES"
+            ],
+            "da": [
+                "EUROPA/"
+            ],
+            "de": [
+                "EUROPA/"
+            ],
+            "el": [
+                "EUROPA/"
+            ],
+            "en": [
+                "EUROPA/"
+            ],
+            "es": [
+                "EUROPA"
+            ],
+            "et": [
+                "EUROPA/"
+            ],
+            "fi": [
+                "EUROPA/"
+            ],
+            "fr": [
+                "EUROPA/"
+            ],
+            "ga": [
+                "EUROPA/"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "EUROPA/"
+            ],
+            "it": [
+                "EUROPA/"
+            ],
+            "lt": [
+                "EUROPA/"
+            ],
+            "lv": [
+                "EUROPA/"
+            ],
+            "mt": [
+                "EUROPA/"
+            ],
+            "nl": [
+                "EUROPA/"
+            ],
+            "pl": [
+                "EUROPA/"
+            ],
+            "pt": [
+                "EUROPA/"
+            ],
+            "ro": [
+                "EUROPA/"
+            ],
+            "sk": [
+                "EUROPA/"
+            ],
+            "sl": [
+                "EUROPA/"
+            ],
+            "sv": [
+                "EUROPA/"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Достъп до и основна информация за Служба за хармонизиране на Вътрешния пазар (търговски марки и модели), агенция на Европейския съюз"
+            ],
+            "cs": [
+                " Přístup k Úřadu pro harmonizaci ve vnitřním trhu (ochranné známky a vzory), agentuře Evropské unie, a obecné informace o něm"
+            ],
+            "da": [
+                "Adgang til og baggrundsoplysninger om Kontoret for Harmonisering i Det Indre Marked (Varemærker og Design), et EU-agentur"
+            ],
+            "de": [
+                "Zugang und Hintergrundinformationen zum Harmonisierungsamt für den Binnenmarkt (Marken, Muster und Modelle), einer Einrichtung der Europäischen Union"
+            ],
+            "el": [
+                "Ευropa - Πρόσβαση στην ιστοσελίδα και ενημερωτικό υπόβαθρο σχετικά με το Γραφείο Εναρμόνισης της Εσωτερικής Αγοράς (Σχήματα, Σχέδια και Υποδείγματα), έναν Οργανισμό (υπηρεσία) της Ευρωπαϊκής Ένωσης"
+            ],
+            "en": [
+                "Europa -\" Access to and background information on the Office for Harmonisation in the Internal Market (Trade Marks and Designs), an agency of the European Union"
+            ],
+            "es": [
+                "Acceso a la Oficina de Armonización del Mercado Interior (marcas y diseños), una agencia de la Unión Europea, e información sobre la misma"
+            ],
+            "et": [
+                "Europa  - Juurdepääs Euroopa Liidu ametile Siseturu Ühtlustamise Amet (kaubamärgid ja tööstusdisainilahendused) ja taustteave ameti kohta"
+            ],
+            "fi": [
+                "Europa  - Tietoa sisämarkkinoilla toimivasta yhdenmukaistamisvirastosta, joka käsittelee erityisesti tavaramerkkejä ja malleja ja on Euroopan unionin erillisvirasto"
+            ],
+            "fr": [
+                "Accès au site de l'Office de l'harmonisation dans le marché intérieur, notamment des marques, dessins et modèles, une des agences de l’Union européenne, et informations générales à son sujet."
+            ],
+            "ga": [
+                "Rochtain ar an Oifig um Chomhchuibhiú sa Mhargadh Inmheánach (Trádmharcanna agus Dearaí), ar gníomhaireacht de chuid an Aontais Eorpaigh í, agus faisnéis chúlra maidir léi"
+            ],
+            "hr": [
+                "Pristup Uredu za usklađivanje na unutarnjemu tržištu (žigovi i dizajni) i popratne informacije (agencija Europske unije)"
+            ],
+            "hu": [
+                "Hozzáférés az Belső Piaci Harmonizációs Hivatalhoz (védjegyek és formatervezési minták), az Európai Unió egyik ügynökségéhez, és háttérinformáció az ügynökségről"
+            ],
+            "it": [
+                "Informazioni generali e accesso  al sito dell'Ufficio per l'armonizzazione nel mercato interno, in particolare dei marchi, dei disegni e dei modelli, un'agenzia dell'Unione europea"
+            ],
+            "lt": [
+                "Prieiga, informacija apie Vidaus rinkos derinimo tarnybą (prekių ženklai ir dizainas), Europos Sąjungos agentūrą"
+            ],
+            "lv": [
+                "Pieeja informācijai un vispārēja informācija par Iekšējā tirgus saskaņošanas biroju (preču zīmes un dizainparaugi), Eiropas Savienības aģentūru"
+            ],
+            "mt": [
+                "Aċċess għal, u sfond ta’ tagħrif dwar l-Uffiċċju għall-Armonizzazzjoni tas-Suq Intern (Trejdmarks u Disinni), Aġenzija ta’ l-Unjoni Ewropea"
+            ],
+            "nl": [
+                "Toegang tot en achtergrondinformatie over het Bureau voor harmonisatie binnen de interne markt, in het bijzonder belast met handelsmerken en ontwerpen, een agentschap van de Europese Unie"
+            ],
+            "pl": [
+                "dostęp do Agencji oraz podstawowe informacje o Urzędzie Harmonizacji w ramach Rynku Wewnętrznego (Znaki Towarowe i Wzory), agencji Unii Europejskiej"
+            ],
+            "pt": [
+                "Acesso e informações sobre o Instituto de Harmonização no Mercado Interno (marcas, desenhos e modelos), uma Agência da União Europeia"
+            ],
+            "ro": [
+                "Europa -„ Acces şi informaţii generale referitoare la Oficiul pentru Armonizare în cadrul Pieţei Interne (mărci, desene şi modele industriale), agenţie a Uniunii Europene"
+            ],
+            "sk": [
+                "Prístup a podrobnejšie informácie o Úrade pre harmonizáciu vnútorného trhu (ochranné známky a vzory), agentúre Európskej únie"
+            ],
+            "sl": [
+                "Dostop do in ozadje o Uradu za usklajevanje na notranjem trgu (znamke in modeli), agenciji Evropske unije."
+            ],
+            "sv": [
+                "Tillgång till och bakgrundsinformation om Kontoret för harmonisering inom den inre marknaden (varumärken och mönster), ett av Europeiska unionens organ"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "europa"
+            ],
+            "cs": [
+                "EUROPA",
+                "agentury",
+                "orgány",
+                "evropská",
+                "unie",
+                "eu"
+            ],
+            "da": [
+                "agenturer",
+                "europa",
+                "institutioner",
+                "den europæiske union",
+                "eu"
+            ],
+            "de": [
+                "europa",
+                "Einrichtungen",
+                "Institutionen",
+                "Europäische Union",
+                "EU"
+            ],
+            "el": [
+                "europa",
+                "Οργανισμοί (υπηρεσίες)",
+                "θεσμικά όργανα",
+                "Ευρωπαϊκή Ένωση",
+                "ΕΕ"
+            ],
+            "en": [
+                "europa"
+            ],
+            "es": [
+                "europa",
+                "organismos",
+                "instituciones",
+                "union europea",
+                "ue"
+            ],
+            "et": [
+                "europa",
+                "Ametid",
+                "institutsioonid",
+                "Euroopa Liit",
+                "EL"
+            ],
+            "fi": [
+                "europa",
+                "erillisvirastot",
+                "toimielimet",
+                "Euroopan unioni",
+                "EU"
+            ],
+            "fr": [
+                "europa",
+                "agences",
+                "institutions",
+                "Union européenne",
+                "UE"
+            ],
+            "ga": [
+                "europa"
+            ],
+            "hr": [
+                "europa"
+            ],
+            "hu": [
+                "europa",
+                "ügynökségek",
+                "intézmények",
+                "európai unió",
+                "eu"
+            ],
+            "it": [
+                "europa",
+                "agenzie",
+                "istituzioni",
+                "Unione europea",
+                "UE"
+            ],
+            "lt": [
+                "europa",
+                "agentūros",
+                "institucijos",
+                "europos sąjunga",
+                "es"
+            ],
+            "lv": [
+                "europa",
+                "aģentūras",
+                "iestādes",
+                "eiropas",
+                "savienība",
+                "es"
+            ],
+            "mt": [
+                "europa",
+                "aġenziji",
+                "istituzzjonijiet",
+                "unjoni ewropea",
+                "ue"
+            ],
+            "nl": [
+                "europa",
+                "agentschappen",
+                "instellingen",
+                "Europese Unie",
+                "EU"
+            ],
+            "pl": [
+                "europa",
+                "agencje",
+                "instytucje",
+                "unia europejska",
+                "UE"
+            ],
+            "pt": [
+                "europa",
+                "agências",
+                "instituições",
+                "União Europeia",
+                "UE"
+            ],
+            "ro": [
+                "europa"
+            ],
+            "sk": [
+                "europa",
+                "agentúry",
+                "inštitúcie",
+                "Európska únia",
+                "EÚ"
+            ],
+            "sl": [
+                "europa",
+                "agencije",
+                "institucije",
+                "evropska unija",
+                "eu"
+            ],
+            "sv": [
+                "europa",
+                "organ",
+                "institutioner",
+                "Europeiska unionen",
+                "EU"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "info1": {
+            "bg": [
+                "<p>OHIM е основният механизъм, изпълняващ процедурите на Общността за търговските марки от 1996г. и за регистриран дизайн на Общността от 2003г. Тези интелектуални права са валидни във всички страни на Европейския съюз.</p>             <h2>Роля на OHIM</h2>             <p>Търговските марки и дизайн принадлежат към областта на частното корпоративно право. OHIM е едновременно агенция на Европейската общност и служба за индустриална собственост със следната техническа функция: Регистрирането на права за индустриална собственост. </p>"
+            ],
+            "cs": [
+                "<p>Úřad pro harmonizaci ve vnitřním trhu (ÚHVT) je ofi ciálním úředním orgánem pro ochranné známky Společenství od roku 1996 a pro zapsané (průmyslové) vzory Společenství od roku 2003. Příslušná práva související s duševním vlastnictvím platí ve všech zemích EU.</p>             <h2>Role úřadu OHIM</h2>             <p>Ochranné známky a vzory spadají do sféry obchodního práva dotýkajícího se soukromých podniků. ÚHVT má dvojí funkci – je agenturou Evropských společenství a zároveň úřadem pro průmyslové vlastnictví, který plní technickou funkci spočívající v registraci práv z průmyslového vlastnictví.</p>"
+            ],
+            "da": [
+                "<p>Harmoniseringskontoret er den offentlige myndighed, som siden 1996 har varetaget behandlingen af EF-varemærker og siden 2003 behandlingen af registrerede EF-design. Disse immaterielle ejendomsrettigheder har gyldighed i alle EU-lande.</p>             <h2>KHIM's arbejde</h2>             <p>Varemærker og design henhører under selskabsretten. Harmoniseringskontoret er såvel et EF-agentur som en myndighed for industriel ejendomsret med den hertil hørende tekniske funktion: at registrere industrielle ejendomsrettigheder.</p>"
+            ],
+            "de": [
+                "<p>Das HABM ist als Einrichtung der Europäischen Union seit 1996 für die Eintragung von Gemeinschaftsmarken und seit 2003 für die Eintragung von Gemeinschaftsgeschmacksmustern zuständig. Die geistigen Eigentumsrechte haben für das gesamte Gebiet der Europäischen Union Gültigkeit.</p>             <h2>Rolle des HABM</h2>             <p>Marken und Geschmacksmuster gehören in den Bereich des gewerblichen Rechtsschutzes. Das HABM ist sowohl eine Einrichtung der Europäischen Gemeinschaft als auch eine Behörde für den gewerblichen Rechtsschutz, deren Aufgabe darin besteht, gewerbliche Schutzrechte einzutragen.</p>"
+            ],
+            "el": [
+                "<p>Το ΓΕΕΑ είναι ο επίσημος φορέας ο επιφορτισμένος με τις διαδικασίες καταχώρισης όσον αφορά τα κοινοτικά σήματα από το 1996 και τα καταχωρισμένα κοινοτικά σχέδια και υποδείγματα από το 2003. Τα εν λόγω δικαιώματα πνευματικής ιδιοκτησίας ισχύουν σε όλες τις χώρες της ΕΕ.</p>             <h2>Ρόλος του OHIM</h2>             <p>Τα σήματα και τα σχέδια και υποδείγματα υπάγονται στο εταιρικό δίκαιο. Το ΓΕΕΑ είναι ταυτόχρονα ένας οργανισμός της Ευρωπαϊκής Κοινότητας και ένα γραφείο βιομηχανικής ιδιοκτησίας με την εξής τεχνική λειτουργία: την καταχώριση δικαιωμάτων βιομηχανικής ιδιοκτησίας.</p>"
+            ],
+            "en": [
+                "<p>The OHIM is the official authority carrying out the procedures for the Community trade marks since 1996 and for the Community registered design from 2003. These intellectual property rights are valid in all the countries of the EU.</p>             <h2>Role of the OHIM</h2>             <p>Trade marks and designs belong to the world of private company law. The OHIM is both an agency of the European Community and an industrial property office with its technical function: the registration of industrial property rights.</p>"
+            ],
+            "es": [
+                "<p>Desde 1996 la Oficina de Armonización del Mercado Interior (Marcas, Dibujos y Modelos) (OAMI) es la autoridad oficial encargada de realizar el registro de las marcas comunitarias, y desde 2003, la encargada asimismo de administrar los modelos y dibujos comunitarios registrados. Estos derechos de propiedad intelectual tienen plena validez en todos los Estados miembros de la Unión Europea.</p>             <h2>Función de la OAMI</h2>             <p>Las marcas, dibujos y modelos pertenecen al mundo del derecho de sociedades privadas. La OAMI es tanto una agencia comunitaria como una oficina de registro de títulos de propiedad industrial con una función técnica claramente definida: registrar los derechos de propiedad industrial.</p>"
+            ],
+            "et": [
+                "<p>SÜA on ametiasutus, mis teostab ühenduse kaubamärkidega seotud menetlusi alates 1996. aastast ning ühenduse registreeritud disainilahendustega seotud menetlusi alates aastast 2003. Vastavad intellektuaalse omandi õigused kehtivad kõigis EL liikmesriikides.</p>             <h2>Siseturu Ühtlustamise Ameti roll</h2>             <p>Kaubamärgid ning disainilahendused on reguleeritud äriühinguõigusega. SÜA on nii Euroopa Ühenduse agentuur kui ka tööstusomandi amet, mis täidab tehnilist funktsiooni – registreerib tööstusomandi õigusi.</p>"
+            ],
+            "fi": [
+                "<p>Sisämarkkinoilla toimiva yhdenmukaistamisvirasto on virallisen elimen ominaisuudessaan rekisteröinyt tavaramerkkejä ja hoitanut niihin liittyviä menettelyjä vuodesta 1996 ja yhteisömalleja vuodesta 2003 alkaen. Nämä immateriaalioikeudet ovat voimassa kaikissa Euroopan unionin valtioissa.</p>             <h2>Viraston tehtävät</h2>             <p>Tavaramerkit ja mallit kuuluvat yhtiöoikeuden piiriin. Virasto on sekä Euroopan yhteisön virasto että teollisoikeuksien virasto, jonka tehtävänä on teollisoikeuksien rekisteröiminen.</p>"
+            ],
+            "fr": [
+                "<p>L’OHMI est l’autorité publique en charge des procédures relatives à l’enregistrement des marques communautaires depuis 1996 et des dessins et modèles communautaires depuis 2003. Ces droits de propriété intellectuelle sont valables dans tous les pays de l’Union européenne.</p>             <h2>Rôle de l'OHMI</h2>             <p>Les marques, dessins et modèles appartiennent au monde du droit privé des sociétés. L’OHMI est à la fois une agence de la Communauté européenne et un office de la propriété industrielle doté d’une fonction technique: l’enregistrement des droits de propriété industrielle.</p>"
+            ],
+            "ga": [
+                "<p>Is é an OHIM an t-údarás oifigiúil atá ag comhlíonadh na nósanna imeachta le haghaidh trádmharcanna an Chomhphobail ó 1966 ar aghaidh agus le haghaidh dearadh cláraithe an Chomhphobail ó 2003. Tá na cearta maoine intleachtúla seo bailí i ngach ceann de thíortha an AE. </p>             <h2>Ról OHIM</h2>             <p>Baineann trádmharcanna agus dearthaí le dlí na gcuideachtaí príobháideacha agus le gach a ghabhann leis sin.  Gníomhaireacht de chuid an Chomhphobail Eorpaigh agus oifig maoine tionsclaíche is ea an OHIM ag an am céanna, agus feidhm theicniúil aici:  cearta maoine tionsclaíocha a chlárú.</p>"
+            ],
+            "hr": [
+                "<p>OHIM je službeno tijelo koje od 1996. provodi postupke vezane uz žigove Zajednice, a od 2003. i postupke vezane uz registrirani dizajn Zajednice. Ta prava intelektualnoga vlasništva vrijede u svim državama EU-a.</p>             <h2>Uloga OHIM-a</h2>             <p>Žigovi i dizajni pripadaju privatnomu pravu trgovačkih društava. OHIM je ujedno agencija Europske zajednice i ured za industrijsko vlasništvo koji ima tehničku funkciju registriranja prava industrijskoga vlasništva.</p>"
+            ],
+            "hu": [
+                "<p>8 A Belső Piaci Harmonizációs Hivatal (OHIM) az a hivatalos szerv, amely 1996 óta a közösségi védjegyeljárásokat, valamint 2003 óta a közösségi formatervezésiminta-eljárásokat lefolytatja. Ezek a szellemi tulajdonjogok az EU minden országában érvényesek.</p>             <h2>Az OHIM szerepe</h2>             <p>A védjegyek és formatervezési minták a magánjog, azon belül a társasági jog körébe tartoznak. Az OHIM egyszerre európai közösségi ügynökség és iparjogi hivatal a maga szakmai szerepével, ami az ipari tulajdonjogok bejegyzése.</p>"
+            ],
+            "it": [
+                "<p>Dal 1996 l’Ufficio per l’armonizzazione nel mercato interno (UAMI) è l’autorità ufficiale che si occupa delle procedure relative ai marchi comunitari e, dal 2003, di quelle relative ai disegni e modelli comunitari registrati. Tali diritti di proprietà intellettuale sono validi in tutti i paesi dell’UE.</p>             <h2>Ruolo dell'UAMI</h2>             <p>I marchi e i disegni e modelli appartengono al mondo del diritto societario privato. L’UAMI è nel contempo un’agenzia della Comunità europea e un ufficio di proprietà industriale, con una propria funzione tecnica, vale a dire la registrazione dei diritti di proprietà industriale.</p>"
+            ],
+            "lt": [
+                "<p>Vidaus rinkos harmonizavimo tarnyba (VRHT) yra ofi ciali institucija, vykdanti Bendrijos prekių ženklų tvarkymo procedūras nuo 1996 m., o Bendrijos registruotųjų dizainų procedūras – nuo 2003 m. Šios intelektinės nuosavybės teisės galioja visose ES šalyse.</p>             <h2>VRDT vaidmuo</h2>             <p>Prekių ženklai ir dizainai priklauso privačių bendrovių teisės sričiai. VRHT yra ir Europos bendrijos agentūra, ir pramoninės nuosavybės tarnyba, atliekanti techninę funkciją – pramoninės nuosavybės teisių registraciją.</p>"
+            ],
+            "lv": [
+                "<p>Iekšējā tirgus saskaņošanas birojs (ITSB) ir ofi ciāla iestāde, kas veic darbību attiecībā uz Kopienas preču zīmēm kopš 1996. gada un attiecībā uz Kopienā reģistrētajiem dizaina paraugiem − kopš 2003. gada. Šīs intelektuālā īpašuma tiesības ir spēkā visās ES valstīs.</p>             <h2>ITSB loma</h2>             <p>Preču zīmes un dizaina modeļi pieder pie privātuzņēmumu tiesību sfēras. Iekšējā tirgus saskaņošanas birojs ir gan Eiropas kopienas aģentūra, gan rūpnieciskā īpašuma birojs ar savu tehnisko funkciju – rūpnieciskā īpašuma tiesību reģistrēšanu.</p>"
+            ],
+            "mt": [
+                "<p>L-UASI huwa l-awtorità uffi ċjali li jwettaq il-proċeduri għat-trade marks Komunitarji mill-1996 u għad-disinni Komunitarji rreġistrati mill-2003. Dawn id-drittijiet ta' proprjetà intellettwali huma validi fi l-pajjiżi kollha ta' l-UE.</p>             <h2>Is-sehem tal-UASI</h2>             <p>Trade marks u disinni jaqgħu taħt il-liġi dwar kumpanniji privati. L-UASI huwa kemm aġenzija tal-Komunità Ewropea kif ukoll uffi ċċju tal-proprjetà industrijali b'funzjoni teknika: ir-reġistrazzjoni ta' drittijiet ta' proprjetà industrijali.</p>"
+            ],
+            "nl": [
+                "<p>Het HBIM is de officiële instantie die sinds 1996 belast is met de inschrijving van de Gemeenschapsmerken en sinds 2003 ook met de inschrijving van de Gemeenschapsmodellen.</p>             <h2>Rol van het BHIM</h2>             <p>Merken en modellen maken deel uit van de wereld van het ondernemingsrecht. Het HBIM is zowel een agentschap van de Europese Gemeenschap als een bureau voor industriële eigendom met inschrijving van industriële-eigendomsrechten als technische taak.</p>"
+            ],
+            "pl": [
+                "<p>Od 1996 r. Urząd ds. Harmonizacji Rynku Wewnętrznego (UHRW) jest ofi cjalną władzą w sprawach postępowań dotyczących wspólnotowych znaków towarowych, a od 2003 r. także w sprawie zarejestrowanych wzorów wspólnotowych. Te prawa własności intelektualnej obowiązują we wszystkich krajach Unii Europejskiej.</p>             <h2>Rola UHRW</h2>             <p>Znaki towarowe i wzory należą do dziedziny prawa spółek. Urząd ds. Harmonizacji Rynku Wewnętrznego jest zarazem agencją Wspólnoty Europejskiej i urzędem ds. własności przemysłowej z jego funkcją techniczną: rejestracją praw własności przemysłowej.</p>"
+            ],
+            "pt": [
+                "<p>O IHMI é a autoridade ofi cial responsável pelos processos relativos às marcas comunitárias, desde 1996, e pelos desenhos ou modelos comunitários, desde 2003. Estes direitos de propriedade intelectual são válidos em todos os países da UE.</p>             <h2>Papel do IHMI</h2>             <p>As marcas e os desenhos ou modelos inserem-se na esfera do direito empresarial privado. Além de ser uma agência comunitária, o IHMI é um instituto de propriedade industrial com uma função técnica: o registo de direitos de propriedade industrial.</p>"
+            ],
+            "ro": [
+                "<p>OAPI este autoritatea publică responsabilă de procedurile legate de înregistrarea mărcilor comerciale comunitare începând din anul 1996 şi a desenelor şi modelelor industriale comunitare din 2003. Aceste drepturi de proprietate intelectuală sunt valabile în toate statele membre ale UE.</p>             <h2>Rolul OAPI</h2>             <p>Mărcile, desenele şi modelele industriale ţin de domeniul dreptului privat al societăţilor comerciale. OAPI este atât o agenţie a Comunităţii Europene, cât şi un oficiu de proprietate industrială care are o funcţie tehnică: înregistrarea drepturilor de proprietate industrială.</p>"
+            ],
+            "sk": [
+                "<p>Úrad pre harmonizáciu vnútorného trhu (ÚHVT) je ofi ciálnym orgánom, ktorý vedie konania o ochranných známkach Spoločenstva od roku 1996 a konania o registrovaných dizajnoch Spoločenstva od roku 2003. Tieto práva duševného vlastníctva platia vo všetkých štátoch EÚ.</p>             <h2>Úloha ÚHVT</h2>             <p>Ochranné známky a dizajny patria do sféry práva súkromných obchodných spoločností. ÚHVT je agentúrou Európskeho spoločenstva a zároveň úradom priemyselného vlastníctva s jeho technickou funkciou, ktorou je registrácia práv priemyselného vlastníctva.</p>"
+            ],
+            "sl": [
+                "<p>Urad za harmonizacijo na notranjem trgu EU (UHNT) je uradni organ, ki od leta 1996 izvaja postopke za blagovne znamke Skupnosti in od leta 2003 za registrirane modele Skupnosti. Te pravice intelektualne lastnine veljajo v vseh državah EU.</p>             <h2>Vloga UUNT</h2>             <p>Blagovne znamke in modeli spadajo v področje prava zasebnih gospodarskih družb. UHNT je hkrati agencija Evropske skupnosti in urad za industrijsko lastnino, katerega tehnična naloga je registracija pravic industrijske lastnine.</p>"
+            ],
+            "sv": [
+                "<p>Harmoniseringskontoret är den offi ciella myndighet som sköter registrering och övriga förfaranden som rör gemenskapsvarumärken (sedan 1996) och gemenskapsmönster (sedan 2003). Dessa immateriella äganderättigheter äger giltighet i hela EU.</p>             <h2>Harmoniseringskontorets roll</h2>             <p>Varumärken och mönster faller under företagsrätten. Harmoniseringskontoret är ett gemenskapsorgan och ett organ för industriellt rättsskydd med uppgift att registrera industriella rättigheter.</p>"
+            ]
+        },
+        "info2": {
+            "bg": [
+                "<p>Като агенция за предлагане на услуги, Службата трябва да класифицира нейните клиенти по съответствие на техните търговски марки и дизайн с OHIM, в центъра на цялостния механизъм на работа на службата, като им предлага услуги на най-добра цена.</p>             <h2>Търговски марки и дизайни на вътрешния пазар</h2>             <p>Търговската марка на Общността и нейният регистриран дизайн са жизненоважен фактор за единния пазар. Единният характер означава, че формалностите и процедурите по подбор са опростени: една кандидатура, един административен център и едно досие за разглеждане.</p>             <p>Единното законодателство се прилага по отношение на търговските марки и дизайн, следователно се осигурява солидна протекция в рамките на Европейския съюз. Улеснените процедури водят до значително намалени такси, сравнени с общите такси при национална регистрация за страните от Европейския съюз.</p>             <p>Днес, големината на OHIM, скоростта, с която се развива и начинът, по който се самофинансира от втората година на нейното съществуване, са доказателства за успешно функциониране на системата за предоставяне на услуги на единния пазар. </p>"
+            ],
+            "cs": [
+                "<p>Úřad je agenturou poskytující služby. Mechanizmus fungování úřadu musí proto fungovat tak, aby odpovídal potřebám klientů, což jsou podniky, které u ÚHVT přihlašují své ochranné známky a vzory. Těmto klientům musí Úřad poskytovat nejlepší služby za nejlepší ceny.</p>             <h2>Ochranné známky a průmyslové vzory na jednotném trhu</h2>             <p>Ochranná známka Společenství a zapsaný (průmyslový) vzor Společenství představují vstupní bránu na společný trh. Jejich jednotný charakter znamená, že je možno zachovávat jednoduché související formality a správní úkony – funguje jednotná žádost, jednotné správní centrum a jednotná dokumentace.</p>             <p>Pro ochranné známky a vzory platí jednotná legislativa, což znamená, že po celé Evropské unii je v této oblasti poskytována účinná a specifi cká ochrana. Zjednodušení agendy se projevuje ve značném snížení nákladů ve srovnání s celkovými náklady na registraci ve všech jednotlivých zemích Evropské unie.</p>             <p>Rozsah činnosti úřadu v současné době, rychlost, s jakou se rozrostl, a skutečnost, že počínaje druhým rokem provozu je fi nancován z vlastní činnosti, to vše dokazuje úspěšnost tohoto systému sloužícího potřebám jednotného trhu.</p>"
+            ],
+            "da": [
+                "<p>Som serviceorgan skal Harmoniseringskontoret sætte sine kunder, dvs. virksomheder, der indgiver ansøgning om registrering af deres varemærker og design, i centrum og yde dem den bedste service til den bedste pris.</p>             <h2>Varemærker og design på det indre marked</h2>             <p>EF-varemærker og registrerede EF-design er vejen til et fælles marked. Disses enhedskarakter betyder, at formaliteter og forvaltning kan holdes på et enkelt plan: Der er kun en enkelt ansøgning at behandle, kun et enkelt administrativt center og kun en enkelt sag at behandle.</p>             <p>En ensartet lovgivning finder anvendelse på varemærker og design, hvorved der sikres en stærk og enestående beskyttelse i hele Den Europæiske Union. Forenklingen resulterer i betydeligt nedsatte omkostninger sammenlignet med de samlede omkostninger ved national registrering i alle lande i Den Europæiske Union.</p>             <p>Harmoniseringskontorets størrelse i dag, hastigheden, hvormed det er vokset, og den måde, hvorpå det blev selvfinansierende fra sit andet driftsår, er beviser på den succes, systemet har i det indre markeds tjeneste.</p>"
+            ],
+            "de": [
+                "<p>Als Dienstleistungsbehörde muss das HABM seine Kunden, d. h. die Unternehmen, die Marken und Geschmacksmuster bei ihm anmelden, in den Mittelpunkt seiner gesamten Tätigkeit stellen und ihnen die beste Leistung zum günstigsten Preis erbringen.</p>             <h2>Marken, Muster und Modelle im Binnenmarkt</h2>             <p>Die Gemeinschaftsmarke und das eingetragene Gemeinschaftsgeschmacksmuster ermöglichen den Zugang zum gemeinsamen Markt. Dank der Einheitlichkeit der Gemeinschaftsmarke, deren Geltungsbereich sich auf alle Mitgliedstaaten der Europäischen Union erstreckt, können Formalitäten und Verwaltungsaufwand auf ein Mindestmaß reduziert werden, denn es bedarf nur einer einzigen Anmeldung, einer Verwaltungsstelle und einer Akte.</p>             <p>Marken und Geschmacksmuster unterliegen dem einheitlichen in allen Mitgliedstaaten geltenden Gemeinschaftsrecht, das einen sicheren und einheitlichen Schutz in der gesamten Europäischen Union garantiert. Im Vergleich zu den bei einer nationalen Eintragung in allen Ländern der Europäischen Union insgesamt anfallenden Kosten führt. Diese Vereinfachung zu einer erheblichen Kostenreduzierung des Verfahrens.</p>             <p>Die heutige Größe des HABM, die Geschwindigkeit, mit der es gewachsen ist, und die Art und Weise, wie es erreichte, sich schon vom zweiten Betriebsjahr an selbst zu finanzieren, sind Beweise für den Erfolg dieses Systems, das im Dienste des Binnenmarkts steht.</p>"
+            ],
+            "el": [
+                "<p>Ως οργανισμός παροχής υπηρεσιών, το γραφείο πρέπει να θέτει τους πελάτες του, δηλαδή τις επιχειρήσεις που καταθέτουν τα σήματα και τα σχέδια και υποδείγματά τους στο ΓΕΕΑ, στο επίκεντρο του συνολικού μηχανισμού του γραφείου και να τους παρέχει τις καλύτερες υπηρεσίες στην καλύτερη τιμή. Τα κοινοτικά σήματα και τα καταχωρισμένα κοινοτικά σχέδια και υποδείγματα αποτελούν την πύλη εισόδου στην ενιαία αγορά. Η ενιαία τους φύση σημαίνει ότι οι διατυπώσεις και η διαχείριση είναι απλές: μία αίτηση, ένα διαχειριστικό κέντρο και ένας φάκελος προς διευθέτηση.</p>             <h2>Εμπορικά σήματα, σχέδια και υποδείγματα στην ενιαία αγορά</h2>             <p>Τα σήματα, τα σχέδια και τα υποδείγματα διέπονται από ομοιόμορφη νομοθεσία,παρέχοντας κατ’ αυτό τον τρόπο μια ισχυρή και μοναδική προστασία σε ολόκληρη την Ευρωπαϊκή Ένωση. Η απλοποίηση συνεπάγεται σημαντικά μειωμένο κόστος σε σύγκριση με το συνολικό κόστος της εθνικής καταχώρισης σε όλες τις χώρες της Ευρωπαϊκής Ένωσης.</p>             <p>Τα σήµατα, τα σχέδια και τα υποδείγµατα διέπονται από οµοιόµορφη νοµοθεσία, παρέχοντα̋ κατ’ αυτό τον τρόπο µια ισχυρή και µοναδική προστασία σε ολόκληρη την Ευρωπαϊκή Ένωση. Η απλοποίηση συνεπάγεται σηµαντικά µειωµένο κόστο̋ σε σύγκριση µε το συνολικό κόστο̋ τη̋ εθνική̋ καταχώριση̋ σε όλε̋ τι̋ χώρε̋ τη̋ Ευρωπαϊκή̋ Ένωση̋.</p>             <p>Το μέγεθος του ΓΕΕΑ σήμερα, η ταχύτητα με την οποία αναπτύχθηκε και ο τρόπος με τον οποίο κατέστη αυτοχρηματοδοτούμενο από τον δεύτερο χρόνο της λειτουργίας του αποτελούν την απόδειξη της επιτυχίας του συστήματος στην υπηρεσία της ενιαίας αγοράς.</p>"
+            ],
+            "en": [
+                "<p>As a service agency, the Office has to place its clients, that is to say the undertakings that file their trade marks and their designs with the OHIM, at the centre of the overall mechanism of the Office and it has to provide them with the best service at the best price.</p>             <h2>Trade marks and designs in the single market</h2>             <p>The Community trade mark and the Community registered design are the gateway to a single market. Their unitary nature means that formalities and management can be kept simple: a single application, a single administrative centre and a single file to be managed.</p>             <p>A uniform law applies to trade marks and designs, thereby providing strong and unique protection throughout the European Union. The simplification results in considerably reduced costs as compared with the overall costs of national registration in all countries of the European Union.</p>             <p>The size of the OHIM today, the speed at which it has grown and the way it became self-financing from its second year of operation are proofs of the success of the system at the service of the single market.</p>"
+            ],
+            "es": [
+                "<p>Como agencia que proporciona un servicio, el eje central de la Oficina son sus clientes, es decir, las empresas que desean registrar sus marcas, dibujos y modelos en la OAMI y debe, por tanto, proporcionarles el mejor servicio al mejor precio.</p>             <h2>Marcas, dibujos y modelos en el mercado único</h2>             <p>Las marcas, dibujos y modelos comunitarios son la puerta que permite el acceso al mercado único. Gracias a su naturaleza unitaria las formalidades y la gestión necesarias son también muy simples: una única solicitud, un único centro administrativo y un único expediente que tramitar.</p>             <p>La legislación que regula las marcas, dibujos y modelos es uniforme, lo que proporciona una protección segura y eficaz en toda la Unión Europea. Esta simplificación permite además reducir considerablemente los costes comparados con los costes generales que suponen los registros nacionales en todos los países de la Unión Europea.</p>             <p>El tamaño que tiene la OAMI en la actualidad, la velocidad a la que ha crecido y el modo en que consiguió autofinanciarse a partir de su segundo año de vida son pruebas del éxito del sistema puesto al servicio del mercado único.</p>"
+            ],
+            "et": [
+                "<p>Teenindusasutusena peab SÜA keskenduma oma klientidele, st ettevõtetele, mis esitavad oma kaubamärgid ja disainilahendused SÜAle, ning pakkuma neile parimat teenust parima hinnaga.</p>             <h2>Kaubamärgid ja tööstusdisainilahendused ühtsel turul</h2>             <p>Ühenduse kaubamärk ning ühenduse registreeritud disainilahendus on sissepääsuks ühisturule. Nende ühtne iseloom tähendab seda, et nende vorminõuete täitmine ning nende haldamine on võimalikult lihtne – üks avaldus, üks halduskeskus ning üks toimik, mida pidada.</p>             <p>Kaubamärkide ja disainilahenduste suhtes kehtib ühetaoline õigus, mis tagab nende kindla ja ainulaadse kaitse kogu Euroopa Liidus. Lihtsustamine tähendab märgatavalt väiksemaid kulusid võrreldes riikliku registreerimise kogukuludega kõikides Euroopa Liidu liikmesriikides.</p>             <p>SÜA suurus, kasvamise kiirus ja viis, kuidas see oma teisel tegutsemisaastal isefi nantseeruvaks on muutunud, on ühisturu teenistuses oleva süsteemi edukuse tõestuseks.</p>"
+            ],
+            "fi": [
+                "<p>Palveluviraston ominaisuudessa virasto asettaa asiakkaansa eli tavaramerkki- ja mallihakemuksia tekevät yritykset etusijalle toiminnassaan. Sen tavoitteena on tarjota parasta palvelua parhaaseen hintaan.</p>             <h2>Tavaramerkit ja mallit sisämarkkinoilla</h2>             <p>Yhteisön rekisteröidyt tavaramerkit ja mallit ovat tie sisämarkkinoille. Koska tavaramerkit ja mallit ovat yhtenäisen lainsäädännön alaisia, niiden hallinta ja niitä koskevat muodollisuudet ovat yksinkertaisia: yksi hakemus, yksi hallinnollinen keskus ja yksi tiedosto.</p>             <p>Tavaramerkeistä ja malleista määrätään yhtenäisissä laeissa, joka antaa niille vankan ja ainutlaatuisen suojan koko Euroopan unionissa. Verrattuna Euroopan unionin yksittäisissä jäsenvaltioissa kansallisesti tehtävään rekisteröimiseen tämän yksinkertaistetun menettelyn seurauksena kokonaiskustannuksissa säästetään huomattavasti.</p>             <p>Viraston koko, sen kasvuvauhti ja se, että se jo toisena toimintavuotenaan rahoitti itse toimintansa, ovat osoituksena sisämarkkinoita palvelevan järjestelmän menestyksestä.</p>"
+            ],
+            "fr": [
+                "<p>En tant qu’agence de services, l’Office se doit de placer ses clients, à savoir les entreprises qui enregistrent leurs marques, dessins et modèles auprès de l’OHMI, au centre de son mécanisme global afin de leur fournir son meilleur service au meilleur prix.</p>             <h2>Marques, dessins et modèles dans le marché unique</h2>             <p>La marque et le dessin ou modèle communautaires constituent une porte d’accès au marché unique. De par leur nature unitaire, les formalités y relatives et leur gestion sont aisées: un seul dépôt, un seul interlocuteur administratif et un seul dossier à suivre.</p>             <p>Une législation uniforme s’applique aux marques et dessins ou modèles, offrant ainsi une protection forte et unique sur l’ensemble du territoire de l’Union européenne. Cette simplification permet de réduire les coûts de façon considérable en comparaison avec les coûts globaux entraînés par un enregistrement national dans tous les pays de l’Union européenne.</p>             <p>La taille actuelle de l’OHMI, la vitesse à laquelle il a grandi et le fait qu’il ait pu s’autofinancer dès sa deuxième année de fonctionnement sont les preuves du succès de ce système au service du marché unique.</p>"
+            ],
+            "ga": [
+                "<p>Mar ghníomhaireacht seirbhíse, ní mór don Oifig a cuid cliant a láithriú, is é sin na gnóthais a chomhdaíonn a gcuid  trádmharcanna agus dearthaí leis an OHIM, ag ceartlár ghnó na hOifige agus an tseirbhís is fearr ar an bpraghas is fearr a sholáthar dóibh. </p>             <h2>Trádmharcanna agus dearaí ar an margadh aonair</h2>             <p>Bealach isteach is ea an trádmharc Comhphobail agus dearadh cláraithe an Chomhphobail chuig an margadh aonair.  Ciallaíonn a nádúr aonadach gur féidir foirmiúlachtaí agus an bhainistíocht a choimeád simplí:  iarratas aonair, ionad riaracháin amháin agus comhad amháin le bainistiú. </p>             <p>Baineann dlí aonfhoirmeach le trádmharcanna agus le dearthaí, rud a sholáthraíonn cosaint láidir uathúil ar fud an Aontais Eorpaigh.  Mar thoradh ar an simpliú sin is beag na costais i gcomparáid leis na costais iomlána a ghabhann le clárú náisiúnta i ngach ceann de thíortha an Aontais Eorpaigh. </p>             <p>Cruthúnas ar an rath atá ar an gcóras i seirbhís an mhargaidh aonair is ea méid an OHIM inniu, an luas ar a d'fhás sí agus an tslí ar tháinig sí chun bheith féinmhaoinitheach ón dara bliain dá hoibríochtaí. </p>"
+            ],
+            "hr": [
+                "<p>Ured, kao uslužna agencija, u središtu ukupne djelatnosti treba imati svoje klijente, odnosno poduzeća koja OHIM-u prijavljuju svoje žigove i dizajne, te im osigurati najbolju uslugu po najpovoljnijoj cijeni.</p>             <h2>Žigovi i dizajn na jedinstvenom tržištu</h2>             <p>Zajedničin žig i registrirani dizajn ulaznica su na jedinstveno tržište. Njihov jedinstveni karakter može znatno pojednostavniti formalnosti i administraciju: jedan zahtjev, jedan administrativni centar i vođenje jednoga spisa.</p>             <p>Jedinstveno pravo primjenjuje se na žigove i dizajne, čime se osigurava snažna i jedinstvena zaštita u cijeloj Europskoj uniji. Pojednostavnjivanje je pridonijelo znatnomu smanjenju troškova u usporedbi s ukupnim troškovima nacionalne registracije u svim državama Europske unije.</p>             <p>Današnja veličina OHIM-a, brzina kojom je rastao i način na koji se počeo samofinancirati već u drugoj godini rada dokazuju uspješnost sustava koji služi jedinstvenomu tržištu.</p>"
+            ],
+            "hu": [
+                "<p>A védjegyek és formatervezési minták a magánjog, azon belül a társasági jog körébe tartoznak. Az OHIM egyszerre európai közösségi ügynökség és iparjogi hivatal a maga szakmai szerepével, ami az ipari tulajdonjogok bejegyzése.</p>             <h2>Védjegyek és formatervezési minták az egységes piacon</h2>             <p>A közösségi védjegy és a bejegyzett közösségi formatervezési minta az egységes piac előszobája. Egységes természetük azt jelenti, hogy az alaki követelmények és az ügyintézés leegyszerűsödnek: az ügyet egyetlen kérelemmel, egyetlen ügyintéző központban és egyetlen ügyirattal lehet elintézni.</p>             <p>A védjegyekre és formatervezési mintákra egyforma szabályozás vonatkozik, ami szilárd és egységes védelmet nyújt az egész Európai Unióban. Összehasonlítva az Európai Unió összes országában történő nemzeti bejegyzések összesített költségével, az egyszerűsítés jelentősen csökkentett költségeket eredményez.</p>             <p>Az OHIM mai mérete, a gyorsaság, amellyel ekkorára nőtte ki magát, valamint az a tény, hogy már működése második évében önfi nanszírozóvá vált, megannyi bizonyítéka az egységes piac szolgálatában álló rendszernek.</p>"
+            ],
+            "it": [
+                "<p>In qualità di agenzia di servizi, l’Ufficio ha il dovere di collocare i propri clienti, ovverosia le imprese che depositano i loro marchi e i loro disegni e modelli, al centro dell’intero sistema dell’UAMI e di fornire loro il servizio migliore al prezzo più conveniente.</p>             <h2>Marchi, disegni e modelli nel mercato unico</h2>             <p>Il marchio comunitario e il disegno e modello comunitario registrato sono la via di accesso ad un mercato unico. Il fatto che abbiano una natura unitaria signifi ca che le formalità e la gestione possono essere mantenute ad un livello semplifi cato: una domanda unica, un centro amministrativo unico e un fascicolo unico da gestire.</p>             <p>I marchi, disegni e modelli sono soggetti ad un diritto uniforme, con una protezione forte e unitaria nell’intera Unione europea. Tale semplificazione porta ad una riduzione notevole dei costi rispetto ai costi complessivi della registrazione nazionale in tutti i paesi dell’Unione europea.</p>             <p>Le attuali dimensioni dell’UAMI, la rapidità con la quale si è sviluppato e il modo in cui è stato in grado di fi nanziarsi autonomamente a partire dal secondo anno di esistenza sono la prova del successo del sistema al servizio del mercato unico.</p>"
+            ],
+            "lt": [
+                "<p>Kaip paslaugas teikianti institucija, tarnyba turi užtikrinti, kad jos klientai, kitaip tariant, įmonės, kurios įregistruoja savo prekių ženklus ir dizainus tarnyboje, taptų visos jos veiklos mechanizmo ašimi. Tarnyba privalo suteikti jiems geriausias paslaugas už geriausią kainą.</p>             <h2>Prekių ženklai ir pramoninis dizainas bendrojoje rinkoje</h2>             <p>Bendrijos prekių ženklas ir Bendrijos registruotasis dizainas yra raktas į bendrąją rinką. Dėl jų vienodo pobūdžio formalios procedūros ir jų tvarkymas gali būti paprastesnis – pakanka vienos paraiškos, vieno administracinio centro ir vienos bylos.</p>             <p>Ta pati teisė taikoma ir prekių ženklams, ir dizainams – taip užtikrinama patikima ir unikali jų apsauga visoje Europos Sąjungoje. Toks procedūrų supaprastinimas leidžia gerokai sumažinti išlaidas, palyginti su bendrais kaštais, kurie reikalingi, kai nacionalinė registracija vykdoma visose Europos Sąjungos šalyse.</p>             <p>Šiandieninis VRHT dydis, jos augimo intensyvumas ir tai, kad ji pati išsilaiko nuo antrųjų veiklos metų, įrodo sėkmingą šios sistemos veiklą bendrojoje rinkoje.</p>"
+            ],
+            "lv": [
+                "<p>Kā pakalpojumu aģentūrai birojam klienti, proti, uzņēmumi, kas reģistrē savas preču zīmes un dizaina paraugus Iekšējā tirgus saskaņošanas birojā, ir tā vispārējā mehānisma pamats, un birojam jāsniedz klientiem vislabākie pakalpojumi par visizdevīgāko cenu.</p>             <h2>Preču zīmes, paraugi un modeļi iekšējā tirgū</h2>             <p>Kopienas preču zīme un Kopienā reģistrētais dizaina paraugs paver ceļu uz vienotu tirgu. To vienotība nozīmē, ka formalitātes un pārvaldību var īstenot vienkārši: viens iesniegums, viens administratīvais centrs un viena pārvaldāmā lieta.</p>             <p>Preču zīmēm un dizaina paraugiem tiek piemērots vienots likums, tādējādi nodrošinot spēcīgu un unikālu aizsardzību visas Eiropas Savienības mērogā. Procedūras vienkāršošanas rezultātā ievērojami samazinās izmaksas, salīdzinot ar nacionālo reģistrācijas procedūru kopējām izmaksām visās Eiropas Savienības valstīs.</p>             <p>Biroja pašreizējais apjoms, izaugsmes temps un tas, ka jau otrajā darbības gadā tas kļuva pašfi nansējošs, pierāda šīs sistēmas panākumus vienota tirgus labā.</p>"
+            ],
+            "mt": [
+                "<p>Bħala aġenzija li toff ri servizz, l-Uffi ċċju jrid ipoġġi l-klijenti tiegħu, jiġifi eri l-impriżi li jippreżentaw it-trade marks u d-disinni tagħhom ma' l-UASI, fi ċ-ċentru tal-mekkaniżmu sħiħ ta' l-Uffi ċċju u jrid jipprovdi l-aħjar servizz bl-aħjar prezz.</p>             <h2>Trade marks u disinji fis-suq uniku</h2>             <p>It-trade mark Komunitarja u d-disinn Komunitarju rreġistrat huma l-mezzi kif wieħed jikkrea suq wieħed. In-natura unitarja tagħhom tfi sser li l-formalitajiet u l-ġestjoni jistgħu jinżammu sempliċi: applikazzjoni waħda, ċentru amministrattiv wieħed u fajl wieħed x'jiġi ġestit.</p>             <p>ALiġi uniformi tapplika għal trade marks u disinni, li tagħti lok għal protezzjoni b'saħħitha u unika fl -Unjoni Ewropea kollha. Is-sempliċità fi l-proċeduri tfi sser illi l-ispejjeż huma ħafna anqas meta mqabbla ma' l-ispejjeż totali involuti f'reġistrazzjoni nazzjonali fi l-pajjiżi kollha ta' l-Unjoni Ewropea.</p>             <p>Id-daqs ta' l-UASI llum, il-ħeff a li biha kiber u l-mod kif seta' jibda jiffi nanzja lilu nnifsu mit-tieni sena biss minn meta beda jopera huma kollha xhieda tas-suċċess tas-sistema għas-servizz tas-suq wieħed.</p>"
+            ],
+            "nl": [
+                "<p>Als dienstverlener moet het Harmonisatiebureau zijn cliënten, dat wil zeggen de bedrijven die bij het HBIM een aanvraag voor hun merken en modellen indienen, bij al zijn werkzaamheden centraal stellen en hun tegen de beste prijs de beste kwaliteit leveren.</p>             <h2>Merken, tekeningen en modellen  binnen de interne markt</h2>             <p>Het ingeschreven Gemeenschapsmerk en Gemeenschapsmodel vormen de toegangspoort tot één gemeenschappelijke markt. Wegens hun eenvormige karakter kunnen formaliteiten en beheer simpel worden gehouden: één aanvraag, één administratief centrum en één dossier.</p>             <p>Op deze merken en modellen is uniforme wetgeving van toepassing, die sterke, exclusieve bescherming in de hele Europese Unie biedt. Deze vereenvoudiging leidt tot een aanzienlijke besparing van de kosten ten opzichte van alle kosten van nationale inschrijving in alle landen van de Europese Unie samen.</p>             <p>De omvang van het huidige HBIM, de snelheid waarmee het is gegroeid en de wijze waarop het zichzelf vanaf zijn tweede operationele jaar wist te financieren getuigen van het succes van dit systeem, dat een bijdrage levert aan de verwezenlijking van de gemeenschappelijke markt.</p>"
+            ],
+            "pl": [
+                "<p>Zadaniem Urzędu, jako agencji usługowej, jest zapewnienie swoim klientom, tzn. przedsiębiorstwom, które zgłaszają swoje znaki towarowe i wzory do Urzędu ds. Harmonizacji Rynku Wewnętrznego, centralnego miejsca w swoim szeroko pojętym mechanizmie oraz zagwarantowanie im najlepszej obsługi po najlepszej cenie.</p>             <h2>Znaki towarowe i wzory na rynku wewnętrznym</h2>             <p>Wspólnotowy znak towarowy i zarejestrowany wzór wspólnotowy są drogą do jednolitego rynku. Ich jednolita natura oznacza, że formalności i zarządzanie nimi można prowadzić w prosty sposób: pojedyncze zgłoszenie, jedno centrum administracyjne i jedna teczka akt do zarządzania.</p>             <p>Ujednolicone prawo dotyczy znaków towarowych i wzorów, gwarantując tym samym silną i jednolitą ochronę w całej Unii Europejskiej. Wynikiem uproszczenia jest znaczna redukcja kosztów w porównaniu z ogólnymi kosztami rejestracji krajowej we wszystkich państwach Unii Europejskiej.</p>             <p>Dzisiejsza wielkość Urzędu ds. Harmonizacji Rynku Wewnętrznego, szybkość, z jaką się rozwija, i sposób, w jaki osiągnął niezależność fi nansową już od drugiego roku swojej działalności, stanowią dowód sukcesu systemu w służbie jednolitego rynku.</p>"
+            ],
+            "pt": [
+                "<p>Sendo uma agência de serviços, o Instituto faz dos seus clientes, ou seja, as empresas que lhe apresentam as suas marcas e desenhos ou modelos para registar, o centro de todo o mecanismo do Instituto, prestando-lhes os melhores serviços ao melhor preço.</p>             <h2>Marcas, desenhos e modelos no mercado interno</h2>             <p>A marca comunitária e o desenho ou modelo comunitário são a via de acesso ao mercado único. A sua natureza unitária traduz-se em formalidades simplificadas e numa estrutura de gestão simples: um único pedido, um único centro administrativo e um único processo a gerir.</p>             <p>A aplicação de uma lei uniforme às marcas, desenhos e modelos assegura uma protecção forte e única em todo o território da União Europeia. Esta simplificação determina uma redução de custos considerável, comparando com os custos totais do registo nacional em todos os países da União Europeia.</p>             <p>A actual dimensão do IHMI, a velocidade a que cresceu e o facto de, no seu segundo ano de existência, ter alcançado autonomia financeira são provas do sucesso do sistema ao serviço do mercado único.</p>"
+            ],
+            "ro": [
+                "<p>Ca agenţie de servicii, Oficiul trebuie să îşi plaseze clienţii, şi anume întreprinderile care îşi înregistrează mărcile comerciale, desenele şi modelele industriale la OAPI, în centrul mecanismului său global, şi trebuie să le ofere cele mai bune servicii, la cel mai bun preţ.</p>             <h2>Mărcile, desenele şi modelele industriale în cadrul pieței interne</h2>             <p>Marca comercială comunitară, desenul şi modelul industrial comunitar înregistrate constituie poarta de acces la piaţa unică. Prin natura lor unitară formalităţile asociate şi administrarea acestora pot fi realizate de o manieră uşoară: o singură cerere, un singur centru administrativ şi un singur dosar de gestionat.</p>             <p>Se aplică o legislaţie uniformă în cazul mărcilor, desenelor şi modelelor industriale, asigurându-se astfel o protecţie solidă şi unică pe întreg teritoriul Uniunii Europene. Această simplificare are ca rezultat costuri semnificativ mai mici faţă de costurile globale de înregistrare la nivel naţional în toate ţările Uniunii Europene.</p>             <p>Dimensiunea actuală a OAPI; viteza cu care s-a dezvoltat şi modalitatea prin care a ajuns să se autofinanţeze începând din al doilea an de funcţionare sunt dovezi ale succesului acestui sistem aflat în serviciul pieţei unice.</p>"
+            ],
+            "sk": [
+                "<p>Ako agentúra poskytujúca služby musí Úrad pre harmonizáciu vnútorného trhu zabezpečiť svojim klientom, t. j. podnikom prihlasujúcim svoje ochranné známky a dizajny, centrálne miesto vo svojom mechanizme a poskytovať im najlepšiu službu za čo najlepšiu cenu.</p>             <h2>Ochranné známky a dizajny na jednotnom trhu</h2>             <p>Ochranná známka Spoločenstva a zapísaný dizajn Spoločenstva sú vstupnou bránou k jednotnému trhu. Ich unitárna povaha umožňuje zjednodušiť formality aj riadenie – pracuje sa s jedinou prihláškou, z jedného administratívneho centra a s jediným spisom.</p>             <p>Na ochranné známky aj dizajny sa vzťahuje jednotná právna úprava, čo zabezpečuje silnú a jedinečnú ochranu v rámci celej Európskej únie. Výsledkom zjednodušenia sú podstatne nižšie náklady v porovnaní s celkovými nákladmi na vnútroštátnu registráciu v jednotlivých krajinách Európskej únie.</p>             <p>Dnešná veľkosť úradu, jeho rýchly rast a získanie fi nančnej nezávislosti už od druhého roka jeho činnosti sú dôkazom úspešnosti tohto systému, ktorý slúži jednotnému trhu.</p>"
+            ],
+            "sl": [
+                "<p>Kot storitvena agencija mora Urad svoje stranke, tj. podjetja, ki pri Uradu prijavijo svoje blagovne znamke in modele, postaviti v središče svojega celotnega delovanja in jim zagotoviti najboljšo storitev za najboljšo ceno.</p>             <h2>Znamke in modeli na enotnem trgu</h2>             <p>Blagovna znamka Skupnosti in registriran model Skupnosti sta vrata do enotnega trga. Njuna enotna narava pomeni, da lahko formalnosti in vodenje ostanejo preprosti: enotna vloga, enoten upravni center in enotna dokumentacija, ki jo je treba voditi.</p>             <p>Enotna zakonodaja velja za znamke in modele ter tako zagotavlja močno in enkratno zaščito v vsej Evropski uniji. Rezultat poenostavitve so občutno nižji stroški v primerjavi s celotnimi stroški nacionalnih registracij v vseh državah Evropske unije.</p>             <p>Današnja velikost Urada za harmonizacijo na notranjem trgu, hitrost, s katero je rasel, in način, kako se od drugega leta delovanja samofi nancira, so dokazi uspešnosti sistema, ki je v službi enotnega trga.</p>"
+            ],
+            "sv": [
+                "<p>Harmoniseringskontoret är ett serviceorgan och det är kunderna, dvs. de företag som ansöker om registrering av sina varumärken och mönster hos Harmoniseringskontoret, som skall stå i centrum för kontorets verksamhet och få bästa möjliga service till bästa möjliga pris.</p>             <h2>Varumärken och mönster på den inre marknaden</h2>             <p>Gemenskapsvarumärket och -mönstret öppnar vägen till den inre marknaden. Formaliteterna och handläggningen är enkla: en enda ansökan, ett enda administrativt centrum och en enda akt.</p>             <p>För varumärken och mönster gäller ett enhetligt rättssystem, som ger ett starkt och unikt skydd i hela Europeiska unionen. Förenklingen leder till avsevärt minskade kostnader jämfört med de sammanlagda kostnaderna för en nationell registrering i Europeiska unionens samtliga medlemsstater.</p>             <p>Harmoniseringskontorets nuvarande storlek, dess tillväxttakt och att kontoret blev självfinansierande fr.o.m. sitt andra verksamhetsår är bevis på ett framgångsrikt system i den inre marknadens tjänst.</p>"
+            ]
+        },
+        "left_sub_menu": {
+            "und": [
+                true
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_5c2d65b518d0c9bb160812864f96d3cb"
+            ]
+        }
+    }
+}

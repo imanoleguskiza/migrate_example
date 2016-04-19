@@ -1,0 +1,1210 @@
+{
+    "_id": "1c337305f2035a276c06ea6a98ed3a0b",
+    "type": "institution",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/institutions-bodies/ombudsman/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Европейски омбудсман"
+            ],
+            "cs": [
+                "Evropský veřejný ochránce práv"
+            ],
+            "da": [
+                "Den europæiske ombudsmand"
+            ],
+            "de": [
+                "Europäischer Bürgerbeauftragter"
+            ],
+            "el": [
+                "Ευρωπαίος Διαμεσολαβητής"
+            ],
+            "en": [
+                "European Ombudsman"
+            ],
+            "es": [
+                "Defensor del Pueblo Europeo"
+            ],
+            "et": [
+                "Euroopa Ombudsman"
+            ],
+            "fi": [
+                "Euroopan oikeusasiamies"
+            ],
+            "fr": [
+                "Médiateur européen"
+            ],
+            "ga": [
+                "An tOmbudsman Eorpach"
+            ],
+            "hr": [
+                "Europski ombudsman"
+            ],
+            "hu": [
+                "Európai ombudsman"
+            ],
+            "it": [
+                "Mediatore europeo"
+            ],
+            "lt": [
+                "Europos ombudsmenas"
+            ],
+            "lv": [
+                "Eiropas Ombuds"
+            ],
+            "mt": [
+                "L-Ombudsman Ewropew"
+            ],
+            "nl": [
+                "Europese Ombudsman"
+            ],
+            "pl": [
+                "Europejski Rzecznik Praw Obywatelskich"
+            ],
+            "pt": [
+                "Provedor de Justiça Europeu"
+            ],
+            "ro": [
+                "Ombudsmanul European"
+            ],
+            "sk": [
+                "Európsky ombudsman"
+            ],
+            "sl": [
+                "Evropski varuh človekovih pravic"
+            ],
+            "sv": [
+                "Europeiska ombudsmannen"
+            ]
+        },
+        "media_reference": {
+            "bg": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "cs": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "da": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "de": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "el": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "en": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "es": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "et": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "fi": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "fr": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "ga": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "hr": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "hu": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "it": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "lt": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "lv": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "mt": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "nl": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "pl": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "pt": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "ro": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "sk": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "sl": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ],
+            "sv": [
+                "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+            ]
+        },
+        "media_alt": {
+            "bg": [
+                "Лого на Европейския омбудсман"
+            ],
+            "cs": [
+                "Logo evropského veřejného ochránce práv"
+            ],
+            "da": [
+                "Den europæiske ombudsmands logo"
+            ],
+            "de": [
+                "Logo des Europäischen Bürgerbeauftragten"
+            ],
+            "el": [
+                "Λογότυπος του Ευρωπαίου Διαμεσολαβητή"
+            ],
+            "en": [
+                "European Ombudsman logo"
+            ],
+            "es": [
+                "Logotipo del Defensor del Pueblo Europeo"
+            ],
+            "et": [
+                "Euroopa Ombudsmani logo"
+            ],
+            "fi": [
+                "Euroopan oikeusasiamiehen logo"
+            ],
+            "fr": [
+                "Logo du Médiateur européen"
+            ],
+            "ga": [
+                "Lógó an Ombudsman Eorpaigh"
+            ],
+            "hr": [
+                "Logotip Europskog ombudsmana"
+            ],
+            "hu": [
+                "Az európai ombudsman logója"
+            ],
+            "it": [
+                "Logo del Mediatore europeo "
+            ],
+            "lt": [
+                "Europos ombudsmeno logotipas"
+            ],
+            "lv": [
+                "Eiropas Ombuda logotips"
+            ],
+            "mt": [
+                "Il-logo tal-Ombudsman Ewropew"
+            ],
+            "nl": [
+                "Logo Europese ombudsman"
+            ],
+            "pl": [
+                "Europejski Rzecznik Praw Obywatelskich – logo"
+            ],
+            "pt": [
+                "Logótipo do Provedor de Justiça Europeu"
+            ],
+            "ro": [
+                "Logoul Ombudsmanului European"
+            ],
+            "sk": [
+                "Európsky ombudsman – logo"
+            ],
+            "sl": [
+                "Logotip evropskega varuha človekovih pravic"
+            ],
+            "sv": [
+                "Europeiska ombudsmannens logotyp"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/"
+            ],
+            "cs": [
+                "EUROPA/"
+            ],
+            "da": [
+                "EUROPA/"
+            ],
+            "de": [
+                "EUROPA/"
+            ],
+            "el": [
+                "EUROPA/"
+            ],
+            "en": [
+                "EUROPA/"
+            ],
+            "es": [
+                "EUROPA/"
+            ],
+            "et": [
+                "EUROPA/"
+            ],
+            "fi": [
+                "EUROPA/"
+            ],
+            "fr": [
+                "EUROPA/"
+            ],
+            "ga": [
+                "EUROPA/"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "EUROPA/"
+            ],
+            "it": [
+                "EUROPA/"
+            ],
+            "lt": [
+                "EUROPA/"
+            ],
+            "lv": [
+                "EUROPA/"
+            ],
+            "mt": [
+                "EUROPA/"
+            ],
+            "nl": [
+                "EUROPA/"
+            ],
+            "pl": [
+                "EUROPA/"
+            ],
+            "pt": [
+                "EUROPA/"
+            ],
+            "ro": [
+                "EUROPA/"
+            ],
+            "sk": [
+                "EUROPA/"
+            ],
+            "sl": [
+                "EUROPA/"
+            ],
+            "sv": [
+                "EUROPA/"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM/A05"
+            ],
+            "cs": [
+                "COMM/COMM/A05"
+            ],
+            "da": [
+                "COMM/COMM/A05"
+            ],
+            "de": [
+                "COMM/COMM/A05"
+            ],
+            "el": [
+                "COMM/COMM/A05"
+            ],
+            "en": [
+                "COMM/COMM/A05"
+            ],
+            "es": [
+                "COMM/COMM/A05"
+            ],
+            "et": [
+                "COMM/COMM/A05"
+            ],
+            "fi": [
+                "COMM/COMM/A05"
+            ],
+            "fr": [
+                "COMM/COMM/A05"
+            ],
+            "ga": [
+                "COMM/COMM/A05"
+            ],
+            "hr": [
+                "COMM/COMM/A05"
+            ],
+            "hu": [
+                "COMM/COMM/A05"
+            ],
+            "it": [
+                "COMM/COMM/A05"
+            ],
+            "lt": [
+                "COMM/COMM/A05"
+            ],
+            "lv": [
+                "COMM/COMM/A05"
+            ],
+            "mt": [
+                "COMM/COMM/A05"
+            ],
+            "nl": [
+                "COMM/COMM/A05"
+            ],
+            "pl": [
+                "COMM/COMM/A05"
+            ],
+            "pt": [
+                "COMM/COMM/A05"
+            ],
+            "ro": [
+                "COMM/COMM/A05"
+            ],
+            "sk": [
+                "COMM/COMM/A05"
+            ],
+            "sl": [
+                "COMM/COMM/A05"
+            ],
+            "sv": [
+                "COMM/COMM/A05"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "de": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "el": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "en": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "es": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "et": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fi": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hu": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "it": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lv": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "mt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "nl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ro": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sk": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sv": [
+                "58-Document for general distribution (intended for the general public)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Омбудсманът се назначава от Европейския парламент да разглежда жалби за лошо управление срещу институции и органи на ЕС"
+            ],
+            "cs": [
+                "Jmenován Evropským parlamentem, aby prošetřoval stížnosti týkající se případů nesprávného postupu ze strany orgánů a institucí EU."
+            ],
+            "da": [
+                "Person udpejet af Europa-Kommissionen til at behandle klager over dårlig administration i EU's institutioner og organer."
+            ],
+            "de": [
+                "Person, die vom Europäischen Parlament ernannt wird, um Beschwerden über Missstände in der Verwaltungstätigkeit der EU-Organe und -Einrichtungen zu untersuchen "
+            ],
+            "el": [
+                "Διορίζεται από το Ευρωπαϊκό Κοινοβούλιο με στόχο να διερευνά καταγγελίες για κακοδιοίκηση από πλευράς οργάνων και υπηρεσιών της ΕΕ."
+            ],
+            "en": [
+                "Figure appointed by the European Parliament to investigate complaints about poor administration by EU institutions and bodies."
+            ],
+            "es": [
+                "Figura designada por el Parlamento Europeo para investigar las reclamaciones por mala administración en las instituciones y organismos de la UE."
+            ],
+            "et": [
+                "Euroopa Parlamendi poolt määratud isik, kelle ülesanne on uurida kaebusi ELi institutsioonide ja asutuste poolse puuduliku halduse kohta."
+            ],
+            "fi": [
+                "Euroopan oikeusasiamies tutkii EU:n elinten huonosta hallinnosta tehdyt valitukset – Euroopan parlamentti nimittää virkaan"
+            ],
+            "fr": [
+                "Le Médiateur est nommé par le Parlement européen pour  enquêter sur les plaintes concernant des cas de mauvaise administration de la part des institutions et organes de l’UE."
+            ],
+            "ga": [
+                "Duine a cheapann Parlaimint na hEorpa chun gearáin a imscrúdú faoi dhrochriar ag institiúidí agus comhlachtaí AE."
+            ],
+            "hr": [
+                "Europski parlament imenovao osobu za provođenje istraga u vezi s pritužbama na nepravilnosti u postupanju institucija i tijela EU-a."
+            ],
+            "hu": [
+                "Az Európai Parlament által kinevezett személy, aki az uniós intézmények és szervek tevékenysége során előforduló hivatali visszásságok kapcsán benyújtott panaszokat vizsgálja ki"
+            ],
+            "it": [
+                "Figura nominata dal Parlamento europeo per indagare sulle denunce di cattiva amministrazione da parte degli organi e delle istituzioni dell’UE."
+            ],
+            "lt": [
+                "Asmuo, Europos Parlamento paskirtas tirti skundus dėl netinkamo ES institucijų ir įstaigų administravimo."
+            ],
+            "lv": [
+                "Ombudu ievēl Eiropas Parlaments, un viņa uzdevums ir izmeklēt sūdzības par ES iestāžu un struktūru administratīvām kļūmēm."
+            ],
+            "mt": [
+                "Maħtur mill-Parlament Ewropew biex jinvestiga l-ilmenti dwar amministrazzjoni ħażina mill-istituzzjonijiet u l-korpi tal-UE."
+            ],
+            "nl": [
+                "Door het Europees Parlement benoemde persoonlijkheid die klachten over onbehoorlijk bestuur door EU-instellingen en -organen moet onderzoeken"
+            ],
+            "pl": [
+                "Organ powołany przez Parlament Europejski mający za zadanie rozpatrywanie skarg dotyczących niewłaściwego administrowania w instytucjach i organach UE."
+            ],
+            "pt": [
+                "Nomeado pelo Parlamento Europeu, o Provedor de Justiça Europeu investiga queixas relativas a casos de má administração por parte das instituições e organismos da UE."
+            ],
+            "ro": [
+                "Organism desemnat de Parlamentul European să investigheze plângerile privind administrarea defectuoasă de către instituțiile și organismele UE."
+            ],
+            "sk": [
+                "Osoba vymenovaná Európskym parlamentom, ktorá má vyšetrovať sťažnosti týkajúce sa nesprávneho administratívneho postupu zo strany inštitúcií a orgánov EÚ."
+            ],
+            "sl": [
+                "Organ, ki ga imenuje Evropski parlament, obravnava pritožbe v zvezi z nepravilnostmi v institucijah in organih EU."
+            ],
+            "sv": [
+                "Europeiska ombudsmannen utreder klagomål på EU:s institutioner och organ (utses av Europaparlamentet)"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "омбудсман",
+                "европейско гражданство",
+                "право на глас",
+                "разследване",
+                "оплаквания, жалби",
+                "лошо управление",
+                "дискриминация",
+                "закъснения",
+                "злоупотреба с власт",
+                "институции",
+                "Европейски съюз",
+                "ЕС"
+            ],
+            "cs": [
+                "veřejný ochránce práv",
+                "evropské občanství",
+                "hlasovací právo",
+                "šetření",
+                "stížnosti",
+                "nesprávný úřední postup",
+                "diskriminace",
+                "průtahy, zpoždění",
+                "překročení pravomoci",
+                "instituce, orgány",
+                "Evropská unie",
+                "EU"
+            ],
+            "da": [
+                "Ombudsmand",
+                "Unionsborgerskabet",
+                "stemmeret",
+                "efterforskning",
+                "klager",
+                "dårlig administration",
+                "forskelsbehandling",
+                "forsinkelser",
+                "magtmisbrug",
+                "institutioner",
+                "Den Europæiske Union",
+                "EU"
+            ],
+            "de": [
+                "Bürgerbeauftragter",
+                "Unionsbürgerschaft",
+                "Stimmrecht",
+                "Untersuchung, Untersuchungen, Ermittlungen",
+                "Beschwerde",
+                "Missstände in der Verwaltungstätigkeit",
+                "Diskriminierung",
+                "Verzögerungen, Verspätungen",
+                "Machtmissbrauch, Amtsmissbrauch",
+                "Institutionen, Organe, Einrichtungen",
+                "Europäische Union",
+                "EU"
+            ],
+            "el": [
+                "Διαμεσολαβητής",
+                "ευρωπαϊκή ιθαγένεια",
+                "δικαίωμα ψήφου",
+                "έρευνα",
+                "καταγγελία",
+                "κακοδιοίκηση",
+                "διακριτική μεταχείριση",
+                "καθυστερήσεις",
+                "κατάχρηση εξουσίας",
+                "θεσμικά όργανα, όργανα",
+                "Ευρωπαϊκή Ένωση",
+                "ΕΕ"
+            ],
+            "en": [
+                "Ombudsman",
+                "European citizenship",
+                "right to vote",
+                "investigation",
+                "complaints",
+                "maladministration",
+                "discrimination",
+                "delays",
+                "abuse of power",
+                "institutions",
+                "European Union",
+                "EU"
+            ],
+            "es": [
+                "defensor del pueblo",
+                "ciudadanía europea",
+                "derecho a voto",
+                "investigación",
+                "reclamaciones",
+                "mala administración",
+                "discriminación",
+                "retrasos",
+                "abuso de poder",
+                "instituciones",
+                "Unión Europea",
+                "UE"
+            ],
+            "et": [
+                "Euroopa Ombudsman",
+                "Euroopa kodakondsus",
+                "õigus hääletada, hääleõigus",
+                "uurimine",
+                "kaebused",
+                "haldusomavoli",
+                "diskrimineerimine",
+                "viivitused",
+                "võimu kuritarvitamine",
+                "institutsioonid, asutused",
+                "Euroopa Liit",
+                "EL"
+            ],
+            "fi": [
+                "Euroopan oikeusasiamies",
+                "EU-kansalaisuus",
+                "äänioikeus",
+                "tutkimus",
+                "valitus, kantelu",
+                "hallinnollinen epäkohta",
+                "syrjintä",
+                "viivästykset",
+                "toimivallan väärinkäyttö",
+                "EU:n toimielimet, toimielin",
+                "Euroopan unioni",
+                "EU"
+            ],
+            "fr": [
+                "Médiateur",
+                "citoyenneté européenne",
+                "droit de vote",
+                "enquête",
+                "plaintes",
+                "mauvaise administration",
+                "discrimination",
+                "retards",
+                "abus de pouvoir",
+                "institutions",
+                "Union européenne",
+                "UE"
+            ],
+            "ga": [
+                "An tOmbudsman",
+                "Saoránacht Eorpach",
+                "ceart vótála",
+                "imscrúdú",
+                "gearáin",
+                "drochriarachán",
+                "idirdhealú",
+                "moilleanna",
+                "mí-úsáid cumhachta",
+                "institiúidí",
+                "An tAontas Eorpach",
+                "AE"
+            ],
+            "hr": [
+                "Ombudsman",
+                "europsko građanstvo",
+                "pravo glasa",
+                "istraga",
+                "pritužbe",
+                "nepravilnosti",
+                "diskriminacija",
+                "kašnjenja",
+                "zlouporaba ovlasti",
+                "institucije",
+                "Europska unija",
+                "EU"
+            ],
+            "hu": [
+                "ombudsman",
+                "európai polgárság, uniós polgárság",
+                "szavazati jog",
+                "vizsgálat",
+                "panaszok",
+                "hivatali visszásság",
+                "diszkrimináció, hátrányos megkülönböztet",
+                "késedelem",
+                "hatáskörrel való visszaélés",
+                "intézmények",
+                "Európai Unió",
+                "EU"
+            ],
+            "it": [
+                "Mediatore europeo",
+                "Cittadinanza europea",
+                "diritto di voto",
+                "indagine",
+                "denunce",
+                "cattiva amministrazione",
+                "discriminazione",
+                "ritardi",
+                "abuso di potere",
+                "istituti",
+                "Unione europea",
+                "UE"
+            ],
+            "lt": [
+                "ombudsmenas",
+                "Europos pilietybė",
+                "balsavimo teisė",
+                "tyrimas",
+                "skundai",
+                "netinkamas administravimas",
+                "diskriminacija",
+                "vėlavimas, delsimas",
+                "piktnaudžiavimas galiomis",
+                "institucijos, įstaigos",
+                "Europos Sąjunga",
+                "ES"
+            ],
+            "lv": [
+                "Ombuds, tiesībsargs",
+                "Eiropas Savienības pilsonība, ES pilsonība",
+                "balsstiesības, tiesības balsot",
+                "izmeklēšana",
+                "sūdzības, sūdzība",
+                "pārkāpumi, nepareiza rīcība, administratīva",
+                "diskriminācija",
+                "kavēšanās",
+                "pilnvaru ļaunprātīga izmantošana, pilnvaru p",
+                "iestādes",
+                "Eiropas Savienība",
+                "ES"
+            ],
+            "mt": [
+                "Ombudsman",
+                "ċittadinanza Ewropea",
+                "dritt għall-vot",
+                "investigazzjoni",
+                "ilmenti",
+                "amministrazzjoni ħażina",
+                "diskriminazzjoni",
+                "dewmien",
+                "abbuż ta’ poter",
+                "istituzzjonijiet",
+                "Unjoni Ewropea",
+                "UE"
+            ],
+            "nl": [
+                "Europese Ombudsman",
+                "Europees burgerschap",
+                "stemrecht",
+                "onderzoek",
+                "klachten",
+                "wanbestuur",
+                "discriminatie",
+                "vertraging",
+                "machtsmisbruik",
+                "instellingen",
+                "Europese Unie",
+                "EU"
+            ],
+            "pl": [
+                "Rzecznik Praw Obywatelskich",
+                "obywatelstwo europejskie",
+                "prawo do głosowania",
+                "dochodzenie",
+                "skarga, skargi",
+                "niewłaściwe administrowanie",
+                "dyskryminacja",
+                "opóźnienia",
+                "nadużywanie uprawnień",
+                "instytucje",
+                "Unia Europejska",
+                "UE"
+            ],
+            "pt": [
+                "provedor de justiça europeu, provedora de justi",
+                "cidadania europeia",
+                "direito de voto",
+                "investigação, inquérito",
+                "queixas",
+                "má administração, má gestão",
+                "discriminação",
+                "atrasos",
+                "abuso de poder",
+                "instituições",
+                "união europeia",
+                "ue"
+            ],
+            "ro": [
+                "Ombudsman",
+                "cetățenie europeană",
+                "drept de vot",
+                "investigație",
+                "plângere",
+                "administrare defectuoasă",
+                "discriminare",
+                "întârzieri",
+                "abuz de putere",
+                "instituții",
+                "Uniunea Europeană",
+                "UE"
+            ],
+            "sk": [
+                "ombudsman",
+                "európske občianstvo",
+                "hlasovacie právo",
+                "vyšetrovanie",
+                "sťažnosti",
+                "nesprávny úradný postup",
+                "diskriminácia",
+                "omeškania",
+                "zneužívanie právomoci",
+                "inštitúcie",
+                "Európska únia",
+                "EÚ"
+            ],
+            "sl": [
+                "varuh človekovih pravic",
+                "evropsko državljanstvo",
+                "volilna pravica",
+                "preiskava",
+                "pritožbe",
+                "nepravilnosti",
+                "diskriminacija",
+                "zamude",
+                "zloraba pooblastil",
+                "institucije",
+                "Evropska unija",
+                "EU"
+            ],
+            "sv": [
+                "Ombudsmannen",
+                "EU-medborgarskap",
+                "rösträtt",
+                "utredning, undersökning",
+                "klagomål",
+                "administration, förvaltning",
+                "diskriminering",
+                "förseningar, dröjsmål",
+                "maktmissbruk",
+                "institutioner",
+                "Europeiska unionen",
+                "EU"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "info1": {
+            "bg": [
+                "<h2>Общ преглед</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Роля</strong>: разглежда жалби срещу институции, органи, служби и агенции на ЕС</li>                   <li>                      <strong>Омбудсман</strong>: Емили О’Райли</li>                   <li>                      <strong>Създаден</strong>: 1995 г.</li>                   <li>                      <strong>Седалище</strong>: Страсбург (Франция)</li>                   <li>                      <strong>Уебсайт</strong>: Европейски омбудсман</li>                </ul>             </div>"
+            ],
+            "cs": [
+                "<h2>Přehled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Úloha</strong>: Evropský veřejný ochránce se zabývá stížnostmi na orgány, instituce a další subjekty Evropské unie.</li>                   <li>                      <strong>Veřejný ochránce práv</strong>: Emily O'Reillová</li>                   <li>                      <strong>Úřad založen</strong>: 1995</li>                   <li>                      <strong>Sídlo</strong>: Štrasburk (Francie)</li>                   <li>                      <strong>Internetová stránka</strong>: Evropský veřejný ochránce práv</li>                </ul>             </div>"
+            ],
+            "da": [
+                "<h2>Oversigt</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rolle</strong>: Behandler klager over EU's institutioner, organer, kontorer og agenturer.</li>                   <li>                      <strong>Ombudsman</strong>: Emily O'Reilly</li>                   <li>                      <strong>Oprettet i</strong>: 1995</li>                   <li>                      <strong>Placering</strong>: Strasbourg (Frankrig)</li>                   <li>                      <strong>Website</strong>: Den europæiske ombudsmand</li>                </ul>             </div>"
+            ],
+            "de": [
+                "<h2>Überblick</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rolle</strong>: Der/die Europäische Bürgerbeauftragte prüft Beschwerden gegen die Organe, Einrichtungen und sonstigen Stellen der EU.</li>                   <li>                      <strong>Bürgerbeauftragte</strong>: Emily O'Reilly</li>                   <li>                      <strong>Gegründet</strong>: 1995</li>                   <li>                      <strong>Standort</strong>: Straßburg (Frankreich)</li>                   <li>                      <strong>Internet</strong>: Europäischer Bürgerbeauftragter/Europäische Bürgerbeauftragte</li>                </ul>             </div>"
+            ],
+            "el": [
+                "<h2>Σύντομη παρουσίαση</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ρόλος</strong>: Ο Ευρωπαίος Διαμεσολαβητής διερευνά καταγγελίες κατά οργάνων, υπηρεσιών και οργανισμών της ΕΕ.</li>                   <li>                      <strong>Διαμεσολαβητής</strong>: Έμιλυ Ο Ράιλι</li>                   <li>                      <strong>Έτος ίδρυσης</strong>: 1995</li>                   <li>                      <strong>Τόπος</strong>: Στρασβούργο (Γαλλία)</li>                   <li>                      <strong>Ιστότοπος</strong>: Ευρωπαίος Διαμεσολαβητής</li>                </ul>             </div>"
+            ],
+            "en": [
+                "<h2>Overview</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Role</strong>: Investigates complaints against EU institutions, bodies, offices &amp; agencies</li>                   <li>                      <strong>Ombudsman</strong>: Emily O'Reilly</li>                   <li>                      <strong>Established in</strong>: 1995</li>                   <li>                      <strong>Location</strong>: Strasbourg (France)</li>                   <li>                      <strong>Website</strong>: European Ombudsman</li>                </ul>             </div>"
+            ],
+            "es": [
+                "<h2>Visión general</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Función</strong>: investiga las reclamaciones contra las instituciones, organismos, oficinas y agencias de la UE.</li>                   <li>                      <strong>Defensora del Pueblo</strong>: Emily O'Reilly</li>                   <li>                      <strong>Año de creación</strong>: 1995</li>                   <li>                      <strong>Sede</strong>: Estrasburgo (Francia)</li>                   <li>                      <strong>Sitio web</strong>: Defensor del Pueblo Europeo</li>                </ul>             </div>"
+            ],
+            "et": [
+                "<h2>Ülevaade</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Roll</strong>: uurib ELi institutsioonide, organite ja asutuste vastu esitatud kaebusi.</li>                   <li>                      <strong>Ombudsman</strong>: Emily O'Reilly</li>                   <li>                      <strong>Asutamisaasta</strong>: 1995</li>                   <li>                      <strong>Asukoht</strong>: Strasbourg (Prantsusmaa)</li>                   <li>                      <strong>Veebisait</strong>: Euroopa Ombudsman</li>                </ul>             </div>"
+            ],
+            "fi": [
+                "<h2>Perustiedot</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Tehtävä</strong>: tutkii EU:n toimielinten, elinten ja laitosten toimintaa koskevat kantelut</li>                   <li>                      <strong>Euroopan oikeusasiamies</strong>: Emily O’Reilly</li>                   <li>                      <strong>Perustettu</strong>: 1995</li>                   <li>                      <strong>Toimipaikka</strong>: Strasbourg (Ranska)</li>                   <li>                      <strong>Verkkosivusto</strong>: Euroopan oikeusasiamies</li>                </ul>             </div>"
+            ],
+            "fr": [
+                "<h2>En bref</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rôle</strong>: examine les plaintes à l'encontre des institutions, organes et agences de l'UE</li>                   <li>                      <strong>Médiateur</strong>: Emily O’Reilly</li>                   <li>                      <strong>Création</strong>: 1995</li>                   <li>                      <strong>Siège</strong>: Strasbourg (France)</li>                   <li>                      <strong>Site web</strong>: Médiateur européen</li>                </ul>             </div>"
+            ],
+            "ga": [
+                "<h2>Forbhreathnú</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ról:</strong> Imscrúdaíonn an tOmbudsman gearáin in aghaidh institiúidí, comhlachtaí, oifigí agus gníomhaireachtaí de chuid an Aontais Eorpaigh</li>                   <li>                      <strong>An tOmbudsman</strong> Emily O'Reilly</li>                   <li>                      <strong>Bliain a bhunaithe</strong>: 1995</li>                   <li>                      <strong>Suíomh</strong>: Strasbourg (an Fhrainc)</li>                   <li>                      <strong>Suíomh gréasáin</strong>: An tOmbudsman Eorpach</li>                </ul>             </div>"
+            ],
+            "hr": [
+                "<h2>Pregled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uloga</strong>: istražuje pritužbe na institucije, tijela, službe i agencije EU-a</li>                   <li>                      <strong>Ombudsman</strong>: Emily O'Reilly</li>                   <li>                      <strong>Godina osnivanja</strong>: 1995.</li>                   <li>                      <strong>Sjedište</strong>: Strasbourg (Francuska)</li>                   <li>                      <strong>                         <i>Web</i>-mjesto</strong>: Europski ombudsman</li>                </ul>             </div>"
+            ],
+            "hu": [
+                "<h2>Áttekintés</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Szerep</strong>: kivizsgálja az uniós intézmények, szervek, hivatalok és ügynökségek elleni panaszokat</li>                   <li>                      <strong>Ombudsman</strong>: Emily O'Reilly</li>                   <li>                      <strong>Alapítás éve</strong>: 1995</li>                   <li>                      <strong>Székhely</strong>: Strasbourg (Franciaország)</li>                   <li>                      <strong>Honlap</strong>: Európai ombudsman</li>                </ul>             </div>"
+            ],
+            "it": [
+                "<h2>Sintesi</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ruolo</strong>: indaga sulle denunce contro istituzioni, organi, uffici e agenzie dell'UE.</li>                   <li>                      <strong>Mediatore</strong>: Emily O'Reilly</li>                   <li>                      <strong>Anno di istituzione</strong>: 1995</li>                   <li>                      <strong>Sede</strong>: Strasburgo, Francia</li>                   <li>                      <strong>Sito web</strong>: Mediatore europeo</li>                </ul>             </div>"
+            ],
+            "lt": [
+                "<h2>Apžvalga</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Vaidmuo</strong>: tiria skundus prieš ES institucijas, agentūras ir kitas įstaigas</li>                   <li>                      <strong>Ombudsmenė</strong> Emily O'Reilly</li>                   <li>                      <strong>Tarnyba įsteigta</strong> 1995 m.</li>                   <li>                      <strong>Vieta</strong>: Strasbūras (Prancūzija)</li>                   <li>                      <strong>Interneto svetainė</strong> Europos ombudsmenas</li>                </ul>             </div>"
+            ],
+            "lv": [
+                "<h2>Īss apraksts</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uzdevums</strong>: Eiropas Ombuds izmeklē sūdzības par ES iestāžu, struktūru, biroju un aģentūru darbu.</li>                   <li>                      <strong>Ombuds</strong>: Emīlija O'Reilija</li>                   <li>                      <strong>Izveides gads</strong>: 1995.</li>                   <li>                      <strong>Atrašanās vieta</strong>: Strasbūra (Francija)</li>                   <li>                      <strong>Tīmekļa vietne</strong>: Eiropas Ombuds</li>                </ul>             </div>"
+            ],
+            "mt": [
+                "<h2>Ħarsa ġenerali</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rwol</strong>: Jinvestiga l-ilmenti kontra l-istituzzjonijiet, il-korpi, l-uffiċċji u l-aġenziji tal-UE.</li>                   <li>                      <strong>Ombudsman</strong>: Emily O'Reilly</li>                   <li>                      <strong>Stabbilit</strong>: fl-1995</li>                   <li>                      <strong>Jinsab</strong>: fi Strasbourg (Franza)</li>                   <li>                      <strong>Sit web</strong>: L-Ombudsman Ewropew</li>                </ul>             </div>"
+            ],
+            "nl": [
+                "<h2>In het kort</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rol</strong>: Onderzoekt klachten over EU-instellingen, -organen, -instanties en -agentschappen</li>                   <li>                      <strong>Ombudsman</strong>: Emily O'Reilly</li>                   <li>                      <strong>Opgericht in</strong>: 1995</li>                   <li>                      <strong>Vestigingsplaats</strong>: Straatsburg (Frankrijk)</li>                   <li>                      <strong>Website</strong>: Europese Ombudsman</li>                </ul>             </div>"
+            ],
+            "pl": [
+                "<h2>Informacje ogólne</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rola</strong>: Europejski Rzecznik Praw Obywatelskich bada skargi przeciwko instytucjom, organom, urzędom i agencjom UE.</li>                   <li>                      <strong>Rzecznik Praw Obywatelskich</strong>: Emily O’Reilly</li>                   <li>                      <strong>Rok ustanowienia</strong>: 1995</li>                   <li>                      <strong>Siedziba</strong>: Strasburg (Francja)</li>                   <li>                      <strong>Strona internetowa</strong>: Europejski Rzecznik Praw Obywatelskich</li>                </ul>             </div>"
+            ],
+            "pt": [
+                "<h2>Em síntese</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Funções</strong>: investiga queixas contra instituições, órgãos, serviços e agências da UE</li>                   <li>                      <strong>Provedora de Justiça Europeia</strong>: Emily O'Reilly</li>                   <li>                      <strong>Cargo instituído em</strong> 1995</li>                   <li>                      <strong>Sede</strong>: Estrasburgo (França)</li>                   <li>                      <strong>Sítio Internet</strong>: Provedor de Justiça Europeu</li>                </ul>             </div>"
+            ],
+            "ro": [
+                "<h2>Prezentare generală</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rol</strong>: investighează plângerile formulate împotriva instituțiilor, organismelor, birourilor și agențiilor UE.</li>                   <li>                      <strong>Ombudsman</strong>: Emily O'Reilly</li>                   <li>                      <strong>Înființare</strong>: 1995</li>                   <li>                      <strong>Sediu</strong>: Strasbourg (Franța)</li>                   <li>                      <strong>Site</strong>: Ombudsmanul European</li>                </ul>             </div>"
+            ],
+            "sk": [
+                "<h2>Prehľad</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Úloha</strong>: vyšetruje sťažnosti občanov na administratívne postupy inštitúcií, orgánov, úradov a agentúr EÚ</li>                   <li>                      <strong>Ombudsman</strong>: Emily O’Reillyová</li>                   <li>                      <strong>Rok vzniku</strong>: 1995</li>                   <li>                      <strong>Sídlo</strong>: Štrasburg (Francúzsko)</li>                   <li>                      <strong>Webové sídlo</strong>: Európsky ombudsman</li>                </ul>             </div>"
+            ],
+            "sl": [
+                "<h2>Pregled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Vloga</strong>: Obravnava pritožbe proti institucijam, organom in agencijam EU</li>                   <li>                      <strong>Evropska varuhinja človekovih pravic</strong>: Emily O'Reilly</li>                   <li>                      <strong>Ustanovitev</strong>: 1995</li>                   <li>                      <strong>Sedež</strong>: Strasbourg (Francija)</li>                   <li>                      <strong>Spletišče</strong>: evropski varuh človekovih pravic</li>                </ul>             </div>"
+            ],
+            "sv": [
+                "<h2>Översikt</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uppgift</strong>: Utreder klagomål på EU:s institutioner och organ</li>                   <li>                      <strong>Ombudsman</strong>: Emily O'Reilly</li>                   <li>                      <strong>Inrättad</strong>: 1995</li>                   <li>                      <strong>Plats</strong>: Strasbourg, Frankrike</li>                   <li>                      <strong>Webbplats</strong>: Europeiska ombudsmannen</li>                </ul>             </div>"
+            ]
+        },
+        "info2": {
+            "bg": [
+                "<p>Европейският омбудсман разглежда <strong>жалби</strong> за <strong>лошо управление</strong> срещу институциите или останалите органи на ЕС. Те могат да бъдат подавани от <strong>граждани</strong> или <strong>постоянно пребиваващи</strong> в страните от ЕС или от <strong>установени в ЕС</strong>                <a href=\"http://www.ombudsman.europa.eu/bg/atyourservice/infosheet.faces\">асоциации или предприятия</a>.</p>             <h2>Какво прави омбудсманът?</h2>             <p>Омбудсманът разглежда случаи на различни видове лошо управление, например:</p>             <ul>                <li>неправомерно поведение,</li>                <li>дискриминация,</li>                <li>злоупотреба с власт,</li>                <li>липса на информация или отказ за предоставяне на информация,</li>                <li>ненужно забавяне,</li>                <li>неправилни процедури.</li>             </ul>             <h2>Как се избира омбудсманът?</h2>             <p>Омбудсманът се избира от <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_bg.htm\"                   lang=\"bg\">Европейския парламент</a> и има <strong>5-годишен мандат</strong>, който може да бъде подновяван. Това е една от първите задачи на Парламента след избори.</p>             <h2>Как работи омбудсманът?</h2>             <p>Службата на омбудсмана <strong>започва разследвания</strong> след получаването на жалба или по собствена инициатива. Тя е <strong>независим</strong> орган и не получава нареждания от правителства или други организации. Тя изготвя и представя пред Европейския парламент <a href=\"http://www.ombudsman.europa.eu/bg/activities/annualreports.faces\">годишен доклад за дейността си</a>.</p>             <p>Възможно е омбудсманът да разреши вашия проблем, като просто <strong>информира съответната институция</strong>. Ако това не е достатъчно, той полага всички усилия за постигане на <strong> решение по взаимно съгласие</strong>. Ако не бъде постигнато подобно решение, омбудсманът може да отправи <strong>препоръки</strong> към институцията. Ако тя не приеме препоръките, омбудсманът може да изготви <strong>специален доклад</strong> до Европейския парламент, който трябва да предприеме подходящи действия.</p>             <h2>Омбудсманът и вие</h2>             <p>Ако <strong>не сте доволни</strong> от институция, орган, служба или агенция на ЕС, първо трябва да ѝ дадете възможност да поправи положението. Ако не постигнете успех по този начин, можете да подадете <a href=\"https://secure.ombudsman.europa.eu/bg/atyourservice/secured/complaintform.faces\">жалба до омбудсмана</a>.</p>             <p>Трябва да подадете жалбата си <strong>в рамките на 2 години</strong> от датата, на която сте научили за проблема. Необходимо е ясно да посочите <strong>кой</strong> сте, <strong>от коя институция или орган се оплаквате</strong> и <strong>защо</strong>. Можете да поискате жалбата ви да остане <strong>поверителна</strong>.</p>             <p>Ако омбудсманът не може да разгледа жалбата ви, той ще ви <strong>информира кои други органи</strong> биха могли да ви помогнат.</p>"
+            ],
+            "cs": [
+                "<p>Evropský veřejný ochránce práv prošetřuje <strong>stížnosti</strong> na <strong>administrativní pochybení</strong> institucí a dalších subjektů EU. Stížnosti mohou podávat <strong>občané</strong> a <strong>rezidenti</strong> členských států EU a <a href=\"http://www.ombudsman.europa.eu/cs/atyourservice/infosheet.faces\">sdružení a podniky</a>                <strong>usazené v EU</strong>.</p>             <h2>Jaké úkoly veřejný ochránce práv plní?</h2>             <p>Veřejný ochránce práv prošetřuje různé případy nevhodného administrativního postupu – například:</p>             <ul>                <li>nekalé jednání</li>                <li>diskriminaci</li>                <li>překročení pravomoci</li>                <li>neúplné informace nebo odmítnutí informace poskytnout</li>                <li>zbytečné průtahy</li>                <li>použití nesprávného postupu.</li>             </ul>             <h2>Jak se veřejný ochránce práv volí?</h2>             <p>Veřejného ochránce práv volí <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_cs.htm\"                   lang=\"cs\">Evropský parlament</a> na <strong>období pěti let, s možností opětovného zvolení</strong>. Volba veřejného ochrance práv je jedním z prvních úkolů každého nového Parlamentu po jeho zvolení.</p>             <h2>Jak úřad veřejného ochránce práv funguje?</h2>             <p>Kancelář veřejného ochránce práv <strong>zahajuje šetření</strong> z vlastní iniciativy nebo na základě přijaté stížnosti. Jedná se o <strong>nestranný orgán</strong>a nejedná tudíž na základě instrukcí ničí vlády či jiné organizace. Předkládá <a href=\"http://www.ombudsman.europa.eu/cs/activities/annualreports.faces\">výroční zprávu o činnosti</a> Evropskému parlamentu.</p>             <p>Veřejný ochránce práv často může váš problém vyřešit jednoduše tím, že <strong>dotčený orgán informuje</strong>. Pokud je třeba další intervence, ta vždy směřuje k dosažení pokud možno <strong>smírného řešení</strong>. Pokud jsou zapotřebí další kroky, veřejný ochránce práv <strong>navrhne dotčenému orgánu opatření k nápravě</strong>. Pokud tyto nejsou akceptovány, veřejný ochránce práv může vypracovat <strong>zvláštní zprávu</strong> pro Evropský parlament, který pak odpovídá za přijetí vhodných opatření.</p>             <h2>Veřejný ochránce práv a vy</h2>             <p>Jste-li <strong>nespokojeni</strong> s postupem orgánu, instituce, agentury či jiného subjektu EU, nejprve jim umožněte, aby situaci napravily samy. Pokud to nepovede k požadovanému výsledku, můžete podat <a href=\"https://secure.ombudsman.europa.eu/cs/atyourservice/secured/complaintform.faces\">Evropskému veřejnému ochránci práv stížnost</a>.</p>             <p>Stížnost evropskému veřejnému ochránci práv je třeba podat <strong>do dvou let</strong> ode dne, kdy jste se o problému dozvěděli. Musíte vždy nahlásit svou <strong>identitu</strong>, na <strong>kterou instituci</strong> nebo orgán si stěžujete, a <strong>proč</strong>. Můžete požádat, aby s vašimi údaji bylo nakládáno jako s <strong>důvěrnými informacemi</strong>.</p>             <p>Pokud veřejný ochránce práv není k řešení vaší stížností kompetentní, budete <strong>informováni o tom, které jiné orgány lze v dané věci kontaktovat</strong>.</p>"
+            ],
+            "da": [
+                "<p>Den Europæiske Ombudsmand undersøger <strong>klager</strong> over <strong>dårlig administration</strong> i EU-institutionerne og andre EU-organer. De kan indgives af <strong>borgere</strong> eller <strong>indbyggere</strong> i EU-landene eller af <a href=\"http://www.ombudsman.europa.eu/da/atyourservice/infosheet.faces\">sammenslutninger eller virksomheder</a> med <strong>base i EU</strong>.</p>             <h2>Hvad laver Ombudsmanden?</h2>             <p>Ombudsmanden undersøger forskellige former for dårlig forvaltning, som for eksempel:</p>             <ul>                <li>urimelig adfærd</li>                <li>forskelsbehandling</li>                <li>magtmisbrug</li>                <li>mangel eller afslag på information</li>                <li>unødig forsinkelse</li>                <li>ukorrekte procedurer.</li>             </ul>             <h2>Sådan vælges EU's Ombudsmand.</h2>             <p>                <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_da.htm\"                   lang=\"da\">Europa-Parlamentet</a> vælger Ombudsmanden for en <strong>periode på 5 år</strong> med mulighed for genvalg. Det er en af det nyvalgte Parlaments første opgaver.</p>             <h2>Hvordan arbejder Ombudsmanden?</h2>             <p>Ombudsmandens kontor <strong>iværksætter undersøgelser</strong>, enten når der er modtaget en klage, eller på eget initiativ. Den er et <strong>upartisk</strong> organ og tager ikke imod ordrer fra regeringer eller andre organisationer. Den forelægger en <a href=\"http://www.ombudsman.europa.eu/da/activities/annualreports.faces\">årlig aktivitetsrapport</a> for Europa-Parlamentet.</p>             <p>Ombudsmanden kan måske løse dit problem ganske enkelt ved at <strong>informere den pågældende institution</strong>. Hvis der skal mere til, gør den, hvad den kan, for at nå frem til en <strong>mindelig løsning</strong>, der kan rette op på situationen. Mislykkes dette, kan Ombudsmanden fremsætte <strong>henstillinger</strong> til den pågældende institution. Accepterer den ikke disse, kan Ombudsmanden udarbejde en <strong>særligt rapport</strong> til Europa-Parlamentet, som så skal træffe de nødvendige foranstaltninger.</p>             <h2>Ombudsmanden og dig</h2>             <p>Hvis du er <strong>utilfreds</strong> med en af EU's institutioner, organer, kontorer eller agenturer, skal du først give dem mulighed for at rette op på situationen. Hvis det ikke fører til noget resultat, kan du <a href=\"https://secure.ombudsman.europa.eu/da/atyourservice/secured/complaintform.faces\">klage til Ombudsmanden</a>.</p>             <p>Klagen skal indgives <strong>senest to år</strong> efter den dato, hvor du blev opmærksom på problemet. Sørg for at fortælle, <strong>hvem</strong> du er, <strong>hvilken institution eller hvilket organ du klager over</strong>, og <strong>hvorfor</strong>. Du kan bede om, at klagen behandles <strong>fortroligt</strong>.</p>             <p>Hvis Ombudsmanden ikke kan behandle din klage, vil du blive <strong>informeret om, hvilke andre organer</strong> der muligvis kan hjælpe dig.</p>"
+            ],
+            "de": [
+                "<p>Europäischer Bürgerbeauftragter/Europäische Bürgerbeauftragte: Untersucht <strong>                   <strong>Beschwerden über Missstände in der Verwaltung</strong>                </strong> der Institutionen und Einrichtungen der Europäischen Union.  Beschwerden können von <strong>Staatsangehörigen</strong> oder <strong>Bürgerinnen und Bürgern von EU-Ländern </strong>sowie von <strong>in der EU ansässigen</strong>                <a href=\"http://www.ombudsman.europa.eu/de/atyourservice/infosheet.faces\">Unternehmen und Organisationen</a> eingereicht werden. </p>             <h2>Was tut der/die Bürgerbeauftragte? </h2>             <p>Er/sie untersucht verschiedene Arten von Missständen in der Verwaltungspraxis, zum Beispiel: </p>             <ul>                <li>ungerechte Behandlung </li>                <li>Diskriminierung</li>                <li>Machtmissbrauch</li>                <li>Fehlen oder Verweigern von Informationen</li>                <li>unnötige Verzögerungen</li>                <li>fehlerhafte Verfahren</li>             </ul>             <h2>Wie wird der/die Bürgerbeauftragte gewählt? </h2>             <p>Das <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_de.htm\"                   lang=\"de\">Europäische Parlament </a>wählt den/die Bürgerbeauftragte für eine Amtszeit von <strong>fünf Jahren</strong>. Das Mandat kann verlängert werden.  Dies ist eine der ersten Aufgaben des neu gewählten Parlaments. </p>             <h2>Wie arbeitet der/die Bürgerbeauftragte?</h2>             <p>Das Büro des/der Bürgerbeauftragten führt aufgrund von Beschwerden oder von sich aus <strong>Untersuchungen</strong> durch. Als <strong>unparteiische </strong>Stelle ist der/die Bürgerbeauftragte gegenüber keiner Regierung oder Organisation weisungsgebunden.  Er/sie erstellt einen<a href=\"http://www.ombudsman.europa.eu/de/activities/annualreports.faces\"> jährlichen Tätigkeitsbericht </a>zur Vorlage beim Europäischen Parlament. </p>             <p>Der/die Bürgerbeauftragte kann Ihr Problem manchmal bereits dadurch lösen, dass er/sie die <strong>betreffende Stelle informiert</strong>.  Genügt dies nicht, versucht der/die Bürgerbeauftragte, eine <strong>gütliche Einigung</strong> zu erzielen, die die Sache zu Ihrer Zufriedenheit regelt. Gelingt ihm/ihr das nicht, kann er/sie <strong>Empfehlungen</strong> zur Lösung des Problems aussprechen. Lehnt die betreffende Einrichtung ihre Empfehlungen ab, kann der/die Bürgerbeauftragte dem Europäischen Parlament einen <strong>Sonderbericht </strong>vorlegen, damit dieses die erforderlichen politischen Maßnahmen ergreift.</p>             <h2>Der/die Bürgerbeauftragte und Sie </h2>             <p>Wenn Sie mit einem Organ, einer Einrichtung oder einer sonstigen Stelle der EU <strong>nicht zufrieden</strong> sind, sollten Sie zuerst der betreffenden Stelle die Möglichkeit einräumen, den Missstand zu beseitigen. Gelingt das nicht, können Sie eine <a href=\"https://secure.ombudsman.europa.eu/de/atyourservice/secured/complaintform.faces\">Beschwerde an den/die Bürgerbeauftragte</a> richten.</p>             <p>Die Beschwerde muss <strong>innerhalb von zwei Jahren</strong> ab dem Zeitpunkt eingereicht werden, zu dem Sie von dem Problem Kenntnis erhalten haben. Sie müssen in der Beschwerde angeben, <strong>wer Sie sind</strong>, über <strong>welches Organ oder welche Einrichtung Sie sich beschweren</strong> und worin Ihr <strong>Problem </strong>besteht.  Sie können verlangen, dass die Beschwerde <strong>vertraulich </strong>behandelt wird.</p>             <p>Falls der/die Bürgerbeauftragte Ihre Beschwerde nicht bearbeiten kann, wird er/sie Sie <strong>über andere Einrichtungen informieren</strong>, die Ihnen vielleicht helfen könnten. </p>"
+            ],
+            "el": [
+                "<p>Ο Ευρωπαίος Διαμεσολαβητής διερευνά <strong>καταγγελίες </strong>για<strong> κακοδιοίκηση</strong> από πλευράς οργάνων ή άλλων υπηρεσιών της ΕΕ. Τις καταγγελίες αυτές μπορούν να υποβάλλουν <strong>πολίτες </strong>ή <strong>μόνιμοι κάτοικοι</strong> χωρών της ΕΕ, ή ακόμα ενώσεις ή επιχειρήσεις <strong>που έχουν την έδρα τους στην ΕΕ</strong>                <a href=\"http://www.ombudsman.europa.eu/el/atyourservice/infosheet.faces\"/>.</p>             <h2>Τι κάνει ο Διαμεσολαβητής</h2>             <p>Ο Διαμεσολαβητής διερευνά διάφορα είδη κακοδιοίκησης, όπως:</p>             <ul>                <li>αθέμιτες ενέργειες</li>                <li>διακριτική μεταχείριση</li>                <li>κατάχρηση εξουσίας</li>                <li>απουσία ή άρνηση ενημέρωσης</li>                <li>αδικαιολόγητες καθυστερήσεις</li>                <li>παράτυπες διαδικασίες.</li>             </ul>             <h2>Πώς επιλέγεται ο Διαμεσολαβητής</h2>             <p>Το <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_el.htm\"                   lang=\"el\">Ευρωπαϊκό Κοινοβούλιο</a> εκλέγει τον Διαμεσολαβητή για μια <strong>5ετή θητεία</strong> ανανεώσιμη. Αυτό είναι ένα από τα πρώτα καθήκοντα του ΕΚ μόλις εκλεγεί.</p>             <h2>Πώς λειτουργεί ο Διαμεσολαβητής</h2>             <p>Το γραφείο του Διαμεσολαβητή <strong>διενεργεί έρευνα</strong> είτε μόλις λάβει καταγγελία είτε με δική του πρωτοβουλία. Ως <strong>αμερόληπτη</strong> υπηρεσία, δεν λαμβάνει εντολές από καμία κυβέρνηση ή άλλον φορέα. Υποβάλλει δε <a href=\"http://www.ombudsman.europa.eu/el/activities/annualreports.faces\">ετήσια έκθεση δραστηριοτήτων</a> στο Ευρωπαϊκό Κοινοβούλιο.</p>             <p>Σε ορισμένες περιπτώσεις, ο Διαμεσολαβητής μπορεί να λύσει το πρόβλημά σας απλά <strong>ενημερώνοντας το αρμόδιο όργανο</strong>. Αν χρειαστούν περαιτέρω ενέργειες, καταβάλλεται κάθε δυνατή προσπάθεια για την εξεύρεση <strong>συναινετικής λύσης</strong> που θα αποκαταστήσει τα πράγματα. Αν αυτό αποτύχει, ο Διαμεσολαβητής μπορεί να κάνει <strong>συστάσεις</strong> προς το συγκεκριμένο όργανο. Αν οι συστάσεις αυτές δεν γίνουν δεκτές, ο Διαμεσολαβητής μπορεί να συντάξει <strong>ειδική αναφορά</strong> προς το Ευρωπαϊκό Κοινοβούλιο, το οποίο οφείλει να προβεί στη λήψη κατάλληλων μέτρων.</p>             <h2>Ο Διαμεσολαβητής και εσείς</h2>             <p>Αν <strong>δεν είστε ικανοποιημένοι</strong> από τη λειτουργία ενός θεσμικού οργάνου, οργανισμού ή υπηρεσίας της ΕΕ, θα πρέπει πρώτα να του δώσετε την ευκαιρία να αποκαταστήσει τα πράγματα. Αν αυτό αποτύχει, μπορείτε να <a href=\"https://secure.ombudsman.europa.eu/el/atyourservice/secured/complaintform.faces\">υποβάλετε καταγγελία στον Ευρωπαίο Διαμεσολαβητή</a>.</p>             <p>Η καταγγελία σας πρέπει να υποβληθεί <strong>μέσα σε 2 χρόνια</strong> από την ημερομηνία που διαπιστώσατε το πρόβλημα. Πρέπει να δηλώσετε σαφώς <strong>ποιος</strong> είστε, <strong>ποιο είναι το θεσμικό όργανο ή ο οργανισμός τον οποίον αφορά η καταγγελία</strong>, καθώς και <strong>τον λόγο υποβολής της</strong>. Μπορείτε επίσης να ζητήσετε η καταγγελία σας να παραμείνει <strong>εμπιστευτική</strong>.</p>             <p>Αν ο Διαμεσολαβητής δεν μπορεί να ασχοληθεί με την καταγγελία σας, θα <strong>σας υποδείξει άλλους φορείς</strong> που ενδεχομένως μπορούν να σας βοηθήσουν.</p>"
+            ],
+            "en": [
+                "<p>The European Ombudsman investigates <strong>complaints </strong>about<strong> poor administration</strong> by EU institutions or other EU bodies. These may be lodged by <strong>citizens </strong>or <strong>residents</strong> of EU countries or by <strong>EU-based </strong>                <a href=\"http://www.ombudsman.europa.eu/en/atyourservice/infosheet.faces\">associations or businesses</a>.</p>             <h2>What does the Ombudsman do?</h2>             <p>The Ombudsman investigates different types of poor administration, for example:</p>             <ul>                <li>unfair conduct</li>                <li>discrimination</li>                <li>abuse of power</li>                <li>lack of information or refusal to provide it</li>                <li>unnecessary delays</li>                <li>incorrect procedures.</li>             </ul>             <h2>How is the Ombudsman chosen?</h2>             <p>The <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_en.htm\"                   lang=\"en\">European Parliament</a> elects the Ombudsman for a renewable <strong>5-year term</strong>. This is one of its first tasks when newly elected.</p>             <h2>How does the Ombudsman work?</h2>             <p>The Ombudsman's office <strong>launches investigations</strong> either in response to complaints or on its own initiative. An <strong>impartial</strong> body, it takes no orders from any government or other organisation. It produces an <a href=\"http://www.ombudsman.europa.eu/en/activities/annualreports.faces\">annual activity report</a> for the European Parliament.</p>             <p>The Ombudsman may be able to solve your problem simply by <strong>informing the institution</strong> concerned. If more is needed, every effort is made to reach an <strong>amicable solution</strong> that will put matters right. Should this fail, the Ombudsman can make <strong>recommendations</strong> to the institution. If these are not accepted, the Ombudsman can draw up a <strong>special report</strong> to the European Parliament, which must then take appropriate action.</p>             <h2>The Ombudsman and you</h2>             <p>If you are <strong>dissatisfied</strong> with an EU institution, body, office or agency, you should first give it a chance to put things right. If that fails, you can <a href=\"https://secure.ombudsman.europa.eu/en/atyourservice/secured/complaintform.faces\">complain to the Ombudsman</a>.</p>             <p>You must make your complaint <strong>within 2 years</strong> of the date on which you became aware of the problem. Make sure you say <strong>who</strong> you are, <strong>which institution or body you are complaining about</strong>, and <strong>why</strong>. You may ask for the complaint to remain <strong>confidential</strong>.</p>             <p>If the Ombudsman cannot deal with your complaint, you will <strong>be informed of other bodies</strong> that may be able to help.</p>"
+            ],
+            "es": [
+                "<p>El Defensor del Pueblo Europeo investiga las <strong>reclamaciones</strong> relativas a una <strong>mala gestión</strong> por parte de las instituciones y los organismos de la UE. Las reclamaciones pueden proceder de cualquier <strong>ciudadano</strong> de la UE o de <strong>residentes</strong>, <a href=\"http://www.ombudsman.europa.eu/es/atyourservice/infosheet.faces\">empresas y organizaciones</a>                <strong>con domicilio en un Estado miembro</strong>.</p>             <h2>¿Qué hace el Defensor del Pueblo?</h2>             <p>El Defensor del Pueblo Europeo investiga diversos tipos de mala administración:</p>             <ul>                <li>conducta desleal</li>                <li>discriminación</li>                <li>abuso de poder</li>                <li>omisión de información o negativa a proporcionarla</li>                <li>retrasos innecesarios</li>                <li>procedimientos incorrectos.</li>             </ul>             <h2>¿Cómo se elige el Defensor del Pueblo Europeo?</h2>             <p>El <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_es.htm\"                   lang=\"es\">Parlamento Europeo</a> elige al Defensor del Pueblo por un <strong>periodo renovable de cinco años</strong>. Esta es una de las primeras tareas que realiza en cada legislatura.</p>             <h2>¿Cómo funciona el Defensor del Pueblo Europeo?</h2>             <p>La oficina del Defensor del Pueblo Europeo <strong>inicia sus investigaciones</strong> a raíz de las reclamaciones recibidas o por iniciativa propia. Al ser un organismo <strong>imparcial</strong>, no recibe instrucciones de ningún Gobierno u organización. El Defensor del Pueblo Europeo presenta ante el Parlamento Europeo un <a href=\"http://www.ombudsman.europa.eu/es/activities/annualreports.faces\">informe anual de actividades</a>.</p>             <p>A veces, para solucionar un problema, el Defensor del Pueblo Europeo solo tiene que <strong>informar a la institución</strong> de que se trate. Cuando eso no basta, hace todo lo posible para que se alcance una <strong>solución amistosa</strong> que ponga fin al problema. Si esto tampoco funciona, el Defensor del Pueblo puede dirigir <strong>recomendaciones</strong> a la institución responsable. Si no se aceptan sus recomendaciones, puede presentar un <strong>informe especial</strong> al Parlamento Europeo para que tome las medidas oportunas.</p>             <h2>El Defensor del Pueblo y tú</h2>             <p>Cuando estés <strong>descontento</strong> con una institución, organismo, oficina o agencia de la UE, lo primero que debes hacer es darle la oportunidad de corregir la situación. Si así no se soluciona nada, puedes presentar una <a href=\"https://secure.ombudsman.europa.eu/es/atyourservice/secured/complaintform.faces\">reclamación ante el Defensor del Pueblo Europeo</a>.</p>             <p>Las reclamaciones deben presentarse <strong>en un plazo de dos años</strong> desde se tuvo conocimiento del problema. Debes indicar con claridad <strong>quién eres</strong>, <strong>a qué organismo o institución se refiere la reclamación</strong> y <strong>por qué la presentas</strong>. Puedes pedir que tu reclamación sea tratada de forma <strong>confidencial</strong>.</p>             <p>Si el Defensor del Pueblo Europeo no puede hacerse cargo de tu reclamación, <strong>te informará de qué otros organismos</strong> pueden ayudarte.</p>"
+            ],
+            "et": [
+                "<p>Euroopa Ombudsman uurib <strong>kaebusi</strong> Euroopa Liidu institutsioonide ja muude asutuste poolse <strong>puuduliku halduse</strong> kohta. Neid võivad esitada ELi liikmesriikide <strong>kodanikud</strong> ja <strong>elanikud</strong> või <strong>ELis asuvad</strong>                <a href=\"http://www.ombudsman.europa.eu/et/atyourservice/infosheet.faces\">ühendused ja ettevõtjad</a>.</p>             <h2>Millega ombudsman tegeleb?</h2>             <p>Ombudsman uurib erinevaid puuduliku halduse vorme, nt:</p>             <ul>                <li>ebaõiglane käitumine</li>                <li>diskrimineerimine</li>                <li>võimu kuritarvitamine</li>                <li>ebapiisav teave või teabe andmisest keeldumine</li>                <li>põhjendamatud viivitused</li>                <li>ebaõiged menetlused.</li>             </ul>             <h2>Kuidas ombudsman valitakse?</h2>             <p>Ombudsmani valib <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_et.htm\"                   lang=\"et\">Euroopa Parlament</a> ning tema <strong>ametiaeg on viis aastat</strong>, mida saab pikendada. Ombudsmani määramine on vastvalitud Euroopa Parlamendi üks esimesi ülesandeid.</p>             <h2>Kuidas ombudsman töötab?</h2>             <p>Ombudsman <strong>algatab uurimisi</strong> kas kaebuse alusel või omal algatusel. <strong>Erapooletu</strong> organina ei allu ta ühelegi valitsusele ega organisatsioonile. Ta esitab <a href=\"http://www.ombudsman.europa.eu/et/activities/annualreports.faces\">iga-aastase tegevusaruande</a> Euroopa Parlamendile.</p>             <p>Ombudsmanil võib Teie probleemi lahendamiseks piisata asjaomase <strong>institutsiooni teavitamisest</strong>. Kui on vaja täiendavaid meetmeid, siis teeb ta kõik selleks, et saavutada <strong>kõiki rahuldav lahendus</strong>. Kui see ei õnnestu, saab ombudsman esitada institutsioonile <strong>soovitusi</strong>. Kui neid ei aktsepteerita, võib ombudsman koostada <strong>eriaruande</strong> Euroopa Parlamendile, kes peab seejärel võtma sobivaid meetmeid.</p>             <h2>Ombudsman ja Teie</h2>             <p>Kui Te <strong>ei ole rahul</strong> ELi institutsiooni, organi või asutuse tegevusega, peaksite kõigepealt andma talle võimaluse olukorda parandada. Kui see ei anna tulemusi, võite <a href=\"https://secure.ombudsman.europa.eu/et/atyourservice/secured/complaintform.faces\">esitada kaebuse ombudsmanile</a>.</p>             <p>Kaebus tuleb esitada <strong>kahe aasta jooksul</strong> alates kuupäevast, mil Te probleemist teada saite. Selgitage kindlasti, <strong>kes</strong> Te olete, <strong>millise institutsiooni või asutuse vastu Te kaebuse esitate</strong> ning <strong>miks</strong> Te seda teete. Võite paluda, et kaebus jääks <strong>konfidentsiaalseks</strong>.</p>             <p>Kui ombudsman ei saa Teie kaebust käsitelda, <strong>teavitatakse Teid muudest asutustest</strong>, kes võiksid Teid aidata.</p>"
+            ],
+            "fi": [
+                "<p>Euroopan oikeusasiamies tutkii <strong>kanteluja</strong>, jotka liittyvät EU:n toimielinten ja muiden elinten toiminnassa ilmenneeseen <strong>huonoon hallintoon</strong>. Kantelun tekijänä voi olla <strong>EU-kansalainen</strong>, EU-maan <strong>asukas </strong>tai <strong>EU:ssa toimipaikkaansa</strong> pitävä <a href=\"http://www.ombudsman.europa.eu/fi/atyourservice/infosheet.faces\">järjestö tai liikeyritys</a>.</p>             <h2>Mitä oikeusasiamies tekee?</h2>             <p>Oikeusasiamies tutkii erilaisia hallinnollisia epäkohtia, joita voivat olla esimerkiksi:</p>             <ul>                <li>epäoikeudenmukainen kohtelu</li>                <li>syrjintä</li>                <li>toimivallan väärinkäyttö</li>                <li>tiedon puute tai tietojen epääminen</li>                <li>tarpeettomat viivästykset</li>                <li>menettelyvirheet.</li>             </ul>             <h2>Miten oikeusasiamies valitaan?</h2>             <p>                <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_fi.htm\"                   lang=\"fi\">Euroopan parlamentti</a> nimittää oikeusasiamiehen <strong>viideksi vuodeksi</strong>, ja sama henkilö voidaan valita uudelleen. Oikeusasiamihen nimittäminen on yksi uuden parlamentin ensimmäisistä tehtävistä valintansa jälkeen.</p>             <h2>Miten Euroopan oikeusasiamies toimii?</h2>             <p>Oikeusasiamiehen toimisto <strong>aloittaa tutkimukset</strong> omasta aloitteestaan tai kantelun perusteella. Oikeusasiamies on <strong>riippumaton </strong>eikä ota vastaan käskyjä miltään kansallisilta viranomaisilta tai muilta organisaatioilta. Se laatii työskentelystään <a href=\"http://www.ombudsman.europa.eu/fi/activities/annualreports.faces\">vuosittaisen toimintakertomuksen</a> Euroopan parlamentille.</p>             <p>Oikeusasiamies saattaa kyetä ratkaisemaan tapauksen yksinkertaisesti vain <strong>ilmoittamalla siitä kantelun kohteena olevalle toimielimelle</strong>. Jos tarvitaan lisätoimia, oikeusasiamies pyrkii kaikin tavoin löytämään <strong>sovintoratkaisun</strong>, jolla epäkohta korjataan. Jos tämä ei tuota tulosta, oikeusasiamies voi antaa kyseiselle elimelle <strong>suosituksia</strong>. Jos toimielin ei hyväksy oikeusasiamiehen suosituksia, oikeusasiamies voi laatia asiasta <strong>erityiskertomuksen </strong>Euroopan parlamentille, jonka on ryhdyttävä asian edellyttämiin toimiin.</p>             <h2>Oikeusasiamies ja sinä</h2>             <p>Jos <strong>et ole tyytyväinen</strong> jonkin EU-elimen toimintaan, sinun on ensin yritettävä saada se korjaamaan tilanne. Ellei tämä onnistu, voit <a href=\"https://secure.ombudsman.europa.eu/fi/atyourservice/secured/complaintform.faces\">tehdä kantelun Euroopan oikeusasiamiehelle</a>.</p>             <p>Kantelu oikeusasiamiehelle on tehtävä <strong>kahden vuoden kuluessa</strong> siitä, kun ongelma tuli kantelijan tietoon. Kantelussa on ilmoitettava selvästi <strong>kantelijan henkilöllisyys</strong> sekä se, <strong>mitä elintä</strong> ja <strong>millaista asiaa </strong>kantelu koskee. Kantelulle voi pyytää <strong>luottamuksellista </strong>käsittelyä.</p>             <p>Jos oikeusasiamies ei voi käsitellä kantelua, hän <strong>osoittaa mahdolliset muut tahot</strong>, joiden puoleen asiassa voi kääntyä.  </p>"
+            ],
+            "fr": [
+                "<p>Le Médiateur européen enquête sur les <strong>plaintes</strong> pour <strong>mauvaise administration</strong> déposées contre des institutions ou organes de l'Union européenne. Ces plaintes peuvent être introduites par des <strong>citoyens</strong> ou des <strong>résidents</strong> des pays de l'UE, ou par des <a href=\"http://www.ombudsman.europa.eu/fr/atyourservice/infosheet.faces\">associations ou entreprises</a>                <strong>établies dans l'UE</strong>.</p>             <h2>Que fait le Médiateur?</h2>             <p>Il enquête sur différents types de mauvaise administration, notamment:</p>             <ul>                <li>comportement abusif;</li>                <li>discrimination;</li>                <li>abus de pouvoir;</li>                <li>absence ou refus d'information;</li>                <li>retards injustifiés;</li>                <li>procédures incorrectes.</li>             </ul>             <h2>Comment le Médiateur est-il désigné?</h2>             <p>Le Médiateur est élu par le <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_fr.htm\"                   lang=\"fr\">Parlement européen</a> pour un mandat renouvelable de <strong>cinq ans</strong>. C'est l'une des premières tâches du Parlement après son élection.</p>             <h2>Comment travaille le Médiateur?</h2>             <p>Il <strong>ouvre une enquête</strong> à la suite d'une plainte ou de sa propre initiative. Organe <strong>impartial</strong>, il ne reçoit d'instructions d'aucun gouvernement ou organisation. Il présente <a href=\"http://www.ombudsman.europa.eu/fr/activities/annualreports.faces\">chaque année un rapport d'activité</a> au Parlement européen.</p>             <p>Il est possible que le Médiateur résolve un problème en <strong>informant simplement l'institution</strong> concernée. Si cela ne suffit pas, il s'efforce de parvenir à un <strong>accord amiable</strong> afin de remédier à la situation. En cas d'échec, il peut <strong>adresser des recommandations</strong> à l'institution. Si cette dernière n'accepte pas les recommandations, le Médiateur peut soumettre un <strong>rapport spécial</strong> au Parlement européen, qui doit alors prendre les mesures nécessaires.</p>             <h2>Le Médiateur et vous</h2>             <p>Si vous n'êtes <strong>pas satisfait</strong> de vos contacts avec une institution, un organe ou une agence de l'UE, vous devez tout d'abord lui donner la possibilité de corriger la situation. En cas d’échec de cette démarche, vous pouvez <a href=\"https://secure.ombudsman.europa.eu/fr/atyourservice/secured/complaintform.faces\">adresser une plainte au Médiateur</a>.</p>             <p>Vous devez introduire votre plainte dans un <strong>délai de deux ans</strong> à compter de la date à laquelle vous avez pris connaissance du problème. Vous devez veiller à indiquer <strong>votre identité</strong>,<strong> l'institution ou l'organe faisant l'objet de votre plainte</strong>, et les éléments qui <strong>motivent</strong> celle-ci. Vous pouvez demander le <strong>traitement confidentiel</strong> de votre plainte.</p>             <p>Si le Médiateur n'est pas en mesure de la traiter, il vous <strong>indiquera quels organes</strong> sont susceptibles de vous aider.</p>"
+            ],
+            "ga": [
+                "<p>Imscrúdaíonn an tOmbudsman Eorpach <strong>gearáin</strong> faoi <strong>dhrochriar</strong> ag institiúidí an Aontais agus comhlachtaí eile an Aontais. Féadfaidh <strong>saoránaigh</strong> nó <strong>cónaitheoirí</strong> i mBallstát nó<a href=\"http://www.ombudsman.europa.eu/ga/atyourservice/infosheet.faces\"> comhlachais nó gnólachtaí</a>                <strong>atá bunaithe san Aontas Eorpach</strong> gearáin a dhéanamh.</p>             <h2>Cad a dhéanann an tOmbudsman?</h2>             <p>Imscrúdaíonn an tOmbudsman cineálacha éagsúla drochriaracháin, mar shampla:</p>             <ul>                <li>iompraíocht éagórach</li>                <li>idirdhealú</li>                <li>mí-úsáid cumhachta</li>                <li>easpa eolais nó diúltiú é a sholáthar</li>                <li>moill mhíchuí</li>                <li>nósanna imeachta míchearta</li>             </ul>             <h2>Conas a roghnaítear an tOmbudsman?</h2>             <p>Is í <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_ga.htm\"                   lang=\"ga\">Parlaimint na hEorpa</a> a thoghann an tOmbudsman Eorpach ar feadh <strong>téarma 5 bliana</strong> in-athnuaite. Tá sé ar cheann de na chéad chúraimí atá ar an bParlaimint nua-thofa.</p>             <h2>Cén chaoi a n-oibríonn an tOmbudsman?</h2>             <p>                <strong>Déanann oifig an Ombudsman Eorpaigh imscrúduithe a sheoladh</strong> mar fhreagairt ar ghearáin nó ar a tionscnamh féin. Mar chomhlacht <strong>neamhchlaonta</strong>, ní ghlacann sí orduithe ó rialtas ar bith ná ó aon eagraíocht eile. Cuireann sí <a href=\"http://www.ombudsman.europa.eu/ga/activities/annualreports.faces\">tuarascáil bhliantúil ar ghníomhaíochtaí</a> faoi bhráid Pharlaimint na hEorpa.</p>             <p>B'fhéidir go bhféadfadh an tOmbudsman d'fhadhb a réiteach gan dua <strong>trí scéala a chur chuig an institiúid</strong> lena mbaineann. Más gá níos mó a dhéanamh, déantar gach iarracht teacht ar <strong>réiteach cairdiúil</strong> a chuirfidh an scéal ina cheart. Má theipeann ar an mbeart sin, is féidir leis an Ombudsman <strong>moltaí</strong> a chur faoi bhráid na hinstitiúide. Mura nglactar leo, is féidir leis an Ombudsman <strong>tuarascáil speisialta</strong> a ullmhú le cur faoi bhráid Pharlaimint na hEorpa, a chaithfidh beart iomchuí a dhéanamh ansin.</p>             <h2>Tusa agus an tOmbudsman</h2>             <p>Má tá tú <strong>míshásta</strong> le hinstitiúid, comhlacht, oifig nó gníomhaireacht de chuid an Aontais Eorpaigh, ba cheart duit seans a thabhairt dó ar dtús an rud a chur ina cheart. Má theipeann air sin, is féidir leat <a href=\"https://secure.ombudsman.europa.eu/ga/atyourservice/secured/complaintform.faces\">gearán a dhéanamh leis an Ombudsman</a>.</p>             <p>Ní mór duit do ghearán a dhéanamh <strong>laistigh de 2 bhliain</strong> ón dáta ar chuir tú eolas ar an bhfadhb atá ann. Déan cinnte de go luann tú <strong>cé</strong> tú féin, <strong>cén institiúid nó comhlacht a bhfuil tú ag gearán faoi</strong>, agus <strong>cén fáth</strong>. Is féidir leat a iarraidh go bhfanfaidh an gearán <strong>faoi rún</strong>.</p>             <p>Mura féidir leis an Ombudsman déileáil le do ghearán, <strong>cuirfear ar an eolas tú faoi chomhlachtaí eile</strong> a d'fhéadfadh cuidiú leat.</p>"
+            ],
+            "hr": [
+                "<p>Europski ombudsman istražuje <strong>pritužbe </strong>na <strong>nepravilnosti u postupanju</strong> institucija ili drugih tijela EU-a. Mogu ih podnijeti <strong>državljani </strong>država članica ili <strong>osobe sa stalnim boravištem</strong> u državi članici te <strong>                   <a href=\"http://www.ombudsman.europa.eu/hr/atyourservice/infosheet.faces\">udruge ili poduzeća</a> sa <strong/>sjedištem u EU-u</strong>.</p>             <h2>Što radi Ombudsman?</h2>             <p>Ombudsman istražuje različite vrste upravnih nepravilnosti, na primjer:</p>             <ul>                <li>nepravednost</li>                <li>diskriminaciju</li>                <li>zloupotrebu ovlasti</li>                <li>nedostatak informacija ili odbijanje pružanja informacija</li>                <li>nepotrebne odgode</li>                <li>nepravilne postupke.</li>             </ul>             <h2>Kako se odabire Ombudsman?</h2>             <p>                <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_hr.htm\"                   lang=\"hr\">Europski parlament</a> bira Ombudsmana na <strong>petogodišnji mandat</strong> koji se može obnoviti. To je jedna od prvih zadaća novoizabranog Parlamenta.</p>             <h2>Kako djeluje Ombudsman?</h2>             <p>Ured Ombudsmana <strong>pokreće istrage</strong> po zaprimanju pritužbe ili na vlastitu inicijativu. <strong>Neovisno</strong> je tijelo i ne odgovara nijednoj vladi ni organizaciji. Jedanput godišnje Europskom parlamentu podnosi <a href=\"http://www.ombudsman.europa.eu/hr/activities/annualreports.faces\">izvješće o aktivnostima</a>.</p>             <p>Ombudsman će možda moći riješiti vaš problem tako da o njemu jednostavno <strong>obavijesti predmetnu instituciju</strong>. Ako to nije dovoljno, poduzet će sve da se vaš problem <strong>sporazumno</strong> riješi.  Ako u tome ne uspije, Ombudsman može dati <strong>preporuke</strong> predmetnoj instituciji. Ako institucija ne prihvati te preporuke, Ombudsman može podnijeti <strong>posebno izvješće</strong> Europskom parlamentu, koji zatim poduzima odgovarajuće mjere.</p>             <h2>Ombudsman i vi</h2>             <p>Ako <strong>niste zadovoljni</strong> postupanjem neke institucije, tijela, službe ili agencije EU-a, najprije im trebate pružiti priliku da isprave svoj postupak. Ako se tim pristupom ne ostvare rezultati, možete <a href=\"https://secure.ombudsman.europa.eu/hr/atyourservice/secured/complaintform.faces\">podnijeti pritužbu Europskom ombudsmanu</a>.</p>             <p>Pritužbe Ombudsmanu podnose se <strong>u roku od dvije godine</strong> od dana kada ste primijetili problem. U pritužbi je potrebno navesti <strong>osobne podatke</strong>, <strong>instituciju ili tijelo na koje se pritužba odnosi</strong> te <strong>opis problema</strong>. Možete zatražiti da se vaša pritužba tretira kao <strong>povjerljiva</strong>.</p>             <p>Ako Ombudsman ne može preuzeti rješavanje vaše pritužbe, bit ćete <strong>informirani o drugim tijelima</strong> koja bi vam mogla pomoći.</p>"
+            ],
+            "hu": [
+                "<p>Az európai ombudsman kivizsgálja az uniós intézmények és szervek tevékenysége során előforduló <strong>hivatali visszásságok</strong> kapcsán benyújtott <strong>panaszokat</strong>. Az európai ombudsmanhoz az uniós országok <strong>állampolgárai</strong> és <strong>lakosai</strong>, illetve <strong>az EU területén székhellyel rendelkező</strong>                <a href=\"http://www.ombudsman.europa.eu/hu/atyourservice/infosheet.faces\">vállalkozások és szervezetek</a> fordulhatnak panaszaikkal.</p>             <h2>Mi az ombudsman feladata?</h2>             <p>Az ombudsman a hivatali visszásságokat tárja fel az uniós intézményekben, szervekben, hivatalokban és ügynökségeknél. Hivatali visszásságnak minősül többek között:</p>             <ul>                <li>a méltánytalanság,</li>                <li>a diszkrimináció,</li>                <li>a hatáskörrel való visszaélés,</li>                <li>a tájékoztatás elmulasztása vagy megtagadása,</li>                <li>az indokolatlan késedelem,</li>                <li>az eljárási rend figyelmen kívül hagyása.</li>             </ul>             <h2>Az ombudsman megválasztása</h2>             <p>Minden újonnan hivatalba lépő <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_hu.htm\"                   lang=\"hu\">Európai Parlament</a> egyik első feladata az európai ombudsman megválasztása. Az ombudsman megbízatása <strong>5 évre</strong> szól és megújítható.</p>             <h2>Hogyan végzi munkáját az ombudsman?</h2>             <p>Az ombudsman hivatala vagy maga <strong>kezdeményez vizsgálatot</strong>, vagy pedig a hozzá benyújtott panaszokkal kapcsolatban jár el. Tevékenysége során <strong>függetlenséget</strong> élvez, sem kormányoktól, sem szervezetektől nem fogad el utasítást. Évente egyszer <a href=\"http://www.ombudsman.europa.eu/hu/activities/annualreports.faces\">jelentésben</a> számol be tevékenységéről az Európai Parlamentnek.</p>             <p>Szerencsés esetben az ombudsman pusztán azáltal meg tudja oldani az Ön problémáját, hogy <strong>az érintett intézményt, szervet, hivatalt, illetve ügynökséget tájékoztatja</strong> az Ön kifogásairól. Ha így nem jár sikerrel, mindent megtesz annak érdekében, hogy <strong>békés úton rendezze az ügyet</strong>. Ha erre nincs mód, az ombudsman <strong>ajánlásokat</strong> fogalmazhat meg az érintett intézmény, szerv, hivatal, illetve ügynökség számára. Ha ajánlásait az érintett fél nem fogadja el, az ombudsman <strong>különjelentést</strong> nyújthat be az Európai Parlamentnek az ügyben. A Parlamentnek ezt követően meg kell tennie a szükséges lépéseket.</p>             <h2>Az ombudsman és Ön</h2>             <p>Ha Ön <strong>elégedetlen</strong> valamelyik uniós intézmény, szerv, hivatal vagy ügynökség munkájával, először az érintett féltől kell kérnie a helyzet orvoslását. Ha nem jár sikerrel, <a href=\"https://secure.ombudsman.europa.eu/hu/atyourservice/secured/complaintform.faces\">panaszt tehet az európai ombudsmannál</a>.</p>             <p>Panaszát <strong>két éven belül</strong> be kell nyújtania azt követően, hogy tudomást szerez az adott problémáról. Beadványában feltétlenül tüntesse fel <strong>személyazonosító adatait</strong>, továbbá azt, hogy <strong>melyik intézmény, szerv, hivatal, illetve ügynökség ellen</strong> és pontosan <strong>milyen ügyben</strong> kíván panaszt tenni. Kérheti, hogy panaszát <strong>bizalmasan</strong> kezeljék.</p>             <p>Ha az ombudsman nem foglalkozhat az Ön panaszával, <strong>tájékoztatja Önt arról, melyik másik szerv tud esetleg segítséget adni</strong> a helyzet megoldásához.</p>"
+            ],
+            "it": [
+                "<p>Il Mediatore europeo indaga sulle <strong>denunce </strong>relative a casi di <strong> cattiva amministrazione </strong>da parte delle istituzioni o di altri organi dell'UE. Le denunce possono essere presentate da <strong>cittadini</strong> o <strong>residenti</strong> dei paesi dell'UE o da <a href=\"http://www.ombudsman.europa.eu/it/atyourservice/infosheet.faces\">associazioni o aziende</a>                <strong> con sede nell'UE</strong>.</p>             <h2>Cosa fa il Mediatore?</h2>             <p>Il Mediatore indaga sui diversi tipi di cattiva amministrazione, ad esempio:</p>             <ul>                <li>comportamento sleale</li>                <li>discriminazione</li>                <li>abuso di potere</li>                <li>mancanza di informazioni o rifiuto di fornirle</li>                <li>ritardi ingiustificati</li>                <li>irregolarità amministrative.</li>             </ul>             <h2>Come viene scelto il Mediatore?</h2>             <p>Il <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_it.htm\"                   lang=\"it\">Parlamento europeo</a> elegge il Mediatore per un <strong>mandato rinnovabile di cinque anni</strong>. È uno dei primi compiti che svolge nella legislatura dopo essere stato eletto.</p>             <h2>Come lavora il Mediatore?</h2>             <p>L'ufficio del Mediatore <strong>avvia le indagini</strong> dopo aver ricevuto una denuncia o di propria iniziativa. È un organo <strong>imparziale</strong>, e pertanto non prende ordini da nessun governo o organizzazione di altro tipo. Presenta una <a href=\"http://www.ombudsman.europa.eu/it/activities/annualreports.faces\">relazione annuale sulle sue attività</a> al Parlamento europeo.</p>             <p>Il Mediatore può risolvere un determinato problema anche solo <strong>informandone l'istituzione</strong> interessata. Qualora non bastasse, si cerca in tutti i modi di pervenire a una <strong>soluzione amichevole</strong> che corregga la situazione. In caso di esito negativo, il Mediatore può formulare delle <strong>raccomandazioni</strong> all'istituzione interessata. Se non vengono accolte, può inviare una <strong>relazione speciale</strong> al Parlamento europeo affinché prenda le misure opportune.</p>             <h2>Il Mediatore e i cittadini</h2>             <p>Chi è <strong>scontento</strong> di un'istituzione, di un organo, di un ufficio o di un'agenzia dell'UE, dovrebbe innanzitutto dare ad essi la possibilità di correggere la situazione. Se ciò non avviene, si può <a href=\"https://secure.ombudsman.europa.eu/it/atyourservice/secured/complaintform.faces\">presentare denuncia al Mediatore</a>.</p>             <p>La denuncia deve essere presentata <strong>entro due anni</strong>dalla data in cui si è avuta conoscenza del problema. Occorre assicurarsi di indicare chiaramente la propria <strong>identità</strong>, <strong>l'istituzione o organo di cui ci si lamenta</strong> e il <strong>motivo</strong>. Su richiesta, la denuncia resta <strong>anonima</strong>.</p>             <p>Se il Mediatore non è in grado di gestire la vostra denuncia, <strong>riceverete informazioni su altri organi</strong> che potrebbero essere di aiuto.</p>"
+            ],
+            "lt": [
+                "<p>Europos ombudsmenas tiria <strong>skundus</strong> dėl <strong>netinkamo</strong> ES institucijų ir įstaigų <strong>administravimo</strong>. Skundus gali teikti ES šalių <strong>piliečiai</strong>, <strong>gyventojai</strong> arba <strong>ES įsisteigusios</strong>                <a href=\"http://www.ombudsman.europa.eu/lt/atyourservice/infosheet.faces\">asociacijos arba įmonės</a>.</p>             <h2>Ombudsmeno veikla</h2>             <p>Ombudsmenas tiria įvairius prasto administravimo atvejus. Keletas pavyzdžių:</p>             <ul>                <li>nesąžiningas elgesys,</li>                <li>diskriminacija,</li>                <li>piktnaudžiavimas galiomis,</li>                <li>informacijos stoka arba atsisakymas ją pateikti,</li>                <li>nepateisinamas vilkinimas,</li>                <li>nustatytos tvarkos nesilaikymas.</li>             </ul>             <h2>Kaip ombudsmenas išrenkamas?</h2>             <p>                <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_lt.htm\"                   lang=\"lt\">Europos Parlamentas</a> išrenka ombudsmeną <strong>penkerių metų kadencijai</strong>, kuri gali būti pratęsta. Tai viena pirmųjų tik ką išrinkto Parlamento užduočių.</p>             <h2>Kaip ombudsmenas dirba?</h2>             <p>Ombudsmeno tarnyba <strong>pradeda tyrimą</strong> gavusi skundą arba savo iniciatyva. Ši tarnyba <strong>nepriklausoma</strong>, ji nevykdo jokios vyriausybės ar organizacijos nurodymų. Ji rengia <a href=\"http://www.ombudsman.europa.eu/lt/activities/annualreports.faces\">metinę veiklos ataskaitą</a> Europos Parlamentui.</p>             <p>Gali būti, kad ombudsmenui pavyks išspręsti jūsų problemą tiesiog <strong>informavus atitinkamą instituciją</strong>. Jei to nepakanka, ombudsmenas bando rasti <strong>taikų sprendimą</strong>, kaip ištaisyti padėtį. Jeigu tai nepavyksta, ombudsmenas gali pateikti institucijai <strong>rekomendacijas</strong>. Jei pastaroji institucija jo rekomendacijų nepaiso, ombudsmenas gali parengti <strong>specialų pranešimą</strong> Europos Parlamentui, kad šis galėtų imtis reikiamų veiksmų.</p>             <h2>Ombudsmenas ir jūs</h2>             <p>Jei jūs <strong>nepatenkintas</strong> ES institucijos, agentūros ar kitos įstaigos veiksmais, pirmiausia turėtumėte jai suteikti galimybę ištaisyti padėtį. Jei tokiu būdu nieko nepavyksta pasiekti, galite <a href=\"https://secure.ombudsman.europa.eu/lt/atyourservice/secured/complaintform.faces\">pasiskųsti ombudsmenui</a>.</p>             <p>Savo skundą turite pateikti <strong>per dvejus metus</strong> nuo tos dienos, kai pastebėjote problemą. Aiškiai nurodykite, <strong>kas esate</strong>, <strong>dėl kurios institucijos arba įstaigos teikiate skundą</strong> ir <strong>kodėl</strong>. Galite paprašyti, kad jūsų <strong>tapatybė nebūtų atskleista</strong>.</p>             <p>Jei ombudsmenas negali nagrinėti jūsų skundo, <strong>būsite informuotas, kokios kitos įstaigos</strong> gali jums padėti.</p>"
+            ],
+            "lv": [
+                "<p>Eiropas Ombuds izmeklē <strong>sūdzības</strong> par <strong>pārkāpumiem</strong>, ko izdarījušas ES iestādes un struktūras. Tās var iesniegt ES dalībvalstu <strong>pilsoņi</strong> un <strong>iedzīvotāji</strong>, kā arī <strong>Eiropas Savienībā reģistrētas</strong>                <a href=\"http://www.ombudsman.europa.eu/lv/atyourservice/infosheet.faces\">apvienības un uzņēmumi</a>.</p>             <h2>Ko tieši dara Eiropas Ombuds?</h2>             <p>Ombuds izmeklē sūdzības par dažādiem iespējamiem pārkāpumiem, piemēram:</p>             <ul>                <li>negodīga rīcība,</li>                <li>diskriminācija,</li>                <li>pilnvaru ļaunprātīga izmantošana,</li>                <li>informācijas trūkums vai atteikšanās to sniegt,</li>                <li>nepamatota kavēšanās,</li>                <li>nepareizas procedūras.</li>             </ul>             <h2>Kā izvēlas ombudu?</h2>             <p>                <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_lv.htm\"                   lang=\"lv\">Eiropas Parlaments</a> ievēl ombudu uz atjaunojamu <strong>piecu gadu termiņu</strong>. Tas ir viens no pirmajiem Parlamenta uzdevumiem drīz pēc vēlēšanām.</p>             <h2>Kā Eiropas Ombuds strādā?</h2>             <p>Ombuda birojs <strong>sāk izmeklēšanu</strong> pēc savas iniciatīvas vai tad, ja saņemta sūdzība. Tā ir <strong>neitrāla</strong> iestāde, kas nepieņem norādījumus ne no vienas valdības vai organizācijas. Tā iesniedz <a href=\"http://www.ombudsman.europa.eu/lv/activities/annualreports.faces\">darbības gada pārskatu</a> Eiropas Parlamentam.</p>             <p>Iespējams, ka Ombuds spēj atrisināt jūsu problēmu, vienkārši <strong>informējot attiecīgo iestādi</strong>. Ja ar to nepietiek, Ombuds dara visu iespējamo, lai panāktu <strong>miermīlīgu atrisinājumu</strong>, kas novērš problēmu. Ja tas neizdodas, Ombuds var sniegt <strong>ieteikumus</strong> konkrētajai iestādei. Ja iestāde tos neņem vērā, Ombuds var sagatavot <strong>īpašu ziņojumu</strong> Eiropas Parlamentam, kuram tad ir pienācīgi jārīkojas.</p>             <h2>Ko Eiropas Ombuds var darīt jūsu labā?</h2>             <p>Ja esat <strong>neapmierināts</strong> ar kādas ES iestādes, struktūras, biroja vai aģentūras rīcību, jums vispirms vajadzētu dot šīm struktūrām iespēju izlabot pieļauto kļūdu. Ja šī pieeja neattaisnojas, varat <a href=\"https://secure.ombudsman.europa.eu/lv/atyourservice/secured/complaintform.faces\">iesniegt sūdzību Eiropas Ombudam</a>.</p>             <p>Sūdzība Ombudam ir jāiesniedz <strong>divu gadu laikā</strong> no datuma, kurā jūs konstatējāt attiecīgo administratīvo kļūmi. Jums skaidri jānorāda, <strong>kas</strong> jūs esat, <strong>par kādu iestādi vai struktūru</strong> un <strong>kāpēc</strong> vēlaties iesniegt sūdzību. Varat arī lūgt, lai tiktu ievērota <strong>konfidencialitāte</strong> attiecībā uz sūdzības iesniedzēju.</p>             <p>Ja Ombuds nevar atrisināt jūsu problēmu, jūs tiksit <strong>informēts par to, kuras citas iestādes</strong> varētu jums palīdzēt.</p>"
+            ],
+            "mt": [
+                "<p>L-Ombudsman Ewropew jinvestiga l-<strong>ilmenti</strong> dwar <strong>amministrzzjoni ħażina</strong> mill-istituzzjonijiet u l-korpi tal-UE. Dawn jistgħu jitressqu miċ-<strong>ċittadini</strong> jew mir-<strong>residenti</strong> tal-pajjiżi tal-UE jew minn <a href=\"http://www.ombudsman.europa.eu/mt/atyourservice/infosheet.faces\">assoċjazzjonijiet jew negozji</a>                <strong>bbażati fl-UE</strong>.</p>             <h2>X’jagħmel l-Ombudsman?</h2>             <p>L-Ombudsman jinvestiga tipi differenti ta’ amministrazzjoni ħażina, pereżempju:</p>             <ul>                <li>imġiba inġusta</li>                <li>diskriminazzjoni</li>                <li>abbuż ta’ poter</li>                <li>nuqqas ta’ informazzjoni jew rifjut li tingħata informazzjoni</li>                <li>dewmien mhux meħtieġ</li>                <li>proċeduri żbaljati.</li>             </ul>             <h2>Kif jintgħażel l-Ombudsman?</h2>             <p>Il-<a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_mt.htm\"                   lang=\"mt\">Parlament Ewropew</a> jeleġġi l-Ombudsman għal <strong>terminu ta’ 5 snin</strong> li jista' jiġġedded. Dan huwa wieħed mill-ewwel kompiti tiegħu meta jkun għadu kif ġie elett.</p>             <h2>Kif jaħdem l-Ombudsman?</h2>             <p>L-uffiċċju tal-Ombudsman <strong>jiftaħ l-investigazzjonijiet</strong> wara li jirċievi lment jew b’inizjattiva tiegħu. Korp <strong>imparzjali</strong>, ma jieħu ordnijiet minn l-ebda gvern jew organizzazzjoni oħra. Jipproduċi <a href=\"http://www.ombudsman.europa.eu/mt/activities/annualreports.faces\">rapport ta' attività annwali</a> għall-Parlament Ewropew.</p>             <p>L-Ombudsman jista' jsolvi wkoll il-problema tiegħek sempliċiment billi <strong>jinforma l-istituzzjoni</strong> kkonċernata. Jekk ikun hemm bżonn aktar minn dan, isir kull sforz biex tintlaħaq <strong>soluzzjoni amikevoli</strong> li ssolvi l-kwistjoni. Jekk dan ma jirnexxix, l-Ombudsman jista’ jagħmel <strong>rakkomandazzjonijiet</strong> lill-istituzzjoni. Jekk dawn ma jiġux aċċettati, l-Ombudsman jista' jfassal <strong>rapport speċjali</strong> lill-Parlament Ewropew, li mbagħad għandu jieħu azzjoni adegwata.</p>             <h2>L-Ombudsman u int</h2>             <p>Jekk <strong>m’intix sodisfatt</strong> b’istituzzjoni, korp, uffiċċju jew aġenzija tal-UE, għandek l-ewwel tagħtiha l-opportunità li tikkoreġi s-sitwazzjoni. Jekk dan ma jaħdimx, tista’ <a href=\"https://secure.ombudsman.europa.eu/mt/atyourservice/secured/complaintform.faces\">tilmenta quddiem l-Ombudsman</a>.</p>             <p>Għandek tagħmel l-ilment tiegħek <strong>fi żmien sentejn</strong> mid-data meta sirt konxju mill-problema. Ara li tgħid <strong>min</strong> inti, <strong>dwar liema istituzzjoni jew korp qed tilmenta</strong>, u <strong>għalfejn</strong>. Tista’ titlob li l-ilment jibqa’ <strong>kunfidenzjali</strong>.</p>             <p>Jekk l-Ombudsman ma jkunx jista' jittratta l-ilment tiegħek, inti <strong>tiġi informat b'korpi oħrajn</strong> li jkunu jistgħu jgħinuk.</p>"
+            ],
+            "nl": [
+                "<p>De Europese Ombudsman onderzoekt <strong>klachten</strong> over <strong>onbehoorlijk bestuur</strong> door EU-instellingen en andere EU-instanties. De klachten kunnen afkomstig zijn van <strong>onderdanen</strong> of <strong>inwoners</strong> van de EU-landen of van <strong>in de EU gevestigde</strong>                <a href=\"http://www.ombudsman.europa.eu/nl/atyourservice/infosheet.faces\">verenigingen of bedrijven</a>.</p>             <h2>Wat doet de Ombudsman?</h2>             <p>De Ombudsman onderzoekt verschillende vormen van onbehoorlijk bestuur, zoals:</p>             <ul>                <li>onrechtmatig gedrag</li>                <li>discriminatie</li>                <li>machtsmisbruik</li>                <li>nalaten of weigeren informatie te geven</li>                <li>te lange wachttijden</li>                <li>onjuiste procedures</li>             </ul>             <h2>Hoe wordt de Ombudsman gekozen?</h2>             <p>Het <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_nl.htm\"                   lang=\"nl\">Europees Parlement</a> kiest de Ombudsman voor een hernieuwbare termijn van <strong>vijf jaar</strong>. Dit is een van de eerste taken van het nieuwgekozen Parlement.</p>             <h2>Wat doet de Ombudsman?</h2>             <p>De ombudsman <strong>stelt een onderzoek in</strong> naar aanleiding van een klacht of uit eigen beweging. Hij of zij is volledig <strong>onafhankelijk</strong> en neemt geen instructies aan van welke regering of organisatie dan ook. De Ombudsman brengt elk jaar <a href=\"http://www.ombudsman.europa.eu/nl/activities/annualreports.faces\">verslag</a> uit over zijn of haar activiteiten uit aan het Europees Parlement.</p>             <p>Soms kan de Ombudsman uw probleem oplossen door gewoon <strong>contact op te nemen met de betrokken instelling</strong>. Als dat niet volstaat, dan wordt er alles aan gedaan om tot een <strong>minnelijke schikking</strong> te komen. Mocht ook dit niet lukken, dan kan de Ombudsman de instelling <strong>aanbevelingen</strong> doen. Gaat de instelling daar niet mee akkoord, dan kan de Ombudsman een <strong>speciaal verslag</strong> opstellen voor het Europees Parlement, dat dan de nodige maatregelen moet nemen.</p>             <h2>De Ombudsman en u</h2>             <p>Als u een <strong>klacht</strong> heeft over een EU-instelling of -orgaan, moet u die instantie eerst de kans geven diens fout te herstellen. Pas dan kunt u <a href=\"https://secure.ombudsman.europa.eu/nl/atyourservice/secured/complaintform.faces\">een klacht indienen bij de Europese ombudsman</a>.</p>             <p>U heeft daarvoor <strong>twee jaar</strong> de tijd Vertel wel duidelijk <strong>wie</strong> u bent, over <strong>welke instelling of welk orgaan</strong> u klaagt en <strong>waarom</strong>. Op verzoek wordt uw klacht <strong>vertrouwelijk</strong> behandeld.</p>             <p>Als de Ombudsman u niet kan helpen, wordt u <strong>doorverwezen</strong> naar instanties die dat misschien wel kunnen.</p>"
+            ],
+            "pl": [
+                "<p>Europejski Rzecznik Praw Obywatelskich bada <strong>skargi </strong>dotyczące przypadków <strong>niewłaściwego administrowania </strong>w instytucjach i organach UE. Skargi mogą składać <strong>obywatele UE</strong> lub <strong>osoby zamieszkałe na terytorium UE</strong> oraz <a href=\"http://www.ombudsman.europa.eu/pl/atyourservice/infosheet.faces\">przedsiębiorstwa i instytucje</a>                <strong>mające siedzibę w UE</strong>.</p>             <h2>Czym zajmuje się Rzecznik Praw Obywatelskich?</h2>             <p>Rzecznik rozpatruje skargi dotyczące różnych przypadków niewłaściwego administrowania, m.in.:</p>             <ul>                <li>nieuczciwe postępowanie</li>                <li>dyskryminacja</li>                <li>nadużywanie uprawnień</li>                <li>brak lub odmowa udzielenia informacji</li>                <li>nieuzasadniona zwłoka</li>                <li>nieprawidłowe procedury.</li>             </ul>             <h2>Sposób powoływania</h2>             <p>Europejski Rzecznik Praw Obywatelskich wybierany jest przez <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_pl.htm\"                   lang=\"pl\">Parlament Europejski </a>na odnawialną <strong>pięcioletnią kadencję</strong>. Jest to jedno z pierwszych zadań nowo wybranych posłów do PE.</p>             <h2>W jaki sposób pracuje Rzecznik Praw Obywatelskich?</h2>             <p>Rzecznik <strong>wszczyna dochodzenia</strong> na podstawie skarg lub z własnej inicjatywy. Jest całkowicie <strong>niezależny </strong>i nie przyjmuje poleceń od żadnego rządu ani żadnej organizacji. Co roku przedstawia Parlamentowi Europejskiemu <a href=\"http://www.ombudsman.europa.eu/pl/activities/annualreports.faces\">sprawozdanie z działalności</a>.</p>             <p>Często wystarczy, że Europejski Rzecznik Praw Obywatelskich <strong>poinformuje daną instytucję</strong> o złożonej skardze, by problem został rozwiązany. W przypadku gdy to nie wystarczy, Rzecznik będzie starał się znaleźć <strong>rozwiązanie polubowne</strong>, które naprawi zaistniałą sytuację. Jeżeli działania te nie przyniosą oczekiwanych rezultatów, Rzecznik może wystosować <strong>zalecenia </strong>do instytucji, której dotyczy skarga. Jeżeli instytucja ta nie przyjmuje jego zaleceń, Rzecznik może przedłożyć Parlamentowi Europejskiemu <strong>specjalne sprawozdanie</strong>, w wyniku którego Parlament będzie musiał podjąć niezbędne działania.</p>             <h2>To warto wiedzieć</h2>             <p>Każda osoba <strong>niezadowolona </strong>z działania instytucji, organu, urzędu lub agencji UE powinna najpierw zwrócić się do nich o naprawienie sytuacji. Jeżeli to nie poskutkuje, można złożyć <a href=\"https://secure.ombudsman.europa.eu/pl/atyourservice/secured/complaintform.faces\">skargę do Europejskiego Rzecznika Praw Obywatelskich</a>.</p>             <p>Skargę należy wnieść <strong>w ciągu dwóch lat </strong>od momentu, gdy skarżący dowie się o wystąpieniu danego problemu. Skarżący musi ujawnić swoją <strong>tożsamość </strong>oraz jednoznacznie wskazać, <strong>której instytucji lub którego organu skarga dotyczy</strong> i <strong>na czym polega problem</strong>. Można zażądać zachowania <strong>poufności </strong>skargi.</p>             <p>Jeżeli rozpatrzenie skargi nie leży w kompetencjach Rzecznika, skarżący otrzyma <strong>informacje o właściwych organach</strong>, które mogą mu pomóc.</p>"
+            ],
+            "pt": [
+                "<p>O Provedor de Justiça Europeu investiga <strong>queixas</strong> relativas a casos de <strong>má administração</strong> por parte das instituições ou outros organismos da UE. As queixas podem ser apresentadas por <strong>nacionais</strong> ou <strong>residentes</strong> dos países da UE ou por <a href=\"http://www.ombudsman.europa.eu/pt/atyourservice/infosheet.faces\">associações ou empresas</a>                <strong>estabelecidas na UE</strong>.</p>             <h2>O que faz o Provedor de Justiça?</h2>             <p>O Provedor de Justiça investiga diferentes tipos de casos de má administração, por exemplo:</p>             <ul>                <li>comportamento abusivo</li>                <li>discriminação</li>                <li>abuso de poder</li>                <li>omissão de informação ou recusa de prestar informações</li>                <li>atrasos desnecessários</li>                <li>não respeito dos procedimentos</li>             </ul>             <h2>Como é escolhido o Provedor de Justiça?</h2>             <p>O <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_pt.htm\"                   lang=\"pt\">Parlamento Europeu</a> elege o Provedor de Justiça por um período de <strong>cinco anos, renovável</strong>. Trata-se de uma das suas primeiras tarefas no início de cada mandato.</p>             <h2>Como funciona o gabinete do Provedor de Justiça?</h2>             <p>O gabinete do Provedor de Justiça, que é <strong>imparcial</strong> e não recebe ordens de qualquer governo ou entidade, pode <strong>dar início a um inquérito</strong> na sequência de uma queixa ou por sua própria iniciativa. O Provedor de Justiça apresenta um <a href=\"http://www.ombudsman.europa.eu/pt/activities/annualreports.faces\">relatório de atividade anual</a> ao Parlamento Europeu.</p>             <p>O Provedor de Justiça poderá conseguir resolver o seu problema <strong>informando simplesmente a instituição</strong> visada. Se forem necessárias mais medidas, procurará encontrar uma <strong>solução amigável</strong> para o problema. Se tal não for suficiente, poderá emitir <strong>recomendações</strong> dirigidas à instituição em causa. Se esta não aceitar as suas recomendações, o Provedor de Justiça poderá elaborar um <strong>relatório especial</strong> dirigido ao Parlamento Europeu, para que este tome as medidas políticas necessárias.</p>             <h2>O Provedor de Justiça Europeu e o cidadão</h2>             <p>Se <strong>não estiver satisfeito</strong> com uma instituição, órgão, serviço ou agência da UE, deve começar por lhe dar uma oportunidade para corrigir a situação. No caso de esta diligência falhar, pode <a href=\"https://secure.ombudsman.europa.eu/pt/atyourservice/secured/complaintform.faces\">apresentar uma queixa ao Provedor de Justiça Europeu</a>.</p>             <p>A queixa deve ser apresentada no <strong>prazo de dois anos</strong> a contar da data em que tomou conhecimento do problema. Ao apresentar uma queixa, deverá indicar claramente a sua <strong>identidade</strong>, a <strong>instituição ou órgão objeto da queixa</strong> e descrever o <strong>problema</strong>. Se quiser, pode solicitar que a queixa seja <strong>tratada confidencialmente</strong>.</p>             <p>Caso não possa tratar a sua queixa, o Provedor de Justiça <strong>informá-lo sobre outras entidades</strong> que o poderão ajudar.</p>"
+            ],
+            "ro": [
+                "<p>Ombudsmanul European investighează <strong>plângerile</strong> cu privire la cazuri de <strong>administrare defectuoasă</strong> de către instituțiile și organismele UE. Plângerile pot fi înaintate de <strong>cetățeni</strong> ai statelor membre sau de <strong>rezidenți</strong> pe teritoriul Uniunii ori de <a href=\"http://www.ombudsman.europa.eu/ro/atyourservice/infosheet.faces\">asociații și întreprinderi</a> cu <strong>sediul în UE</strong>.</p>             <h2>Ce face Ombudsmanul?</h2>             <p>Ombudsmanul investighează diferite tipuri de administrare defectuoasă, de exemplu:</p>             <ul>                <li>comportament abuziv</li>                <li>discriminare</li>                <li>abuz de putere</li>                <li>lipsa de informații sau refuzul de a furniza informații</li>                <li>întârzieri nejustificate</li>                <li>proceduri incorecte.</li>             </ul>             <h2>Cum este ales Ombudsmanul?</h2>             <p>Ombudsmanul este numit de <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_ro.htm\"                   lang=\"ro\">Parlamentul European</a> pentru un mandat de 5 ani care poate fi reînnoit. Aceasta este una dintre primele sarcini care le revin deputaților proaspăt aleși.</p>             <h2>Cum funcționează Ombudsmanul?</h2>             <p>Biroul Ombudsmanului <strong>începe investigații</strong> după primirea unei plângeri sau din proprie inițiativă. Ca organism <strong>imparțial</strong>, nu primește instrucțiuni din partea vreunui guvern sau a vreunei alte organizații. În fiecare an, îi prezintă Parlamentului European un <a href=\"http://www.ombudsman.europa.eu/ro/activities/annualreports.faces\">raport de activitate</a>.</p>             <p>Uneori, este posibil ca Ombudsmanul să vă soluționeze problema <strong>informând, pur și simplu, instituția</strong> vizată. Dacă este nevoie de mai mult, se fac toate eforturile necesare pentru găsirea unei <strong>soluții amiabile</strong>. În caz de eșec, Ombudsmanul poate adresa <strong>recomandări</strong> instituției în cauză. Dacă acestea nu sunt acceptate, Ombudsmanul poate redacta un <strong>raport special</strong> pe care îl înaintează Parlamentului, iar acesta ia măsurile care se impun.</p>             <h2>Ombudsmanul și cetățenii</h2>             <p>Dacă sunteți <strong>nemulțumit</strong> de activitatea desfășurată de o instituție, un organism, un birou sau o agenție a UE, trebuie, mai întâi, să-i dați posibilitatea de a remedia situația. Dacă această abordare nu dă rezultate, puteți trimite o <a href=\"https://secure.ombudsman.europa.eu/ro/atyourservice/secured/complaintform.faces\">plângere Ombudsmanului European</a>.</p>             <p>Este necesar să faceți acest lucru în <strong>termen de doi ani</strong> de la data la care ați constatat situația de administrare defectuoasă. Precizați în plângerea dumneavoastră <strong>cine</strong> sunteți, care este <strong>instituția sau organismul vizat</strong> și <strong>de ce</strong> ați decis să faceți acest demers. Puteți solicita ca plângerea să rămână <strong>anonimă</strong>.</p>             <p>Dacă nu se poate ocupa de cazul dumneavoastră, Ombudsmanul <strong>vă va indica alte organisme</strong> care ar putea să vă ajute.</p>"
+            ],
+            "sk": [
+                "<p>Európsky ombudsman prešetruje <strong>sťažnosti </strong>týkajúce sa <strong>nesprávneho administratívneho postupu</strong> zo strany inštitúcií a iných orgánov EÚ. Sťažnosti môžu podať <strong>jednotliví občania</strong>, <strong>osoby s pobytom</strong> v krajinách EÚ alebo <a href=\"http://www.ombudsman.europa.eu/sk/atyourservice/infosheet.faces\">združenia či podniky</a> so <strong>sídlom v EÚ</strong>.</p>             <h2>Čo robí ombudsman?</h2>             <p>Ombudsman vyšetruje rôzne druhy nesprávneho administratívneho postupu, napríklad:</p>             <ul>                <li>nekalé konanie,</li>                <li>diskrimináciu,</li>                <li>zneužívanie právomoci,</li>                <li>nedostatočné informovanie alebo neposkytnutie informácií,</li>                <li>zbytočné prieťahy,</li>                <li>nesprávne postupy.</li>             </ul>             <h2>Ako sa vyberá ombudsman?</h2>             <p>                <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_sk.htm\"                   lang=\"sk\">Európsky parlament</a> volí ombudsmana na obnoviteľné <strong>obdobie piatich rokov</strong>. Toto je jedna z prvých úloh každého nového Parlamentu.</p>             <h2>Ako pracuje ombudsman?</h2>             <p>Ombudsman <strong>uskutočňuje vyšetrovanie</strong> buď na základe sťažnosti alebo z vlastnej iniciatívy. Ide o <strong>nestranný</strong> orgán, ktorý nepodlieha nijakej vláde ani inej organizácii. Vypracúva <a href=\"http://www.ombudsman.europa.eu/sk/activities/annualreports.faces\">výročnú správu o činnosti</a> pre Európsky parlament.</p>             <p>Ombudsman môže vyriešiť váš problém jednoducho tým, že <strong>informuje príslušnú inštitúciu</strong>. Ak sú potrebné ďalšie kroky, vynaloží nevyhnutné úsilie na dosiahnutie <strong>priateľského riešenia</strong>, ktoré pohne vec správnym smerom. V prípade neúspešného výsledku tohto postupu môže ombudsman pripraviť <strong>odporúčania</strong> pre príslušnú inštitúciu. Ak ich táto inštitúcia neprijme, ombudsman môže vypracovať <strong>osobitnú správu</strong> určenú Európskemu parlamentu, ktorý musí prijať primerané opatrenia.</p>             <h2>Ombudsman a vy</h2>             <p>Ak <strong>nie ste spokojní</strong> s administratívnym postupom inštitúcie, orgánu, úradu alebo agentúry EÚ, v prvom rade by ste sa mali obrátiť na predmetný orgán a požiadať ho o nápravu situácie. Ak toto riešenie zlyhá, môžete <a href=\"https://secure.ombudsman.europa.eu/sk/atyourservice/secured/complaintform.faces\">sa so sťažnosťou obrátiť na európskeho ombudsmana</a>.</p>             <p>Svoju sťažnosť musíte podať <strong>do dvoch rokov</strong> odo dňa zistenia nesprávneho úradného postupu. Nezabudnite uviesť <strong>kto</strong> ste, <strong>na ktorú inštitúciu alebo orgán podávate sťažnosť</strong> a <strong>prečo</strong>. Môžete žiadať, aby sťažnosť ostala <strong>dôverná</strong>.</p>             <p>V prípade, že sa ombudsman nemôže zaoberať vašou sťažnosťou, <strong>budete informovaní o iných orgánoch</strong>, ktoré by vám mohli pomôcť.</p>"
+            ],
+            "sl": [
+                "<p>Evropski varuh človekovih pravic preiskuje <strong>pritožbe</strong> v zvezi z <strong>nepravilnostmi</strong> v institucijah in drugih organih EU. Pritožbo lahko vložijo <strong>državljani</strong> ali <strong>prebivalci</strong> držav članic EU ter <a href=\"http://www.ombudsman.europa.eu/sl/atyourservice/infosheet.faces\">organizacije in podjetja</a>                <strong>s sedežem v EU</strong>.</p>             <h2>Delo varuha človekovih pravic</h2>             <p>Evropski varuh človekovih pravic obravnava različne kršitve, denimo:</p>             <ul>                <li>nepravično obravnavo</li>                <li>diskriminacijo</li>                <li>zlorabo pooblastil</li>                <li>pomanjkanje informacij ali zavrnitev dostopa do informacij</li>                <li>neupravičeno zavlačevanje</li>                <li>nepravilne postopke</li>             </ul>             <h2>Postopek izbire</h2>             <p>                <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_sl.htm\"                   lang=\"sl\">Evropski parlament</a> izvoli varuha človekovih pravic za <strong>obdobje petih let</strong> z možnostjo ponovne izvolitve. To je ena od njegovih prvih nalog po koncu evropskih volitev.</p>             <h2>Delo evropskega varuha človekovih pravic</h2>             <p>Kabinet varuha človekovih pravic <strong>zadeve preiskuje</strong> na podlagi pritožbe ali na lastno pobudo. Deluje <strong>nepristransko</strong> in ne prejema navodil nobenega vladnega organa ali organizacije. Evropski varuh človekovih pravic vsako leto Evropskemu parlamentu predloži <a href=\"http://www.ombudsman.europa.eu/sl/activities/annualreports.faces\">poročilo o svojem delu</a>.</p>             <p>Varuh bo za razrešitev vaše težave morda samo <strong>obvestil zadevno institucijo</strong>. Če težave ni mogoče rešiti, bo za odpravo nepravilnosti skušal doseči <strong>sporazumno rešitev</strong>. Če tudi to ne uspe, lahko varuh človekovih pravic zadevni instituciji pošlje <strong>priporočila</strong>. Če institucija njegovih priporočil ne sprejme, varuh predloži <strong>posebno poročilo</strong> Evropskemu parlamentu, ki mora nato primerno politično ukrepati.</p>             <h2>Evropski varuh človekovih pravic in državljani</h2>             <p>Če <strong>niste zadovoljni</strong> z delom institucije, organa ali agencije EU, se najprej obrnite na pristojno institucijo ali organ in poskusite doseči odpravo nepravilnosti. Če to ne uspe, se lahko <a href=\"https://secure.ombudsman.europa.eu/sl/atyourservice/secured/complaintform.faces\">pritožite evropskemu varuhu človekovih pravic</a>.</p>             <p>Pritožbo morate vložiti v roku <strong>dveh let</strong> od trenutka, ko ste ugotovili nepravilnost. Jasno morate navesti <strong>svoje podatke</strong>, <strong>proti kateri instituciji ali organu želite vložiti pritožbo</strong> in <strong>razlog za pritožbo</strong>. Zaprosite lahko tudi za <strong>zaupnost</strong> pritožbe.</p>             <p>Če varuh človekovih pravic ne more obravnavati vaše pritožbe, vam bo <strong>svetoval, kateri drugi organ</strong> bi vam lahko pomagal.</p>"
+            ],
+            "sv": [
+                "<p>Europeiska ombudsmannen utreder <strong>klagomål</strong> om <strong>missförhållanden</strong> i EU:s institutioner och övriga organ. Alla <strong>EU-medborgare </strong>och <strong>personer som är bosatta i EU</strong>, samt <strong/>                <a href=\"http://www.ombudsman.europa.eu/sv/atyourservice/infosheet.faces\">organisationer och företag</a> kan framföra klagomål.</p>             <h2>Vad gör ombudsmannen?</h2>             <p>Ombudsmannen utreder administrativa missförhållanden, t.ex.</p>             <ul>                <li>orättvis behandling</li>                <li>diskriminering</li>                <li>maktmissbruk</li>                <li>brist på information eller vägran att lämna ut information</li>                <li>onödiga förseningar</li>                <li>inkorrekta förfaranden.</li>             </ul>             <h2>Hur utses ombudsmannen?</h2>             <p>                <a href=\"http://europa.eu/about-eu/institutions-bodies/european-parliament/index_sv.htm\"                   lang=\"sv\">Europaparlamentet</a> väljer ombudsman för en <strong>femårsperiod</strong> som kan förnyas. Det är en av parlamentets första uppgifter efter varje EU-val.</p>             <h2>Hur arbetar ombudsmannen?</h2>             <p>Ombudsmannen <strong>gör utredningar</strong> på eget initiativ eller efter att ha fått in klagomål. Ombudsmannen är <strong>opartisk</strong> och får inte ta emot instruktioner från någon regering eller organisation. En gång om året ska ombudsmannen lämna in en <a href=\"http://www.ombudsman.europa.eu/sv/activities/annualreports.faces\">verksamhetsrapport</a> till Europaparlamentet.</p>             <p>Ibland kan ombudsmannen lösa ett problem genom att helt enkelt <strong>informera institutionen</strong> i fråga. Annars kan ombudsmannen försöka hitta ett sätt för parterna att <strong>göra upp i godo</strong>. Om det misslyckas kan ombudsmannen ge institutionen <strong>rekommendationer</strong>. Om institutionen inte accepterar rekommendationerna kan ombudsmannen skriva en <strong>särskild rapport</strong> till Europaparlamentet som måste vidta nödvändiga åtgärder.</p>             <h2>Vad kan ombudsmannen göra för dig?</h2>             <p>Om du är <strong>missnöjd</strong> med någon av EU:s institutioner eller organ bör du först ge det chansen att ställa saker till rätta. Om det inte fungerar kan du klaga hos <a href=\"https://secure.ombudsman.europa.eu/sv/atyourservice/secured/complaintform.faces\">Europeiska ombudsmannen</a>.</p>             <p>Du måste lämna in ditt klagomål till ombudsmannen <strong>inom två år</strong> från det datum då problemet uppstod. Du måste tydligt ange <strong>vem</strong> du är, <strong>vilken institution eller organ som klagomålet gäller</strong> och <strong>vad problemet är</strong>. Du kan begära att klagomålet ska behandlas <strong>konfidentiellt</strong>.</p>             <p>Om ombudsmannen inte kan behandla ditt klagomål <strong>hänvisas du till andra organ</strong> som kanske kan hjälpa dig.</p>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_1c337305f2035a276c06ea6a98ed3a0b"
+            ]
+        },
+        "institution_type": {
+            "und": [
+                "institutions"
+            ]
+        },
+        "contact_details": {
+            "und": [
+                "080126248e0774a5"
+            ]
+        },
+        "left_sub_menu": {
+            "und": [
+                true
+            ]
+        },
+        "video_gallery_item": {
+            "und": [
+                "video_gallery_item_1c337305f2035a276c06ea6a98ed3a0b"
+            ]
+        }
+    }
+}

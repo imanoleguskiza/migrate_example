@@ -1,0 +1,47 @@
+{
+    "_id": "f634a9b0954063a2f3a31bb157d790f0",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "und",
+        "hr"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2013-01-31 18:23:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                33
+            ]
+        },
+        "parent": {
+            "und": [
+                "bd24ea227a39b440a2861491af5f056f"
+            ]
+        },
+        "level": {
+            "und": [
+                2
+            ]
+        },
+        "title": {
+            "und": [
+                "Legislation and case-law"
+            ],
+            "hr": [
+                "Pretraživanje zakonodavstva i sudske prakse"
+            ]
+        },
+        "link": {
+            "und": [
+                "Placeholderforsectionindexpage"
+            ],
+            "hr": [
+                "Placeholderforsectionindexpage"
+            ]
+        }
+    }
+}

@@ -1,0 +1,833 @@
+{
+    "_id": "e738c3640cb684d3856981745426e23c",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/countries/joining-eu/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Присъединяване към ЕС"
+            ],
+            "cs": [
+                "Nové členské státy EU"
+            ],
+            "da": [
+                "Optagelse i EU"
+            ],
+            "de": [
+                "Beitritt zur EU"
+            ],
+            "el": [
+                "Προσχώρηση στην ΕΕ"
+            ],
+            "en": [
+                "Joining the EU"
+            ],
+            "es": [
+                "Adhesión a la UE"
+            ],
+            "et": [
+                "Ühinemine ELiga"
+            ],
+            "fi": [
+                "EU:n jäseneksi liittyminen"
+            ],
+            "fr": [
+                "L'adhésion à l'UE"
+            ],
+            "ga": [
+                "Ag teacht leis an AE"
+            ],
+            "hr": [
+                "Pristupanje EU-u"
+            ],
+            "hu": [
+                "Csatlakozás az Európai Unióhoz"
+            ],
+            "it": [
+                "Adesione all'UE"
+            ],
+            "lt": [
+                "Stojimas į ES"
+            ],
+            "lv": [
+                "Pievienošanās Eiropas Savienībai"
+            ],
+            "mt": [
+                "Sħubija mal-UE"
+            ],
+            "nl": [
+                "Hoe wordt een land lid van de EU?"
+            ],
+            "pl": [
+                "Przystąpienie do UE"
+            ],
+            "pt": [
+                "Aderir à UE"
+            ],
+            "ro": [
+                "Aderarea la UE"
+            ],
+            "sk": [
+                "Pristúpenie k EÚ"
+            ],
+            "sl": [
+                "Pristop k EU"
+            ],
+            "sv": [
+                "Att bli medlem i EU"
+            ]
+        },
+        "category": {
+            "und": [
+                "33755c8"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "cs": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "da": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "de": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "el": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "en": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "es": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "et": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "fi": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "fr": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "ga": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "hr": [
+                "EUROPA/O-EU/HR"
+            ],
+            "hu": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "it": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "lt": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "lv": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "mt": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "nl": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "pl": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "pt": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "ro": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "sk": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "sl": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "sv": [
+                "EUROPA/ABOUT-EU/"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "de": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "el": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "et": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fi": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "it": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lv": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "mt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "nl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ro": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sk": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sv": [
+                "58-Document for general distribution (intended for the general public)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Обща информация за процедурата за присъединяване към ЕС"
+            ],
+            "cs": [
+                "Všeobecné informace o postupech při vstupu do EU"
+            ],
+            "da": [
+                "Generel information om proceduren for optagelse i EU"
+            ],
+            "de": [
+                "Allgemeine Informationen über das Verfahren des Beitritts zur EU"
+            ],
+            "el": [
+                "Γενικές πληροφορίες σχετικά με τη διαδικασία προσχώρησης στην ΕΕ"
+            ],
+            "en": [
+                "General information on the procedure for joining the EU"
+            ],
+            "es": [
+                "Información general sobre el procedimiento para ingresar en la UE"
+            ],
+            "et": [
+                "Üldine teave ELiga ühinemise menetluse kohta"
+            ],
+            "fi": [
+                "Yleistietoa menettelystä, jossa maa liittyy EU:n jäseneksi"
+            ],
+            "fr": [
+                "Informations générales sur la procédure d'adhésion à l'UE"
+            ],
+            "ga": [
+                "Eolas ginearálta ar an nós imeachta maidir le teacht leis an AE"
+            ],
+            "hr": [
+                "Opće informacije o postupku pristupanja EU-u"
+            ],
+            "hu": [
+                "Általános információk az EU-hoz történő csatlakozás folyamatáról"
+            ],
+            "it": [
+                "Informazioni generali sulla procedura di adesione all'UE"
+            ],
+            "lt": [
+                "Bendra informacija apie stojimo į ES procedūrą"
+            ],
+            "lv": [
+                "Vispārīga informācija par pievienošanās procedūru"
+            ],
+            "mt": [
+                "Tagħrif ġenerali dwar il-proċedura biex tissieħeb mal-UE"
+            ],
+            "nl": [
+                "Algemene informatie over de procedure voor toetreding tot de EU"
+            ],
+            "pl": [
+                "Informacje ogólne na temat procesu przystąpienia do UE"
+            ],
+            "pt": [
+                "Informações gerais sobre o processo de adesão à UE"
+            ],
+            "ro": [
+                "Informaţii generale despre procedura de aderare la UE"
+            ],
+            "sk": [
+                "Všeobecné informácie o pristúpení k EÚ"
+            ],
+            "sl": [
+                "Splošne informacije o postopku za pristop k EU"
+            ],
+            "sv": [
+                "Allmän information om hur ett land blir medlem i EU"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "ЕС",
+                "Европейски съюз",
+                "държава-членка",
+                "разширяване",
+                "присъединяване",
+                "страни кандидатки",
+                "членство",
+                "кандидатура",
+                "закон",
+                "законодателство"
+            ],
+            "cs": [
+                "EU",
+                "Evropská unie",
+                "členský stát",
+                "rozšíření",
+                "vstup",
+                "kandidátská země",
+                "členství",
+                "žádost",
+                "právní předpisy"
+            ],
+            "da": [
+                "EU",
+                "Den Europæiske Union",
+                "Medlemsstat",
+                "udvidelse",
+                "tiltrædelse",
+                "kandidatland, ansøgerland",
+                "medlemskab",
+                "anvendelse, gennemførelse",
+                "ret"
+            ],
+            "de": [
+                "EU",
+                "Europäische Union",
+                "Mitgliedstaat",
+                "Erweiterung",
+                "Beitritt",
+                "Bewerberland, Kandidatenland, Beitrittsland",
+                "Mitgliedschaft",
+                "Anwendung",
+                "Recht"
+            ],
+            "el": [
+                "ΕΕ",
+                "Ευρωπαϊκή Ένωση",
+                "κράτος μέλος",
+                "διεύρυνση",
+                "προσχώρηση",
+                "υποψήφια χώρα",
+                "ιδιότητα του μέλους",
+                "αίτηση",
+                "νόμος, δίκαιο"
+            ],
+            "en": [
+                "EU",
+                "European Union",
+                "Member State",
+                "enlargement",
+                "accession",
+                "candidate country",
+                "membership",
+                "application",
+                "law"
+            ],
+            "es": [
+                "UE",
+                "Unión Europea",
+                "Estado miembro",
+                "ampliación",
+                "adhesión",
+                "país candidato",
+                "pertenencia a la UE",
+                "solicitud",
+                "legislación"
+            ],
+            "et": [
+                "EL",
+                "Euroopa Liit",
+                "liikmesriik",
+                "laienemine",
+                "ühinemine",
+                "kandidaatriik",
+                "liikmesus",
+                "taotlus",
+                "seadus"
+            ],
+            "fi": [
+                "EU",
+                "Euroopan unioni",
+                "jäsenvaltio",
+                "laajentuminen",
+                "EU:hun liittyminen",
+                "ehdokasmaa",
+                "jäsenyys",
+                "soveltaminen",
+                "laki"
+            ],
+            "fr": [
+                "UE",
+                "Union européenne",
+                "État membre",
+                "élargissement",
+                "adhésion, adhérer",
+                "pays candidats",
+                "membre",
+                "demande, candidature",
+                "droit, législation"
+            ],
+            "ga": [
+                "AE",
+                "An tAontas Eorpach",
+                "Ballstát",
+                "méadú",
+                "aontachas",
+                "tír is iarrthóir",
+                "ballraíocht",
+                "iarratas",
+                "dlí"
+            ],
+            "hr": [
+                "EU",
+                "Europska unija",
+                "Država članica",
+                "proširenje",
+                "pristupanje",
+                "država kandidat",
+                "članstvo",
+                "molba za pristupanje",
+                "zakon"
+            ],
+            "hu": [
+                "EU",
+                "Európai Unió",
+                "Tagállam",
+                "bővítés",
+                "csatlakozás",
+                "tagjelölt ország",
+                "tagság",
+                "alkalmazás",
+                "törvények, jogszabályok"
+            ],
+            "it": [
+                "UE",
+                "Unione europea",
+                "Stato membro",
+                "allargamento",
+                "adesione, aderire",
+                "paese candidato",
+                "appartenenza, adesione, ingresso",
+                "domanda, candidatura",
+                "legge, diritto"
+            ],
+            "lt": [
+                "ES",
+                "Europos Sąjunga",
+                "Valstybė narė",
+                "ES plėtra",
+                "stojimas",
+                "šalis kandidatė",
+                "narystė",
+                "paraiška, prašymas",
+                "teisė, teisės aktas"
+            ],
+            "lv": [
+                "ES",
+                "Eiropas Savienība",
+                "dalībvalsts, dalībvalstu",
+                "paplašināšanās, paplašināšana",
+                "pievienošanās, iestāšanās, iestāties",
+                "kandidātvalsts, kandidātvalstis",
+                "dalība",
+                "pieteikums, lūgums",
+                "likumi, tiesību akti, regulējums"
+            ],
+            "mt": [
+                "UE",
+                "Unjoni Ewropea",
+                "Stat Membru",
+                "tkabbir",
+                "adeżjoni",
+                "pajjiż kandidat",
+                "sħubija",
+                "applikazzjoni",
+                "liġi"
+            ],
+            "nl": [
+                "EU",
+                "Europese Unie",
+                "lidstaat",
+                "uitbreiding",
+                "toetreding",
+                "kandidaat-lidstaten",
+                "lidmaatschap",
+                "toepassing",
+                "wet, wetgeving"
+            ],
+            "pl": [
+                "UE",
+                "Unia Europejska",
+                "państwo członkowskie",
+                "rozszerzenie",
+                "akcesyjne",
+                "państwo kandydujące",
+                "członkostwo",
+                "stosowanie",
+                "prawo"
+            ],
+            "pt": [
+                "UE",
+                "União Europeia",
+                "Estado-Membro",
+                "alargamento",
+                "adesão",
+                "país candidato",
+                "membro",
+                "aplicação",
+                "legislação"
+            ],
+            "ro": [
+                "UE",
+                "Uniunea Europeană",
+                "Stat membru",
+                "extindere",
+                "aderare",
+                "ţară candidată",
+                "statut de membru",
+                "candidatură",
+                "drept"
+            ],
+            "sk": [
+                "EU",
+                "European Union",
+                "Member State",
+                "enlargement",
+                "accession",
+                "candidate country",
+                "membership",
+                "application",
+                "law"
+            ],
+            "sl": [
+                "eu",
+                "Evropska unija",
+                "država članica",
+                "širitev",
+                "pristop",
+                "država kandidatka",
+                "članstvo",
+                "prošnja za članstvo",
+                "predpis"
+            ],
+            "sv": [
+                "eu",
+                "Europeiska unionen",
+                "medlemsstat, medlemsland",
+                "utvidgning",
+                "anslutning",
+                "kandidatland",
+                "medlemskap",
+                "ansökan",
+                "lag, lagstiftning"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<p>Получаването на членство в ЕС е сложна и продължителна процедура. След като една страна кандидатка отговори на условията за членство, тя трябва да приложи правилата и разпоредбите на Съюза във всички области.</p>             <p>Всяка страна, която отговаря <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">на условията за членство</a>, може да кандидатства. Тези условия са известни като „критерии от Копенхаген“ и включват пазарна икономика, стабилна демокрация и върховенство на закона и приемане на цялото законодателство на ЕС, включително и на еврото.</p>             <p>Страна, която желае да се присъедини към ЕС, подава молба за членство до Съвета, който изисква от Комисията да оцени способността на страната да отговори на критериите от Копенхаген. Ако мнението на Комисията е положително, Съветът трябва да постигне съгласие за мандат за преговори. Тогава официално започват <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">преговорите</a> по отделните глави.</p>             <p>Поради много големия брой правила и регламенти на ЕС, която всяка страна кандидатка трябва да приеме като национално право, завършването на преговорите изисква време. Страните кандидатки са подкрепяни <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">финансово</a>, административно и <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">технически</a> по време на този <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">предприсъединителен период</a>.</p>"
+            ],
+            "cs": [
+                "<p>Příprava na vstup do Unie je složitá procedura, která většinou trvá několik let. Jakmile kandidátská země splňuje podmínky členství, musí do svého právního systému provést předpisy EU ve všech oblastech politiky.</p>             <p>Žádost o vstup do Unie může podat kterákoli země, která splňuje <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">podmínky členství</a>. Tato tzv. „kodaňská kritéria“ zahrnují tržní ekonomiku, stabilní demokratický systém, právní stát a přijetí veškerých právních předpisů EU, včetně výhledového přijetí eura.</p>             <p>Země, která chce do Unie vstoupit, podá žádost o členství Evropské radě. Ta požádá Evropskou komisi, aby zhodnotila připravenost této země ke splnění kodaňských kritérií. Pokud je stanovisko Komise kladné, dohodne se Rada na mandátu k vyjednávání. Během <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">jednání</a> se postupně projednávají jednotlivé oblasti.</p>             <p>Trvají většinou velmi dlouho, protože každá kandidátská země musí do svého práva provést ohromné množství pravidel a předpisů EU. Během tohoto <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">předvstupního období</a> se kandidátské zemi poskytuje <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">finanční</a>, administrativní a <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">technická</a> pomoc.</p>"
+            ],
+            "da": [
+                "<p>For at blive medlem af EU skal man igennem en kompliceret procedure, og det er ikke noget, der sker fra den ene dag til den anden. Når et ansøgerland opfylder betingelserne for medlemskab, skal det gennemføre EU's regler på alle områder.</p>             <p>Ethvert land, der opfylder <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">betingelserne for medlemskab</a>, kan ansøge. Disse betingelser er kendt som \"Københavnskriterierne\" og omfatter overholdelse af principperne om fri markedsøkonomi, stabilt demokrati og retsstat, og landet må desuden indføre alle EU's regler, herunder på sigt også euroen.</p>             <p>Et land, der ønsker at blive optaget i EU, skal indgive en ansøgning om medlemskab til Rådet, som så beder Kommissionen vurdere, om ansøgeren er i stand til at opfylde Københavnskriterierne. Hvis Kommissionens udtalelse er positiv, skal Rådet blive enigt om et forhandlingsmandat. Derefter indledes <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">forhandlingerne</a> formelt emne for emne.</p>             <p>På grund af den meget store mængde af EU-regler, hvert ansøgerland skal indføre i sin nationale lovgivning, tager det lang tid at gennemføre forhandlingerne. Ansøgerne modtager <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">finansiel</a>, administrativ og <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">teknisk</a> bistand under denne <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">førtiltrædelsesperiode</a>.</p>"
+            ],
+            "de": [
+                "<p>Wenn ein Land Mitglied der EU werden will, läuft ein kompliziertes Verfahren an, das seine Zeit braucht. Sobald ein Bewerberland die Voraussetzungen für die Mitgliedschaft erfüllt hat, muss es die Vorschriften und Regelungen der EU in allen Bereichen umsetzen.</p>             <p>Jedes Land, das die <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">Voraussetzungen für die Mitgliedschaft</a> erfüllt, kann sich bewerben. Diese Voraussetzungen sind unter dem Namen „Kopenhagener Kriterien“ bekannt und umfassen eine freie Marktwirtschaft, eine stabile Demokratie und eine rechtsstaatliche Ordnung. Außerdem müssen alle EU-Rechtsvorschriften sowie der Euro akzeptiert werden.</p>             <p>Ein Land, das der EU beitreten möchte, legt dem Rat der EU einen Mitgliedsantrag vor. Der Rat beauftragt die Kommission, die Fähigkeit des Landes zur Erfüllung der Kopenhagener Kriterien zu beurteilen. Wenn sich die Kommission positiv äußert, muss sich der Rat auf ein Verhandlungsmandat einigen. Die <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">Verhandlungen</a> werden dann formell kapitelweise eröffnet.</p>             <p>Wegen der riesigen Menge an Vorschriften und Regelungen der EU, die jedes Land in sein innerstaatlichen Recht umsetzen muss, erfordern die Verhandlungen bis zu ihrem Abschluss längere Zeit. Während dieses „<a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">Heranführungszeitraums</a>“ werden die Bewerberländer <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">finanziell</a>, verwaltungstechnisch und <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_de.htm\"                   lang=\"de\">fachlich</a> unterstützt.</p>"
+            ],
+            "el": [
+                "<p>Η προσχώρηση μιας χώρας στην ΕΕ είναι μια περίπλοκη διαδικασία που απαιτεί χρόνο. Οι αιτούσες χώρες πρέπει να πληρούν τους όρους προσχώρησης και να εφαρμόσουν τους κανόνες της ΕΕ σε όλους τους τομείς.</p>             <p>Κάθε χώρα που πληροί τους <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">όρους προσχώρησης</a> μπορεί να υποβάλει αίτηση. Οι όροι αυτοί είναι γνωστοί ως \"κριτήρια της Κοπεγχάγης\" και περιλαμβάνουν την οικονομία της ελεύθερης αγοράς, το σταθερό δημοκρατικό πολίτευμα και το κράτος δικαίου, καθώς και την αποδοχή του συνόλου της νομοθεσίας της ΕΕ, συμπεριλαμβανομένου του ευρώ.</p>             <p>Κάθε χώρα που επιθυμεί να προσχωρήσει στην ΕΕ υποβάλλει σχετική αίτηση στο Συμβούλιο, το οποίο ζητά από την Ευρωπαϊκή Επιτροπή να αξιολογήσει κατά πόσο η αιτούσα χώρα πληροί τα κριτήρια της Κοπεγχάγης. Εάν η γνώμη της Επιτροπής είναι θετική, το Συμβούλιο πρέπει στη συνέχεια να εκδώσει εντολή για τη διεξαγωγή διαπραγματεύσεων. Με την έκδοση της εντολής αυτής, ξεκινούν επίσημα οι <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">διαπραγματεύσεις</a> ανά θεματικό τομέα.</p>             <p>Λόγω του τεράστιου αριθμού των κανόνων της ΕΕ που κάθε υποψήφια χώρα πρέπει να ενσωματώσει στο εθνικό της δίκαιο, χρειάζεται χρόνος για την ολοκλήρωση των διαπραγματεύσεων. Οι υποψήφιες χώρες λαμβάνουν <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">οικονομική</a>, διοικητική και <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">τεχνική</a> στήριξη κατά τη διάρκεια της <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">προενταξιακής περιόδου</a>.</p>"
+            ],
+            "en": [
+                "<p>Becoming a member of the EU is a complex procedure which does not happen overnight. Once an applicant country meets the conditions for membership, it must implement EU rules and regulations in all areas.</p>             <p>Any country that satisfies the <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">conditions for membership</a> can apply. These conditions are known as the ‘Copenhagen criteria’ and include a free-market economy, a stable democracy and the rule of law, and the acceptance of all EU legislation, including of the euro.</p>             <p>A country wishing to join the EU submits a membership application to the Council, which asks the Commission to assess the applicant’s ability to meet the Copenhagen criteria. If the Commission’s opinion is positive, the Council must then agree upon a negotiating mandate. <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">Negotiations</a> are then formally opened on a subject-by-subject basis.</p>             <p>Due to the huge volume of EU rules and regulations each candidate country must adopt as national law, the negotiations take time to complete. The candidates are supported <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">financially</a>, administratively and <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">technically</a> during this <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">pre-accession period</a>.</p>"
+            ],
+            "es": [
+                "<p>Para ser miembro de la UE hay que seguir un procedimiento que no se resuelve de un día para otro. Cuando un país solicitante reúne las condiciones para ello, debe aplicar la normativa de la UE en todos los ámbitos.</p>             <p>Cualquier país que reúna las <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">condiciones para ser miembro de la UE</a> puede solicitar la adhesión. Dichas condiciones se conocen como \"criterios de Copenhague\" y consisten en la economía de mercado, una democracia estable, el Estado de Derecho y la aceptación de toda la legislación de la UE, incluida la relativa al euro.</p>             <p>Un país que quiera pertenecer a la UE debe presentar una solicitud de adhesión al Consejo, quien, a su vez, solicita a la Comisión que evalúe la capacidad del solicitante de cumplir los criterios de Copenhague. Si el dictamen de la Comisión es favorable, el Consejo debe aprobar un mandato de negociación. Entonces se inician oficialmente las <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">negociationes</a>, que se llevan a cabo capítulo a capítulo.</p>             <p>Debido al gran volumen de normas y reglamentos de la UE que cada país candidato debe incorporar en su legislación nacional, las negociaciones llevan mucho tiempo. Durante el <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">periodo de preadhesión</a> se ofrece a los países candidatos asistencia <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">financiera</a>, administrativa y <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">técnica</a>.</p>"
+            ],
+            "et": [
+                "<p>ELi liikmesriigiks saamine on keerukas menetlus ning see ei juhtu üleöö. Kui taotlejariik täidab liikmesuseks vajalikud tingimused, peab ta kõigis valdkondades hakkama rakendama ELi eeskirju ja määrusi.</p>             <p>Mis tahes riik, kes täidab <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">liikmeks saamise tingimused</a>, võib esitada taotluse. Kõnealuseid tingimusi teatakse kui Kopenhaageni kriteeriume ning nende hulka kuuluvad vaba turumajandus, stabiilne demokraatia ning õigusriigi põhimõte, samuti kõigi ELi õigusaktide ning ka euro heakskiitmine.</p>             <p>ELi liikmeks saada sooviv riik esitab liikmeks saamise taotluse nõukogule, kes palub komisjonil hinnata taotleja suutlikkust Kopenhaageni kriteeriumide täitmisel. Kui komisjoni arvamus on positiivne, siis peab nõukogu kokku leppima läbirääkimisvolitustes. Siis avatakse ametlikult valdkonnapõhised <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">läbirääkimised</a>.</p>             <p>Läbirääkimised on aeganõudvad, sest iga kandidaatriik peab siseriiklikku õigusesse üle võtma väga palju ELi eeskirju ja määrusi. Kandidaatriike toetatakse <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">rahaliselt</a>, halduslikult ja <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">tehniliselt</a> kõnealuse <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">ühinemiseelse perioodi</a> jooksul.</p>"
+            ],
+            "fi": [
+                "<p>EU:n jäseneksi liittyminen on monimutkainen ja aikaavievä menettely. Kun hakijamaa on täyttänyt jäsenyyden ehdot, sen on pantava täytäntöön EU:n lainsäädäntö kaikilla aloilla.</p>             <p>Jokainen maa, joka täyttää <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">jäsenyyden edellytykset</a>, voi hakea EU-jäsenyyttä. Näitä edellytyksiä kutsutaan Kööpenhaminan arviointiperusteiksi. Niihin kuuluu toimiva markkinatalous, vakaa demokratia ja oikeusvaltio sekä kaiken EU-lainsäädännön hyväksyminen, myös eurovaluutan suhteen.</p>             <p>Kun maa haluaa liittyä EU:hun, se esittää jäsenyyshakemuksen neuvostolle, joka pyytää komissiota arvioimaan maan kykyä täyttää Kööpenhaminan arviointiperusteet. Jos komission lausunto on myönteinen, neuvosto päättää neuvotteluvaltuuksista. <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">Neuvottelut</a> avataan tämän jälkeen virallisesti aloittain.</p>             <p>Koska kunkin ehdokasmaan on saatettava valtava määrä EU-lainsäädäntöä osaksi kansallista lainsäädäntöään, neuvotteluihin kuluu paljon aikaa. Ehdokasmaat saavat <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">liittymistä edeltävänä aikana</a>                <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">taloudellista</a>, hallinnollista ja <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">teknistä</a> tukea.</p>"
+            ],
+            "fr": [
+                "<p>L'adhésion à l'Union européenne est une procédure complexe qui prend du temps. Lorsqu'un pays candidat remplit les critères d'adhésion, il doit mettre en œuvre la législation de l'UE dans tous les domaines.</p>             <p>Tout pays satisfaisant aux <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">critères d'adhésion</a> peut poser sa candidature. Ces critères, appelés «critères de Copenhague», concernent l'économie de marché, la démocratie, l'État de droit et l'adoption de la législation européenne, y compris l'euro.</p>             <p>Le pays candidat soumet sa candidature au Conseil, qui demande à la Commission d'évaluer sa capacité à remplir les critères de Copenhague. Si la Commission rend un avis favorable, le Conseil adopte un mandat de négociation. Les <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">négociations</a> sont alors officiellement lancées et se déroulent chapitre par chapitre.</p>             <p>Les négociations prennent du temps, car les pays candidats doivent transposer dans le droit national un très grand nombre d'actes législatifs européens. Ils bénéficient pour cela d'une aide <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">financière</a>, administrative et <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">technique</a> durant la <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_fr.htm\"                   lang=\"fr\">période de préadhésion</a>.</p>"
+            ],
+            "ga": [
+                "<p>Próiseas casta is ea é teacht chun bheith mar bhall den AE, nach féidir a chur i gcrích thar oíche. Ón uair go gcomhlíonann an tír is iarrthóir na coinníollacha ballraíochta, ní mór di rialacha agus rialacháin an AE a chur chun feidhme i ngach réimse. </p>             <p>Is ceadmhach do thír ar bith a shásaíonn na <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">coinníollacha ballraíochta</a> iarratas a dhéanamh. ‘Critéir Chóbanhávan’ a thugtar ar na coinníollacha seo agus áirítear orthu geilleagar saoriomaíochta, daonlathas cobhsaí agus riail an dlí, agus glacadh le gach cuid de reachtaíocht an AE, an euro ar áireamh.</p>             <p>Tír ar bith ar mian léi teacht leis an AE, cuireann sí iarratas ar bhallraíocht faoi bhráid na Comhairle, a iarrann ar an gCoimisiún measúnú a dhéanamh ar chumas an iarrthóra critéir Chóbanhávan a chomhlíonadh. Más dearfach í tuairim an Choimisiúin, ní mór don Chomhairle sainordú caibidlíochta a aontú. <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">Ina dhiaidh sin osclaítear idirbheartaíocht</a> go foirmiúil ar bhonn ábhar i ndiaidh ábhair. </p>             <p>I ngeall ar an líon ollmhór rialacha agus rialachán de chuid an AE nach mór do gach tír is iarrthóir a ghlacadh mar dhlí náisiúnta, tógann sé roinnt ama an idirbheartaíocht a thabhairt chun críche. Faigheann na hiarrthóirí tacaíocht <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">airgeadais</a>, riaracháin agus <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">teicniúil</a> le linn na tréimhse <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">aontachais seo</a>.</p>"
+            ],
+            "hr": [
+                "<p>Pristupanje Europskoj uniji  složen je i dugotrajan postupak. Kada država pristupnica ispuni uvjete za članstvo, mora primijeniti pravila i propise EU-a u svim područjima.</p>             <p>Za članstvo u EU-u može se prijaviti svaka zemlja koja zadovoljava <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">uvjete za članstvo</a>. Ti su uvjeti poznati  pod nazivom „Kopenhaški kriteriji“ i uključuju tržišno gospodarstvo, stabilnu demokraciju i vladavinu prava te prihvaćanje cijelog zakonodavstva EU-a, uključujući euro.</p>             <p>Zemlja koja želi pristupiti EU-u podnosi zahtjev za članstvo Vijeću koje potom od Komisije traži mišljenje o tome je li država podnositeljica zahtjeva  sposobna ispuniti Kopenhaške kriterije. Ako je mišljenje Komisije pozitivno, Vijeće treba prihvatiti pregovarački okvir. <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">Pregovori</a> se zatim službeno odvijaju po poglavljima.</p>             <p>Zbog velike količine zakona i propisa EU-a koje svaka država kandidatkinja mora prihvatiti u svoje zakonodavstvo, za dovršenje pregovora treba vremena. Tijekom tog <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">pretpristupnog razdoblja</a> kandidati primaju <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">financijsku</a>, administrativnu i <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">tehničku</a> podršku.</p>"
+            ],
+            "hu": [
+                "<p>Az EU-hoz történő csatlakozás nem egyik napról a másikra történik: összetett folyamatról van szó. A tagság feltételeit teljesítő, csatlakozni kívánó országnak valamennyi területen alkalmaznia kell az uniós szabályokat és rendeleteket.</p>             <p>Valamennyi olyan ország kérheti felvételét az EU-ba, amely teljesíti a <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">tagság feltételeit</a>. A koppenhágai kritériumokként emlegetett feltételek közé tartozik a szabad piacgazdaság, stabil demokrácia és jogállamiság megléte, valamint hogy a tagállamok elfogadják az uniós jogszabályokat, ideértve az euró bevezetésének kötelezettségét.</p>             <p>A csatlakozni kívánó országnak be kell nyújtania csatlakozási kérelmét a Tanácshoz. A Tanács ezután felkéri a Bizottságot, hogy készítsen értékelést arról, milyen mértékben tudja teljesíteni az adott ország a koppenhágai kritériumokat. Kedvező vélemény esetén a Tanácsnak tárgyalási megbízásról kell döntést hoznia. Ezután hivatalosan is megkezdődnek a más-más témakörökre összpontosító <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">tárgyalások</a>.</p>             <p>A tárgyalások hosszú ideig tartanak, mert a tagjelölt országoknak nemzeti jogrendjükbe kell ültetniük az uniós jogszabályok sokaságát. A <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">csatlakozás előtti időszak</a> alatt az EU <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">pénzügyi</a>, adminisztratív és <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">technikai</a> segítséget nyújt ezeknek az országoknak.</p>"
+            ],
+            "it": [
+                "<p>L'adesione all'UE è una procedura complessa e che richiede tempo. Quando un paese candidato soddisfa i criteri di adesione, deve poi recepire la legislazione dell'UE in tutti i settori.</p>             <p>Qualsiasi paese che soddisfi i <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">criteri di adesione</a> può presentare la sua candidatura. I criteri di adesione, detti \"criteri di Copenaghen\", riguardano l'economia di mercato, la stabilità della democrazia, lo stato di diritto e l'adozione di tutta la legislazione europea, nonché dell'euro.</p>             <p>Il paese che intenda aderire all'UE sottopone la sua candidatura al Consiglio, che chiede alla Commissione di valutare la capacità del paese candidato di soddisfare i criteri di Copenaghen. Se la Commissione dà parere positivo, il Consiglio adotta un mandato di negoziazione. Sono allora avviati ufficialmente i <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">negoziati</a>, che procedono settore per settore.</p>             <p>I negoziati prendono parecchio tempo, perché la mole della legislazione europea che i paesi candidati devono recepire nel loro ordinamento nazionale è considerevole. Durante il <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">periodo di preadesione</a> i paesi candidati beneficiano di aiuti a livello <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">finanziario</a>, amministrativo e <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">tecnico</a>.</p>"
+            ],
+            "lt": [
+                "<p>Tapimas ES nare yra sudėtinga procedūra, kuri šiek tiek užtrunka. Kai paraišką tapti ES nare pateikusi valstybė tenkina narystės sąlygas, ji privalo įgyendinti ES taisykles ir reglamentus visose srityse.</p>             <p>Paraišką pateikti gali bet kuri <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">narystės ES sąlygas</a> tenkinanti valstybė. Šios sąlygos (vadinamieji Kopenhagos kriterijai) – tai laisvosios rinkos ekonomika, tvirta demokratija, teisinė valstybė, sutikimas taikyti visus ES teisės aktus, įsivesti eurą ir kt.</p>             <p>Į ES pageidaujanti stoti valstybė pateikia narystės ES paraišką Tarybai, kuri paprašo Komisijos įvertinti, ar ta valstybė gali atitikti Kopenhagos kriterijus. Jei Komisija mano, kad taip, Taryba privalo susitarti dėl derybų įgaliojimų. Tada atitinkamais klausimais oficialiai pradedamos <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">derybos</a>.</p>             <p>Dėl didžiulės ES taisyklių ir reglamentų, kuriuos kiekviena šalis kandidatė privalo priimti kaip nacionalinę teisę, apimties derybos trunka netrumpai. Šiuo <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">pasirengimo narystei laikotarpiu</a> šalys kandidatės yra remiamos <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">finansiškai</a>, joms teikiama administracinė ir <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">techninė pagalba</a>.</p>"
+            ],
+            "lv": [
+                "<p>Iestāšanās Eiropas Savienībā nav lieta, kas notiek vienā mirklī. Gluži otrādi, tā ir sarežģīta procedūra. Kad valsts, kas lūgusi, lai to uzņem ES, ir izpildījusi dalības kritērijus, tai ir visās jomās jāievieš ES noteikumi un regulējums.</p>             <p>Jebkura valsts, kas atbilst <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">dalības kritērijiem</a>, var iesniegt lūgumu, lai to uzņem ES. Šīs prasības ir pazīstamas ar nosaukumu “Kopenhāgenas kritēriji”. Tie ir vairāki, piemēram, brīvi funkcionējoša tirgus ekonomika, stabila demokrātija un tiesiskums. Valstij arī jāpārņem viss ES spēkā esošais regulējums un jāapņemas ieviest eiro.</p>             <p>Valsts, kura vēlas pievienoties ES, iesniedz pieteikumu Padomei. Savukārt tā aicina Eiropas Komisiju novērtēt šīs valsts atbilstību Kopenhāgenas kritērijiem. Ja Komisijas atbilde ir apstiprinoša, Padomei jāvienojas par pilnvarām risināt sarunas. Tad oficiāli atklāj <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">sarunas</a> par katru tematu atsevišķi.</p>             <p>Tā kā katrai kandidātvalstij ir savos tiesību aktos jāpārņem liels daudzums ES noteikumu un regulējuma, sarunas var ieilgt. <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">Pirmspievienošanās</a> periodā kandidātvalstis saņem <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\"> finansiālu</a>, administratīvu un <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">tehnisku</a> palīdzību.</p>"
+            ],
+            "mt": [
+                "<p>Biex issir membru tal-UE trid tgħaddi minn proċedura kumplessa li ma ssirx mil-lum għal għada. Ladarba l-pajjiż applikant jilħaq il-kundizzjonijiet għas-sħubija, għandu jimplimenta r-regoli u r-regolamenti tal-UE fl-oqsma kollha.</p>             <p>Kwalunkwe pajjiż li jissodisfa l-<a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">kundizzjonijiet għas-sħubija</a> jista' japplika. Dawn il-kundizzjonijiet huma magħrufa bħala l-\"kriterji ta' Kopenħagen\" u jinkludu ekonomija ta' suq ħieles, demokrazija stabbli u stat tad-dritt, u l-aċċettazzjoni tal-leġiżlazzjoni kollha tal-UE, inkluża l-ewro.</p>             <p>Pajjiż li jixtieq jissieħeb mal-UE jissottometti applikazzjoni lill-Kunsill, li jistaqsi lill-Kummissjoni biex tevalwa l-kapaċità tal-applikant biex jilħaq il-kriterji ta' Kopenħagen. Jekk il-Kummissjoni toħroġ opinjoni pożittiva, il-Kunsill imbagħad irid jaqbel fuq mandat ta' negozjar. In-<a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">negozjati</a> mbagħad jinfetħu formalment fuq bażi ta' suġġett suġġett.</p>             <p>Minħabba l-volum kbir tar-regoli u r-regolamenti tal-UE li kull pajjiż kandidat għandu jadotta bħala liġi nazzjonali, in-negozjati jieħdu ħafna żmien. Il-kandidati huma appoġġati <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">finanzjarjament</a>, amministrattivament u <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">teknikament</a> matul dan il-<a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">perjodu ta' qabel l-adeżjoni</a>.</p>"
+            ],
+            "nl": [
+                "<p>Lid worden van de EU is een ingewikkelde procedure die veel tijd in beslag neemt. Eerst moet een kandidaat-lidstaat aan allerlei voorwaarden voldoen, en daarna moet het land alle regels en wetten van de EU omzetten.</p>             <p>Ieder land dat voldoet aan de <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">voorwaarden voor lidmaatschap</a> kan een aanvraag indienen. Die voorwaarden staan bekend als de \"criteria van Kopenhagen\" en omvatten een vrije markteconomie, een stabiele democratie en rechtsstaat, en instemming met alle wetten en regels van de EU, inclusief de euro.</p>             <p>Een land dat wil toetreden, moet het lidmaatschap aanvragen bij de Raad, die op zijn beurt de Commissie vraagt om na te gaan of de kandidaat aan alle criteria van Kopenhagen voldoet. Geeft de Commissie een positief advies, dan moet de Raad het eens worden over een onderhandelingsmandaat. Daarna gaan de formele <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">onderhandelingen</a> over ieder onderwerp afzonderlijk van start.</p>             <p>Omdat iedere kandidaat-lidstaat zoveel EU-regels moet omzetten in nationale wetgeving, kunnen de onderhandelingen erg lang duren. De landen krijgen wel <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">financiële</a>, administratieve en <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">technische</a> steun in die zogenaamde <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">pretoetredingsperiode</a>.</p>"
+            ],
+            "pl": [
+                "<p>Przystąpienie do UE to skomplikowany proces, który wymaga czasu. Kiedy państwo zgłaszające swoją kandydaturę spełni warunki członkostwa, musi wprowadzić unijne przepisy we wszystkich wymaganych obszarach.</p>             <p>O członkostwo w UE ubiegać się może każdy kraj, który spełnia <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">warunki członkostwa</a>. Są to tak zwane kryteria kopenhaskie, czyli gospodarka wolnorynkowa, stabilna demokracja oraz rządy prawa, jak również przyjęcie przepisów prawnych UE, w tym dotyczących euro.</p>             <p>Kraj zainteresowany przystąpieniem do UE musi zgłosić wniosek do Rady, która następnie zwraca się do Komisji o dokonanie oceny zdolności kandydata do spełnienia kryteriów kopenhaskich. Jeżeli opinia Komisji jest pozytywna, Rada musi przyjąć mandat negocjacyjny. Wtedy następuje formalne <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">otwarcie negocjacji</a>, które prowadzone są w poszczególnych obszarach tematycznych.</p>             <p>Z uwagi na ogromną ilość unijnych przepisów, jakie każde państwo musi wdrożyć do prawa krajowego, proces negocjacji wymaga dużo czasu. W <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">okresie przedakcesyjnym</a> kraje kandydujące otrzymują pomoc <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">finansową</a>, administracyjną i <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">techniczną</a>.</p>"
+            ],
+            "pt": [
+                "<p>A adesão à UE é um processo complexo e demorado. Além de ter de cumprir as condições de adesão, o país candidato tem de aplicar a legislação e a regulamentação da UE em todas as áreas.</p>             <p>Para se poder candidatar à UE, um país tem de começar por satisfazer as <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">condições de adesão</a>. Estas condições, conhecidas como «critérios de Copenhaga», incluem a existência de uma economia de mercado livre, de uma democracia estável e de um Estado de Direito, bem como a aceitação de toda a legislação e regulamentação da UE, incluindo o euro.</p>             <p>Um país que deseje aderir à UE deve apresentar a sua candidatura ao Conselho, que, por sua vez, solicita à Comissão que avalie a capacidade do candidato para satisfazer os critérios de Copenhaga. Se a Comissão der um parecer positivo, o Conselho tem de chegar a acordo sobre um mandato de negociação.  São então oficialmente abertas <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">negociações</a> durante as quais cada área é debatida separadamente.</p>             <p>Dado o grande volume de legislação e regulamentação da UE que cada país candidato tem de transpor para o direito nacional, as negociações requerem bastante tempo. Durante este <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">período de pré-adesão</a>, os candidatos recebem apoio <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">financeiro</a>, administrativo e <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">técnico</a>.</p>"
+            ],
+            "ro": [
+                "<p>Calitatea de stat membru al UE nu se poate obţine de pe o zi pe alta, ci presupune parcurgerea unei proceduri complexe. Odată îndeplinite condiţiile de aderare, ţările candidate trebuie să aplice legislaţia europeană în toate domeniile.</p>             <p>Orice ţară care îndeplineşte <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">condiţiile de aderare</a> îşi poate depune candidatura. Cunoscute sub denumirea de „criteriile de la Copenhaga”, acestea includ existenţa economiei de piaţă, a unei democraţii stabile, a statului de drept, precum şi acceptarea legislaţiei UE, inclusiv a celei referitoare la moneda euro.</p>             <p>O ţară care doreşte să adere la UE înaintează o cerere Consiliului, iar acesta îi solicită Comisiei Europene să evalueze capacitatea statului candidat de a îndeplini criteriile de la Copenhaga. Dacă avizul Comisiei este favorabil, Consiliul trebuie să convină asupra unui mandat de negociere. Ulterior, se deschid <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">negocieri</a> oficiale pentru fiecare capitol de aderare în parte.</p>             <p>Întrucât volumul reglementărilor europene pe care fiecare ţară candidată trebuie să le transpună în legislaţia naţională este foarte mare, negocierile se derulează pe o perioadă lungă de timp. Ţările candidate beneficiază de sprijin <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">financiar</a>, administrativ şi <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">tehnic</a> pe durata <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">perioadei de preaderare</a>.</p>"
+            ],
+            "sk": [
+                "<p>Vstup do EÚ je dlhodobý a zložitý proces. Po tom, ako žiadateľská krajina splní predpoklady členstva, musí prevziať všetky právne predpisy EÚ.</p>             <p>Ktorákoľvek európska krajina, ktorá spĺňa <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">určité podmienky</a>, môže požiadať o členstvo v EÚ. Tieto požiadavky sú známe ako kodanské kritériá a zahŕňajú trhové hospodárstvo, stabilnú demokraciu, princípy právneho štátu, prevzatie právnych predpisov EÚ a prijatie spoločnej meny euro.</p>             <p>Krajina, ktorá chce pristúpiť k EÚ, predloží Rade žiadosť o členstvo. Rada následne požiada Komisiu o posúdenie schopnosti žiadajúcej krajiny splniť kodanské kritériá. Ak je vyjadrenie Komisie kladné, Rada sa dohodne na rokovacom mandáte. S danou krajinou sa potom otvoria formálne prístupové <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">rokovania</a>, ktoré sa vedú podľa jednotlivých oblastí, tzv. kapitol.</p>             <p>Nakoľko je rozsah legislatívy, ktorú musí každá kandidátska krajina zapracovať do svojho právneho poriadku, mimoriadne široký, rokovania si vyžadujú dlhý čas. Počas tohto <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">predvstupového obdobia</a> EÚ poskytuje kandidátskym štátom <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">finančnú</a>, administratívnu a <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">technickú</a> pomoc.</p>"
+            ],
+            "sl": [
+                "<p>Postopek za članstvo v EU je zapleten in dolgotrajen. Ko država kandidatka izpolni pogoje za članstvo, mora na vseh področjih izvajati pravila in predpise EU.</p>             <p>Država, ki izpolnjuje <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">pogoje za članstvo</a>, lahko predloži prošnjo za članstvo. Ti pogoji, t.i. københavnska merila, zajemajo tržno gospodarstvo, demokracijo in pravno državo ter izvajanje celotne zakonodaje EU, vključno z enotno valuto.</p>             <p>Država, ki se želi pridružiti EU, prošnjo predloži Svetu, ki Evropsko komisijo prosi za pripravo uradnega mnenja. V njem oceni sposobnost države prosilke glede izpolnjevanja københavnskih meril. Če je mnenje Komisije pozitivno, Svet odloči o pogajalskih pooblastilih <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">in pogajanja</a> po posameznih področjih se lahko uradno začnejo.</p>             <p>Zaradi obsežnega prenosa zakonodaje EU v nacionalno zakonodajo so pogajanja zelo dolgotrajna. EU državam kandidatkam v <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">predpristopnem obdobju</a> zagotavlja <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">finančno</a>, administrativno in <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">tehnično</a> pomoč.</p>"
+            ],
+            "sv": [
+                "<p>Att bli EU-medlem är ett komplicerat förfarande som tar lång tid. När det ansökande landet väl uppfyller villkoren för medlemskap måste det införa EU:s lagstiftning på alla områden.</p>             <p>Alla europeiska länder som uppfyller <a href=\"http://ec.europa.eu/enlargement/policy/conditions-membership/index_en.htm\"                   lang=\"en\">villkoren för medlemskap</a> kan ansöka om att gå med i EU. De här villkoren kallas Köpenhamnskriterierna. Landet ska bland annat ha en fungerande marknadsekonomi, vara en stabil demokrati, följa rättsstatsprincipen, införa alla EU-regler och vara berett att införa euron.</p>             <p>Ett land som vill gå med i EU skickar en medlemsansökan till ministerrådet, som ber kommissionen att bedöma om landet klarar att uppfylla villkoren för medlemskap. Om kommissionen ställer sig positiv måste rådet sedan enas om ett förhandlingsmandat. <a href=\"http://ec.europa.eu/enlargement/policy/steps-towards-joining/index_en.htm\"                   lang=\"en\">Medlemskapsförhandlingarna</a> inleds därefter formellt. Man behandlar ett område i taget.</p>             <p>På grund av den enorma mängd EU-regler som kandidatländerna måste anta som nationell lag, tar  det lång tid att avsluta förhandlingarna. Kandidatländerna får <a href=\"http://ec.europa.eu/enlargement/instruments/overview/index_en.htm\"                   lang=\"en\">ekonomiskt</a>, administrativt och <a href=\"http://ec.europa.eu/enlargement/tenders/taiex/index_en.htm\" lang=\"en\">tekniskt stöd</a> under den här s.k. <a href=\"http://ec.europa.eu/enlargement/policy/glossary/terms/preaccession-assistance_en.htm\"                   lang=\"en\">föranslutningsperioden</a>.</p>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_e738c3640cb684d3856981745426e23c"
+            ]
+        },
+        "download_item": {
+            "und": [
+                "download_item_e738c3640cb684d3856981745426e23c"
+            ]
+        }
+    }
+}

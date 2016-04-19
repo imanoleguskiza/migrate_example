@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e075bf7",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e075bf7",
+        "080126248e075bf7",
+        "080126248e075bf7",
+        "080126248e075bf7"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски банков орган(EBA)"
+      ],
+      "cs": [
+        "Evropský orgán pro bankovnictví(EBA)"
+      ],
+      "da": [
+        "Den Europæiske Banktilsynsmyndighed(EBA)"
+      ],
+      "de": [
+        "Europäische Bankenaufsichtsbehörde(EBA)"
+      ],
+      "el": [
+        "Ευρωπαϊκή Αρχή Τραπεζών(EAT)"
+      ],
+      "en": [
+        "European Banking Authority(EBA)"
+      ],
+      "es": [
+        "Autoridad Bancaria Europea(ABE)"
+      ],
+      "et": [
+        "Euroopa Pangandusjärelevalve(EBA)"
+      ],
+      "fi": [
+        "Euroopan pankkiviranomainen(EPV)"
+      ],
+      "fr": [
+        "Autorité bancaire européenne(ABE)"
+      ],
+      "ga": [
+        "an tÚdarás Eorpach Baincéireachta(UBE)"
+      ],
+      "hr": [
+        "Europsko nadzorno tijelo za bankarstvo(EBA)"
+      ],
+      "hu": [
+        "Európai Bankhatóság(EBH)"
+      ],
+      "it": [
+        "Autorità bancaria europea(ABE)"
+      ],
+      "lt": [
+        "Europos bankininkystės institucija(EBI)"
+      ],
+      "lv": [
+        "Eiropas Banku iestāde(EBI)"
+      ],
+      "mt": [
+        "Awtorità Bankarja Ewropea(ABE)"
+      ],
+      "nl": [
+        "Europese Bankautoriteit(EBA)"
+      ],
+      "pl": [
+        "Europejski Urząd Nadzoru Bankowego(EUNB)"
+      ],
+      "pt": [
+        "Autoridade Bancária Europeia(EBA)"
+      ],
+      "ro": [
+        "Autoritatea Bancară Europeană(ABE)"
+      ],
+      "sk": [
+        "Európsky orgán pre bankovníctvo(EBA)"
+      ],
+      "sl": [
+        "Evropski bančni organ(EBA)"
+      ],
+      "sv": [
+        "Europeiska bankmyndigheten(EBA)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/eba_logo.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p><span>Tower 42 (level 18) </span><br /><span>25 Old Broad Street </span><br /><span>London EC2N 1HQ </span><br /><span>UK</span></p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+44 (0)207 382 1776"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+44 (0)207 382 1771"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:info@eba.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact"
+      ]
+    }
+  }
+}

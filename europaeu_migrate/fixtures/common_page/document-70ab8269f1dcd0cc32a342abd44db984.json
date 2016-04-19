@@ -1,0 +1,866 @@
+{
+    "_id": "70ab8269f1dcd0cc32a342abd44db984",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/eu-law/application-eu-law/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/eu-law/application-eu-law/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/eu-law/application-eu-law/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/eu-law/application-eu-law/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/eu-law/application-eu-law/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/eu-law/application-eu-law/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/eu-law/application-eu-law/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/eu-law/application-eu-law/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/eu-law/application-eu-law/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/eu-law/application-eu-law/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/eu-law/application-eu-law/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/eu-law/application-eu-law/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/eu-law/application-eu-law/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/eu-law/application-eu-law/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/eu-law/application-eu-law/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/eu-law/application-eu-law/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/eu-law/application-eu-law/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/eu-law/application-eu-law/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/eu-law/application-eu-law/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/eu-law/application-eu-law/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/eu-law/application-eu-law/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/eu-law/application-eu-law/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/eu-law/application-eu-law/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/eu-law/application-eu-law/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Прилагане на правото на ЕС"
+            ],
+            "cs": [
+                "Uplatňování právních předpisů EU"
+            ],
+            "da": [
+                "Anvendelse af EU-lovgivningen"
+            ],
+            "de": [
+                "Anwendung des EU-Rechts"
+            ],
+            "el": [
+                "Εφαρμογή του δικαίου της ΕΕ"
+            ],
+            "en": [
+                "Application of EU law"
+            ],
+            "es": [
+                "Aplicación del Derecho de la UE"
+            ],
+            "et": [
+                "ELi õiguse kohaldamine"
+            ],
+            "fi": [
+                "EU:n oikeuden soveltaminen"
+            ],
+            "fr": [
+                "Application du droit de l'UE"
+            ],
+            "ga": [
+                "Feidhmiú dhlí an AE"
+            ],
+            "hr": [
+                "Primjena prava EU-a"
+            ],
+            "hu": [
+                "Az uniós jog alkalmazása"
+            ],
+            "it": [
+                "Applicazione del diritto dell'UE"
+            ],
+            "lt": [
+                "ES teisės taikymas"
+            ],
+            "lv": [
+                "ES tiesību aktu piemērošana"
+            ],
+            "mt": [
+                "Applikazzjoni tal-Liġi tal-UE"
+            ],
+            "nl": [
+                "Toepassing van EU-wetgeving"
+            ],
+            "pl": [
+                "Stosowanie prawa UE"
+            ],
+            "pt": [
+                "Aplicação do direito da UE"
+            ],
+            "ro": [
+                "Aplicarea dreptului UE"
+            ],
+            "sk": [
+                "Uplatňovanie práva EÚ"
+            ],
+            "sl": [
+                "Uporaba prava EU"
+            ],
+            "sv": [
+                "Tillämpning av EU-lagstiftningen"
+            ]
+        },
+        "category": {
+            "und": [
+                "22255c4"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/"
+            ],
+            "cs": [
+                "EUROPA/"
+            ],
+            "da": [
+                "EUROPA/"
+            ],
+            "de": [
+                "EUROPA/"
+            ],
+            "el": [
+                "EUROPA/"
+            ],
+            "en": [
+                "EUROPA/"
+            ],
+            "es": [
+                "EUROPA/"
+            ],
+            "et": [
+                "EUROPA/"
+            ],
+            "fi": [
+                "EUROPA/"
+            ],
+            "fr": [
+                "EUROPA/"
+            ],
+            "ga": [
+                "EUROPA/"
+            ],
+            "hr": [
+                "EUROPA/EU-LAW/APPLICATION-EU-LAW"
+            ],
+            "hu": [
+                "EUROPA/"
+            ],
+            "it": [
+                "EUROPA/"
+            ],
+            "lt": [
+                "EUROPA/"
+            ],
+            "lv": [
+                "EUROPA/"
+            ],
+            "mt": [
+                "EUROPA/"
+            ],
+            "nl": [
+                "EUROPA/"
+            ],
+            "pl": [
+                "EUROPA/"
+            ],
+            "pt": [
+                "EUROPA/"
+            ],
+            "ro": [
+                "EUROPA/"
+            ],
+            "sk": [
+                "EUROPA/"
+            ],
+            "sl": [
+                "EUROPA/"
+            ],
+            "sv": [
+                "EUROPA/"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "ipg"
+            ],
+            "cs": [
+                "ipg"
+            ],
+            "da": [
+                "ipg"
+            ],
+            "de": [
+                "ipg"
+            ],
+            "el": [
+                "ipg"
+            ],
+            "en": [
+                "ipg"
+            ],
+            "es": [
+                "ipg"
+            ],
+            "et": [
+                "ipg"
+            ],
+            "fi": [
+                "ipg"
+            ],
+            "fr": [
+                "ipg"
+            ],
+            "ga": [
+                "ipg"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "ipg"
+            ],
+            "it": [
+                "ipg"
+            ],
+            "lt": [
+                "ipg"
+            ],
+            "lv": [
+                "ipg"
+            ],
+            "mt": [
+                "ipg"
+            ],
+            "nl": [
+                "ipg"
+            ],
+            "pl": [
+                "ipg"
+            ],
+            "pt": [
+                "ipg"
+            ],
+            "ro": [
+                "ipg"
+            ],
+            "sk": [
+                "ipg"
+            ],
+            "sl": [
+                "ipg"
+            ],
+            "sv": [
+                "ipg"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Информация за въвеждането и прилагането на законодателството на ЕС в страните –  членки на Съюза. "
+            ],
+            "cs": [
+                "Informace o uplatňování právních předpisů EU členskými státy a o tom, jak předpisy převádějí do své legislativy. "
+            ],
+            "da": [
+                "Oplysninger om, hvordan EU-lovgivningen og EU-retten anvendes i medlemslandene. "
+            ],
+            "de": [
+                "Informationen zu den Modalitäten der Anwendung und Durchführung des EU-Rechts und der EU-Rechtsvorschriften durch die EU-Mitgliedsländer "
+            ],
+            "el": [
+                "Πληροφορίες για τον τρόπο εφαρμογής του δικαίου και της νομοθεσίας της ΕΕ από τα κράτη μέλη  "
+            ],
+            "en": [
+                "Information on how EU law and legislation is applied and implemented by EU member countries. "
+            ],
+            "es": [
+                "Información sobre la aplicación del Derecho y la legislación de la UE en los Estados miembros. "
+            ],
+            "et": [
+                "Teave ELi õiguse ja õigusaktide kohaldamise ja rakendamise kohta ELi liikmesriikide poolt.   "
+            ],
+            "fi": [
+                "Tietoa EU:n oikeuden ja lainsäädännön soveltamisesta ja täytäntöönpanosta EU-maissa. "
+            ],
+            "fr": [
+                "Informations sur l'application et la mise en œuvre de la législation européenne par les États membres de l'UE "
+            ],
+            "ga": [
+                "Eolas faoi mar a chuirtear dlí agus reachtaíocht AE i bhfeidhm agus chun feidhme sna Ballstáit. "
+            ],
+            "hr": [
+                "Informacije o primjeni i provedbi prava i zakonodavstva EU-a u državama članicama. "
+            ],
+            "hu": [
+                "Információk arról, hogyan alkalmazzák és hajtják végre az uniós jogszabályokat az EU tagországai. "
+            ],
+            "it": [
+                "Informazioni sull'attuazione e l'applicazione del diritto e della legislazione dell'UE da parte dei paesi membri. "
+            ],
+            "lt": [
+                "Apie tai, kaip ES teisę ir teisės aktus taiko bei įgyvendina ES valstybės narės. "
+            ],
+            "lv": [
+                "Informācija par to, kā ES dalībvalstis piemēro un īsteno ES tiesību aktus. "
+            ],
+            "mt": [
+                "Informazzjoni dwar kif il-liġi u l-leġiżlazzjoni tal-UE tiġi applikata u implimentata mill-pajjiżi membri tal-UE. "
+            ],
+            "nl": [
+                "Informatie over de toepassing en uitvoering van EU-wetgeving door de EU-lidstaten. "
+            ],
+            "pl": [
+                "Informacje o stosowaniu przepisów UE i ich wdrażaniu w państwach członkowskich. "
+            ],
+            "pt": [
+                "Informações sobre a forma como o direito e a legislação da UE são aplicados e implementados pelos Estados-Membros. "
+            ],
+            "ro": [
+                "Cum se aplică dreptul UE şi legislaţia europeană în statele membre. "
+            ],
+            "sk": [
+                " Informácie o uplatňovaní a implementácii práva EÚ v členských štátoch. "
+            ],
+            "sl": [
+                "Informacije o uporabi in izvajanju prava in zakonodaje EU v državah članicah. "
+            ],
+            "sv": [
+                "Information om hur EU:s regler tillämpas och genomförs i EU-länderna. "
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "прилагане на правото на ЕС",
+                "право на ЕС",
+                "законодателство на ЕС",
+                "страни членки",
+                "Европейски съюз",
+                "EUROPA",
+                "ЕС"
+            ],
+            "cs": [
+                "Uplatňování právních předpisů EU",
+                "právní předpisy EU",
+                "evropská legislativa",
+                "členské země EU",
+                "Evropská unie",
+                "EUROPA",
+                "EU"
+            ],
+            "da": [
+                "Anvendelse af EU-lovgivningen",
+                "EU-retten",
+                "EU-lovgivingen",
+                "EU-medlemslande",
+                "Europæiske Union",
+                "EUROPA",
+                "EU"
+            ],
+            "de": [
+                "Anwendung des EU-Rechts",
+                "EU-Recht",
+                "EU-Gesetzgebung",
+                "EU-Mitgliedsländer",
+                "Europäische Union",
+                "EUROPA",
+                "EU"
+            ],
+            "el": [
+                "Εφαρμογή του δικαίου της Ε",
+                "δίκαιο της ΕΕ",
+                "νομοθεσία της ΕΕ",
+                "κράτη μέλη της ΕΕ",
+                "Ευρωπαϊκή Ένωση",
+                "EUROPA",
+                "ΕΕ"
+            ],
+            "en": [
+                "Application of EU law",
+                "EU law",
+                "EU legislation",
+                "EU member countries",
+                "European Union",
+                "EUROPA",
+                "EU"
+            ],
+            "es": [
+                "Aplicación del Derecho de la UE",
+                "Derecho de la UE",
+                "Estados miembros de la UE",
+                "Unión Europea",
+                "EUROPA",
+                "UE"
+            ],
+            "et": [
+                "ELi õiguse kohaldamine",
+                "ELi õigus",
+                "ELi õigusaktid",
+                "ELi liikmesriigid",
+                "Euroopa Liit",
+                "EUROPA",
+                "EL"
+            ],
+            "fi": [
+                "EU:n oikeuden soveltaminen",
+                "EU:n oikeus",
+                "EU-lainsäädäntö",
+                "EU:n jäsenmaat",
+                "jäsenvaltiot",
+                "Euroopan unioni",
+                "EUROPA",
+                "EU"
+            ],
+            "fr": [
+                "Application du droit de l'UE",
+                "droit de l'UE",
+                "législation européenne",
+                "États membres de l'UE",
+                "Union européenne",
+                "EUROPA",
+                "UE"
+            ],
+            "ga": [
+                "Feidhmiú dhlí an AE",
+                "dlí AE",
+                "reachtaíocht AE",
+                "Ballstáit AE",
+                "an tAontas Eorpach",
+                "EUROPA",
+                "AE"
+            ],
+            "hr": [
+                "primjena prava EU-a",
+                "pravo EU-a",
+                "zakonodavstvo EU-a",
+                "države članice EU-a",
+                "Europska unija",
+                "EUROPA",
+                "EU"
+            ],
+            "hu": [
+                "Az uniós jog alkalmazása",
+                "uniós jog",
+                "uniós jogszabályok",
+                "az EU tagországai",
+                "Európai Unió",
+                "EUROPA",
+                "EU"
+            ],
+            "it": [
+                "Applicazione del diritto dell'UE",
+                "diritto dell'UE",
+                "legislazione dell'UE",
+                "paesi membri dell'UE",
+                "Unione europea",
+                "EUROPA",
+                "UE"
+            ],
+            "lt": [
+                "ES teisės taikymas",
+                "ES teisė",
+                "ES teisės aktai",
+                "ES valstybės narės",
+                "Europos Sąjunga",
+                "EUROPA",
+                "ES"
+            ],
+            "lv": [
+                "ES tiesību aktu piemērošana",
+                "ES tiesību akti",
+                "ES likumdošana",
+                "ES dalībvalstis",
+                "Eiropas Savienība",
+                "EUROPA",
+                "ES"
+            ],
+            "mt": [
+                "Applikazzjoni tal-liġi tal-UE",
+                "liġi tal-UE",
+                "leġiżlazzjoni tal-UE",
+                "pajjiżi membri tal-UE",
+                "Unjoni Ewropea",
+                "EUROPA",
+                "UE"
+            ],
+            "nl": [
+                "Toepassing van EU-wetgeving",
+                "EU-recht",
+                "EU-wetgeving",
+                "EU-lidstaten",
+                "EU-landen",
+                "Europese Unie",
+                "Europa EU"
+            ],
+            "pl": [
+                "Stosowanie prawa UE",
+                "prawo UE",
+                "prawodawstwo UE",
+                "państwa członkowskie UE",
+                "Unia Europejska",
+                "EUROPA",
+                "UE"
+            ],
+            "pt": [
+                "Aplicação do direito da UE",
+                "direito da UE",
+                "legislação da UE",
+                "países da UE",
+                "Estados-Membros",
+                "União Europeia",
+                "EUROPA",
+                "UE"
+            ],
+            "ro": [
+                "Aplicarea dreptului UE",
+                "dreptul UE",
+                "legislaţia UE",
+                "statele membre ale UE",
+                "Uniunea Europeană",
+                "EUROPA",
+                "UE"
+            ],
+            "sk": [
+                "uplatňovanie práva EÚ",
+                "právo EÚ",
+                "právne predpisy EÚ",
+                "členské štáty EÚ",
+                "Európska únia",
+                "Europa",
+                "EÚ"
+            ],
+            "sl": [
+                "Uporaba zakonodaje EU",
+                "pravo EU",
+                "zakonodaja EU",
+                "države članice EU",
+                "Evropska unija",
+                "EUROPA",
+                "EU"
+            ],
+            "sv": [
+                "Tillämpning av EU-rätten",
+                "EU-rätt",
+                "EU-lagstiftning",
+                "EU-länder",
+                "medlemsländer",
+                "Europeiska unionen",
+                "europa.eu",
+                "EUROPA",
+                "EU"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Прилагане на правото на ЕС</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Прилагане на правото на ЕС от страните членки</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_bg.htm\">                                              <span>Прилагане на правото на ЕС</span>                                           </a>                                           <p>Как правото на ЕС се прилага във вашата страна и как можете да подадете жалба в случай, че то се нарушава</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_bg.htm\">                                              <span>Национални закони (N-Lex)</span>                                           </a>                                           <p>Достъп до официалните бази данни с националното законодателство на 28 страни от ЕС</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Правно сътрудничество между правителствата в ЕС</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_bg.htm\">                                              <span>Европейско съдебно сътрудничество в областта на гражданското право</span>                                           </a>                                           <p>Сътрудничество между национални съдилища при граждански дела</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/bg.aspx\">                                              <span>Евроюст - Служба за европейско съдебно сътрудничество</span>                                           </a>                                           <p>Подобряване на координацията между страните членки на ЕС в борбата с трансграничната и организираната престъпност</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=bg&amp;amp;action=home\">                                              <span>Европейски портал за електронно правосъдие</span>                                           </a>                                           <p>Отговори на въпроси с трансграничен характер относно правна помощ, юридическо обучение, както и връзки към правни бази данни и онлайн регистри за несъстоятелност и поземлени регистри в страните от ЕС.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "cs": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Uplatňování právních předpisů EU</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Provádění právních předpisů EU členskými státy</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_cs.htm\">                                              <span>Uplatňování práva EU</span>                                           </a>                                           <p>Provádění právních předpisů EU v jednotlivých zemích a možnost podat stížnost, pokud se tak neděje</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_cs.htm\">                                              <span>Vnitrostátní právní předpisy (N-Lex)</span>                                           </a>                                           <p>Přístup k oficiálním databázím právních předpisů ve 28 zemích EU</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Právní spolupráce mezi vládami členských zemí EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_cs.htm\">                                              <span>Evropská soudní spolupráce ve věcech občanských</span>                                           </a>                                           <p>Spolupráce mezi vnitrostátními soudy ve věcech občanských</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/cs.aspx\">                                              <span>EUROJUST – Evropská jednotka pro soudní spolupráci</span>                                           </a>                                           <p>Zlepšování koordinace mezi zeměmi EU v oblasti přeshraničního a organizovaného zločinu</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=cs&amp;amp;action=home\">                                              <span>Evropský justiční portál</span>                                           </a>                                           <p>Řešení přeshraničních problémů týkajících se právní pomoci a justičního vzdělávání; odkazy na právní databáze a internetové insolvenční rejstříky a katastry nemovitostí z celé EU</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "da": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Anvendelse af EU-lovgivningen</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Gennemførelse af EU-retten i medlemslandene</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_da.htm\">                                              <span>Sådan anvendes EU-retten i praksis</span>                                           </a>                                           <p>Hvordan er EU-retten blevet gennemført i dit land, og hvordan klager du, hvis det ikke er sket?</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_da.htm\">                                              <span>National lovgivning (N-Lex)</span>                                           </a>                                           <p>Adgang til                        <span style=\"font-size: 12px;\">2</span>                                              <span style=\"font-size: 12px;\">8</span>                                              <span style=\"font-size: 12px;\">EU-landes officielle juridiske databaser</span>                                           </p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">EU-landenes retlige samarbejde</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_da.htm\">                                              <span>EU's civilretlige samarbejde</span>                                           </a>                                           <p>Samarbejde mellem nationale retter i civile sager</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/da.aspx\">                                              <span>Eurojust – Den Europæiske Enhed for Retligt Samarbejde</span>                                           </a>                                           <p>Koordinerer EU-landenes samarbejde om grænseoverskridende og organiseret kriminalitet</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=da&amp;amp;action=home\">                                              <span>Den europæiske e-justice-portal</span>                                           </a>                                           <p>Få svar på dine spørgsmål om retshjælp i grænseoverskridende sager, uddannelse af dommere, links til juridiske databaser og online insolvens- og matrikelregistre i hele EU.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "de": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Anwendung des EU-Rechts</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Umsetzung von EU-Gesetzen durch die Mitgliedsländer</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_de.htm\">                                              <span>Praktische Anwendung des EU-Rechts</span>                                           </a>                                           <p>Praktische Umsetzung des EU-Rechts in Ihrem Land und Einreichen einer Beschwerde bei Verstößen</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_de.htm\">                                              <span>Nationales Recht (N-Lex)</span>                                           </a>                                           <p>Amtliche Datenbanken mit nationalen Rechtsvorschriften für 28 EU-Länder</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Rechtliche Zusammenarbeit zwischen EU-Ländern</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_de.htm\">                                              <span>Justizielle Zusammenarbeit in Europa in Zivilsachen</span>                                           </a>                                           <p>Zusammenarbeit nationaler Gerichte in Zivilsachen</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/de.aspx\">                                              <span>EUROJUST - europäische Stelle für justizielle Zusammenarbeit</span>                                           </a>                                           <p>Improving coordination between EU member countries on cross-border and organised crime</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=de&amp;amp;action=home\">                                              <span>Europäisches Justizportal</span>                                           </a>                                           <p>Hier finden Sie Antworten auf Ihre grenzübergreifenden Fragen zu Rechtshilfe, Juristenausbildung, Links zu Rechtsdatenbanken sowie zu Insolvenzregistern und Grundbüchern in der EU.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "el": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Εφαρμογή του δικαίου της ΕΕ</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Εφαρμογή της νομοθεσίας της ΕΕ από τα κράτη μέλη</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_el.htm\">                                              <span>Πώς εφαρμόζεται το δίκαιο της ΕΕ</span>                                           </a>                                           <p>Πώς εφαρμόζεται το δίκαιο της ΕΕ στη χώρα σας και πώς μπορείτε να καταγγείλετε τη μη εφαρμογή του</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_el.htm\">                                              <span>Εθνικές νομοθεσίες (Eur-Lex)</span>                                           </a>                                           <p>Πρόσβαση στις επίσημες βάσεις δεδομένων της εθνικής νομοθεσίας 28 κρατών μελών</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Νομική συνεργασία μεταξύ κυβερνήσεων της ΕΕ</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_el.htm\">                                              <span>Ευρωπαϊκή δικαστική συνεργασία σε αστικές υποθέσεις</span>                                           </a>                                           <p>Συνεργασία μεταξύ εθνικών δικαστηρίων σε αστικές υποθέσεις</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/el.aspx\">                                              <span>EUROJUST - Μονάδα δικαστικής συνεργασίας της ΕΕ</span>                                           </a>                                           <p>Βελτίωση του συντονισμού μεταξύ κρατών μελών για την αντιμετώπιση του διασυνοριακού και οργανωμένου εγκλήματος</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=el&amp;amp;action=home\">                                              <span>Ευρωπαϊκή πύλη ηλεκτρονικής δικαιοσύνης</span>                                           </a>                                           <p>Βρείτε απαντήσεις σε διασυνοριακά θέματα που αφορούν τη νομική συνδρομή, την επιμόρφωση δικαστών και δικαστικών υπαλλήλων καθώς και διαδικτυακούς συνδέσμους προς νομικές βάσεις δεδομένων, μητρώα αφερεγγυότητας και κτηματολόγια σε όλη την ΕΕ.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "en": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Application of EU law</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Implementation of EU laws by member countries</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_en.htm\">                                              <span>How EU law is applied</span>                                           </a>                                           <p>How EU law has been implemented in your country and how to complain if this hasn’t happened</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_en.htm\">                                              <span>National laws (N-Lex)</span>                                           </a>                                           <p>Access the official databases of national legislation in 28 EU countries</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Legal cooperation between EU governments</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_en.htm\">                                              <span>European judicial cooperation in civil cases</span>                                           </a>                                           <p>Cooperation between national courts in civil cases</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/home.aspx\">                                              <span>EUROJUST - EU judicial cooperation unit</span>                                           </a>                                           <p>Improving coordination between EU member countries on cross-border and organised crime</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=en&amp;amp;action=home\">                                              <span>European e-Justice Portal</span>                                           </a>                                           <p>Find answers to cross-border questions on legal aid, judicial training, links to legal databases and online insolvency and land registers across the EU.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "es": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Aplicación del Derecho de la UE</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Aplicación de la legislación de la UE por los países miembros</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_es.htm\">                                              <span>Aplicación del Derecho de la UE</span>                                           </a>                                           <p>Cómo se incorpora la legislación de la UE en cada país y qué hacer para presentar una denuncia en caso de infracción</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_es.htm\">                                              <span>Legislaciones nacionales (N-Lex)</span>                                           </a>                                           <p>Acceso a las bases de datos oficiales de la legislación nacional de 28 países de la UE</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Cooperación jurídica entre los Gobiernos de la UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_es.htm\">                                              <span>Cooperación judicial europea en materia civil</span>                                           </a>                                           <p>Cooperación entre tribunales nacionales en asuntos civiles</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/es.aspx\">                                              <span>EUROJUST: Unidad Europea de Cooperación Judicial</span>                                           </a>                                           <p>Mejorar la coordinación entre los países de la UE para combatir la delincuencia organizada y transfronteriza</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=es&amp;amp;action=home\">                                              <span>Portal Europeo de e-Justicia</span>                                           </a>                                           <p>Información sobre asistencia jurídica, formación judicial, enlaces a bases de datos jurídicas, registros de insolvencia y catastros online en toda la UE.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "et": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">ELi õiguse kohaldamine</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">ELi õiguse rakendamine liikmesriikide poolt</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_et.htm\">                                              <span>Kuidas ELi õigust kohaldatakse</span>                                           </a>                                           <p>Kuidas on ELi õigust rakendatud teie liikmesriigis ning kuidas esitada kaebust, kui seda ei ole tehtud</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_et.htm\">                                              <span>Liikmesriikide õigusaktid (N-Lex)</span>                                           </a>                                           <p>Juurdepääs 28 ELi liikmesriigi õigusaktide ametlikele andmebaasidele</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">ELi liikmesriikide valitsuste vaheline õigusalane koostöö</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_et.htm\">                                              <span>Euroopa justiitskoostöö tsiviilasjades</span>                                           </a>                                           <p>Liikmesriikide kohtute vaheline koostöö tsiviilasjades</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/et.aspx\">                                              <span>EUROJUST - Euroopa õigusalase koostöö üksus</span>                                           </a>                                           <p>ELi liikmesriikide vahelise kooskõlastamine parandamine piiriülese ja organiseeritud kuritegevuse valdkondades</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=et&amp;amp;action=home\">                                              <span>Euroopa e-õiguskeskkonna portaal</span>                                           </a>                                           <p>Vastused piiriülestele küsimustele seoses õigusabi, õigusalase koolitusega, lingid õigusaktide andmebaasidele ning veebipõhistele maksejõuetuse ja kinnistusregistritele kõikjal ELis.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fi": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">EU:n oikeuden soveltaminen</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">EU-lainsäädännön täytäntöönpano jäsenmaissa</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_fi.htm\">                                              <span>EU-lainsäädännön soveltaminen</span>                                           </a>                                           <p>Tietoa EU-lainsäädännön soveltamisesta jäsenmaissa ja siitä, miten valittaa, jos soveltamisessa havaitaan puutteita</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_fi.htm\">                                              <span>Kansallinen lainsäädäntö (N-Lex)</span>                                           </a>                                           <p>Tiedonhaku 28 EU-maan kansallisista säädöstietokannoista</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Oikeudellinen yhteistyö EU-maiden välillä</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_fi.htm\">                                              <span>Euroopan siviilioikeudellinen atlas</span>                                           </a>                                           <p>Kansallisten tuomioistuinten yhteistyö siviilioikeudellisissa asioissa</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/fi.aspx\">                                              <span>Eurojust – EU:n oikeudellisen yhteistyön yksikkö</span>                                           </a>                                           <p>Eurojustin tehtävänä on parantaa yhteistyötä EU-maiden välillä rajat ylittävää ja järjestäytynyttä rikollisuutta koskevissa asioissa</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=fi&amp;amp;action=home\">                                              <span>Euroopan oikeusportaali</span>                                           </a>                                           <p>Vastauksia oikeusapuun ja oikeusalan koulutukseen liittyviin rajat ylittäviin kysymyksiin sekä linkkejä oikeudellisiin tietokantoihin ja maksukyvyttömyys- ja maarekisterien online-palveluihin koko EU:ssa.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Application du droit de l'UE</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Mise en œuvre de la législation de l'UE par les pays membres</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_fr.htm\">                                              <span>Application du droit de l'Union européenne</span>                                           </a>                                           <p>Comment la législation de l'UE est mise en œuvre dans les États membres et que faire si votre pays ne la respecte pas</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_fr.htm\">                                              <span>Législation nationale (N-Lex)</span>                                           </a>                                           <p>Accéder aux bases de données officielles de la législation nationale de 28 pays de l'UE</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Coopération judiciaire entre les États membres</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_fr.htm\">                                              <span>Coopération judiciaire européenne en matière civile</span>                                           </a>                                           <p>Coopération entre les tribunaux nationaux en matière civile</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/fr.aspx\">                                              <span>EUROJUST – Unité européenne de coopération judiciaire</span>                                           </a>                                           <p>Ce service renforce la coordination entre États membres en matière de criminalité transfrontalière et organisée</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=fr&amp;amp;action=home\">                                              <span>Portail européen e-Justice</span>                                           </a>                                           <p>Trouver des réponses à vos questions sur les aides et les formations juridiques et des liens vers les bases de données juridiques, ainsi que vers les registres d'insolvabilité et les registres fonciers dans toute l'UE.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ga": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Feidhmiú dhlí an AE</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Dlíthe AE á bhfeidhmiú ag na ballstáit</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_ga.htm\">                                              <span>Conas a chuirtear dlí an AE i bhfeidhm</span>                                           </a>                                           <p>Conas a cuireadh dlí AE i bhfeidhm i do thírse agus conas gearán murar tharla sé sin</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_ga.htm\">                                              <span>Dlíthe náisiúnta (N-Lex)</span>                                           </a>                                           <p>Rochtain ar bhunachair sonraí oifigiúla na reachtaíochta náisiúnta i 28 Ballstát AE</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Comhar dlí idir rialtais an AE</h2>                                     <ul>                                        <li>                                           <span class=\"link-disabled\">                                              <span>Comhar breithiúnach Eorpach i gcásanna sibhialta</span>                                           </span>                                           <span class=\"ws-popup ws-modal\">                                              <a class=\"ws-ico\" href=\"javascript:void(0)\"                                                 onclick=\"return webservice.popup(this,'')\"                                                 title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                                                 <img alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                                                      src=\"http://europa.eu/wel/images/languages/ws.gif\"                                                      height=\"13\"                                                      width=\"16\"/>                                                 <span class=\"s\"> </span>                                              </a>                                              <span class=\"ws-links\">                                                 <span class=\"ws-popup-layout\">                                                    <a hreflang=\"bg\" lang=\"bg\" title=\"български (bg)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_bg.htm\">                                                       <span>български (</span>bg                           <span>)</span>                                                    </a>                                                    <a hreflang=\"cs\" lang=\"cs\" title=\"čeština (cs)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_cs.htm\">                                                       <span>čeština (</span>cs                           <span>)</span>                                                    </a>                                                    <a hreflang=\"da\" lang=\"da\" title=\"dansk (da)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_da.htm\">                                                       <span>dansk (</span>da                           <span>)</span>                                                    </a>                                                    <a hreflang=\"de\" lang=\"de\" title=\"Deutsch (de)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_de.htm\">                                                       <span>Deutsch (</span>de                           <span>)</span>                                                    </a>                                                    <a hreflang=\"el\" lang=\"el\" title=\"ελληνικά (el)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_el.htm\">                                                       <span>ελληνικά (</span>el                           <span>)</span>                                                    </a>                                                    <a hreflang=\"en\" lang=\"en\" title=\"English (en)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_en.htm\">                                                       <span>English (</span>en                           <span>)</span>                                                    </a>                                                    <a hreflang=\"es\" lang=\"es\" title=\"español (es)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_es.htm\">                                                       <span>español (</span>es                           <span>)</span>                                                    </a>                                                    <a hreflang=\"et\" lang=\"et\" title=\"eesti keel (et)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_et.htm\">                                                       <span>eesti keel (</span>et                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fi\" lang=\"fi\" title=\"suomi (fi)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_fi.htm\">                                                       <span>suomi (</span>fi                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fr\" lang=\"fr\" title=\"français (fr)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_fr.htm\">                                                       <span>français (</span>fr                           <span>)</span>                                                    </a>                                                    <a hreflang=\"hu\" lang=\"hu\" title=\"magyar (hu)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_hu.htm\">                                                       <span>magyar (</span>hu                           <span>)</span>                                                    </a>                                                    <a hreflang=\"it\" lang=\"it\" title=\"italiano (it)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_it.htm\">                                                       <span>italiano (</span>it                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lt\" lang=\"lt\" title=\"lietuvių kalba (lt)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_lt.htm\">                                                       <span>lietuvių kalba (</span>lt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lv\" lang=\"lv\" title=\"latviešu valoda (lv)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_lv.htm\">                                                       <span>latviešu valoda (</span>lv                           <span>)</span>                                                    </a>                                                    <a hreflang=\"mt\" lang=\"mt\" title=\"Malti (mt)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_mt.htm\">                                                       <span>Malti (</span>mt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"nl\" lang=\"nl\" title=\"Nederlands (nl)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_nl.htm\">                                                       <span>Nederlands (</span>nl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pl\" lang=\"pl\" title=\"polski (pl)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_pl.htm\">                                                       <span>polski (</span>pl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pt\" lang=\"pt\" title=\"português (pt)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_pt.htm\">                                                       <span>português (</span>pt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"ro\" lang=\"ro\" title=\"română (ro)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_ro.htm\">                                                       <span>română (</span>ro                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sk\" lang=\"sk\" title=\"slovenčina (sk)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_sk.htm\">                                                       <span>slovenčina (</span>sk                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sl\" lang=\"sl\" title=\"slovenščina (sl)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_sl.htm\">                                                       <span>slovenščina (</span>sl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sv\" lang=\"sv\" title=\"svenska (sv)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_sv.htm\">                                                       <span>svenska (</span>sv                           <span>)</span>                                                    </a>                                                 </span>                                              </span>                                           </span>                                           <p>Comhar idir chúirteanna náisiúnta i gcásanna sibhialta</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/ga.aspx\">                                              <span>EUROJUST - an t-aonad um chomhar breithiúnach AE</span>                                           </a>                                           <p>An comhordú a fheabhsú idir Bhallstáit AE faoi choireacht eagraithe is thrasteorann</p>                                        </li>                                        <li>                                           <span class=\"link-disabled\">                                              <span>Tairseach r-Cheartais na hEorpa</span>                                           </span>                                           <span class=\"ws-popup ws-modal\">                                              <a class=\"ws-ico\" href=\"javascript:void(0)\"                                                 onclick=\"return webservice.popup(this,'')\"                                                 title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                                                 <img alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                                                      src=\"http://europa.eu/wel/images/languages/ws.gif\"                                                      height=\"13\"                                                      width=\"16\"/>                                                 <span class=\"s\"> </span>                                              </a>                                              <span class=\"ws-links\">                                                 <span class=\"ws-popup-layout\">                                                    <a hreflang=\"bg\" lang=\"bg\" title=\"български (bg)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=bg&amp;amp;action=home\">                                                       <span>български (</span>bg                           <span>)</span>                                                    </a>                                                    <a hreflang=\"cs\" lang=\"cs\" title=\"čeština (cs)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=cs&amp;amp;action=home\">                                                       <span>čeština (</span>cs                           <span>)</span>                                                    </a>                                                    <a hreflang=\"da\" lang=\"da\" title=\"dansk (da)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=da&amp;amp;action=home\">                                                       <span>dansk (</span>da                           <span>)</span>                                                    </a>                                                    <a hreflang=\"de\" lang=\"de\" title=\"Deutsch (de)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=de&amp;amp;action=home\">                                                       <span>Deutsch (</span>de                           <span>)</span>                                                    </a>                                                    <a hreflang=\"el\" lang=\"el\" title=\"ελληνικά (el)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=el&amp;amp;action=home\">                                                       <span>ελληνικά (</span>el                           <span>)</span>                                                    </a>                                                    <a hreflang=\"en\" lang=\"en\" title=\"English (en)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=en&amp;amp;action=home\">                                                       <span>English (</span>en                           <span>)</span>                                                    </a>                                                    <a hreflang=\"es\" lang=\"es\" title=\"español (es)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=es&amp;amp;action=home\">                                                       <span>español (</span>es                           <span>)</span>                                                    </a>                                                    <a hreflang=\"et\" lang=\"et\" title=\"eesti keel (et)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=et&amp;amp;action=home\">                                                       <span>eesti keel (</span>et                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fi\" lang=\"fi\" title=\"suomi (fi)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=fi&amp;amp;action=home\">                                                       <span>suomi (</span>fi                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fr\" lang=\"fr\" title=\"français (fr)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=fr&amp;amp;action=home\">                                                       <span>français (</span>fr                           <span>)</span>                                                    </a>                                                    <a hreflang=\"hr\" lang=\"hr\" title=\"hrvatski (hr)\"                                                       href=\"https://e-justice.europa.eu/home.do?action=home&amp;plang=hr&amp;init=true\">                                                       <span>hrvatski (</span>hr                           <span>)</span>                                                    </a>                                                    <a hreflang=\"hu\" lang=\"hu\" title=\"magyar (hu)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=hu&amp;amp;action=home\">                                                       <span>magyar (</span>hu                           <span>)</span>                                                    </a>                                                    <a hreflang=\"it\" lang=\"it\" title=\"italiano (it)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=it&amp;amp;action=home\">                                                       <span>italiano (</span>it                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lt\" lang=\"lt\" title=\"lietuvių kalba (lt)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=lt&amp;amp;action=home\">                                                       <span>lietuvių kalba (</span>lt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lv\" lang=\"lv\" title=\"latviešu valoda (lv)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=lv&amp;amp;action=home\">                                                       <span>latviešu valoda (</span>lv                           <span>)</span>                                                    </a>                                                    <a hreflang=\"mt\" lang=\"mt\" title=\"Malti (mt)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=mt&amp;amp;action=home\">                                                       <span>Malti (</span>mt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"nl\" lang=\"nl\" title=\"Nederlands (nl)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=nl&amp;amp;action=home\">                                                       <span>Nederlands (</span>nl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pl\" lang=\"pl\" title=\"polski (pl)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=pl&amp;action=home\">                                                       <span>polski (</span>pl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pt\" lang=\"pt\" title=\"português (pt)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=pt&amp;amp;action=home\">                                                       <span>português (</span>pt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"ro\" lang=\"ro\" title=\"română (ro)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=ro&amp;amp;action=home\">                                                       <span>română (</span>ro                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sk\" lang=\"sk\" title=\"slovenčina (sk)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=sk&amp;amp;action=home\">                                                       <span>slovenčina (</span>sk                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sl\" lang=\"sl\" title=\"slovenščina (sl)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=sl&amp;amp;action=home\">                                                       <span>slovenščina (</span>sl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sv\" lang=\"sv\" title=\"svenska (sv)\"                                                       href=\"https://e-justice.europa.eu/home.do?plang=sv&amp;amp;action=home\">                                                       <span>svenska (</span>sv                           <span>)</span>                                                    </a>                                                 </span>                                              </span>                                           </span>                                           <p>Faigh freagraí ar cheisteanna trasteorannn faoi chabhair dlí, oiliúint bhreithiúnach, naisc chuig bunachair sonraí dhlíthiúla, agus cláir talún agus dócmhainneachta ar líne ar fud an AE.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Primjena prava EU-a</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Provedba prava EU-a u državama članicama</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_hr.htm\">                                              <span>Primjena prava EU-a</span>                                           </a>                                           <p>Provedba prava EU-a u vašoj zemlji i podnošenje pritužbe u slučaju kršenja</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_hr.htm\">                                              <span>Nacionalna prava (N-Lex)</span>                                           </a>                                           <p>Pristup službenoj bazi podataka nacionalnog zakonodavstva 28 države članice</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Pravna suradnja među vladama država članica</h2>                                     <ul>                                        <li>                                           <span class=\"link-disabled\">                                              <span>Europska pravosudna suradnja u građanskim predmetima</span>                                           </span>                                           <span class=\"ws-popup ws-modal\">                                              <a class=\"ws-ico\" href=\"javascript:void(0)\"                                                 onclick=\"return webservice.popup(this,'')\"                                                 title=\"Odaberi prijevod prethodne poveznice\">                                                 <img alt=\"Odaberi prijevod prethodne poveznice\"                                                      src=\"http://europa.eu/wel/images/languages/ws.gif\"                                                      height=\"13\"                                                      width=\"16\"/>                                                 <span class=\"s\"> </span>                                              </a>                                              <span class=\"ws-links\">                                                 <span class=\"ws-popup-layout\">                                                    <a hreflang=\"bg\" lang=\"bg\" title=\"български (bg)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_bg.htm\">                                                       <span>български (</span>bg                           <span>)</span>                                                    </a>                                                    <a hreflang=\"cs\" lang=\"cs\" title=\"čeština (cs)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_cs.htm\">                                                       <span>čeština (</span>cs                           <span>)</span>                                                    </a>                                                    <a hreflang=\"da\" lang=\"da\" title=\"dansk (da)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_da.htm\">                                                       <span>dansk (</span>da                           <span>)</span>                                                    </a>                                                    <a hreflang=\"de\" lang=\"de\" title=\"Deutsch (de)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_de.htm\">                                                       <span>Deutsch (</span>de                           <span>)</span>                                                    </a>                                                    <a hreflang=\"el\" lang=\"el\" title=\"ελληνικά (el)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_el.htm\">                                                       <span>ελληνικά (</span>el                           <span>)</span>                                                    </a>                                                    <a hreflang=\"en\" lang=\"en\" title=\"English (en)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_en.htm\">                                                       <span>English (</span>en                           <span>)</span>                                                    </a>                                                    <a hreflang=\"es\" lang=\"es\" title=\"español (es)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_es.htm\">                                                       <span>español (</span>es                           <span>)</span>                                                    </a>                                                    <a hreflang=\"et\" lang=\"et\" title=\"eesti keel (et)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_et.htm\">                                                       <span>eesti keel (</span>et                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fi\" lang=\"fi\" title=\"suomi (fi)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_fi.htm\">                                                       <span>suomi (</span>fi                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fr\" lang=\"fr\" title=\"français (fr)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_fr.htm\">                                                       <span>français (</span>fr                           <span>)</span>                                                    </a>                                                    <a hreflang=\"hu\" lang=\"hu\" title=\"magyar (hu)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_hu.htm\">                                                       <span>magyar (</span>hu                           <span>)</span>                                                    </a>                                                    <a hreflang=\"it\" lang=\"it\" title=\"italiano (it)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_it.htm\">                                                       <span>italiano (</span>it                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lt\" lang=\"lt\" title=\"lietuvių kalba (lt)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_lt.htm\">                                                       <span>lietuvių kalba (</span>lt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lv\" lang=\"lv\" title=\"latviešu valoda (lv)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_lv.htm\">                                                       <span>latviešu valoda (</span>lv                           <span>)</span>                                                    </a>                                                    <a hreflang=\"mt\" lang=\"mt\" title=\"Malti (mt)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_mt.htm\">                                                       <span>Malti (</span>mt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"nl\" lang=\"nl\" title=\"Nederlands (nl)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_nl.htm\">                                                       <span>Nederlands (</span>nl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pl\" lang=\"pl\" title=\"polski (pl)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_pl.htm\">                                                       <span>polski (</span>pl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pt\" lang=\"pt\" title=\"português (pt)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_pt.htm\">                                                       <span>português (</span>pt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"ro\" lang=\"ro\" title=\"română (ro)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_ro.htm\">                                                       <span>română (</span>ro                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sk\" lang=\"sk\" title=\"slovenčina (sk)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_sk.htm\">                                                       <span>slovenčina (</span>sk                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sl\" lang=\"sl\" title=\"slovenščina (sl)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_sl.htm\">                                                       <span>slovenščina (</span>sl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sv\" lang=\"sv\" title=\"svenska (sv)\"                                                       href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_sv.htm\">                                                       <span>svenska (</span>sv                           <span>)</span>                                                    </a>                                                 </span>                                              </span>                                           </span>                                           <p>Suradnja među nacionalnim sudovima u građanskim predmetima</p>                                        </li>                                        <li>                                           <span class=\"link-disabled\">                                              <span>EUROJUST – Ured EU-a za pravosudnu suradnju</span>                                           </span>                                           <span class=\"ws-popup ws-modal\">                                              <a class=\"ws-ico\" href=\"javascript:void(0)\"                                                 onclick=\"return webservice.popup(this,'')\"                                                 title=\"Odaberi prijevod prethodne poveznice\">                                                 <img alt=\"Odaberi prijevod prethodne poveznice\"                                                      src=\"http://europa.eu/wel/images/languages/ws.gif\"                                                      height=\"13\"                                                      width=\"16\"/>                                                 <span class=\"s\"> </span>                                              </a>                                              <span class=\"ws-links\">                                                 <span class=\"ws-popup-layout\">                                                    <a hreflang=\"bg\" lang=\"bg\" title=\"български (bg)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/bg.aspx\">                                                       <span>български (</span>bg                           <span>)</span>                                                    </a>                                                    <a hreflang=\"cs\" lang=\"cs\" title=\"čeština (cs)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/cs.aspx\">                                                       <span>čeština (</span>cs                           <span>)</span>                                                    </a>                                                    <a hreflang=\"da\" lang=\"da\" title=\"dansk (da)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/da.aspx\">                                                       <span>dansk (</span>da                           <span>)</span>                                                    </a>                                                    <a hreflang=\"de\" lang=\"de\" title=\"Deutsch (de)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/de.aspx\">                                                       <span>Deutsch (</span>de                           <span>)</span>                                                    </a>                                                    <a hreflang=\"el\" lang=\"el\" title=\"ελληνικά (el)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/el.aspx\">                                                       <span>ελληνικά (</span>el                           <span>)</span>                                                    </a>                                                    <a hreflang=\"en\" lang=\"en\" title=\"English (en)\"                                                       href=\"http://eurojust.europa.eu/Pages/home.aspx\">                                                       <span>English (</span>en                           <span>)</span>                                                    </a>                                                    <a hreflang=\"es\" lang=\"es\" title=\"español (es)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/es.aspx\">                                                       <span>español (</span>es                           <span>)</span>                                                    </a>                                                    <a hreflang=\"et\" lang=\"et\" title=\"eesti keel (et)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/et.aspx\">                                                       <span>eesti keel (</span>et                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fi\" lang=\"fi\" title=\"suomi (fi)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/fi.aspx\">                                                       <span>suomi (</span>fi                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fr\" lang=\"fr\" title=\"français (fr)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/fr.aspx\">                                                       <span>français (</span>fr                           <span>)</span>                                                    </a>                                                    <a hreflang=\"ga\" lang=\"ga\" title=\"Gaeilge (ga)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/ga.aspx\">                                                       <span>Gaeilge (</span>ga                           <span>)</span>                                                    </a>                                                    <a hreflang=\"hu\" lang=\"hu\" title=\"magyar (hu)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/hu.aspx\">                                                       <span>magyar (</span>hu                           <span>)</span>                                                    </a>                                                    <a hreflang=\"it\" lang=\"it\" title=\"italiano (it)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/it.aspx\">                                                       <span>italiano (</span>it                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lt\" lang=\"lt\" title=\"lietuvių kalba (lt)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/lt.aspx\">                                                       <span>lietuvių kalba (</span>lt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lv\" lang=\"lv\" title=\"latviešu valoda (lv)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/lv.aspx\">                                                       <span>latviešu valoda (</span>lv                           <span>)</span>                                                    </a>                                                    <a hreflang=\"mt\" lang=\"mt\" title=\"Malti (mt)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/mt.aspx\">                                                       <span>Malti (</span>mt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"nl\" lang=\"nl\" title=\"Nederlands (nl)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/nl.aspx\">                                                       <span>Nederlands (</span>nl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pl\" lang=\"pl\" title=\"polski (pl)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/pl.aspx\">                                                       <span>polski (</span>pl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pt\" lang=\"pt\" title=\"português (pt)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/pt.aspx\">                                                       <span>português (</span>pt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"ro\" lang=\"ro\" title=\"română (ro)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/ro.aspx\">                                                       <span>română (</span>ro                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sk\" lang=\"sk\" title=\"slovenčina (sk)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/sk.aspx\">                                                       <span>slovenčina (</span>sk                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sl\" lang=\"sl\" title=\"slovenščina (sl)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/sl.aspx\">                                                       <span>slovenščina (</span>sl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sv\" lang=\"sv\" title=\"svenska (sv)\"                                                       href=\"http://eurojust.europa.eu/Pages/languages/sv.aspx\">                                                       <span>svenska (</span>sv                           <span>)</span>                                                    </a>                                                 </span>                                              </span>                                           </span>                                           <p>Poboljšanje koordinacije među državama članicama u području prekograničnog i organiziranog kriminala</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?action=home&amp;plang=hr&amp;init=true\">                                              <span>Europski portal e-pravosuđa</span>                                           </a>                                           <p>Odgovori na prekogranična pitanja o pravnoj pomoći, pravosudnoj izobrazbi, poveznice na pravne baze podataka, internetske registre nesposobnosti za plaćanje i zemljišne knjige u EU-u.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hu": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Az uniós jog alkalmazása</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Az uniós jogszabályok tagállami végrehajtása</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_hu.htm\">                                              <span>Az európai uniós jog alkalmazása</span>                                           </a>                                           <p>Információk az uniós jog tagállami végrehajtásáról és arról, hogyan lehet panaszt tenni, ha a végrehajtásra nem kerül sor</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_hu.htm\">                                              <span>A tagállamok nemzeti joga (N-Lex)</span>                                           </a>                                           <p>Hozzáférés 28 uniós tagország hivatalos nemzeti jogszabálygyűjteményéhez</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">A tagállami kormányok közötti jogi együttműködés</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_hu.htm\">                                              <span>Európai igazságügyi együttműködés polgári ügyekben</span>                                           </a>                                           <p>A tagállami bíróságok közötti együttműködés polgári ügyekben</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/hu.aspx\">                                              <span>EUROJUST – Európai Igazságügyi Együttműködési Egység</span>                                           </a>                                           <p>Az EU-tagországok közötti együttműködés javítása a szervezett és a több tagállamra kiterjedő bűnözés elleni küzdelem terén</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=hu&amp;amp;action=home\">                                              <span>Európai igazságügyi portál</span>                                           </a>                                           <p>A portálon az érdeklődő választ kap jogi segítségnyújtással, illetve jogi képzéssel kapcsolatos, több országot érintő ügyekben felmerülő kérdéseire, továbbá linkeket talál az EU különböző országainak jogi adatbázisaihoz, valamint online fizetésképtelenségi és ingatlan-nyilvántartásaihoz.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "it": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Applicazione del diritto dell'UE</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Attuazione della legislazione dell'UE nei paesi membri</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_it.htm\">                                              <span>Applicazione del diritto dell'Unione europea</span>                                           </a>                                           <p>Attuazione del diritto dell'UE nei vari in paesi e presentazione di una denuncia in caso di violazioni</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_it.htm\">                                              <span>Legislazione nazionale (N-Lex)</span>                                           </a>                                           <p>Accesso alle banche dati della legislazione nazionale di 28 paesi dell'UE</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Cooperazione giudiziaria tra i governi dell'UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_it.htm\">                                              <span>Cooperazione giudiziaria europea in materia civile</span>                                           </a>                                           <p>Cooperazione tra i tribunali nazionali in materia civile</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/it.aspx\">                                              <span>EUROJUST - Unità di cooperazione giudiziaria dell'UE</span>                                           </a>                                           <p>Migliorare il coordinamento tra i paesi membri dell'UE per combattere la criminalità transfrontaliera e organizzata</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=it&amp;amp;action=home\">                                              <span>Portale europeo della giustizia elettronica</span>                                           </a>                                           <p>Informazioni sul patrocinio a spese dello Stato e sulla formazione giudiziaria, link a banche dati giuridiche nazionali, nonché a registri fallimentari e immobiliari di tutta l'UE.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">ES teisės taikymas</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Kaip valstybės narės įgyvendina ES teisės aktus</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_lt.htm\">                                              <span>Kaip taikoma ES teisė</span>                                           </a>                                           <p>Kaip ES teisė įgyvendinama jūsų šalyje ir kaip teikti skundą, jei ji taikoma netinkamai</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_lt.htm\">                                              <span>Nacionaliniai teisės aktai („N-Lex“)</span>                                           </a>                                           <p>Prieiga prie 28 ES šalių nacionalinių teisės aktų oficialių duomenų bazių</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">ES valstybių vyriausybių teisinis bendradarbiavimas</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_lt.htm\">                                              <span>Europos teismų bedradarbiavimas civilinėse bylose</span>                                           </a>                                           <p>Nacionalinių teismų tarpusavio bendradarbiavimas civilinėse bylose</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/lt.aspx\">                                              <span>Eurojustas – ES teisminio bendradarbiavimo padalinys</span>                                           </a>                                           <p>Jis rūpinasi geresniu ES valstybių narių veiklos koordinavimu tarptautinio ir organizuoto nusikalstamumo srityje</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=lt&amp;amp;action=home\">                                              <span>Europos e. teisingumo portalas</span>                                           </a>                                           <p>Atsakymai į klausimus dėl teisinės pagalbos užsienyje, teisėjų mokymų, nuorodos į teisės srities duomenų bazes bei internetinius ES nemokumo ir žemės registrus.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">ES tiesību aktu piemērošana</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">ES tiesību aktu īstenošana dalībvalstīs</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_lv.htm\">                                              <span>Kā tiek piemēroti ES tiesību akti</span>                                           </a>                                           <p>Kā ES tiesību aktus īsteno jūsu valstī un kā sūdzēties, ja jūsu valsts tos neievēro</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_lv.htm\">                                              <span>Valstu likumdošana (“N-Lex”)</span>                                           </a>                                           <p>Piekļuve 28 ES valstu likumdošanas oficiālajām datubāzēm</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">ES valstu sadarbība tieslietās</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_lv.htm\">                                              <span>Eiropas tiesu iestāžu sadarbība civillietās</span>                                           </a>                                           <p>Valstu tiesu sadabība civillietās</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/lv.aspx\">                                              <span>Eiropas Tiesu sadarbības vienība EUROJUST</span>                                           </a>                                           <p>Šis dienests gādā par ES valstu darbību saskaņotību cīņā pret pārrobežu un organizēto noziedzību</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=lv&amp;amp;action=home\">                                              <span>ES e-tiesiskuma portāls</span>                                           </a>                                           <p>Rodiet atbildes uz jūsu jautājumiem par palīdzību un juridisko izglītību, saites uz juridiskām datubāzēm, maksātnespējas reģistriem un zemes reģistriem visā ES.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "mt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Applikazzjoni tal-Liġi tal-UE</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Implimentazzjoni tal-liġijiet tal-UE mill-pajjiżi membri</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_mt.htm\">                                              <span>Kif tiġi applikata l-liġi tal-UE</span>                                           </a>                                           <p>Kif tiġi implimentata l-liġi tal-UE f'pajjiżek u kif tilmenta jekk dan ma jiġrix</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_mt.htm\">                                              <span>Liġijiet nazzjonali (N-Lex)</span>                                           </a>                                           <p>Idħol fil-bażijiet tad-dejta uffiċjali tal-leġiżlazzjoni nazzjonali fit-28 pajjiż tal-UE</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Kooperazzjoni legali bejn il-gvernijiet tal-UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_mt.htm\">                                              <span>Kooperazzjoni ġudizzjarja f'każijiet ċivili</span>                                           </a>                                           <p>Kooperazzjoni bejn il-qrati nazzjonali f'każijiet ċivili</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/mt.aspx\">                                              <span>EUROJUST - unità ta' kooperazzjoni ġudizzjarja tal-UE</span>                                           </a>                                           <p>It-titjib tal-koordinazzjoni bejn il-pajjiżi membri tal-UE dwar il-kriminalità organizzata u bejn il-fruntieri</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=mt&amp;amp;action=home\">                                              <span>Il-Portal Ewropew Ġustizzja-e</span>                                           </a>                                           <p>Sib it-tweġibiet għal mistoqsijiet transkonfinali dwar l-għajnuna legali, it-taħriġ ġudizzjarju, links għal bażijiet ta' dejta legali u għal reġistri onlajn tal-insolvenza u tal-artijiet madwar l-UE.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "nl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Toepassing van EU-wetgeving</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Uitvoering van EU-wetgeving door EU-landen</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_nl.htm\">                                              <span>Hoe de EU-wetgeving wordt toegepast</span>                                           </a>                                           <p>Hoe de EU-wetgeving in uw land wordt toegepast en hoe u een klacht kunt indienen als dat niet gebeurt</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_nl.htm\">                                              <span>Nationale wetgeving (N-Lex)</span>                                           </a>                                           <p>Zoeken in de officiële wetgevingsdatabanken van 28 EU-landen</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Justitiële samenwerking tussen EU-regeringen</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_nl.htm\">                                              <span>Europese justitiële samenwerking in burgerlijke zaken</span>                                           </a>                                           <p>Samenwerking tussen nationale rechtbanken in burgerlijke zaken</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/nl.aspx\">                                              <span>Eurojust - EU-team voor justitiële samenwerking</span>                                           </a>                                           <p>Verbetering van de coördinatie tussen de EU-landen op het gebied van internationale georganiseerde misdaad</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=nl&amp;amp;action=home\">                                              <span>Europese e-justitieportaal</span>                                           </a>                                           <p>Alles wat u wilt weten over juridische bijstand en opleidingen, links naar juridische databases, en online-insolventieregisters en -kadasters in de hele EU</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Stosowanie prawa UE</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Wdrażanie prawa UE przez państwa członkowskie</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_pl.htm\">                                              <span>Jak stosowane jest prawo UE</span>                                           </a>                                           <p>Jak stosowane są przepisy prawa europejskiego w Twoim kraju i jak wnieść skargę w przypadku ich nieprzestrzegania?</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_pl.htm\">                                              <span>Przepisy prawa krajowego (N-Lex)</span>                                           </a>                                           <p>Dostęp do oficjalnych zbiorów aktów prawnych 28 państw członkowskich UE</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Współpraca prawna między państwami UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_pl.htm\">                                              <span>Europejska współpraca sądowa w sprawach cywilnych</span>                                           </a>                                           <p>Współpraca sądów krajowych w sprawach cywilnych</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/pl.aspx\">                                              <span>EUROJUST – Europejska Jednostka Współpracy Sądowej</span>                                           </a>                                           <p>Lepsza koordynacja działań państw członkowskich UE w zakresie zwalczania przestępczości transgranicznej i zorganizowanej</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=pl&amp;action=home\">                                              <span>Europejski portal e-Sprawiedliwość</span>                                           </a>                                           <p>Informacje na temat pomocy prawnej za granicą i szkoleń prawniczych, linki do baz aktów prawnych oraz rejestrów dłużników niewypłacalnych i ewidencji gruntów on-line w całej UE</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Aplicação do direito da UE</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Aplicação da legislação da UE pelos Estados-Membros</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_pt.htm\">                                              <span>Aplicação do direito da UE</span>                                           </a>                                           <p>Como é aplicada a legislação da UE em cada país. O que fazer caso a legislação não seja corretamente aplicada.</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_pt.htm\">                                              <span>Legislação nacional (N-Lex)</span>                                           </a>                                           <p>Acesso às bases de dados oficiais da legislação nacional em 28 países da UE</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Cooperação jurídica entre os governos da UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_pt.htm\">                                              <span>Cooperação judiciária europeia em matéria civil</span>                                           </a>                                           <p>Cooperação entre tribunais nacionais em processos civis</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/pt.aspx\">                                              <span>EUROJUST - Unidade de Cooperação Judiciária da UE</span>                                           </a>                                           <p>Coordenação entre os países da UE contra a criminalidade organizada e transfronteiras</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=pt&amp;amp;action=home\">                                              <span>Portal Europeu da Justiça</span>                                           </a>                                           <p>Questões transfronteiras em matéria de apoio judiciário e formação judiciária. Ligações a bases de dados jurídicas e acesso em linha aos registos de insolvências e aos registos prediais em toda a UE.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ro": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Aplicarea dreptului UE</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Punerea în aplicare a dreptului UE în statele membre</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_ro.htm\">                                              <span>Punerea în aplicare a dreptului UE</span>                                           </a>                                           <p>Aflaţi cum este pusă în aplicare legislaţia UE în ţara dumneavoastră şi cum să depuneţi o plângere</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_ro.htm\">                                              <span>Legislaţia naţională (N-Lex)</span>                                           </a>                                           <p>Accesaţi bazele de date naţionale cu legislaţiile în vigoare în cele 28 de ţări ale Uniunii Europene</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Cooperarea dintre guvernele statelor membre ale UE în domeniul juridic</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_ro.htm\">                                              <span>Cooperarea judiciară europeană în materie civilă</span>                                           </a>                                           <p>Cooperarea dintre instanţele naţionale în cauze civile</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/ro.aspx\">                                              <span>EUROJUST - Unitatea Europeană de Cooperare Judiciară</span>                                           </a>                                           <p>Consolidarea cooperării dintre statele membre în vederea combaterii criminalităţii transfrontaliere şi a crimei organizate</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=ro&amp;amp;action=home\">                                              <span>Portalul european e-justiţie</span>                                           </a>                                           <p>Răspunsuri la întrebări referitoare la aspecte cu caracter transfrontalier despre asistenţa juridică şi formarea judiciară, linkuri către bazele de date juridice şi registrele de insolvenţă şi de carte funciară din UE.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sk": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Uplatňovanie práva EÚ</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Ako členské štáty implementujú právo EÚ</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_sk.htm\">                                              <span>Uplatňovanie právnych predpisov EÚ</span>                                           </a>                                           <p>Informácie o uplatňovaní právnych predpisov v jednotlivých členských štátoch a o možnostiach podania sťažnosti v prípade ich nesprávneho uplatnenia</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_sk.htm\">                                              <span>Vnútroštátne právne predpisy (N-Lex)</span>                                           </a>                                           <p>Prístup k oficiálnym databázam vnútroštátnych právnych predpisov v 28 krajinách EÚ</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Právna spolupráca medzi vládami štátov EÚ</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_sk.htm\">                                              <span>Európska justičná spolupráca v občianskoprávnych veciach</span>                                           </a>                                           <p>Spolupráca medzi vnútroštátnymi súdmi v občianskoprávnych veciach</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/sk.aspx\">                                              <span>EUROJUST – Európska jednotka pre súdnu spoluprácu</span>                                           </a>                                           <p>Zlepšuje koordináciu medzi členskými štátmi EÚ v oblasti cezhraničného a organizovaného zločinu</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=sk&amp;amp;action=home\">                                              <span>Európsky portál elektronickej justície</span>                                           </a>                                           <p>Informácie o právnom poradenstve v prípade cezhraničných otázok, o justičnom vzdelávaní, odkazy na právne databázy a online registre insolventných dlžníkov, ako aj informácie z katastrov nehnuteľností z celej EÚ.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Uporaba prava EU</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Uporaba prava EU v državah članicah</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_sl.htm\">                                              <span>Uporaba prava EU</span>                                           </a>                                           <p>Uporaba prava EU v vaši državi in vložitev pritožbe v primeru kršitve.</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_sl.htm\">                                              <span>Nacionalna zakonodaja (N-Lex)</span>                                           </a>                                           <p>Dostop do uradnih podatkovnih zbirk nacionalne zakonodaje 28 držav članic EU</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Pravno sodelovanje med vladami držav EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_sl.htm\">                                              <span>Evropsko pravosodno sodelovanje v civilnih zadevah</span>                                           </a>                                           <p>Sodelovanje med nacionalnimi sodišči v civilnih zadevah</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/sl.aspx\">                                              <span>Urad EU za pravosodno sodelovanje EUROJUST</span>                                           </a>                                           <p>Za boljše usklajevanje ukrepov držav članic Evropske unije v boju proti čezmejnemu in organiziranemu kriminalu</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=sl&amp;amp;action=home\">                                              <span>Evropski portal e-pravosodje</span>                                           </a>                                           <p>Informacije o pravni pomoči, pravosodnem usposabljanju, pravnih zbirkah podatkov, registrih plačilne nesposobnosti in zemljiških knjigah v EU.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Tillämpning av EU-lagstiftningen</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Införlivande i nationell lagstiftning</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/atwork/applying-eu-law/index_sv.htm\">                                              <span>Så tillämpas EU-lagstiftningen</span>                                           </a>                                           <p>Beskrivning av hur EU-reglerna införs i lagstiftningen i ditt land och hur du kan klaga om det inte görs.</p>                                        </li>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/n-lex/index_sv.htm\">                                              <span>Nationell lagstiftning (N-Lex)</span>                                           </a>                                           <p>Portal för officiella databaser med den nationella lagstiftningen i 28 EU-länder.</p>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Rättsligt samarbete mellan EU-länderna</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/justice_home/judicialatlascivil/html/index_sv.htm\">                                              <span>Civilrättsligt samarbete inom EU</span>                                           </a>                                           <p>Samarbete mellan EU-ländernas domstolar i civilmål.</p>                                        </li>                                        <li>                                           <a href=\"http://eurojust.europa.eu/Pages/languages/sv.aspx\">                                              <span>Eurojust – enheten för rättsligt samarbete</span>                                           </a>                                           <p>Enheten verkar för bättre samordning mellan EU-länderna i fråga om internationell och organiserad brottslighet.</p>                                        </li>                                        <li>                                           <a href=\"https://e-justice.europa.eu/home.do?plang=sv&amp;amp;action=home\">                                              <span>Europeiska juridikportalen</span>                                           </a>                                           <p>Läs om domstolsförfaranden, rättshjälp och juristutbildningar i EU eller sök i rättsdatabaser, konkursregister och fastighetsregister.</p>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_70ab8269f1dcd0cc32a342abd44db984"
+            ]
+        },
+        "download_item": {
+            "und": [
+                "download_item_70ab8269f1dcd0cc32a342abd44db984"
+            ]
+        },
+        "video_gallery_item": {
+            "und": [
+                "video_gallery_item_70ab8269f1dcd0cc32a342abd44db984"
+            ]
+        }
+    }
+}

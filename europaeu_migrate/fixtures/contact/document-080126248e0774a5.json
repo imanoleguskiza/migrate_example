@@ -1,0 +1,519 @@
+{
+  "_id": "080126248e0774a5",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e0774a5",
+        "080126248e0774a5",
+        "080126248e0774a5",
+        "080126248e0774a5",
+        "080126248e0774a5",
+        "080126248e0774a5",
+        "080126248e0774a5",
+        "080126248e0774a5",
+        "080126248e0774a5"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски омбудсман"
+      ],
+      "cs": [
+        "Evropský veřejný ochránce práv"
+      ],
+      "da": [
+        "Den Europæiske Ombudsmand"
+      ],
+      "de": [
+        "Europäischer Bürgerbeauftragter"
+      ],
+      "el": [
+        "Ευρωπαίος Διαμεσολαβητής"
+      ],
+      "en": [
+        "European Ombudsman"
+      ],
+      "es": [
+        "Defensor del Pueblo Europeo"
+      ],
+      "et": [
+        "Euroopa Ombudsman"
+      ],
+      "fi": [
+        "Euroopan oikeusasiamies"
+      ],
+      "fr": [
+        "Médiateur européen"
+      ],
+      "ga": [
+        "An tOmbudsman Eorpach"
+      ],
+      "hr": [
+        "Europski ombudsman"
+      ],
+      "hu": [
+        "Európai ombudsman"
+      ],
+      "it": [
+        "Mediatore europeo"
+      ],
+      "lt": [
+        "Europos ombudsmenas"
+      ],
+      "lv": [
+        "Eiropas Ombuds"
+      ],
+      "mt": [
+        "Ombudsman Ewropew"
+      ],
+      "nl": [
+        "Europees ombudsman"
+      ],
+      "pl": [
+        "Europejski Rzecznik Praw Obywatelskich"
+      ],
+      "pt": [
+        "Provedor de Justiça Europeu"
+      ],
+      "ro": [
+        "Ombudsmanul European"
+      ],
+      "sk": [
+        "Európsky ombudsman"
+      ],
+      "sl": [
+        "Evropski varuh človekovih pravic"
+      ],
+      "sv": [
+        "Europeiska ombudsmannen"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_ombudsman.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>1 avenue du Président Robert Schuman</p> <p>CS 30403</p> <p>F-67001 Strasbourg Cedex</p> <p>France</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+33 3 88 17 23 13"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+33 3 88 17 90 62"
+      ]
+    },
+    "link_url": {
+      "bg": [
+        "http://www.ombudsman.europa.eu/bg/shortcuts/contacts.faces"
+      ],
+      "cs": [
+        "http://www.ombudsman.europa.eu/cs/shortcuts/contacts.faces"
+      ],
+      "da": [
+        "http://www.ombudsman.europa.eu/da/shortcuts/contacts.faces"
+      ],
+      "de": [
+        "http://www.ombudsman.europa.eu/de/shortcuts/contacts.faces"
+      ],
+      "el": [
+        "http://www.ombudsman.europa.eu/el/shortcuts/contacts.faces"
+      ],
+      "en": [
+        "http://www.ombudsman.europa.eu/en/shortcuts/contacts.faces"
+      ],
+      "es": [
+        "http://www.ombudsman.europa.eu/es/shortcuts/contacts.faces"
+      ],
+      "et": [
+        "http://www.ombudsman.europa.eu/et/shortcuts/contacts.faces"
+      ],
+      "fi": [
+        "http://www.ombudsman.europa.eu/fi/shortcuts/contacts.faces"
+      ],
+      "fr": [
+        "http://www.ombudsman.europa.eu/fr/shortcuts/contacts.faces"
+      ],
+      "ga": [
+        "http://www.ombudsman.europa.eu/ga/shortcuts/contacts.faces"
+      ],
+      "hr": [
+        "http://www.ombudsman.europa.eu/hr/shortcuts/contacts.faces"
+      ],
+      "hu": [
+        "http://www.ombudsman.europa.eu/hu/shortcuts/contacts.faces"
+      ],
+      "it": [
+        "http://www.ombudsman.europa.eu/it/shortcuts/contacts.faces"
+      ],
+      "lt": [
+        "http://www.ombudsman.europa.eu/lt/shortcuts/contacts.faces"
+      ],
+      "lv": [
+        "http://www.ombudsman.europa.eu/lv/shortcuts/contacts.faces"
+      ],
+      "mt": [
+        "http://www.ombudsman.europa.eu/mt/shortcuts/contacts.faces"
+      ],
+      "nl": [
+        "http://www.ombudsman.europa.eu/nl/shortcuts/contacts.faces"
+      ],
+      "pl": [
+        "http://www.ombudsman.europa.eu/pl/shortcuts/contacts.faces"
+      ],
+      "pt": [
+        "http://www.ombudsman.europa.eu/pt/shortcuts/contacts.faces"
+      ],
+      "ro": [
+        "http://www.ombudsman.europa.eu/ro/shortcuts/contacts.faces"
+      ],
+      "sk": [
+        "http://www.ombudsman.europa.eu/sk/shortcuts/contacts.faces"
+      ],
+      "sl": [
+        "http://www.ombudsman.europa.eu/sl/shortcuts/contacts.faces"
+      ],
+      "sv": [
+        "http://www.ombudsman.europa.eu/sv/shortcuts/contacts.faces"
+      ]
+    },
+    "link_label": {
+      "bg": [
+        "За контакти"
+      ],
+      "cs": [
+        "Kontakt"
+      ],
+      "da": [
+        "Kontakt"
+      ],
+      "de": [
+        "Kontakt"
+      ],
+      "el": [
+        "Επικοινωνία"
+      ],
+      "en": [
+        "Contact"
+      ],
+      "es": [
+        "Dirección de contacto"
+      ],
+      "et": [
+        "Kontakt"
+      ],
+      "fi": [
+        "Yhteydenotot"
+      ],
+      "fr": [
+        "Contact"
+      ],
+      "ga": [
+        "Teagmháil"
+      ],
+      "hr": [
+        "Kontakt"
+      ],
+      "hu": [
+        "Kapcsolat"
+      ],
+      "it": [
+        "Per contattarci"
+      ],
+      "lt": [
+        "Kontaktai"
+      ],
+      "lv": [
+        "Kontakti"
+      ],
+      "mt": [
+        "Kuntatt"
+      ],
+      "nl": [
+        "Contact"
+      ],
+      "pl": [
+        "Kontakt"
+      ],
+      "pt": [
+        "Contacto"
+      ],
+      "ro": [
+        "Contact"
+      ],
+      "sk": [
+        "Kontakt"
+      ],
+      "sl": [
+        "Kontakt"
+      ],
+      "sv": [
+        "Kontakt"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "https://plus.google.com/101520878267293271723/posts",
+        "https://twitter.com/EUombudsman",
+        "https://www.linkedin.com/company/european-ombudsman",
+        "https://www.youtube.com/user/eotubes",
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Google+",
+        "Twitter",
+        "LinkedIn",
+        "YouTube",
+        "Social networks"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    }
+  }
+}

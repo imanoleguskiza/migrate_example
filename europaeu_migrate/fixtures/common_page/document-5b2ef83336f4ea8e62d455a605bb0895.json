@@ -1,0 +1,830 @@
+{
+    "_id": "5b2ef83336f4ea8e62d455a605bb0895",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/eu-law/case-law/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/eu-law/case-law/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/eu-law/case-law/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/eu-law/case-law/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/eu-law/case-law/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/eu-law/case-law/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/eu-law/case-law/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/eu-law/case-law/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/eu-law/case-law/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/eu-law/case-law/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/eu-law/case-law/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/eu-law/case-law/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/eu-law/case-law/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/eu-law/case-law/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/eu-law/case-law/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/eu-law/case-law/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/eu-law/case-law/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/eu-law/case-law/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/eu-law/case-law/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/eu-law/case-law/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/eu-law/case-law/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/eu-law/case-law/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/eu-law/case-law/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/eu-law/case-law/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Съдебна практика"
+            ],
+            "cs": [
+                "Judikatura"
+            ],
+            "da": [
+                "Retspraksis"
+            ],
+            "de": [
+                "Rechtsprechung"
+            ],
+            "el": [
+                "Νομολογία"
+            ],
+            "en": [
+                "Find case-law"
+            ],
+            "es": [
+                "Jurisprudencia"
+            ],
+            "et": [
+                "Kohtupraktika"
+            ],
+            "fi": [
+                "Oikeuskäytäntö"
+            ],
+            "fr": [
+                "Jurisprudence"
+            ],
+            "ga": [
+                "Cásdlí"
+            ],
+            "hr": [
+                "Sudska praksa"
+            ],
+            "hu": [
+                "Ítélkezési gyakorlat"
+            ],
+            "it": [
+                "Giurisprudenza"
+            ],
+            "lt": [
+                "Teismų praktika"
+            ],
+            "lv": [
+                "Judikatūra"
+            ],
+            "mt": [
+                "Każistika"
+            ],
+            "nl": [
+                "Jurisprudentie"
+            ],
+            "pl": [
+                "Orzecznictwo"
+            ],
+            "pt": [
+                "Jurisprudência"
+            ],
+            "ro": [
+                "Jurisprudenţă"
+            ],
+            "sk": [
+                "Judikatúra"
+            ],
+            "sl": [
+                "Sodna praksa"
+            ],
+            "sv": [
+                "Rättspraxis"
+            ]
+        },
+        "category": {
+            "und": [
+                "22255c5"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/"
+            ],
+            "cs": [
+                "EUROPA/"
+            ],
+            "da": [
+                "EUROPA/"
+            ],
+            "de": [
+                "EUROPA/"
+            ],
+            "el": [
+                "EUROPA/"
+            ],
+            "en": [
+                "EUROPA/"
+            ],
+            "es": [
+                "EUROPA/"
+            ],
+            "et": [
+                "EUROPA/"
+            ],
+            "fi": [
+                "EUROPA/"
+            ],
+            "fr": [
+                "EUROPA/"
+            ],
+            "ga": [
+                "EUROPA/"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "EUROPA/"
+            ],
+            "it": [
+                "EUROPA/"
+            ],
+            "lt": [
+                "EUROPA/"
+            ],
+            "lv": [
+                "EUROPA/"
+            ],
+            "mt": [
+                "EUROPA/"
+            ],
+            "nl": [
+                "EUROPA/"
+            ],
+            "pl": [
+                "EUROPA/"
+            ],
+            "pt": [
+                "EUROPA/"
+            ],
+            "ro": [
+                "EUROPA/"
+            ],
+            "sk": [
+                "EUROPA/"
+            ],
+            "sl": [
+                "EUROPA/"
+            ],
+            "sv": [
+                "EUROPA/"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "ipg"
+            ],
+            "cs": [
+                "ipg"
+            ],
+            "da": [
+                "ipg"
+            ],
+            "de": [
+                "ipg"
+            ],
+            "el": [
+                "ipg"
+            ],
+            "en": [
+                "ipg"
+            ],
+            "es": [
+                "ipg"
+            ],
+            "et": [
+                "ipg"
+            ],
+            "fi": [
+                "ipg"
+            ],
+            "fr": [
+                "ipg"
+            ],
+            "ga": [
+                "ipg"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "ipg"
+            ],
+            "it": [
+                "ipg"
+            ],
+            "lt": [
+                "ipg"
+            ],
+            "lv": [
+                "ipg"
+            ],
+            "mt": [
+                "ipg"
+            ],
+            "nl": [
+                "ipg"
+            ],
+            "pl": [
+                "ipg"
+            ],
+            "pt": [
+                "ipg"
+            ],
+            "ro": [
+                "ipg"
+            ],
+            "sk": [
+                "ipg"
+            ],
+            "sl": [
+                "ipg"
+            ],
+            "sv": [
+                "ipg"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Търсене в съдебната практика на Съда на Европейския съюз по номер на дело, имена на страни по дело или дата. "
+            ],
+            "cs": [
+                "Vyhledávání judikatury EU na stránkách Evropského soudního dvora podle čísla věci, data nebo jména/názvu zúčastněných stran. "
+            ],
+            "da": [
+                "Søg efter nyere EU-retspraksis på Domstolens hjemmeside på sagsnummer, parternes navne eller dato. "
+            ],
+            "de": [
+                "Suche nach der jüngsten EU-Rechtsprechung auf der Website des Europäischen Gerichtshofs, nach Nummer der Rechtssache, Namen der Parteien oder Datum "
+            ],
+            "el": [
+                "Αναζήτηση πρόσφατης νομολογίας της ΕΕ στον ιστότοπο του Δικαστηρίου της Ευρωπαϊκής Ένωσης, με βάση τον αριθμό υπόθεσης, τα ονόματα των διαδίκων ή την ημερομηνία.. "
+            ],
+            "en": [
+                "Search for recent EU case-law on the European Court of Justice website by case number, by names of the parties or by date. "
+            ],
+            "es": [
+                "Buscar la jurisprudencia reciente de la UE en la web del Tribunal de Justicia de la Unión Europea, por nombres de las partes o por fecha. "
+            ],
+            "et": [
+                "Hiljutise ELi kohtupraktika otsing Euroopa Kohtu veebisaidil kohtuasja numbri, osapoolte nimede või kuupäeva järgi.   "
+            ],
+            "fi": [
+                "Unionin tuomioistuimen sivustolta voi hakea tietoa viimeisimmästä EU:n oikeuskäytännöstä esimerkiksi asian numeron, asianosaisten nimien tai päivämäärän perusteella. "
+            ],
+            "fr": [
+                "Consulter la jurisprudence récente de l'UE sur le site web de la Cour de justice  de l'Union européenne en effectuant une recherche par numéro d'affaires, par nom des parties ou par date "
+            ],
+            "ga": [
+                "Aimsigh an cásdlí AE is déanaí ar shuíomh gréasáin Chúirt Bhreithiúnais na hEorpa de réir cásuimhreach, ainmneacha na bpáirtithe nó dáta. "
+            ],
+            "hr": [
+                "Pretraživanje novije sudske prakse EU-a na internetskim stranicama Suda Europske unije po broju predmeta, imenima stranaka ili datumu. "
+            ],
+            "hu": [
+                "Jogesetek keresése az Európai Bíróság honlapján ügyszám, a felek neve, illetve időpont alapján. "
+            ],
+            "it": [
+                "Accesso alla giurisprudenza recente dell'UE sul sito della Corte di giustizia dell'Unione europea per numero della causa, nome delle parti o data. "
+            ],
+            "lt": [
+                "Naujausios ES teismų praktikos paieška Europos Teisingumo Teismo svetainėje pagal bylų numerius, šalių pavardes ir pavadinimus ar pagal datą. "
+            ],
+            "lv": [
+                "Eiropas Savienības Tiesas tīmekļa vietnē varat meklēt ES jaunāko judikatūru pēc lietas numura, lietā iesaistīto pušu vārda, nosaukuma vai datuma. "
+            ],
+            "mt": [
+                "Fittex il-każistika riċenti tal-UE fuq il-websajt tal-Qorti Ewropea tal-Ġustizzja bin-numru tal-każ, bl-ismijiet tal-partijiet jew bid-data. "
+            ],
+            "nl": [
+                "Op de website van het Europees Hof van Justitie zoeken naar recente EU-jurisprudentie op zaaknummer, naam of datum. "
+            ],
+            "pl": [
+                "Wyszukiwanie najnowszego orzecznictwa UE na stronie Europejskiego Trybunału Sprawiedliwości w oparciu o nazwy stron lub datę "
+            ],
+            "pt": [
+                "Consultar a jurisprudência recente da UE no sítio Web do Tribunal de Justiça da UE, por número do processo, nome das partes ou data. "
+            ],
+            "ro": [
+                "Căutaţi în jurisprudenţa recentă a UE pe site-ul Curţii de Justiţie a Uniunii Europene, după numărul cauzei, numele părţilor sau dată. "
+            ],
+            "sk": [
+                "Vyhľadávanie najnovšej judikatúry EÚ na internetových stránkach Súdneho dvora EÚ podľa čísla veci, mien účastníkov konania alebo podľa dátumu. "
+            ],
+            "sl": [
+                "Iskanje po najnovejši sodni praksi EU na spletišču Sodišča EU. Iskanje po številki zadeve, imenih strank ali datumu. "
+            ],
+            "sv": [
+                "Hitta aktuell rättspraxis På EU-domstolens webbplats. Du kan söka på målnummer, parternas namn eller datum. "
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "съдебна практика на ЕС",
+                "съдебна практика",
+                "Съд на Европейския съюз",
+                "европейски институции",
+                "EUROPA",
+                "ЕС"
+            ],
+            "cs": [
+                "Judikatura EU",
+                "judikatura",
+                "Evropský soudní dvůr",
+                "evropské orgány",
+                "instituce",
+                "EUROPA",
+                "EU"
+            ],
+            "da": [
+                "EU-retspraksis",
+                "retspraksis",
+                "EU-Domstolen",
+                "Europæiske Institutioner",
+                "EUROPA",
+                "EU"
+            ],
+            "de": [
+                "EU-Rechtsprechung",
+                "Europäischer Gerichtshof",
+                "Europäische Institutionen",
+                "EUROPA",
+                "EU"
+            ],
+            "el": [
+                "Νομολογία ΕΕ",
+                "νομολογία",
+                "Δικαστήριο της Ευρωπαϊκής",
+                "Ευρωπαϊκό Δικαστήριο",
+                "Ευρωπαϊκά θεσμικά όργανα",
+                "EUROPA",
+                "ΕΕ"
+            ],
+            "en": [
+                "EU case-law",
+                "case-law",
+                "European Court of Justice",
+                "European Institutions",
+                "EUROPA",
+                "EU"
+            ],
+            "es": [
+                "Jurisprudencia de la UE",
+                "jurisprudencia",
+                "Tribunal de Justicia de la Unión Europea",
+                "Instituciones Europeas",
+                "EUROPA",
+                "UE"
+            ],
+            "et": [
+                "ELi kohtupraktika",
+                "Euroopa Kohus",
+                "Euroopa institutsioonid",
+                "EUROPA",
+                "EL"
+            ],
+            "fi": [
+                "EU:n oikeuskäytäntö",
+                "oikeustapaukset",
+                "unionin tuomioistuin",
+                "Euroopan unionin tuomioistuin",
+                "EU:n toimielimet",
+                "EUROPA",
+                "EU"
+            ],
+            "fr": [
+                "Jurisprudence de l'UE",
+                "jurisprudence",
+                "Cour de justice de l'Union européenne",
+                "institutions européennes",
+                "EUROPA",
+                "UE"
+            ],
+            "ga": [
+                "Cásdlí AE",
+                "cásdlí",
+                "Cúirt Bhreithiúnais na hEorpa",
+                "Institiúidí Eorpacha",
+                "EUROPA",
+                "AE"
+            ],
+            "hr": [
+                "sudska praksa EU-a",
+                "sudska praksa",
+                "Sud Europske unije",
+                "europske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "hu": [
+                "Uniós ítélkezési gyakorlat",
+                "jogesetek",
+                "Európai Bíróság",
+                "európai intézmények",
+                "EUROPA",
+                "EU"
+            ],
+            "it": [
+                "Giurisprudenza dell'UE",
+                "giurisprudenza",
+                "Corte di giustizia dell'Unione europea",
+                "istituzioni europee",
+                "EUROPA",
+                "UE"
+            ],
+            "lt": [
+                "ES teismų praktika",
+                "teismų praktika",
+                "Europos Teisingumo Teismas",
+                "ES institucijos",
+                "EUROPA",
+                "ES"
+            ],
+            "lv": [
+                "ES judikatūra",
+                "judikatūra",
+                "Eiropas Savienības Tiesa",
+                "ES iestādes",
+                "EUROPA",
+                "ES"
+            ],
+            "mt": [
+                "Każistika tal-UE",
+                "każistika",
+                "Qorti Ewropea tal-Ġustizzja",
+                "Istituzzjonijiet Ewropej",
+                "EUROPA",
+                "UE"
+            ],
+            "nl": [
+                "EU-jurisprudentie",
+                "jurisprudentie",
+                "Europeees Hof van Justitie",
+                "Europese instellingen",
+                "EUROPA",
+                "EU"
+            ],
+            "pl": [
+                "Orzecznictwo UE",
+                "orzecznictwo",
+                "Europejski Trybunał Sprawiedliwości",
+                "instytucje europejskie",
+                "EUROPA",
+                "UE"
+            ],
+            "pt": [
+                "Jurisprudência da UE",
+                "jurisprudência",
+                "Tribunal de Justiça da União Europeia",
+                "instituições europeias",
+                "EUROPA",
+                "UE"
+            ],
+            "ro": [
+                "Jurisprudenţa UE",
+                "jurisprudenţă",
+                "Curtea de Justiţie a Uniunii Europene",
+                "instituţii europene",
+                "EUROPA",
+                "UE"
+            ],
+            "sk": [
+                "judikatúra EÚ",
+                "judikatúra",
+                "Európsky súdny dvor",
+                "európske inštitúcie",
+                "Europa",
+                "EÚ"
+            ],
+            "sl": [
+                "Sodna praksa EU",
+                "sodna praksa",
+                "sodišče EU",
+                "evropske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "sv": [
+                "EU:s rättspraxis",
+                "EU-domstolen",
+                "EU-institutioner",
+                "europa.eu",
+                "EUROPA",
+                "EU"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Търсене на съдебна практика</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>Съдебната практика на ЕС се състои от решения на Съда на Европейския съюз, с които се тълкува законодателството на Съюза.</p>                                     <h2 id=\"goto_1\">Търсене на дело в уебсайта на Съда на ЕС</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=bg\">                                              <span>Търсене по номер на дело</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=bg\">                                              <span>Формуляр за разширено търсене</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Алтернативни опции за търсене на съдебна практика на ЕС</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1408374283704&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=bg\">                                              <span>Последни документи от съдебната практика - EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "cs": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Vyhledávat v judikatuře</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>Judikaturu EU tvoří rozsudky Soudního dvora Evropské unie, které právní předpisy EU vykládají.</p>                                     <h2 id=\"goto_1\">Vyhledávání věcí na stránkách Soudního dvora EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=cs\">                                              <span>Vyhledávání podle čísla věci</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=cs\">                                              <span>Formulář pro pokročilé vyhledávání</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Jiné možnosti vyhledávání v judikatuře EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=cs\">                                              <span>Nejnovější dokumenty z judikatury – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "da": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Find retspraksis</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>EU's retspraksis består af domme afsagt af EU-Domstolen, som fortolker EU-lovgivningen.</p>                                     <h2 id=\"goto_1\">Søg efter en sag på EU-Domstolens hjemmeside</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=da\">                                              <span>Søg på sagsnummer</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=da\">                                              <span>Avanceret søgning</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Andre søgemuligheder for EU-retspraksis</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=da\">                                              <span>EU's seneste retspraksis – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "de": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Rechtssachen finden</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>Die EU-Rechtsprechung besteht aus Urteilen in Rechtssachen des Europäischen Gerichtshofs, in denen die EU-Rechtsvorschriften ausgelegt werden.</p>                                     <h2 id=\"goto_1\">Suche nach einer Rechtssache auf der Website des Gerichtshofs der EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=de\">                                              <span>Suche nach Nummer der Rechtssache</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=de\">                                              <span>Formular für erweiterte Suche</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Andere Optionen für die Suche nach EU-Rechtsprechung</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=de\">                                              <span>Jüngste Rechtsprechungsdokumente – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "el": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Αναζήτηση νομολογίας</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>Η νομολογία της ΕΕ αποτελείται από αποφάσεις του Δικαστηρίου της Ευρωπαϊκής Ένωσης, οι οποίες ερμηνεύουν τη νομοθεσία της ΕΕ.</p>                                     <h2 id=\"goto_1\">Αναζήτηση υπόθεσης στον ιστότοπο του Δικαστηρίου της Ευρωπαϊκής Ένωσης</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=el\">                                              <span>Αναζήτηση με βάση τον αριθμό της υπόθεσης</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=el\">                                              <span>Δελτίο σύνθετης αναζήτησης</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Εναλλακτικές δυνατότητες αναζήτησης στη νομολογία της ΕΕ</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=el\">                                              <span>Τα πλέον πρόσφατα έγγραφα νομολογίας – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "en": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Find case-law</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>EU case-law is made up of judgments from the European Union's Court of Justice, which interpret EU legislation.</p>                                     <h2 id=\"goto_1\">Search for a case on the European Court of Justice website</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=en\">                                              <span>Search by case number</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=en\">                                              <span>Advanced search form</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Alternative search options for EU case-law</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=en\">                                              <span>Latest case-law documents – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "es": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Buscar jurisprudencia</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>La jurisprudencia de la UE se compone de las sentencias del Tribunal de Justicia de la Unión Europea, que interpreta la legislación de la UE.</p>                                     <h2 id=\"goto_1\">Buscar una sentencia en la web del Tribunal de Justicia</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=es\">                                              <span>Búsqueda por número de asunto</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=es\">                                              <span>Formulario de búsqueda avanzada</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Otras opciones de búsqueda de jurisprudencia de la UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=es\">                                              <span>Últimos documentos de la jurisprudencia (EUR-Lex)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "et": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Kohtupraktika otsing</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>ELi kohtupraktika koosneb Euroopa Liidu Kohtu lahenditest, mis tõlgendavad ELi õigusakte.</p>                                     <h2 id=\"goto_1\">Kohtuasja otsing Euroopa Kohtu veebisaidil</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=et\">                                              <span>Otsing kohtuasja numbri järgi</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=et\">                                              <span>Täppisotsingu vorm</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Muud ELi kohtupraktika otsinguvõimalused</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=et\">                                              <span>Hiljutised kohtupraktika dokumendid – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fi": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Haku oikeuskäytännöstä</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>EU:n oikeuskäytäntö koostuu Euroopan unionin tuomioistuimen tuomioista, joissa tulkitaan EU:n lainsäädäntöä.</p>                                     <h2 id=\"goto_1\">Haku EU:n tuomioistuinten verkkosivustolta – oikeustapaukset</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=fi\">                                              <span>Haku asian numeron perusteella</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=fi\">                                              <span>Tarkennetun haun lomake</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Vaihtoehtoiset haun asetukset – EU:n oikeuskäytäntö</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=fi\">                                              <span>Uusimmat oikeuskäytännön asiakirjat – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Consulter la jurisprudence</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>La jurisprudence de l'UE est constituée des arrêts de la Cour de justice de l'Union européenne, qui interprète la législation européenne.</p>                                     <h2 id=\"goto_1\">Rechercher une affaire sur le site web de la Cour de justice de l'Union européenne</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=fr\">                                              <span>Recherche par numéro d'affaire</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=fr\">                                              <span>Formulaire de recherche avancée</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Autres options de recherche – Jurisprudence de l'UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=fr\">                                              <span>Afffaires récentes de la Cour de justice – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ga": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Aimsigh cásdlí</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>I gcásdlí an AE bíonn breithiúnais ó Chúirt Bhreithiúnais an Aontais Eorpaigh, a dhéanann léirmhíniú ar reachtaíocht an AE.</p>                                     <h2 id=\"goto_1\">Cuardaigh cás ar shuíomh gréasáin na Cúirte Breithiúnais Eorpaí</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=ga\">                                              <span>Cuardaigh de réir uimhreach cáis</span>                                           </a>                                        </li>                                        <li>                                           <span class=\"link-disabled\">                                              <span>Foirm do chuardach casta</span>                                           </span>                                           <span class=\"ws-popup ws-modal\">                                              <a class=\"ws-ico\" href=\"javascript:void(0)\"                                                 onclick=\"return webservice.popup(this,'')\"                                                 title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                                                 <img alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                                                      src=\"http://europa.eu/wel/images/languages/ws.gif\"                                                      height=\"13\"                                                      width=\"16\"/>                                                 <span class=\"s\"> </span>                                              </a>                                              <span class=\"ws-links\">                                                 <span class=\"ws-popup-layout\">                                                    <a hreflang=\"bg\" lang=\"bg\" title=\"български (bg)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=bg\">                                                       <span>български (</span>bg                           <span>)</span>                                                    </a>                                                    <a hreflang=\"cs\" lang=\"cs\" title=\"čeština (cs)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=cs\">                                                       <span>čeština (</span>cs                           <span>)</span>                                                    </a>                                                    <a hreflang=\"da\" lang=\"da\" title=\"dansk (da)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=da\">                                                       <span>dansk (</span>da                           <span>)</span>                                                    </a>                                                    <a hreflang=\"de\" lang=\"de\" title=\"Deutsch (de)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=de\">                                                       <span>Deutsch (</span>de                           <span>)</span>                                                    </a>                                                    <a hreflang=\"el\" lang=\"el\" title=\"ελληνικά (el)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=el\">                                                       <span>ελληνικά (</span>el                           <span>)</span>                                                    </a>                                                    <a hreflang=\"en\" lang=\"en\" title=\"English (en)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=en\">                                                       <span>English (</span>en                           <span>)</span>                                                    </a>                                                    <a hreflang=\"es\" lang=\"es\" title=\"español (es)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=es\">                                                       <span>español (</span>es                           <span>)</span>                                                    </a>                                                    <a hreflang=\"et\" lang=\"et\" title=\"eesti keel (et)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=et\">                                                       <span>eesti keel (</span>et                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fi\" lang=\"fi\" title=\"suomi (fi)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=fi\">                                                       <span>suomi (</span>fi                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fr\" lang=\"fr\" title=\"français (fr)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=fr\">                                                       <span>français (</span>fr                           <span>)</span>                                                    </a>                                                    <a hreflang=\"hu\" lang=\"hu\" title=\"magyar (hu)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=hu\">                                                       <span>magyar (</span>hu                           <span>)</span>                                                    </a>                                                    <a hreflang=\"it\" lang=\"it\" title=\"italiano (it)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=it\">                                                       <span>italiano (</span>it                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lt\" lang=\"lt\" title=\"lietuvių kalba (lt)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=lt\">                                                       <span>lietuvių kalba (</span>lt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lv\" lang=\"lv\" title=\"latviešu valoda (lv)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=lv\">                                                       <span>latviešu valoda (</span>lv                           <span>)</span>                                                    </a>                                                    <a hreflang=\"mt\" lang=\"mt\" title=\"Malti (mt)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=mt\">                                                       <span>Malti (</span>mt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"nl\" lang=\"nl\" title=\"Nederlands (nl)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=nl\">                                                       <span>Nederlands (</span>nl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pl\" lang=\"pl\" title=\"polski (pl)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=pl\">                                                       <span>polski (</span>pl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pt\" lang=\"pt\" title=\"português (pt)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=pt\">                                                       <span>português (</span>pt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"ro\" lang=\"ro\" title=\"română (ro)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=ro\">                                                       <span>română (</span>ro                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sk\" lang=\"sk\" title=\"slovenčina (sk)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=sk\">                                                       <span>slovenčina (</span>sk                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sl\" lang=\"sl\" title=\"slovenščina (sl)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=sl\">                                                       <span>slovenščina (</span>sl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sv\" lang=\"sv\" title=\"svenska (sv)\"                                                       href=\"http://curia.europa.eu/juris/recherche.jsf?language=sv\">                                                       <span>svenska (</span>sv                           <span>)</span>                                                    </a>                                                 </span>                                              </span>                                           </span>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Roghanna cuardaigh malartacha do chásdlí AE</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=ga\">                                              <span>Doiciméid chásdlí AE is déanaí - EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Pretraživanje sudske prakse</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>Sudska praksa EU-a sastoji se od presuda Suda Europske unije koje tumače zakonodavstvo EU-a.</p>                                     <h2 id=\"goto_1\">Sudska praksa</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=hr\">                                              <span>Pretraživanje po broju predmeta</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/eu-law/case-law/index_en.htm\">                                              <span>Obrazac za napredno pretraživanje</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Alternativne mogućnosti pretraživanja sudske prakse EU-a</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=hr\">                                              <span>Najnoviji predmeti – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hu": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Az ítélkezési gyakorlathoz tartozó dokumentum keresése</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>Az uniós ítélkezési gyakorlathoz tartozó dokumentumokat az Európai Unió Bíróságának az uniós jogszabályokat értelmező ítéletei alkotják.</p>                                     <h2 id=\"goto_1\">Ügy keresése az Európai Bíróság honlapján</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=hu\">                                              <span>Keresés ügyszám alapján</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=hu\">                                              <span>Részletes kereső</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Keresés az EU ítélkezési gyakorlatában – további lehetőségek</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=hu\">                                              <span>Az ítélkezési gyakorlat legutóbbi dokumentumai – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "it": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Accesso alla giurisprudenza</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>La giurisprudenza dell'UE è composta dalle sentenze della Corte di giustizia dell'Unione europea, la quale interpreta la legislazione dell'UE.</p>                                     <h2 id=\"goto_1\">Cercare una causa nel sito della Corte di giustizia dell'Unione europea</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=it\">                                              <span>Cercare per numero di causa</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=it\">                                              <span>Formulario di ricerca avanzata</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Opzioni di ricerca alternative per la giurisprudenza dell'UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=it\">                                              <span>Giurisprudenza dell'UE – Ultimi documenti disponibili su EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Tesimo praktikos dokumentų paieška</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>ES Teismo praktika – tai Europos Sąjungos Teisingumo Teismo sprendimai, kuriais aiškinami ES teisės aktai.</p>                                     <h2 id=\"goto_1\">Bylų paieška Europos Teisingumo Teismo svetainėje</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=lt\">                                              <span>Paieška pagal bylos numerį</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=lt\">                                              <span>Išplėstinės paieškos forma</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Kiti ES teismų praktikos paieškos būdai</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=lt\">                                              <span>Naujausi teismų praktikos dokumentai svetainėje „EUR-Lex“</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Meklēt judikatūrā</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>ES judikatūru veido Eiropas Savienības Tiesas spriedumi, kuros tā interpretē ES tiesību aktus.</p>                                     <h2 id=\"goto_1\">Meklēt lietu ES Tiesas tīmekļa vietnē</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=lv\">                                              <span>Meklēšana pēc lietu numuriem</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=lv\">                                              <span>Paplašinātās meklēšanas veidlapa</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Citas ES judikatūras meklēšanas iespējas</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=lv\">                                              <span>ES Tiesas jaunākās lietas – datubāze “EUR-Lex”</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "mt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Sib il-każistika</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>Il-każistika tal-UE hija magħmula minn sentenzi tal-Qorti tal-Ġustizzja tal-Unjoni Ewropea, li jinterpretaw il-leġiżlazzjoni tal-UE.</p>                                     <h2 id=\"goto_1\">Fittex każ fuq il-websajt tal-Qrati tal-Ġustizzja Ewropej</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=mt\">                                              <span>Fittex skont in-numru tal-każ</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=mt\">                                              <span>Formola tat-tiftixa avvanzata</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Kif tfittex mod ieħor il-każistika tal-UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=mt\">                                              <span>L-aħħar dokumenti tal-każistika – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "nl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Jurisprudentie zoeken</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>De EU-jurisprudentie omvat alle beslissingen van het Hof van Justitie van de Europese Unie, waarbij de EU-wetgeving wordt toegepast.</p>                                     <h2 id=\"goto_1\">Zoek een zaak op de website van het Europees Hof van Justitie</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=nl\">                                              <span>Op zaaknummer zoeken</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=nl\">                                              <span>Formulier geavanceerd zoeken</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Alternatieve zoekopties voor EU-jurisprudentie</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=nl\">                                              <span>Nieuwste documenten over jurisprudentie – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Szukaj orzecznictwa</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>Orzecznictwo UE składa się z orzeczeń Trybunału Sprawiedliwości Unii Europejskiej, w których Trybunał interpretuje prawodawstwo UE.</p>                                     <h2 id=\"goto_1\">Szukaj sprawy na stronie Trybunału Sprawiedliwości UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=pl\">                                              <span>Szukaj według numeru sprawy</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=pl\">                                              <span>Wyszukiwanie zaawansowane − formularz</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Alternatywne metody wyszukiwania orzecznictwa UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=pl\">                                              <span>Najnowsze orzeczenia – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Procurar textos da jurisprudência</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>A jurisprudência da UE é composta por decisões do Tribunal de Justiça da União Europeia, que interpreta a legislação da UE.</p>                                     <h2 id=\"goto_1\">Procurar um processo no sítio Web do Tribunal de Justiça da UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=pt\">                                              <span>Pesquisa pelo número do processo</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=pt\">                                              <span>Formulário de pesquisa avançada</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Opções de pesquisa da jurisprudência da UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=pt\">                                              <span>Jurisprudência recente – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ro": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Consultare jurisprudenţă</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>Jurisprudenţa UE este formată din hotărârile Curţii de Justiţie a Uniunii Europene, care interpretează legislaţia UE.</p>                                     <h2 id=\"goto_1\">Căutaţi o cauză pe site-ul Curţii de Justiţie a UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=ro\">                                              <span>Căutare după numărul cauzei</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=ro\">                                              <span>Formular de căutare avansată</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Opţiuni alternative de căutare în jurisprudenţa UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=ro\">                                              <span>Cele mai recente hotărâri judecătoreşti – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sk": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Vyhľadať judikatúru</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>Judikatúru EÚ tvoria rozsudky Súdneho dvora Európskej únie, ktoré poskytujú výklad právnych predpisov EÚ.</p>                                     <h2 id=\"goto_1\">Vyhľadať vec na stránkach Súdneho dvora EÚ</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=sk\">                                              <span>Vyhľadávanie podľa čísla veci</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=sk\">                                              <span>Formulár rozšíreného vyhľadávania</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Alternatívne možnosti vyhľadávania judikatúry</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=sk\">                                              <span>Najnovšie dokumenty z oblasti judikatúry – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Iskanje po sodni praksi</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>Sodna praksa EU obsega sodbe Sodišča Evropske unije, ki razlagajo zakonodajo EU.</p>                                     <h2 id=\"goto_1\">Iskanje po zadevi na spletišču Sodišča EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=sl\">                                              <span>Iskanje po številki zadeve</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=sl\">                                              <span>Napredno iskanje</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Druge možnosti iskanja po sodni praksi EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=sl\">                                              <span>Najnovejše zadeve – EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Sök i rättspraxis</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <p>EU:s rättspraxis består av EU-domstolens domar där EU-lagstiftningen tolkas.</p>                                     <h2 id=\"goto_1\">Sök rättspraxis i EU-domstolens databas</h2>                                     <ul>                                        <li>                                           <a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7045/?PortalAction_x_000_userLang=sv\">                                              <span>Sök på målnummer</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://curia.europa.eu/juris/recherche.jsf?language=sv\">                                              <span>Avancerad sökning</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Andra sätt att söka EU-rättspraxis</h2>                                     <ul>                                        <li>                                           <a href=\"http://eur-lex.europa.eu/search.html?qid=1395932669976&amp;name=collection%3Aeu-law-case-law&amp;type=named&amp;locale=sv\">                                              <span>Senaste rättspraxis i EUR-Lex</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_5b2ef83336f4ea8e62d455a605bb0895"
+            ]
+        }
+    }
+}

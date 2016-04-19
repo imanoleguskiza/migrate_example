@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e076f2e",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "sk",
+    "pt",
+    "ro",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e076f2e",
+        "080126248e076f2e",
+        "080126248e076f2e",
+        "080126248e076f2e"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска фондация за обучение(ETF)"
+      ],
+      "cs": [
+        "Evropská nadace odborného vzdělávání(ETF)"
+      ],
+      "da": [
+        "Det Europæiske Erhvervsuddannelsesinstitut(ETF)"
+      ],
+      "de": [
+        "Europäische Stiftung für Berufsbildung(ETF)"
+      ],
+      "el": [
+        "Ευρωπαϊκό Ίδρυμα Επαγγελματικής Εκπαίδευσης(ETF)"
+      ],
+      "en": [
+        "European Training Foundation(ETF)"
+      ],
+      "es": [
+        "Fundación Europea de Formación(ETF)"
+      ],
+      "et": [
+        "Euroopa Koolitusfond(ETF)"
+      ],
+      "fi": [
+        "Euroopan koulutussäätiö(ETF)"
+      ],
+      "fr": [
+        "Fondation européenne pour la formation(ETF)"
+      ],
+      "ga": [
+        "An Fhondúireacht Eorpach Oiliúna(EFT)"
+      ],
+      "hr": [
+        "Europska zaklada za stručnu izobrazbu(ETF)"
+      ],
+      "hu": [
+        "Európai Képzési Alapítvány(ETF)"
+      ],
+      "it": [
+        "Fondazione europea per la formazione(ETF)"
+      ],
+      "lt": [
+        "Europos mokymo fondas(ETF)"
+      ],
+      "lv": [
+        "Eiropas Izglītības fonds(ETF)"
+      ],
+      "mt": [
+        "il-Fondazzjoni Ewropea għat-Taħriġ(ETF)"
+      ],
+      "nl": [
+        "Europese Stichting voor opleiding(ETF)"
+      ],
+      "pl": [
+        "Europejska Fundacja Kształcenia(ETF)"
+      ],
+      "pt": [
+        "Fundação Europeia para a Formação(ETF)"
+      ],
+      "ro": [
+        "Fundaţia Europeană de Formare(ETF)"
+      ],
+      "sk": [
+        "Európska nadácia pre odborné vzdelávanie(ETF)"
+      ],
+      "sl": [
+        "Evropska fundacija za usposabljanje(ETF)"
+      ],
+      "sv": [
+        "Europeiska yrkesutbildningsstiftelsen(ETF)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/etf_logo.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Villa Gualino</p> <p>Viale Settimio Severo 65</p> <p>I-10133 Torino</p> <p>Italia</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+39 011 630 22 22"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+39 011 630 22 00"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:info@etf.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact ETF"
+      ]
+    }
+  }
+}

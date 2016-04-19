@@ -1,0 +1,805 @@
+{
+    "_id": "21ea9700604ba1bdd0a14532eee7cf5f",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/eu-law/decision-making/legal-acts/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Регламенти, директиви и други актове"
+            ],
+            "cs": [
+                "Nařízení, směrnice a další právní akty"
+            ],
+            "da": [
+                "Forordninger, direktiver og andre retsakter"
+            ],
+            "de": [
+                "Verordnungen, Richtlinien und sonstige Rechtsakte"
+            ],
+            "el": [
+                "Κανονισμοί, οδηγίες και άλλες νομοθετικές πράξεις"
+            ],
+            "en": [
+                "Regulations, Directives and other acts"
+            ],
+            "es": [
+                "Reglamentos, directivas y otros actos legislativos"
+            ],
+            "et": [
+                "Määrused, direktiivid ja muud õigusaktid"
+            ],
+            "fi": [
+                "Asetukset, direktiivit ja muut säädökset"
+            ],
+            "fr": [
+                "Règlements, directives et autres actes législatifs"
+            ],
+            "ga": [
+                "Rialacháin, Treoracha agus gníomhartha eile"
+            ],
+            "hr": [
+                "Uredbe, direktive i ostali pravni akti"
+            ],
+            "hu": [
+                "Rendeletek, irányelvek és más jogi aktusok"
+            ],
+            "it": [
+                "Regolamenti, direttive e altri atti"
+            ],
+            "lt": [
+                "Reglamentai, direktyvos ir kiti teisės aktai"
+            ],
+            "lv": [
+                "Regulas, direktīvas un citi tiesību akti"
+            ],
+            "mt": [
+                "Regolamenti, Direttivi u atti oħra"
+            ],
+            "nl": [
+                "Verordeningen, richtlijnen en andere rechtshandelingen"
+            ],
+            "pl": [
+                "Rozporządzenia, dyrektywy i inne akty"
+            ],
+            "pt": [
+                "Regulamentos, diretivas e outros atos legislativos"
+            ],
+            "ro": [
+                "Regulamente, directive și alte acte legislative"
+            ],
+            "sk": [
+                "Nariadenia, smernice a ďalšie akty"
+            ],
+            "sl": [
+                "Uredbe, direktive in drugi akti"
+            ],
+            "sv": [
+                "Förordningar, direktiv och andra rättsakter"
+            ]
+        },
+        "category": {
+            "und": [
+                "33755c63"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "cs": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "da": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "de": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "el": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "en": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "es": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "et": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fi": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fr": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ga": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "hr": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "hu": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "it": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lv": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "mt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "nl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ro": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sk": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sv": [
+                "EUROPA/ABOUT-EU/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "EUROPA"
+            ],
+            "cs": [
+                "EUROPA"
+            ],
+            "da": [
+                "EUROPA"
+            ],
+            "de": [
+                "EUROPA"
+            ],
+            "el": [
+                "EUROPA"
+            ],
+            "en": [
+                "EUROPA"
+            ],
+            "es": [
+                "EUROPA"
+            ],
+            "et": [
+                "EUROPA"
+            ],
+            "fi": [
+                "EUROPA"
+            ],
+            "fr": [
+                "EUROPA"
+            ],
+            "ga": [
+                "EUROPA"
+            ],
+            "hr": [
+                "EUROPA"
+            ],
+            "hu": [
+                "EUROPA"
+            ],
+            "it": [
+                "EUROPA"
+            ],
+            "lt": [
+                "EUROPA"
+            ],
+            "lv": [
+                "EUROPA"
+            ],
+            "mt": [
+                "EUROPA"
+            ],
+            "nl": [
+                "EUROPA"
+            ],
+            "pl": [
+                "EUROPA"
+            ],
+            "pt": [
+                "EUROPA"
+            ],
+            "ro": [
+                "EUROPA"
+            ],
+            "sk": [
+                "EUROPA"
+            ],
+            "sl": [
+                "EUROPA"
+            ],
+            "sv": [
+                "EUROPA"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Тази страница съдържа информация за регламентите, директивите и другите законодателни актове на ЕС"
+            ],
+            "cs": [
+                "Na této stránce najdete informace o nařízeních, směrnicích a ostatních právních aktech EU"
+            ],
+            "da": [
+                "Her kan du finde informationer om forordninger, direktiver og andre EU-retsakter"
+            ],
+            "de": [
+                "Informationen über Verordnungen, Richtlinien und sonstige Rechtsakte der EU"
+            ],
+            "el": [
+                "Σε αυτή τη σελίδα θα βρείτε πληροφορίες για τους κανονισμούς, τις οδηγίες και τις άλλες νομοθετικές πράξεις της ΕΕ."
+            ],
+            "en": [
+                "This page provides information on Regulations, Directives and other EU legislative acts"
+            ],
+            "es": [
+                "Esta página ofrece información sobre los reglamentos, las directivas y otros actos legislativos de la UE."
+            ],
+            "et": [
+                "Sellelt lehelt leiate teavet määruste, direktiivide ja muude ELi õigusaktide kohta"
+            ],
+            "fi": [
+                "Tällä sivulla on tietoa EU:n asetuksista, direktiiveistä ja muista säädöksistä."
+            ],
+            "fr": [
+                "Cette page présente des informations sur les règlements, les directives et les autres actes législatifs de l'UE."
+            ],
+            "ga": [
+                "Tá eolas ar Rialacháin, Treoracha agus gníomhartha reachtacha eile de chuid an Aontais Eorpaigh le fáil ar an leathanach seo"
+            ],
+            "hr": [
+                "Ova stranica sadržava informacije o uredbama, direktivama i ostalim zakonodavnim aktima EU-a."
+            ],
+            "hu": [
+                "Információk a rendeletekről, irányelvekről és más jogi aktusokról"
+            ],
+            "it": [
+                "Questa pagina contiene informazioni sui regolamenti, le direttive e gli altri atti legislativi dell'UE"
+            ],
+            "lt": [
+                "Šiame tinklalapyje pateikiama informacijos apie reglamentus, direktyvas ir kitus ES teisės aktus"
+            ],
+            "lv": [
+                "Šī lapa sniedz informāciju par regulām, direktīvām un citiem ES tiesību aktiem."
+            ],
+            "mt": [
+                "Din il-paġna tipprovdi tagħrif dwar ir-Regolamenti, id-Direttivi u atti leġiżlattivi oħra"
+            ],
+            "nl": [
+                "Informatie over verordeningen, richtlijnen en andere rechtshandelingen van de Europese Unie"
+            ],
+            "pl": [
+                "Strona zawiera informacje o rozporządzeniach, dyrektywach i innych aktach prawnych UE."
+            ],
+            "pt": [
+                "Esta página contém informações sobre os regulamentos, as diretivas e outros atos legislativos da UE"
+            ],
+            "ro": [
+                "Această pagină oferă informații despre regulamente, directive și alte acte legislative ale UE"
+            ],
+            "sk": [
+                "Na tejto stránke nájdete informácie o nariadeniach, smerniciach a ďalších legislatívnych aktoch EÚ."
+            ],
+            "sl": [
+                "Informacije o uredbah, direktivah in drugih zakonodajnih aktih EU."
+            ],
+            "sv": [
+                "Här hittar du information om förordningar, direktiv och andra rättsakter"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "ЕС",
+                "право",
+                "законодателство",
+                "Европейски съюз",
+                "държава членка"
+            ],
+            "cs": [
+                "EU",
+                "právo, práva, zákon, zákona",
+                "legislativa",
+                "Evropská unie",
+                "členský stát"
+            ],
+            "da": [
+                "EU",
+                "lov",
+                "lovgivning",
+                "Den Europæiske Union",
+                "Medlemsland"
+            ],
+            "de": [
+                "EU",
+                "Recht, Gesetz",
+                "Rechtsvorschrift",
+                "Europäische Union",
+                "Mitgliedstaat"
+            ],
+            "el": [
+                "ΕΕ",
+                "νόμος, δίκαιο",
+                "νομοθεσία",
+                "Ευρωπαϊκή Ένωση",
+                "Κράτος Μέλος"
+            ],
+            "en": [
+                "EU",
+                "law",
+                "legislation",
+                "European Union",
+                "Member State"
+            ],
+            "es": [
+                "UE",
+                "legislación",
+                "legislación",
+                "Unión Europea",
+                "Estado miembro"
+            ],
+            "et": [
+                "EL",
+                "õigus, seadus",
+                "õigusakt",
+                "Euroopa Liit",
+                "liikmesriik"
+            ],
+            "fi": [
+                "EU",
+                "laki, lainsäädäntö, oikeus",
+                "direktiivi, asetus, päätös",
+                "Euroopan unioni",
+                "EU-direktiivi, EU-direktiivit"
+            ],
+            "fr": [
+                "UE",
+                "loi, droit",
+                "législation, réglementation",
+                "Union européenne",
+                "État membre"
+            ],
+            "ga": [
+                "AE",
+                "dlí",
+                "reachtaíocht",
+                "An tAontas Eorpach",
+                "Ballstát"
+            ],
+            "hr": [
+                "EU",
+                "pravo",
+                "zakonodavstvo",
+                "Europska unija",
+                "Država članica"
+            ],
+            "hu": [
+                "HU",
+                "jog",
+                "jogalkotás, jogszabály, jogszabályok, joganya",
+                "Európai Unió",
+                "tagállam"
+            ],
+            "it": [
+                "UE",
+                "legge, diritto",
+                "legislazione, normativa",
+                "Unione europea",
+                "Stato membro"
+            ],
+            "lt": [
+                "ES",
+                "teisė, teisės aktas",
+                "teisės aktai",
+                "Europos Sąjunga",
+                "valstybė narė"
+            ],
+            "lv": [
+                "ES",
+                "likumi, tiesību akti, regulējums",
+                "tiesību akti, tiesību akts, likumdošana",
+                "Eiropas Savienība",
+                "dalībvalsts"
+            ],
+            "mt": [
+                "UE",
+                "liġi",
+                "leġiżlazzjoni",
+                "Unjoni Ewropea",
+                "Stat Membru"
+            ],
+            "nl": [
+                "EU",
+                "recht, wetgeving",
+                "wetgeving",
+                "Europese Unie",
+                "lidstaat"
+            ],
+            "pl": [
+                "UE",
+                "prawo",
+                "prawodawstwo",
+                "Unia Europejska",
+                "Państwo członkowskie"
+            ],
+            "pt": [
+                "ue",
+                "direito, lei",
+                "legislação",
+                "união europeia",
+                "estado-membro"
+            ],
+            "ro": [
+                "UE",
+                "drept",
+                "legislație",
+                "Uniunea Europeană",
+                "stat membru"
+            ],
+            "sk": [
+                "EÚ",
+                "právo",
+                "právne predpisy",
+                "Európska únia",
+                "členský štát"
+            ],
+            "sl": [
+                "EU",
+                "pravo",
+                "zakonodaja",
+                "Evropska unija",
+                "država članica"
+            ],
+            "sv": [
+                "EU",
+                "lag",
+                "lagstiftning",
+                "Europeiska unionen",
+                "medlemsland, eu-land"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<p>Целите, определени с договорите за ЕС, се постигат чрез няколко вида правни актове. Някои са задължителни, а други — не. Едни се отнасят до всички страни от ЕС, а други — само до някои от тях.</p>             <h2>Регламенти</h2>             <p>Регламентът е задължителен законодателен акт. Той трябва да се прилага в своята цялост във всички страни от ЕС. Например, когато ЕС искаше да гарантира, че съществуват <a href=\"http://eur-lex.europa.eu/legal-content/BG/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">общи защитни мерки във връзка със стоките, внасяни от страни извън Съюза</a>, Съветът прие регламент.</p>             <h2>Директиви</h2>             <p>Директивата е законодателен акт, с който се определя цел, която всички страни от ЕС трябва да постигнат. Отделните страни членки обаче могат да приемат свои собствени закони с оглед на постигането на тези цели. Един от примерите е <a href=\"http://eur-lex.europa.eu/legal-content/BG/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">Директивата на ЕС за правата на потребителите</a>, с която се засилват правата на потребителите в ЕС, например като се премахват скритите такси и разходи в интернет и като се удължава периодът, в рамките на който потребителите могат да се откажат от договор за продажба.</p>             <h2>Решения</h2>             <p>Решенията са задължителни за този, за когото се отнасят (например страна от ЕС или предприятие), и се прилагат пряко. Така например Комисията излезе с решение относно <a href=\"http://eur-lex.europa.eu/legal-content/BG/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">участието на ЕС в работата на различни организации за борба с тероризма</a>. Решенията са свързани само с тези организации.</p>             <h2>Препоръки</h2>             <p>Препоръките не са задължителни. Когато Комисията отправи препоръки правоприлагащите органи на страните членки да подобрят използването на <a href=\"http://eur-lex.europa.eu/legal-content/BG/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">видеоконферентни връзки, за да подпомогнат съдебните услуги в чужбина</a>, това нямаше никакви правни последици. Препоръката позволява на институциите да изразяват своето мнение и да предлагат насоки за действие, без това да води до правни задължения за тези, към които тя е насочена.</p>             <h2>Становища</h2>             <p>Становището е инструмент, който позволява на институциите да направят изявление, без да налагат правни задължения на тези, за които то е предназначено. Становищата не са задължителни. Становища могат да издават основните институции на ЕС (Комисия, Съвет, Парламент), Комитетът на регионите и Европейският икономически и социален комитет. Когато се изготвят закони, комитетите дават становища от своята специфична регионална или икономическа и социална гледна точка. Така например, Комитетът на регионите излезе със <span class=\"link-disabled\">становище относно пакета от мерки за чист въздух в Европа</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Избор на превод за предходната връзка\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Избор на превод за предходната връзка\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "cs": [
+                "<p>Cíle stanovené ve svých Smlouvách naplňuje Evropská unie pomocí několika druhů právních aktů. Některé z nich mají právní závaznost, jiné nikoli. Některé se týkají všech zemí Unie, jiné jen některých.</p>             <h2>Nařízení</h2>             <p>Nařízení je právně závazné. Platí v celém svém rozsahu v celé EU. Například, když Evropská unie chtěla zavést <a href=\"http://eur-lex.europa.eu/legal-content/CS/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">společné záruky na zboží dovážené ze zemí mimo EU</a>, Rada přijala v této věci nařízení.</p>             <h2>Směrnice</h2>             <p>Směrnice je právní akt stanovující cíl, který musejí všechny země EU splnit. Je však na jednotlivých zemích, jak formulují příslušné vnitrostátní zákony a jak těchto cílů dosáhnou. Jedním z příkladů je <a href=\"http://eur-lex.europa.eu/legal-content/CS/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">směrnice EU o právech spotřebitelů</a>, která posiluje práva spotřebitelů v celé EU, například tím, že eliminuje skryté poplatky a náklady při nakupování na internetu, a prodlužuje lhůtu, ve které mohou spotřebitelé odstoupit od kupní smlouvy.</p>             <h2>Rozhodnutí</h2>             <p>Rozhodnutí je závazné pro všechny, kterým je určeno (např. pro členský stát EU nebo určitou obchodní společnost), a je přímo použitelné. Komise například vydala rozhodnutí o <a href=\"http://eur-lex.europa.eu/legal-content/CS/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">účasti EU v různých protiteroristických organizacích</a>. Rozhodnutí se vztahuje pouze na tyto organizace.</p>             <h2>Doporučení</h2>             <p>Doporučení není závazné. Když Komise vydala doporučení, aby soudní orgány zemí EU více <a href=\"http://eur-lex.europa.eu/legal-content/CS/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">využívaly videokonferencí, aby usnadnily přeshraniční spolupráci v soudních záležitostech</a>, doporučení nemělo žádné právní důsledky. Prostřednictvím doporučení mohou orgány EU dát najevo svůj názor a navrhnout určité kroky, aniž by z nich vyvozovaly zákonnou povinnost pro toho, komu je určeno.</p>             <h2>Stanovisko</h2>             <p>Pomocí „stanoviska“ se orgán EU může vyjádřit k určité otázce nezávazným způsobem, tzn. aniž by tak zakládal zákonnou povinnost pro toho, komu je stanovisko určeno. Stanovisko může vydat hlavní orgán EU (Komise, Rada a Evropský parlament), Výbor regionů a Evropský hospodářský a sociální výbor. Tyto dva výbory vydávají během legislativního procesu stanoviska k návrhům z pohledu regionů nebo hospodářství a sociální oblasti. Výbor regionů například vydal <span class=\"link-disabled\">stanovisko k balíčku Čisté ovzduší pro Evropu</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrat překlad k předcházejícímu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrat překlad k předcházejícímu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "da": [
+                "<p>De mål, der er fastsat i traktaterne, nås gennem forskellige typer retsakter. Nogle er bindende, andre er ikke. Nogle angår alle EU-lande, mens andre kun angår nogle stykker.</p>             <h2>Forordninger</h2>             <p>En \"forordning\" er en bindende retsakt. Det skal følges i alle enkeltheder i hele EU. Da EU f.eks. ønskede at garantere <a href=\"http://eur-lex.europa.eu/legal-content/DA/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">fælles sikkerhedsforanstaltninger for varer importeret fra lande uden for EU</a>, vedtog Rådet en forordning.</p>             <h2>Direktiver</h2>             <p>Et \"direktiv\" er en retsakt, der fastsætter et mål, som EU-landene skal opnå. Det er dog op til de enkelte lande at lave deres egne love for, hvordan disse mål skal opnås. Et eksempel er <a href=\"http://eur-lex.europa.eu/legal-content/DA/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">EU's direktiv om forbrugerrettigheder</a>, som styrker forbrugernes rettigheder i EU, f.eks. ved at fjerne skjulte afgifter og omkostninger på internettet og forlænge den periode, som forbrugere kan fortryde en købsaftale i.</p>             <h2>Afgørelser</h2>             <p>En \"afgørelse\" er bindende for dem, den er rettet til (f.eks. et EU-land eller en individuel virksomhed) og er direkte gældende. F.eks. har Kommissionen udstedt en afgørelse om <a href=\"http://eur-lex.europa.eu/legal-content/DA/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">EU's deltagelse i forskelige antiterrororganisationers arbejde</a>. Afgørelsen vedrører kun sådanne organisationer.</p>             <h2>Henstillinger</h2>             <p>En \"henstilling\" er ikke bindende. Da Kommissionen rettede en henstilling til EU-landenes myndigheder om at forbedre deres brug af <a href=\"http://eur-lex.europa.eu/legal-content/DA/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">videokonferencer for at hjælpe domstolstjenester med at arbejde bedre sammen på tværs af grænserne</a>, havde den ingen retslige virkninger. En henstilling giver institutionerne mulighed for at give deres mening til kende og foreslå en retningslinje, uden derved at pålægge dem, den er rettet til, nogen retlige forpligtelser.</p>             <h2>Udtalelser</h2>             <p>En \"udtalelse\" er et instrument, der giver institutionerne mulighed for at fremsætte en ikkebindende erklæring, dvs. at den ikke pålægger dem, den er rettet mod, nogen forpligtelser. En udtalelse er ikke bindende. Den kan afgives af de vigtigste EU-institutioner (Kommissionen, Rådet, Parlamentet), Regionsudvalget og Det Europæiske Økonomiske og Sociale Udvalg. Mens lovene udformes, afgiver udvalgene udtalelser fra deres særlige regionale eller økonomiske og sociale synspunkt. For eksempel afgav Regionsudvalget en udtalelse <span class=\"link-disabled\">om pakken om en politik for ren luft i Europa</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vælg oversættelse af det forrige link\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vælg oversættelse af det forrige link\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "de": [
+                "<p>Die in den EU-Verträgen niedergelegten Ziele werden mit Hilfe unterschiedlicher Rechtsakte verwirklicht. Einige dieser Rechtsakte sind verbindlich, andere nicht. Manche gelten für alle EU-Länder, andere nur für bestimmte Länder.</p>             <h2>Verordnungen</h2>             <p>Eine Verordnung ist ein verbindlicher Rechtsakt, den alle EU-Länder in vollem Umfang umsetzen müssen. Um beispielsweise sicherzustellen, dass <a href=\"http://eur-lex.europa.eu/legal-content/DE/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">für Waren, die in die EU importiert werden, gemeinsame Schutzmaßnahmen gelten</a>, hat der Rat der EU eine entsprechende Verordnung angenommen.</p>             <h2>Richtlinien</h2>             <p>Eine Richtlinie ist ein Rechtsakt, in dem ein von allen EU-Ländern zu erreichendes Ziel festgelegt wird. Es ist jedoch Sache der einzelnen Länder, eigene Rechtsvorschriften zur Verwirklichung dieses Ziels zu erlassen. Ein Beispiel ist die <a href=\"http://eur-lex.europa.eu/legal-content/DE/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">EU-Richtlinie über Verbraucherrechte</a>: Sie stärkt die Rechte von Verbraucherinnen und Verbrauchern EU-weit, indem sie beispielsweise versteckte Internetgebühren und -kosten abschafft und die Dauer des Widerrufsrechts bei Kaufverträgen verlängert.</p>             <h2>Beschlüsse</h2>             <p>Beschlüsse sind für diejenigen verbindlich und unmittelbar anwendbar, an die sie gerichtet sind (beispielsweise ein EU-Land oder ein einzelnes Unternehmen). So hat die Kommission beispielsweise einen Beschluss über die <a href=\"http://eur-lex.europa.eu/legal-content/DE/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">Beteiligung der EU an verschiedenen Organisationen für die Zusammenarbeit bei der Terrorismusprävention und -bekämpfung</a> erlassen, der allein diese Organisationen betrifft.</p>             <h2>Empfehlungen</h2>             <p>Empfehlungen sind nicht verbindlich. So hatte die Empfehlung der Kommission an die Justizbehörden der EU-Länder, <a href=\"http://eur-lex.europa.eu/legal-content/DE/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">Videokonferenzen verstärkt für eine bessere grenzübergreifende Zusammenarbeit zu nutzen</a>, keine rechtlichen Konsequenzen. In einer Empfehlung können die Institutionen ihre Ansichten äußern und Maßnahmen vorschlagen, ohne dass dies für diejenigen, an die sich die Empfehlung richtet, rechtlich bindend wäre.</p>             <h2>Stellungnahmen</h2>             <p>In einer Stellungnahme können sich die Institutionen in unverbindlicher Form zu einem Sachverhalt äußern. Sie stellt für die Adressaten also keine rechtliche Verpflichtung dar und ist nicht verbindlich. Stellungnahmen können von den wichtigsten EU-Organen (Kommission, Rat, Parlament) sowie dem Ausschuss der Regionen und dem Europäischen Wirtschafts- und Sozialausschuss abgegeben werden. Im Zuge der Erarbeitung von Rechtsvorschriften legen die Ausschüsse vor dem Hintergrund ihres jeweiligen regionalen, wirtschaftlichen oder sozialen Standpunkts Stellungnahmen vor. So hat beispielsweise der Ausschuss der Regionen eine <span class=\"link-disabled\">Stellungnahme mit dem Titel „Maßnahmenpaket für saubere Luft in Europa“</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Übersetzung für diesen Link wählen\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Übersetzung für diesen Link wählen\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> vorgelegt.</p>"
+            ],
+            "el": [
+                "<p>Οι στόχοι που ορίζονται στις συνθήκες της ΕΕ επιτυγχάνονται μέσω διαφόρων νομοθετικών πράξεων. Μερικές έχουν δεσμευτικό χαρακτήρα, άλλες όχι. Επίσης, ορισμένες ισχύουν για όλες τις χώρες της ΕΕ, ενώ άλλες για μερικές μόνον από αυτές.</p>             <h2>Κανονισμοί</h2>             <p>Οι κανονισμοί είναι δεσμευτικές νομοθετικές πράξεις. Η εφαρμογή τους σε όλες τις χώρες της ΕΕ είναι υποχρεωτική. Για παράδειγμα, όταν η ΕΕ θέλησε να εφαρμόσει <a href=\"http://eur-lex.europa.eu/legal-content/EL/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">κοινές διασφαλίσεις για τα προϊόντα που εισάγονται από χώρες εκτός ΕΕ</a>, το Συμβούλιο εξέδωσε έναν κανονισμό.</p>             <h2>Οδηγίες</h2>             <p>Οι οδηγίες είναι νομοθετικές πράξεις που ορίζουν έναν στόχο τον οποίο πρέπει να επιτύχουν όλες οι χώρες της ΕΕ. Ωστόσο, εναπόκειται σε κάθε χώρα να θεσπίσει τους δικούς της νόμους για την επίτευξη των στόχων αυτών. Ένα παράδειγμα είναι η <a href=\"http://eur-lex.europa.eu/legal-content/EL/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">οδηγία της ΕΕ για τα δικαιώματα των καταναλωτών</a>, η οποία ενδυναμώνει τα δικαιώματα των καταναλωτών σε όλη την ΕΕ, π.χ. εξαλείφοντας κρυφές χρεώσεις και έξοδα στο διαδίκτυο, και παρατείνοντας την περίοδο κατά την οποία οι καταναλωτές μπορούν να υπαναχωρήσουν από μια σύμβαση πώλησης.</p>             <h2>Αποφάσεις</h2>             <p>Οι αποφάσεις είναι δεσμευτικές μόνον γι΄ αυτούς στους οποίους απευθύνονται (π.χ. μια χώρα της ΕΕ ή μια μεμονωμένη εταιρεία) και ισχύουν άμεσα. Για παράδειγμα, η Επιτροπή εξέδωσε απόφαση σχετικά με τη <a href=\"http://eur-lex.europa.eu/legal-content/EL/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">συμμετοχή της ΕΕ στις εργασίες διαφόρων οργανισμών καταπολέμησης της τρομοκρατίας</a>. Η απόφαση αφορά μόνον αυτούς τους οργανισμούς.</p>             <h2>Συστάσεις</h2>             <p>Οι συστάσεις δεν είναι δεσμευτικές. Όταν η Επιτροπή εξέδωσε σύσταση για να βελτιώσουν οι χώρες της ΕΕ τη χρήση των <a href=\"http://eur-lex.europa.eu/legal-content/EL/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">τηλεδιασκέψεων ώστε να συμβάλλουν στην καλύτερη διασυνοριακή συνεργασία των δικαστικών υπηρεσιών</a>, αυτό δεν είχε νομικές συνέπειες. Η έκδοση σύστασης δίνει τη δυνατότητα στα θεσμικά όργανα της ΕΕ να γνωστοποιήσουν τις απόψεις τους και να υποδείξουν μια γραμμή δράσης χωρίς όμως να επιβάλουν νομική υποχρέωση στους αποδέκτες της σύστασης.</p>             <h2>Γνώμες</h2>             <p>Οι γνώμες είναι ένα εργαλείο που επιτρέπει στα θεσμικά όργανα να εκφράζουν μια άποψη με μη δεσμευτικό τρόπο, δηλαδή χωρίς να επιβάλλουν νομικές υποχρεώσεις στους αποδέκτες. Οι γνώμες δεν είναι δεσμευτικές. Εκδίδονται από τα κύρια θεσμικά όργανα της ΕΕ (την Ευρωπαϊκή Επιτροπή, το Συμβούλιο, το Κοινοβούλιο), την Επιτροπή των Περιφερειών και την Ευρωπαϊκή Οικονομική και Κοινωνική Επιτροπή. Κατά την κατάρτιση των νόμων, οι επιτροπές διατυπώνουν τη γνώμη τους σύμφωνα με τη δική τους οπτική γωνία που βασίζεται σε περιφερειακές, οικονομικές ή κοινωνικές παραμέτρους. Για παράδειγμα, η Επιτροπή των Περιφερειών εξέδωσε <span class=\"link-disabled\">γνώμη σχετικά με τη δέσμη μέτρων για καθαρότερη ατμόσφαιρα στην Ευρώπη</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "en": [
+                "<p>The aims set out in the EU treaties are achieved by several types of legal act. Some are binding, others are not. Some apply to all EU countries, others to just a few.</p>             <h2>Regulations</h2>             <p>A \"regulation\" is a binding legislative act. It must be applied in its entirety across the EU. For example, when the EU wanted to make sure that there are <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">common safeguards on goods imported from outside the EU</a>, the Council adopted a regulation.</p>             <h2>Directives</h2>             <p>A \"directive\" is a legislative act that sets out a goal that all EU countries must achieve. However, it is up to the individual countries to devise their own laws on how to reach these goals. One example is the <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">EU consumer rights directive</a>, which strengthens rights for consumers across the EU, for example by eliminating hidden charges and costs on the internet, and extending the period under which consumers can withdraw from a sales contract.</p>             <h2>Decisions</h2>             <p>A \"decision\" is binding on those to whom it is addressed (e.g. an EU country or an individual company) and is directly applicable. For example, the Commission issued a decision on the <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">EU participating in the work of various counter-terrorism organisations</a>. The decision related to these organisations only.</p>             <h2>Recommendations</h2>             <p>A \"recommendation\" is not binding. When the Commission issued a recommendation that EU countries' law authorities improve their use of <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">videoconferencing to help judicial services work better across borders</a>, this did not have any legal consequences. A recommendation allows the institutions to make their views known and to suggest a line of action without imposing any legal obligation on those to whom it is addressed.</p>             <h2>Opinions</h2>             <p>An \"opinion\" is an instrument that allows the institutions to make a statement in a non-binding fashion, in other words without imposing any legal obligation on those to whom it is addressed. An opinion is not binding. It can be issued by the main EU institutions (Commission, Council, Parliament), the Committee of the Regions and the European Economic and Social Committee. While laws are being made, the committees give opinions from their specific regional or economic and social viewpoint. For example, the Committee of the Regions issued an <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\">opinion on the clean air policy package for Europe</a>.</p>"
+            ],
+            "es": [
+                "<p>Los objetivos de los Tratados de la UE se alcanzan por medio de distintos tipos de actos legislativos. Algunos son vinculantes y otros no. Algunos se aplican a todos los países de la UE y otros sólo a unos pocos.</p>             <h2>Reglamentos</h2>             <p>Los reglamentos son actos legislativos vinculantes. Deben aplicarse en su integridad en toda la UE. Por ejemplo, cuando la UE quiso asegurarse de que existían <a href=\"http://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">medidas comunes de salvaguardia para los bienes importados de fuera de la UE</a>, el Consejo adoptó un reglamento.</p>             <h2>Directivas</h2>             <p>Las directivas son actos legislativos en los cuales se establecen objetivos que todos los países de la UE deben cumplir. Sin embargo, corresponde a cada país elaborar sus propias leyes sobre cómo alcanzar esos objetivos. Ejemplo de ello es la <a href=\"http://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">Directiva sobre los derechos de los consumidores</a>, que refuerza los derechos de los consumidores en toda la UE al eliminar, por ejemplo, las tasas y costes ocultos en internet y ampliar el periodo durante el cual los consumidores pueden desistir de un contrato de venta.</p>             <h2>Decisiones</h2>             <p>Las decisiones son vinculantes para aquellos a quienes se dirigen (un país de la UE o una empresa concreta) y son directamente aplicables. Por ejemplo, la Comisión publicó una Decisión sobre la <a href=\"http://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">participación de la UE en la labor de diferentes organismos de lucha contra el terrorismo</a>. La Decisión se refería únicamente a estas organizaciones.</p>             <h2>Recomendaciones</h2>             <p>Las recomendaciones no son vinculantes. Cuando la Comisión publicó una Recomendación en la que animaba a las autoridades legislativas a recurrir más a menudo a las <a href=\"http://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">videoconferencias para facilitar la labor de los servicios judiciales en situaciones transfronterizas</a>, su Recomendación no tuvo ninguna consecuencia legal. Las recomendaciones permiten a las instituciones dar a conocer sus puntos de vista y sugerir una línea de actuación sin imponer obligaciones legales a quienes se dirigen.</p>             <h2>Dictámenes</h2>             <p>Los dictámenes son instrumentos que permiten a las instituciones hacer declaraciones de manera no vinculante, es decir, sin imponer obligaciones legales a quienes se dirigen. Los dictámenes no son vinculantes. Pueden emitirlos las principales instituciones de la UE (Comisión, Consejo y Parlamento), el Comité de las Regiones y el Comité Económico y Social Europeo. Mientras se elabora la legislación, los comités emiten dictámenes desde su propio punto de vista, regional o económico y social. Por ejemplo, el Comité de las Regiones emitió un <span class=\"link-disabled\">Dictamen sobre el paquete \"Aire limpio\" para Europa</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Elija traducciones del enlace precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Elija traducciones del enlace precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "et": [
+                "<p>ELi aluslepingutes sätestatud eesmärke on võimalik saavutada erinevat liiki õigusaktide abil. Mõned on siduvad ja mõned mitte. Mõnda kohaldatakse kõigi ELi liikmesriikide ning mõnda vaid mõne üksiku liikmesriigi suhtes.</p>             <h2>Määrused</h2>             <p>Määrus on siduv õigusakt. Seda tuleb tervikuna kohaldada kogu ELis. Näiteks kui EL soovis kehtestada <a href=\"http://eur-lex.europa.eu/legal-content/ET/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">ühtseid kaitsemeetmeid väljastpoolt ELi imporditavate toodete suhtes</a>, võttis nõukogu vastu asjakohase määruse.</p>             <h2>Direktiivid</h2>             <p>Direktiiv on õigusakt, milles sätestatakse eesmärk, mille kõik ELi liikmesriigid peavad saavutama. Siiski võib iga riik otsustada selle üle, milliseid õigusakte kehtestada, et kõnealuseid eesmärke saavutada. Üheks näiteks on <a href=\"http://eur-lex.europa.eu/legal-content/ET/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">ELi tarbija õiguste direktiiv</a>, mis tugevdab tarbijate õigusi kõikjal ELis, kaotades näiteks varjatud tasud ja kulud internetis ning pikendades tähtaega, mille jooksul saavad tarbijad müügilepingust taganeda.</p>             <h2>Otsused</h2>             <p>Otsus on siduv nende jaoks, kellele see on adresseeritud (nt ELi liikmesriik või mõni ettevõte) ning see on vahetult kohaldatav. Näiteks avaldas komisjon otsuse <a href=\"http://eur-lex.europa.eu/legal-content/ET/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">ELi osalemise kohta mitmete terrorismivastase võitlusega tegelevate organisatsioonide töös</a>. See otsus oli seotud vaid nende organisatsioonidega.</p>             <h2>Soovitused</h2>             <p>Soovitus ei ole siduv. Kui komisjon esitas soovituse selle kohta, et ELi liikmesriikide õigusasutused parandaksid oma <a href=\"http://eur-lex.europa.eu/legal-content/ET/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">videokonverentside korraldamise võimalusi, et aidata kohtuasutustel teha tõhusamat piiriülest koostööd</a>, ei olnud sel soovitusel mingeid õiguslikke tagajärgi. Soovitus võimaldab institutsioonidel teha oma seisukohad teatavaks ja pakkuda välja erinevaid meetmeid, ilma et kehtestataks mingeid õiguslikke kohustusi nende suhtes, kellele need on adresseeritud.</p>             <h2>Arvamused</h2>             <p>Arvamus on vahend, mis võimaldab institutsioonidel avaldada oma arvamust mittesiduval viisil. Teisisõnu, sellega ei seata arvamuse adressaatidele mingeid õiguslikke kohustusi. Arvamus ei ole siduv. Arvamuse võivad esitada peamised ELi institutsioonid (komisjon, nõukogu, Euroopa Parlament), Regioonide Komitee ning Euroopa Majandus- ja Sotsiaalkomitee. Õigusaktide koostamisel esitavad komiteed arvamusi oma konkreetsest piirkondlikust, majanduslikust või sotsiaalsest vaatenurgast lähtudes. Näiteks esitas Regioonide Komitee arvamuse <span class=\"link-disabled\">Euroopa puhta õhu meetmepaketi</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Valige lingiga seotud tõlked\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Valige lingiga seotud tõlked\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> kohta.</p>"
+            ],
+            "fi": [
+                "<p>EU:n perussopimuksissa määriteltyihin tavoitteisiin pyritään erityyppisillä oikeudellisilla säädöksillä. Niistä toiset ovat sitovia, toiset eivät. Joitakin säädöksiä sovelletaan kaikissa EU-maissa, osaa vain muutamassa.</p>             <h2>Asetukset</h2>             <p>Asetukset ovat sitovia säädöksiä, joita on sovellettava kaikilta osiltaan kaikkialla EU:ssa. Kun EU halusi esimerkiksi määrätä <a href=\"http://eur-lex.europa.eu/legal-content/FI/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">yhteiset suojatoimet EU:n ulkopuolelta tuotavien tavaroiden osalta</a>, EU:n neuvosto antoi asiasta asetuksen.</p>             <h2>Direktiivit</h2>             <p>Direktiiveissä määritellään tavoitteet, joihin kaikkien EU-maiden on yllettävä. Maat saavat kuitenkin itse päättää laeista, joilla tämä toteutetaan. Yksi esimerkki on <a href=\"http://eur-lex.europa.eu/legal-content/FI/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">direktiivi kuluttajien oikeuksista</a>, jolla parannetaan kuluttajien asemaa EU:ssa. Sillä kielletään esimerkiksi verkko-ostosten piilokulut ja pidennetään aikaa, jonka kuluessa kuluttaja voi perua ostoksensa.</p>             <h2>Päätökset</h2>             <p>Päätökset sitovat niitä, joille ne on osoitettu (esimerkiksi yksittäinen EU-maa tai yritys), ja niitä sovelletaan sellaisinaan. Komissio on tehnyt esimerkiksi päätöksen <a href=\"http://eur-lex.europa.eu/legal-content/FI/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">EU:n osallistumisesta järjestöyhteistyöhön terrorismin torjunnan alalla</a>. Päätös koskee vain siinä mainittuja organisaatioita.</p>             <h2>Suositukset</h2>             <p>Suositukset eivät ole sitovia. Esimerkiksi komission suosituksella, jonka mukaan EU-maiden oikeusalan viranomaisten olisi tehostettava <a href=\"http://eur-lex.europa.eu/legal-content/FI/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">videoneuvottelujen käyttöä alan kansainvälisen yhteistyön edistämiseksi</a>, ei ole oikeudellisia seurauksia. Suosituksen avulla eri toimielimet voivat ilmaista kantansa ja ehdottaa toimia ilman, että suosituksen kohteena oleville seuraisi siitä oikeudellisia velvoitteita.</p>             <h2>Lausunnot</h2>             <p>Lausunnolla toimielimet voivat ilmaista kantansa, mutta siitä ei seuraa lausunnon vastaanottajille mitään oikeudellisia velvoitteita. Lausunto ei ole sitova. Lausuntoja voivat antaa EU:n keskeiset toimielimet (komissio, neuvosto, parlamentti), alueiden komitea sekä Euroopan talous- ja sosiaalikomitea. Lakeja valmisteltaessa komiteat antavat lausuntoja omasta alueellisesta, taloudellisesta tai sosiaalisesta näkökulmastaan. Esimerkiksi alueiden komitea on antanut <span class=\"link-disabled\">lausunnon Euroopan ilmanpuhtautta koskevasta toimenpidepaketista</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Näytä edellisen linkin kieliversiot\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Näytä edellisen linkin kieliversiot\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "fr": [
+                "<p>L'Union européenne adopte différents types d'actes législatifs, qui visent à remplir les objectifs fixés dans les traités européens.  Tous ne sont pas contraignants. Certains s'appliquent à tous les pays de l'UE, d'autres uniquement à quelques-uns.</p>             <h2>Règlements</h2>             <p>Les règlements sont des actes législatifs contraignants. Ils doivent être mis en œuvre dans leur intégralité, dans toute l'Union européenne. Par exemple, quand l'UE a voulu garantir que des <a href=\"http://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">mesures de sauvegarde communes s'appliquent aux produits importés sur son territoire</a>, le Conseil a adopté un règlement.</p>             <h2>Directives</h2>             <p>Les directives sont des actes législatifs qui fixent des objectifs à tous les pays de l'UE. Toutefois, chaque pays est libre d'élaborer ses propres mesures pour les atteindre. Ainsi, la <a href=\"http://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">directive sur les droits des consommateurs</a> interdit les frais et les coûts cachés sur internet et étend le délai durant lequel les consommateurs peuvent se rétracter et annuler un contrat de vente.</p>             <h2>Décisions</h2>             <p>Les décisions sont contraignantes pour les destinataires auxquels elles s'adressent (un pays de l'UE ou une entreprise, par exemple) et directement applicables. Par exemple, lorsque la Commission a rendu une décision sur la <a href=\"http://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">participation de l'UE à l'action de plusieurs organisations luttant contre le terrorisme</a>, cette décision ne concernait que ces organisations.</p>             <h2>Recommandations</h2>             <p>Les recommandations ne sont pas contraignantes. Ainsi, lorsque la Commission a émis une recommandation demandant que les autorités judiciaires des pays de l'UE améliorent leur usage de la <a href=\"http://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">visioconférence afin de renforcer la collaboration transfrontière entre les services judiciaires</a>, ce texte n'avait aucune portée obligatoire. Les recommandations permettent aux institutions européennes de faire connaître leur point de vue et de suggérer une ligne de conduite, sans contraindre les destinataires à s'y conformer.</p>             <h2>Avis</h2>             <p>Les avis sont des instruments qui permettent aux institutions d'exprimer une opinion d'une façon non contraignante, en d'autres termes sans imposer d'obligation légale à leurs destinataires. Un avis peut être émis par les trois principales institutions de l'UE (la Commission, le Conseil et le Parlement), ainsi que par le Comité des régions et le Comité économique et social européen. Durant l'élaboration de la législation, ces comités émettent des avis reflétant leur point de vue régional, économique ou social spécifique. Par exemple, le Comité des régions a publié un <span class=\"link-disabled\">avis sur le train de mesures «Air pur pour l'Europe»</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Choisir les traductions du lien précédent\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Choisir les traductions du lien précédent\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "ga": [
+                "<p>Na cuspóirí atá leagtha síos i gconarthaí an Aontais Eorpaigh, is trí chineálacha éagsúla gníomhartha reachtacha a bhaintear amach iad. Tá cuid acu ceangailteach, cuid eile acu nach bhfuil. Roinnt acu bíonn feidhm acu maidir le Ballstáit uile an Aontais Eorpaigh, roinnt eile acu ní bhíonn feidhm acu ach maidir le beagán Ballstát.</p>             <h2>Rialacháin</h2>             <p>Is éard is \"Rialachán\" ann gníomh reachtach atá ceangailteach. Ní mór é a chur i bhfeidhm ina iomláine fud fad an Aontais Eorpaigh. Cuir i gcás, nuair a theastaigh ón Aontas a chinntiú go gcuirfí ar bun <a href=\"http://eur-lex.europa.eu/legal-content/GA/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">coimircí comhchoiteanna i ndáil le hearraí a iompórtáiltear ó thíortha lasmuigh den Aontas</a>, is amhlaidh a ghlac an Chomhairle rialachán chuige sin.</p>             <h2>Treoracha</h2>             <p>Is éard is \"treoir\" ann gníomh reachtach lena leagtar síos cuspóir nach mór do Bhallstáit uile an Aontais Eorpaigh a bhaint amach. Mar sin féin, is faoi na Ballstáit iad féin a ndlíthe féin a cheapadh d'fhonn na cuspóirí sin a bhaint amach.  Is é is aidhm don <a href=\"http://eur-lex.europa.eu/legal-content/GA/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">Treoir um Chearta Tomhaltóirí</a> ón Aontas Eorpach, cuir i gcás, cearta tomhaltóirí ar fud an Aontais a neartú trí dheireadh a chur le táillí ceilte agus costais cheilte ar an idirlíon agus trí shíneadh a chur leis an tréimhse ar féidir le tomhaltóirí tarraingt siar as conradh díolacháin lena linn.</p>             <h2>Cinntí</h2>             <p>Is éard is \"cinneadh\" ann cinneadh atá ina cheangal orthu siúd a bhfuil sé dírithe orthu (e.g. Ballstát den Aontas nó cuideachta aonair) agus atá infheidhme go díreach. Cuir i gcás, d'eisigh an Coimisiún cinneadh maidir le <a href=\"http://eur-lex.europa.eu/legal-content/GA/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">rannpháirtíocht an Aontais Eorpaigh san obair atá ar siúl ag eagraíochtaí éagsúla frithsceimhlitheoireachta</a>. Is le heagraíochtaí den chineál sin amháin a bhain an cinneadh sin.</p>             <h2>Moltaí</h2>             <p>Níl \"moladh\" ceangailteach. An moladh a d'eisigh an Coimisiún á rá gur cheart d'údaráis dhlí na mBallstát úsáid níos fearr a dhéanamh <a href=\"http://eur-lex.europa.eu/legal-content/GA/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">d'fhíschomhdhálacha d'fhonn cuidiú lena seirbhísí breithiúnacha féin comhoibriú ar shlí níos éifeachtaí ar bhonn trasteorann</a>, ní raibh aon impleachtaí dlí aige. A bhuí le moladh, tugtar caoi do na hinstitiúidí a dtuairimí féin a chur in iúl agus gníomhaíochtaí a mholadh, gan aon oibleagáid dhlíthiúil a chur orthu siúd a bhfuil an moladh dírithe orthu.</p>             <h2>Tuairimí</h2>             <p>Is éard is \"tuairim\" ann ionstraim lena dtugtar caoi do na hinstitiúidí ráiteas a dhéanamh ar shlí neamhcheangailteach, is é sin le rá gan oibleagáid dhlíthiúil a chur orthu siúd a bhfuil sí dírithe orthu. Níl tuairim ceangailteach. Is féidir le príomhinstitiúidí an Aontais Eorpaigh (an Coimisiún, an Chomhairle, an Pharlaimint), Coiste na Réigiún chomh maith le Coiste Eacnamaíoch agus Sóisialta na hEorpa tuairim a eisiúint. Le linn do dhlíthe a bheith á gceapadh, cuireann na coistí sin a dtuairimí in iúl de réir a saindearcaidh féin, cibé acu dearcadh réigiúnach, eacnamaíoch nó sóisialta é sin. Cuir i gcás, d'eisigh Coiste na Réigiún a <span class=\"link-disabled\">dtuairim maidir leis an bPacáiste Beartas d'Aer Glan don Eoraip</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"[POPUP_LABEL]\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\" alt=\"[POPUP_LABEL]\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"/>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "hr": [
+                "<p>Ciljevi utvrđeni ugovorima EU-a ostvaruju se različitim pravnim aktima. Neki su obvezujući, a neki nisu. Neki se primjenjuju na sve države EU-a, dok se neki primjenjuju samo na nekoliko njih.</p>             <h2>Uredbe</h2>             <p>Uredba je obvezujući zakonodavni akt koji se mora u cijelosti primjenjivati u čitavoj Europskoj uniji. Na primjer, kad je EU htio <a href=\"http://eur-lex.europa.eu/legal-content/HR/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">osigurati da uvoz proizvoda u EU ne šteti proizvođačima iz EU-a koji proizvode slične proizvode</a>, Vijeće je donijelo Uredbu kako bi se takav uvoz ograničio.</p>             <h2>Direktive</h2>             <p>Direktiva je zakonodavni akt kojim se utvrđuje cilj koji sve države članice EU-a moraju ostvariti. Međutim, svaka država samostalno odlučuje o načinu na koji će ostvariti taj cilj. Jedan je od takvih primjera <a href=\"http://eur-lex.europa.eu/legal-content/HR/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">Direktiva o pravima potrošača</a> kojom se jačaju prava potrošača diljem EU-a, primjerice uklanjanjem skrivenih naknada i troškova na internetu i produljivanjem roka u kojem potrošači mogu odustati od kupoprodajnog ugovora.</p>             <h2>Odluke</h2>             <p>Odluka je obvezujuća za one kojima je upućena (npr. država članica EU-a ili pojedinačno poduzeće) i izravno se primjenjuje. Na primjer, Komisija je donijela odluku o <a href=\"http://eur-lex.europa.eu/legal-content/HR/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">sudjelovanju EU-a u radu raznih organizacija koje se bore protiv terorizma</a>. Ta se odluka odnosila samo na navedene organizacije.</p>             <h2>Preporuke</h2>             <p>Preporuka nije obvezujuća. Kad je Komisija uputila preporuku pravosudnim tijelima država EU-a da se češće koriste <a href=\"http://eur-lex.europa.eu/legal-content/HR/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">videokonferencijama radi bolje prekogranične suradnje u području pravosuđa</a>, ta preporuka nije imala nikakvih pravnih posljedica. Preporukom se institucijama omogućuje da iznesu svoja stajališta i predlože način djelovanja, a da pritom ne nameću nikakve pravne obveze onima kojima je upute.</p>             <h2>Mišljenja</h2>             <p>Mišljenje je instrument kojim se institucijama omogućuje da daju neobvezujuću izjavu bez nametanja ikakve pravne obveze onima kojima je upućeno. Mišljenje nije obvezujuće. Mogu ga izdati glavne institucije EU-a (Komisija, Vijeće, Parlament), Odbor regija te Europski gospodarski i socijalni odbor. Tijekom izrade zakonodavstva odbori daju mišljenje sa svog specifičnog regionalnog ili gospodarskog i socijalnog stajališta. Primjerice, Odbor regija objavio je <span class=\"link-disabled\">mišljenje o paketu mjera za čisti zrak u Europi</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"[POPUP_LABEL]\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\" alt=\"[POPUP_LABEL]\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"/>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "hu": [
+                "<p>Az uniós szerződésekben meghatározott célkitűzések különféle típusú jogi aktusok útján teljesülhetnek. Bizonyos dokumentumok kötelezőek, mások nem. Egyes jogi aktusok az összes uniós országra, míg mások csak közülük néhányra vonatkoznak.</p>             <h2>Rendeletek</h2>             <p>A rendelet kötelező jogalkotási aktus, amely az EU egész területén teljes egészében alkalmazandó. Például az <a href=\"http://eur-lex.europa.eu/legal-content/HU/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">Unión kívülről importált termékekre vonatkozó egységes szabályokat</a> a Tanács rendeletben rögzítette.</p>             <h2>Irányelvek</h2>             <p>Az irányelv olyan jogalkotási aktus, amely valamennyi uniós ország számára kötelezően elérendő célkitűzést állapít meg. A döntéshozatal módja azonban az egyes országokra van bízva. Példaképp említhető a <a href=\"http://eur-lex.europa.eu/legal-content/HU/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">fogyasztók jogairól szóló irányelv</a>, amely nagyobb érvényt hivatott szerezni a fogyasztók jogainak EU-szerte. Megszünteti például az internetes kereskedői oldalakon időnként alkalmazott rejtett költségeket és meghosszabbítja azt az időtartamot, amelyen belül a fogyasztóknak joguk van elállni az adásvételi szerződéstől.</p>             <h2>Határozatok</h2>             <p>A határozat csak a címzettjeit kötelezi (pl. egy uniós tagállamot vagy egy adott vállalatot), és közvetlenül alkalmazandó. A Bizottság pl. határozatot hozott arról, hogy az <a href=\"http://eur-lex.europa.eu/legal-content/HU/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">Unió részt vesz egyes terrorizmusellenes szervezetek munkájában</a>. Ez a határozat csak az abban említett szervezeteket kötelezi.</p>             <h2>Ajánlások</h2>             <p>Az ajánlás nem kötelező. Semmilyen jogi következménye nem volt például a Tanács azon ajánlásának, amely szerint az uniós tagállamok igazságügyi hatóságainak az <a href=\"http://eur-lex.europa.eu/legal-content/HU/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">igazságügyi szolgáltatások határon átívelő munkájának megkönnyítése érdekében tökéletesíteniük kell a videokonferenciák használatát</a>. Az ajánlás lehetővé teszi az intézmények számára álláspontjuk közlését, és azt, hogy intézkedési stratégiára tegyenek javaslatot, anélkül, hogy az ajánlás címzettjeire bármilyen jogi kötelezettséget rónának.</p>             <h2>Vélemények</h2>             <p>A vélemény lehetővé teszi az intézmények számára, hogy nézőpontjukat kötelező erő nélkül tegyék közzé, vagyis anélkül, hogy a címzettekre bármilyen jogi kötelezettséget rónának. Véleményt a főbb uniós intézmények (Bizottság, Tanács, Parlament), valamint a Régiók Európai Bizottsága és az Európai Gazdasági és Szociális Bizottság adhat ki. E bizottságok a jogalkotási folyamat során sajátos regionális vagy gazdasági és szociális szempontokat vizsgálnak meg.  A Régiók Európai Bizottsága például <span class=\"link-disabled\">véleményt adott ki a „Tisztább levegőt\" szakpolitikai csomagról</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Az előző linken elérhető szöveg fordításai\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Az előző linken elérhető szöveg fordításai\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "it": [
+                "<p>Per realizzare gli obiettivi stabiliti nei trattati, l'UE adotta diversi tipi di atti legislativi. Alcuni sono vincolanti, altri no. Alcuni si applicano in tutti i paesi dell'UE, altri solo in alcuni di essi.</p>             <h2>Regolamenti</h2>             <p>Un regolamento è un atto legislativo vincolante. Deve essere applicato in tutti i suoi elementi nell'intera Unione europea. Ad esempio, quando l'Unione ha deciso che dovevano esservi <a href=\"http://eur-lex.europa.eu/legal-content/IT/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">garanzie comuni sui beni importati dall'esterno dell'UE</a>, il Consiglio ha adottato un regolamento. </p>             <h2>Direttive</h2>             <p>Una direttiva è un atto legislativo che stabilisce un obiettivo che tutti i paesi dell'UE devono realizzare. Tuttavia, spetta ai singoli paesi definire attraverso disposizioni nazionali come tali obiettivi vadano raggiunti. Un esempio è quello della <a href=\"http://eur-lex.europa.eu/legal-content/IT/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">direttiva sui diritti dei consumatori dell'UE</a>, che rafforza i diritti dei consumatori in tutta l'Unione, ad esempio eliminando spese e costi nascosti in Internet, ed estendendo il periodo entro il quale i consumatori possono recedere da un contratto d'acquisto. </p>             <h2>Decisioni</h2>             <p>Una decisione è vincolante per i suoi destinatari (ad esempio un paese dell'UE o una singola impresa) ed è direttamente applicabile. Ad esempio, la Commissione ha adottato una decisione sulla <a href=\"http://eur-lex.europa.eu/legal-content/IT/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">partecipazione dell'UE alle attività di varie organizzazioni impegnate nella lotta al terrorismo </a>. La decisione si riferiva unicamente a tali organizzazioni.</p>             <h2>Raccomandazioni</h2>             <p>Una raccomandazione non è vincolante. Quando la Commissione ha raccomandato alle autorità giudiziarie dei paesi dell'UE di intensificare l'uso delle <a href=\"http://eur-lex.europa.eu/legal-content/IT/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">videoconferenze per aiutare i servizi giudiziari a lavorare meglio in un contesto transfrontaliero</a>, ciò non ha prodotto conseguenze sul piano giuridico. Una raccomandazione consente alle istituzioni europee di rendere note le loro posizioni e di suggerire linee di azione senza imporre obblighi giuridici a carico dei destinatari.</p>             <h2>Pareri</h2>             <p>Un parere è uno strumento che permette alle istituzioni europee di esprimere la loro posizione senza imporre obblighi giuridici ai destinatari. Un parere non è vincolante. Può essere emesso dalle principali istituzioni dell'UE (Commissione, Consiglio, Parlamento), dal Comitato delle regioni e dal Comitato economico e sociale europeo. Durante il processo legislativo, i comitati emettono pareri che riflettono il loro specifico punto di vista, regionale o economico e sociale. Ad esempio, il Comitato delle regioni  ha emesso un <span class=\"link-disabled\">parere sul pacchetto di politiche per ripulire l'aria in Europa</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Scegli le traduzioni del link precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Scegli le traduzioni del link precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "lt": [
+                "<p>ES sutartyse nustatytų tikslų siekiama kelių rūšių teisės aktais. Vieni yra teisiškai privalomi, kiti – ne. Vieni iš jų taikomi visoms ES valstybėms narėms, kiti – tik kelioms.</p>             <h2>Reglamentai</h2>             <p>Reglamentas yra privalomas teisės aktas. Jį visą privaloma taikyti visoje ES. Pavyzdžiui, kai ES norėjo užtikrinti, kad būtų <a href=\"http://eur-lex.europa.eu/legal-content/LT/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">bendrų apsaugos priemonių, taikomų iš ES nepriklausančių šalių importuojamoms prekėms</a>, Taryba priėmė reglamentą.</p>             <h2>Direktyvos</h2>             <p>Direktyva – tai teisės aktas, kuriuo nustatomas tikslas, kurį visos ES šalys privalo pasiekti. Tačiau kiekviena šalis turi parengti savo įstatymus ir juose nurodyti, kaip ji tai padarys. Kaip pavyzdį galima pateikti <a href=\"http://eur-lex.europa.eu/legal-content/LT/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">ES vartotojų teisių direktyvą</a>, kuria užtikrinama geresnė vartotojų teisių apsauga visoje ES, pavyzdžiui, panaikinant paslėptus prekybos internetu mokesčius ir sąnaudas ir pratęsiant laikotarpį, kuriuo vartotojai gali atsisakyti prekybos sutarties.</p>             <h2>Sprendimai</h2>             <p>Sprendimas yra privalomas teisės aktas tiems, kuriems jis skirtas (pvz., ES šaliai ar įmonei), ir taikytinas tiesiogiai. Pavyzdžiui, Komisija paskelbė sprendimą dėl <a href=\"http://eur-lex.europa.eu/legal-content/LT/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">ES dalyvavimo įvairių kovos su terorizmu organizacijų veikloje</a>. Sprendimas susijęs tik su šiomis organizacijomis.</p>             <h2>Rekomendacijos</h2>             <p>Rekomendacijos nėra privalomos. Kai Komisija paskelbė rekomendaciją ES šalių teisėsaugos institucijoms veiksmingiau naudoti <a href=\"http://eur-lex.europa.eu/legal-content/LT/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">vaizdo konferencijas, kad teisminės institucijos galėtų geriau bendradarbiauti tarptautiniu mastu</a>, ji neturėjo jokių teisinių pasekmių. Rekomendacija suteikia galimybę institucijai pranešti savo nuomonę ir pasiūlyti veiksmų kryptį teisiškai neįpareigojant tų, kuriems rekomendacija skirta.</p>             <h2>Nuomonės</h2>             <p>Nuomonė – tai priemonė institucijoms kokiu nors klausimu pasisakyti teisiškai neįpareigojant tų, kuriems ta nuomonė skirta. Nuomonės nėra privalomos. Jas gali skelbti pagrindinės ES institucijos (Komisija, Taryba ir Parlamentas), Regionų bei Europos ekonomikos ir socialinių reikalų komitetai. Rengiant teisės aktus komitetai teikia nuomones atitinkamai regionų ar ekonominiu ir socialiniu požiūriais. Pavyzdžiui, Regionų komitetas paskelbė <span class=\"link-disabled\">nuomonę dėl Švaraus oro Europoje dokumentų rinkinio</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Pasirinkti šios nuorodos vertimus\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Pasirinkti šios nuorodos vertimus\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "lv": [
+                "<p>Eiropas Savienības mērķi ir izklāstīti ES līgumos, un tos sasniedz ar dažādu tiesību aktu palīdzību.  Daži no tiesību aktu veidiem ir juridiski saistoši, bet citi ne.  Daži attiecas uz visām ES dalībvalstīm, bet citi tikai uz atsevišķām.</p>             <h2>Regulas</h2>             <p>Regulas ir juridiski saistoši tiesību akti.  Tās ir jāpiemēro pilnībā visās dalībvalstīs.  Piemēram, kad ES vēlējās garantēt, ka <a href=\"http://eur-lex.europa.eu/legal-content/LV/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">kopīgi aizsardzības pasākumi attiecas uz tās teritorijā importētiem produktiem</a>, Padome pieņēma regulu.</p>             <h2>Direktīvas</h2>             <p>Direktīvas ir tiesību akti, kas nosaka visām dalībvalstīm sasniedzamos mērķus. Tomēr katra dalībvalsts ir tiesīga izstrādāt savus pasākumus, lai tos sasniegtu.  Tā <a href=\"http://eur-lex.europa.eu/legal-content/LV/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">direktīva par patērētāju tiesībām</a> aizliedz visas slēptās izmaksas un maksas internetā un pagarina termiņu, kurā patērētāji var atsaukt un anulēt pārdevuma līgumu.</p>             <h2>Lēmumi</h2>             <p>Lēmumi ir saistoši adresātiem, kuriem tie ir adresēti, (piemēram, dalībvalstij vai uzņēmumam) un tieši piemērojami.  Piemēram, kad Komisija pieņēma lēmumu par <a href=\"http://eur-lex.europa.eu/legal-content/LV/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">ES dalību vairāku organizāciju darbībā, kuru mērķis ir cīņa pret terorismu</a>,  šis lēmums attiecās tikai uz šīm organizācijām.</p>             <h2>Ieteikumi</h2>             <p>Ieteikumi nav juridiski saistoši.  Tā, kad Komisija nāca klajā ar ieteikumu, kas prasa no ES valstu tiesībaizsardzības iestādēm labāk izmantot <a href=\"http://eur-lex.europa.eu/legal-content/LV/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">videokonferences, lai nostiprinātu pārrobežu sadarbību starp tiesu iestādēm</a>, šim tekstam nebija nekādu juridisku seku. Ieteikumi ļauj ES iestādēm darīt zināmu savu viedokli un ieteikt rīcības virzienu, nenosakot nekādus juridiskus pienākumus tiem, kam tie adresēti.</p>             <h2>Atzinumi</h2>             <p>Atzinumi ir instrumenti, kas ļauj iestādēm izteikt savu viedokli,  neuzliekot nekādus juridiskus pienākumus to adresātiem.  Atzinumus var sniegt galvenās ES iestādes (Komisija, Padome, Parlaments), kā arī Reģionu komiteja un Ekonomikas un sociālo lietu komiteja.  Šīs komitejas tiesību akta izstrādes laikā sniedz atzinumus, kas atspoguļo to reģionālo, ekonomisko vai sociālo skatījumu.  Piemēram, Reģionu komiteja publicēja atzinumu par pasākumu kopumu <span class=\"link-disabled\">“Tīru gaisu Eiropā”</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Izvēlieties saites tulkojumu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Izvēlieties saites tulkojumu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. </p>"
+            ],
+            "mt": [
+                "<p>L-għanijiet stabbiliti fit-trattati tal-UE jinkisbu permezz ta' tipi differenti ta' atti legali. Wħud minnhom huma vinkolanti, u oħrajn mhumiex. Wħud minnhom japplikaw fil-pajjiżi kollha tal-UE, oħrajn għal ftit minnhom biss.</p>             <h2>Regolamenti</h2>             <p>\"Regolament\" hu att leġiżlattiv vinkolanti. Għandu jiġi applikat fl-intier tiegħu madwar l-UE kollha. Pereżempju, meta l-UE riedet taċċerta ruħha li jeżistu <a href=\"http://eur-lex.europa.eu/legal-content/MT/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">salvagwardji komuni fuq merkanzija importata minn barra l-UE</a>, il-Kunsill adotta regolament.</p>             <h2>Direttivi</h2>             <p>\"Direttiva\" hi att leġiżlattiv li jistabbilixxi għan li jridu jiksbu l-pajjiżi kollha tal-UE. Madankollu, l-UE tħalli f’idejn il-pajjiżi individwali biex ifasslu l-liġijiet tagħhom dwar kif għandhom jintlaħqu dawn l-għanijiet. Eżempju partikolari hija <a href=\"http://eur-lex.europa.eu/legal-content/MT/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">d-direttiva tal-UE dwar id-drittijiet tal-konsumatur</a>, li ssaħħaħ id-drittijiet għall-konsumaturi madwar l-UE, pereżempju billi telimina tariffi u spejjeż moħbija fuq l-internet, u testendi l-perjodu li fih il-konsumaturi jistgħu jiġbdu lura minn kuntratt ta' bejgħ.</p>             <h2>Deċiżjonijiet</h2>             <p>\"Deċiżjoni\" torbot lil min hi indirizzata (eż. pajjiż tal-UE jew kumpanija individwali) u tapplika direttament. Pereżempju, il-Kummissjoni ħarġet deċiżjoni dwar <a href=\"http://eur-lex.europa.eu/legal-content/MT/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">il-parteċipazzjoni tal-UE fix-xogħol ta' bosta organizzazzjonijiet ta' kontra t-terroriżmu</a>. Id-deċiżjoni li kienet tirrigwarda dawn l-organizzazzjonijiet biss.</p>             <h2>Rakkomandazzjonijiet</h2>             <p>\"Rakkomandazzjoni\" mhijiex vinkolanti. Meta l-kummissjoni ħarġet rakkomandazzjoni li l-awtoritajiet tal-liġi fil-pajjiżi tal-UE jtejbu l-użu tal-<a href=\"http://eur-lex.europa.eu/legal-content/MT/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">videoconferencing biex jgħinu lis-servizzi ġudizzjarji jaħdmu aħjar bejn il-fruntieri</a>, dan ma kellu ebda konsegwenzi legali. Rakkomandazzjoni tippermetti lill-istituzzjonijiet jesprimu l-opinjoni tagħhom u jissuġġerixxu linja ta' azzjoni mingħajr ma jimponu ebda obbligu legali lil min tkun indirizzata.</p>             <h2>Opinjonijiet</h2>             <p>\"Opinjoni\" hi strument li jippermetti lill-istituzzjonijiet jagħmlu dikjarazzjoni b'mod mhux vinkolanti, fi kliem ieħor mingħajr ma' timponi ebda obbligu legali lil min tkun indirizzata. Opinjoni mhijiex vinkolanti. Tista' tinħareġ mill-istituzzjonijiet ewlenin tal-UE (il-Kummissjoni, il-Kunsill, il-Parlament), il-Kumitat tar-Reġjuni u l-Kumitat Ekonomiku u Soċjali Ewropew. Waqt li jkunu qed isiru l-liġijiet, il-kumitati jagħtu l-opinjonijiet tagħhom mil-lat reġjonali, ekonomiku u soċjali speċifiku tagħhom. Pereżempju, il-Kumitat tar-Reġjuni ħareġ <span class=\"link-disabled\">opinjoni dwar il-pakkett ta' politika għal arja nadifa fl-Ewropa</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "nl": [
+                "<p>Om de doelstellingen van de verdragen te bereiken, kan de EU verschillende soorten rechtshandelingen vaststellen. Sommige daarvan zijn bindend, andere niet. Sommige gelden voor alle EU-landen, andere maar voor een paar.</p>             <h2>Verordeningen</h2>             <p>Een \"verordening\" is een bindende rechtshandeling die in de hele EU van toepassing is. Zo hebben het Europees Parlement en de Raad een <a href=\"http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">verordening</a> vastgesteld om ervoor te zorgen dat van buiten de EU ingevoerde producten aan bepaalde gemeenschappelijke eisen voldoen.</p>             <h2>Richtlijnen</h2>             <p>Een \"richtlijn\" is een rechtshandeling die een bepaald doel vastlegt dat alle EU-landen moeten bereiken. Maar zij mogen zelf de wetgeving vaststellen om dat doel te bereiken. Een voorbeeld is de <a href=\"http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">richtlijn consumentenrechten</a>, waarmee de rechten van de consument in de hele EU zijn aangescherpt. Zo mogen bij aankopen via internet geen verborgen kosten in rekening worden gebracht en is de bedenktijd voor de consument verlengd.</p>             <h2>Besluiten</h2>             <p>Een \"besluit\" is bindend voor degene tot wie het gericht is (een EU-land of bedrijf) en is rechtstreeks van toepassing. De Commissie heeft bijvoorbeeld een <a href=\"http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">besluit</a> vastgesteld over de deelname van de EU aan verschillende organisaties voor terrorismebestrijding. Dit besluit geldt dus enkel voor deze organisaties.</p>             <h2>Aanbevelingen</h2>             <p>Een \"aanbeveling\" is niet bindend. De <a href=\"http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">aanbeveling</a> van de Commissie waarin zij de juridische autoriteiten van de EU-landen oproept meer gebruik te maken van videoconferenties om de juridische samenwerking over de grens heen te verbeteren, heeft dus geen juridische gevolgen. Dankzij een aanbeveling kunnen de Europese instellingen hun opvattingen kenbaar maken en een bepaalde gedragslijn voorstellen, zonder dat dit juridische verplichtingen schept voor de betrokkenen.</p>             <h2>Adviezen</h2>             <p>Een \"advies\" is een niet-bindende verklaring van een van de instellingen en schept dus geen juridische verplichtingen voor degenen tot wie het advies gericht is. Een \"advies\" is niet bindend. Het wordt gegeven door een van de grote EU-instellingen (Commissie, Raad of Parlement) of door het Comité van de Regio's of het Europees Economisch en Sociaal Comité. De beide comités brengen tijdens het wetgevingsproces adviezen uit om hun standpunt over de regionale of sociaaleconomische aspecten van het voorstel kenbaar te maken. Zo heeft het Comité van de Regio's bijvoorbeeld een advies uitgebracht over <span class=\"link-disabled\">maatregelen tegen luchtverontreiniging in Europa</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Bekijk deze link in een andere taal\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Bekijk deze link in een andere taal\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "pl": [
+                "<p>Cele wyznaczone w traktatach UE są osiągane za pomocą różnego rodzaju aktów prawnych. Niektóre z nich są wiążące, inne nie. Niektóre stosuje się do wszystkich państw UE, inne tylko do niektórych.</p>             <h2>Rozporządzenia</h2>             <p>Rozporządzenie jest wiążącym aktem prawnym. Musi być stosowane w całości na całym obszarze UE. Na przykład kiedy UE zdecydowała się wprowadzić <a href=\"http://eur-lex.europa.eu/legal-content/PL/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">wspólne zabezpieczenia w odniesieniu do towarów importowanych spoza UE</a>, Rada przyjęła rozporządzenie w tej sprawie.</p>             <h2>Dyrektywy</h2>             <p>Dyrektywa jest aktem prawnym wyznaczającym cel, który muszą osiągnąć wszystkie państwa UE. Sposób jego osiągnięcia określają jednak poszczególne kraje za pośrednictwem swoich własnych aktów prawnych. Tak było w przypadku <a href=\"http://eur-lex.europa.eu/legal-content/PL/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">dyrektywy w sprawie praw konsumentów</a>, która zwiększa poziom ochrony praw konsumentów w całej UE, między innymi eliminując ukryte opłaty i koszty przy zakupach w internecie oraz przedłużając termin, w jakim konsument może się wycofać z umowy zakupu.</p>             <h2>Decyzje</h2>             <p>Decyzja jest wiążąca dla tych podmiotów, do których jest skierowana (może to być np. państwo UE lub pojedyncze przedsiębiorstwo), i jest stosowana bezpośrednio. Przykładem może być tutaj wydana przez Komisję decyzja o <a href=\"http://eur-lex.europa.eu/legal-content/PL/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">uczestnictwie UE w pracach różnych organizacji zajmujących się zwalczaniem terroryzmu</a>. Decyzja dotyczy tylko tych organizacji.</p>             <h2>Zalecenia</h2>             <p>Zalecenie nie jest wiążące. Na przykład kiedy Komisja wydała zalecenie, zgodnie z którym organy prawne państw członkowskich powinny w większym stopniu korzystać z możliwości organizowania <a href=\"http://eur-lex.europa.eu/legal-content/PL/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">telekonferencji, aby usprawnić współpracę w skali międzynarodowej</a>, nie miało to żadnych konsekwencji prawnych. Za pomocą zaleceń instytucje mogą przedstawić swój punkt widzenia oraz zaproponować kierunek działania, nie nakładając przy tym żadnych obowiązków prawnych na podmioty, do których zalecenia są skierowane.</p>             <h2>Opinie</h2>             <p>Opinia jest aktem, za pomocą którego instytucje mogą wydać niewiążące oświadczenie, innymi słowy takie, które nie nakłada żadnych zobowiązań prawnych na podmioty, do których jest skierowane. Opinia nie jest wiążąca. Opinie mogą wydawać instytucje UE (Komisja, Rada, Parlament), Komitet Regionów oraz Europejski Komitet Ekonomiczno-Społeczny. Podczas prac nad przepisami prawnymi komitety wydają opinie ukazujące ich własną perspektywę, czyli interesy regionalne lub ekonomiczne i społeczne. Komitet Regionów wydał na przykład <span class=\"link-disabled\">opinię w sprawie pakietu środków „Czyste powietrze dla Europy”</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Wybierz wersję językową tego linka\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Wybierz wersję językową tego linka\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. </p>"
+            ],
+            "pt": [
+                "<p>Para alcançar os objetivos estabelecidos nos Tratados, a UE adota diferentes tipos de atos legislativos. Alguns desses atos são vinculativos outros não. Alguns são aplicáveis a todos os países da UE, outros apenas a alguns deles.</p>             <h2>Regulamentos</h2>             <p>Um «regulamento» é um ato legislativo vinculativo, aplicável em todos os seus elementos em todos os países da UE. Por exemplo, quando a UE quis garantir a aplicação de <a href=\"http://eur-lex.europa.eu/legal-content/PT/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">medidas comuns de salvaguarda aos produtos importados de fora da UE</a>, o Conselho adotou um regulamento.</p>             <h2>Diretivas</h2>             <p>Uma «diretiva» é um ato legislativo que fixa um objetivo geral que todos os países da UE devem alcançar. Contudo, cabe a cada país elaborar a sua própria legislação para dar cumprimento a esse objetivo. É disso exemplo a <a href=\"http://eur-lex.europa.eu/legal-content/PT/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">Diretiva sobre direitos dos consumidores</a>, que reforça esses direitos em toda a UE através designadamente da eliminação de encargos e custos ocultos na Internet e da extensão do período de que os consumidores dispõem para se retirar de um contrato de venda.</p>             <h2>Decisões</h2>             <p>Uma «decisão» só é vinculativa para os seus destinatários específicos (por exemplo, um país da UE ou uma empresa), sendo-lhes diretamente aplicável. Por exemplo, a Comissão adotou uma decisão relativa à <a href=\"http://eur-lex.europa.eu/legal-content/PT/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">participação da UE no trabalho de várias organizações de luta contra o terrorismo</a>. Esta decisão referia-se exclusivamente a essas organizações.</p>             <h2>Recomendações</h2>             <p>Uma «recomendação» não é vinculativa. Assim, a adoção pela Comissão de uma recomendação para que as autoridades judiciais dos países da UE intensificassem o recurso à <a href=\"http://eur-lex.europa.eu/legal-content/PT/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\"> videoconferência para reforçar a ação dos serviços judiciais  além fronteiras</a>, não teve qualquer consequência jurídica. Uma recomendação permite às instituições dar a conhecer os seus pontos de vista e sugerir uma linha de conduta sem todavia impor uma obrigação legal aos seus destinatários.</p>             <h2>Pareceres</h2>             <p>Um «parecer» é um instrumento que permite às instituições fazer uma declaração de forma não vinculativa, ou seja, sem impor qualquer obrigação legal aos seus destinatários. Um parecer não é vinculativo. Pode ser emitido pelas principais instituições da UE (Comissão, Conselho, Parlamento), pelo Comité das Regiões ou pelo Comité Económico e Social Europeu. Quando está ser elaborada legislação, os comités emitem pareceres sobre essa legislação consentâneos com o seu ponto de vista especificamente regional, económico ou social. Por exemplo, o Comité das Regiões emitiu um <span class=\"link-disabled\">parecer sobre o Pacote relativo à política de ar limpo para a Europa</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traduções da ligação anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traduções da ligação anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "ro": [
+                "<p>Obiectivele stabilite în tratatele UE sunt realizate prin intermediul mai multor tipuri de acte legislative. Unele au caracter obligatoriu, altele nu. Unele li se aplică tuturor țărilor, altele doar unora dintre ele.</p>             <h2>Regulamente</h2>             <p>Regulamentul este un act legislativ cu caracter obligatoriu. Trebuie aplicat în integralitatea sa, în toate statele membre. De exemplu, când UE a dorit să se asigure că <a href=\"http://eur-lex.europa.eu/legal-content/RO/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">produselor importate pe teritoriul său li se aplică măsuri comune în materie de siguranță</a>, Consiliul a adoptat un regulament.</p>             <h2>Directive</h2>             <p>Directiva este un act legislativ care stabilește un obiectiv pe care trebuie să îl atingă toate statele membre. Fiecare dintre ele are însă libertatea de a decide asupra modalităților de îndeplinire a obiectivului stabilit. Un exemplu ar fi <a href=\"http://eur-lex.europa.eu/legal-content/RO/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">directiva UE privind drepturile consumatorilor</a>, care interzice aplicarea de taxe și costuri ascunse pe internet și extinde perioada pe care consumatorii o au la dispoziție pentru a anula un contract de vânzare.</p>             <h2>Decizii</h2>             <p>Decizia este un act legislativ direct aplicabil și obligatoriu pentru toți cei cărora li se adresează. Destinatarii săi pot fi statele membre sau chiar întreprinderile. De exemplu, Comisia a emis o decizie privind <a href=\"http://eur-lex.europa.eu/legal-content/RO/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">participarea UE la acțiunile mai multor organizații de luptă împotriva terorismului</a>. Această decizie s-a referit doar la organizațiile respective.</p>             <h2>Recomandări</h2>             <p>Recomandarea nu este obligatorie. Când Comisia a emis o recomandare prin care încuraja autoritățile judiciare din țările membre să apeleze mai mult la <a href=\"http://eur-lex.europa.eu/legal-content/RO/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">utilizarea videoconferinței pentru a sprijini colaborarea transfrontalieră a serviciilor judiciare</a>, acest text nu a avut caracter obligatoriu. Prin intermediul unei recomandări, instituțiile își fac cunoscută opinia și sugerează direcții de acțiune, fără a le impune însă vreo obligație legală destinatarilor recomandării.</p>             <h2>Avize</h2>             <p>Avizul este un instrument care le permite instituțiilor să prezinte un punct de vedere fără caracter obligatoriu, altfel spus fără a le impune vreo obligație legală celor cărora li se adresează. Poate fi emis de către principalele instituții europene (Comisia, Consiliul, Parlamentul) sau de către Comitetul Regiunilor ori Comitetul Economic și Social European. Pe durata elaborării actelor legislative, Comitetele emit avize care prezintă punctul lor de vedere cu privire la aspecte regionale, economice și sociale specifice. De exemplu, Comitetul Regiunilor a emis un <span class=\"link-disabled\">aviz privind pachetul de politici „Aer curat pentru Europa”</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traducerile linkului anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traducerile linkului anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "sk": [
+                "<p>Ciele zakotvené v zmluvách EÚ sa dosahujú prostredníctvom niekoľkých typov právnych aktov. Niektoré z nich sú záväzné, iné nie. Niektoré sa vzťahujú na všetky členské štáty, iné iba na niekoľko z nich.</p>             <h2>Nariadenia</h2>             <p>Nariadenie je všeobecne záväzný právny akt, ktorý je priamo uplatniteľný vo svojej celistvosti v celej EÚ. Keď chcela napríklad EÚ zabezpečiť existenciu <a href=\"http://eur-lex.europa.eu/legal-content/SK/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">spoločných záruk vzťahujúcich sa na potraviny dovážané z krajín mimo EÚ</a>, prijala Rada nariadenie.</p>             <h2>Smernice</h2>             <p>Smernica je právny akt, ktorým sa stanovujú ciele, ktoré majú dosiahnuť členské štáty EÚ. Je však na jednotlivých krajinách, aby navrhli vlastné právne predpisy, ktorými sa tieto ciele dosiahnu. Jedným z príkladov je <a href=\"http://eur-lex.europa.eu/legal-content/SK/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">smernica o právach spotrebiteľov</a>, ktorou sa posilňujú práva spotrebiteľov v celej EÚ, napríklad prostredníctvom odstránenia skrytých online poplatkov a nákladov a predĺženia lehoty, počas ktorej môže spotrebiteľ odstúpiť od zmluvy.</p>             <h2>Rozhodnutia</h2>             <p>Rozhodnutie je právny akt záväzný iba pre toho, komu je adresovaný (napr. členskému štátu alebo spoločnosti) a je záväzné v celom rozsahu. Komisia napríklad prijala rozhodnutie o <a href=\"http://eur-lex.europa.eu/legal-content/SK/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">účasti EÚ v rôznych organizáciách pre spoluprácu pri predchádzaní terorizmu a boji proti nemu</a>. Toto rozhodnutie sa týkalo len účasti v uvedených organizáciách.</p>             <h2>Odporúčania</h2>             <p>Odporúčanie nie je právne záväzné. Keď Rada vydala odporúčanie o tom, aby krajiny EÚ zlepšili využívanie videokonferencií v <a href=\"http://eur-lex.europa.eu/legal-content/SK/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">záujme zlepšenia cezhraničnej spolupráce justičných služieb</a>, tento dokument nemal žiadne právne následky. Odporúčanie umožňuje inštitúciám vyjadriť svoj postoj k určitej otázke a navrhnúť opatrenia bez toho, aby uložili právne povinnosti tým, ktorým je určené.</p>             <h2>Stanoviská</h2>             <p>Stanovisko predstavuje pre inštitúcie nástroj na vyjadrovanie nezáväzných postojov – t. j. bez právnych následkov pre jeho adresátov. Stanovisko nie je právne záväzné. Stanoviská môžu vydávať hlavné inštitúcie EÚ (Komisia, Rada, Parlament), Výbor regiónov a Európsky hospodársky a sociálny výbor. Výbory poskytujú stanoviská k pripravovaným právnym predpisom. Ich stanoviská odrážajú osobitné regionálne, ekonomické alebo sociálne postoje. Napríklad Výbor regiónov vydal <span class=\"link-disabled\">stanovisko k balíku politických opatrení pre čistejšie ovzdušie v Európe</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrať preklady k predchádzajúcemu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "sl": [
+                "<p>Cilje iz pogodb EU uresničujejo različni pravni akti. Nekateri so zavezujoči, drugi ne. Nekateri se uporabljajo za vse države EU, drugi samo za nekatere.</p>             <h2>Uredbe</h2>             <p>Uredba je pravno zavezujoč akt in jo morajo v celoti uporabljati v vseh državah EU. Ko je na primer EU hotela uvesti <a href=\"http://eur-lex.europa.eu/legal-content/SL/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">skupne zaščitne ukrepe v zvezi z blagom, uvoženim iz držav zunaj EU</a>, je to storila z uredbo Sveta.  </p>             <h2>Direktive</h2>             <p>Direktiva je zakonodajni akt o določenem cilju, ki ga morajo doseči države EU, toda vsaka država sama sprejme svoje predpise o tem, kako bo ta cilj dosegla. Tako na primer <a href=\"http://eur-lex.europa.eu/legal-content/SL/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">direktiva EU o pravicah potrošnikov</a> prinaša močnejše varstvo pravic za potrošnike v vsej EU, med drugim tudi z odpravo skritih pristojbin in stroškov pri spletnih ponudbah in daljšim rokom, v katerem potrošniki lahko odstopijo od prodajne pogodbe.</p>             <h2>Sklepi</h2>             <p>Sklep je zavezujoč za tistega, na katerega je naslovljen (denimo državo EU ali posamezno podjetje), in se uporablja neposredno. Evropska komisija je na primer izdala sklep o <a href=\"http://eur-lex.europa.eu/legal-content/SL/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">sodelovanju EU v raznih organizacijah za boj proti terorizmu</a>. Sklep se je torej nanašal samo na te organizacije.</p>             <h2>Priporočila</h2>             <p>Priporočilo ni pravno zavezujoče. Ko je na primer Komisija izdala priporočilo, da naj pravosodni organi držav EU pogosteje uporabljajo možnost <a href=\"http://eur-lex.europa.eu/legal-content/SL/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">videokonference in tako pripomorejo k boljšemu delu pravosodnih organov v čezmejnih zadevah</a>, to zanje ni imelo pravnih posledic. Institucije s priporočilom izrazijo mnenje in predlagajo določeno ravnanje, ne da bi pri tem naslovnikom nalagale pravne obveznosti.</p>             <h2>Mnenja</h2>             <p>Mnenje je nezavezujoča izjava institucij, ki naslovnikom ne nalaga nikakršnih pravnih obveznosti. Mnenje ni pravno zavezujoče in ga lahko izdajo vse glavne institucije EU: Evropska komisija, Svet EU, Evropski parlament, Odbor regij in Evropski ekonomsko-socialni odbor. Ko se pripravlja zakonodaja, odbora izdata mnenje o določenem regionalnem ali socialno-ekonomskem vidiku posameznega vprašanja. Odbor regij je denimo izdal <span class=\"link-disabled\">mnenje o svežnju ukrepov Čisti zrak za Evropo</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Seznam prevodov predhodne povezave\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Seznam prevodov predhodne povezave\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ],
+            "sv": [
+                "<p>Det finns flera olika rättsakter som kan användas för att nå målen i EU-fördragen. En del är bindande, andra inte. Vissa gäller för samtliga EU-länder, andra bara för ett fåtal.</p>             <h2>Förordningar</h2>             <p>En förordning är en bindande rättsakt som alla EU-länder ska tillämpa i sin helhet. När EU ville införa <a href=\"http://eur-lex.europa.eu/legal-content/SV/TXT/?qid=1441183586073&amp;uri=CELEX:32015R0478\">gemensamma skyddsåtgärder för varor som importeras till EU</a> antog rådet därför en förordning.</p>             <h2>Direktiv</h2>             <p>Ett direktiv sätter upp vilka mål som medlemsländerna ska uppnå, men de får själva bestämma hur det ska gå till. Ett exempel är <a href=\"http://eur-lex.europa.eu/legal-content/SV/TXT/?qid=1434958925154&amp;uri=CELEX:32011L0083\">EU:s direktiv om konsumenträttigheter</a> som stärker konsumentskyddet i hela EU, bland annat genom att få bort dolda avgifter och kostnader på internet och förlänga ångerrätten.</p>             <h2>Beslut</h2>             <p>Ett beslut är bindande för dem som det riktar sig till (t.ex. ett enskilt EU-land eller företag) och är direkt tillämpligt. Kommissionen har till exempel antagit ett beslut om <a href=\"http://eur-lex.europa.eu/legal-content/SV/TXT/?qid=1441179536456&amp;uri=CELEX:52015JC0032\">EU:s deltagande i organisationer som bekämpar terrorism</a>. Beslutet gällde enbart dessa organisationer.</p>             <h2>Rekommendationer</h2>             <p>En rekommendation är inte bindande. När kommissionen utfärdade en rekommendation  om att EU-länderna skulle använda  <a href=\"http://eur-lex.europa.eu/legal-content/SV/TXT/?qid=1441183137539&amp;uri=CELEX:32015H0731%2801%29\">videokonferenser för att förbättra sitt rättsliga samarbete</a>, fick detta inte några rättsliga konsekvenser. Med en rekommendation kan EU-institutionerna framföra åsikter och föreslå åtgärder som inte är rättsligt bindande.</p>             <h2>Yttranden</h2>             <p>Ett yttrande är ett uttalande från institutionerna som inte innebär några rättsliga skyldigheter för mottagarna. Ett yttrande är inte bindande. Det kan utfärdas av EU:s största institutioner (kommissionen, rådet, parlamentet), Regionkommittén samt Europeiska ekonomiska och sociala kommittén. När lagar ska utformas kan kommittéerna i sina yttranden föra fram lokala, ekonomiska eller sociala synpunkter. Regionkommittén har till exempel utfärdat ett  <span class=\"link-disabled\">yttrande om programmet för ren luft i Europa</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Visa översättning av föregående länk\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Visa översättning av föregående länk\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://cor.europa.eu/en/activities/opinions/Documents/ENVE_V_046_%20A%20clean%20air%20programme%20for%20Europe_CLamers_EN.pdf\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_21ea9700604ba1bdd0a14532eee7cf5f"
+            ]
+        }
+    }
+}

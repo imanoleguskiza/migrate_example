@@ -1,0 +1,788 @@
+{
+  "_id": "624eb8c3f5ef4893eda60de652e13fd5",
+  "type": "institution",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/pol_agencies/cepol/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски полицейски колеж"
+      ],
+      "cs": [
+        "Evropská policejní akademie"
+      ],
+      "da": [
+        "Det Europæiske Politiakademi"
+      ],
+      "de": [
+        "Europäische Polizeiakademie"
+      ],
+      "el": [
+        "Eυρωπαϊκή Αστυνομική Ακαδημία"
+      ],
+      "en": [
+        "European Police College"
+      ],
+      "es": [
+        "Escuela Europea de Policía"
+      ],
+      "et": [
+        "Euroopa Politseikolledž"
+      ],
+      "fi": [
+        "Euroopan poliisiakatemia"
+      ],
+      "fr": [
+        "Collège européen de police"
+      ],
+      "ga": [
+        "An Coláiste Eorpach Póilíneachta"
+      ],
+      "hr": [
+        "Europska policijska akademija"
+      ],
+      "hu": [
+        "Európai Rendőrakadémia"
+      ],
+      "it": [
+        "Accademia europea di polizia"
+      ],
+      "lt": [
+        "Europos policijos koledžas"
+      ],
+      "lv": [
+        "Eiropas Policijas koledža"
+      ],
+      "mt": [
+        "Kulleġġ Ewropew tal-Pulizija"
+      ],
+      "nl": [
+        "Europese Politieacademie"
+      ],
+      "pl": [
+        "Europejskie Kolegium Policyjne"
+      ],
+      "pt": [
+        "Academia Europeia de Polícia"
+      ],
+      "ro": [
+        "Colegiul European de Poliţie"
+      ],
+      "sk": [
+        "Európska policajná akadémia"
+      ],
+      "sl": [
+        "Evropska policijska akademija"
+      ],
+      "sv": [
+        "Europeiska polisakademin"
+      ]
+    },
+    "category": {
+      "und": [
+        "23337c39",
+        "40261c27"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "AGENCIES"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "EUROPA/"
+      ],
+      "es": [
+        "EUROPA"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "EUROPA/"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA/"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "EUROPA/"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "cs": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "СЕПОЛ, Европейски полицейски колеж"
+      ],
+      "cs": [
+        "Evropská komise - CEPOL, Evropská policejní akademie"
+      ],
+      "da": [
+        "Europa-Kommissionen - CEPOL,  Det Europæiske Politiakademi"
+      ],
+      "de": [
+        "Europäische Kommission - CEPOL, Europäische Polizeiakademie"
+      ],
+      "el": [
+        "Ευρωπαϊκή Επιτροπή - CEPOL, Eυρωπαϊκή Αστυνομική Ακαδημία"
+      ],
+      "en": [
+        "European Commission - Access to and background information on the European body for the enhancement of judicial co-operation, an agency of the European Union"
+      ],
+      "es": [
+        "Comisión Europea - CEPOL, Escuela Europea de Policía"
+      ],
+      "et": [
+        "Euroopa Komisjon - CEPOL, Euroopa Politseikolledž"
+      ],
+      "fi": [
+        "Euroopan komissio - CEPOL,Euroopan poliisiakatemia"
+      ],
+      "fr": [
+        "Commission européenne - CEPOL, Collège européen de police"
+      ],
+      "ga": [
+        "An Coimisiún Eorpach -- CEPOL, An Coláiste Eorpach Póilíneachta"
+      ],
+      "hr": [
+        "Pristup Europskomu tijelu za poboljšanje pravosudne suradnje (agenciji Europske unije) i popratne informacije "
+      ],
+      "hu": [
+        "Európai Bizottság - CEPOL, Európai Rendőrakadémia"
+      ],
+      "it": [
+        "Commissione Europea - CEPOL, Accademia europea di polizia"
+      ],
+      "lt": [
+        "Europos Komisija - CEPOL, Europos policijos koledžas"
+      ],
+      "lv": [
+        "Eiropas Komisija - CEPOL, Eiropas Policijas koledža"
+      ],
+      "mt": [
+        "Kummissjoni Ewropea - CEPOL, Kulleġġ Ewropew tal-Pulizija"
+      ],
+      "nl": [
+        "Europese Commissie - CEPOL, Europese Politieacademie"
+      ],
+      "pl": [
+        "Komisja Europejska - CEPOL, Europejskie Kolegium Policyjne"
+      ],
+      "pt": [
+        "Comissão Europeia - CEPOL, Academia Europeia de Polícia"
+      ],
+      "ro": [
+        "Comisia Europeană – CEPOL, Colegiul European de Poliţie"
+      ],
+      "sk": [
+        "Európska komisia - CEPOL, Európska policajná akadémia"
+      ],
+      "sl": [
+        "Evropska komisija - CEPOL, Evropska policijska akademija"
+      ],
+      "sv": [
+        "Europeiska kommissionen - CEPOL, Europeiska polisakademin"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "europa"
+      ],
+      "cs": [
+        "EUROPA",
+        "agentury",
+        "orgány",
+        "evropská",
+        "unie",
+        "eu"
+      ],
+      "da": [
+        "agenturer",
+        "europa",
+        "institutioner",
+        "den europæiske union",
+        "eu"
+      ],
+      "de": [
+        "europa",
+        "Einrichtungen",
+        "Institutionen",
+        "Europäische Union",
+        "EU"
+      ],
+      "el": [
+        "europa",
+        "Οργανισμοί (υπηρεσίες)",
+        "θεσμικά όργανα",
+        "Ευρωπαϊκή Ένωση",
+        "ΕΕ"
+      ],
+      "en": [
+        "europa"
+      ],
+      "es": [
+        "europa",
+        "organismos",
+        "instituciones",
+        "union europea",
+        "ue"
+      ],
+      "et": [
+        "europa",
+        "Ametid",
+        "institutsioonid",
+        "Euroopa Liit",
+        "EL"
+      ],
+      "fi": [
+        "europa",
+        "erillisvirastot",
+        "toimielimet",
+        "Euroopan unioni",
+        "EU"
+      ],
+      "fr": [
+        "europa",
+        "agences",
+        "institutions",
+        "Union européenne",
+        "UE"
+      ],
+      "ga": [
+        "europa"
+      ],
+      "hr": [
+        "europa"
+      ],
+      "hu": [
+        "europa",
+        "ügynökségek",
+        "intézmények",
+        "európai unió",
+        "eu"
+      ],
+      "it": [
+        "europa",
+        "agenzie",
+        "istituzioni",
+        "Unione europea",
+        "UE"
+      ],
+      "lt": [
+        "europa",
+        "agentūros",
+        "institucijos",
+        "europos sąjunga",
+        "es"
+      ],
+      "lv": [
+        "europa",
+        "aģentūras",
+        "iestādes",
+        "eiropas",
+        "savienība",
+        "es"
+      ],
+      "mt": [
+        "europa",
+        "aġenziji",
+        "istituzzjonijiet",
+        "unjoni ewropea",
+        "ue"
+      ],
+      "nl": [
+        "europa",
+        "agentschappen",
+        "instellingen",
+        "Europese Unie",
+        "EU"
+      ],
+      "pl": [
+        "europa",
+        "agencje",
+        "instytucje",
+        "unia europejska",
+        "UE"
+      ],
+      "pt": [
+        "europa",
+        "agências",
+        "instituições",
+        "União Europeia",
+        "ue"
+      ],
+      "ro": [
+        "europa"
+      ],
+      "sk": [
+        "europa",
+        "agentúry",
+        "inštitúcie",
+        "Európska únia",
+        "EÚ"
+      ],
+      "sl": [
+        "europa",
+        "agencije",
+        "institucije",
+        "evropska unija",
+        "eu"
+      ],
+      "sv": [
+        "europa",
+        "organ",
+        "institutioner",
+        "Europeiska unionen",
+        "EU"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "info1": {
+      "bg": [
+        "<p>Европейският полицейски колеж (СЕПОЛ) обединява старшите полицейски служители в Европа с цел да насърчи трансграничното сътрудничество в борбата срещу организираната престъпност, както и поддържането на обществената сигурност, закона и реда.  </p>             <p>Създаден като агенция на Европейския съюз (ЕС) през 2005 г. ( <a href=\"http://eur-lex.europa.eu/legal-content/BG/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=bg\">Решение на Съвета 2005/681/JHA от 20 септември 2005 г.</a> ), секретариатът на CEPOL се намира в Брамсхил, Великобритания, на около 70 км от централен Лондон. CEPOL организира около 60 – 100 курса, семинара и конференции на година.  Дейностите се осъществяват в националните полицейски школи в страните членки и обхващат широк набор от теми.  Годишният бюджет на CEPOL е 8,341 млн. евро (2011 г.).</p>             <p>Секретариатът на CEPOL се ръководи от директора д-р Ференц Банфи, назначен за 4-годишен период, който изтича през февруари 2014 г. Директорът се отчита пред управителния съвет на CEPOL, който е съставен от представители на страните от ЕС, обикновено директорите на националните институти за обучение. Председателят на управителният съвет е представител на страната членка, която председателства Съвета на Европейския съюз. Управителният съвет обикновено заседава четири пъти в годината. Той е създал четири комитета:</p>             <ul type=\"disc\">                <li>Комитет за годишната програма (APC)</li>                <li>Комитет за бюджета и администрацията (BAC)</li>                <li>Стратегически комитет (SC)</li>                <li>Комитет за обучение и научни изследвания (TRC)</li>             </ul>             <p>Комитетите получават подкрепа от работни групи, групи по проекти и подгрупи.</p>             <p>В секретариата на CEPOL работят около 30 души, които извършват ежедневната дейност. Те са организирани в два отдела – отдел „Обучение, наука, изследователска и развойна дейност“ и отдел „Корпоративни услуги“.</p>             <p>Акронимът CEPOL идва от названието на Европейския полицейски колеж на френски – Collège européen de police.</p>"
+      ],
+      "cs": [
+        "<p>EPA – Evropská policejní akademie sdružuje vyšší policejní důstojníky z celé Evropy s cílem podporovat mezinárodní spolupráci v boji proti trestné činnosti a při zajišťování veřejné bezpečnosti a pořádku.</p>             <p>EPA byla založena v roce 2005 jako agentura Evropské unie (<a href=\"http://eur-lex.europa.eu/legal-content/CS/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=cs\">rozhodnutím Rady 2005/681/SVV ze dne 20. září 2005</a>) a její sekretariát sídlí v Bramshillu asi 70 km od Londýna. Ročně akademie pořádá 60 až 100 kurzů, seminářů a konferencí. Akce pořádají policejní akademie členských států a týkají se širokého spektra témat. Akademie EPA disponuje ročním rozpočtem ve výši 8,341 milionu eur (2011).</p>             <p>V čele sekretariátu EPA stojí ředitel Ferenc Bánfi, který byl jmenován na čtyřleté období do února 2014. Ředitel je odpovědný správní radě, v níž zasedají zástupci členských států EU, obvykle ředitelé vnitrostátních policejních akademií. Správní radě předsedá vždy zástupce země aktuálně předsedající v Radě EU. Správní rada má čtyři pravidelná zasedání ročně a v jejím rámci fungují čtyři výbory:</p>             <ul type=\"disc\">                <li>             Výbor pro roční program (APC)</li>                <li>             Výbor pro rozpočet a administrativu (BAC)</li>                <li>             Výbor pro strategii (SC)</li>                <li>             Výbor pro vzdělávání a výzkum (TRC)</li>             </ul>             <p>Výborům jsou nápomocny pracovní skupiny, projektové skupiny a podskupiny.</p>             <p>Sekretariát EPA má okolo 30 zaměstnanců a dělí se na dva odbory: odbor vzdělávání, vědy, výzkumu a rozvoje a odbor vnitřních služeb.</p>             <p>Mezinárodní zkratka Evropské policejní akademie „CEPOL“ pochází z francouzského názvu „Collège européen de police“.</p>"
+      ],
+      "da": [
+        "<p>Det Europæiske Politiakademi (Cepol) samler ledende politifolk fra hele EU for at styrke samarbejdet om at bekæmpe kriminalitet, opretholde lov og orden og beskytte den offentlige sikkerhed på tværs af grænserne.</p>             <p>Cepol er et EU-agentur, der blev oprettet den 20. september 2005 ved <a href=\"http://eur-lex.europa.eu/legal-content/DA/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=da\">Rådets afgørelse 2005/681/RIA</a>. Dets sekretariat ligger i Bramshill i England, ca. 70 km fra London. Hvert år afholder Cepol 60-100 kurser, seminarer og konferencer. De gennemføres af de nationale politiskoler i EU-landene og omfatter mange forskellige emner. Cepol har et årligt budget på  8,341 millioner euro (2011).</p>             <p>Cepols sekretariat ledes af en direktør,dr. Ferenc Bánfi, som er udnævnt for en fireårig periode indtil februar 2014. Han er ansvarlig over for Cepols bestyrelse, der består af repræsentanter for de enkelte EU-lande – for det meste ledere af de nationale politiskoler. Bestyrelsens formandskab varetages af repræsentanten for det EU-land, der har formandskabet for Rådet. Bestyrelsen mødes normalt fire gange om året og har nedsat fire udvalg:</p>             <ul type=\"disc\">                <li>             udvalget for det årlige program (APC)           </li>                <li>             budget- og forvaltningsudvalget (BAC)           </li>                <li>             det strategiske udvalg (SC)</li>                <li>             uddannelses- og forskningsudvalget (TRC).</li>             </ul>             <p>Udvalgene bistås af arbejdsgrupper, projektgrupper og undergrupper.</p>             <p>Cepols sekretariat har cirka 30 medarbejdere, der står for det daglige arbejde, i to afdelinger: afdelingen for uddannelse, videnskab, forskning og udvikling og afdelingen for fælles tjenester.</p>             <p>Forkortelsen Cepol kommer fra fransk og står for Collège européen de police – Det Europæiske Politiakademi.</p>"
+      ],
+      "de": [
+        "<p>In der Europäischen Polizeiakademie EPA arbeiten hochrangige Führungskräfte der Polizeidienste aus ganz Europa mit dem Ziel zusammen, die grenzüberschreitende Zusammenarbeit bei der Kriminalitätsbekämpfung und Aufrechterhaltung der öffentlichen Sicherheit und Ordnung zu fördern.</p>             <p>Das Sekretariat der durch den <a href=\"http://eur-lex.europa.eu/legal-content/DE/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=de\">Beschluss 2005/681/JI des Rates vom 20. September 2005</a> im Jahr 2005 als Agentur der Europäischen Union (EU) errichteten EPA ist in Bramshill im Vereinigten Königreich ansässig, rund 70 km von der Londoner Innenstadt entfernt. Die EPA veranstaltet jedes Jahr 60 bis 100 Kurse, Seminare und Konferenzen.  Die praktische Umsetzung der Arbeitsergebnisse, die ein breites Themenspektrum abdecken, erfolgt in den Polizeiakademien der Mitgliedstaaten. Für die EPA stehen jährlich Mittel in Höhe von 8 341 000 Euro zur Verfügung (2011).</p>             <p>Das EPA-Sekretariat wird von einem Direktor geleitet, der für einen Zeitraum von vier Jahren ernannt wird. Das Mandat des derzeitigen Direktors, Dr. Ferenc Bánfi, endet im Februar 2014. Der Direktor ist gegenüber dem EPA-Verwaltungsrat verantwortlich, der sich aus Vertretern der Mitgliedstaaten — im Allgemeinen den Direktoren der einzelstaatlichen Akademien — zusammensetzt. Den Vorsitz im Verwaltungsrat führt der Vertreter des Mitgliedstaats, der den Vorsitz im Rat der Europäischen Union innehat. Der Verwaltungsrat tritt in der Regel viermal jährlich zusammen. Er hat vier Ausschüsse eingesetzt:</p>             <ul type=\"disc\">                <li>den Ausschuss für das Jahresprogramm (APC)</li>                <li>den Ausschuss für Haushalt und Verwaltung (BAC)</li>                <li>den Strategieausschuss (SC)</li>                <li>den Ausschuss für Ausbildung und Forschung (TRC)</li>             </ul>             <p>Die Ausschüsse werden von Arbeitsgruppen, Projektgruppen und Untergruppen unterstützt.</p>             <p>Dem EPA-Sekretariat gehören rund 30 Mitarbeiter an, die sich in  zwei Abteilungen – „Ausbildung, Wissenschaft, Forschung und Entwicklung“ und „Allgemeine Dienste“ – um das Tagesgeschäft kümmern.</p>             <p>Das in vielen Sprachen für die EPA verwendete Akronym CEPOL kommt aus dem Französischen und steht für „Collège européen de police“.</p>"
+      ],
+      "el": [
+        "<p>Η Ευρωπαϊκή Αστυνομική Ακαδημία (CEPOL) φέρνει σε επαφή ανώτερους αξιωματικούς της αστυνομίας από όλη την Ευρώπη με στόχο την ενθάρρυνση της διασυνοριακής συνεργασίας για την καταπολέμηση του εγκλήματος, την τήρηση της δημόσιας ασφάλειας, των νόμων και της τάξης.</p>             <p>Η CEPOL ιδρύθηκε το 2005 ως οργανισμός της Ευρωπαϊκής Ένωσης (ΕΕ) με την απόφαση του <a href=\"http://eur-lex.europa.eu/legal-content/EL/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=el\"> Συμβουλίου αριθ. 2005/681,της 20<sup>ης</sup> Σεπτεμβρίου 2005</a>. Η Γραμματεία της είναι εγκατεστημένη στο Μπράμσχιλ του Ηνωμένου Βασιλείου, περίπου 70 χλμ από το κέντρο του Λονδίνου. Κάθε χρόνο διοργανώνει στις αστυνομικές σχολές των κρατών μελών 60-100 κύκλους μαθημάτων, σεμιναρίων και διαλέξεων καλύπτοντας μεγάλη ποικιλία θεμάτων. Ο ετήσιος προϋπολογισμός της ανέρχεται σε 8.341 εκατομμύρια ευρώ (2011).</p>             <p>Επικεφαλής της Γραμματείας της CEPOL είναι ο διευθυντής Dr. Ferenc Bánfi με τετραετή θητεία η οποία λήγει τον Φεβρουάριο 2014. Ο διευθυντής είναι υπόλογος έναντι του διοικητικού συμβουλίου της CEPOL στο οποίο συμμετέχουν εκπρόσωποι των κρατών μελών της ΕΕ, συνήθως οι διευθυντές των εθνικών αστυνομικών σχολών.  Πρόεδρος του διοικητικού συμβουλίου είναι ο εκπρόσωπος του κράτους μέλους που ασκεί την προεδρία του Συμβουλίου της Ευρωπαϊκής Ένωσης. Το διοικητικό συμβούλιο συνεδριάζει κανονικά τέσσερις φορές τον χρόνο και έχει συστήσει τις εξής τέσσερις επιτροπές:</p>             <ul type=\"disc\">                <li>             Επιτροπή ετήσιου προγράμματος (ΕΕΠ)</li>                <li>             Επιτροπή προϋπολογισμού και διοίκησης (ΕΠΔ)</li>                <li>             Επιτροπή στρατηγικής (ΕΣ)</li>                <li>             Επιτροπή κατάρτισης και έρευνας (ΕΚΕ)</li>             </ul>             <p>Στο έργο των επιτροπών συνεισφέρουν ομάδες εργασίας καθώς και ομάδες και υποομάδες σχεδίων.</p>             <p>Η Γραμματεία της CEPOL αποτελείται από 30 μόνιμα μέλη τα οποία διεκπεραιώνουν την καθημερινή εργασία κατανεμημένα σε δύο τμήματα: το τμήμα κατάρτισης, επιστήμης, έρευνας και ανάπτυξης και το τμήμα γενικών υπηρεσιών.</p>             <p>Το ακρωνύμιο CEPOL είναι γαλλικό και αντιστοιχεί στη γαλλική ονομασία Collège européen de police, στα ελληνικά Ευρωπαϊκή Αστυνομική Ακαδημία.</p>"
+      ],
+      "en": [
+        "<p>CEPOL - European Police College brings together senior police officers across Europe with the aim to encourage cross-border cooperation in the fight against crime, maintenance of public security and law and order.</p>             <p>Established as an agency of the European Union (EU) in 2005 (<a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=en\">Council Decision 2005/681/JHA of 20 September 2005</a>), CEPOL Secretariat is based at Bramshill in the United Kingdom, approximately 70km from central London. CEPOL organises between 60-100 courses, seminars and conferences per year. The implementation of the activities takes place at the National Police Training colleges of the Member States and the activities cover a wide-range of topics. CEPOL has an annual budget of 8.341 million euro (2011).</p>             <p>The CEPOL Secretariat is managed by Director Dr. Ferenc Bánfi., who has been appointed for a four-year period, ending February 2014.  The Director is accountable to the CEPOL Governing Board which is made up of representatives from the EU Member States, usually the Directors from the national training institutes.  The Chair of the Governing Board is a representative of the Member State holding the Presidency of the Council of the European Union. The Governing Board normally meets four times a year and has established four committees:</p>             <ul type=\"disc\">                <li>             Annual Programme Committee (APC)</li>                <li>             Budget and Administration Committee (BAC)</li>                <li>             Strategy Committee (SC)</li>                <li>             Training and Research Committee (TRC)</li>             </ul>             <p>Committees are supported by Working Groups, Project Groups and Sub-groups.</p>             <p>CEPOL Secretariat has about 30 staff members who carry out the day-to-day work, within two departments: the Learning, Science, Research and Development department and the Corporate Services department.</p>             <p>The acronym CEPOL is French and stands for Collège européen de police - European Police College in English.</p>"
+      ],
+      "es": [
+        "<p>La CEPOL (Escuela Europea de Policía) reúne a los funcionarios policiales de rango superior con el objetivo de fomentar la cooperación transfronteriza en la lucha contra la delincuencia y el mantenimiento de la seguridad y el orden públicos.</p>             <p>Creada en 2005 como agencia de la Unión Europea (UE) (por <a href=\"http://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=es\"> Decisión del Consejo 2005/681/JAI de 20 de septiembre de 2005</a>), la CEPOL tiene su Secretaría en Bramshill (Reino Unido), a unos 70 km del centro de Londres. La CEPOL organiza entre 60 y 100 cursos, seminarios y conferencias al año. Las actividades, que abarcan gran número de temas, se llevan a cabo en los centros nacionales de formación policial de los Estados miembros. CEPOL tiene un presupuesto anual de unos 8,341 millones de euros (2011).</p>             <p>Al frente de la Secretaría de la CEPOL figura Ferenc Bánfi, designado por un periodo de cuatro años que finaliza en febrero de 2014. El Director es responsable ante el Consejo de Administración, integrado por representantes de los Estados miembros de la UE (por lo general, los Directores de los centros nacionales de formación) y presidido por el representante del Estado miembro que desempeña la Presidencia de Consejo de la Unión Europea. El Consejo de Administración suele reunirse cuatro veces al año y ha creado cuatro comités:</p>             <ul type=\"disc\">                <li>             Comité del Programa Anual (CPA)</li>                <li>             Comité de Presupuesto y Administración (CPA)</li>                <li>             Comité Estratégico (CS)</li>                <li>             Comité de Formación e Investigación (CFI)</li>             </ul>             <p>Los comités cuentan con el apoyo de grupos de trabajo, grupos de proyectos y subgrupos.</p>             <p>La Secretaría de la CEPOL está compuesta por 30 empleados responsables de las tareas cotidianas y asignados a dos departamentos: el departamento de Formación, Ciencia, Investigación y Desarrollo y el departamento de Servicios Centrales.</p>             <p>Las siglas CEPOL corresponden a la denominación francesa de la agencia (Collège européen de police), Escuela Europea de Policía en español.</p>"
+      ],
+      "et": [
+        "<p>Euroopa politseikolledž (CEPOL) ühendab politsei vanemametnikke kogu Euroopast eesmärgiga edendada piiriülest koostööd kuritegevuse vastu võitlemisel, kuritegude ennetamisel ning korrakaitse ja avaliku julgeoleku tagamisel.</p>             <p>2005. aastal Euroopa Liidu (EL) asutusena loodud CEPOLi (<a href=\"http://eur-lex.europa.eu/legal-content/ET/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=et\">nõukogu 20. septembri 2005. aasta otsus nr 2005/681/JHA</a>) sekretariaat asub Bramshillis, Ühendkuningriigis, umbes 70km kaugusel Londoni kesklinnast. CEPOL korraldab 60–100 kursust, seminari ja konverentsi aastas. Meetmeid rakendatakse liikmesriikide siseriiklikes politsei koolitusasutustes ning need hõlmavad mitmeid eri teemasid. Politseikolledži aastaeelarve on ligikaudu 8,341 miljonit eurot (2011).</p>             <p>CEPOLi sekretariaati juhib direktor Ferenc Bánfi, kelle nelja-aastane ametiaeg lõpeb veebruaris 2014. Direktor annab oma tegevusest aru CEPOLi juhatusele, mis koosneb ELi liikmesriikide esindajatest, kes on tavaliselt siseriiklike koolitusasutuste direktorid. Juhatuse esimeheks on Euroopa Liidu Nõukogu eesistujariigiks oleva liikmesriigi esindaja. Juhatuse istungid toimuvad üldjuhul neli korda aastas. Juhatus on moodustanud neli komisjoni:</p>             <ul type=\"disc\">                <li>             Aastaprogrammi komisjon           </li>                <li>             Eelarve- ja halduskomisjon           </li>                <li>             Strateegiakomisjon           </li>                <li>             Koolitus- ja teaduskomisjon           </li>             </ul>             <p>Komisjonide tööd toetavad töögrupid, projektigrupid ja alagrupid.</p>             <p>CEPOLi sekretariaadi personal koosneb 30 töötajast, kes tegelevad kolledži igapäevatööga kahes osakonnas: õppe-, teadus-, uuringute ja arendustegevuse osakonnas ning organisatsiooniliste teenuste osakonnas.</p>             <p>Akronüüm CEPOL tuleneb asutuse prantsusekeelsest nimest Collège européen de police.</p>"
+      ],
+      "fi": [
+        "<p>Euroopan poliisiakatemia CEPOL tukee EU:n jäsenvaltioiden ylempien poliisiviranomaisten rajatylittävää yhteistyötä rikollisuuden torjunnassa sekä yleisen järjestyksen ja turvallisuuden ylläpitämisessä.</p>             <p>CEPOL on vuonna 2005 perustettu EU:n erillisvirasto (<a href=\"http://eur-lex.europa.eu/legal-content/FI/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=fi\">neuvoston päätös 2005/681/YOS, 20.9.2005</a>), jonka sihteeristö sijaitsee Bramshillissä Englannissa n. 70 km Lontoon keskustasta. CEPOL järjestää vuosittain noin 60–100 kurssia, seminaaria ja konferenssia. Koulutus, joka kattaa monia eri aiheita, järjestetään jäsenvaltioiden omissa poliisikouluissa. CEPOLin vuosibudjetti on 8,341 miljoonaa euroa (2011).</p>             <p>CEPOLin sihteeristöä johtaa Ferenc Bánfi, jonka nelivuotiskausi päättyy helmikuussa 2014. Johtaja vastaa toiminnastaan CEPOLin hallintoneuvostolle, joka koostuu EU:n jäsenvaltioiden edustajista, jotka ovat yleensä kansallisten koulutuslaitosten johtajia. Hallintoneuvoston puheenjohtajana on Euroopan unionin neuvoston puheenjohtajamaan edustaja. Hallintoneuvosto kokoontuu tavallisesti neljä kertaa vuodessa. Se on perustanut neljä komiteaa:</p>             <ul type=\"disc\">                <li>             vuotuinen ohjelmakomitea(APC)</li>                <li>             budjetti- ja hallintokomitea (BAC)</li>                <li>             strategiakomitea (SC)</li>                <li>             koulutus- ja tutkimuskomitea (TRC)</li>             </ul>             <p>Komiteoiden työtä tukevat työryhmät, hankeryhmät ja alaryhmät.</p>             <p>CEPOLin sihteeristö (noin 30 henkilöä) huolehtii päivittäisistä tehtävistä. Sihteeristö jakaantuu koulutus-, tutkimus- ja kehitysosastoon sekä hallinto- ja yrityspalveluosastoon (Corporate Services).</p>             <p>CEPOL-lyhenne tulee viraston ranskankielisestä nimestä Collège européen de police, suomeksi Euroopan poliisiakatemia.</p>"
+      ],
+      "fr": [
+        "<p>Le CEPOL, ou «Collège européen de police», réunit des hauts fonctionnaires de police de toute l'Europe dans le but d'encourager la coopération transfrontalière dans la lutte contre la criminalité et le maintien de la sécurité et de l'ordre public.</p>             <p>Agence de l'Union européenne depuis 2005 (<a href=\"http://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=fr\">décision 2005/681/JAI du Conseil du 20 septembre 2005</a>), le CEPOL, dont le secrétariat est situé à Bramshill, au Royaume-Uni, à environ 70 km du centre de Londres, organise chaque année entre 60 et 100 cours, séminaires et conférences. Ces activités, qui couvrent une grande variété de sujets, se déroulent au sein des instituts nationaux de formation de la police des États membres. Le CEPOL dispose d'un budget annuel de 8,341 millions d'euros (2011).</p>             <p>M. Ferenc Bánfi, directeur du secrétariat du CEPOL, a été nommé pour une période de quatre ans, qui prendra fin en février 2014.  Il est responsable devant le conseil d'administration, qui est composé de représentants des États membres de l’UE, habituellement les directeurs des instituts nationaux de formation. Le président du conseil d'administration est un représentant de l'État membre qui assure la présidence du Conseil de l'Union européenne. Le conseil d'administration se réunit normalement quatre fois par an et a mis en place quatre comités:</p>             <ul type=\"disc\">                <li>             Le comité de programmation annuelle (CPA)</li>                <li>             Le comité budget et administration (CBA)</li>                <li>             Le comité stratégique (CS)</li>                <li>             Le comité formation et recherche (CFR)</li>             </ul>             <p>Ces comités sont soutenus par des groupes de travail, des groupes de projet et des sous-groupes.</p>             <p>Le secrétariat du CEPOL compte une trentaine de membres, qui effectuent le travail quotidien au sein de deux départements: l’un consacré à la formation, à la science, à la recherche et au développement, et l’autre consacré aux services aux entreprises.</p>"
+      ],
+      "ga": [
+        "<p>Tugann An Coláiste Eorpach Póilíneachta - CEPOL, póilíní sinsearacha ar fud na hEorpa le chéile, agus é mar aidhm acu comhar trasteorann sa chomhrac i gcoinne na coireachta, agus cothabháil na slandála poiblí agus an oird phoiblí, a spreagadh.</p>             <p>Bunaíodh mar ghníomhaireacht de chuid an Aontais Eorpaigh (AE) in 2005 í (<span class=\"link-disabled\">Cinneadh 2005/681/JHA ón gComhairle an 20 Meán Fómhar 2005</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"bg\"                            lang=\"bg\"                            title=\"български (bg)\">                            <span class=\"off-screen\">български (</span>bg<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"cs\"                            lang=\"cs\"                            title=\"čeština (cs)\">                            <span class=\"off-screen\">čeština (</span>cs<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"et\"                            lang=\"et\"                            title=\"eesti keel (et)\">                            <span class=\"off-screen\">eesti keel (</span>et<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"hr\"                            lang=\"hr\"                            title=\"hrvatski (hr)\">                            <span class=\"off-screen\">hrvatski (</span>hr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"lv\"                            lang=\"lv\"                            title=\"latviešu valoda (lv)\">                            <span class=\"off-screen\">latviešu valoda (</span>lv<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"lt\"                            lang=\"lt\"                            title=\"lietuvių kalba (lt)\">                            <span class=\"off-screen\">lietuvių kalba (</span>lt<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"hu\"                            lang=\"hu\"                            title=\"magyar (hu)\">                            <span class=\"off-screen\">magyar (</span>hu<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"mt\"                            lang=\"mt\"                            title=\"Malti (mt)\">                            <span class=\"off-screen\">Malti (</span>mt<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"pt\"                            lang=\"pt\"                            title=\"português (pt)\">                            <span class=\"off-screen\">português (</span>pt<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"ro\"                            lang=\"ro\"                            title=\"română (ro)\">                            <span class=\"off-screen\">română (</span>ro<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"sk\"                            lang=\"sk\"                            title=\"slovenčina (sk)\">                            <span class=\"off-screen\">slovenčina (</span>sk<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"sl\"                            lang=\"sl\"                            title=\"slovenščina (sl)\">                            <span class=\"off-screen\">slovenščina (</span>sl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ga\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>) agus tá Rúnaíocht CEPOL lonaithe i mBramshill sa Ríocht Aontaithe, timpeall 70km ó lár chathair Londan. Eagraíonn CEPOL idir 60-100 cúrsa, seimineár agus comhdháil in aghaidh na bliana. Cuirtear na gníomhachtaí i bhfeidhm sna Coláistí Náisiúnta um Oiliúiúnt Póilíní sna Ballstáit agus folaíonn na gníomhaíochtaí réimse leathan topaicí . Tá buiséid bliantúil de 8,341 milliún euro ag CEPOL (2011).</p>             <p>Bainistíonn an Stiúrthóir Dr Ferenc Bánfi Rúnaíocht an CEPOL, a ceapadh ar feadh tréimhse ceithre bliana, chríochnóidh Feabhra 2014. Tá an Stiúrthóir cuntasach chuig Bord Stiúrtha CEPOL, atá comhdhéanta d’ionadaithe ó Bhallstáit an AE agus is Stiúrthóirí ar na hinstidiúdaí oiliúna náistiúnta de gnáth iad. Is ionadaí é Cathaoirleach an Bhoird Rialaithe den Bhallstát a bhfuil Uachtaránacht Chomhairle an Aontais Eorpaigh aige. Tagann an Bord Rialaithe le chéile ceithre huaire sa bhliain agus tá ceithre choiste bunaithe acu.</p>             <ul>                <li>             Coiste don Chlár Bliantúil  (APC)</li>                <li>             Coiste Buiséadach agus Riaracháin (BAC)</li>                <li>             Coiste na Stráitéise  (SC)</li>                <li>             Coiste Taighde do Thraenáil agus Stráitéis (TRC)</li>             </ul>             <p>Faigheann na coistí tacaíocht ó Ghrúpaí Oibre, ó Ghrúpaí Tionscadail, agus ó Fho-ghrúpaí.</p>             <p>Tá thart ar 30 ball foirne i Rúnaíocht CEPOL, a bhíonn ag obair ar thascanna laethúla taobh istigh de dhá aonad: Aonad don Fhoghlaim, d’Eolaíocht, do Thaighde agus Forbairt, agus Aonad do Sheirbhísí Corparáideacha.</p>             <p>Is acrainm Fraincíse é CEPOL agus ciallaíonn sé Collège européen de police – Coláiste Eorpach na bPóilíní as Gaeilge.</p>"
+      ],
+      "hr": [
+        "<p>CEPOL - Europska policijska akademija okuplja visoke policijske službenike iz cijele Europe radi poticanja prekogranične suradnje u borbi protiv kriminala, očuvanju javne sigurnosti i javnoga reda.</p>             <p>CEPOL  je osnovan kao agencija Europske unije (EU) 2005. (<a href=\"http://eur-lex.europa.eu/legal-content/HR/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=hr\">Odluka Vijeća 2005/681/PUP od 20. rujna 2005.</a>), a tajništvo mu se nalazi u Bramshillu u Ujedinjenoj Kraljevini, na 70-ak kilometara od središta Londona. CEPOL godišnje organizira između 60 i 100 tečajeva, seminara i konferencija. Te se aktivnosti provode u okviru nacionalnih policijskih akademija država članica i obuhvaćaju veliki broj područja. CEPOL raspolaže godišnjim proračunom od 8,341 milijun eura (2011.).</p>             <p>Na čelu tajništva CEPOL-a nalazi se njegov direktor dr. Ferenc Bánfi, imenovan na mandat od četiri godine koji završava u veljači 2014.  Direktor odgovara upravnomu odboru CEPOL-a koji se sastoji od predstavnika država članica EU-a, najčešće direktora nacionalnih ustanova za obuku policijskih službenika.  Predsjednik upravnoga odbora predstavnik je države članice koja predsjeda Vijećem Europske unije. Upravni odbor obično se sastaje četiri puta godišnje, a osnovao je četiri odbora:</p>             <ul type=\"disk\">                <li>             Odbor za godišnji program (APC)</li>                <li>             Odbor za proračun i upravu (BAC)</li>                <li>             Strateški odbor (SC)</li>                <li>             Odbor za izobrazbu i istraživanje (TRC)</li>             </ul>             <p>Odborima u radu pomažu radne skupine, projektne skupine i podskupine.</p>             <p>Tajništvo CEPOL-a ima 30-ak zaposlenika koji rade u dva odjela: odjelu za učenje, znanosti, istraživanje i razvoj te odjelu za opće poslove.</p>             <p>CEPOL je pokrata francuskoga naziva Collège européen de police - Europska policijska akademija na hrvatskome jeziku.</p>"
+      ],
+      "hu": [
+        "<p>Az Európai Rendőrakadémia (CEPOL) az uniós tagországok vezető beosztású rendőrtisztjei számára nyújt együttműködési lehetőséget. Célja, hogy ösztönözze a határokon átívelő kooperációt a bűnüldözés elleni harc, illetve a közbiztonság és közrend fenntartására irányuló tevékenységek terén.</p>             <p>Az intézmény 2005-ben jött létre <a href=\"http://eur-lex.europa.eu/legal-content/HU/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=hu\">az Európai Unió Tanácsa 2005. szeptember 20-i 2005/681/IB határozatával</a>. Az Európai Unió ügynökségeként működő szervezet titkársága az egyesült királyságbeli Bramshillben található, Londontól mintegy 70 kilométerre. A CEPOL évente 60–100 tanfolyamot, szemináriumot és konferenciát szervez. Az ügynökség által kezdeményezett tevékenységeket, amelyek számos területet felölelnek, a tagállamok rendőrtiszti főiskoláinak segítségével hajtják végre. A CEPOL éves költségvetése 2011-ben 8,341 millió euró.</p>             <p>A CEPOL titkárságának igazgatója dr. Bánfi Ferenc. Megbízatása, mely négy évre szól, 2014 februárjában jár le. Az igazgató az uniós tagállamok képviselőiből – rendszerint a tagállami rendőrtiszti főiskolák vezetőiből – álló igazgatótanácsnak tartozik felelősséggel. Az igazgatótanács elnöke az Európai Unió elnökségét adó ország képviselője. Az igazgatótanács rendszerint évente négy alkalommal ül össze. Munkáját négy bizottság segíti:</p>             <ul type=\"disc\">                <li>             Éves Program Bizottsága (APC)</li>                <li>             Költségvetési és Igazgatási Bizottság (BAC)</li>                <li>             Stratégiai Bizottság (SC)</li>                <li>             Képzési és Kutatási Bizottság (TRC)</li>             </ul>             <p>A bizottságok munkáját munkacsoportok, projektcsoportok és alcsoportok támogatják.</p>             <p>A titkárság kb. 30 alkalmazottat foglalkoztat, akik két osztály – a tanulással, tudománnyal, kutatással és fejlesztéssel, valamint az adminisztratív szolgáltatásokkal foglalkozó osztály – keretében látják el a szervezet működtetésével kapcsolatos napi feladatokat.</p>             <p>A CEPOL a francia „Collège européen de police” (Európai Rendőrfőiskola) elnevezésből alkotott mozaikszó.</p>"
+      ],
+      "it": [
+        "<p>L’Accademia europea di polizia CEPOL riunisce alti funzionari delle forze di polizia di tutta Europa per incoraggiare la cooperazione transfrontaliera in materia di lotta alla criminalità e di mantenimento della sicurezza e dell'ordine pubblico.</p>             <p>La CEPOL è stata istituita come agenzia dell’Unione europea (UE) nel 2005 (<a href=\"http://eur-lex.europa.eu/legal-content/IT/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=it\">decisione 2005/681/GAI del Consiglio, del 20 settembre 2005</a>); il segretariato dell'Accademia ha sede a Bramshill (Regno Unito), ad una settantina di chilometri dal centro di Londra. La CEPOL organizza circa 60-100 corsi, seminari e conferenze all’anno. Le attività, che interessano numerose e molteplici tematiche, si svolgono presso le accademie nazionali di formazione delle forze di polizia degli Stati membri. La CEPOL dispone di una dotazione finanziaria annua di 8,341 milioni di euro (dato relativo al 2011).</p>             <p>Il segretariato della CEPOL è diretto da Ferenc Bánfi, nominato per un mandato di quattro anni con scadenza febbraio 2014. Il direttore risponde delle sue attività al consiglio di amministrazione della CEPOL, composto da rappresentanti degli Stati membri dell’UE, generalmente i direttori degli istituti nazionali di formazione. Il consiglio di amministrazione è presieduto dal rappresentante dello Stato membro che detiene la presidenza del Consiglio dell’Unione europea. Il consiglio di amministrazione, che si riunisce normalmente quattro volte all’anno, ha costituito quattro comitati:</p>             <ul type=\"disc\">                <li>             comitato per il programma annuale (APC)</li>                <li>             comitato per il bilancio e l'amministrazione (BAC)</li>                <li>             comitato strategico (SC)</li>                <li>             comitato per la formazione e la ricercaa (TRC).</li>             </ul>             <p>I comitati sono integrati da gruppi di lavoro, gruppi di progetto e vari altri sottogruppi.</p>             <p>Il segretariato della CEPOL è costituito da 30 elementi, incaricati di svolgere le funzioni quotidiane e suddivisi in due dipartimenti: il dipartimento per l'apprendimento, la scienza, la ricerca e lo sviluppo e il dipartimento per i servizi aziendali.</p>             <p>L'acronimo CEPOL deriva dal francese \"Collège européen de police\" e significa \"Accademia europea di polizia\".</p>"
+      ],
+      "lt": [
+        "<p>Europos policijos koledžas (CEPOL) jungia visų Europos šalių vyresniuosius policijos pareigūnus ir skatina juos bendradarbiauti kovojant su nusikalstamumu, užtikrinant visuomenės saugumą, teisinę valstybę ir viešąją tvarką.</p>             <p>CEPOL įsteigtas 2005 m. kaip Europos Sąjungos agentūra (<a href=\"http://eur-lex.europa.eu/legal-content/LT/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=lt\">2005 m. rugsėjo 20 d. Tarybos sprendimu 2005/681/JHA</a>). CEPOL sekretoriatas yra Bremshilyje (Jungtinėje Karalystėje), maždaug 70 km nuo centrinio Londono. CEPOL kiekvienais metais rengia apie 60–100 mokymo kursų, seminarų ir konferencijų. Visi šie įvairiausiomis temomis organizuojami renginiai vyksta valstybių narių nacionaliniuose policijos pareigūnų mokymo koledžuose. CEPOL metinis biudžetas – 8,341 mln. EUR (2011 m.)</p>             <p>CEPOL sekretoriatui vadovauja direktorius Dr. Ferencas Bánfi, kurio ketverių metų kadencija baigsis 2014 m. vasario mėn. Direktorius atskaitingas CEPOL valdybai, sudarytai iš ES valstybių narių atstovų, paprastai nacionalinių mokymo institutų direktorių. Valdybos pirmininkas yra Europos Sąjungos Tarybai pirmininkaujančios valstybės narės atstovas. Valdyba paprastai renkasi keturis kartus per metus. Ji yra įsteigusi keturis komitetus:</p>             <ul type=\"disc\">                <li>             Metinės programos komitetą (APC)</li>                <li>             Biudžeto ir administracijos komitetą (BAC)</li>                <li>             Strategijos komitetą (SC)</li>                <li>             Mokymo ir mokslinių tyrimų komitetą (TRC)</li>             </ul>             <p>Komitetams padeda darbo grupės, projektų grupės ir pogrupiai.</p>             <p>CEPOL sekretoriatas turi  apie 30 darbuotojų, kurie dirba dviejuose skyriuose: Mokymo, mokslo, mokslinių tyrimų ir technologijų plėtros skyriuje ir Bendrųjų paslaugų skyriuje.</p>             <p>Pavadinimas CEPOL – prancūziško pavadinimo „Collège européen de police“ (Europos policijos koledžas) akronimas.</p>"
+      ],
+      "lv": [
+        "<p>Pavadinimas CEPOL – prancūziško pavadinimo „Collège européen de police“ (Europos policijos koledžas) akronimas.</p>             <p>To izveidoja 2005. gadā kā Eiropas Savienības aģentūru (<a href=\"http://eur-lex.europa.eu/legal-content/LV/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=lv\">Padomes 2005. gada 20. septembra Lēmums 2005/681/TI</a>); CEPOL sekretariāts atrodas Lielbritānijā, Bremšilā, aptuveni 70 km no Londonas. CEPOL katru gadu organizē 60-100 kursus, seminārus un konferences. Aģentūras  darbības aptver visdažādākos tematus, un tās īsteno dalībvalstu policijas augstākās izglītības iestādēs.CEPOL gada budžets ir apmēram 7,5 miljoni eiro (2007).</p>             <p>CEPOL sekretariāta direktoru Ferencu Bānfi iecēla uz četriem gadiem, un viņa pilnvaru periods beigsies 2014. gada februārī. Direktors sniedz pārskatu par savu darbu administratīvajai padomei, ko veido dalībvalstu pārstāvji, parasti policijas augstākās izglītības iestāžu direktori.  Administratīvās padomes priekšsēdētājs ir tās dalībvalsts pārstāvis, kura ir Eiropas Savienības Padomes prezidentvalsts. Administratīvā padome parasti tiekas četras reizes gadā un ir izveidojusi četras komitejas:</p>             <ul type=\"disc\">                <li>             Ikgadējās plānošanas komiteja (IPK)</li>                <li>             Budžeta un administrācijas komiteja (BAK)</li>                <li>             Stratēģijas komiteja (SK)</li>                <li>             Mācību un pētījumu komiteja (MPK)</li>             </ul>             <p>Komitejas to darbā atbalsta darba grupas, projektu grupas un apakšgrupas.</p>             <p>CEPOL sekretariātā ir apmēram 30 darbinieki, kas ikdienā strādā divās nodaļās –mācību, zinātnes, pētījumu un attīstības nodaļā un korporatīvo pakalpojumu nodaļā.</p>             <p>Akronīms CEPOL veidots no nosaukuma franču valodā Collège européen de police  jeb Eiropas Policijas akadēmija latviešu valodā.</p>"
+      ],
+      "mt": [
+        "<p>CEPOL – Il-Kulleġġ Ewropew tal-Pulizija jiġbor fi ħdanu uffiċjali għolja tal-pulizija minn madwar l-Ewropa bil-ħsieb li jħeġġeġ il-kooperazzjoni bejn il-pajjiżi fil-ġlieda kontra l-kriminalità u ż-żamma tas-sigurtà, il-liġi u l-ordni pubblika.</p>             <p>Is-Segretarjat tas-CEPOL, li twaqqaf bħala aġenzija tal-Unjoni Ewropea (UE) fl-2005 (<a href=\"http://eur-lex.europa.eu/legal-content/MT/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=mt\">id-Deċiżjoni tal-Kunsill 2005/681/JHA tal-20 ta' Settembru 2005</a>), huwa bbażat fi Bramshill fir-Renju Unit, madwar 70km miċ-ċentru ta' Londra. Is-CEPOL jorganizza  bejn 60 u 100 kors, seminar u konferenza fis-sena. L-attivitajiet, li jkopru firxa wiesgħa ta' suġġetti, jittellgħu fil-kulleġġi Nazzjonali tat-Taħriġ tal-Pulizija fl-Istati Membri. Is-CEPOL għandu baġit annwali ta'  €8.341 miljun (2011).</p>             <p>Is-Segretarjat tas-CEPOL jitmexxa mid-Direttur Dr. Ferenc Bánfi, li nħatar għal perjodu ta' erba' snin, li jintemm fi Frar 2014. Id-Direttur jirrispondi għall-Bord tat-Tmexxija tas-CEPOL li huwa magħmul minn rappreżentanti tal-Istati Membri tal-UE, li normalment ikunu d-Diretturi mill-istituti nazzjonali tat-taħriġ. Il-Bord tat-Tmexxija huwa Presedut mir-rappreżentant tal-Istat Membru li jkollu f'idejh il-Presidenza tal-Kunsill tal-Unjoni Ewropea. Il-Bord tat-Tmexxija normalment jiltaqa' erba' darbiet fis-sena u stabbilixxa erba' kumitati:</p>             <ul type=\"disc\">                <li>             Il-Kumitat għall-Programm Annwali (APC)</li>                <li>             Il-Kumitat Amministrattiv u Baġitarju (BAC)</li>                <li>             Il-Kumitat għall-Istrateġija (SC)</li>                <li>             Il-Kumitat għat-Taħriġ u r-Riċerka (TRC)</li>             </ul>             <p>Il-Kumitati huma appoġġjati minn Gruppi ta' Ħidma, Gruppi tal-Proġetti u Sotto-gruppi.</p>             <p>Is-Segretarjat tas-CEPOL jimpjega madwar 30 persuna li huma responsabbli mill-ħidmiet ta' kuljum. Dawn huma mqassmin f'żewġ dipartimenti: id-dipartiment tat-Tagħlim, ix-Xjenza, ir-Riċerka u l-Iżvilupp u d-dipartiment tas-Servizzi Korporattivi.</p>             <p>L-akronimu CEPOL huwa bil-Franċiż u jfisser Collège européen de police, jiġifieri l-Kulleġġ Ewropew tal-Pulizija, bil-Malti.</p>"
+      ],
+      "nl": [
+        "<p>De Europese Politieacademie (EPA) brengt hoge leidinggevende politiefunctionarissen met elkaar in contact om de internationale samenwerking te bevorderen bij criminaliteitsbestrijding, bescherming van de openbare veiligheid en handhaving van recht en orde.</p>             <p>De EPA werd in 2005 bij Besluit <a href=\"http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=nl\">2005/681/JBZ</a> als een agentschap van de Europese Unie (EU) opgericht. Het secretariaat is gevestigd te Bramshill (Verenigd Koninkrijk) op ongeveer 70 km van het centrum van Londen. Jaarlijks organiseert de EPA 60 à 100 opleidingen, seminars en conferenties. De activiteiten vinden plaats in de nationale politiescholen van de EU-landen en hebben betrekking op zeer uiteenlopende onderwerpen. De EPA beschikt over een jaarlijks budget van ongeveer 8,341 miljoen euro (2011).</p>             <p>Het secretariaat van de EPA staat onder leiding van directeur dr. Ferenc Bánfi, die is aangesteld voor een periode van vier jaar die in februari 2014 afloopt. De directeur is verantwoording verschuldigd aan de raad van bestuur, die samengesteld is uit vertegenwoordigers van de EU-landen, doorgaans de directeurs van de nationale politiescholen. De raad van bestuur wordt voorgezeten door een vertegenwoordiger van het land dat voorzitter is van de Raad van de Europese Unie. De raad van bestuur vergadert in principe vier keer per jaar en heeft vier comités opgericht:</p>             <ul type=\"disc\">                <li>             Comité voor het jaarprogramma           </li>                <li>             Comité voor begroting en administratie           </li>                <li>             Comité voor strategie           </li>                <li>             Comité voor opleiding en onderzoek           </li>             </ul>             <p>De comités worden ondersteund door werkgroepen, projectgroepen en subgroepen.</p>             <p>Het EPA-secretariaat beschikt voor de dagelijkse werkzaamheden over ongeveer 30 personeelsleden, in twee afdelingen: de afdeling Leren, wetenschap, onderzoek en ontwikkeling en de afdeling Zakelijke diensten.</p>             <p>In het Frans en het Engels draagt de EPA de naam \"CEPOL\", een afkorting van de Franse benaming \"Collège européen de police\".</p>"
+      ],
+      "pl": [
+        "<p>In het Frans en het Engels draagt de EPA de naam \"CEPOL\", een afkorting van de Franse benaming \"Collège européen de police\".</p>             <p>CEPOL jest agencją Unii Europejskiej ustanowioną w 2005 r. na mocy <a href=\"http://eur-lex.europa.eu/legal-content/PL/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=pl\">decyzji Rady 2005/681/WSiSW z 20 września 2005 r.</a> Jego sekretariat mieści się w Bramshill (Wielka Brytania, około 70 km od centrum Londynu). CEPOL organizuje rocznie od 60 do 100 szkoleń, seminariów i konferencji o różnorodnej tematyce, które odbywają się w szkołach policyjnych państw członkowskich. Jego roczny budżet wynosi około 8,341 mln euro (dane na rok 2011).</p>             <p>Sekretariatem agencji zarządza dyrektor dr Ferenc Bánfi, którego mianowano na okres 4 lat upływający w lutym 2014 r. Dyrektor odpowiada przed zarządem CEPOL-u, w którego skład wchodzą przedstawiciele państw członkowskich UE (zwykle dyrektorzy krajowych szkół policyjnych). Funkcję przewodniczącego zarządu pełni przedstawiciel tego państwa członkowskiego, które sprawuje przewodnictwo w Radzie Unii Europejskiej. Zarząd, zbierający się zazwyczaj cztery razy w roku, do tej pory powołał cztery komitety:</p>             <ul type=\"disc\">                <li>             Komitet Programowy           </li>                <li>             Komitet Administracyjno-Budżetowy           </li>                <li>             Komitet Strategii           </li>                <li>             Komitet ds. Badań i Szkolenia           </li>             </ul>             <p>Pracę komitetów wspierają grupy robocze, grupy zajmujące się konkretnymi projektami oraz podgrupy.</p>             <p>Sekretariat CEPOL-u liczy około 30 członków, którzy odpowiadają za funkcjonowanie agencji na co dzień i są przydzieleni do dwóch działów: Działu ds. Kształcenia, Badań Naukowych i Rozwoju oraz Działu Obsługi Administracyjnej.</p>             <p>Skrót „CEPOL” pochodzi z języka francuskiego, w którym agencja ta nosi nazwę Collège européen de police (Europejskie Kolegium Policyjne).</p>"
+      ],
+      "pt": [
+        "<p>A Academia Europeia de Polícia (AEP/CEPOL) reúne altos funcionários dos serviços de polícia de toda a Europa para promover a cooperação transfronteiras na luta contra a criminalidade e na manutenção da ordem e da segurança pública.</p>             <p>A AEP/CEPOL foi criada em 2005 (<a href=\"http://eur-lex.europa.eu/legal-content/PT/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=pt\">Decisão do Conselho 2005/681/JAI de 20 de Setembro de 2005</a>), sendo equiparada a uma agência da União Europeia (UE). A sede do secretariado da AEP/CEPOL é em Bramshill, no Reino Unido, a cerca de 70 km do centro de Londres. A AEP/CEPOL organiza anualmente 60 a 100 cursos, seminários e conferências que cobrem uma grande variedade de temas e são realizados nas academias nacionais de formação dos Estados-Membros. A AEP/CEPOL dispõe de um orçamento anual de 8 341 000 milhões de euros (2011).</p>             <p>O secretariado da AEP/CEPOL é gerido pelo Diretor Dr. Ferenc Bánfi, nomeado em fevereiro de 2014 por um período de quatro anos.</p>             <p>O Diretor responde perante o Conselho de Administração da AEP/CEPOL que é composto por representantes dos Estados-Membros, habitualmente diretores dos institutos nacionais de formação. O Conselho de Administração é presidido pelo representante do Estado-Membro que assegura a Presidência do Conselho da União Europeia. O Conselho de Administração reúne-se pelo menos quatro vezes por ano e criou quatro comités:</p>             <ul>                <li>             Comité de Programação Anual (APC)</li>                <li>             Comité Orçamental e Administrativo (BAC)</li>                <li>             Comité Estratégico o (SC)</li>                <li>             Comité de Formação e Investigação (TRC)</li>             </ul>             <p>Os comités são apoiados por grupos de trabalho, grupos de projeto e subgrupos.</p>             <p>O secretariado da AEP/CEPOL tem cerca de 30 efetivos distribuídos por dois departamentos: o Departamento Formação, Ciência, Investigação e Desenvolvimento e o Departamento Serviços Centrais.</p>             <p>O acrónimo CEPOL vem do nome francês da Academia Europeia de Polícia: Collège Européen de Police.</p>"
+      ],
+      "ro": [
+        "<p>CEPOL (Colegiului European de Poliţie) reuneşte înalţi responsabili ai forţelor de poliţie din Europa, pentru a încuraja cooperarea transfrontalieră având ca scop combaterea criminalităţii şi menţinerea siguranţei şi a ordinii publice.</p>             <p>CEPOL a fost înfiinţat în 2005 prin (<a href=\"http://eur-lex.europa.eu/legal-content/RO/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=ro\">Decizia 2005/681/JAI a Consiliului din 20 septembrie 2005</a>) şi are statutul de agenţie a UE. Sediul CEPOL se află la Bramshill (Regatul Unit), la aproximativ 70 de km de Londra. CEPOL organizează, anual, între 60 şi 100 de cursuri, seminarii şi conferinţe. Aceste activităţi pe teme variate se desfăşoară în instituţiile naţionale de formare a cadrelor de poliţie din statele membre. CEPOL dispune de un buget anual de 8.341 milioane de euro (2011).</p>             <p>Dr. Ferenc Bánfi, directorul Secretariatului CEPOL, a fost numit în această funcţie pe o perioadă de patru ani, mandatul său urmând să expire în februarie 2014. Directorul răspunde pentru activităţile sale în faţa consiliului de administraţie, alcătuit din reprezentanţi ai statelor membre (în general directori ai instituţiilor naţionale de formare a cadrelor de poliţie). Consiliul de administraţie este prezidat de reprezentantul statului membru care deţine preşedinţia Consiliului Uniunii Europene. Consiliul de administraţie se reuneşte de patru ori pe an şi a instituit patru comitete:</p>             <ul type=\"disc\">                <li>Comitetul pentru program anual (APC)</li>                <li>Comitetul pentru buget şi administrare (CBA)</li>                <li>Comitetul strategic (CS)</li>                <li>Comitetul pentru formare şi cercetare (CFC)</li>             </ul>             <p>Aceste comitete sunt sprijinite de grupuri de lucru, grupuri de proiect şi subgrupuri.</p>             <p>Secretariatul CEPOL este format din aproximativ 30 de membri şi este structurat în două departamente: Departamentul Formare, Ştiinţă, Cercetare şi Dezvoltare şi Departamentul Servicii.</p>             <p>Acronimul CEPOL corespunde denumirii în limba franceză (Collège européen de police).</p>"
+      ],
+      "sk": [
+        "<p>Európska policajná akadémia zoskupuje vyšších policajných dôstojníkov z celej Európy s cieľom podporiť cezhraničnú spoluprácu v boji proti zločinu a pri udržiavaní verejnej bezpečnosti, práva a poriadku.</p>             <p>CEPOL  bola ako agentúra Európskej únie (EÚ) založená v roku 2005 (<a href=\"http://eur-lex.europa.eu/legal-content/SK/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=sk\">rozhodnutím Rady 2005/681/SVV z 20. septembra 2005</a>). Jej sekretariát sídli v meste Bramshill (Spojené kráľovstvo), vzdialenom asi 70 km od centra Londýna. CEPOL organizuje ročne približne 60 až 100 kurzov, seminárov a konferencií. Tieto činnosti sa realizujú na štátnych policajných akadémiách v jednotlivých členských štátoch EÚ a pokrývajú široké spektrum tém. CEPOL má ročný rozpočet vo výške 8,341 miliónov EUR (2011).</p>             <p>Sekretariát CEPOL vedie jej riaditeľFerenc Bánfi, ktorého štvorročné funkčné obdobie končí vo februári 2014. Riaditeľ sa zodpovedá správnej rade, ktorá pozostáva zo zástupcov členských štátov EÚ, zvyčajne riaditeľov štátnych akadémií. Predseda správnej rady je zástupca štátu, ktorý predsedá Rade Európskej únie. Správna rada sa stretáva štyrikrát za rok v rámci štyroch výborov:</p>             <ul type=\"disc\">                <li>             Výbor pre ročný program (VRP)</li>                <li>             Rozpočtový a správny výbor (RSV)</li>                <li>             Výbor pre stratégiu (VS)</li>                <li>             Výbor pre odbornú prípravu a výskum (VOPV)</li>             </ul>             <p>Výborom asistujú pracovné skupiny, projektové skupiny a podskupiny.</p>             <p>Sekretariát CEPOL zamestnáva asi 30-členný personál, ktorý vykonáva každodenné úlohy v rámci dvoch oddelení: oddelenia pre vzdelávanie, vedu, výskum a rozvoj a oddelenia pre podnikové služby.</p>             <p>Skratka Európskej policajnej akadémie CEPOL je odvodená od jej francúzskeho názvu „Collège européen de police“.</p>"
+      ],
+      "sl": [
+        "<p>Evropska policijska akademija, CEPOL, povezuje visoke policijske uradnike po vsej Evropi in tako spodbuja čezmejno sodelovanje v boju proti kriminalu ter krepi vzdrževanje javne varnosti, reda in miru.</p>             <p>Akademija je bila ustanovljena kot agencija Evropske unije leta 2005 (<a href=\"http://eur-lex.europa.eu/legal-content/SL/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=sl\">Sklep Sveta 2005/681/PNZ z dne 20. septembra 2005</a>). Njen sekretariat je v angleškem mestu Bramshill, približno 70 km od Londona. CEPOL vsako leto organizira od 60 do 100 tečajev, seminarjev in konferenc. Usposabljanje, ki zajema različna področja, poteka na nacionalnih policijskih akademijah v državah članicah. Letni proračun Akademije je 8,341 milijona evrov (2011).</p>             <p>Sekretariat CEPOL vodi dr. Ferenc Bánfi, ki ima štiriletni mandat do februarja 2014. Direktor je odgovoren upravnemu svetu , ki ga sestavljajo predstavniki držav članic EU, običajno direktorji nacionalnih  policijskih ustanov za usposabljanje policijskih uradnikov. Predsednik upravnega sveta je zastopnik države članice, ki predseduje Svetu Evropske unije. Upravni svet se običajno sestane štirikrat na leto in ima štiri odbore:</p>             <ul type=\"disc\">                <li>             Odbor za letni program,</li>                <li>             Odbor za proračun in upravo,</li>                <li>             Strateški odbor,</li>                <li>             Odbor za usposabljanje in raziskave.</li>             </ul>             <p>Pri delu odborov sodelujejo delovne skupine, projektne skupine in podskupine.</p>             <p>Približno 30 zaposlenih na sekretariatu dela v dveh enotah: oddelku za izobraževanje, znanost, raziskave in razvoj ter oddelku za splošne zadeve.</p>             <p>CEPOL je kratica francoskega naziva agencije „Collège européen de police“, ki v slovenščini pomeni Evropska policijska akademija.</p>"
+      ],
+      "sv": [
+        "<p>Europeiska polisakademin för samman högre polistjänstemän från EU. De ska stimulera samarbetet om brottsbekämpning och upprätthållandet av den allmänna ordningen och säkerheten.</p>             <p>Cepol inrättades 2005 genom <a href=\"http://eur-lex.europa.eu/legal-content/SV/TXT/?qid=1407314371830&amp;uri=CELEX:32005D0681&amp;locale=sv\">rådets beslut 2005/681/RIF av den 20 september 2005</a>. Sekretariatet ligger i Bramshill i Storbritannien, cirka sju mil från London. Varje år anordnar Cepol mellan 60 och 100 kurser, seminarier och konferenser. Evenemangen anordnas på medlemsländernas polishögskolor och omfattar en rad olika ämnen. Cepol har en årsbudget på 8,341 miljoner euro (2011).</p>             <p>Direktör för Cepols sekretariat är Ferenc Bánfi, som har utsetts för en fyraårsperiod som slutar i februari 2014. Han är ansvarig inför Cepols styrelse som består av företrädare för EU-länderna, vanligtvis rektorerna för de nationella polishögskolorna. Styrelseordförande är företrädaren för det aktuella ordförandelandet i EU. Styrelsen sammanträder i allmänhet fyra gånger per år. Den har inrättat fyra kommittéer:</p>             <ul type=\"disc\">                <li>             Programkommittén           </li>                <li>             Budget- och förvaltningskommittén           </li>                <li>             Den strategiska kommittén           </li>                <li>             Utbildnings- och forskningskommittén           </li>             </ul>             <p>Kommittéerna får hjälp av arbetsgrupper, projektgrupper och undergrupper.</p>             <p>På Cepols sekretariat arbetar ungefär 30 personer som sköter det löpande arbetet. Sekretariatet är uppdelat i två avdelningar: den ena arbetar med utbildning, vetenskap, forskning och utveckling och den andra med administration.</p>             <p>Förkortningen Cepol står för det franska namnet Collège européen de police.</p>"
+      ]
+    },
+    "info2": {
+      "bg": [
+        "<p>                <strong>Директор:</strong> Dr. Ferenc Bánfi</p>"
+      ],
+      "cs": [
+        "<p>                <strong>Ředitel:</strong> Dr. Ferenc Bánfi.         </p>"
+      ],
+      "da": [
+        "<p>                <strong>Direktør:</strong> Dr. Ferenc Bánfi.          </p>"
+      ],
+      "de": [
+        "<p>                <strong>Direktor:</strong> Dr. Ferenc Bánfi.         </p>"
+      ],
+      "el": [
+        "<p>                <strong>Διευθυντής:</strong> Dr. Ferenc Bánfi.          </p>"
+      ],
+      "en": [
+        "<p>                <strong>Director: </strong> Dr. Ferenc Bánfi.         </p>"
+      ],
+      "es": [
+        "<p>                <strong>Director:</strong> Dr. Ferenc Bánfi.         </p>"
+      ],
+      "et": [
+        "<p>                <strong>Direktor:</strong> Dr. Ferenc Bánfi.         </p>"
+      ],
+      "fi": [
+        "<p>                <strong>Johtaja:</strong> Ferenc Bánfi.          </p>"
+      ],
+      "fr": [
+        "<p>                <strong>Directeur:</strong> M. Ferenc Bánfi.         </p>"
+      ],
+      "ga": [
+        "<p>                <strong>Stiúrthóir:</strong> Dr. Ferenc Bánfi. </p>"
+      ],
+      "hr": [
+        "<p>                <strong>Direktor: </strong> Dr. Ferenc Bánfi.         </p>"
+      ],
+      "hu": [
+        "<p>                <strong>Igazgató:</strong> Dr. Bánfi Ferenc         </p>"
+      ],
+      "it": [
+        "<p>                <strong>Direttore:</strong> Ferenc Bánfi.         </p>"
+      ],
+      "lt": [
+        "<p>                <strong>Direktorius:</strong> Dr. Ferenc Bánfi.         </p>"
+      ],
+      "lv": [
+        "<p>                <strong>Direktors:</strong> Ferencs Bānfi         </p>"
+      ],
+      "mt": [
+        "<p>                <strong>Direttur: </strong> Dr. Ferenc Bánfi.         </p>"
+      ],
+      "nl": [
+        "<p>                <strong>Directeur:</strong> Dr. Ferenc Bánfi.          </p>"
+      ],
+      "pl": [
+        "<p>                <strong>Dyrektor:</strong> Dr. Ferenc Bánfi.         </p>"
+      ],
+      "pt": [
+        "<p>                <strong>Diretor:</strong> Dr. Ferenc Bánfi.         </p>"
+      ],
+      "ro": [
+        "<p>                <strong>Director: </strong> Dr. Ferenc Bánfi. </p>"
+      ],
+      "sk": [
+        "<p>                <strong>Riaditeľ:</strong> Dr. Ferenc Bánfi.          </p>"
+      ],
+      "sl": [
+        "<p>                <strong>Direktor:</strong> r. Ferenc Bánfi.         </p>"
+      ],
+      "sv": [
+        "<p>                <strong>Direktör:</strong> Ferenc Bánfi.          </p>"
+      ]
+    },
+    "left_sub_menu": {
+      "und": [
+        true
+      ]
+    }
+  }
+}

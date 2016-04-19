@@ -1,0 +1,423 @@
+{
+  "_id": "080126248add98bf",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "es",
+    "et",
+    "el",
+    "fr",
+    "ga",
+    "it",
+    "lv",
+    "hr",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-12-03 14:26:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        20
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/comm/thumb_trade_en.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/comm/thumb_trade_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/comm/thumb_trade_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/comm/thumb_trade_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/comm/thumb_trade_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/comm/thumb_trade_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/comm/thumb_trade_en.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/comm/thumb_trade_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/comm/thumb_trade_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/comm/thumb_trade_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/comm/thumb_trade_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/comm/thumb_trade_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/comm/thumb_trade_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/comm/thumb_trade_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/comm/thumb_trade_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/comm/thumb_trade_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/comm/thumb_trade_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/comm/thumb_trade_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/comm/thumb_trade_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/comm/thumb_trade_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/comm/thumb_trade_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/comm/thumb_trade_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/comm/thumb_trade_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/comm/thumb_trade_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Търговия"
+      ],
+      "cs": [
+        "Obchod"
+      ],
+      "da": [
+        "Handel"
+      ],
+      "de": [
+        "Handel"
+      ],
+      "el": [
+        "Εμπόριο"
+      ],
+      "en": [
+        "Trade"
+      ],
+      "es": [
+        "Comercio"
+      ],
+      "et": [
+        "Kaubandus"
+      ],
+      "fi": [
+        "Kauppa"
+      ],
+      "fr": [
+        "Le commerce "
+      ],
+      "ga": [
+        "Trádáil"
+      ],
+      "hr": [
+        "Trgovina"
+      ],
+      "hu": [
+        "Kereskedelempolitika "
+      ],
+      "it": [
+        "Commercio"
+      ],
+      "lt": [
+        "Prekyba"
+      ],
+      "lv": [
+        "Tirdzniecība"
+      ],
+      "mt": [
+        " Il-Kummerċ"
+      ],
+      "nl": [
+        "Handel"
+      ],
+      "pl": [
+        "Handel"
+      ],
+      "pt": [
+        "Comércio"
+      ],
+      "ro": [
+        "Comerț"
+      ],
+      "sk": [
+        "Obchod"
+      ],
+      "sl": [
+        "Trgovina"
+      ],
+      "sv": [
+        "Handel"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Търговия"
+      ],
+      "cs": [
+        "Obchod"
+      ],
+      "da": [
+        "Handel"
+      ],
+      "de": [
+        "Handel"
+      ],
+      "el": [
+        "Εμπόριο"
+      ],
+      "en": [
+        "Trade"
+      ],
+      "es": [
+        "Comercio"
+      ],
+      "et": [
+        "Kaubandus"
+      ],
+      "fi": [
+        "Kauppa"
+      ],
+      "fr": [
+        "Le commerce "
+      ],
+      "ga": [
+        "Trádáil"
+      ],
+      "hr": [
+        "Trgovina"
+      ],
+      "hu": [
+        "Kereskedelempolitika "
+      ],
+      "it": [
+        "Commercio"
+      ],
+      "lt": [
+        "Prekyba"
+      ],
+      "lv": [
+        "Tirdzniecība"
+      ],
+      "mt": [
+        " Il-Kummerċ"
+      ],
+      "nl": [
+        "Handel"
+      ],
+      "pl": [
+        "Handel"
+      ],
+      "pt": [
+        "Comércio"
+      ],
+      "ro": [
+        "Comerț"
+      ],
+      "sk": [
+        "Obchod"
+      ],
+      "sl": [
+        "Trgovina"
+      ],
+      "sv": [
+        "Handel"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през ноември 2014 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Rukopis aktualizován v Listopad 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Publikace je součástí edice Politiky Evropské unie</span></p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i november 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Denne publikation indgår i serien \"Indblik i EU-politik\"</span></p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Veröffentlicht im November 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Teil der Reihe „Die Europäische Union erklärt“</span></p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια</span></p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto original actualizado en noviembre de 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</span></p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud november 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</span></p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty marraskuu 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</span></p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit actualisé en novembre 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</span></p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt cothrom le dáta mí Tachwedd 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</span></p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u studeni 2014.</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</span></p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">A kézirat frissítve: 2014. november</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\" data-mce-mark=\"1\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</span></p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Redazione aggiornata ad novembre 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</span></p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2014 m. novembris mėn.</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</span></p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunināts 2014. gada novembris.</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</span></p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Manuskritt aġġornat f'Novembru 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</span></p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Tekst bijgewerkt in november 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</span></p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano w listopad 2014 r.</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</span></p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em novembro de 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Esta brochura faz parte da coleção «Compreender melhor a UE»</span></p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în noiembrie 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</span></p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol aktualizovaný v november 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Táto publikácia je súčasťou série „Politiky Európskej únie“</span></p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen november 2014.</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Publikacija je del zbirke „Politike Evropske unije“.</span></p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterat i november 2014</p><p class=\"series\"><span style=\"color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18px; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff; display: inline !important; float: none;\">Broschyren ingår i serien ”Insyn i EU-politiken”</span></p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c6"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://europa.eu/pol/pdf/flipbook/bg/trade_bg.pdf"
+      ],
+      "cs": [
+        "http://europa.eu/pol/pdf/flipbook/cs/trade_cs.pdf"
+      ],
+      "da": [
+        "http://europa.eu/pol/pdf/flipbook/da/trade_da.pdf"
+      ],
+      "de": [
+        "http://europa.eu/pol/pdf/flipbook/de/trade_de.pdf"
+      ],
+      "el": [
+        "http://europa.eu/pol/pdf/flipbook/el/trade_el.pdf"
+      ],
+      "en": [
+        "http://europa.eu/pol/pdf/flipbook/en/trade_en.pdf"
+      ],
+      "es": [
+        "http://europa.eu/pol/pdf/flipbook/es/trade_es.pdf"
+      ],
+      "et": [
+        "http://europa.eu/pol/pdf/flipbook/et/trade_et.pdf"
+      ],
+      "fi": [
+        "http://europa.eu/pol/pdf/flipbook/fi/trade_fi.pdf"
+      ],
+      "fr": [
+        "http://europa.eu/pol/pdf/flipbook/fr/trade_fr.pdf"
+      ],
+      "ga": [
+        "http://europa.eu/pol/pdf/flipbook/ga/trade_ga.pdf"
+      ],
+      "hr": [
+        "http://europa.eu/pol/pdf/flipbook/hr/trade_hr.pdf"
+      ],
+      "hu": [
+        "http://europa.eu/pol/pdf/flipbook/hu/trade_hu.pdf"
+      ],
+      "it": [
+        "http://europa.eu/pol/pdf/flipbook/it/trade_it.pdf"
+      ],
+      "lt": [
+        "http://europa.eu/pol/pdf/flipbook/lt/trade_lt.pdf"
+      ],
+      "lv": [
+        "http://europa.eu/pol/pdf/flipbook/lv/trade_lv.pdf"
+      ],
+      "mt": [
+        "http://europa.eu/pol/pdf/flipbook/mt/trade_mt.pdf"
+      ],
+      "nl": [
+        "http://europa.eu/pol/pdf/flipbook/nl/trade_nl.pdf"
+      ],
+      "pl": [
+        "http://europa.eu/pol/pdf/flipbook/pl/trade_pl.pdf"
+      ],
+      "pt": [
+        "http://europa.eu/pol/pdf/flipbook/pt/trade_pt.pdf"
+      ],
+      "ro": [
+        "http://europa.eu/pol/pdf/flipbook/ro/trade_ro.pdf"
+      ],
+      "sk": [
+        "http://europa.eu/pol/pdf/flipbook/sk/trade_sk.pdf"
+      ],
+      "sl": [
+        "http://europa.eu/pol/pdf/flipbook/sl/trade_sl.pdf"
+      ],
+      "sv": [
+        "http://europa.eu/pol/pdf/flipbook/sv/trade_sv.pdf"
+      ]
+    }
+  }
+}

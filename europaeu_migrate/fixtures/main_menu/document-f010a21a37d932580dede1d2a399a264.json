@@ -1,0 +1,201 @@
+{
+    "_id": "f010a21a37d932580dede1d2a399a264",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "lt",
+        "de",
+        "et",
+        "sk",
+        "el",
+        "pl",
+        "pt",
+        "sv",
+        "it",
+        "mt",
+        "sl",
+        "hu",
+        "lv",
+        "nl",
+        "es",
+        "ro",
+        "und",
+        "hr",
+        "da",
+        "fi",
+        "bg",
+        "cs",
+        "fr",
+        "ga"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2006-07-13 0:00:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                5
+            ]
+        },
+        "parent": {
+            "und": [
+                "ca12002690bab8dd174a906d8e1aa801"
+            ]
+        },
+        "level": {
+            "und": [
+                3
+            ]
+        },
+        "title": {
+            "bg": [
+                "Уеб чат"
+            ],
+            "cs": [
+                "Webový chat"
+            ],
+            "da": [
+                "Webchat"
+            ],
+            "de": [
+                "Webchat"
+            ],
+            "el": [
+                "Διαδικτυακή συνομιλία"
+            ],
+            "und": [
+                "Web chat"
+            ],
+            "es": [
+                "Chat"
+            ],
+            "et": [
+                "Veebivestlus"
+            ],
+            "fi": [
+                "Online-opastus (chat)"
+            ],
+            "fr": [
+                "Dialogue en ligne"
+            ],
+            "ga": [
+                "Comhrá gréasáin"
+            ],
+            "hr": [
+                "Web-razgovor"
+            ],
+            "hu": [
+                "Internetes csevegés"
+            ],
+            "it": [
+                "Web chat"
+            ],
+            "lt": [
+                "Internetinė pokalbių svetainė"
+            ],
+            "lv": [
+                "Tērzēšana tiešsaistē"
+            ],
+            "mt": [
+                "iċċettja permezz tal-internet"
+            ],
+            "nl": [
+                "Chat"
+            ],
+            "pl": [
+                "Czat"
+            ],
+            "pt": [
+                "Chat em linha"
+            ],
+            "ro": [
+                "Chat"
+            ],
+            "sk": [
+                "Online chat"
+            ],
+            "sl": [
+                "Spletna svetovalnica"
+            ],
+            "sv": [
+                "Webbchatt"
+            ]
+        },
+        "link": {
+            "bg": [
+                "contact/web-assistance"
+            ],
+            "cs": [
+                "contact/web-assistance"
+            ],
+            "da": [
+                "contact/web-assistance"
+            ],
+            "de": [
+                "contact/web-assistance"
+            ],
+            "el": [
+                "contact/web-assistance"
+            ],
+            "und": [
+                "contact/web-assistance"
+            ],
+            "es": [
+                "contact/web-assistance"
+            ],
+            "et": [
+                "contact/web-assistance"
+            ],
+            "fi": [
+                "contact/web-assistance"
+            ],
+            "fr": [
+                "contact/web-assistance"
+            ],
+            "ga": [
+                "contact/web-assistance"
+            ],
+            "hr": [
+                "contact/web-assistance"
+            ],
+            "hu": [
+                "contact/web-assistance"
+            ],
+            "it": [
+                "contact/web-assistance"
+            ],
+            "lt": [
+                "contact/web-assistance"
+            ],
+            "lv": [
+                "contact/web-assistance"
+            ],
+            "mt": [
+                "contact/web-assistance"
+            ],
+            "nl": [
+                "contact/web-assistance"
+            ],
+            "pl": [
+                "contact/web-assistance"
+            ],
+            "pt": [
+                "contact/web-assistance"
+            ],
+            "ro": [
+                "contact/web-assistance"
+            ],
+            "sk": [
+                "contact/web-assistance"
+            ],
+            "sl": [
+                "contact/web-assistance"
+            ],
+            "sv": [
+                "contact/web-assistance"
+            ]
+        }
+    }
+}

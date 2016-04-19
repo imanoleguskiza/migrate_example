@@ -1,0 +1,214 @@
+{
+  "_id": "080126248e075bd7",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e075bd7",
+        "080126248e075bd7",
+        "080126248e075bd7"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска служба за подкрепа в областта на убежището(EASO)"
+      ],
+      "cs": [
+        "Evropský podpůrný úřad pro otázky azylu(EASO)"
+      ],
+      "da": [
+        "Det Europæiske Asylstøttekontor(EASO)"
+      ],
+      "de": [
+        "Europäisches Unterstützungsbüro für Asylfragen(EASO)"
+      ],
+      "el": [
+        "Ευρωπαϊκή Υπηρεσία Υποστήριξης για το Άσυλο(EASO)"
+      ],
+      "en": [
+        "European Asylum Support Office(EASO)"
+      ],
+      "es": [
+        "Oficina Europea de Apoyo al Asilo(EASO)"
+      ],
+      "et": [
+        "Euroopa Varjupaigaküsimuste Tugiamet(EASO)"
+      ],
+      "fi": [
+        "Euroopan turvapaikka-asioiden tukivirasto(EASO)"
+      ],
+      "fr": [
+        "Bureau européen d’appui en matière d’asile(EASO)"
+      ],
+      "ga": [
+        "Oifig Eorpach Tacaíochta do Chúrsaí Tearmainn(EASO)"
+      ],
+      "hr": [
+        "Europski ured za podršku u pitanjima azila(EASO)"
+      ],
+      "hu": [
+        "Európai Menekültügyi Támogatási Hivatal(EASO)"
+      ],
+      "it": [
+        "Ufficio europeo di sostegno per l’asilo(EASO)"
+      ],
+      "lt": [
+        "Europos prieglobsčio paramos biuras(EASO)"
+      ],
+      "lv": [
+        "Eiropas Patvēruma atbalsta birojs(EASO)"
+      ],
+      "mt": [
+        "l-Uffiċċju Ewropew ta’ Appoġġ fil-qasam tal-Asil(EASO)"
+      ],
+      "nl": [
+        "Europees Ondersteuningsbureau voor asielzaken(EASO)"
+      ],
+      "pl": [
+        "Europejski Urząd Wsparcia w dziedzinie Azylu(EASO)"
+      ],
+      "pt": [
+        "Gabinete Europeu de Apoio em matéria de Asilo(EASO)"
+      ],
+      "ro": [
+        "Biroul European de Sprijin pentru Azil(EASO)"
+      ],
+      "sk": [
+        "Európsky podporný úrad pre azyl(EASO)"
+      ],
+      "sl": [
+        "Evropski azilni podporni urad(EASO)"
+      ],
+      "sv": [
+        "Europeiska stödkontoret för asylfrågor(EASO)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/easo_logo.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p><span>MTC Block A</span><br /><span>Winemakers Wharf</span><br /><span>Grand Harbour </span><br /><span>Valletta MRS 1917</span><br /><span>Malta</span></p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+356 22487500"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "https://easo.europa.eu/contact-us/send-us-a-message/"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact"
+      ]
+    }
+  }
+}

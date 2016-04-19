@@ -1,0 +1,358 @@
+{
+  "_id": "080126248e076d71",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e076d71",
+        "080126248e076d71",
+        "080126248e076d71",
+        "080126248e076d71"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска агенция по химикалите(ECHA)"
+      ],
+      "cs": [
+        "Evropská agentura pro chemické látky(ECHA)"
+      ],
+      "da": [
+        "Det Europæiske Kemikalieagentur(ECHA)"
+      ],
+      "de": [
+        "Europäische Chemikalienagentur(ECHA)"
+      ],
+      "el": [
+        "Ευρωπαϊκός Οργανισμός Χημικών Προϊόντων(ECHA)"
+      ],
+      "en": [
+        "European Chemicals Agency(ECHA)"
+      ],
+      "es": [
+        "Agencia Europea de Sustancias y Preparados Químicos(ECHA)"
+      ],
+      "et": [
+        "Euroopa Kemikaalide Amet(ECHA)"
+      ],
+      "fi": [
+        "Euroopan kemikaalivirasto(ECHA)"
+      ],
+      "fr": [
+        "Agence européenne des produits chimiques(ECHA)"
+      ],
+      "ga": [
+        "An Ghníomhaireacht Eorpach Ceimiceán(ECHA)"
+      ],
+      "hr": [
+        "Europska agencija za kemikalije(ECHA)"
+      ],
+      "hu": [
+        "Európai Vegyianyag-ügynökség(ECHA)"
+      ],
+      "it": [
+        "Agenzia europea delle sostanze chimiche(ECHA)"
+      ],
+      "lt": [
+        "Europos cheminių medžiagų agentūra(ECHA)"
+      ],
+      "lv": [
+        "Eiropas Ķīmisko vielu aģentūra(ECHA)"
+      ],
+      "mt": [
+        "l-Aġenzija Ewropea tal-Kimika(ECHA)"
+      ],
+      "nl": [
+        "Europees Agentschap voor chemische stoffen(ECHA)"
+      ],
+      "pl": [
+        "Europejska Agencja Chemikaliów(ECHA)"
+      ],
+      "pt": [
+        "Agência Europeia das Substâncias Químicas(ECHA)"
+      ],
+      "ro": [
+        "Agenţia Europeană pentru Produse Chimice(ECHA)"
+      ],
+      "sk": [
+        "Európska agentúra pre chemické látky(ECHA)"
+      ],
+      "sl": [
+        "Evropska agencija za kemikalije(ECHA)"
+      ],
+      "sv": [
+        "Kontaktuppgifter till- Europeiska kemikaliemyndigheten(Echa)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/logo_echa.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Annankatu 18</p> <p>FI-00120 Helsinki</p> <p>Suomi/Finland</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+358 9 6861 80"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+358 9 6861 8210"
+      ]
+    },
+    "link_url": {
+      "bg": [
+        "http://echa.europa.eu/bg/contact"
+      ],
+      "cs": [
+        "http://echa.europa.eu/cs/contact"
+      ],
+      "da": [
+        "http://echa.europa.eu/da/contact"
+      ],
+      "de": [
+        "http://echa.europa.eu/de/contact"
+      ],
+      "el": [
+        "http://echa.europa.eu/el/contact"
+      ],
+      "en": [
+        "http://echa.europa.eu/en/web/guest/contact"
+      ],
+      "es": [
+        "http://echa.europa.eu/es/contact"
+      ],
+      "et": [
+        "http://echa.europa.eu/et/contact"
+      ],
+      "fi": [
+        "http://echa.europa.eu/fi/contact"
+      ],
+      "fr": [
+        "http://echa.europa.eu/fr/contact"
+      ],
+      "ga": [
+        "nolink"
+      ],
+      "hr": [
+        "http://echa.europa.eu/hr/contact"
+      ],
+      "hu": [
+        "http://echa.europa.eu/hu/contact"
+      ],
+      "it": [
+        "http://echa.europa.eu/it/contact"
+      ],
+      "lt": [
+        "http://echa.europa.eu/lt/contact"
+      ],
+      "lv": [
+        "http://echa.europa.eu/lv/contact"
+      ],
+      "mt": [
+        "http://echa.europa.eu/mt/contact"
+      ],
+      "nl": [
+        "http://echa.europa.eu/nl/contact"
+      ],
+      "pl": [
+        "http://echa.europa.eu/pl/contact"
+      ],
+      "pt": [
+        "http://echa.europa.eu/pt/contact"
+      ],
+      "ro": [
+        "http://echa.europa.eu/ro/contact"
+      ],
+      "sk": [
+        "http://echa.europa.eu/sk/contact"
+      ],
+      "sl": [
+        "http://echa.europa.eu/sl/contact"
+      ],
+      "sv": [
+        "http://echa.europa.eu/sv/contact"
+      ]
+    },
+    "link_label": {
+      "bg": [
+        "Contact ECHA"
+      ],
+      "cs": [
+        "Contact ECHA"
+      ],
+      "da": [
+        "Contact ECHA"
+      ],
+      "de": [
+        "Contact ECHA"
+      ],
+      "el": [
+        "Contact ECHA"
+      ],
+      "en": [
+        "Contact ECHA"
+      ],
+      "es": [
+        "Contact ECHA"
+      ],
+      "et": [
+        "Contact ECHA"
+      ],
+      "fi": [
+        "Contact ECHA"
+      ],
+      "fr": [
+        "Contact ECHA"
+      ],
+      "ga": [
+        "Contact ECHA"
+      ],
+      "hr": [
+        "ECHA kontakt"
+      ],
+      "hu": [
+        "Contact ECHA"
+      ],
+      "it": [
+        "Contact ECHA"
+      ],
+      "lt": [
+        "Contact ECHA"
+      ],
+      "lv": [
+        "Contact ECHA"
+      ],
+      "mt": [
+        "Contact ECHA"
+      ],
+      "nl": [
+        "Contact ECHA"
+      ],
+      "pl": [
+        "Contact ECHA"
+      ],
+      "pt": [
+        "Contact ECHA"
+      ],
+      "ro": [
+        "Contact ECHA"
+      ],
+      "sk": [
+        "Contact ECHA"
+      ],
+      "sl": [
+        "Contact ECHA"
+      ],
+      "sv": [
+        "Contact ECHA"
+      ]
+    }
+  }
+}

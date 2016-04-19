@@ -1,0 +1,201 @@
+{
+    "_id": "933308063dc423193df08a96789fc51c",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "und",
+        "es",
+        "fr",
+        "ga",
+        "hr",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2009-05-20 0:00:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                19
+            ]
+        },
+        "parent": {
+            "und": [
+                "c517c173dc7521105e2194d4f3935343"
+            ]
+        },
+        "level": {
+            "und": [
+                3
+            ]
+        },
+        "title": {
+            "bg": [
+                "Внос и износ"
+            ],
+            "cs": [
+                "Dovozy a vývozy"
+            ],
+            "da": [
+                "Import og eksport"
+            ],
+            "de": [
+                "Einfuhr und Ausfuhr"
+            ],
+            "el": [
+                "Εισαγωγές και εξαγωγές"
+            ],
+            "und": [
+                "Import and export"
+            ],
+            "es": [
+                "Importación y exportación"
+            ],
+            "et": [
+                "Import ja eksport"
+            ],
+            "fi": [
+                "Tuonti ja vienti"
+            ],
+            "fr": [
+                "Importation et exportation"
+            ],
+            "ga": [
+                "Allmhairiú agus onnmhairiú"
+            ],
+            "hr": [
+                "Uvoz i izvoz"
+            ],
+            "hu": [
+                "Import és export"
+            ],
+            "it": [
+                "Importazioni ed esportazioni"
+            ],
+            "lt": [
+                "Importas ir eksportas"
+            ],
+            "lv": [
+                "Imports un eksports"
+            ],
+            "mt": [
+                "Importazzjoni u Esportazzjoni"
+            ],
+            "nl": [
+                "Invoer en uitvoer"
+            ],
+            "pl": [
+                "Import i eksport"
+            ],
+            "pt": [
+                "Importação e exportação"
+            ],
+            "ro": [
+                "Import şi export"
+            ],
+            "sk": [
+                "Dovoz a vývoz"
+            ],
+            "sl": [
+                "Uvoz in izvoz"
+            ],
+            "sv": [
+                "Import och export"
+            ]
+        },
+        "link": {
+            "bg": [
+                "business/import-export"
+            ],
+            "cs": [
+                "business/import-export"
+            ],
+            "da": [
+                "business/import-export"
+            ],
+            "de": [
+                "business/import-export"
+            ],
+            "el": [
+                "business/import-export"
+            ],
+            "und": [
+                "business/import-export"
+            ],
+            "es": [
+                "business/import-export"
+            ],
+            "et": [
+                "business/import-export"
+            ],
+            "fi": [
+                "business/import-export"
+            ],
+            "fr": [
+                "business/import-export"
+            ],
+            "ga": [
+                "business/import-export"
+            ],
+            "hr": [
+                "business/import-export"
+            ],
+            "hu": [
+                "business/import-export"
+            ],
+            "it": [
+                "business/import-export"
+            ],
+            "lt": [
+                "business/import-export"
+            ],
+            "lv": [
+                "business/import-export"
+            ],
+            "mt": [
+                "business/import-export"
+            ],
+            "nl": [
+                "business/import-export"
+            ],
+            "pl": [
+                "business/import-export"
+            ],
+            "pt": [
+                "business/import-export"
+            ],
+            "ro": [
+                "business/import-export"
+            ],
+            "sk": [
+                "business/import-export"
+            ],
+            "sl": [
+                "business/import-export"
+            ],
+            "sv": [
+                "business/import-export"
+            ]
+        }
+    }
+}

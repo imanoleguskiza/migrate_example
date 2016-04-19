@@ -1,0 +1,351 @@
+{
+    "_id": "video_gallery_item_82242acd6959b583d31425af398d6de9",
+    "type": "video_gallery_item",
+    "default_language": "en",
+    "languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "es",
+        "fr",
+        "ga",
+        "hr",
+        "en",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Видео: Процесът на вземане на решения в Съвета на ЕС",
+                "Видео: Система на гласуване в Съвета на ЕС",
+                "Видео: Разлики между Европейския съвет и Съвета на Европейския съюз"
+            ],
+            "cs": [
+                "Video: Rozhodovací proces v Radě EU",
+                "Video: Hlasovací systém v Radě EU",
+                "Videomateriál: Jaký je rozdíl mezi Evropskou radou a Radou Evropské unie?"
+            ],
+            "da": [
+                "Videoklip: Beslutningsprocessen i Rådet for Den Europæiske Union",
+                "Videoklip: Afstemninger i Rådet for Den Europæiske Union",
+                "Video: Forskellen mellem Det Europæiske Råd og Rådet for Den Europæiske Union"
+            ],
+            "de": [
+                "Video: Entscheidungsfindung im Rat der Europäischen Union",
+                "Video: Abstimmungsverfahren im Rat der Europäischen Union",
+                "Video: Unterschiede zwischen dem Europäischen Rat und dem Rat der Europäischen Union"
+            ],
+            "el": [
+                "Βίντεο: Διαδικασία λήψης αποφάσεων στο πλαίσιο του Συμβουλίου της ΕΕ",
+                "Βίντεο: Σύστημα λήψης αποφάσεων στο πλαίσιο του Συμβουλίου της ΕΕ",
+                "Βίντεο: Διαφορές μεταξύ του Ευρωπαϊκού Συμβουλίου και του Συμβουλίου της Ευρωπαϊκής Ένωσης"
+            ],
+            "en": [
+                "Video: Decision-making process in the Council of the EU",
+                "Video: Voting system in the Council of the EU",
+                "Video: Differences between the European Council and the Council of the European Union"
+            ],
+            "es": [
+                "Vídeo: El proceso de toma de decisiones en el Consejo de la UE",
+                "Vídeo: Sistema de votación en el Consejo de la UE",
+                "Vídeo: Diferencias entre el Consejo Europeo y el Consejo de la Unión Europea"
+            ],
+            "et": [
+                "Video: Otsustusprotsess ELi nõukogus",
+                "Video: Hääletamine ELi nõukogus",
+                "Video: Kuidas erineb Euroopa Ülemkogu Euroopa Liidu Nõukogust?"
+            ],
+            "fi": [
+                "Video: EU:n neuvoston päätöksentekomenettely",
+                "Video: Äänestykset EU:n neuvostossa",
+                "Video: Mikä on Eurooppa-neuvosto?"
+            ],
+            "fr": [
+                "Vidéo: Processus de décision au sein du Conseil de l’UE",
+                "Vidéo: Système de vote au sein du Conseil de l’UE",
+                "Vidéo: Différences entre le Conseil européen et le Conseil de l’Union européenne"
+            ],
+            "ga": [
+                "Físeán: An próiseas cinnteoireachta i gComhairle an Aontais Eorpaigh",
+                "Físeán: An córas vótála i gComhairle an Aontais Eorpaigh",
+                "Físeán: An difear idir an Chomhairle Eorpach agus Comhairle an Aontais Eorpaigh"
+            ],
+            "hr": [
+                "Videozapis: Postupak donošenja odluka u Vijeću EU-a",
+                "Videozapis: Sustav glasovanja u Vijeću EU-a",
+                "Videozapis: Razlike između Europskog vijeća i Vijeća Europske unije"
+            ],
+            "hu": [
+                "Kisfilm: Döntéshozatal az Európai Unió Tanácsában",
+                "Kisfilm: Szavazás az Európai Unió Tanácsában",
+                "Kisfilm: Mi a különbség az Európai Tanács és az Európai Unió Tanácsa között?"
+            ],
+            "it": [
+                "Video: Il Processo decisionale nel Consiglio dell’Unione europea",
+                "Video: Il sistema di voto nel Consiglio dell’Unione europea",
+                "Video: Le differenze tra il Consiglio europeo e il Consiglio dell'Unione europea"
+            ],
+            "lt": [
+                "Vaizdo siužetas. Sprendimų priėmimas ES Taryboje",
+                "Vaizdo siužetas. ES Tarybos balsavimo sistema",
+                "Vaizdo siužetas. Kuo skiriasi Europos Vadovų Taryba ir Europos Sąjungos Taryba"
+            ],
+            "lv": [
+                "Videomateriāls par lēmumu pieņemšanas procesu ES Padomē",
+                "Videomateriāls par balsošanas sistēmu ES Padomē",
+                "Video: Atšķirības starp Eiropadomi un Eiropas Savienības Padomi"
+            ],
+            "mt": [
+                "Filmat: Il-proċess tat-teħid tad-deċiżjonijiet fil-Kunsill tal-UE",
+                "Filmat: Is-sistema tal-votazzjoni fil-Kunsill tal-UE",
+                "Filmat: Id-differenzi bejn il-Kunsill Ewropew u l-Kunsill tal-Unjoni Ewropea"
+            ],
+            "nl": [
+                "Video: De besluitvorming in de Raad van de EU",
+                "Video: Stemmen in de Raad van de EU",
+                "Video: Wat is het verschil tussen de Europese Raad en de Raad van de EU?"
+            ],
+            "pl": [
+                "Nagranie wideo: Proces decyzyjny w Radzie UE",
+                "Nagranie wideo: System głosowania w Radzie UE",
+                "Wideo: Czym różni się Rada Europejska od Rady Unii Europejskiej?"
+            ],
+            "pt": [
+                "Vídeo: Processo de decisão no Conselho da UE",
+                "Vídeo: Sistema de voto no Conselho da UE",
+                "Vídeo: Diferenças entre o Conselho Europeu e o Conselho da União Europeia"
+            ],
+            "ro": [
+                "Material video: Procesul decizional în cadrul Consiliului UE",
+                "Material video: Sistemul de vot în cadrul Consiliului UE",
+                "Material video: Diferențele dintre Consiliul European și Consiliul Uniunii Europene"
+            ],
+            "sk": [
+                "Video: Rozhodovací proces v Rade EÚ",
+                "Video: Systém hlasovania v Rade EÚ",
+                "Video: rozdiely medzi Európskou radou a Radou Európskej únie"
+            ],
+            "sl": [
+                "Videoposnetek: Postopek odločanja v Svetu EU",
+                "Videoposnetek: Postopek glasovanja v Svetu EU",
+                "Videoposnetek: Kakšna je razlika med Evropskim svetom in Svetom Evropske unije"
+            ],
+            "sv": [
+                "Videoklipp: Så fattas besluten i ministerrådet",
+                "Videoklipp: Så går omröstningen till i ministerrådet",
+                "Videoklipp: Europeiska rådet och Europeiska unionens råd – vad är skillnaden?"
+            ]
+        },
+        "media": {
+            "bg": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/bg",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/bg",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/bg"
+            ],
+            "cs": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/cs",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/cs",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/cs"
+            ],
+            "da": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/da",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/da",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/da"
+            ],
+            "de": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/de",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/de",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/de"
+            ],
+            "el": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/el",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/el",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/el"
+            ],
+            "en": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/en",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/en",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/en"
+            ],
+            "es": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/es",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/es",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/es"
+            ],
+            "et": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/et",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/et",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/et"
+            ],
+            "fi": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/fi",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/fi",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/fi"
+            ],
+            "fr": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/fr",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/fr",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/fr"
+            ],
+            "ga": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/ga",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/ga",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/ga"
+            ],
+            "hr": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/hr",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/hr",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/hr"
+            ],
+            "hu": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/hu",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/hu",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/hu"
+            ],
+            "it": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/it",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/it",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/it"
+            ],
+            "lt": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/lt",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/lt",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/lt"
+            ],
+            "lv": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/lv",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/lv",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/lv"
+            ],
+            "mt": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/mt",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/mt",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/mt"
+            ],
+            "nl": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/nl",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/nl",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/nl"
+            ],
+            "pl": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/pl",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/pl",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/pl"
+            ],
+            "pt": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/pt",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/pt",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/pt"
+            ],
+            "ro": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/ro",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/ro",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/ro"
+            ],
+            "sk": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/sk",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/sk",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/sk"
+            ],
+            "sl": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/sl",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/sl",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/sl"
+            ],
+            "sv": [
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/61696/sv",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/60405/sv",
+                "http://tvnewsroom.consilium.europa.eu/bmm_video_embed/embed_video/67740/sv"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Съвет на Европейския съюз"
+            ],
+            "cs": [
+                "Rada Evropské unie"
+            ],
+            "da": [
+                "Rådet for Den Europæiske Union"
+            ],
+            "de": [
+                "Rat der Europäischen Union"
+            ],
+            "el": [
+                "Συμβούλιο της Ευρωπαϊκής Ένωσης"
+            ],
+            "en": [
+                "Council of the European Union"
+            ],
+            "es": [
+                "Consejo de la Unión Europea"
+            ],
+            "et": [
+                "Euroopa Liidu Nõukogu"
+            ],
+            "fi": [
+                "Euroopan unionin neuvosto"
+            ],
+            "fr": [
+                "Conseil de l'Union européenne"
+            ],
+            "ga": [
+                "Comhairle an Aontais Eorpaigh"
+            ],
+            "hr": [
+                "Vijeće Europske unije"
+            ],
+            "hu": [
+                "Az Európai Unió Tanácsa"
+            ],
+            "it": [
+                "Consiglio dell'Unione europea"
+            ],
+            "lt": [
+                "Europos Sąjungos Taryba"
+            ],
+            "lv": [
+                "Eiropas Savienības Padome"
+            ],
+            "mt": [
+                "Il-Kunsill tal-Unjoni Ewropea"
+            ],
+            "nl": [
+                "Raad van de Europese Unie"
+            ],
+            "pl": [
+                "Rada Unii Europejskiej"
+            ],
+            "pt": [
+                "Conselho da União Europeia"
+            ],
+            "ro": [
+                "Consiliul Uniunii Europene"
+            ],
+            "sk": [
+                "Rada Európskej únie"
+            ],
+            "sl": [
+                "Svet Evropske unije"
+            ],
+            "sv": [
+                "Europeiska unionens råd"
+            ]
+        }
+    }
+}

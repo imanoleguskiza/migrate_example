@@ -1,0 +1,201 @@
+{
+    "_id": "b0ffe4c4fa3dbbb674f78ea51a4a33fa",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "und",
+        "es",
+        "fr",
+        "ga",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "hr"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2012-06-06 15:24:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                42
+            ]
+        },
+        "parent": {
+            "und": [
+                "7c9c528ce130f8587d1277cb6218be97"
+            ]
+        },
+        "level": {
+            "und": [
+                5
+            ]
+        },
+        "title": {
+            "bg": [
+                "Резюмета на закони на ЕС"
+            ],
+            "cs": [
+                "Shrnutí právních předpisů EU"
+            ],
+            "da": [
+                "Resuméer af EU-lovgivningen"
+            ],
+            "de": [
+                "Zusammenfassungen der EU-Gesetzgebung"
+            ],
+            "el": [
+                "Περιλήψεις της νομοθεσίας της ΕΕ"
+            ],
+            "und": [
+                "Summaries of EU legislation "
+            ],
+            "es": [
+                "Síntesis de la legislación de la UE"
+            ],
+            "et": [
+                "ELi õigusaktide kokkuvõtted"
+            ],
+            "fi": [
+                "Tiivistelmät EU-lainsäädännöstä"
+            ],
+            "fr": [
+                "Synthèses de la législation de l'UE"
+            ],
+            "ga": [
+                "Achoimrí reachtaíochta AE"
+            ],
+            "hr": [
+                "Sažeci zakonodavstva EU-a"
+            ],
+            "hu": [
+                "Jogszabály-összefoglalók"
+            ],
+            "it": [
+                "Sintesi della legislazione dell'UE"
+            ],
+            "lt": [
+                "ES teisės aktų santraukos"
+            ],
+            "lv": [
+                "ES likumdošanas kopsavilkumi"
+            ],
+            "mt": [
+                "Il-leġiżlazzjoni tal-UE fil-qosor"
+            ],
+            "nl": [
+                "Samenvattingen van de EU-wetgeving"
+            ],
+            "pl": [
+                "Prawodawstwo UE w skrócie"
+            ],
+            "pt": [
+                "Sínteses da legislação da UE"
+            ],
+            "ro": [
+                "Legislaţia UE - sinteze"
+            ],
+            "sk": [
+                "Súhrnné súbory legislatívy EÚ"
+            ],
+            "sl": [
+                "Povzetki zakonodaje EU"
+            ],
+            "sv": [
+                "Sammanfattning av EU-lagstiftningen"
+            ]
+        },
+        "link": {
+            "bg": [
+                "legislation_summaries"
+            ],
+            "cs": [
+                "legislation_summaries"
+            ],
+            "da": [
+                "legislation_summaries"
+            ],
+            "de": [
+                "legislation_summaries"
+            ],
+            "el": [
+                "legislation_summaries"
+            ],
+            "und": [
+                "legislation_summaries"
+            ],
+            "es": [
+                "legislation_summaries"
+            ],
+            "et": [
+                "legislation_summaries"
+            ],
+            "fi": [
+                "legislation_summaries"
+            ],
+            "fr": [
+                "legislation_summaries"
+            ],
+            "ga": [
+                "legislation_summaries"
+            ],
+            "hr": [
+                "legislation_summaries"
+            ],
+            "hu": [
+                "legislation_summaries"
+            ],
+            "it": [
+                "legislation_summaries"
+            ],
+            "lt": [
+                "legislation_summaries"
+            ],
+            "lv": [
+                "legislation_summaries"
+            ],
+            "mt": [
+                "legislation_summaries"
+            ],
+            "nl": [
+                "legislation_summaries"
+            ],
+            "pl": [
+                "legislation_summaries"
+            ],
+            "pt": [
+                "legislation_summaries"
+            ],
+            "ro": [
+                "legislation_summaries"
+            ],
+            "sk": [
+                "legislation_summaries"
+            ],
+            "sl": [
+                "legislation_summaries"
+            ],
+            "sv": [
+                "legislation_summaries"
+            ]
+        }
+    }
+}

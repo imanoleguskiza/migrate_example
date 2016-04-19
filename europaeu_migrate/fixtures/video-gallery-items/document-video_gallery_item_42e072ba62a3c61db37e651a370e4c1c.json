@@ -1,0 +1,595 @@
+{
+    "_id": "video_gallery_item_42e072ba62a3c61db37e651a370e4c1c",
+    "type": "video_gallery_item",
+    "default_language": "en",
+    "languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "en",
+        "es",
+        "fr",
+        "ga",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "hr",
+        "fi",
+        "sl",
+        "sv"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Преместване на нов адрес в Европа – как придвижването засяга правото ми на обезщетение при безработица?",
+                "Преместване на нов адрес в Европа – коя страна ще плаща пенсията ми за старост?",
+                "Популяризиране на единния пазар в Европа"
+            ],
+            "cs": [
+                "Mobilita v Evropě – Co se stane s mým nárokem na dávky v nezaměstnanosti po přestěhování do jiné země?",
+                "Mobilita v Evropě – Který stát mi bude vyplácet starobní důchod?",
+                "Podpora jednotného trhu v Evropě"
+            ],
+            "da": [
+                "Flytning inden for EU – hvordan påvirker det mine rettigheder til arbejdsløshedsunderstøttelse, hvis jeg flytter?",
+                "Flytning inden for EU – Hvilket land vil udbetale min alderspension?",
+                "Hjælp til Europas indre marked"
+            ],
+            "de": [
+                "Umzug innerhalb Europas – was bedeutet das für meinen Anspruch auf Arbeitslosenleistungen? ",
+                "Umzug innerhalb Europas – welches Land zahlt mir meine Altersversorgung?",
+                "Förderung des Binnenmarkts in Europa"
+            ],
+            "el": [
+                "Μετακινήσεις εντός της Ευρώπης – Πώς οι μετακινήσεις μπορούν να επηρεάσουν το δικαίωμά μου σε παροχές",
+                "Μετακινήσεις εντός της Ευρώπης – Ποια χώρα θα μου καταβάλλει τη σύνταξη γήρατος;",
+                "Προώθηση της ενιαίας αγοράς στην Ευρώπη"
+            ],
+            "en": [
+                "Moving within Europe - How does moving affect my right to unemployment benefits?  ",
+                "Moving within Europe - Which country will pay my old-age pension?  ",
+                "Promoting the single market in Europe"
+            ],
+            "es": [
+                "Desplazarse en Europa: si me traslado, ¿pierdo el derecho a cobrar el paro?",
+                "Desplazarse en Europa: ¿qué país pagará mi pensión de jubilación?",
+                "Fomentar el mercado único en Europa"
+            ],
+            "et": [
+                "Teise Euroopa riiki elama asumine – Kuidas mõjutab teise riiki elama asumine minu õigusi töötushüvitistele?",
+                "Teise Euroopa riiki elama asumine – Milline riik maksab mulle vanaduspensioni?",
+                "Ühtse turu edendamine Euroopas"
+            ],
+            "fi": [
+                "Liikkeellä Euroopassa – Miten maastamuutto vaikuttaa työttömyysturvaan?",
+                "Liikkeellä Euroopassa – Mikä maa maksaa muuttajan vanhuuseläkkeen?",
+                "EU sisämarkkinoiden tukena"
+            ],
+            "fr": [
+                "Se déplacer en Europe – En quoi un déplacement affecte-t-il mon droit aux allocations de chômage?",
+                "Présentation de la nouvelle stratégie pour le bien-être des animaux 2012-2015",
+                "Promouvoir le marché unique en Europe"
+            ],
+            "ga": [
+                "Bogadh laistigh den Eoraip – Conas a théann bogadh i bhfeidhm ar mo chearta ar shochair dífhostaíochta?",
+                "Bogadh laistigh den Eoraip – Cén tír a íocfaidh mo phinsean seanaoise?",
+                "An margadh aonair a chur chun cinn san Eoraip"
+            ],
+            "hr": [
+                "Selite se iz jedne u drugu europsku državu - Kako selidba utječe na vašu naknadu na nezaposlene?",
+                "Selite se iz jedne u drugu europsku državu - Koja država će plaćati moju mirovinu?",
+                "Promicanje jedinstvenog tržišta u Europi"
+            ],
+            "hu": [
+                "Mi történik a munkanélküli ellátásokra való jogosultságommal, ha egyik európai uniós országból egy másikba költözöm?",
+                "Melyik ország fogja folyósítani az öregkori nyugdíjamat, ha egyik európai uniós országból egy másikba költözöm?",
+                "Europos bendrosios rinkos rėmimas"
+            ],
+            "it": [
+                "Spostarsi in Europa - Se mi trasferisco all'estero perdo il diritto all'indennità di disoccupazione?",
+                "Spostarsi in Europa - Quale paese pagherà la mia pensione? ",
+                "Promuovere il mercato unico in Europa"
+            ],
+            "lt": [
+                "Judumas Europos Sąjungoje. Ar persikėlus gyventi į kitą šalį neprarandama teisės į bedarbio pašalpą?",
+                "Judumas Europos Sąjungoje. Kuri šalis mokės senatvės pensiją?",
+                "Europos bendrosios rinkos rėmimas"
+            ],
+            "lv": [
+                "Kā pārcelšanās uz citu ES valsti ietekmē jūsu tiesības uz bezdarbnieka pabalstu",
+                "Kura valsts jums maksās vecuma pensiju, ja esat dzīvojis vai strādājis vairākās",
+                "Eiropas vienotā tirgus darbības veicināšana"
+            ],
+            "mt": [
+                "Jekk immur ngħix f'pajjiż ieħor tal-Ewropa – Jekk immur ngħix f'pajjiż ieħor tal-UE kif jiġu affettwati drittijieti għall-benefiċċji tal-qgħad?",
+                "Jekk immur ngħix f'pajjiż ieħor tal-Ewropa – Liema pajjiż se jħallas il-pensjoni tax-xjuħija?",
+                "Nippromwovu s-suq uniku fl-Ewropa"
+            ],
+            "nl": [
+                "Verhuizen binnen Europa – Wat gebeurt er met mijn werkloosheidsuitkering?",
+                "Verhuizen binnen Europa – Welk land betaalt mijn ouderdomspensioen?",
+                "De interne markt in Europa bevorderen"
+            ],
+            "pl": [
+                "Przemieszczanie się w obrębie UE – Czy przeprowadzka do innego kraju UE ma wpływ na moje prawo do świadczeń dla bezrobotnych?",
+                "Przemieszczanie się w obrębie UE – Który kraj będzie wypłacał mi emeryturę?",
+                "Promowanie jednolitego rynku w Europie"
+            ],
+            "pt": [
+                "Mudar para outro país da UE: em que medida prejudica o direito ao subsídio de desemprego?",
+                "Mudar para outro país da UE: que país pagará a minha pensão de reforma?",
+                "Promover o mercado único na Europa"
+            ],
+            "ro": [
+                "Mă stabilesc în altă ţară din UE. Ce se întâmplă cu dreptul meu la indemnizaţia de şomaj?",
+                "Mă stabilesc în altă ţară din UE. Ce ţară îmi va plăti pensia pentru limită de vârstă?",
+                "Promovarea pieței unice în Europa"
+            ],
+            "sk": [
+                "Zmena pobytu v rámci Európy – čo sa stane s mojimi dávkami v nezamestnanosti?",
+                "Zmena pobytu v rámci Európy – kto mi bude vyplácať dôchodok?",
+                "Podpora jednotného trhu v Európe"
+            ],
+            "sl": [
+                "Selitev v drugo državo EU: Kaj bo z mojim nadomestilom za brezposelnost?",
+                "Selitev v drugo državo EU: V kateri državi mi bodo plačevali pokojnino? ",
+                "Uveljavljanje enotnega trga v Evropi"
+            ],
+            "sv": [
+                "Flytta inom EU – Hur påverkas min rätt till arbetslöshetsersättning?",
+                "Flytta inom EU – Vilket land ska betala min pension?",
+                "Främja en inre marknad i EU"
+            ]
+        },
+        "media": {
+            "bg": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "cs": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "da": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "de": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "el": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "en": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "es": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "et": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "fi": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "fr": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "ga": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "hr": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "hu": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "it": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "lt": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "lv": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "mt": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "nl": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "pl": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "pt": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "ro": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "sk": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "sl": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ],
+            "sv": [
+                "http://europa.eu/pol/videos/socio/socio_5.flv",
+                "http://europa.eu/pol/videos/socio/socio_6.flv",
+                "http://europa.eu/eu-life/videos/single_market_award.flv"
+            ]
+        },
+        "image": {
+            "bg": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "cs": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "da": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "de": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "el": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "en": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "es": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "et": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "fi": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "fr": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "ga": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "hr": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "hu": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "it": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "lt": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "lv": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "mt": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "nl": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "pl": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "pt": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "ro": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "sk": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "sl": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ],
+            "sv": [
+                "http://europa.eu/pol/videos/socio/socio_5.jpg",
+                "http://europa.eu/pol/videos/socio/socio_6.jpg",
+                "http://europa.eu/eu-life/videos/single_market_award.jpg"
+            ]
+        },
+        "image_alt": {
+            "bg": [
+                "Преместване на нов адрес в Европа – как придвижването засяга правото ми на обезщетение при безработица?",
+                "Преместване на нов адрес в Европа – коя страна ще плаща пенсията ми за старост?",
+                "Популяризиране на единния пазар в Европа"
+            ],
+            "cs": [
+                "Mobilita v Evropě – Co se stane s mým nárokem na dávky v nezaměstnanosti po přestěhování do jiné země?",
+                "Mobilita v Evropě – Který stát mi bude vyplácet starobní důchod?",
+                "Podpora jednotného trhu v Evropě"
+            ],
+            "da": [
+                "Flytning inden for EU – hvordan påvirker det mine rettigheder til arbejdsløshedsunderstøttelse, hvis jeg flytter?",
+                "Flytning inden for EU – Hvilket land vil udbetale min alderspension?",
+                "Hjælp til Europas indre marked"
+            ],
+            "de": [
+                "Umzug innerhalb Europas – was bedeutet das für meinen Anspruch auf Arbeitslosenleistungen? ",
+                "Umzug innerhalb Europas – welches Land zahlt mir meine Altersversorgung?",
+                "Förderung des Binnenmarkts in Europa"
+            ],
+            "el": [
+                "Μετακινήσεις εντός της Ευρώπης – Πώς οι μετακινήσεις μπορούν να επηρεάσουν το δικαίωμά μου σε παροχές",
+                "Μετακινήσεις εντός της Ευρώπης – Ποια χώρα θα μου καταβάλλει τη σύνταξη γήρατος;",
+                "Προώθηση της ενιαίας αγοράς στην Ευρώπη"
+            ],
+            "en": [
+                "Moving within Europe - How does moving affect my right to unemployment benefits?  ",
+                "Moving within Europe - Which country will pay my old-age pension?  ",
+                "Promoting the single market in Europe"
+            ],
+            "es": [
+                "Desplazarse en Europa: si me traslado, ¿pierdo el derecho a cobrar el paro?",
+                "Desplazarse en Europa: ¿qué país pagará mi pensión de jubilación?",
+                "Fomentar el mercado único en Europa"
+            ],
+            "et": [
+                "Teise Euroopa riiki elama asumine – Kuidas mõjutab teise riiki elama asumine minu õigusi töötushüvitistele?",
+                "Teise Euroopa riiki elama asumine – Milline riik maksab mulle vanaduspensioni?",
+                "Ühtse turu edendamine Euroopas"
+            ],
+            "fi": [
+                "Liikkeellä Euroopassa – Miten maastamuutto vaikuttaa työttömyysturvaan?",
+                "Liikkeellä Euroopassa – Mikä maa maksaa muuttajan vanhuuseläkkeen?",
+                "EU sisämarkkinoiden tukena"
+            ],
+            "fr": [
+                "Se déplacer en Europe – En quoi un déplacement affecte-t-il mon droit aux allocations de chômage?",
+                "Présentation de la nouvelle stratégie pour le bien-être des animaux 2012-2015",
+                "Promouvoir le marché unique en Europe"
+            ],
+            "ga": [
+                "Bogadh laistigh den Eoraip – Conas a théann bogadh i bhfeidhm ar mo chearta ar shochair dífhostaíochta?",
+                "Bogadh laistigh den Eoraip – Cén tír a íocfaidh mo phinsean seanaoise?",
+                "An margadh aonair a chur chun cinn san Eoraip"
+            ],
+            "hr": [
+                "Selite se iz jedne u drugu europsku državu - Kako selidba utječe na vašu naknadu na nezaposlene?",
+                "Selite se iz jedne u drugu europsku državu - Koja država će plaćati moju mirovinu?",
+                "Promicanje jedinstvenog tržišta u Europi"
+            ],
+            "hu": [
+                "Mi történik a munkanélküli ellátásokra való jogosultságommal, ha egyik európai uniós országból egy másikba költözöm?",
+                "Melyik ország fogja folyósítani az öregkori nyugdíjamat, ha egyik európai uniós országból egy másikba költözöm?",
+                "Europos bendrosios rinkos rėmimas"
+            ],
+            "it": [
+                "Spostarsi in Europa - Se mi trasferisco all'estero perdo il diritto all'indennità di disoccupazione?",
+                "Spostarsi in Europa - Quale paese pagherà la mia pensione? ",
+                "Promuovere il mercato unico in Europa"
+            ],
+            "lt": [
+                "Judumas Europos Sąjungoje. Ar persikėlus gyventi į kitą šalį neprarandama teisės į bedarbio pašalpą?",
+                "Judumas Europos Sąjungoje. Kuri šalis mokės senatvės pensiją?",
+                "Europos bendrosios rinkos rėmimas"
+            ],
+            "lv": [
+                "Kā pārcelšanās uz citu ES valsti ietekmē jūsu tiesības uz bezdarbnieka pabalstu",
+                "Kura valsts jums maksās vecuma pensiju, ja esat dzīvojis vai strādājis vairākās",
+                "Eiropas vienotā tirgus darbības veicināšana"
+            ],
+            "mt": [
+                "Jekk immur ngħix f'pajjiż ieħor tal-Ewropa – Jekk immur ngħix f'pajjiż ieħor tal-UE kif jiġu affettwati drittijieti għall-benefiċċji tal-qgħad?",
+                "Jekk immur ngħix f'pajjiż ieħor tal-Ewropa – Liema pajjiż se jħallas il-pensjoni tax-xjuħija?",
+                "Nippromwovu s-suq uniku fl-Ewropa"
+            ],
+            "nl": [
+                "Verhuizen binnen Europa – Wat gebeurt er met mijn werkloosheidsuitkering?",
+                "Verhuizen binnen Europa – Welk land betaalt mijn ouderdomspensioen?",
+                "De interne markt in Europa bevorderen"
+            ],
+            "pl": [
+                "Przemieszczanie się w obrębie UE – Czy przeprowadzka do innego kraju UE ma wpływ na moje prawo do świadczeń dla bezrobotnych?",
+                "Przemieszczanie się w obrębie UE – Który kraj będzie wypłacał mi emeryturę?",
+                "Promowanie jednolitego rynku w Europie"
+            ],
+            "pt": [
+                "Mudar para outro país da UE: em que medida prejudica o direito ao subsídio de desemprego?",
+                "Mudar para outro país da UE: que país pagará a minha pensão de reforma?",
+                "Promover o mercado único na Europa"
+            ],
+            "ro": [
+                "Mă stabilesc în altă ţară din UE. Ce se întâmplă cu dreptul meu la indemnizaţia de şomaj?",
+                "Mă stabilesc în altă ţară din UE. Ce ţară îmi va plăti pensia pentru limită de vârstă?",
+                "Promovarea pieței unice în Europa"
+            ],
+            "sk": [
+                "Zmena pobytu v rámci Európy – čo sa stane s mojimi dávkami v nezamestnanosti?",
+                "Zmena pobytu v rámci Európy – kto mi bude vyplácať dôchodok?",
+                "Podpora jednotného trhu v Európe"
+            ],
+            "sl": [
+                "Selitev v drugo državo EU: Kaj bo z mojim nadomestilom za brezposelnost?",
+                "Selitev v drugo državo EU: V kateri državi mi bodo plačevali pokojnino? ",
+                "Uveljavljanje enotnega trga v Evropi"
+            ],
+            "sv": [
+                "Flytta inom EU – Hur påverkas min rätt till arbetslöshetsersättning?",
+                "Flytta inom EU – Vilket land ska betala min pension?",
+                "Främja en inre marknad i EU"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Живот в чужбина"
+            ],
+            "cs": [
+                "Život v zahraničí"
+            ],
+            "da": [
+                "At bo i udlandet"
+            ],
+            "de": [
+                "Im Ausland leben"
+            ],
+            "el": [
+                "Διαμονή στο εξωτερικό"
+            ],
+            "en": [
+                "Living abroad"
+            ],
+            "es": [
+                "Vivir en el extranjero"
+            ],
+            "et": [
+                "Välismaal elamine"
+            ],
+            "fi": [
+                "Asuminen ulkomailla"
+            ],
+            "fr": [
+                "Vivre à l'étranger"
+            ],
+            "ga": [
+                "EOROPA - Maireachtáil thar lear"
+            ],
+            "hr": [
+                "Život u inozemstvu"
+            ],
+            "hu": [
+                "Letelepedés egy másik tagállamban"
+            ],
+            "it": [
+                "Vivere all'estero"
+            ],
+            "lt": [
+                "Gyvenimas užsienyje"
+            ],
+            "lv": [
+                "Dzīve ārzemēs"
+            ],
+            "mt": [
+                "Tgħix barra minn pajjiżek"
+            ],
+            "nl": [
+                "Wonen in het buitenland"
+            ],
+            "pl": [
+                "Mieszkać za granicą"
+            ],
+            "pt": [
+                "Viver no estrangeiro"
+            ],
+            "ro": [
+                "Persoane care locuiesc în străinătate"
+            ],
+            "sk": [
+                "Život v zahraničí"
+            ],
+            "sl": [
+                "Pravica do prebivanja v Evropski uniji"
+            ],
+            "sv": [
+                "Bo utomlands"
+            ]
+        }
+    }
+}

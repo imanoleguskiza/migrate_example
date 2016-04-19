@@ -1,0 +1,697 @@
+{
+  "_id": "d500ca2b439fb9601bf2758cb14040a8",
+  "type": "common_page",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/facts-figures/living/data/reg_gross_dom_product_country_data_hr_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Charts"
+      ],
+      "cs": [
+        "Charts"
+      ],
+      "da": [
+        "Charts"
+      ],
+      "de": [
+        "Charts"
+      ],
+      "el": [
+        "Charts"
+      ],
+      "en": [
+        "Charts"
+      ],
+      "es": [
+        "Charts"
+      ],
+      "et": [
+        "Charts"
+      ],
+      "fi": [
+        "Charts"
+      ],
+      "fr": [
+        "Charts"
+      ],
+      "ga": [
+        "Charts"
+      ],
+      "hr": [
+        "Charts"
+      ],
+      "hu": [
+        "Charts"
+      ],
+      "it": [
+        "Charts"
+      ],
+      "lt": [
+        "Charts"
+      ],
+      "lv": [
+        "Charts"
+      ],
+      "mt": [
+        "Charts"
+      ],
+      "nl": [
+        "Charts"
+      ],
+      "pl": [
+        "Charts"
+      ],
+      "pt": [
+        "Charts"
+      ],
+      "ro": [
+        "Charts"
+      ],
+      "sk": [
+        "Charts"
+      ],
+      "sl": [
+        "Charts"
+      ],
+      "sv": [
+        "Charts"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "EUROPA/"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "EUROPA/"
+      ],
+      "es": [
+        "EUROPA/"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "EUROPA/"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA/"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "EUROPA/"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        "ipg"
+      ],
+      "cs": [
+        "ipg"
+      ],
+      "da": [
+        "ipg"
+      ],
+      "de": [
+        "ipg"
+      ],
+      "el": [
+        "ipg"
+      ],
+      "en": [
+        "ipg"
+      ],
+      "es": [
+        "ipg"
+      ],
+      "et": [
+        "ipg"
+      ],
+      "fi": [
+        "ipg"
+      ],
+      "fr": [
+        "ipg"
+      ],
+      "ga": [
+        "ipg"
+      ],
+      "hr": [
+        "ipg"
+      ],
+      "hu": [
+        "ipg"
+      ],
+      "it": [
+        "ipg"
+      ],
+      "lt": [
+        "ipg"
+      ],
+      "lv": [
+        "ipg"
+      ],
+      "mt": [
+        "ipg"
+      ],
+      "nl": [
+        "ipg"
+      ],
+      "pl": [
+        "ipg"
+      ],
+      "pt": [
+        "ipg"
+      ],
+      "ro": [
+        "ipg"
+      ],
+      "sk": [
+        "ipg"
+      ],
+      "sl": [
+        "ipg"
+      ],
+      "sv": [
+        "ipg"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "description"
+      ],
+      "cs": [
+        "description"
+      ],
+      "da": [
+        "description"
+      ],
+      "de": [
+        "description"
+      ],
+      "el": [
+        "description"
+      ],
+      "en": [
+        "description"
+      ],
+      "es": [
+        "description"
+      ],
+      "et": [
+        "description"
+      ],
+      "fi": [
+        "description"
+      ],
+      "fr": [
+        "description"
+      ],
+      "ga": [
+        "description"
+      ],
+      "hr": [
+        "description"
+      ],
+      "hu": [
+        "description"
+      ],
+      "it": [
+        "description"
+      ],
+      "lt": [
+        "description"
+      ],
+      "lv": [
+        "description"
+      ],
+      "mt": [
+        "description"
+      ],
+      "nl": [
+        "description"
+      ],
+      "pl": [
+        "description"
+      ],
+      "pt": [
+        "description"
+      ],
+      "ro": [
+        "description"
+      ],
+      "sk": [
+        "description"
+      ],
+      "sl": [
+        "description"
+      ],
+      "sv": [
+        "description"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "cs": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "da": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "de": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "el": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "en": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "es": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "et": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "fi": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "fr": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "ga": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "hr": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "hu": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "it": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "lt": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "lv": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "mt": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "nl": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "pl": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "pt": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "ro": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "sk": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "sl": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ],
+      "sv": [
+        "europa",
+        "europe 2020",
+        2020,
+        "europe"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    }
+  }
+}

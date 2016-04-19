@@ -1,0 +1,595 @@
+{
+    "_id": "video_gallery_item_924198b5d2a255fc10e417920e73df13",
+    "type": "video_gallery_item",
+    "default_language": "en",
+    "languages": [
+        "nl",
+        "cs",
+        "ga",
+        "hu",
+        "lv",
+        "pt",
+        "da",
+        "es",
+        "lt",
+        "mt",
+        "fi",
+        "sk",
+        "sl",
+        "de",
+        "fr",
+        "pl",
+        "bg",
+        "sv",
+        "it",
+        "et",
+        "ro",
+        "en",
+        "hr",
+        "el"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Правата на пациентите при Трансгранично Здравно Обслужване",
+                "Пътуване в Европа: вашата здравна осигуровка важи в чужбина",
+                "Здравеопазването в чужбина: Сигурни далече от дома?"
+            ],
+            "cs": [
+                "Práva Pacientů v Oblasti Přeshraniční Zdravotní Péče",
+                "Cestování po Evropě: Zdravotní pojištění vám platí i v cizině",
+                "Zdravotní péče v zahraničí: domov daleko od domova?"
+            ],
+            "da": [
+                "Patientrettigheder i Forbindelse med Grænseoverskridende Sundhedsydelser",
+                "På rejse i Europa: din ret til lægebehandling",
+                "Sundhedspleje i udlandet: Et hjem væk fra hjemmet?"
+            ],
+            "de": [
+                "Patientenrechte bei der Grenzüberschreitenden Gesundheitsversorgung",
+                "Unterwegs in Europa – Auch im Ausland ist für Ihre Gesundheit gut gesorgt",
+                "Gesundheitsversorgung im Ausland - ein zweites Zuhause?"
+            ],
+            "el": [
+                "Patients' Rights in Cross-Border Healthcare",
+                "Ταξιδεύοντας στην Ευρώπη: υγειονομική περίθαλψη στο εξωτερικό",
+                "Υγειονομική περίθαλψη στο εξωτερικό: Σαν στο σπίτι σας;"
+            ],
+            "en": [
+                "Patients' Rights in Cross-Border Healthcare",
+                "Travelling in Europe: your health insured abroad",
+                "Healthcare abroad: A home from home?"
+            ],
+            "es": [
+                "Los Derechos de los Pacientes en Materia de Asistencia Sanitaria Transfronteriza",
+                "Viajar por Europa: asistencia sanitaria en el extranjero",
+                "Sanidad en el extranjero: ¿Como estar en casa?"
+            ],
+            "et": [
+                "Patsiendiõigused Piiriüleses Tervishoius",
+                "Reisimine Euroopas - teie ravikindlustus välismaal",
+                "Tervishoid välismaal: kodus või kodust eemal?"
+            ],
+            "fi": [
+                "Potilaiden Oikeudet Valtioiden rajat Ylittävässä Terveydenhuollossa",
+                "Matkustaminen Euroopassa: sairausvakuutus voimassa myös ulkomailla",
+                "Terveydenhuolto ulkomailla: Toinen koti?"
+            ],
+            "fr": [
+                "Les Droits des Patients dans les Soins de Santé Transfrontaliers",
+                "Voyager en Europe: votre assurance-santé à l'étranger",
+                "Soins de santé transfrontaliers : Comme à la maison loin de la maison ?"
+            ],
+            "ga": [
+                "Na cearta atá ag othair cúram sláinte a fháil i mBallstát eile",
+                "Ag taisteal san Eoraip: árachas sláinte agat thar lear",
+                "Cúram sláinte thar lear: ar nós a bheith sa bhaile agus tú as baile?"
+            ],
+            "hr": [
+                "Prava pacijenata u prekograničnoj zdravstvenoj zaštiti",
+                "Putovanje Europom: vaše zdravstveno osiguranje u inozemstvu",
+                "Zdravstvena njega preko granice: Drugi dom?"
+            ],
+            "hu": [
+                "A Határon Atnyúló Egészségügyi Ellátásra Vonatkozó Betegjogok",
+                "Utazás Európában: egészségbiztosítás külföldön",
+                "Egészségügyi ellátás külföldön: olyan, mint otthon?"
+            ],
+            "it": [
+                "I Diritti dei Pazienti nell'Assistenza Sanitaria Transfrontaliera",
+                "Viaggiare in Europa: la tua assicurazione sanitaria all'estero",
+                "Sanità all'estero: una seconda casa?"
+            ],
+            "lt": [
+                "Pacientų Teisės į Sveikatos Priežiūros Paslaugas Užsienyje",
+                "Kelionės po Europą. Jūsų sveikatos priežiūra užsienyje",
+                "Sveikatos priežiūra užsienyje: Namuose ar svetur?"
+            ],
+            "lv": [
+                "Pacientu Tiesìbas Pàrrobežu Veselìbas Aprūppē",
+                "Ceļošana Eiropā (tavas veselības apdrošināšana ārzemēs)",
+                "Pārrobežu veselības aprūpe: Otrās mājas?"
+            ],
+            "mt": [
+                "Id-Drittijiet tal-Pazjenti Fil-kura Tas-saħħa Transkonfinali",
+                "L-ivvjaġġar fl-Ewropa: saħħtek assigurata barra minn pajjiżek",
+                "Kura tas-saħħa barra minn pajjiżek: dar 'il bogħod minn darek?"
+            ],
+            "nl": [
+                "Patiëntenrechten bij Grensoverschrijdende Gezondheidszorg",
+                "Reizen in Europa: uw gezondheid ook in het buitenland verzekerd",
+                "Gezondheidszorg in het buitenland: een goed idee?"
+            ],
+            "pl": [
+                "Prawa Pacjenta w Transgranicznej Opiece Zdrowotnej",
+                "Podróże po Europie − ubezpieczenie zdrowotne za granicą",
+                "Opieka medyczna za granicą: jak w domu?"
+            ],
+            "pt": [
+                "Direitos dos Pacientes nos Cuidados de Saúde Transfronteiriços",
+                "Viajar na Europa: seguro de doença no estrangeiro",
+                "Cuidados de saúde no estrangeiro: uma casa longe de casa?"
+            ],
+            "ro": [
+                "Drepturile Pacien Ților în Materie de Asistentă Medicală Acordată în Străinătate",
+                "Călătorind în Europa: asigurarea de sănătate",
+                "Asistenţa medicală în străinătate: ca şi cum aţi fi acasă?"
+            ],
+            "sk": [
+                "Práva Pacientov pri Cezhraničnej Zdravotnej Starostlivosti",
+                "Cestovanie v Európe: vaše zdravie poistené aj v zahraničí",
+                "Cezhraničná zdravotná starostlivosť: (takmer) ako doma?"
+            ],
+            "sl": [
+                "Pravice Pacientov na Področju Čezmejnega Zdravstvenega Varstva",
+                "Potovanje po Evropi: zdravstveno zavarovanje v tujini",
+                "Zdravljenje v tujini"
+            ],
+            "sv": [
+                "Patienträttigheter vid Gränsöverskridande Hälso- och Sjukvård",
+                "Vård på utlandssemestern.",
+                "Vård utomlands: Ett andra hem?"
+            ]
+        },
+        "media": {
+            "bg": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_bg.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/bg/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "cs": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_cs.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/cs/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "da": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_da.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/da/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "de": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_de.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/de/mpeg4/1541/j005-0012-de-1536k.mp4"
+            ],
+            "el": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_el.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/el/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "en": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/en/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "es": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_es.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/es/mpeg4/1541/j005-0012-es-1536k.mp4"
+            ],
+            "et": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_et.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/et/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "fi": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_fi.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/fi/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "fr": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_fr.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/fr/mpeg4/1541/j005-0012-fr-1536k.mp4"
+            ],
+            "ga": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_ga.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/en/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "hr": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_hr.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/hr/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "hu": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_hu.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/hu/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "it": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_it.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/it/mpeg4/1541/j005-0012-it-1536k.mp4"
+            ],
+            "lt": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_lt.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/lt/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "lv": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_lv.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/lv/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "mt": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_mt.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/mt/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "nl": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_nl.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/nl/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "pl": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_pl.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/pl/mpeg4/1541/j005-0012-pl-1536k.mp4"
+            ],
+            "pt": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_pt.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/pt/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "ro": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_ro.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/ro/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "sk": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_sk.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/sk/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "sl": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_sl.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/sl/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ],
+            "sv": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_sv.flv",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.flv",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/video/sv/mpeg4/1541/j005-0012-en-1536k.mp4"
+            ]
+        },
+        "image": {
+            "bg": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "cs": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "da": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "de": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "el": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "en": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "es": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "et": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "fi": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "fr": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "ga": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "hr": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "hu": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "it": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "lt": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "lv": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "mt": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "nl": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "pl": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "pt": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "ro": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "sk": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "sl": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ],
+            "sv": [
+                "http://europa.eu/eu-life/videos/crossborder_shortversion_en.jpg",
+                "http://europa.eu/eu-life/videos/travelling_in_europe_your_health_insured_abroad.jpg",
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/899ef6b6-cdf2-4e02-bd59-a2ec00ec8b71/images/master/j005-0012.jpg"
+            ]
+        },
+        "image_alt": {
+            "bg": [
+                "Правата на пациентите при Трансгранично Здравно Обслужване",
+                "Пътуване в Европа: вашата здравна осигуровка важи в чужбина",
+                "Здравеопазването в чужбина: Сигурни далече от дома?"
+            ],
+            "cs": [
+                "Práva Pacientů v Oblasti Přeshraniční Zdravotní Péče",
+                "Cestování po Evropě: Zdravotní pojištění vám platí i v cizině",
+                "Zdravotní péče v zahraničí: domov daleko od domova?"
+            ],
+            "da": [
+                "Patientrettigheder i Forbindelse med Grænseoverskridende Sundhedsydelser",
+                "På rejse i Europa: din ret til lægebehandling",
+                "Sundhedspleje i udlandet: Et hjem væk fra hjemmet?"
+            ],
+            "de": [
+                "Patientenrechte bei der Grenzüberschreitenden Gesundheitsversorgung",
+                "Unterwegs in Europa – Auch im Ausland ist für Ihre Gesundheit gut gesorgt",
+                "Gesundheitsversorgung im Ausland - ein zweites Zuhause?"
+            ],
+            "el": [
+                "Patients' Rights in Cross-Border Healthcare",
+                "Ταξιδεύοντας στην Ευρώπη: υγειονομική περίθαλψη στο εξωτερικό",
+                "Υγειονομική περίθαλψη στο εξωτερικό: Σαν στο σπίτι σας;"
+            ],
+            "en": [
+                "Patients' Rights in Cross-Border Healthcare",
+                "Travelling in Europe: your health insured abroad",
+                "Healthcare abroad: A home from home?"
+            ],
+            "es": [
+                "Los Derechos de los Pacientes en Materia de Asistencia Sanitaria Transfronteriza",
+                "Viajar por Europa: asistencia sanitaria en el extranjero",
+                "Sanidad en el extranjero: ¿Como estar en casa?"
+            ],
+            "et": [
+                "Patsiendiõigused Piiriüleses Tervishoius",
+                "Reisimine Euroopas - teie ravikindlustus välismaal",
+                "Tervishoid välismaal: kodus või kodust eemal?"
+            ],
+            "fi": [
+                "Potilaiden Oikeudet Valtioiden rajat Ylittävässä Terveydenhuollossa",
+                "Matkustaminen Euroopassa: sairausvakuutus voimassa myös ulkomailla",
+                "Terveydenhuolto ulkomailla: Toinen koti?"
+            ],
+            "fr": [
+                "Les Droits des Patients dans les Soins de Santé Transfrontaliers",
+                "Voyager en Europe: votre assurance-santé à l'étranger",
+                "Soins de santé transfrontaliers : Comme à la maison loin de la maison ?"
+            ],
+            "ga": [
+                "Na cearta atá ag othair cúram sláinte a fháil i mBallstát eile",
+                "Ag taisteal san Eoraip: árachas sláinte agat thar lear",
+                "Cúram sláinte thar lear: ar nós a bheith sa bhaile agus tú as baile?"
+            ],
+            "hr": [
+                "Prava pacijenata u prekograničnoj zdravstvenoj zaštiti",
+                "Putovanje Europom: vaše zdravstveno osiguranje u inozemstvu",
+                "Zdravstvena njega preko granice: Drugi dom?"
+            ],
+            "hu": [
+                "A Határon Atnyúló Egészségügyi Ellátásra Vonatkozó Betegjogok",
+                "Utazás Európában: egészségbiztosítás külföldön",
+                "Egészségügyi ellátás külföldön: olyan, mint otthon?"
+            ],
+            "it": [
+                "I Diritti dei Pazienti nell'Assistenza Sanitaria Transfrontaliera",
+                "Viaggiare in Europa: la tua assicurazione sanitaria all'estero",
+                "Sanità all'estero: una seconda casa?"
+            ],
+            "lt": [
+                "Pacientų Teisės į Sveikatos Priežiūros Paslaugas Užsienyje",
+                "Kelionės po Europą. Jūsų sveikatos priežiūra užsienyje",
+                "Sveikatos priežiūra užsienyje: Namuose ar svetur?"
+            ],
+            "lv": [
+                "Pacientu Tiesìbas Pàrrobežu Veselìbas Aprūppē",
+                "Ceļošana Eiropā (tavas veselības apdrošināšana ārzemēs)",
+                "Pārrobežu veselības aprūpe: Otrās mājas?"
+            ],
+            "mt": [
+                "Id-Drittijiet tal-Pazjenti Fil-kura Tas-saħħa Transkonfinali",
+                "L-ivvjaġġar fl-Ewropa: saħħtek assigurata barra minn pajjiżek",
+                "Kura tas-saħħa barra minn pajjiżek: dar 'il bogħod minn darek?"
+            ],
+            "nl": [
+                "Patiëntenrechten bij Grensoverschrijdende Gezondheidszorg",
+                "Reizen in Europa: uw gezondheid ook in het buitenland verzekerd",
+                "Gezondheidszorg in het buitenland: een goed idee?"
+            ],
+            "pl": [
+                "Prawa Pacjenta w Transgranicznej Opiece Zdrowotnej",
+                "Podróże po Europie − ubezpieczenie zdrowotne za granicą",
+                "Opieka medyczna za granicą: jak w domu?"
+            ],
+            "pt": [
+                "Direitos dos Pacientes nos Cuidados de Saúde Transfronteiriços",
+                "Viajar na Europa: seguro de doença no estrangeiro",
+                "Cuidados de saúde no estrangeiro: uma casa longe de casa?"
+            ],
+            "ro": [
+                "Drepturile Pacien Ților în Materie de Asistentă Medicală Acordată în Străinătate",
+                "Călătorind în Europa: asigurarea de sănătate",
+                "Asistenţa medicală în străinătate: ca şi cum aţi fi acasă?"
+            ],
+            "sk": [
+                "Práva Pacientov pri Cezhraničnej Zdravotnej Starostlivosti",
+                "Cestovanie v Európe: vaše zdravie poistené aj v zahraničí",
+                "Cezhraničná zdravotná starostlivosť: (takmer) ako doma?"
+            ],
+            "sl": [
+                "Pravice Pacientov na Področju Čezmejnega Zdravstvenega Varstva",
+                "Potovanje po Evropi: zdravstveno zavarovanje v tujini",
+                "Zdravljenje v tujini"
+            ],
+            "sv": [
+                "Patienträttigheter vid Gränsöverskridande Hälso- och Sjukvård",
+                "Vård på utlandssemestern.",
+                "Vård utomlands: Ett andra hem?"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Здравеопазване в ЕС"
+            ],
+            "cs": [
+                "Zdravotní péče v Evropské unii"
+            ],
+            "da": [
+                "Sundhedspleje i EU"
+            ],
+            "de": [
+                "Gesundheitsversorgung in der EU"
+            ],
+            "el": [
+                "Υγειονομική περίθαλψη στην ΕΕ"
+            ],
+            "en": [
+                "Healthcare in the EU"
+            ],
+            "es": [
+                "Sanidad en la UE"
+            ],
+            "et": [
+                "Tervishoid ELis"
+            ],
+            "fi": [
+                "Terveyden-huolto EU:ssa"
+            ],
+            "fr": [
+                "Soins de santé dans l'UE"
+            ],
+            "ga": [
+                "Cúram Sláinte san AE"
+            ],
+            "hr": [
+                "Zdravstvena skrb u EU-u"
+            ],
+            "hu": [
+                "Egészségügyi ellátás az Európai Unióban"
+            ],
+            "it": [
+                "Assistenza sanitaria nell'UE"
+            ],
+            "lt": [
+                "Sveikatos priežiūra ES"
+            ],
+            "lv": [
+                "Veselības aprūpe ES"
+            ],
+            "mt": [
+                "Kura tas-saħħa fl-UE"
+            ],
+            "nl": [
+                "Gezondheidszorg"
+            ],
+            "pl": [
+                "Opieka zdrowotna w UE"
+            ],
+            "pt": [
+                "Cuidados de saúde na União Europeia"
+            ],
+            "ro": [
+                "Asistența medicală în UE"
+            ],
+            "sk": [
+                "Zdravotná starostlivosť v EÚ"
+            ],
+            "sl": [
+                "Zdravstveno varstvo v EU"
+            ],
+            "sv": [
+                "Sjukvård i EU"
+            ]
+        }
+    }
+}

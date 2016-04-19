@@ -1,0 +1,213 @@
+{
+  "_id": "label_services_contact",
+  "type": "menu_service",
+  "default_language": "und",
+  "languages": [
+    "und",
+    "bg",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lv",
+    "lt",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "sv",
+    "tr",
+    "uk"
+  ],
+  "fields": {
+    "title": {
+      "bg": [
+        "За контакти"
+      ],
+      "ca": [
+        "Contactar"
+      ],
+      "cs": [
+        "Kontakt"
+      ],
+      "cy": [
+        "Cysylltu"
+      ],
+      "da": [
+        "Kontakt"
+      ],
+      "de": [
+        "Kontakt"
+      ],
+      "el": [
+        "Επικοινωνία"
+      ],
+      "und": [
+        "Contact"
+      ],
+      "es": [
+        "Contacto"
+      ],
+      "et": [
+        "Kontakt"
+      ],
+      "fi": [
+        "Yhteydenotot"
+      ],
+      "fr": [
+        "Contact"
+      ],
+      "ga": [
+        "Teagmháil"
+      ],
+      "hr": [
+        "Kontakt"
+      ],
+      "hu": [
+        "Kapcsolat"
+      ],
+      "it": [
+        "Contatti"
+      ],
+      "lt": [
+        "Kontaktai"
+      ],
+      "lv": [
+        "Kontakti"
+      ],
+      "mt": [
+        "Kuntatt"
+      ],
+      "nb": [
+        "Kontakt"
+      ],
+      "nl": [
+        "Contact"
+      ],
+      "pl": [
+        "Kontakt"
+      ],
+      "pt": [
+        "Contactos"
+      ],
+      "ro": [
+        "Contact"
+      ],
+      "sk": [
+        "Kontakt"
+      ],
+      "sl": [
+        "Kontakt"
+      ],
+      "sv": [
+        "Kontakt"
+      ],
+      "tr": [
+        "Contact"
+      ],
+      "uk": [
+        "Контактна інформація"
+      ]
+    },
+    "weight": {
+      "und": [
+       6
+      ]
+    },
+    "link": {
+      "bg": [
+        "contact"
+      ],
+      "ca": [
+        "contact"
+      ],
+      "cs": [
+        "contact"
+      ],
+      "da": [
+        "contact"
+      ],
+      "de": [
+        "contact"
+      ],
+      "el": [
+        "contact"
+      ],
+      "und": [
+        "contact"
+      ],
+      "es": [
+        "contact"
+      ],
+      "et": [
+        "contact"
+      ],
+      "fi": [
+        "contact"
+      ],
+      "fr": [
+        "contact"
+      ],
+      "ga": [
+        "contact"
+      ],
+      "hr": [
+        "contact"
+      ],
+      "hu": [
+        "contact"
+      ],
+      "it": [
+        "contact"
+      ],
+      "lt": [
+        "contact"
+      ],
+      "lv": [
+        "contact"
+      ],
+      "mt": [
+        "contact"
+      ],
+      "nl": [
+        "contact"
+      ],
+      "pl": [
+        "contact"
+      ],
+      "pt": [
+        "contact"
+      ],
+      "ro": [
+        "contact"
+      ],
+      "sk": [
+        "contact"
+      ],
+      "sl": [
+        "contact"
+      ],
+      "sv": [
+        "contact"
+      ],
+      "tr": [
+        "contact"
+      ],
+      "uk": [
+        "contact"
+      ]
+    }
+  }
+}

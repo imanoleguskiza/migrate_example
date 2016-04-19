@@ -1,0 +1,423 @@
+{
+  "_id": "080126248e58b95e",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "da",
+    "bg",
+    "cs",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv",
+    "ga"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2015-02-12 17:55:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        32
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/tax/thumb_tax_en.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Данъчно облагане"
+      ],
+      "cs": [
+        "Daně"
+      ],
+      "da": [
+        "Beskatning"
+      ],
+      "de": [
+        "Steuern "
+      ],
+      "el": [
+        "Φορολογία "
+      ],
+      "en": [
+        "Taxation"
+      ],
+      "es": [
+        "Fiscalidad "
+      ],
+      "et": [
+        "Maksundus "
+      ],
+      "fi": [
+        "Verotus "
+      ],
+      "fr": [
+        "Fiscalité "
+      ],
+      "ga": [
+        "Cánachas"
+      ],
+      "hr": [
+        "Oporezivanje"
+      ],
+      "hu": [
+        "Adópolitika "
+      ],
+      "it": [
+        "Fiscalità "
+      ],
+      "lt": [
+        "Mokesčiai"
+      ],
+      "lv": [
+        "Nodokļi "
+      ],
+      "mt": [
+        "It‑tassazzjoni "
+      ],
+      "nl": [
+        "Belastingen "
+      ],
+      "pl": [
+        "Opodatkowanie "
+      ],
+      "pt": [
+        "Fiscalidade "
+      ],
+      "ro": [
+        "Impozitarea "
+      ],
+      "sk": [
+        "Dane"
+      ],
+      "sl": [
+        "Obdavčenje "
+      ],
+      "sv": [
+        "Skatter "
+      ]
+    },
+    "title": {
+      "bg": [
+        "Данъчно облагане"
+      ],
+      "cs": [
+        "Daně"
+      ],
+      "da": [
+        "Beskatning"
+      ],
+      "de": [
+        "Steuern "
+      ],
+      "el": [
+        "Φορολογία "
+      ],
+      "en": [
+        "Taxation"
+      ],
+      "es": [
+        "Fiscalidad "
+      ],
+      "et": [
+        "Maksundus "
+      ],
+      "fi": [
+        "Verotus "
+      ],
+      "fr": [
+        "Fiscalité "
+      ],
+      "ga": [
+        "Cánachas"
+      ],
+      "hr": [
+        "Oporezivanje"
+      ],
+      "hu": [
+        "Adópolitika "
+      ],
+      "it": [
+        "Fiscalità "
+      ],
+      "lt": [
+        "Mokesčiai"
+      ],
+      "lv": [
+        "Nodokļi "
+      ],
+      "mt": [
+        "It‑tassazzjoni "
+      ],
+      "nl": [
+        "Belastingen "
+      ],
+      "pl": [
+        "Opodatkowanie "
+      ],
+      "pt": [
+        "Fiscalidade "
+      ],
+      "ro": [
+        "Impozitarea "
+      ],
+      "sk": [
+        "Dane"
+      ],
+      "sl": [
+        "Obdavčenje "
+      ],
+      "sv": [
+        "Skatter "
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Публикувано през януари 2015 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Vydáno v lednu 2015</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Udgivet i januar 2015</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p><p/><p/></div>"
+      ],
+      "de": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Im Januar 2015 veröffentlicht</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p><p/><p/></div>"
+      ],
+      "el": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Δημοσιεύθηκε τον Ιανουάριο του 2015</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p><p/><p/></div>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript completed in January 2015</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Publicado en enero de 2015</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p><p/><p/></div>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Välja antud jaanuaris 2015</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Julkaistu tammikuussa 2015</p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Publiée en janvier 2015</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p>Arna thabhairt cothrom le dáta mí na Samhna 2014</p><p><span>Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</span></p>"
+      ],
+      "hr": [
+        "<div class=\"right_content\"><p>Objavljeno u siječnju 2015.</p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p></div>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">Megjelent: 2015. január</p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Pubblicato a gennaio 2015</p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p><p/><p/></div>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Paskelbta Vas 2015</p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Publicēts 2015. gada janvārī.</p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Ippubblikat f’Jannar 2015</p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Gepubliceerd in januari 2015</p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Opublikowano w styczniu 2015 r.</p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p><p/><p/></div>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Publicado em janeiro de 2015</p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Publicată în ianuarie 2015</p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Dátum uverejnenia: januári 2015</p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p><p/><p/></div>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Objavljeno januarja 2015</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Publicerad i januari 2015</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c33"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-BG-C/NA0115038BGC_002.pdf?FileName=NA0115038BGC_002.pdf&SKU=NA0115038BGC_PDF&CatalogueNumber=NA-01-0115038-038-BG-C"
+      ],
+      "cs": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-CS-C/NA0115038CSC_002.pdf?FileName=NA0115038CSC_002.pdf&SKU=NA0115038CSC_PDF&CatalogueNumber=NA-01-0115038-038-CS-C"
+      ],
+      "da": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-DA-C/NA0115038DAC_002.pdf?FileName=NA0115038DAC_002.pdf&SKU=NA0115038DAC_PDF&CatalogueNumber=NA-01-0115038-038-DA-C"
+      ],
+      "de": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-DE-C/NA0115038DEC_002.pdf?FileName=NA0115038DEC_002.pdf&SKU=NA0115038DEC_PDF&CatalogueNumber=NA-01-0115038-038-DE-C"
+      ],
+      "el": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-EL-C/NA0115038ELC_002.pdf?FileName=NA0115038ELC_002.pdf&SKU=NA0115038ELC_PDF&CatalogueNumber=NA-01-0115038-038-EL-C"
+      ],
+      "en": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-EN-C/NA0115038ENC_002.pdf?FileName=NA0115038ENC_002.pdf&SKU=NA0115038ENC_PDF&CatalogueNumber=NA-01-0115038-038-EN-C"
+      ],
+      "es": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-ES-C/NA0115038ESC_002.pdf?FileName=NA0115038ESC_002.pdf&SKU=NA0115038ESC_PDF&CatalogueNumber=NA-01-0115038-038-ES-C"
+      ],
+      "et": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-ET-C/NA0115038ETC_002.pdf?FileName=NA0115038ETC_002.pdf&SKU=NA0115038ETC_PDF&CatalogueNumber=NA-01-0115038-038-ET-C"
+      ],
+      "fi": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-FI-C/NA0115038FIC_002.pdf?FileName=NA0115038FIC_002.pdf&SKU=NA0115038FIC_PDF&CatalogueNumber=NA-01-0115038-038-FI-C"
+      ],
+      "fr": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-FR-C/NA0115038FRC_002.pdf?FileName=NA0115038FRC_002.pdf&SKU=NA0115038FRC_PDF&CatalogueNumber=NA-01-0115038-038-FR-C"
+      ],
+      "ga": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-GA-C/NA0115038GAC_002.pdf?FileName=NA0115038GAC_002.pdf&SKU=NA0115038GAC_PDF&CatalogueNumber=NA-01-0115038-038-GA-C"
+      ],
+      "hr": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-HR-C/NA0115038HRC_002.pdf?FileName=NA0115038HRC_002.pdf&SKU=NA0115038HRC_PDF&CatalogueNumber=NA-01-0115038-038-HR-C"
+      ],
+      "hu": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-HU-C/NA0115038HUC_002.pdf?FileName=NA0115038HUC_002.pdf&SKU=NA0115038HUC_PDF&CatalogueNumber=NA-01-0115038-038-HU-C"
+      ],
+      "it": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-IT-C/NA0115038ITC_002.pdf?FileName=NA0115038ITC_002.pdf&SKU=NA0115038ITC_PDF&CatalogueNumber=NA-01-0115038-038-IT-C"
+      ],
+      "lt": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-LT-C/NA0115038LTC_002.pdf?FileName=NA0115038LTC_002.pdf&SKU=NA0115038LTC_PDF&CatalogueNumber=NA-01-0115038-038-LT-C"
+      ],
+      "lv": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-LV-C/NA0115038LVC_002.pdf?FileName=NA0115038LVC_002.pdf&SKU=NA0115038LVC_PDF&CatalogueNumber=NA-01-0115038-038-LV-C"
+      ],
+      "mt": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-MT-C/NA0115038MTC_002.pdf?FileName=NA0115038MTC_002.pdf&SKU=NA0115038MTC_PDF&CatalogueNumber=NA-01-0115038-038-MT-C"
+      ],
+      "nl": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-NL-C/NA0115038NLC_002.pdf?FileName=NA0115038NLC_002.pdf&SKU=NA0115038NLC_PDF&CatalogueNumber=NA-01-0115038-038-NL-C"
+      ],
+      "pl": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-PL-C/NA0115038PLC_002.pdf?FileName=NA0115038PLC_002.pdf&SKU=NA0115038PLC_PDF&CatalogueNumber=NA-01-0115038-038-PL-C"
+      ],
+      "pt": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-PT-C/NA0115038PTC_002.pdf?FileName=NA0115038PTC_002.pdf&SKU=NA0115038PTC_PDF&CatalogueNumber=NA-01-0115038-038-PT-C"
+      ],
+      "ro": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-RO-C/NA0115038ROC_002.pdf?FileName=NA0115038ROC_002.pdf&SKU=NA0115038ROC_PDF&CatalogueNumber=NA-01-0115038-038-RO-C"
+      ],
+      "sk": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-SK-C/NA0115038SKC_002.pdf?FileName=NA0115038SKC_002.pdf&SKU=NA0115038SKC_PDF&CatalogueNumber=NA-01-0115038-038-SK-C"
+      ],
+      "sl": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-SL-C/NA0115038SLC_002.pdf?FileName=NA0115038SLC_002.pdf&SKU=NA0115038SLC_PDF&CatalogueNumber=NA-01-0115038-038-SL-C"
+      ],
+      "sv": [
+        "http://bookshop.europa.eu/en/taxation-pbNA0115038/downloads/NA-01-0115038-038-SV-C/NA0115038SVC_002.pdf?FileName=NA0115038SVC_002.pdf&SKU=NA0115038SVC_PDF&CatalogueNumber=NA-01-0115038-038-SV-C"
+      ]
+    }
+  }
+}

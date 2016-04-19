@@ -1,0 +1,34 @@
+<?php
+/**
+ * @file
+ * Install file for the europa.eu Nolink module.
+ */
+
+/**
+ * Implements hook_uninstall().
+ */
+function europaeu_migrate_uninstall() {
+  variable_del('migrate_domain_name');
+}
+
+/**
+ * Implements hook_install().
+ */
+function europaeu_migrate_install() {
+  variable_set('europaeu_migrate_domain_name', 'http://europa.eu');
+}
+
+
+/**
+ * Implements hook_enable().
+ */
+function europaeu_migrate_enable() {
+  drupal_set_message(t('The Europa.eu Migrate module was successfully enabled.'));
+}
+
+/**
+ * Implements hook_disable().
+ */
+function europaeu_migrate_disable() {
+  drupal_set_message(t('The Europa.eu Migrate module was successfully disabled.'));
+}

@@ -1,0 +1,240 @@
+{
+  "_id": "080126248e076e22",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e076e22",
+        "080126248e076e22",
+        "080126248e076e22",
+        "080126248e076e22",
+        "080126248e076e22",
+        "080126248e076e22",
+        "080126248e076e22",
+        "080126248e076e22"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска агенция за ГНСС(GSA)"
+      ],
+      "cs": [
+        "Agentura pro evropský GNSS(GSA)"
+      ],
+      "da": [
+        "Det Europæiske GNSS-agentur(GSA)"
+      ],
+      "de": [
+        "Agentur für das Europäische GNSS(GSA)"
+      ],
+      "el": [
+        "Οργανισμός του ευρωπαϊκού GNSS(GSA)"
+      ],
+      "en": [
+        "European GNSS Agency(GSA)"
+      ],
+      "es": [
+        "Agencia del GNSS Europeo(GSA)"
+      ],
+      "et": [
+        "Euroopa GNSSi Agentuur(GSA)"
+      ],
+      "fi": [
+        "Euroopan GNSS-virasto(EGSA)"
+      ],
+      "fr": [
+        "Agence du GNSS européen(GSA)"
+      ],
+      "ga": [
+        "An Ghníomhaireacht Eorpach GNSS(GSA)"
+      ],
+      "hr": [
+        "Europska agencija za GNSS(GSA)"
+      ],
+      "hu": [
+        "Európai GNSS Ügynökség(GSA)"
+      ],
+      "it": [
+        "Agenzia del GNSS europeo(GSA)"
+      ],
+      "lt": [
+        "Europos GNSS agentūra(GSA)"
+      ],
+      "lv": [
+        "Eiropas GNSS aģentūra(GSA)"
+      ],
+      "mt": [
+        "l-Aġenzija Ewropea GNSS(GSA)"
+      ],
+      "nl": [
+        "Europees GNSS-Agentschap(GSA)"
+      ],
+      "pl": [
+        "Agencja Europejskiego GNSS(GSA)"
+      ],
+      "pt": [
+        "Agência do GNSS Europeu(GSA)"
+      ],
+      "ro": [
+        "Agenţia GNSS European(GSA)"
+      ],
+      "sk": [
+        "Agentúra pre európsky GNSS(GSA)"
+      ],
+      "sl": [
+        "Agencija za evropski GNSS(GSA)"
+      ],
+      "sv": [
+        "Europeiska byrån för GNSS(GSA)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/gsa_logo.gif"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Janovskeho 438/2</p> <p>170 00 Prague 7</p> <p>Česká Republika</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+420 234 766 000"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+32 2 296 72 38"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:info@gsa.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact GSA"
+      ]
+    },
+    "social_url": {
+      "en": [
+        "https://twitter.com/EU_GNSS",
+        "https://www.facebook.com/EuropeanGnssAgency",
+        "http://www.linkedin.com/company/european-gnss-agency",
+        "https://www.youtube.com/user/egnos1"
+      ]
+    },
+    "social_label": {
+      "en": [
+        "Twitter",
+        "Facebook",
+        "LinkedIn",
+        "YouTube"
+      ]
+    }
+  }
+}

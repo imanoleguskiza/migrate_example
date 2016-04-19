@@ -1,0 +1,76 @@
+{
+  "_id": "08012624922ce21b",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "en"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "08012624922ce21b",
+        "08012624922ce21b",
+        "08012624922ce21b",
+        "08012624922ce21b",
+        "08012624922ce21b",
+        "08012624922ce21b",
+        "08012624922ce21b"
+      ]
+    },
+    "title": {
+      "en": [
+        "Clean Sky 2 Joint Undertaking(Clean Sky 2 Joint Undertaking)"
+      ]
+    },
+    "logo": {
+      "en": [
+        "http://europa.eu/contact/images/agencies/cleansky_logo.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Clean Sky 2 Joint Undertaking<br />White Atrium Building TO56<br />4th floor<br />B – 1049 Bruxelles/Brussel<br />Belgique/België</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 221 81 52"
+      ]
+    },
+    "social_url": {
+      "en": [
+        "https://www.youtube.com/watch?v=i0uwq4IeghY",
+        "https://twitter.com/cleansky_ju",
+        "https://www.linkedin.com/company/clean-sky-joint-undertaking"
+      ]
+    },
+    "social_label": {
+      "en": [
+        "You Tube",
+        "Twitter",
+        "LinkedIn"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+32 2 221 81 50"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "http://www.cleansky.eu/contact-us"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact"
+      ]
+    }
+  }
+}

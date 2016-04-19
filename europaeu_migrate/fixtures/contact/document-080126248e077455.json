@@ -1,0 +1,381 @@
+{
+  "_id": "080126248e077455",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e077455",
+        "080126248e077455",
+        "080126248e077455",
+        "080126248e077455",
+        "080126248e077455",
+        "080126248e077455",
+        "080126248e077455",
+        "080126248e077455",
+        "080126248e077455"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска инвестиционна банка"
+      ],
+      "cs": [
+        "Evropská investiční banka"
+      ],
+      "da": [
+        "Den Europæiske Investeringsbank"
+      ],
+      "de": [
+        "Europäische Investitionsbank"
+      ],
+      "el": [
+        "Ευρωπαϊκή Τράπεζα Επενδύσεων"
+      ],
+      "en": [
+        "European Investment Bank"
+      ],
+      "es": [
+        "Banco Europeo de Inversiones"
+      ],
+      "et": [
+        "Euroopa Investeerimispank"
+      ],
+      "fi": [
+        "Euroopan investointipankki"
+      ],
+      "fr": [
+        "Banque européenne d'investissement"
+      ],
+      "ga": [
+        "An Banc Eorpach Infheistíochta"
+      ],
+      "hr": [
+        "Europska investicijska banka"
+      ],
+      "hu": [
+        "Európai Beruházási Bank"
+      ],
+      "it": [
+        "Banca europea per gli investimenti"
+      ],
+      "lt": [
+        "Europos investicijų bankas"
+      ],
+      "lv": [
+        "Eiropas Investīciju banka"
+      ],
+      "mt": [
+        "il-Bank Ewropew tal-Investiment"
+      ],
+      "nl": [
+        "Europese Investeringsbank"
+      ],
+      "pl": [
+        "Europejski Bank Inwestycyjny"
+      ],
+      "pt": [
+        "Banco Europeu de Investimento"
+      ],
+      "ro": [
+        "Banca Europeană de Investiţii"
+      ],
+      "sk": [
+        "Európska investičná banka"
+      ],
+      "sl": [
+        "Evropska investicijska banka"
+      ],
+      "sv": [
+        "Europeiska investeringsbanken"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_investment_bank.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>98-100 boulevard Konrad Adenauer</p> <p>L-2950 Luxembourg</p> <p>Luxembourg</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+352 43 79 1"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+352 43 77 04"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:info@eib.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "https://www.facebook.com/EuropeanInvestmentBank",
+        "https://twitter.com/EIBtheEUbank",
+        "https://www.linkedin.com/company/european-investment-bank",
+        "https://www.youtube.com/user/EIBtheEUbank",
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Facebook",
+        "Twitter",
+        "LinkedIn",
+        "YouTube",
+        "Social networks"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    }
+  }
+}

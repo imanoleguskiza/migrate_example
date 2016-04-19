@@ -1,0 +1,201 @@
+{
+    "_id": "71ef2672f92289786fff142473220afb",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "es",
+        "fr",
+        "ga",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "und",
+        "hr"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2012-06-06 15:22:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                39
+            ]
+        },
+        "parent": {
+            "und": [
+                "ff5abfbc742c61b50dce1ed55143642"
+            ]
+        },
+        "level": {
+            "und": [
+                6
+            ]
+        },
+        "title": {
+            "bg": [
+                "Търсене по ключови думи"
+            ],
+            "cs": [
+                "Vyhledávání podle klíčového slova"
+            ],
+            "da": [
+                "Søg på nøgleord"
+            ],
+            "de": [
+                "Suche nach Stichwort"
+            ],
+            "el": [
+                "Αναζήτηση με βάση λέξεις-κλειδιά"
+            ],
+            "und": [
+                "Search by keyword "
+            ],
+            "es": [
+                "Búsqueda por palabras clave"
+            ],
+            "et": [
+                "Otsing märksõna järgi"
+            ],
+            "fi": [
+                "Haku avainsanalla"
+            ],
+            "fr": [
+                "Recherche par mot-clé"
+            ],
+            "ga": [
+                "Cuardaigh de réir eochairfhocail"
+            ],
+            "hr": [
+                "Pretraživanje po ključnoj riječi"
+            ],
+            "hu": [
+                "Keresés kulcsszó alapján"
+            ],
+            "it": [
+                "Cercare per parola chiave"
+            ],
+            "lt": [
+                "Paieška pagal raktažodžius"
+            ],
+            "lv": [
+                "Meklēt pēc atslēgvārda"
+            ],
+            "mt": [
+                "Fittex permezz ta' kelma ewlenija"
+            ],
+            "nl": [
+                "Op trefwoord zoeken"
+            ],
+            "pl": [
+                "Szukaj według słów kluczowych"
+            ],
+            "pt": [
+                "Pesquisa por palavras-chave"
+            ],
+            "ro": [
+                "Căutaţi după cuvinte-cheie"
+            ],
+            "sk": [
+                "Vyhľadávanie podľa kľúčového slova"
+            ],
+            "sl": [
+                "Iskanje po ključni besedi"
+            ],
+            "sv": [
+                "Sök på nyckelord"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=bg"
+            ],
+            "cs": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=cs"
+            ],
+            "da": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=da"
+            ],
+            "de": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=de"
+            ],
+            "el": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=el"
+            ],
+            "und": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=en"
+            ],
+            "es": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=es"
+            ],
+            "et": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=et"
+            ],
+            "fi": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=fi"
+            ],
+            "fr": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=fr"
+            ],
+            "ga": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=ga"
+            ],
+            "hr": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=hr"
+            ],
+            "hu": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=hu"
+            ],
+            "it": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=it"
+            ],
+            "lt": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=lt"
+            ],
+            "lv": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=lv"
+            ],
+            "mt": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=mt"
+            ],
+            "nl": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=nl"
+            ],
+            "pl": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=pl"
+            ],
+            "pt": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=pt"
+            ],
+            "ro": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=ro"
+            ],
+            "sk": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=sk"
+            ],
+            "sl": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=sl"
+            ],
+            "sv": [
+                "http://eur-lex.europa.eu/advanced-search-form.html?locale=sv"
+            ]
+        }
+    }
+}

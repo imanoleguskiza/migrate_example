@@ -1,0 +1,423 @@
+{
+  "_id": "0801262489d5b7e8",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "da",
+    "et",
+    "el",
+    "es",
+    "bg",
+    "cs",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv",
+    "de"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-06-03 14:42:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        12
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/justice/thumb_migration_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/justice/thumb_migration_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/justice/thumb_migration_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/justice/thumb_migration_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/justice/thumb_migration_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/justice/thumb_migration_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/justice/thumb_migration_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/justice/thumb_migration_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/justice/thumb_migration_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/justice/thumb_migration_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/justice/thumb_migration_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/justice/thumb_migration_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/justice/thumb_migration_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/justice/thumb_migration_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/justice/thumb_migration_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/justice/thumb_migration_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/justice/thumb_migration_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/justice/thumb_migration_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/justice/thumb_migration_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/justice/thumb_migration_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/justice/thumb_migration_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/justice/thumb_migration_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/justice/thumb_migration_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/justice/thumb_migration_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Миграция и предоставяне на убежище"
+      ],
+      "cs": [
+        "Migrace a azyl"
+      ],
+      "da": [
+        "Migration og asyl "
+      ],
+      "de": [
+        "Migrations- und Asylpolitik"
+      ],
+      "el": [
+        "Μετανάστευση και άσυλο"
+      ],
+      "en": [
+        "Migration and asylum"
+      ],
+      "es": [
+        "Migración y asilo"
+      ],
+      "et": [
+        "Rände- ja varjupaigaküsimused"
+      ],
+      "fi": [
+        "Muuttoliike ja turvapaikkaasiat"
+      ],
+      "fr": [
+        "Migration et asile"
+      ],
+      "ga": [
+        "Imirce agus tearmann"
+      ],
+      "hr": [
+        " Migracije i azil"
+      ],
+      "hu": [
+        "Migrációs és menekültügyi politika"
+      ],
+      "it": [
+        "Migrazione e asilo"
+      ],
+      "lt": [
+        "Migracija ir prieglobstis"
+      ],
+      "lv": [
+        "Migrācija un patvērums"
+      ],
+      "mt": [
+        "Migrazzjoni u Asil"
+      ],
+      "nl": [
+        "Migratie en asiel"
+      ],
+      "pl": [
+        "Migracja i azyl"
+      ],
+      "pt": [
+        "Migração e asilo"
+      ],
+      "ro": [
+        "Migraţie și azil"
+      ],
+      "sk": [
+        "Migrácia a azyl"
+      ],
+      "sl": [
+        "Priseljevanje in azil"
+      ],
+      "sv": [
+        "Invandring och asyl"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Миграция и предоставяне на убежище"
+      ],
+      "cs": [
+        "Migrace a azyl"
+      ],
+      "da": [
+        "Migration og asyl "
+      ],
+      "de": [
+        "Migrations- und Asylpolitik"
+      ],
+      "el": [
+        "Μετανάστευση και άσυλο"
+      ],
+      "en": [
+        "Migration and asylum"
+      ],
+      "es": [
+        "Migración y asilo"
+      ],
+      "et": [
+        "Rände- ja varjupaigaküsimused"
+      ],
+      "fi": [
+        "Muuttoliike ja turvapaikkaasiat"
+      ],
+      "fr": [
+        "Migration et asile"
+      ],
+      "ga": [
+        "Imirce agus tearmann"
+      ],
+      "hr": [
+        " Migracije i azil"
+      ],
+      "hu": [
+        "Migrációs és menekültügyi politika"
+      ],
+      "it": [
+        "Migrazione e asilo"
+      ],
+      "lt": [
+        "Migracija ir prieglobstis"
+      ],
+      "lv": [
+        "Migrācija un patvērums"
+      ],
+      "mt": [
+        "Migrazzjoni u Asil"
+      ],
+      "nl": [
+        "Migratie en asiel"
+      ],
+      "pl": [
+        "Migracja i azyl"
+      ],
+      "pt": [
+        "Migração e asilo"
+      ],
+      "ro": [
+        "Migraţie și azil"
+      ],
+      "sk": [
+        "Migrácia a azyl"
+      ],
+      "sl": [
+        "Priseljevanje in azil"
+      ],
+      "sv": [
+        "Invandring och asyl"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<div class=\"right_content\"><p class=\"readmore_float\"><span>Текстът е актуализиран през ноември 2014 г.</span></p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p></div>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\"><span>Rukopis aktualizován v Listopad 2014</span></p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\"><span>Manuskript ajourført i november 2014</span></p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Manuskript aktualisiert im November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\"><span>Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</span></p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p><p class=\"readmore_float\"> </p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\"><span>Texto original actualizado en noviembre de 2014</span></p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\"><span>Käsikiri on ajakohastatud november 2014</span></p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\"><span>Teksti on päivitetty marraskuu 2014</span></p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit actualisé en novembre 2014</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\"><span>Arna thabhairt cothrom le dáta mí na Samhna 2014</span></p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\"><span>Rukopis ažuriran u studenome 2014.</span></p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\"><span>A kézirat frissítve: 2014. november</span></p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\"><span>Redazione aggiornata ad novembre 2014</span></p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<div class=\"right_content\"><p class=\"readmore_float\"><span>Rankraštis atnaujintas 2014 m. novembris mėn.</span></p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p></div>"
+      ],
+      "lv": [
+        "<div class=\"right_content\"><p class=\"readmore_float\"><span>Manuskripts atjaunināts 2014. gada novembris.</span></p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p></div>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\"><span>Manuskritt aġġornat f'Novembru 2014</span></p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\"><span>Tekst bijgewerkt in november 2014</span></p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\"><span>Tekst zaktualizowano w listopad 2014 r.</span></p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\"><span>Manuscrito atualizado em novembro de 2014</span></p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\"><span>Manuscris actualizat în noiembrie 2014</span></p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\"><span>Rukopis bol aktualizovaný v november 2014</span></p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\"><span>Rokopis je bil posodobljen november 2014.</span></p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\"><span>Manuskriptet uppdaterat i november 2014</span></p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c27"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://europa.eu/pol/pdf/flipbook/bg/migration_bg.pdf"
+      ],
+      "cs": [
+        "http://europa.eu/pol/pdf/flipbook/cs/migration_cs.pdf"
+      ],
+      "da": [
+        "http://europa.eu/pol/pdf/flipbook/da/migration_da.pdf"
+      ],
+      "de": [
+        "http://europa.eu/pol/pdf/flipbook/de/migration_de.pdf"
+      ],
+      "el": [
+        "http://europa.eu/pol/pdf/flipbook/el/migration_el.pdf"
+      ],
+      "en": [
+        "http://europa.eu/pol/pdf/flipbook/en/migration_en.pdf"
+      ],
+      "es": [
+        "http://europa.eu/pol/pdf/flipbook/es/migration_es.pdf"
+      ],
+      "et": [
+        "http://europa.eu/pol/pdf/flipbook/et/migration_et.pdf"
+      ],
+      "fi": [
+        "http://europa.eu/pol/pdf/flipbook/fi/migration_fi.pdf"
+      ],
+      "fr": [
+        "http://europa.eu/pol/pdf/flipbook/fr/migration_fr.pdf"
+      ],
+      "ga": [
+        "http://europa.eu/pol/pdf/flipbook/ga/migration_ga.pdf"
+      ],
+      "hr": [
+        "http://europa.eu/pol/pdf/flipbook/hr/migration_hr.pdf"
+      ],
+      "hu": [
+        "http://europa.eu/pol/pdf/flipbook/hu/migration_hu.pdf"
+      ],
+      "it": [
+        "http://europa.eu/pol/pdf/flipbook/it/migration_it.pdf"
+      ],
+      "lt": [
+        "http://europa.eu/pol/pdf/flipbook/lt/migration_lt.pdf"
+      ],
+      "lv": [
+        "http://europa.eu/pol/pdf/flipbook/lv/migration_lv.pdf"
+      ],
+      "mt": [
+        "http://europa.eu/pol/pdf/flipbook/mt/migration_mt.pdf"
+      ],
+      "nl": [
+        "http://europa.eu/pol/pdf/flipbook/nl/migration_nl.pdf"
+      ],
+      "pl": [
+        "http://europa.eu/pol/pdf/flipbook/pl/migration_pl.pdf"
+      ],
+      "pt": [
+        "http://europa.eu/pol/pdf/flipbook/pt/migration_pt.pdf"
+      ],
+      "ro": [
+        "http://europa.eu/pol/pdf/flipbook/ro/migration_ro.pdf"
+      ],
+      "sk": [
+        "http://europa.eu/pol/pdf/flipbook/sk/migration_sk.pdf"
+      ],
+      "sl": [
+        "http://europa.eu/pol/pdf/flipbook/sl/migration_sl.pdf"
+      ],
+      "sv": [
+        "http://europa.eu/pol/pdf/flipbook/sv/migration_sv.pdf"
+      ]
+    }
+  }
+}

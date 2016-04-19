@@ -1,0 +1,211 @@
+{
+  "_id": "label_services_legal",
+  "type": "menu_service",
+  "default_language": "und",
+  "languages": [
+    "und",
+    "bg",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lv",
+    "lt",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "sv",
+    "tr",
+    "uk"
+  ],
+  "fields": {
+    "title": {
+      "bg": [
+        "Правна информация"
+      ],
+      "ca": [
+        "Avís legal"
+      ],
+      "cs": [
+        "Právní upozornění"
+      ],
+      "cy": [
+        "Hysbysiad cyfreithiol"
+      ],
+      "da": [
+        "Juridisk meddelelse"
+      ],
+      "de": [
+        "Rechtlicher Hinweis"
+      ],
+      "und": [
+        "Legal notice"
+      ],
+      "el": [
+        "Νομική ανακοίνωση"
+      ],
+      "es": [
+        "Aviso jurídico"
+      ],
+      "et": [
+        "Õigusteave"
+      ],
+      "fi": [
+        "Oikeudellinen huomautus"
+      ],
+      "fr": [
+        "Avis juridique"
+      ],
+      "ga": [
+        "Fógra dlíthiúil"
+      ],
+      "hr": [
+        "Pravna obavijest",
+        "Pravna obavijest"
+      ],
+      "hu": [
+        "Jogi nyilatkozat"
+      ],
+      "it": [
+        "Note legali"
+      ],
+      "lt": [
+        "Teisinis pranešimas"
+      ],
+      "lv": [
+        "Juridisks paziņojums"
+      ],
+      "mt": [
+        "Avviż legali"
+      ],
+      "nl": [
+        "Juridische mededeling"
+      ],
+      "pl": [
+        "Informacja prawna"
+      ],
+      "pt": [
+        "Advertência jurídica"
+      ],
+      "ro": [
+        "Aviz juridic"
+      ],
+      "sk": [
+        "Právne upozornenie"
+      ],
+      "sl": [
+        "Pravno obvestilo"
+      ],
+      "sv": [
+        "Rättsligt meddelande"
+      ],
+      "tr": [
+        "Legal notice"
+      ],
+      "uk": [
+        "Юридичне повідомлення"
+      ]
+    },
+    "weight": {
+      "und": [
+        4
+      ]
+    },
+    "link": {
+      "bg": [
+        "abouteuropa/legal_notices"
+      ],
+      "ca": [
+        "abouteuropa/legal_notices"
+      ],
+      "cs": [
+        "abouteuropa/legal_notices"
+      ],
+      "da": [
+        "abouteuropa/legal_notices"
+      ],
+      "de": [
+        "abouteuropa/legal_notices"
+      ],
+      "el": [
+        "abouteuropa/legal_notices"
+      ],
+      "und": [
+        "abouteuropa/legal_notices"
+      ],
+      "es": [
+        "abouteuropa/legal_notices"
+      ],
+      "et": [
+        "abouteuropa/legal_notices"
+      ],
+      "fi": [
+        "abouteuropa/legal_notices"
+      ],
+      "fr": [
+        "abouteuropa/legal_notices"
+      ],
+      "ga": [
+        "abouteuropa/legal_notices"
+      ],
+      "hr": [
+        "abouteuropa/legal_notices"
+      ],
+      "hu": [
+        "abouteuropa/legal_notices"
+      ],
+      "it": [
+        "abouteuropa/legal_notices"
+      ],
+      "lt": [
+        "abouteuropa/legal_notices"
+      ],
+      "lv": [
+        "abouteuropa/legal_notices"
+      ],
+      "mt": [
+        "abouteuropa/legal_notices"
+      ],
+      "nl": [
+        "abouteuropa/legal_notices"
+      ],
+      "pl": [
+        "abouteuropa/legal_notices"
+      ],
+      "pt": [
+        "abouteuropa/legal_notices"
+      ],
+      "ro": [
+        "abouteuropa/legal_notices"
+      ],
+      "sk": [
+        "abouteuropa/legal_notices"
+      ],
+      "sl": [
+        "abouteuropa/legal_notices"
+      ],
+      "sv": [
+        "abouteuropa/legal_notices"
+      ],
+      "tr": [
+        "abouteuropa/legal_notices"
+      ],
+      "uk": [
+        "abouteuropa/legal_notices"
+      ]
+    }
+  }
+}

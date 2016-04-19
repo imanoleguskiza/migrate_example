@@ -1,0 +1,835 @@
+{
+    "_id": "5d1a1f277267e13bcc69fd6287251c88",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/basic-information/symbols/anthem/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Европейският химн"
+            ],
+            "cs": [
+                "Evropská hymna"
+            ],
+            "da": [
+                "Europahymnen"
+            ],
+            "de": [
+                "Die Europäische Hymne"
+            ],
+            "el": [
+                "Ο ύμνος της ΕΕ"
+            ],
+            "en": [
+                "The European anthem"
+            ],
+            "es": [
+                "El himno europeo"
+            ],
+            "et": [
+                "Euroopa hümn"
+            ],
+            "fi": [
+                "Euroopan hymni"
+            ],
+            "fr": [
+                "L'hymne européen"
+            ],
+            "ga": [
+                "Aintiún na hEorpa"
+            ],
+            "hr": [
+                "europska himna"
+            ],
+            "hu": [
+                "Az európai himnusz"
+            ],
+            "it": [
+                "L'inno europeo"
+            ],
+            "lt": [
+                "Europos Sąjungos himnas"
+            ],
+            "lv": [
+                "Eiropas himna"
+            ],
+            "mt": [
+                "L-innu Ewropew"
+            ],
+            "nl": [
+                "De Europese hymne"
+            ],
+            "pl": [
+                "Hymn europejski"
+            ],
+            "pt": [
+                "O hino europeu"
+            ],
+            "ro": [
+                "Imnul european"
+            ],
+            "sk": [
+                "Európska hymna"
+            ],
+            "sl": [
+                "Evropska himna"
+            ],
+            "sv": [
+                "Europahymnen"
+            ]
+        },
+        "category": {
+            "und": [
+                "33755c33"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "cs": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "da": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "de": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "el": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "en": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "es": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "et": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fi": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fr": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ga": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "hr": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "hu": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "it": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lv": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "mt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "nl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ro": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sk": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sv": [
+                "EUROPA/ABOUT-EU/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM/C2"
+            ],
+            "cs": [
+                "COMM/COMM/C2"
+            ],
+            "da": [
+                "COMM/COMM/C2"
+            ],
+            "de": [
+                "COMM/COMM/C2"
+            ],
+            "el": [
+                "COMM/COMM/C2"
+            ],
+            "en": [
+                "COMM/COMM/C2"
+            ],
+            "es": [
+                "COMM/COMM/C2"
+            ],
+            "et": [
+                "COMM/COMM/C2"
+            ],
+            "fi": [
+                "COMM/COMM/C2"
+            ],
+            "fr": [
+                "COMM/COMM/C2"
+            ],
+            "ga": [
+                "COMM/COMM/C2"
+            ],
+            "hr": [
+                "COMM/COMM/C2"
+            ],
+            "hu": [
+                "COMM/COMM/C2"
+            ],
+            "it": [
+                "COMM/COMM/C2"
+            ],
+            "lt": [
+                "COMM/COMM/C2"
+            ],
+            "lv": [
+                "COMM/COMM/C2"
+            ],
+            "mt": [
+                "COMM/COMM/C2"
+            ],
+            "nl": [
+                "COMM/COMM/C2"
+            ],
+            "pl": [
+                "COMM/COMM/C2"
+            ],
+            "pt": [
+                "COMM/COMM/C2"
+            ],
+            "ro": [
+                "COMM/COMM/C2"
+            ],
+            "sk": [
+                "COMM/COMM/C2"
+            ],
+            "sl": [
+                "COMM/COMM/C2"
+            ],
+            "sv": [
+                "COMM/COMM/C2"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Музиката на „Ода на радостта“ на Бетовен без думите става официален химн на ЕС през 1985 г. Чуйте го и научете повече."
+            ],
+            "cs": [
+                "Beethovenova \"Óda na radost\" bez textu se stala oficiální hymnou Evropské unie v roce 1985. K poslechu a další info zde."
+            ],
+            "da": [
+                "Beethovens \"An die Freude\" uden tekst blev EU's officielle hymne i 1985. Hør den og læs mere her."
+            ],
+            "de": [
+                "Die „Ode an die Freude“ – ohne Text – wurde 1985 zur offiziellen Hymne der EU erklärt. Hymne anhören und mehr dazu lesen. "
+            ],
+            "el": [
+                "Η «Ωδή στη Χαρά» του Μπετόβεν χωρίς στίχους έγινε ο επίσημος ύμνος της ΕΕ το  1985. Ακούστε και διαβάστε περισσότερα εδώ."
+            ],
+            "en": [
+                "Beethoven's 'Ode to Joy', without lyrics, became the EU's official anthem in 1985. Listen and read more here."
+            ],
+            "es": [
+                "La melodía de la \"Oda a la alegría\" de Beethoven pasó a ser el himno oficial de la UE en 1985. Escuchar y leer más aquí."
+            ],
+            "et": [
+                "ELi ametnikuks hümniks sai 1985. aastal Beethoveni „Ood rõõmule” (tekstita). Kuulake ja lugege täiendavalt."
+            ],
+            "fi": [
+                "Beethovenin sävelmä \"Oodi ilolle\" otettiin EU:n viralliseksi hymniksi vuonna 1985. Kuuntele ja lue lisää tältä sivulta."
+            ],
+            "fr": [
+                "«L'Ode à la joie» sans parole de Beethoven est devenu l'hymne officiel de l'UE en 1985. Écouter l'hymne et en savoir plus."
+            ],
+            "ga": [
+                "In 1985 glacadh siansa Beethoven \"Óid don Aoibhneas\"gan focail mar aintiún na hEorpa. Tuilleadh eolais agus deis éisteachta leis anseo."
+            ],
+            "hr": [
+                "Beethovenova „Oda radosti” bez teksta postala je službena himna EU-a 1985. Možete je poslušati i više o njoj saznati ovdje."
+            ],
+            "hu": [
+                "1985 óta Beethoven Örömódája az EU hivatalos himnusza. Az európai himnuszról melynek nincs szövege ezen az oldalon olvashat bővebben. Itt a dallamot is meghallgathatja."
+            ],
+            "it": [
+                "L'Inno alla gioia di Beethoven privo di testo è diventato l'inno ufficiale dell'UE nel 1985. Per ascoltarlo e saperne di più."
+            ],
+            "lt": [
+                "Oficialiu ES himnu 1985 m. tapo L. van Bethoveno „Odė džiaugsmui“ (melodija be žodžių). Klausykitės odės ir skaitykite plačiau čia."
+            ],
+            "lv": [
+                "Bēthovena “Oda priekam” (tikai mūzika bez dzejas) 1985. gadā kļuva par ES oficiālo himnu. Klausieties un uzziniet vairāk te."
+            ],
+            "mt": [
+                "\"Għanja lill-Ferħ\" ta' Beethoven mingħajr il-lirika saret l-innu uffiċjali tal-UE fl-1985. Isma' u aqra aktar hawnhekk."
+            ],
+            "nl": [
+                "De \"Ode aan de vreugde\" een melodie zonder woorden van Beethoven werd in 1985 de officiële hymne van de EU. Luister ernaar en lees er meer over hier."
+            ],
+            "pl": [
+                "W 1985 r. „Oda do radości” Beethovena (sama melodia bez słów) stała się oficjalnym hymnem UE. Tutaj posłuchasz nagrania i dowiesz się więcej."
+            ],
+            "pt": [
+                "O «Hino à Alegria» de Beethoven (sem letra) tornou-se o hino oficial da UE em 1985. Oiça o hino europeu e obtenha mais informações aqui."
+            ],
+            "ro": [
+                " „Odă bucuriei” una dintre cele mai renumite compoziții ale lui Beethoven a devenit imnul oficial al UE în 1985. Ascultați și aflați mai multe aici"
+            ],
+            "sk": [
+                "Beethovenova „Óda na radosť“ bez textu sa stala oficiálnu hymnou EÚ v roku 1985. Viac sa dočítate na tejto stránke kde si ju môžete aj vypočuť."
+            ],
+            "sl": [
+                "Beethovnova Oda radosti (brez besedila) je postala uradna himna Evropske unije leta 1985. Poslušajte himno in preberite več ..."
+            ],
+            "sv": [
+                "Beethovens ”Hymn till glädjen” utan sångtext är EU:s officiella hymn sedan 1985. Lyssna och läs mer här."
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "ЕС",
+                "символи",
+                "химн",
+                "Ода на радостта",
+                "Девета симфония на Бетове"
+            ],
+            "cs": [
+                "EU",
+                "symbol",
+                "hymna",
+                "Óda na radost",
+                "Ode die Freude",
+                "Beethovenova 9. symfonie"
+            ],
+            "da": [
+                "EU",
+                "symboler",
+                "hymne",
+                "Ode to Joy",
+                "Ode an die Freude",
+                "Beethoven's 9. Symfoni"
+            ],
+            "de": [
+                "EU",
+                "Symbolik",
+                "Hymne",
+                "Ode an die Freude",
+                "9. Symphonie von Beethoven"
+            ],
+            "el": [
+                "ΕΕ",
+                "συμβολισμός",
+                "ύμνος",
+                "Ωδή στη Χαρά",
+                "Ode an die Freude",
+                "9η συμφωνία του Μπετόβεν"
+            ],
+            "en": [
+                "EU",
+                "symbolism",
+                "hymn",
+                "Ode to Joy",
+                "Ode an die Freude",
+                "Beethoven's 9th symphony"
+            ],
+            "es": [
+                "UE",
+                "símbolos",
+                "himno",
+                "Oda a la alegría",
+                "Ode an die Freude",
+                "Novena Sinfonía de Beethoven"
+            ],
+            "et": [
+                "EL",
+                "sümbol",
+                "hümn",
+                "Ood rõõmule",
+                "Ode an die Freude",
+                "Beethoveni 9. sümfoonia"
+            ],
+            "fi": [
+                "EU",
+                "symbolit",
+                "hymni",
+                "Oodi ilolle",
+                "Ode an die Freude",
+                "Beethoven",
+                "9. sinfonia"
+            ],
+            "fr": [
+                "symbolisme",
+                "hymne",
+                "Ode à la joie",
+                "Ode an die Freude",
+                "9e symphonie de Beethoven"
+            ],
+            "ga": [
+                "AE",
+                "siombalachas",
+                "iomann",
+                "Ode to Joy",
+                "Óid don Aoibhneas",
+                "Naoú Siansa le Beethoven"
+            ],
+            "hr": [
+                "EU",
+                "simbolika",
+                "himna",
+                "Oda radosti",
+                "Ode an die Freude",
+                "Beethovenova Deveta simfonija"
+            ],
+            "hu": [
+                "EU",
+                "Európai Unió",
+                "szimbólum",
+                "jelkép",
+                "himnusz",
+                "Örömóda",
+                "Beethoven",
+                "9. szimfónia",
+                "IX. szimfónia"
+            ],
+            "it": [
+                "UE",
+                "simbolismo",
+                "inno",
+                "Inno alla gioia",
+                "Ode an die Freude",
+                "nona sinfonia di Beethoven"
+            ],
+            "lt": [
+                "ES",
+                "simboliai",
+                "himnas",
+                "Odė džiaugsmui",
+                "Ode an die Freude",
+                "Bethoveno 9-oji simfonija"
+            ],
+            "lv": [
+                "ES",
+                "simboli",
+                "simbolika",
+                "Oda priekam",
+                "Bēthovena 9. Simfonija"
+            ],
+            "mt": [
+                "UE",
+                "simboliżmu",
+                "innu",
+                "Għanja lill-Ferħ",
+                "Ode an die Freude",
+                "id-9 sinfonija ta' Beethoven"
+            ],
+            "nl": [
+                "EU",
+                "symbolen",
+                "hymne",
+                "volkslied",
+                "Ode aan de vreugde",
+                "Ode an die Freude",
+                "negende symfonie van Beethoven"
+            ],
+            "pl": [
+                "UE",
+                "symbol",
+                "hymn",
+                "Oda do radości",
+                "IX Symfonia Beethovena",
+                "Dziewiąta Symfonia"
+            ],
+            "pt": [
+                "UE",
+                "símbolos",
+                "hino",
+                "ode à alegria",
+                "ode an die freude",
+                "nona sinfonia de Beethoven"
+            ],
+            "ro": [
+                "UE",
+                "simbolică",
+                "simbolistică",
+                "imn",
+                "Odă bucuriei",
+                "simfonia a 9-a de Beethoven"
+            ],
+            "sk": [
+                "EÚ",
+                "symbolika",
+                "hymna",
+                "Óda na radosť",
+                "Ode an die Freude",
+                "9. symfónia Ludwiga van Beethovena"
+            ],
+            "sl": [
+                "EU",
+                "simboličnost",
+                "himna",
+                "oda radosti",
+                "Ode an die Freude",
+                "beethovnova 9. simfonija"
+            ],
+            "sv": [
+                "EU",
+                "symbol",
+                "hymn",
+                "Hymn till glädjen",
+                "Ode an die Freude",
+                "Beethovens nionde symfoni"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<p>Мелодията, която символизира ЕС, <strong>е от Деветата симфония, композирана през 1823 г. от Лудвиг Ван Бетовен, когато той написва музиката към „Одата на радостта“</strong> — лирическите стихове на Фридрих фон Шилер от 1785 г.</p>             <p>Химнът символизира не само Европейския съюз, но също и Европа в по-широк смисъл. Поемата „Ода на радостта“ изразява идеалистичната представа на Шилер за братство между всички хора — представа, която Бетовен споделя.</p>             <p>През 1972 г. Съветът на Европа приема мелодията на Бетовен „Ода на радостта“ за свой химн. През 1985 г. тя е приета от лидерите на ЕС за официалния химн на Европейския съюз. <strong>Химнът няма думи, а само музика.</strong> На универсалния език на музиката, <strong>този химн изразява европейските идеали за свобода, мир и солидарност</strong>.</p>             <p>Европейският химн няма за цел да замени националните химни на държавите от ЕС, а по-скоро да възхвалява ценностите, които те споделят. Химнът се изпълнява на официални церемонии с участието на Европейския съюз и по принцип на всякакви прояви от европейски характер.</p>             <h3>Чуйте европейския химн</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Чуйте европейския химн</a> (02:07)</p>             <p>Химнът се изпълнява от Младежкия духов оркестър на Европейския съюз под диригентството на Андре Райхлинг. Записан е през 1994 г. в Teatro da Trindade, Лисабон. Музикален аранжимент — Херберт фон Караян.*</p>             <p>* Всички права на продуцента и собственика на творбата са запазени.</p>"
+            ],
+            "cs": [
+                "<p>Melodie hymny je <strong>převzata z Deváté symfonie Ludwiga van Beethovena, kterou v roce 1823 složil na slova lyrické básně Friedricha Schillera „Óda na radost“</strong> z roku 1785.</p>             <p>Hymna symbolizuje nejen Evropskou unii, ale i Evropu v širším smyslu. Báseň „Óda na radost“ představuje Schillerovu idealistickou vizi bratrství všech lidí, kterou sdílel i Beethoven.</p>             <p>V roce 1972 schválila Rada Evropy Beethovenovo téma „Ódy na radost“ jako svou hymnu. V roce 1985 ji pak vedoucí představitelé členských států schválili jako oficiální hymnu Evropské unie. <strong>Hymna je beze slov, má pouze hudební část.</strong> Univerzálním jazykem hudby <strong>vyjadřuje evropské ideály svobody, míru a solidarity</strong>.</p>             <p>Evropská hymna nenahrazuje národní hymny jednotlivých zemí EU, ale spíše oslavuje společně sdílené hodnoty. Hraje se při slavnostních příležitostech týkajících se Evropské unie a také na všech akcích celoevropského rozměru.</p>             <h3>Poslechněte si evropskou hymnu</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Poslechněte si evropskou hymnu</a> (2:07)</p>             <p>Hymnu nahrála Mládežnická dechová kapela EU pod vedením André Reichlinga v roce 1994 v lisabonském Teatro da Trindade. Hudební úprava: Herbert von Karajan*</p>             <p>*Všechna práva výrobce a vlastníka díla vyhrazena.</p>"
+            ],
+            "da": [
+                "<p>Den melodi, der anvendes til at symbolisere EU, <strong>kommer fra Beethovens niende symfoni fra 1823, hvor han satte musik til Friedrich von Schillers lyriske vers \"Ode til glæden\"</strong> fra 1785.</p>             <p>Hymnen symboliserer ikke blot Den Europæiske Union, men også Europa i bredere forstand. Digtet \"Ode til Glæden\" udtrykker Schillers idealistiske vision om menneskehedens forbrødring - en vision som Beethoven delte.</p>             <p>I 1972 vedtog Europarådet Beethovens komposition til \"Ode til Glæden\" som sin hymne. I 1985 blev den vedtaget af EU's ledere som den officielle hymne for Den Europæiske Union. <strong>Hymnen har ingen tekst – kun musik.</strong> Den udtrykker på musikkens universelle sprog <strong>idealer om frihed, fred og solidaritet</strong>.</p>             <p>Europahymnen er ikke tænkt som en erstatning af EU-landenes nationalsange, men mere som en hyldest til de værdier, landene deler. Den spilles ved officielle ceremonier, som EU deltager i, og generelt ved alle slags arrangementer med et europæisk indhold.</p>             <h3>Lyt til Europahymnen</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Lyt til Europahymnen</a> (02:07)</p>             <p>Hymnen er opført af \"European Union Youth Wind Orchestra\" dirigeret af André Reichling. Den blev indspillet i 1994 ved Teatro da Trindade i Lissabon. Musikalsk arrangement af Herbert von Karajan.*</p>             <p>* Alle rettigheder forbeholdt producent og ejer af reproduktionen.</p>"
+            ],
+            "de": [
+                "<p>Die Melodie der Hymne der EU <strong>stammt aus der Neunten Symphonie, die Ludwig van Beethoven im Jahr 1823 als Vertonung der von Friedrich Schiller 1785 verfassten „Ode an die Freude“</strong> komponierte.</p>             <p>Die Hymne symbolisiert nicht nur die Europäische Union, sondern auch Europa im weiteren Sinne. Mit seiner „Ode an die Freude“ brachte Schiller seine idealistische Vision zum Ausdruck, dass alle Menschen zu Brüdern werden – eine Vision, die Beethoven teilte.</p>             <p>1972 erklärte der Europarat Beethovens „Ode an die Freude“ zu seiner Hymne. 1985 wurde sie von den EU-Staats- und ‑Regierungschefs als offizielle Hymne der Europäischen Union angenommen. <strong>Ohne Worte</strong>                <strong>, nur in der universellen Sprache der Musik, bringt sie die europäischen Werte Freiheit, Frieden und Solidarität zum Ausdruck.</strong>             </p>             <p>Die Europäische Hymne soll die Nationalhymnen der EU-Länder nicht ersetzen; sie steht vielmehr für die Werte, die diese Länder teilen. Die Hymne erklingt bei offiziellen Feierlichkeiten unter Beteiligung der Europäischen Union und üblicherweise bei allen Arten von Veranstaltungen mit europäischem Charakter.</p>             <h3>Lauschen Sie der Europäischen Hymne:</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Die Europäische Hymne</a> (02:07)</p>             <p>Die Hymne wird hier vom Jugend-Blasorchester der Europäischen Union unter der Leitung von André Reichling vorgetragen. Die Aufnahme erfolgte im Jahr 1994 im Teatro da Trindade in Lissabon. Musikalische Bearbeitung: Herbert von Karajan.*</p>             <p>*Alle Rechte vorbehalten.</p>"
+            ],
+            "el": [
+                "<p>Η μελωδία που χρησιμοποιείται για να συμβολίζει την ΕΕ <strong>προέρχεται από την Ενάτη Συμφωνία που συνέθεσε ο Λούντβιχ βαν Μπετόβεν το 1823, όταν μελοποίησε τους στίχους του Φρίντριχ Σίλερ \"Ωδή στη Χαρά\"</strong>, που είχαν εκδοθεί το 1785.</p>             <p>Ο ύμνος δεν συμβολίζει απλώς την Ευρωπαϊκή Ένωση αλλά και την Ευρώπη γενικότερα. Το ποίημα \"Ωδή στη Χαρά\" εκφράζει την ιδεαλιστική άποψη του Σίλερ για συναδέλφωση όλων των λαών, την οποία συμμεριζόταν ο Μπετόβεν.</p>             <p>Το 1972, η Ωδή στη Χαρά του Μπετόβεν έγινε ο ύμνος του Συμβουλίου της Ευρώπης, και το 1985 αναγνωρίστηκε από τους ηγέτες της ΕΕ ως ο ύμνος της Ευρωπαϊκής Ένωσης. <strong>Ο ύμνος δεν έχει λόγια, παρά μόνο μουσική.</strong> Με την παγκόσμια γλώσσα της μουσικής, <strong>αυτός ο ύμνος εκφράζει τα ευρωπαϊκά ιδανικά της ελευθερίας, της ειρήνης και της αλληλεγγύης</strong>.</p>             <p>Ο ύμνος της ΕΕ δεν προορίζεται να αντικαταστήσει τους εθνικούς ύμνους, αλλά να εξυμνήσει τις κοινές αξίες των κρατών μελών της ΕΕ. Ο ύμνος ανακρούεται κατά τις επίσημες τελετές στις οποίες συμμετέχει η Ευρωπαϊκή Ένωση, και σε όλα γενικά τα είδη εκδηλώσεων ευρωπαϊκού χαρακτήρα.</p>             <h3>Ακούστε τον ύμνο της ΕΕ </h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Ακούστε τον ύμνο της ΕΕ</a> (02:07)</p>             <p>Ο ύμνος, που ηχογραφήθηκε το 1994 στο Teatro da Trindade της Λισαβόνας, ακούγεται σε εκτέλεση της Ορχήστρας Νέων της Ευρωπαϊκής Ένωσης υπό τη διεύθυνση του Αντρέ Ράιχλινγκ και σε μουσική διασκευή του Χέρμπερτ φον Κάραγιαν.*</p>             <p>*Με την επιφύλαξη όλων των δικαιωμάτων του παραγωγού και του δικαιούχου της αναπαραγωγής του έργου.</p>"
+            ],
+            "en": [
+                "<p>The melody used to symbolize the EU <strong>comes from the Ninth Symphony composed in 1823 by Ludwig Van Beethoven, when he set music to the \"Ode to Joy\"</strong>, Friedrich von Schiller's lyrical verse from 1785.</p>             <p>The anthem symbolises not only the European Union but also Europe in a wider sense. The poem \"Ode to Joy\" expresses Schiller's idealistic vision of the human race becoming brothers - a vision Beethoven shared.</p>             <p>In 1972, the Council of Europe adopted Beethoven's \"Ode to Joy\" theme as its anthem. In 1985, it was adopted by EU leaders as the official anthem of the European Union. <strong>There are no words to the anthem; it consists of music only.</strong> In the universal language of music, <strong>this anthem expresses the European ideals of freedom, peace and solidarity.</strong>             </p>             <p>The European anthem is not intended to replace the national anthems of the EU countries but rather to celebrate the values they share. The anthem is played at official ceremonies involving the European Union and generally at all sorts of events with a European character.</p>             <h3>Listen to the European Anthem</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Listen to the European Anthem</a> (02:07)</p>             <p>The anthem is performed by the European Union Youth Wind Orchestra conducted by André Reichling. It was recorded in 1994 at the Teatro da Trindade, Lisbon. Musical arrangement by Herbert von Karajan.*</p>             <p>*All rights of the producer and owner of the work reproduced reserved.</p>"
+            ],
+            "es": [
+                "<p>La melodía que simboliza a la UE <strong>procede de la Novena Sinfonía compuesta en 1823 por Beethoven, que decidió poner música a la \"Oda a la Alegría\"</strong> escrita por Schiller en 1785.</p>             <p>El himno no solo simboliza a la Unión Europea, sino también a Europa en un sentido más amplio. La \"Oda a la Alegría\" de Schiller expresa la visión idealista de la fraternidad entre los seres humanos, visión que Beethoven compartía.</p>             <p>En 1972, el Consejo de Europa convirtió el tema de la \"Oda a la Alegría\" de Beethoven en su himno. En 1985, fue adoptado por los dirigentes de la UE como himno oficial de la Unión Europea. <strong>El himno no tiene letra, solo música.</strong> En el lenguaje universal de la música, <strong>es la expresión de los ideales europeos de libertad, paz y solidaridad</strong>.</p>             <p>El himno europeo no pretende sustituir a los himnos nacionales de los países de la UE, sino más bien celebrar los valores que todos ellos comparten. El himno se toca en las ceremonias oficiales de la Unión Europea y, en general, en todos los acontecimientos de carácter europeo.</p>             <h3>Escuchar el himno europeo</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Escuchar el himno europeo</a> (02:07)</p>             <p>En esta versión el himno está interpretado por la Joven Orquesta de Viento de la Unión Europea, dirigida por André Reichling. Se grabó en 1994, en el Teatro da Trindade de Lisboa. El arreglo musical es de Herbert von Karajan.*</p>             <p>*Reservados todos los derechos del productor y del propietario de la obra reproducida.</p>"
+            ],
+            "et": [
+                "<p>ELi tunnusmeloodia <strong>pärineb Ludwig van Beethoveni 1823. aastal loodud 9. sümfooniast. See on muusika Friedrich von Schilleri 1785. aastal kirjutatud luuletusele „Ood rõõmule”</strong>.</p>             <p>See ei ole mitte üksnes Euroopa Liidu hümn, vaid Euroopa hümn laiemas mõttes. Luuletus „Ood rõõmule” väljendab Schilleri idealistlikku nägemust sellest, kuidas inimkond vennastub, ning seda visiooni jagas ka Beethoven.</p>             <p>1972. aastal otsustas Euroopa Nõukogu kuulutada Beethoveni „Oodi rõõmule” Euroopa hümniks. 1985. aastal kuulutasid ELi riigi- ja valitsusjuhid selle teose Euroopa Liidu ametlikuks hümniks. <strong>Hümnil sõnu ei ole – on ainult muusika.</strong> Hümn väljendab kõigile arusaadavas muusika keeles <strong> Euroopa ideaale, milleks on vabadus, rahu ja solidaarsus</strong>.</p>             <p>Hümni eesmärgiks ei ole asendada liikmesriikide rahvushümne, vaid tähistada nende riikide ühiseid väärtusi. Hümni mängitakse Euroopa Liidu ametlikel tseremooniatel ning tavaliselt ka Euroopaga seotud eri liiki üritustel.</p>             <h3>Kuula Euroopa hümni (02:07)</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Kuula Euroopa hümni</a> (02:07)</p>             <p>Hümni esitab Euroopa Liidu Noorte Puhkpilliorkester André Reichlingi dirigeerimisel. See on salvestatud 1994. aastal Lissabonis, Teatro da Trindades. Muusikaline seade: Herbert von Karajan.*</p>             <p>*Kõik autoriõigused on kaitstud.</p>"
+            ],
+            "fi": [
+                "<p>EU:ta symboloiva sävelmä on peräisin <strong>Ludwig van Beethovenin vuonna 1823 säveltämästä yhdeksännestä sinfoniasta</strong>, joka on alun perin Friedrich Schillerin vuonna 1785 kirjoittaman runon \"<strong>Oodi ilolle</strong>\" sävellys.</p>             <p>Hymni ei symboloi pelkästään Euroopan unionia vaan laajemmassa mielessä koko Eurooppaa. Runo \"Oodi ilolle\" kuvastaa Schillerin idealistista näkemystä ihmiskunnan veljeydestä. Beethovenilla oli sama visio.</p>             <p>Euroopan neuvosto ryhtyi vuonna 1972 käyttämään Beethovenin sävelmää omana hymninään. Vuonna 1985 EU:n johtajat päättivät ottaa hymnin Euroopan unionin viralliseksi hymniksi. <strong>Hymnissä ei ole sanoja.</strong> Musiikin yleismaailmallisella kielellä <strong>hymni ilmentää vapauden, rauhan ja yhteisvastuun ihanteita, joita Eurooppa edustaa</strong>.</p>             <p>Euroopan hymnin tarkoitus ei ole korvata EU-maiden omia kansallislauluja, vaan symboloida niiden yhteisiä arvoja. Hymniä esitetään EU:n virallisissa tilaisuuksissa ja monenlaisissa eurooppalaisissa tapahtumissa.</p>             <h3>Kuuntele Euroopan hymni</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Kuuntele Euroopan hymni</a> (02:07)</p>             <p>Hymnin esittää André Reichlingin johtama Euroopan unionin nuorisopuhallinorkesteri. Esitys on nauhoitettu vuonna 1994 Lissabonin Teatro da Trindadessa. Sovitus: Herbert von Karajan.*</p>             <p>*Kaikki oheiseen äänitteeseen liittyvät tuottajan- ja tekijänoikeudet pidätetään.</p>"
+            ],
+            "fr": [
+                "<p>La mélodie symbolisant l'Union européenne est celle de la <strong>Neuvième symphonie composée en 1823 par Ludwig van Beethoven, qui a mis en musique l'«Ode à la joie»,</strong> poème écrit en 1785 par Friedrich von Schiller.</p>             <p>L'hymne symbolise non seulement l'Union européenne, mais aussi l'Europe au sens large. Le poème l'«Ode à la joie» exprime l'idéal de fraternité que Schiller avait pour la race humaine, vision partagée par Beethoven.</p>             <p>En 1972, le Conseil de l'Europe fait du thème musical de l'«Ode à la joie» de Beethoven son hymne. En 1985, les chefs d'État et de gouvernement des États membres l'adoptent comme hymne officiel de l'Union européenne. <strong>Cet hymne sans paroles évoque, grâce au langage universel de la musique,</strong> les <strong>idéaux de liberté, de paix et de solidarité incarnés par l'Europe.</strong>             </p>             <p>L'hymne européen n'est pas destiné à remplacer les hymnes nationaux des pays de l'Union européenne mais à célébrer les valeurs qu'ils partagent. L’hymne est joué lors des cérémonies officielles auxquelles participe l’Union européenne et, d’une manière générale, à l'occasion de tous les événements à caractère européen.</p>             <h3>Écouter l'hymne européen</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Écouter l'hymne européen</a> (02:07)</p>             <p>L'hymne est interprété par l'orchestre d'harmonie des jeunes de l'Union Européenne, sous la direction d'André Reichling. Il a été enregistré en 1994 au Teatro da Trindade de Lisbonne. L'arrangement musical est de Herbert von Karajan.*</p>             <p>*Tous droits de production et de propriété de l'œuvre enregistrée réservés.</p>"
+            ],
+            "ga": [
+                "<p>Tagann séis shiombalach an Aontais Eorpaigh<strong> ón Naoú Siansa le Ludwig van Beethoven, nuair a chuir sé ceol  le 'Ode to Joy' ('Óid don Aoibhneas') sa bliain 1823</strong>, véarsa liriciúil a chum Friedrich von Schiller in 1785.</p>             <p>Is siombal ní hamháin don Aontas Eorpach an t-aintiún, ach siombal don Eoraip ar chiall níos leithne. Cuireann an dán 'Óid don Aoibhneas' fís idéalaíoch Schiller faoi bhráithreachas an chine dhaonna in iúl – fís a bhí ag Beethoven chomh maith.</p>             <p>In 1972, ghlac Comhairle na hEorpa le téama 'Óid don Aoibhneas' le Beethoven mar aintiún. In 1985, ghlac ceannairí an Aontais Eorpaigh leis mar aintiún oifigiúil an Aontais Eorpaigh. <strong>Níl aon fhocail ag dul leis an aintiún; is píosa ceoil amháin atá ann.</strong> I dteanga uilechoiteann an cheoil, <strong>cuireann an t-aintiún na hidéil Eorpacha in iúl, is é sin an tsaoirse, an tsíocháin agus an dlúthpháirtíocht.</strong>             </p>             <p>Níl an t-aintiún Eorpach ceaptha ionad aintiúin náisiúnta na mBallstát a ghlacadh. Tá sé ceaptha níos mó chun na luachanna coiteanna eatarthu a cheiliúradh.  Seinntear an t-aintiún ag searmanais oifigiúla a bhaineann leis an Aontas Eorpach agus go hiondúil ag gach cineál ócáide a bhfuil blas Eorpach leo.</p>             <h3>Éist le hAintiún na hEorpa</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Éist le hAintiún na hEorpa</a> (02:07)</p>             <p>Is í Gaoth-ceolfhoireann Óige an Aontais Eorpaigh a sheinneann an t-aintiún faoi stiúir André Reichling. Rinneadh an taifeadadh in 1994 i Teatro de Trindada, Liospóin.  Herbert von Karajan a chóirigh an ceol.*</p>             <p>*Gach ceart an léiritheora agus úinéir na hoibre a atáirgeadh ar cosaint.</p>"
+            ],
+            "hr": [
+                "<p>Melodija koja simbolizira EU <strong>potječe iz Devete simfonije, koju je 1823. skladao Ludwig Van Beethoven. Njome je uglazbio „Odu radosti”</strong>, lirsku pjesmu Friedricha von Schillera iz 1785.</p>             <p>Himna simbolizira ne samo Europsku uniju već i Europu u širem smislu. U „Odi radosti” Schiller iznosi svoj ideal bratstva među ljudima, koji je Beethoven dijelio.</p>             <p>Godine 1972. Vijeće Europe prihvatilo je Beethovenovu „Odu radosti” za svoju himnu, a 1985. odlukom europskih čelnika ona je postala službena himna Europske unije. <strong>Himna nema tekst, nego samo glazbu.</strong> Na univerzalnom jeziku glazbe, <strong>njome se izražavaju europski ideali slobode, mira i solidarnosti.</strong>             </p>             <p>Europska himna nije zamjena za nacionalne himne država članica, već se njome slave zajedničke vrijednosti. Himna se izvodi na službenim svečanostima u kojima sudjeluje Europska unija i općenito u okviru raznih događanja povezanih s Europom.</p>             <h3>Poslušajte europsku himnu</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Poslušajte europsku himnu</a> (02:07)</p>             <p>Izvodi je puhački orkestar mladih Europske unije pod ravnanjem Andréa Reichlinga. Snimljena je 1994. u lisabonskom Teatro da Trindade. Glazbeni aranžman djelo je Herberta von Karajana.*</p>             <p>*Sva su prava proizvođača i vlasnika izvedenog djela pridržana.</p>"
+            ],
+            "hu": [
+                "<p>Az Európai Unió egyik jelképévé vált dallam <strong>Ludwig van Beethoven 1823-ban komponált IX. szimfóniájának</strong> egy részlete, Friedrich von Schiller 1785-ös lírai költeményének, az <strong>Örömódának</strong> a megzenésített változata.</p>             <p>A himnusz nemcsak az Európai Uniót, hanem Európa egészét jelképezi. Az Örömóda Schillernek az emberek közötti testvériségről szóló – Beethoven által is osztott – idealista világnézetét fejezi ki.</p>             <p>1972-ben az Európa Tanács választotta himnuszául Beethoven Örömódáját, majd a művet 1985-ben az EU vezetői az Európai Unió hivatalos himnuszává tették. <strong>Az európai himnusznak nincs szövege:</strong> szavak nélkül, a zene egyetemes nyelvén szól a <strong>szabadság, a béke és a szolidaritás európai eszményeiről.</strong>             </p>             <p>Az európai himnusz nem arra hivatott, hogy az uniós országok nemzeti himnuszainak helyébe lépjen, hanem arra, hogy a tagországok által közösen vallott értékeket ünnepelje. A himnusz nemcsak az Európai Unió hivatalos rendezvényein, ünnepségein zendül fel, hanem sok más európai vonatkozású eseményen is.</p>             <h3>Hallgassa meg az európai himnuszt.</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Hallgassa meg az európai himnuszt.</a> (02:07)</p>             <p>A himnuszt az Európai Unió Ifjúsági Fúvószenekara adja elő André Reichling vezényletével. A felvétel 1994-ben készült a lisszaboni Teatro da Trindade-ban. Zenei rendező: Herbert von Karajan.*</p>             <p>*Minden szerzői és tulajdonosi jog fenntartva.</p>"
+            ],
+            "it": [
+                "<p>La melodia utilizzata per rappresentare l'UE <strong>è tratta dalla Nona sinfonia, composta nel 1823 da Ludwig van Beethoven, che ha messo in musica l'\"Inno alla gioia\"</strong>, scritto da Friedrich von Schiller nel 1785.</p>             <p>L'inno simbolizza non solo l'Unione europea, ma anche l'Europa in generale. L'Inno alla gioia esprime la visione idealistica di Schiller sullo sviluppo di un legame di fratellanza fra gli uomini, visione condivisa da Beethoven.</p>             <p>Nel 1972 il Consiglio d'Europa ha adottato il tema dell'Inno alla gioia di Beethoven come proprio inno. Nel 1985 è stato adottato dai capi di Stato e di governo dei paesi membri come inno ufficiale dell'Unione europea. <strong>L’inno è privo di testo ed è costituito solo dalla musica.</strong> Nel linguaggio universale della musica, <strong>questo inno esprime gli ideali di libertà, pace e solidarietà perseguiti dall'Europa.</strong>             </p>             <p>L'inno europeo non intende sostituire gli inni nazionali dei paesi membri, ma piuttosto celebrare i valori che essi condividono. L’inno viene eseguito nelle cerimonie ufficiali che vedono la partecipazione dell’Unione europea e in generale a tutti i tipi di eventi a carattere europeo.</p>             <h3>Ascolta l'inno europeo</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Ascolta l'inno europeo</a> (02:07)</p>             <p>L'inno è eseguito dall'Orchestra giovanile di fiati dell'Unione europea, diretta da André Reichling. L'esecuzione è stata registrata nel 1994 al Teatro da Trindade di Lisbona. L'arrangiamento musicale è di Herbert von Karajan.*</p>             <p>*Tutti i diritti del produttore e proprietario dell'opera riprodotta sono riservati.</p>"
+            ],
+            "lt": [
+                "<p>ES himnui <strong>pasirinkta 1823 m. Ludwigo van Beethoveno sukurtos Devintosios simfonijos „Odė džiaugsmui“</strong>, kurią jis parašė pagal Friedricho von Schillerio 1785 m. sukurtas eiles.</p>             <p>Šis himnas simbolizuoja ne tik Europos Sąjungą, bet Europą platesne prasme. Eilėraštis „Odė džiaugsmui“ išreiškia Šilerio idealistinę viziją, kurioje visa žmonija tampa broliais – tokia vizija buvo artima ir Bethovenui.</p>             <p>1972 m. Europos Taryba L. Beethoveno „Odę džiaugsmui“ pasirinko savo himnu. 1985 m. šį himną oficialiuoju Europos Sąjungos himnu patvirtino ES vadovai. <strong>Himnas žodžių neturi, yra tik muzika.</strong> Universalia muzikos kalba <strong>šis himnas išreiškia Europos laisvės, taikos ir solidarumo idealus</strong>.</p>             <p>Europos Sąjungos himno paskirtis nėra pakeisti ES šalių nacionalinius himnus, visų pirma juo siekiama aukštinti bendras vertybes. Europos Sąjungos himnas skamba oficialiose ceremonijose, susijusiose su Europos Sąjunga, ir apskritai įvairiausiuose europinio pobūdžio renginiuose.</p>             <h3>Pasiklausykite Europos Sąjungos himno</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Pasiklausykite Europos Sąjungos himno</a> (02:07)</p>             <p>Himną atlieka Europos Sąjungos jaunimo pučiamųjų orkestras, kuriam diriguoja André Reichlingas. Įrašas padarytas 1994 m. Teatro da Trindade Lisabonoje. Muzikinė aranžuotė Herberto van Karajano.</p>             <p>*Visos atkurto kūrinio teisės priklauso prodiuseriui ir savininkui.</p>"
+            ],
+            "lv": [
+                "<p>Melodija, kas parasti simbolizē ES, ir <strong>no Ludviga van Bēthovena Devītās simfonijas, ko viņš komponēja 1823. gadā, par tekstu izmantodams “Odu priekam”</strong>, Frīdriha fon Šillera 1785. gadā sacerēto dzejas šedevru.</p>             <p>Himna simbolizē ne tikai Eiropas Savienību, bet arī Eiropu plašākā nozīmē. Dzejolī “Oda priekam” Šillers pauž savu ideālistisko redzējumu, proti, ka visi cilvēki savā starpā ir brāļi. Arī Bēthovenam bija tuva šāda interpretācija.</p>             <p>1972. gadā Eiropas Padome apstiprināja Bēthovena “Odas priekam” melodiju par savu himnu. 1985. gadā ES valstu un valdību vadītāji to pieņēma par Eiropas Savienības oficiālo himnu. <strong>Himnai nav vārdu, tai ir tikai mūzika.</strong> Tā visiem saprotamā mūzikas valodā vēsta par <strong>Eiropas ideāliem — brīvību, mieru un solidaritāti</strong>.</p>             <p>Eiropas himna neaizstāj ES valstu nacionālās himnas, bet drīzāk pauž šīm valstīm kopīgās vērtības. Himna tiek atskaņota oficiālajās ceremonijās, kurās piedalās Eiropas Savienība, un arī dažādos citos pasākumos ar Eiropas tematiku.</p>             <h3>Noklausieties Eiropas himnu</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Noklausieties Eiropas himnu</a> (02:07)</p>             <p>Himnu izpilda Eiropas Savienības Jauniešu pūtēju orķestris Andrē Reihlinga vadībā. Tā ir ieskaņota 1994. gadā Lisabonā, Trindades teātrī, Herberta fon Karajana muzikālajā aranžējumā.*</p>             <p>*Visas reproducētā darba producenta un īpašuma tiesības ir aizsargātas.</p>"
+            ],
+            "mt": [
+                "<p>Il-melodija użata biex tissimbolizza l-UE <strong>ġejja mid-Disa’ Sinfonija li kkomponaLudwig Van Beethoven fl-1823, meta ħejja l-mużika għal \"Għanja lill-Ferħ\"</strong>, il-vers liriku ta’ Friedrich von Schiller mill-1785.</p>             <p>L-innu jissimbolizza mhux biss l-Unjoni Ewropea iżda wkoll l-Ewropa f’sens usa'. Il-poeżija \"Għanja lill-Ferħ\" tesprimi l-viżjoni idealistika ta’ Schiller tar-razza umana li ssir bħal aħwa – viżjoni li kien jaqsam miegħu Beethoven.</p>             <p>Fl-1972, il-Kunsill tal-Ewropa adotta t-tema \"Għanja lill-Ferħ\" ta’ Beethoven bħala l-innu tiegħu. Fl-1985, ġie adottat mill-mexxejja tal-UE bħala l-innu uffiċjali tal-Unjoni Ewropea. <strong>L-innu m'għandux kliem; jikkonsisti f’mużika biss.</strong> Fil-lingwa universali tal-mużika, <strong>dan l-innu jesprimi l-ideali Ewropej ta’ libertà, paċi u solidarjetà.</strong>             </p>             <p>L-innu Ewropew mhuwiex maħsub li jieħu post l-innijiet nazzjonali tal-pajjiżi tal-UE iżda li jiċċelebra l-valuri li jaqsmu flimkien. L-innu jindaqq f’ċerimonji uffiċjali li jinvolvu l-Unjoni Ewropea u b’mod ġenerali f’kull tip ta’ avveniment b’karattru Ewropew.</p>             <h3>Isma' l-Innu Ewropew</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Isma' l-Innu Ewropew</a> (02:07)</p>             <p>L-innu jindaqq mill-Orkestra Strumentali taż-Żgħażagħ tal-Unjoni Ewropea mmexxija minn André Reichling. Ġie rrekordjat fl-1994 fit-Teatro da Trindade, Liżbona. Arranġament mużikali minn Herbert von Karajan.*</p>             <p>*Id-drittijiet tal-produttur u s-sid tax-xogħol riprodott huma riżervati.</p>"
+            ],
+            "nl": [
+                "<p>De melodie van het Europese volkslied komt uit de <strong>negende symfonie van Ludwig van Beethoven</strong>, gecomponeerd in 1823. De tekst erbij is de <strong>\"Ode an die Freude\"</strong> van Friedrich von Schiller, geschreven in 1785.</p>             <p>Het volkslied is niet alleen een symbool van de Europese Unie, maar ook van Europa in ruimere zin. Het gedicht \"Ode an die Freude\" verwoordt het ideaal van een wereld waar alle mensen als broeders leven, een ideaal waarin Schiller en Beethoven beiden geloofden.</p>             <p>In 1972 nam de Raad van Europa het gelijknamige thema uit Beethovens negende symfonie als hymne aan. In 1985 namen de EU-regeringsleiders het over als officieel volkslied van de Europese Unie. <strong>Het is een volkslied zonder tekst.</strong> Geschreven in de universele taal van de muziek geeft het uitdrukking aan <strong>de Europese idealen van vrijheid, vrede en solidariteit</strong>.</p>             <p>Het Europese volkslied is niet bedoeld om de nationale volksliederen van de EU-landen te verdringen, maar om uiting te geven aan de gemeenschappelijke waarden. Het wordt gespeeld op officiële plechtigheden van de Europese Unie en ook bij allerlei evenementen met een Europees karakter.</p>             <h3>Wilt u het Europese volkslied horen?</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">U kunt het hier beluisteren?</a> (02:07)</p>             <p>Het wordt uitgevoerd door het Jeugdharmonieorkest van de EU onder leiding van André Reichling. Het is in 1994 opgenomen in het Teatro da Trindade in Lissabon. De bewerking is van Herbert von Karajan.*</p>             <p>*Alle rechten van uitvoerder en eigenaar van het werk voorbehouden.</p>"
+            ],
+            "pl": [
+                "<p>Hymn UE to <strong>fragment IX Symfonii skomponowanej przez Ludwiga van Beethovena w 1823 do tekstu poematu Fryderyka Schillera „Oda do radości”</strong> z 1785 r.</p>             <p>Hymn europejski jest wizytówką nie tylko Unii Europejskiej, ale również Europy w szerszym znaczeniu. Poemat „Oda do radości” Fryderyka Schillera wyraża idealistyczną wizję braterstwa całej rasy ludzkiej – wizję, którą podzielał Beethoven.</p>             <p>W 1972 r. Rada Europy postanowiła, że fragment IX symfonii Beethovena zatytułowany „Oda do radości” zostanie jej hymnem. W 1985 r. szefowie państw i rządów UE zadecydowali, że melodia ta będzie oficjalnym hymnem Unii Europejskiej. <strong>Melodia – ponieważ utwór ten nie ma słów.</strong> Hymn wyraża <strong>europejskie ideały wolności, pokoju i solidarności</strong> w uniwersalnym języku, jakim jest muzyka.</p>             <p>Celem hymnu europejskiego nie jest zastąpienie hymnów narodowych poszczególnych państw członkowskich UE, lecz uczczenie wspólnych wartości. Hymn jest odtwarzany podczas oficjalnych uroczystości z udziałem przedstawicieli Unii Europejskiej i przy okazji różnego rodzaju wydarzeń o charakterze europejskim.</p>             <h3>Posłuchaj hymnu europejskiego</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Posłuchaj hymnu europejskiego</a> (02:07)</p>             <p>Hymn w wykonaniu Młodzieżowej Orkiestry Dętej Unii Europejskiej pod batutą André Reichlinga. Nagrania utworu dokonano w 1994 roku w Teatro da Trindade w Lizbonie. W aranżacji muzycznej Herberta von Karajana. *</p>             <p>*Wszystkie prawa producenta i właściciela nagrania zastrzeżone.</p>"
+            ],
+            "pt": [
+                "<p>A melodia escolhida para simbolizar a UE é o <strong>«Hino à Alegria», composto por Ludwig Van Beethoven em 1823</strong>, enquanto parte da Nona Sinfonia,  para o poema com o mesmo nome de Friedrich Schiller, de 1785.</p>             <p>Este hino simboliza não só a União Europeia, mas também a Europa num sentido mais lato. O poema «Hino à Alegria» evoca o ideal da fraternidade de Schiller, partilhado por Beethoven.</p>             <p>Em 1972, o Conselho da Europa adotou o «Hino à Alegria» de Beethoven como o hino desta organização. Em 1985, foi a vez dos dirigentes europeus de também o adotarem como hino oficial da União Europeia. <strong>O hino, que não tem letra,</strong> utiliza a linguagem universal da música para <strong>exaltar os ideais europeus da liberdade, paz e solidariedade</strong>.</p>             <p>O hino europeu não se destina a substituir os hinos nacionais dos países da UE, mas antes a celebrar os valores que estes partilham. É tocado em cerimónias oficiais que contam com a participação da União Europeia e, de uma forma geral, em todos os tipos de eventos de caráter europeu.</p>             <h3>Oiça o hino europeu</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Oiça o hino europeu</a> (02:07)</p>             <p>Executado pela Orquestra dos Instrumentos de Sopro da Juventude da União Europeia, dirigida por André Reichling, e gravado em 1994 no Teatro da Trindade, em Lisboa, com arranjos de Herbert von Karajan.*</p>             <p>*Reservados todos os direitos do produtor e proprietário da obra reproduzida.</p>"
+            ],
+            "ro": [
+                "<p>Melodia care simbolizează UE <strong>este un extras din Simfonia a IX-a compusă în 1823 de Ludwig Van Beethoven, compozitorul care a decis să transpună în muzică versurile poemului „Odă bucuriei”</strong>, scris de Friedrich von Schiller în 1785.</p>             <p>Imnul simbolizează nu numai Uniunea Europeană, ci Europa în sens mai larg.  Poemul „Odă bucuriei” exprimă viziunea idealistă a lui Schiller, care își dorea ca toți oamenii să se înfrățească - viziune împărtășită și de Beethoven.</p>             <p>În 1972, Consiliul Europei a transformat „Oda bucuriei” în propriul său imn. În 1985, liderii europeni l-au adoptat ca imn oficial al Uniunii Europene.  <strong>Fără cuvinte, în limbajul universal </strong> al muzicii, <strong>acest imn dă glas idealurilor europene de libertate, pace și solidaritate.</strong>             </p>             <p>Imnul european nu își propune să înlocuiască imnurile naționale ale țărilor membre, ci să celebreze valorile lor comune. Imnul este interpretat în cadrul ceremoniilor oficiale la care este reprezentată Uniunea Europeană și, în general, la diferite evenimente cu caracter european.</p>             <h3>Ascultați imnul european</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Ascultați imnul european</a> (02:07)</p>             <p>Imnul este interpretat de European Union Youth Wind Orchestra, dirijată de André Reichling.  A fost înregistrat în 1994, la Teatro da Trindade din Lisabona. Aranjamentul orchestral îi aparține lui Herbert von Karajan.*</p>             <p>*Toate drepturile producătorului și proprietarului operei reproduse sunt rezervate.</p>"
+            ],
+            "sk": [
+                "<p>Melódia symbolizujúca EÚ <strong>pochádza z 9. symfónie d mol, ktorú v roku 1823 skomponoval Ludwig van Beethoven ako hudobný podklad pre verše Schillerovej „Ódy na radosť“</strong> (Ode \"An die Freude\") z roku 1785.</p>             <p>Hymna nesymbolizuje len Európsku úniu, ale aj Európu v širšom zmysle. Báseň Óda na radosť vyjadruje Schillerovu idealistickú víziu, ktorú zdieľal aj Beethoven, že všetci ľudia sa stanú bratia.</p>             <p>V roku 1972 si Rada Európy vybrala Beethovenovu „Ódu na radosť“ za svoju hymnu. V roku 1985 predsedovia vlád a hlavy členských štátov EÚ schválili prijatie skladby za oficiálnu hymnu Európskej únie. <strong>Hymna nemá žiadny text, pozostáva iba z hudby.</strong>                <strong>Táto hymna vyjadruje v univerzálnom jazyku hudby ideály slobody, mieru a solidarity, ktoré sú spoločné pre celú Európu.</strong>             </p>             <p>Európska hymna v žiadnom prípade nenahrádza národné hymny členských štátov EÚ, skôr oslavuje ich spoločné hodnoty. Hymna sa hrá na oficiálnych slávnostiach, ktoré súvisia s Európskou úniou, a všeobecne na všetkých druhoch podujatí európskeho charakteru.</p>             <h3>Vypočujte si hymnu EÚ</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Vypočujte si hymnu EÚ</a> (02:07)</p>             <p>Hymnu nahral Mládežnícky dychový orchester Európskej únie pod taktovkou Andrého Reichlinga. Nahrávka pochádza z roku 1994 z divadla Teatro da Trinade v Lisabone. Hudobná úprava: Herbert von Karajan.*</p>             <p>*Všetky producentské a vlastnícke práva pre reprodukciu nahrávky vyhradené.</p>"
+            ],
+            "sl": [
+                "<p>                <strong>Evropska himna temelji na deveti simfoniji Ludwiga Van Beethovna iz leta 1823. Beethoven je uglasbil pesem Oda radosti</strong>, ki jo je leta 1785 napisal Friedrich von Schiller.</p>             <p>Evropska himna ni zgolj himna Evropske unije, marveč himna Evrope v najširšem pomenu. Schillerjeva Oda radosti odseva pesnikovo idealistično vizijo človeštva kot skupnosti bratskih narodov - vizijo, v katero je verjel tudi Beethoven.</p>             <p>Leta 1972 je Svet Evrope razglasil Beethovnovo Odo radosti za svojo himno, leta 1985 pa so jo predsedniki držav in vlad razglasili za uradno himno Evropske unije. <strong>Himna nima besedila in je inštrumentalna.</strong> Z univerzalnim jezikom glasbe <strong>izraža evropske ideale svobode, miru in solidarnosti.</strong>             </p>             <p>Evropska himna ne nadomešča državnih himn držav EU, temveč poudarja skupne vrednote. Himna se izvaja na uradnih slovesnostih, s katerimi se zaznamujejo dogodki, pomembni za Evropsko unijo, in na različnih prireditvah z evropskim značajem.</p>             <h3>Poslušajte evropsko himno</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Poslušajte evropsko himno</a> (02:07)</p>             <p>Himno izvaja Mladinski pihalni orkester Evropske unije pod taktirko Andréja Reichlinga. Posnetek je iz leta 1994 s predstave v Teatro da Trindade v Lizboni. Glasbeno priredbo je pripravil Herbert von Karajan.*</p>             <p>*Producent in avtor reproduciranega dela si pridržujeta vse pravice.</p>"
+            ],
+            "sv": [
+                "<p>Melodin kommer från <strong>sista satsen i Beethovens nionde symfoni från 1823</strong>, där han tonsatte Friedrich von Schillers ”Hymn till glädjen” från 1785.</p>             <p>Hymnen symboliserar inte bara EU utan hela Europa. I ”Hymn till glädjen” uttrycker Schiller sin vision om mänsklighetens förbrödring – en vision som Beethoven delade.</p>             <p>År 1972 antog Europarådet Beethovens tonsättning av ”Hymn till glädjen” som sin hymn. År 1985 antog EU:s stats- och regeringschefer den som EU:s officiella hymn. <strong>Den har ingen text –  </strong> på musikens universella och ordlösa språk <strong>uttrycker hymnen EU:s ideal om frihet, fred och solidaritet.</strong>             </p>             <p>Europahymnen ersätter inte ländernas nationalsånger. Tanken är i stället att hylla de värden länderna delar. Hymnen spelas i officiella EU-sammanhang och vid olika europeiska evenemang.</p>             <h3>Lyssna på Europahymnen</h3>             <p class=\"mp3_mediagallery\">                <a href=\"http://europa.eu/about-eu/basic-information/symbols/anthem/european-anthem-2012.mp3\">Lyssna på Europahymnen</a> (02:07)</p>             <p>Hymnen framförs av European Union Youth Wind Orchestra under ledning av André Reichling. Inspelningen är från Teatro da Trindade i Lissabon 1994. Herbert von Karajan står för det musikaliska arrangemanget.*</p>             <p>* Med ensamrätt för producenten och verkets ägare.</p>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_5d1a1f277267e13bcc69fd6287251c88"
+            ]
+        },
+        "download_item": {
+            "und": [
+                "download_item_5d1a1f277267e13bcc69fd6287251c88"
+            ]
+        }
+    }
+}

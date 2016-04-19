@@ -1,0 +1,112 @@
+{
+  "_id": "agencies",
+  "type": "category",
+  "default_language": "en",
+"languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "weight": {
+      "und": [
+        1
+      ]
+    },
+    "subject": {
+      "en": [
+        "Agencies"
+      ],
+      "bg": [
+        "Агенции"
+      ],
+      "cs": [
+        "Agentury"
+      ],
+      "da": [
+        "Agenturer"
+      ],
+      "de": [
+        "Agenturen"
+      ],
+      "et": [
+        "Asutused ja ametid"
+      ],
+      "el": [
+        "Οργανισμοί"
+      ],
+      "es": [
+        "Agencias"
+      ],
+      "fr": [
+        "Agences"
+      ],
+      "ga": [
+        "Gníomhaireachtaí"
+      ],
+      "hr": [
+        "Agencije"
+      ],
+      "it": [
+        "Agenzie"
+      ],
+      "lv": [
+        "Agenzie"
+      ],
+      "lt": [
+        "Agentūros"
+      ],
+      "hu": [
+        "Ügynökségek"
+      ],
+      "mt": [
+        "Aġenziji"
+      ],
+      "nl": [
+        "Instanties"
+      ],
+      "pl": [
+        "Agencje"
+      ],
+      "pt": [
+        "Agências"
+      ],
+      "ro": [
+        "Agenţii"
+      ],
+      "sk": [
+        "Agentúry"
+      ],
+      "sl": [
+        "Agencije"
+      ],
+      "fi": [
+        "Erillisvirastot"
+      ],
+      "sv": [
+        "Byråer"
+      ]
+    }
+  }
+}

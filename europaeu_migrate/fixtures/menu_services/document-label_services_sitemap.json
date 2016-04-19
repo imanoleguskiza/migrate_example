@@ -1,0 +1,210 @@
+{
+  "_id": "label_services_sitemap",
+  "type": "menu_service",
+  "default_language": "und",
+  "languages": [
+    "und",
+    "bg",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lv",
+    "lt",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "sv",
+    "tr",
+    "uk"
+  ],
+  "fields": {
+    "title": {
+      "bg": [
+        "Карта на сайта"
+      ],
+      "ca": [
+        "Mapa del web"
+      ],
+      "cs": [
+        "Mapa stránek"
+      ],
+      "cy": [
+        "Map o’r wefan"
+      ],
+      "da": [
+        "Oversigt"
+      ],
+      "de": [
+        "Wegweiser"
+      ],
+      "und": [
+        "Sitemap"
+      ],
+      "el": [
+        "Περιεχόμενα"
+      ],
+      "es": [
+        "Mapa del sitio"
+      ],
+      "et": [
+        "Sisujuht"
+      ],
+      "fi": [
+        "Sivukartta"
+      ],
+      "fr": [
+        "Plan du site"
+      ],
+      "ga": [
+        "Mapa suímh"
+      ],
+      "hr": [
+        "Plan stranice"
+      ],
+      "hu": [
+        "Honlaptérkép"
+      ],
+      "it": [
+        "Mappa del sito"
+      ],
+      "lt": [
+        "Svetainės struktūra"
+      ],
+      "lv": [
+        "Vietnes plāns"
+      ],
+      "mt": [
+        "Mappa tas-sit"
+      ],
+      "nl": [
+        "Sitemap"
+      ],
+      "pl": [
+        "Mapa strony"
+      ],
+      "pt": [
+        "Mapa do sítio"
+      ],
+      "ro": [
+        "Hartă site"
+      ],
+      "sk": [
+        "Mapa lokality"
+      ],
+      "sl": [
+        "Zemljevid spletišča"
+      ],
+      "sv": [
+        "Översikt"
+      ],
+      "tr": [
+        "Site map"
+      ],
+      "uk": [
+        "Карта сайту"
+      ]
+    },
+    "weight": {
+      "und": [
+        2
+      ]
+    },
+    "link": {
+      "bg": [
+        "abouteuropa/sitemap"
+      ],
+      "ca": [
+        "abouteuropa/sitemap"
+      ],
+      "cs": [
+        "abouteuropa/sitemap"
+      ],
+      "da": [
+        "abouteuropa/sitemap"
+      ],
+      "de": [
+        "abouteuropa/sitemap"
+      ],
+      "el": [
+        "abouteuropa/sitemap"
+      ],
+      "und": [
+        "abouteuropa/sitemap"
+      ],
+      "es": [
+        "abouteuropa/sitemap"
+      ],
+      "et": [
+        "abouteuropa/sitemap"
+      ],
+      "fi": [
+        "abouteuropa/sitemap"
+      ],
+      "fr": [
+        "abouteuropa/sitemap"
+      ],
+      "ga": [
+        "abouteuropa/sitemap"
+      ],
+      "hr": [
+        "abouteuropa/sitemap"
+      ],
+      "hu": [
+        "abouteuropa/sitemap"
+      ],
+      "it": [
+        "abouteuropa/sitemap"
+      ],
+      "lt": [
+        "abouteuropa/sitemap"
+      ],
+      "lv": [
+        "abouteuropa/sitemap"
+      ],
+      "mt": [
+        "abouteuropa/sitemap"
+      ],
+      "nl": [
+        "abouteuropa/sitemap"
+      ],
+      "pl": [
+        "abouteuropa/sitemap"
+      ],
+      "pt": [
+        "abouteuropa/sitemap"
+      ],
+      "ro": [
+        "abouteuropa/sitemap"
+      ],
+      "sk": [
+        "abouteuropa/sitemap"
+      ],
+      "sl": [
+        "abouteuropa/sitemap"
+      ],
+      "sv": [
+        "abouteuropa/sitemap"
+      ],
+      "tr": [
+        "abouteuropa/sitemap"
+      ],
+      "uk": [
+        "abouteuropa/sitemap"
+      ]
+    }
+  }
+}

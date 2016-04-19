@@ -1,0 +1,47 @@
+{
+    "_id": "2c45d87ea869f61c8f27e65acac309d6",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "und",
+        "hr"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2013-01-31 18:24:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                57
+            ]
+        },
+        "parent": {
+            "und": [
+                "bd24ea227a39b440a2861491af5f056f"
+            ]
+        },
+        "level": {
+            "und": [
+                2
+            ]
+        },
+        "title": {
+            "und": [
+                "Have your say"
+            ],
+            "hr": [
+                "Iznesite svoje mišljenje"
+            ]
+        },
+        "link": {
+            "und": [
+                "Placeholderforsectionidexpage"
+            ],
+            "hr": [
+                "empty"
+            ]
+        }
+    }
+}

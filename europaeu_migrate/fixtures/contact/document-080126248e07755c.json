@@ -1,0 +1,226 @@
+{
+  "_id": "080126248e07755c",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e07755c",
+        "080126248e07755c",
+        "080126248e07755c"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейско училище по администрация"
+      ],
+      "cs": [
+        "Evropská správní škola"
+      ],
+      "da": [
+        "Den Europæiske Forvaltningsskole"
+      ],
+      "de": [
+        "Europäische Verwaltungsakademie"
+      ],
+      "el": [
+        "Ευρωπαϊκή Σχολή Δημόσιας Διοίκησης"
+      ],
+      "en": [
+        "European School of Administration"
+      ],
+      "es": [
+        "Escuela Europea de Administración"
+      ],
+      "et": [
+        "Euroopa Haldusjuhtimise Kool"
+      ],
+      "fi": [
+        "EU:n henkilöstökoulutuskeskus"
+      ],
+      "fr": [
+        "École européenne d'administration"
+      ],
+      "ga": [
+        "Scoil Riaracháin na hEorpa"
+      ],
+      "hr": [
+        "Europska škola za javnu upravu"
+      ],
+      "hu": [
+        "Európai Közigazgatási Iskola"
+      ],
+      "it": [
+        "Scuola europea di amministrazione"
+      ],
+      "lt": [
+        "Europos administravimo mokykla"
+      ],
+      "lv": [
+        "Eiropas Administrācijas skola"
+      ],
+      "mt": [
+        "l-Iskola Ewropea tal-Amministrazzjoni"
+      ],
+      "nl": [
+        "Europese Bestuursschool"
+      ],
+      "pl": [
+        "Europejska Szkoła Administracji"
+      ],
+      "pt": [
+        "Escola Europeia de Administração"
+      ],
+      "ro": [
+        "Şcoala Europeană de Administraţie"
+      ],
+      "sk": [
+        "Európska škola verejnej správy"
+      ],
+      "sl": [
+        "Evropska šola za upravo"
+      ],
+      "sv": [
+        "Europeiska förvaltningsskolan"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/eas_logo.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>rue De Mot/de Motstraat 24</p> <p>B-1040 Bruxelles/Brussel</p> <p>Belgique/België</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 296 83 23"
+      ]
+    },
+    "link_url": {
+      "de": [
+        "http://europa.eu/eas/contact_fr.htm"
+      ],
+      "en": [
+        "http://europa.eu/eas/contact_en.htm"
+      ],
+      "fr": [
+        "http://europa.eu/eas/contact_fr.htm"
+      ]
+    },
+    "link_label": {
+      "de": [
+        "Contact the European School of Administration"
+      ],
+      "en": [
+        "Contact the European School of Administration"
+      ],
+      "fr": [
+        "Contact the European School of Administration"
+      ]
+    }
+  }
+}

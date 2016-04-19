@@ -1,0 +1,211 @@
+{
+  "_id": "080126248e472f5f",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "cs",
+    "da",
+    "de",
+    "bg",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "sv",
+    "fi",
+    "en"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e472f5f",
+        "080126248e472f5f",
+        "080126248e472f5f"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Единен съвет за преструктуриране(ЕСП)"
+      ],
+      "cs": [
+        "Jednotný výbor pro řešení krizí(SRB)"
+      ],
+      "da": [
+        "Den Fælles Afviklingsinstans(SRB)"
+      ],
+      "de": [
+        "Ausschuss für die einheitliche Abwicklung(SRB)"
+      ],
+      "el": [
+        "Ενιαίο Συμβούλιο Εξυγίανσης(ΕΣΕ)"
+      ],
+      "en": [
+        "The Single Resolution Board(SRB)"
+      ],
+      "es": [
+        "Junta Única de Resolución(JUR)"
+      ],
+      "et": [
+        "Ühtne Kriisilahendusnõukogu(SRB)"
+      ],
+      "fi": [
+        "Yhteinen kriisinratkaisuneuvosto(SRB)"
+      ],
+      "fr": [
+        "Conseil de résolution unique(CRU)"
+      ],
+      "ga": [
+        "An Bord Réitigh Aonair(BRA)"
+      ],
+      "hr": [
+        "Jedinstveni sanacijski odbor(SRB)"
+      ],
+      "hu": [
+        "Egységes Szanálási Testület(ESZT)"
+      ],
+      "it": [
+        "Comitato di risoluzione unico(SRB)"
+      ],
+      "lt": [
+        "Bendra pertvarkymo valdyba(BPV)"
+      ],
+      "lv": [
+        "Vienotā noregulējuma valde(Vnv)"
+      ],
+      "mt": [
+        "il-Bord Uniku ta’ Riżoluzzjoni(BUR)"
+      ],
+      "nl": [
+        "Gemeenschappelijke Afwikkelingsraad(GAR)"
+      ],
+      "pl": [
+        "Jednolita Rada ds. Restrukturyzacji i Uporządkowanej Likwidacji(SRB)"
+      ],
+      "pt": [
+        "Conselho Único de Resolução(CUR)"
+      ],
+      "ro": [
+        "Comitetul unic de rezoluție(SRB)"
+      ],
+      "sk": [
+        "Jednotná rada pre riešenie krízových situácií(SRB)"
+      ],
+      "sl": [
+        "Enotni odbor za reševanje(SRB)"
+      ],
+      "sv": [
+        "Gemensamma resolutionsnämnden(SRB)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/logo_srb.jpeg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p><span>Rue de la Science 27</span><br /><span>1049 Brussels</span><br /><span>Belgium</span></p>"
+      ]
+    },
+    "social_url": {
+      "en": [
+        "https://www.linkedin.com/company/single-resolution-board",
+        "https://twitter.com/EU_SRB"
+      ]
+    },
+    "social_label": {
+      "en": [
+        "LinkedIn",
+        "Twitter"
+      ]
+    }
+  }
+}

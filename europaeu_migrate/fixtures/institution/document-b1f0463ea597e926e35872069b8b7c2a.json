@@ -1,0 +1,1240 @@
+{
+    "_id": "b1f0463ea597e926e35872069b8b7c2a",
+    "type": "institution",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/srb/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Единен съвет за преструктуриране (ЕСП)"
+            ],
+            "cs": [
+                "Jednotný výbor pro řešení krizí (SRB)"
+            ],
+            "da": [
+                "Den Fælles Afviklingsinstans (SRB)"
+            ],
+            "de": [
+                "Ausschuss für die einheitliche Abwicklung (SRB)"
+            ],
+            "el": [
+                "Ενιαίο Συμβούλιο Εξυγίανσης (SRB)"
+            ],
+            "en": [
+                "Single Resolution Board (SRB)"
+            ],
+            "es": [
+                "Junta Única de Resolución (JUR)"
+            ],
+            "et": [
+                "Ühtne Kriisilahendusnõukogu"
+            ],
+            "fi": [
+                "Yhteinen kriisinratkaisuneuvosto (SRB)"
+            ],
+            "fr": [
+                "Conseil de résolution unique (CRU)"
+            ],
+            "ga": [
+                "An Bord Réitigh Aonair  (BRA)"
+            ],
+            "hr": [
+                "Jedinstveni sanacijski odbor (SRB)"
+            ],
+            "hu": [
+                "Egységes Szanálási Testület (ESZT)"
+            ],
+            "it": [
+                "Comitato di risoluzione unico (SRB)"
+            ],
+            "lt": [
+                "Bendra pertvarkymo valdyba (BPV)"
+            ],
+            "lv": [
+                "Vienotā noregulējuma valde (VNV)"
+            ],
+            "mt": [
+                "Il-Bord Uniku ta' Riżoluzzjoni (BUR)"
+            ],
+            "nl": [
+                "Gemeenschappelijke afwikkelingsraad (GAR)"
+            ],
+            "pl": [
+                "Jednolita Rada ds. Restrukturyzacji i Uporządkowanej Likwidacji (SRB)"
+            ],
+            "pt": [
+                "Conselho Único de Resolução  (SRB)"
+            ],
+            "ro": [
+                "Comitetul unic de rezoluție (SRB)"
+            ],
+            "sk": [
+                "Jednotná rada pre riešenie krízových situácií (SRB)"
+            ],
+            "sl": [
+                "Enotni odbor za reševanje (SRB)"
+            ],
+            "sv": [
+                "Gemensamma resolutionsnämnden"
+            ]
+        },
+        "category": {
+            "und": [
+                "23337c33",
+                "40261c47"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA"
+            ],
+            "cs": [
+                "EUROPA"
+            ],
+            "da": [
+                "EUROPA"
+            ],
+            "de": [
+                "EUROPA"
+            ],
+            "el": [
+                "EUROPA"
+            ],
+            "en": [
+                "EUROPA"
+            ],
+            "es": [
+                "EUROPA"
+            ],
+            "et": [
+                "EUROPA"
+            ],
+            "fi": [
+                "EUROPA"
+            ],
+            "fr": [
+                "EUROPA"
+            ],
+            "ga": [
+                "EUROPA"
+            ],
+            "hr": [
+                "EUROPA"
+            ],
+            "hu": [
+                "EUROPA"
+            ],
+            "it": [
+                "EUROPA"
+            ],
+            "lt": [
+                "EUROPA"
+            ],
+            "lv": [
+                "EUROPA"
+            ],
+            "mt": [
+                "EUROPA"
+            ],
+            "nl": [
+                "EUROPA"
+            ],
+            "pl": [
+                "EUROPA"
+            ],
+            "pt": [
+                "EUROPA"
+            ],
+            "ro": [
+                "EUROPA"
+            ],
+            "sk": [
+                "EUROPA"
+            ],
+            "sl": [
+                "EUROPA"
+            ],
+            "sv": [
+                "EUROPA"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM/A05"
+            ],
+            "cs": [
+                "COMM/COMM/A05"
+            ],
+            "da": [
+                "COMM/COMM/A05"
+            ],
+            "de": [
+                "COMM/COMM/A05"
+            ],
+            "el": [
+                "COMM/COMM/A05"
+            ],
+            "en": [
+                "COMM/COMM/A05"
+            ],
+            "es": [
+                "COMM/COMM/A05"
+            ],
+            "et": [
+                "COMM/COMM/A05"
+            ],
+            "fi": [
+                "COMM/COMM/A05"
+            ],
+            "fr": [
+                "COMM/COMM/A05"
+            ],
+            "ga": [
+                "COMM/COMM/A05"
+            ],
+            "hr": [
+                "COMM/COMM/A05"
+            ],
+            "hu": [
+                "COMM/COMM/A05"
+            ],
+            "it": [
+                "COMM/COMM/A05"
+            ],
+            "lt": [
+                "COMM/COMM/A05"
+            ],
+            "lv": [
+                "COMM/COMM/A05"
+            ],
+            "mt": [
+                "COMM/COMM/A05"
+            ],
+            "nl": [
+                "COMM/COMM/A05"
+            ],
+            "pl": [
+                "COMM/COMM/A05"
+            ],
+            "pt": [
+                "COMM/COMM/A05"
+            ],
+            "ro": [
+                "COMM/COMM/A05"
+            ],
+            "sk": [
+                "COMM/COMM/A05"
+            ],
+            "sl": [
+                "COMM/COMM/A05"
+            ],
+            "sv": [
+                "COMM/COMM/A05"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "de": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "el": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "en": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "es": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "et": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fi": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hu": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "it": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lv": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "mt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "nl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ro": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sk": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sv": [
+                "58-Document for general distribution (intended for the general public)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Единният съвет за преструктуриране е независима, самофинансираща се агенция на ЕС, имаща за задача да гарантира, че кредитните институции, изправени пред сериозни затруднения, се преструктурират ефективно с минимални разходи за данъкоплатците и реалната икономика. Единният съвет отговаря също за управлението на Единния фонд за преструктуриране."
+            ],
+            "cs": [
+                "Jednotný výbor pro řešení krizí je nezávislou samofinancovanou agenturou EU, jejímž úkolem je zajistit, aby byly závažné problémy úvěrových institucí řešeny účinným způsobem, a to s minimálními náklady pro daňové poplatníky a reálnou ekonomiku. Výbor bude rovněž odpovědný za správu jednotného fondu pro řešení krizí."
+            ],
+            "da": [
+                "Den Fælles Afviklingsinstans er et uafhængigt og selvfinansierende EU-agentur, der skal sikre, at pengeinstitutter med alvorlige problemer kan afvikles effektivt og med de lavest mulige udgifter for skatteyderne og realøkonomien. Den bliver også ansvarlig for at forvalte Den Fælles Afviklingsfond."
+            ],
+            "de": [
+                "Der Ausschuss für die einheitliche Abwicklung ist eine unabhängige, selbstfinanzierte Agentur, die gewährleisten soll, dass Kreditinstitute, die in ernsthaften Schwierigkeiten sind, wirksam und für Steuerzahler und Realwirtschaft möglichst kostengünstig abgewickelt werden. Daneben ist der Ausschuss für die Verwaltung des einheitlichen Abwicklungsfonds zuständig. "
+            ],
+            "el": [
+                "Το Ενιαίο Συμβούλιο Εξυγίανσης είναι ανεξάρτητος, αυτοχρηματοδοτούμενος οργανισμός της ΕΕ επιφορτισμένος να διασφαλίζει την αποτελεσματική εξυγίανση των πιστωτικών ιδρυμάτων που αντιμετωπίζουν σοβαρές δυσχέρειες, με ελάχιστο κόστος για τους φορολογουμένους και την πραγματική οικονομία. Θα αναλάβει επίσης τη διαχείριση του Ενιαίου Ταμείου Εξυγίανσης."
+            ],
+            "en": [
+                "The Single Resolution Board is an independent, self-financed EU agency tasked with ensuring that credit institutions facing serious difficulties are resolved effectively, with minimal costs to taxpayers and the real economy. It will also be responsible for managing the Single Resolution Fund."
+            ],
+            "es": [
+                "La Junta Única de Resolución es una agencia de la UE autofinanciada e independiente, encargada de garantizar la resolución eficaz de las entidades de crédito que atraviesan serias dificultades, con el coste mínimo para los contribuyentes y la economía real. También se encargará de gestionar el Fondo Único de Resolución."
+            ],
+            "et": [
+                "Ühtne Kriisilahendusnõukogu on sõltumatu, isemajandav ELi amet, mille ülesanne on tagada tõsiste raskustega silmitsi seisvate krediidiasutuste tõhus kriisilahendus minimaalsete kuludega maksumaksjatele ja reaalmajandusele. Amet vastutab ka ühtse kriisilahendusfondi haldamise eest."
+            ],
+            "fi": [
+                "Yhteinen kriisinratkaisuneuvosto (SRB) on itsenäinen, omarahoitteinen EU:n erillisvirasto, jonka tehtävänä on varmistaa, että luottolaitosten vakavat vaikeudet voidaan ratkaista tehokkaasti  ja että kustannukset veronmaksajille ja reaalitaloudelle jäävät mahdollisimman vähäisiksi. Se vastaa myös yhteisen kriisinratkaisurahaston hallinnoinnista."
+            ],
+            "fr": [
+                "Le Conseil de résolution unique (CRU) est une agence de l’UE autofinancée et indépendante, chargée de procéder à la résolution efficace des établissements de crédit confrontés à de graves difficultés, à moindre coût pour les contribuables et pour l’économie réelle. Il assumera également la gestion du Fonds de résolution unique."
+            ],
+            "ga": [
+                "Is éard atá sa Bhord Réitigh Aonair gníomhaireacht fhéinmhaoinithe neamhspleách de chuid an Aontais a bhfuil de chúram air a chinntiú go gcuirfear réiteach éifeachtach ar fáil d'institiúidí creidmheasa a bhfuil deacrachtaí tromchúiseacha os a gcomhair, ar chostas fíorbheag don cháiníocóir agus don fhíorgheilleagar. Beidh sé freagrach as an gCiste Réitigh Aonair  a bhainistiú freisin."
+            ],
+            "hr": [
+                "Jedinstveni sanacijski odbor neovisna je agencija EU-a koja se samostalno financira, a zadaća mu je osigurati da se kreditne institucije koje se suočavaju s ozbiljnim poteškoćama učinkovito saniraju, s minimalnim troškom za porezne obveznike i realno gospodarstvo. Također će biti odgovoran za upravljanje Jedinstvenim fondom za sanaciju."
+            ],
+            "hu": [
+                "Az Egységes Szanálási Testület független, önfinanszírozó európai uniós ügynökség. Feladata biztosítani, hogy a súlyos problémákkal szembesülő hitelintézmények pénzügyi helyzetét minél hatékonyabban rendezni lehessen, és hogy a szanálásnak az adófizetők és a reálgazdaság által viselt költségei minimálisra csökkenjenek. A testület felel emellett az Egységes Szanálási Alap kezeléséért is."
+            ],
+            "it": [
+                "Il Comitato di risoluzione unico è un'agenzia indipendente dell'UE autofinanziata che è incaricata di garantire che la situazione degli enti creditizi in gravi difficoltà sia risolta efficacemente, con costi minimi per i contribuenti e l’economia reale. È inoltre responsabile della gestione del Fondo di risoluzione unico."
+            ],
+            "lt": [
+                "Bendra pertvarkymo valdyba yra nepriklausoma, savarankiškai savo veiklą finansuojanti ES agentūra, įpareigota užtikrinti, kad su dideliais sunkumais susiduriančios kredito įstaigos būtų veiksmingai pertvarkoms ir tai kuo mažiau kainuotų mokesčių mokėtojams ir realiajai ekonomikai. Ji taip pat atsakinga už Bendrą pertvarkymo fondą."
+            ],
+            "lv": [
+                "Vienotā noregulējuma valde ir neatkarīga ES aģentūra, kura pati sevi finansē un kurai ir jāgādā, lai kredītiestādēm, kuras saskaras ar grūtībām, tiktu rasti efektīvi risinājumi un saistītās izmaksas nodokļu maksātājiem un reālajai ekonomikai būtu minimālas. Valdes ziņā ir arī Vienotā banku noregulējuma fonda vadība."
+            ],
+            "mt": [
+                "Il-Bord Uniku ta’ Riżoluzzjoni hu aġenżija tal-UE indipendenti,  li tiffinanzja lilha nfisha bil-kompitu li tiżgura li l-istituzzjonijiet ta’ kreditu li qegħdin iħabbtu wiċċhom ma’ diffikultajiet serji jiġu riżoluti b’mod effiċjenti, bi spejjeż minimi għan-nies li jħallsu t-taxxi u l-ekonomija reali. Se tkun ukoll responsabbli għall-immaniġġjar tal-Bord Uniku ta' Riżoluzzjoni."
+            ],
+            "nl": [
+                "De gemeenschappelijke afwikkelingsraad is een onafhankelijk zichzelf bedruipend EU-agentschap dat het faillissement van banken en andere kredietinstellingen in goede banen moet leiden zodat de kosten voor de belastingbetalers en de reële economie zo laag mogelijk blijven. Het agentschap is ook belast met het beheer van het gemeenschappelijk afwikkelingsfonds."
+            ],
+            "pl": [
+                "Jednolita Rada ds. Restrukturyzacji i Uporządkowanej Likwidacji jest niezależną, samofinansującą się agencją UE. Jej zadanie polega na zapewnieniu instytucjom kredytowym przeżywającym poważne problemy pomocy w ich skutecznym rozwiązaniu, przy minimalnych kosztach dla podatników i gospodarki realnej. Rada będzie również odpowiedzialna za zarządzanie jednolitym funduszem restrukturyzacji i uporządkowanej likwidacji."
+            ],
+            "pt": [
+                "O Conselho Único de Resolução é uma agência da UE, independente e autofinanciada, incumbida de garantir que as graves dificuldades que atravessam a instituições de crédito são resolvidas de forma eficaz e com custos mínimos para o contribuinte e para a economia real. Cabe-lhe também a gestão do Fundo Único de Resolução."
+            ],
+            "ro": [
+                "Comitetul unic de rezoluție este o agenție a UE, independentă și autofinanțată, a cărei misiune este să se asigure că redresarea instituțiilor de credit care se confruntă cu dificultăți grave se realizează eficient și cu costuri minime pentru contribuabili și pentru economia reală. De asemenea, răspunde de gestionarea Fondului unic de rezoluție."
+            ],
+            "sk": [
+                "Jednotná rada pre riešenie krízových situácií je nezávislá, samostatne financovaná agentúra EÚ poverená úlohou zabezpečiť účinné riešenie situácie úverových inštitúcií čeliacich závažným ťažkostiam, a to s minimálnymi nákladmi pre daňovníkov a reálnu ekonomiku. Takisto bude zodpovedná za riadenie jednotného fondu na riešenie krízových situácií bánk."
+            ],
+            "sl": [
+                "Enotni odbor za reševanje (SRB) je neodvisna agencija EU in se financira sam. Skrbi, da reševanje kreditnih ustanov v hudih težavah poteka uspešno in s kar najmanjšimi stroški za davkoplačevalce in gospodarstvo. Pristojen bo tudi za upravljanje enotnega sklada za reševanje."
+            ],
+            "sv": [
+                "Gemensamma resolutionsnämnden är en oberoende, självfinansierad EU-byrå som ska se till att krisdrabbade kreditinstitut omstruktureras och avvecklas på ett effektivt sätt, till lägsta möjliga kostnad för skattebetalarna och realekonomin. Byrån ska också sköta den gemensamma resolutionsfonden."
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "Банка",
+                "Преструктуриране",
+                "Фонд",
+                "ЕФП",
+                "Банков съюз на ЕС",
+                "Банки в затруднение",
+                "Планове за преструктурира",
+                "Единен механизъм за прест",
+                "ЕМП",
+                "Национални органи за прес",
+                "национални органи",
+                "Европейска централна банк",
+                "Директива за възстановява",
+                "преструктуриране на банки",
+                "Европейски съюз",
+                "ЕС",
+                "ЕСП",
+                "Единен съвет за преструкт"
+            ],
+            "cs": [
+                "banka",
+                "řešení",
+                "fond",
+                "jednotný fond pro řešení krizí",
+                "SRF",
+                "bankovní unie EU",
+                "banky v úpadku",
+                "plány řešení krizí",
+                "jednotný mechanismus pro řešení krizí",
+                "SRM",
+                "vnitrostátní orgány příslušné k řešen",
+                "NRA",
+                "Evropská centrální banka",
+                "ECB",
+                "směrnice o ozdravných postupech a řešení kr",
+                "BRRD Evropská komise",
+                "Evropská unie",
+                "EU",
+                "SRB",
+                "Jednotný výbor pro řešení krizí"
+            ],
+            "da": [
+                "bank",
+                "afvikling",
+                "støtte",
+                "midler",
+                "finansiering",
+                "SRF",
+                "EU-bankunion",
+                "krakkede banker",
+                "afviklingsplaner",
+                "fælles afviklingsmekanisme",
+                "SRM",
+                "Nationale afviklingsmyndigheder",
+                "NRA'er",
+                "Den Europæiske Centralbank ECB",
+                "direktiv om genopretning og afvikling af banker",
+                "BRRD Europa-Kommissionen",
+                "Den Europæiske Union",
+                "EU",
+                "SRB",
+                "Den Fælles Afviklingsinstans"
+            ],
+            "de": [
+                "Bank",
+                "Abwicklung",
+                "Fonds",
+                "SRF",
+                "EU-Bankenunion",
+                "zahlungsunfähige Banken",
+                "insolvenzbedrohte Fina",
+                "Abwicklungspläne",
+                "Einheitlicher Abwicklungsmechanismus",
+                "SRM",
+                "nationale Abwicklungsbehörden",
+                "Nationale Regulierungsbehörden (NRB)",
+                "Europäische Zentralbank (EZB)",
+                "Richtlinie über Bankensanierung und -abwicklung",
+                "BRRD",
+                "Europäische Kommission",
+                "Europäische Union",
+                "EU",
+                "SRB",
+                "Ausschuss für die einheitliche Abwicklung"
+            ],
+            "el": [
+                "Τράπεζα",
+                "Εξυγίανση",
+                "Ταμείο",
+                "SRF",
+                "ΕΤΕ",
+                "Τραπεζική Ένωση της ΕΕ",
+                "προβληματικές τράπεζες",
+                "Σχέδια εξυγίανσης",
+                "Ενιαίος Μηχανισμός Εξυγία",
+                "SRM",
+                "ΕΜΕ",
+                "Εθνικές Αρχές Εξυγίανσης",
+                "Εθνικές Ρυθμιστικές Αρχές",
+                "Ευρωπαϊκή Κεντρική Τράπεζ",
+                "Οδηγία για την ανάκαμψη κα",
+                "BRRD",
+                "ΟΑΕΤ",
+                "Ευρωπαϊκή Επιτρο",
+                "Ευρωπαϊκή Ένωση",
+                "ΕΕ",
+                "SRB",
+                "ΕΣΕ",
+                "Ενιαίο Συμβούλιο Εξυγίανσ"
+            ],
+            "en": [
+                "Bank",
+                "Resolution",
+                "Fund",
+                "SRF",
+                "EU Banking Union",
+                "failing banks",
+                "Resolution Plans",
+                "Single Resolution Mechanism",
+                "SRM",
+                "National Resolution Authorities",
+                "NRAs",
+                "European Central Bank ECB",
+                "Bank Recovery and Resolution Directive",
+                "BRRD     European Commission",
+                "European Union",
+                "EU",
+                "SRB",
+                "Single Resolution Board"
+            ],
+            "es": [
+                "Banco",
+                "Resolución",
+                "Fondo",
+                "FUR",
+                "Unión bancaria de la UE",
+                "bancos en crisis",
+                "Planes de resolución",
+                "Mecanismo único de resolución",
+                "MUR",
+                "Autoridades nacionales de resolución",
+                "ANR",
+                "Banco Central Europeo BCE",
+                "Directiva sobre reestructuración y resolución",
+                "DRRB     Comisión Europea",
+                "Unión Europea",
+                "UE",
+                "JUR",
+                "Junta Única de Resolución"
+            ],
+            "et": [
+                "pank",
+                "kriisilahendus",
+                "fond",
+                "ühtne kriisilahendusfond",
+                "ELi pangandusliit",
+                "raskustes olevad pangad",
+                "kriisilahenduse kavad",
+                "ühtne kriisilahenduskord",
+                "ühtne kriisilahenduskord",
+                "liikmesriikide kriisilahendusasutused",
+                "liikmesriikide kriisilahendusasutused",
+                "Euroopa Keskpank",
+                "pankade finantsseisundi taastamise ja kriisilahe",
+                "pankade finantsseisundi taastamise ja kriisilahe",
+                "Euroopa Liit",
+                "EL",
+                "Ühtne Kriisilahendusnõukogu",
+                "Ühtne Kriisilahendusnõukogu"
+            ],
+            "fi": [
+                "pankki",
+                "ratkaisu",
+                "rahasto",
+                "SRF, Single Resolution Fund",
+                "EU:n pankkiunioni",
+                "ongelmapankki",
+                "kriisinratkaisusuunnitelmat",
+                "yhteinen kriisinratkaisumekanismi",
+                "SRM",
+                "kansalliset kriisinratkaisuviranomaiset",
+                "NRA",
+                "Euroopan keskuspankki, EKP",
+                "pankkien elvytys- ja kriisinratkaisudirektiivi",
+                "BRRD, Euroopan komissio",
+                "Euroopan unioni",
+                "EU",
+                "SRB",
+                "yhteinen kriisinratkaisuneuvosto"
+            ],
+            "fr": [
+                "banque",
+                "résolution",
+                "fonds",
+                "Fonds de résolution unique",
+                "Union bancaire de l’UE",
+                "banques défaillantes",
+                "faillites de banques",
+                "plans de résolution",
+                "mécanisme de résolution unique",
+                "MRU",
+                "autorités nationales de résolution",
+                "ANR",
+                "Banque centrale européenne (BCE)",
+                "Directive relative au redressement des banques e",
+                "BRRD     Commission européenne",
+                "Union européenne",
+                "UE",
+                "CRU",
+                "Conseil de résolution unique"
+            ],
+            "ga": [
+                "Banc",
+                "Réiteach",
+                "Ciste",
+                "SRF",
+                "Aontas Baincéireachta",
+                "bainc a bhfuil ag cliseadh orthu",
+                "Pleananna Réitigh",
+                "Sásra Réitigh Aonair",
+                "SRM",
+                "Údaráis Náisiúnta Réitigh",
+                "NRAanna",
+                "An Banc Ceannais Eorpach (BCE)",
+                "An Treoir maidir le Téarnamh agus Réiteach na",
+                "BRRD-----An Coimisiún Eorpach",
+                "an tAontas Eorpach",
+                "AE",
+                "SRB",
+                "An Bord Réitigh Aonair"
+            ],
+            "hr": [
+                "Banka",
+                "Sanacija",
+                "Fond",
+                "SRF",
+                "Bankovna unija EU-a",
+                "posrnule banke",
+                "Planovi sanacije",
+                "Jedinstveni sanacijski mehanizam",
+                "SRM",
+                "Nacionalna sanacijska tijela",
+                "NRA-ovi",
+                "Europska središnja banka ESB",
+                "Direktiva o oporavku i sanaciji banaka",
+                "BRRD Europska komisija",
+                "Europska unija",
+                "EU",
+                "SRB",
+                "Jedinstveni sanacijski odbor"
+            ],
+            "hu": [
+                "bank",
+                "szanálás",
+                "alap",
+                "Egységes Szanálási Alap",
+                "Egységes Bankszaná",
+                "bankunió",
+                "támogatásra szoruló bank",
+                "bajban lévő bank",
+                "szanálási tervek",
+                "egységes szanálási mechanizmus",
+                "egységes szanálási mechanizmus",
+                "tagállami szanálási hatóságok",
+                "nemzeti szanálási hatóságok",
+                "Európai Központi Bank",
+                "EKB",
+                "a bankok helyreállításáról és szanálásá",
+                "irányelv a hitelintézetek és befektetési vá",
+                "Európai Unió",
+                "EU",
+                "ESZT",
+                "Egységes Szanálási Testület"
+            ],
+            "it": [
+                "Banca",
+                "Risoluzione",
+                "Fondo",
+                "fondo di risoluzione unico, SRF",
+                "Unione bancaria dell'UE",
+                "banche in difficoltà, banche in dissesto",
+                "piani di risoluzione delle crisi",
+                "Meccanismo di risoluzione unico",
+                "SRM",
+                "Autorità nazionali di risoluzione",
+                "NRA, autorità nazionali di risoluzione",
+                "Banca centrale europea, BCE",
+                "direttiva sul risanamento e la risoluzione delle",
+                "BRRD, Commissione europea.",
+                "Unione europea",
+                "UE",
+                "SRB",
+                "Comitato di risoluzione unico"
+            ],
+            "lt": [
+                "Bankas",
+                "Pertvarkymas",
+                "Fondas",
+                "BPF",
+                "ES bankų sąjunga",
+                "Žlungantys bankai",
+                "Pertvarkymo planai",
+                "Bendras pertvarkymo mechanizmas",
+                "BPeM",
+                "Nacionalinės pertvarkymo institucijos",
+                "NPI",
+                "Europos Centrinis Bankas (ECB)",
+                "Bankų gaivinimo ir pertvarkymo direktyva",
+                "BGPD     Europos Komisija",
+                "Europos Sąjunga",
+                "ES",
+                "BPV",
+                "Bendra pertvarkymo valdyba"
+            ],
+            "lv": [
+                "Banka",
+                "Noregulējums",
+                "Fonds",
+                "vienotais noregulējuma fonds",
+                "VNF",
+                "Banku savienība",
+                "maksātnespējīga banka",
+                "Noregulējuma plāni",
+                "Vienots noregulējuma mehānisms",
+                "VNM",
+                "Valstu noregulējuma iestādes",
+                "VNI",
+                "Eiropas Centrālā banka (ECB)",
+                "Banku atveseļošanas un noregulējuma direktīv",
+                "BRRD     Eiropas Komisija.",
+                "Eiropas Savienība",
+                "ES",
+                "VNV",
+                "Vienotā noregulējuma valde"
+            ],
+            "mt": [
+                "Bank",
+                "Riżoluzzjoni",
+                "Fond",
+                "SRF",
+                "Unjoni Bankarja tal-UE",
+                "banek li qed ifallu",
+                "Pjanijiet ta' Riżoluzzjoni",
+                "Mekkaniżmu Uniku ta’ Riżoluzzjoni",
+                "SRM",
+                "Awtoritajiet Nazzjonali ta’ Riżoluzzjoni",
+                "ARN",
+                "Bank Ċentrali Ewropew BĊE",
+                "Direttiva għall-Irkupru u r-Riżoluzzjoni Banka",
+                "BRRD     Kummissjoni Ewropea",
+                "Unjoni Ewropea",
+                "UE",
+                "BUR",
+                "Bord Uniku ta' Riżoluzzjoni"
+            ],
+            "nl": [
+                "bank",
+                "afwikkeling",
+                "liquidatie",
+                "fonds",
+                "SRF",
+                "GAF",
+                "bankenunie",
+                "faillissement",
+                "afwikkelingsplannen",
+                "gemeenschappelijk afwikkelingsmechanisme",
+                "SRM",
+                "GAM",
+                "nationale afwikkelingsautoriteiten",
+                "NAA's",
+                "Europese Centrale Bank",
+                "ECB",
+                "Herstel- en afwikkelingsrichtlijn voor de banken",
+                "BRRD",
+                "Europese Commissie",
+                "Europese Unie",
+                "EU",
+                "SRB",
+                "GAR",
+                "Gemeenschappelijke afwikkelingsraad"
+            ],
+            "pl": [
+                "bank",
+                "restrukturyzacja",
+                "fundusz",
+                "SRF",
+                "unia bankowa",
+                "upadające banki",
+                "plany restrukturyzacji i uporządkowanej likwida",
+                "jednolity mechanizm restrukturyzacji i uporząd",
+                "SRM",
+                "krajowe organy ds. restrukturyzacji i uporządko",
+                "krajowe organy regulacyjne",
+                "Europejski Bank Centralny",
+                "EBC",
+                "dyrektywa w sprawie naprawy oraz restrukturyzacj",
+                "BRRD",
+                "Komisja Europejska",
+                "Unia Europejska",
+                "UE",
+                "SRB",
+                "Jednolita Rada ds. Restrukturyzacji i Uporządko"
+            ],
+            "pt": [
+                "Banco",
+                "Resolução",
+                "Fundo",
+                "SRF",
+                "FUR",
+                "União Bancária da UE",
+                "bancos insolventes",
+                "planos de resolução",
+                "Mecanismo Único de Resolução",
+                "SRM",
+                "MUR",
+                "Autoridades de Resolução Nacionais",
+                "NRA",
+                "Banco Central Europeu BCE",
+                "Diretiva Recuperação e Resolução Bancárias",
+                "BRRD",
+                "DRRB",
+                "Comissão Europeia",
+                "União Europeia",
+                "UE",
+                "SRB",
+                "Conselho Único de Resolução"
+            ],
+            "ro": [
+                "bancă",
+                "rezoluție",
+                "fond",
+                "Fondul unic de rezoluție",
+                "Uniunea bancară",
+                "bănci falimentare",
+                "planuri de rezoluție",
+                "mecanismul unic de rezoluție",
+                "MUR",
+                "autorități naționale de rezoluție",
+                "ANR",
+                "Banca Centrală Europeană (BCE)",
+                "directiva privind redresarea și rezoluția inst",
+                "BRRD",
+                "Comisia Europeană",
+                "Uniunea Europeană",
+                "UE",
+                "SRB",
+                "Comitetul unic de rezoluție"
+            ],
+            "sk": [
+                "Banka",
+                "riešenie",
+                "Fond",
+                "jednotný fond na riešenie krízových situáci",
+                "Banková únia EÚ",
+                "zlyhávajúce banky",
+                "banky v ťažkostiach",
+                "plán riešenia krízovej situácie",
+                "Jednotný mechanizmus riešenia krízových situ",
+                "SRM",
+                "vnútroštátne orgány pre riešenie krízovýc",
+                "vnútroštátne orgány pre riešenie krízovýc",
+                "Európska centrálna banka (ECB)",
+                "Smernica o ozdravení a riešení krízových si",
+                "BRRD",
+                "Európska komisia",
+                "Európska únia",
+                "EÚ",
+                "SRB",
+                "Jednotná rada pre riešenie krízových situác"
+            ],
+            "sl": [
+                "banka",
+                "rešitev, reševanje",
+                "sklad",
+                "enotni sklad za reševanje",
+                "bančna unija EU",
+                "banke v težavah",
+                "načrti reševanja",
+                "enotni mehanizem za reševanje",
+                "SRM",
+                "nacionalni organi za reševanje bank",
+                "nacionalni organi za reševanje bank",
+                "evropska centralna banka (ECB)",
+                "direktiva o sanaciji in reševanju bank",
+                "direktiva o sanaciji in reševanju bank, BRRD",
+                "evropska unija",
+                "eu",
+                "SRB",
+                "enotni odbor za reševanje"
+            ],
+            "sv": [
+                "bank",
+                "resolution",
+                "rekonstruktion",
+                "fond",
+                "gemensamma resolutionsfonden",
+                "SRF",
+                "EU:s bankunion",
+                "krisdrabbade banker",
+                "rekonstruktionsplaner",
+                "gemensam resolutionsmekanism",
+                "SRM",
+                "nationella resolutionsmyndigheter",
+                "Europeiska centralbanken (ECB)",
+                "Direktivet om återhämtning och resolution av b",
+                "Europeiska kommissionen",
+                "EU-kommissionen",
+                "Europeiska unionen",
+                "EU",
+                "SRB",
+                "Gemensamma resolutionsnämnden"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "info1": {
+            "bg": [
+                "<h2>Накратко</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Роля</strong>: гарантиране на организирано преструктуриране на банки в затруднение с минимално въздействие върху реалната икономика и публичните финанси на участващите страни от ЕС и извън него</li>                   <li>                      <strong>Директор</strong>: Elke König</li>                   <li>                      <strong>Партньори</strong>: Европейска комисия, Европейска централна банка (ЕЦБ), национални органи за преструктуриране, Европейски банков орган (ЕБО)</li>                   <li>                      <strong>Създаден</strong>: януари 2015 г.</li>                   <li>                      <strong>Брой служители</strong>:  все още в подготвителна фаза. Цел: максимум 300 до началото на 2017 г.</li>                   <li>                      <strong>Местоположение</strong>: Брюксел (Белгия)</li>                   <li>                      <strong>Уебсайт</strong>: <span class=\"link-disabled\">Единен съвет за преструктуриране</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Избор на превод за предходната връзка\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Избор на превод за предходната връзка\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "cs": [
+                "<h2>Přehled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Úloha</strong>: Zajistit řádné řešení krizí bank na pokraji úpadku s minimálními dopady na reálnou ekonomiku a veřejné finance zúčastněných zemí EU a dalších subjektů.</li>                   <li>                      <strong>Ředitelka</strong>: Elke Königová</li>                   <li>                      <strong>Partneři</strong>: Evropská komise, Evropská centrální banka (ECB), vnitrostátní orgány příslušné k řešení krizí (NRA), Evropský orgán pro bankovnictví (EBA)</li>                   <li>                      <strong>Datum zřízení</strong>: leden 2015</li>                   <li>                      <strong>Počet zaměstnanců</strong>: Výbor teprve svoji činnost zahajuje. Cíl: maximálně 300 zaměstnanců do roku 2017</li>                   <li>                      <strong>Sídlo</strong>: Brusel (Belgie)</li>                   <li>                      <strong>Internetové stránky</strong>: <span class=\"link-disabled\">Jednotný výbor pro řešení krizí</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Vybrat překlad k předcházejícímu odkazu\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Vybrat překlad k předcházejícímu odkazu\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "da": [
+                "<h2>Oversigt</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rolle</strong>: At sikre en velordnet afvikling af nødlidende banker med minimale omkostninger for realøkonomien og statsfinanserne i de medvirkende EU-lande og øvrige lande</li>                   <li>                      <strong>Direktør</strong>: Elke König</li>                   <li>                      <strong>Partnere</strong>: EU-Kommissionen, Den Europæiske Centralbank (ECB), nationale afviklingsmyndigheder, Den Europæiske Banktilsynsmyndighed (EBA)</li>                   <li>                      <strong>Oprettet i</strong>: Januar 2015</li>                   <li>                      <strong>Antal ansatte</strong>: : Stadig i opstartfasen. Mål: op til 300 i begyndelsen af 2017</li>                   <li>                      <strong>Hjemsted</strong>: Bruxelles (Belgien)</li>                   <li>                      <strong>Website</strong>: <span class=\"link-disabled\">Den Fælles Afviklingsinstans</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Vælg oversættelse af det forrige link\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Vælg oversættelse af det forrige link\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "de": [
+                "<h2>Überblick</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Aufgabe</strong>: Gewährleistung der ordnungsgemäßen Abwicklung von insolvenzbedrohten Finanzinstituten mit möglichst geringen Auswirkungen auf die Realwirtschaft und die öffentlichen Finanzen der teilnehmenden EU-Länder und anderer Länder </li>                   <li>                      <strong>Direktorin</strong>: Elke König</li>                   <li>                      <strong>Partner</strong>: Europäische Kommission, Europäische Zentralbank (EZB), nationale Abwicklungsbehörden (NRA), Europäische Bankenaufsichtsbehörde (EBA) </li>                   <li>                      <strong>Gründung</strong>: Januar 2015</li>                   <li>                      <strong>Mitarbeiter</strong>: : Noch in der Aufbauphase  Zielstärke: maximal 300 Bedienstete bis Anfang 2017 </li>                   <li>                      <strong>Standort</strong>: Brüssel, Belgien</li>                   <li>                      <strong>Internet</strong>: <span class=\"link-disabled\">Ausschuss für die einheitliche Abwicklung</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Übersetzung für diesen Link wählen\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Übersetzung für diesen Link wählen\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "el": [
+                "<h2>Παρουσίαση</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Αποστολή</strong>: διασφάλιση της εύρυθμης εξυγίανσης των προβληματικών τραπεζών, με τις ελάχιστες δυνατές επιπτώσεις στην πραγματική οικονομία και τα δημόσια οικονομικά των συμμετεχόντων κρατών μελών της ΕΕ και άλλων χωρών</li>                   <li>                      <strong>Διευθυντής</strong>: Elke König</li>                   <li>                      <strong>Εταίροι</strong>: Ευρωπαϊκή Επιτροπή, Ευρωπαϊκή Κεντρική Τράπεζα (ΕΚΤ), Εθνικές Αρχές Εξυγίανσης (ΕΑΕ), Ευρωπαϊκή Αρχή Τραπεζών (ΕΑΤ)</li>                   <li>                      <strong>Έτος ίδρυσης</strong>: Ιανουάριος 2015</li>                   <li>                      <strong>Προσωπικό</strong>: : σε αρχικό ακόμη στάδιο. Στόχος: έως και 300 άτομα μέχρι τις αρχές του 2017</li>                   <li>                      <strong>Έδρα</strong>: Βρυξέλλες (Βέλγιο)</li>                   <li>                      <strong>Ιστότοπος</strong>: <span class=\"link-disabled\">Ενιαίο Συμβούλιο Εξυγίανσης</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "en": [
+                "<h2>Overview</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Role</strong>: Ensure the orderly resolution of failing banks, with minimum impact on the real economy and the public finances of the participating EU countries and others</li>                   <li>                      <strong>Director</strong>: Elke König</li>                   <li>                      <strong>Partners</strong>: European Commission, European Central Bank (ECB), National Resolution Authorities (NRAs), European Banking Authority (EBA)</li>                   <li>                      <strong>Established in</strong>: January 2015</li>                   <li>                      <strong>Number of staff</strong>: : Still in start-up phase. Aim: a maximum of 300 by early 2017</li>                   <li>                      <strong>Location</strong>: Brussels (Belgium)</li>                   <li>                      <strong>Website</strong>: <a href=\"http://srb.europa.eu/\">Single Resolution Board</a>                   </li>                </ul>             </div>"
+            ],
+            "es": [
+                "<h2>Datos generales</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Función</strong>: garantizar la resolución ordenada de bancos en crisis con el menor impacto sobre la economía real y las finanzas públicas de los países de la UE participantes y terceros</li>                   <li>                      <strong>Director</strong>: Elke König</li>                   <li>                      <strong>Colaboradores</strong>: Comisión Europea, Banco Central Europeo (BCE), Autoridades Nacionales de Resolución (las ANR) y Autoridad Bancaria Europea (ABE)</li>                   <li>                      <strong>Año de creación</strong>: enero de 2015</li>                   <li>                      <strong>Plantilla</strong>: : (aún en fase de creación) objetivo: máximo 300 a principios de 2017</li>                   <li>                      <strong>Sede</strong>: Bruselas (Bélgica)</li>                   <li>                      <strong>Página web</strong>: <span class=\"link-disabled\">Junta Única de Resolución</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Elija traducciones del enlace precedente\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Elija traducciones del enlace precedente\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "et": [
+                "<h2>Ülevaade</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ülesanded</strong>: tagada maksejõuetusohus olevate pankade korrakohane kriisilahendus, millel oleks minimaalne mõju reaalmajandusele ning pangandusliidus osalevate ELi liikmesriikide ja muude riikide rahandusele</li>                   <li>                      <strong>Direktor</strong>: Elke König</li>                   <li>                      <strong>Partnerid</strong>: Euroopa Komisjon, Euroopa Keskpank, riiklikud kriisilahendusasutused, Euroopa Pangandusjärelevalve</li>                   <li>                      <strong>Asutatud</strong>: jaanuaris 2015</li>                   <li>                      <strong>Töötajate arv</strong>: : Ikka veel käivitamisetapis. Eesmärk: maksimaalselt 300 töötajat 2017. aasta alguseks</li>                   <li>                      <strong>Asukoht</strong>: Brüssel (Belgia)</li>                   <li>                      <strong>Veebisait</strong>: <span class=\"link-disabled\">Ühtne Kriisilahendusnõukogu</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Valige lingiga seotud tõlked\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Valige lingiga seotud tõlked\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "fi": [
+                "<h2>Yleiskatsaus</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Tehtävä</strong>: varmistaa, että ongelmapankkien kriisinratkaisu sujuu hallitusti ja vaikuttaa mahdollisimman vähän reaalitalouteen sekä pankkiunioniin osallistuvien EU-maiden ja muiden maiden julkiseen talouteen</li>                   <li>                      <strong>Johtaja</strong>: Elke König</li>                   <li>                      <strong>Yhteistyötahot</strong>: Euroopan komissio, Euroopan keskuspankki (EKP), kansalliset kriisinratkaisuviranomaiset, Euroopan pankkiviranomainen (EPV)</li>                   <li>                      <strong>Perustettu</strong>: tammikuu 2015</li>                   <li>                      <strong>Henkilöstömäärä</strong> : Edelleen käynnistysvaiheessa. Tavoite: enintään 300 työntekijää vuoden 2017 alkuun mennessä</li>                   <li>                      <strong>Toimipaikka</strong>: Bryssel (Belgia)</li>                   <li>                      <strong>Verkkosivusto</strong>: <a href=\"http://srb.europa.eu/\">yhteinen kriisinratkaisuneuvosto</a>                   </li>                </ul>             </div>"
+            ],
+            "fr": [
+                "<h2>Présentation</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rôle</strong>: garantir la résolution ordonnée des banques défaillantes, avec une incidence minimale sur l’économie réelle et les finances publiques des pays de l'UE participants et d'autres pays</li>                   <li>                      <strong>Directrice</strong>: Elke König</li>                   <li>                      <strong>Partenaires</strong>: Commission européenne, Banque centrale européenne (BCE), autorités nationales de résolution (ARN) et Autorité bancaire européenne (ABE)</li>                   <li>                      <strong>Création</strong>: janvier 2015</li>                   <li>                      <strong>Effectifs</strong>: agence en phase de démarrage.  Objectif: 300 personnes maximum d'ici 2017</li>                   <li>                      <strong>Siège</strong>: Bruxelles (Belgique)</li>                   <li>                      <strong>Site web</strong>: <span class=\"link-disabled\">Conseil de résolution unique</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Choisir les traductions du lien précédent\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Choisir les traductions du lien précédent\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "ga": [
+                "<h2>Achoimre</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ról</strong>: Bainc a bhfuil ag cliseadh orthu a réiteach go hordúil sa chaoi nach mbeidh ach tionchar íosta ar fhíorgheilleagar agus ar airgeadas poiblí na dtíortha rannpháirteacha, de chuid an Aontais agus eile.</li>                   <li>                      <strong>Stiúrthóir</strong>: Elke König</li>                   <li>                      <strong>Comhpháirtithe</strong>: An Coimisiún Eorpach, Banc Ceannais na hEorpa (ECB), Údaráis Náisiúnta Réitigh (NRAanna), an tÚdarás Baincéireachta Eorpach (EBA)</li>                   <li>                      <strong>Bunaithe</strong>: Eanáir 2015</li>                   <li>                      <strong>Líon foirne</strong>: : ar an gcéim tosaigh fós. Aidhm: 300 ar a mhéad go luath in 2017</li>                   <li>                      <strong>Suíomh</strong>: An Bhruiséil (an Bheilg)</li>                   <li>                      <strong>Suíomh gréasáin</strong>: <span class=\"link-disabled\">An Bord Réitigh Aonair </span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "hr": [
+                "<h2>Pregled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uloga</strong>: osigurati propisnu sanaciju posrnulih banaka, uz minimalni utjecaj na realno gospodarstvo i na javne financije uključenih zemalja EU-a i ostalih zemalja.</li>                   <li>                      <strong>Direktorica</strong>: Elke König</li>                   <li>                      <strong>Partneri</strong>: Europska komisija, Europska središnja banka (ESB), nacionalna sanacijska tijela (NRA-ovi), Europsko nadzorno tijelo za bankarstvo (EBA)</li>                   <li>                      <strong>Datum osnivanja</strong>: siječanj 2015.</li>                   <li>                      <strong>Broj zaposlenika</strong>: zapošljavanje je još u tijeku. Cilj: najviše 300 zaposlenika do početka 2017.</li>                   <li>                      <strong>Lokacija</strong>: Bruxelles (Belgija)</li>                   <li>                      <strong>Internetska stranica</strong>: <span class=\"link-disabled\">Jedinstveni sanacijski odbor</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Odaberi prijevod prethodne poveznice\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Odaberi prijevod prethodne poveznice\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "hu": [
+                "<h2>Áttekintés</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Szerep</strong>: A testület feladata biztosítani a bajba jutott bankok pénzügyi helyzetének rendezését úgy, hogy az a részt vevő uniós és egyéb országok reálgazdaságát és államháztartását a lehető legkisebb mértékben terhelje meg.</li>                   <li>                      <strong>Igazgató</strong>: Elke König</li>                   <li>                      <strong>Partnerek</strong>: az Európai Bizottság, az Európai Központi Bank (EKB), a tagállami szanálási hatóságok, az Európai Bankhatóság</li>                   <li>                      <strong>Alapítás éve</strong>: 2015. január</li>                   <li>                      <strong>Alkalmazottak száma</strong>: a létszám még nem teljes. Cél: 2017 elejére további max. 300 munkatárs felvétele.</li>                   <li>                      <strong>Székhely</strong>: Brüsszel, Belgium</li>                   <li>                      <strong>Honlap</strong>: <span class=\"link-disabled\">Egységes Szanálási Testület</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Az előző linken elérhető szöveg fordításai\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Az előző linken elérhető szöveg fordításai\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "it": [
+                "<h2>Sintesi</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ruolo</strong>: garantisce la risoluzione ordinata delle banche in difficoltà, con un minimo impatto sull’economia reale e le finanze pubbliche dei paesi dell’UE partecipanti e di altri soggetti</li>                   <li>                      <strong>Direttore</strong>: Elke König</li>                   <li>                      <strong>Partner</strong>: Commissione europea, Banca centrale europea (BCE), le autorità nazionali di risoluzione, Autorità bancaria europea (EBA)</li>                   <li>                      <strong>Anno di istituzione</strong>: gennaio 2015</li>                   <li>                      <strong>Numero di dipendenti</strong> : ancora in fase di avviamento. Obiettivo: al massimo 300 dipendenti all’inizio del 2017</li>                   <li>                      <strong>Sede</strong>: Bruxelles (Belgio)</li>                   <li>                      <strong>Sito web</strong>: <a href=\"http://srb.europa.eu/\">Comitato di risoluzione unico</a>                   </li>                </ul>             </div>"
+            ],
+            "lt": [
+                "<h2>Apžvalga</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Vaidmuo</strong>: užtikrinti tvarkingą žlungančių bankų pertvarkymą, padarant kuo mažesnį poveikį susijusių ES šalių ir kitų šalių realiajai ekonomikai bei viešiesiems finansams</li>                   <li>                      <strong>Direktorė</strong>: Elke König</li>                   <li>                      <strong>Partneriai</strong>: Europos Komisija, Europos Centrinis Bankas (ECB), nacionalinės pertvarkymo institucijos (NPI), Europos bankininkystės institucija (EBI)</li>                   <li>                      <strong>Įsteigta</strong>: 2015 m. sausio mėn.</li>                   <li>                      <strong>Darbuotojų skaičius</strong> : kūrimosi etapas Tikslas: iki 2017 m. pradžios – ne daugiau kaip 300 darbuotojų</li>                   <li>                      <strong>Adresas</strong>: Briuselis (Belgija)</li>                   <li>                      <strong>Interneto svetainė</strong>: <span class=\"link-disabled\">Bendra pertvarkymo valdyba</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Pasirinkti šios nuorodos vertimus\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Pasirinkti šios nuorodos vertimus\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "lv": [
+                "<h2>Pārskats</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uzdevums</strong>: gādāt par noteikumiem atbilstīgu noregulējumu maksātnespējīgām bankām un citām finanšu iestādēm ar iespējami mazākām sekām reālajai ekonomikai un iesaistīto ES valstu un citu personu publiskajām finansēm </li>                   <li>                      <strong>Direktore</strong>: Elke Kēniga</li>                   <li>                      <strong>Partneri</strong>: Eiropas Komisija, Eiropas Centrālā banka (ECB), valstu noregulējuma iestādes (VNI), Eiropas Banku iestāde (EBA)</li>                   <li>                      <strong>Dibināšanas gads</strong>: 2015. gada janvāris</li>                   <li>                      <strong>Darbinieku skaits</strong> : joprojām izveides fāzē. Mērķis ir lielākais 300 darbinieku līdz 2017. gada sākumam</li>                   <li>                      <strong>Atrašanās vieta</strong>:  Brisele (Beļģija).</li>                   <li>                      <strong>Tīmekļa vietne</strong>: <span class=\"link-disabled\">Vienotā noregulējuma valde</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Izvēlieties saites tulkojumu\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Izvēlieties saites tulkojumu\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "mt": [
+                "<h2>Ħarsa ġenerali</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rwol</strong>: Tiġi żgurata r-riżoluzzjoni b'mod ordnat ta’ banek li qed ifallu, b’impatt minimu fuq l-ekonomija reali u l-finanzi pubbliċi tal-pajjiżi tal-UE parteċipanti u oħrajn</li>                   <li>                      <strong>Direttur</strong>: Elke König</li>                   <li>                      <strong>Partners</strong>: Il-Kummissjoni Ewropea, il-Bank Ċentrali Ewropew (BĊE), l-Awtoritajiet Nazzjonali ta’ Riżoluzzjoni (ANR), l-Awtorità Bankarja Ewropea (ABE)</li>                   <li>                      <strong>Stabbilit</strong>: f'Jannar 2015</li>                   <li>                      <strong>Numru ta’ persunal</strong> : Għadu fil-fażi tal-bidu. Għan: massimu ta’ 300 sal-bidu tal-2017</li>                   <li>                      <strong>Lokalità</strong>: Fi Brussell (il-Belġju)</li>                   <li>                      <strong>Sit web</strong>: <span class=\"link-disabled\">Bord Uniku ta' Riżoluzzjoni</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "nl": [
+                "<h2>Overzicht</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rol</strong>: Zorgen voor een ordelijke afwikkeling van failliete banken, met zo gering mogelijke gevolgen voor de reële economie en de overheidsfinanciën van de deelnemende (EU-)landen.</li>                   <li>                      <strong>Directeur</strong>: Elke König</li>                   <li>                      <strong>Partners</strong>: De Europese Commissie, de Europese Centrale Bank (ECB), de nationale afwikkelingsautoriteiten (NAA’s) en de Europese Bankautoriteit (EBA)</li>                   <li>                      <strong>Opgericht</strong>: Januari 2015</li>                   <li>                      <strong>Medewerkers</strong>:  Nog in de opstartfase. Doel: maximaal 300, begin 2017</li>                   <li>                      <strong>Locatie</strong>: Brussel (België)</li>                   <li>                      <strong>Website</strong>: <span class=\"link-disabled\">Gemeenschappelijke afwikkelingsraad</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Bekijk deze link in een andere taal\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Bekijk deze link in een andere taal\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "pl": [
+                "<h2>Informacje ogólne</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Zadania</strong>: zagwarantowanie uporządkowanej restrukturyzacji i likwidacji upadających banków, przy minimalnym wpływie na gospodarkę realną i finanse publiczne państw członkowskich UE i innych krajów</li>                   <li>                      <strong>Dyrektor</strong>: Elke König</li>                   <li>                      <strong>Partnerzy</strong>: Komisja Europejska, Europejski Bank Centralny, krajowe organy ds. restrukturyzacji i uporządkowanej likwidacji, Europejski Urząd Nadzoru Bankowego</li>                   <li>                      <strong>Data ustanowienia</strong>: Styczeń 2015 r.</li>                   <li>                      <strong>Liczba pracowników</strong>: : Nadal w fazie rozruchu. Docelowo: Maksymalnie 300 osób na początku 2017 r.</li>                   <li>                      <strong>Siedziba</strong>: Bruksela (Belgia)</li>                   <li>                      <strong>Strona internetowa</strong>: <span class=\"link-disabled\">Jednolita Rada ds. Restrukturyzacji i Uporządkowanej Likwidacji</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Wybierz wersję językową tego linka\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Wybierz wersję językową tego linka\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "pt": [
+                "<h2>Apresentação</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Missão</strong>: Garantir a resolução ordenada dos bancos insolventes, com um impacto mínimo na economia real e nas finanças públicas dos países da participantes</li>                   <li>                      <strong>Diretor</strong>: Elke König</li>                   <li>                      <strong>Parceiros</strong>: Comissão Europeia, Banco Central Europeu (BCE), Autoridades de Resolução Nacionais (NRA), Autoridade Bancária Europeia (EBA)</li>                   <li>                      <strong>Instituído em</strong>: janeiro de 2015</li>                   <li>                      <strong>Efetivos</strong>: : Ainda em fase de arranque. Objetivo: 300 colaboradores, no máximo, até ao início de 2017</li>                   <li>                      <strong>Localização</strong>: Bruxelas (Bélgica)</li>                   <li>                      <strong>Sítio Internet</strong>: <span class=\"link-disabled\">Conselho Único de Resolução</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Traduções da ligação anterior\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Traduções da ligação anterior\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "ro": [
+                "<h2>Prezentare</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rol</strong>: asigură rezoluția ordonată a băncilor aflate în faliment, cu impact minim asupra economiei reale și finanțelor publice din statele UE participante și din alte țări</li>                   <li>                      <strong>Director</strong>: Elke König</li>                   <li>                      <strong>Parteneri</strong>: Comisia Europeană, Banca Centrală Europeană (BCE), autoritățile naționale de rezoluție (ANR), Autoritatea bancară europeană (ABE)</li>                   <li>                      <strong>Înființare</strong>: ianuarie 2015</li>                   <li>                      <strong>Angajați</strong> : agenție aflată încă în faza de demarare. Obiectiv: maximum 300 de persoane până la începutul anului 2017</li>                   <li>                      <strong>Sediu</strong>: Bruxelles (Belgia)</li>                   <li>                      <strong>Site</strong>: <span class=\"link-disabled\">Comitetul unic de rezoluție</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Traducerile linkului anterior\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Traducerile linkului anterior\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "sk": [
+                "<h2>Prehľad</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Úloha</strong>: Zabezpečiť náležité riešenie krízovej situácie zlyhávajúcich bánk s minimálnym dosahom na reálnu ekonomiku a verejné financie zúčastnených krajín EÚ a ostatných krajín</li>                   <li>                      <strong>Riaditeľka</strong>: Elke Königová</li>                   <li>                      <strong>Partneri</strong>: Európska komisia, Európska centrálna banka (ECB), vnútroštátne orgány pre riešenie krízových situácií, Európsky orgán pre bankovníctvo (EBA)</li>                   <li>                      <strong>Dátum zriadenia</strong>: Január 2015</li>                   <li>                      <strong>Počet zamestnancov</strong>: Stále v počiatočnej fáze. Cieľ: maximálne 300 zamestnancov začiatkom roka 2017</li>                   <li>                      <strong>Sídlo</strong>: Brusel (Belgicko)</li>                   <li>                      <strong>Webové sídlo</strong>: <span class=\"link-disabled\">Jednotná rada pre riešenie krízových situácií</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Vybrať preklady k predchádzajúcemu odkazu\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "sl": [
+                "<h2>Pregled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Naloga</strong>: Odbor skrbi za urejeno reševanje bank v težavah s kar najmanjšimi posledicami za gospodarstvo in javne finance sodelujočih in drugih držav EU.</li>                   <li>                      <strong>Direktor</strong>: Elke König</li>                   <li>                      <strong>Partnerji</strong>: Evropska komisija, Evropska centralna banka, nacionalni organi za reševanje bank, evropski bančni organ</li>                   <li>                      <strong>Ustanovitev</strong>: januar 2015</li>                   <li>                      <strong>Število zaposlenih</strong>:  Odbor je še v ustanovitveni fazi, končni cilj je 300 zaposlenih na začetku let 2017</li>                   <li>                      <strong>Sedež</strong>: Bruselj (Belgija)</li>                   <li>                      <strong>Spletišče</strong>: <a href=\"http://srb.europa.eu/\">Enotni odbor za reševanje</a>                   </li>                </ul>             </div>"
+            ],
+            "sv": [
+                "<h2>Översikt</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uppgift</strong>: Se till att krisdrabbade banker rekonstrueras och avvecklas på ett korrekt sätt med minsta möjliga påverkan på realekonomin och de offentliga finanserna i berörda EU-länder och övriga länder</li>                   <li>                      <strong>Direktör</strong>: Elke König</li>                   <li>                      <strong>Partner</strong>: EU-kommissionen, Europeiska centralbanken, Europeiska bankmyndigheten och nationella resolutionsmyndigheter</li>                   <li>                      <strong>Inrättad</strong>: Januari 2015</li>                   <li>                      <strong>Antal anställda</strong>: Byrån är fortfarande under uppbyggnad, men målet är högst 300 anställda till början av 2017</li>                   <li>                      <strong>Plats</strong>: Bryssel (Belgien)</li>                   <li>                      <strong>Webbplats</strong>: <span class=\"link-disabled\">                         <span>Gemensamma resolutionsnämnden</span>                      </span>                      <span class=\"ws-popup ws-modal\"> <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Visa översättning av föregående länk\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Visa översättning av föregående länk\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://srb.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ]
+        },
+        "info2": {
+            "bg": [
+                "<p>Единният съвет за преструктуриране (ЕСП) е новият орган за преструктуриране на европейския банков съюз. Той е ключов елемент от банковия съюз и единния механизъм за преструктуриране. ЕСП има за задача да гарантира организираното преструктуриране на банки в затруднение с минимално въздействие върху реалната икономика и публичните финанси на участващите страни от ЕС и извън него.</p>             <h2>Какво прави ЕСП?</h2>             <p>Основните задачи на Единния съвет за преструктуриране са:</p>             <ul>                <li>Установяване на стандартни правила и процедури за преструктуриране на субекти</li>                <li>Вземане на решения за преструктуриране в рамките на банковия съюз в съответствие със стандартен процес — това помага за запазване на доверието в пазара</li>                <li>Установяване на надеждни и осъществими договорености за преструктуриране</li>                <li>Премахване на пречките пред преструктурирането, за да стане банковата система в Европа по-безопасна</li>                <li>Свеждане до минимум на разходите за преструктуриране и избягване на загубата на стойност освен ако това е необходимо за постигане на целите на преструктурирането</li>                <li>Осигуряване на ключови предимства за данъкоплатците, банките и вложителите</li>                <li>Насърчаване на финансова и икономическа стабилност в целия ЕС.</li>             </ul>             <h2>Как функционира ЕСП?</h2>             <p>Провеждат се два вида заседания - <b>изпълнително</b> и <b>пленарно</b>. Правилата за гласуване на всяко едно от тях се стремят към баланс между необходимостта от отчитане на интересите на всички страни и необходимостта от вземане на ефективни решения на равнище ЕС.</p>             <p>                <b>Изпълнително заседание –</b> вземат се важни подготвителни и оперативни решения за преструктуриране на отделни банки, включително за използване на Фонда, както и решения, насочени към националните органи, за прилагане на мерките. В тези заседания участват:</p>             <ul>                <li>председателят</li>                <li>заместник-председателят</li>                <li>четиримата постоянни членове</li>                <li>органите на държавата, в която се намира банката в затруднено положение.</li>             </ul>             <p>Вземат се и отделни решения за преструктуриране, свързани с използването на Фонда под прага от 5 милиарда евро.</p>             <p>                <b>Пленарно заседание</b> - вземат се решения по отделни случаи, при които се налага използване на средства от Фонда над прага от 5 милиарда евро.</p>             <p>Единният съвет за преструктуриране работи в тясно сътрудничество с Европейския банков орган, чиято основна задача е да помага за създаването на единен европейски наръчник за банковия сектор, в който се установяват стандартни пруденциални правила за финансовите институции в ЕС. Европейският банков орган също така насърчава хармонизирането на надзорните практики и извършва оценки на рисковете и уязвимите места в банковия сектор на ЕС.</p>             <h2>Кой има полза от работата на ЕСП?</h2>             <p>Единният съвет за преструктуриране ще е в състояние да действа бързо, адекватно и пропорционално за възстановяване и преструктуриране на банките от еврозоната. Целта е да се избегнат бъдещи спасявания и тежестта на преструктурирането да падне върху банките при минимални разходи за данъкоплатците и реалната икономика.</p>             <p> </p>"
+            ],
+            "cs": [
+                "<p>Jednotný výbor pro řešení krizí je novým orgánem evropské bankovní unie a představuje její klíčový prvek a základ jednotného mechanismu pro řešení krizí. Jeho úkolem je zajistit řádné řešení krizí bank na pokraji úpadku s minimálními dopady na reálnou ekonomiku a veřejné finance zúčastněných zemí EU a dalších subjektů.</p>             <h2>Úkoly výboru SRB</h2>             <p>Mezi jeho hlavní úkoly patří:</p>             <ul>                <li>stanovit standardní pravidla a postupy pro řešení krizí jednotlivých subjektů</li>                <li>přijímat rozhodnutí o řešení krizí v rámci bankovní unie na základě standardního postupu, a udržet tak tržní důvěru</li>                <li>zavést důvěryhodné a proveditelné mechanismy řešení krizí</li>                <li>odstranit překážky bránící řešení krizí, a zvýšit tak bezpečnost bankovního systému v Evropě</li>                <li>minimalizovat náklady na řešení krizí a zabránit snížení hodnoty, pokud to není nezbytné pro dosažení cílů daného řešení</li>                <li>poskytovat zásadní výhody daňovým poplatníkům, bankám a vkladatelům</li>                <li>prosazovat finanční a hospodářskou stabilitu v celé EU.</li>             </ul>             <h2>Činnost výboru SRB</h2>             <p>Výbor se schází na <b>výkonných</b> a <b>plenárních</b> zasedáních. Na základě pravidel hlasování na každém ze dvou zasedání se dosahuje rovnováhy mezi potřebou vzít v úvahu zájmy všech států a potřebou zajistit účinné rozhodování na úrovni EU.</p>             <p>                <b>Výkonné zasedání</b>: Výbor přijímá důležitá přípravná a operativní rozhodnutí ohledně řešení problémů jednotlivých bank, včetně rozhodnutí o použití prostředků z fondu a rozhodnutí určených vnitrostátním orgánům týkajících se uplatnění určitých opatření. Těchto zasedání se účastní:</p>             <ul>                <li>předseda</li>                <li>místopředseda</li>                <li>4 stálí členové</li>                <li>orgány státu, v němž banka v potížích sídlí.</li>             </ul>             <p>Na zasedání lze přijmout rozhodnutí o řešení problémů jednotlivých bank, které zahrnují použití finančních prostředků z fondu do maximální výše 5 miliard eur.</p>             <p>                <b>Plenární zasedání</b>: Výbor na něm může přijmout rozhodnutí o řešení problémů jednotlivých bank, u kterých finanční podpora z fondu převyšuje maximální hodnotu 5 miliard eur.</p>             <p>Jednotný výbor pro řešení krizí úzce spolupracuje s Evropským orgánem pro bankovnictví, jehož hlavním úkolem je pomoci vytvořit evropský jednotný soubor pravidel pro bankovnictví, který by stanovil standardní obezřetnostní pravidla pro finanční instituce v EU. Orgán pro bankovnictví rovněž prosazuje sbližování postupů v oblasti dohledu a posuzování rizik a slabých míst v bankovním sektoru EU.</p>             <h2>Pro koho je činnost výboru přínosná?</h2>             <p>Jednotný výbor pro řešení krizí bude schopen rychle, vhodně a přiměřeně zasáhnout a zavést opatření k zotavení a vyřešení krizí bank v eurozóně. Cílem je, aby v budoucnu již nebylo nutné banky zachraňovat a aby zátěž za řešení problémů ležela na bankách samotných, tedy s minimálními náklady pro daňové poplatníky a reálnou ekonomiku.</p>             <p> </p>"
+            ],
+            "da": [
+                "<p>Den Fælles Afviklingsinstans (SRB) er afviklingsmyndighed for EU's nye bankunion. Det er en hjørnesten i bankunionen og den fælles afviklingsmekanisme. Dens formål er at sikre en velordnet afvikling af nødlidende banker med de mindst mulige omkostninger for realøkonomien og statsfinanserne i de medvirkende EU-lande og øvrige lande</p>             <h2>Hvad laver SRB?</h2>             <p>Dens hovedopgaver er:</p>             <ul>                <li>at fastsætte standardregler og -procedurer for afvikling af virksomheder</li>                <li>at træffe beslutninger om afvikling inden for bankunionen i henhold til en standardproces - det hjælper med at opretholde markedstilliden</li>                <li>at fastsætte troværdige og realistiske afviklingsordninger</li>                <li>at fjerne hindringer for afvikling for at gøre bankvæsenet i Europa sikrere</li>                <li>at minimere udgifterne til afvikling og undgå værditab, medmindre de er nødvendige for at nå afviklingsmålene</li>                <li>at give reelle fordele til skatteydere, banker og indskydere</li>                <li>at styrke den finansielle og økonomiske stabilitet i hele EU.</li>             </ul>             <h2>Hvordan arbejder SRB?</h2>             <p>På to slags møder: <b>ledelsesmøder</b> og <b>plenarmøder</b>. Afstemningsreglerne ved møderne holder en ligevægt mellem hensynet til alle landenes interesser og behovet for at kunne træffe effektive beslutninger på EU-plan.</p>             <p>                <b>Ledelsesmøderne</b> skal træffe de væsentligste indledende og operationelle beslutninger om afvikling af enkelte banker, herunder brugen af Fonden og afgørelser, der er henvendt til nationale myndigheder om gennemførelse af foranstaltningerne. I disse møder deltager:</p>             <ul>                <li>formanden</li>                <li>næstformanden</li>                <li>de fire faste medlemmer</li>                <li>myndighederne fra det land, hvor den nødlidende bank har hjemsted.</li>             </ul>             <p>Der vedtages individuelle beslutninger om brug af fonden, når der er tale om beløb under tærsklen på 5 milliarder euro.</p>             <p>                <b>Plenarmødet</b> - kan træffe afgørelse i individuelle afviklingssager, om hvorvidt der kræves støtte fra fonden, når der er tale om beløb over tærsklen på 5 milliarder euro.</p>             <p>Den Fælles Afviklingsinstans arbejder tæt sammen med Den Europæiske Banktilsynsmyndighed, hvis hovedopgave er at fastsætte et fælles europæisk regelsæt om bankvirksomhed med standard forsigtighedsregler for pengeinstitutter i EU. Afviklingsinstansen støtter også samordning af tilsynspraksis og vurderer risici og svagheder i bankverdenen i EU.</p>             <h2>Hvem gavner det?</h2>             <p>Den Fælles Afviklingsinstans vil kunne gribe ind - hurtigt, hensigtsmæssigt og i det rette omfang - for at skabe genopretnings- og afviklingsordninger for banker i euroområdet. Formålet er at undgå flere \"bankpakker\" og placere ansvaret for afvikling hos bankerne med de mindst mulige udgifter for skatteyderne og realøkonomien.</p>             <p> </p>"
+            ],
+            "de": [
+                "<p>Der Ausschuss für die einheitliche Abwicklung (SRB) ist die neue, für die Abwicklung zuständige Behörde der Europäischen Bankenunion. Sie ist ein wichtiges Element der Bankenunion und ihres einheitlichen Abwicklungsmechanismus und soll sicherstellen, dass insolvenzbedrohte Finanzinstitute mit möglichst geringen Auswirkungen auf die Realwirtschaft und die öffentlichen Finanzen der teilnehmenden EU-Länder und anderer Länder abgewickelt werden können.</p>             <h2>Aufgaben des SRB</h2>             <p>Seine Hauptaufgaben sind:</p>             <ul>                <li>Entwurf standardisierter Vorschriften und Verfahren für die Abwicklung von Körperschaften</li>                <li>Abwicklungsentscheidungen innerhalb der Bankenunion nach einem Standardverfahren als Beitrag zur Wahrung des Marktvertrauens</li>                <li>Gestaltung glaubwürdiger und praktikabler Abwicklungsregelungen</li>                <li>Beseitigung von Hindernissen für Abwicklungen, um Europas Bankensystem sicherer zu machen</li>                <li>Verringerung der Abwicklungskosten und Vermeidung jeglicher zur Verwirklichung der Abwicklungsziele nicht zwingend erforderlicher Vernichtung von Werten</li>                <li>Realisierung eines klaren Nutzens für Steuerzahler, Banken und Einleger</li>                <li>Förderung der EU-weiten finanziellen und wirtschaftlichen Stabilität</li>             </ul>             <h2>Wie arbeitet der SRB?</h2>             <p>Der Ausschuss tritt in zwei Sitzungen zusammen: <b>Exekutivsitzungen</b> und <b>Plenarsitzungen</b>. Die Abstimmungsregeln für die jeweiligen Sitzungen erlauben sowohl die Berücksichtigung der Interessen aller Länder als auch wirksame Entscheidungen auf EU-Ebene.</p>             <p>                <b>Exekutivsitzung</b> – wichtige vorbereitende und operative Entscheidungen über die Abwicklung einzelner Banken, den Einsatz des Abwicklungsfonds und an nationale Behörden gerichtete Entscheidungen zur Durchführung der Maßnahmen. Teilnehmer an den Exekutivsitzungen:</p>             <ul>                <li>Vorsitz</li>                <li>stellvertretender Vorsitz</li>                <li>vier ständige Mitglieder</li>                <li>Behörden des Landes, in dem die insolvenzbedrohte Bank ihren Sitz hat</li>             </ul>             <p>Auf Exekutivsitzungen werden einzelne Abwicklungsentscheidungen getroffen, bei denen die Inanspruchnahme des Fonds unter der Schwelle von 5 Milliarden Euro bleibt.</p>             <p>                <b>Plenarsitzung</b> – Befugnis zu Entscheidungen in einzelnen Abwicklungsfällen über die Notwendigkeit zur Inanspruchnahme des Fonds in einer Höhe, die den Schwellenwert von 5 Milliarden Euro übersteigt.</p>             <p>Der Ausschuss für die einheitliche Abwicklung arbeitet eng mit der Europäischen Bankenaufsichtsbehörde zusammen, deren wichtigste Aufgabe darin besteht, ein einheitliches europäisches Regelwerk für das Bankwesen mit aufsichtsrechtlichen Standards für Finanzinstitutionen in der EU aufzustellen. Diese Behörde fördert außerdem die Angleichung der Abwicklungspraxis und bewertet Risiken und Schwachstellen im EU-Bankwesen.</p>             <h2>Wer hat einen Nutzen davon?</h2>             <p>Der Ausschuss für die einheitliche Abwicklung wird rasche, zielführende und verhältnismäßige Maßnahmen zur Sanierung oder Abwicklung von Banken in der Eurozone treffen können. Ziel ist es, Rettungsaktionen in Zukunft zu vermeiden, die Banken bei Abwicklungen selbst in die Pflicht zu nehmen und die Belastungen für Steuerzahler und Realwirtschaft möglichst gering zu halten.</p>             <p> </p>"
+            ],
+            "el": [
+                "<p>Το Ενιαίο Συμβούλιο Εξυγίανσης (SRB) είναι η νέα αρχή εξυγίανσης της Ευρωπαϊκής Τραπεζικής Ένωσης. Αποτελεί βασικό στοιχείο της Τραπεζικής Ένωσης και του Ενιαίου Μηχανισμού Εξυγίανσης. Αποστολή του είναι η διασφάλιση της εύρυθμης εξυγίανσης των προβληματικών τραπεζών, με τις ελάχιστες δυνατές επιπτώσεις στην πραγματική οικονομία και τα δημόσια οικονομικά των συμμετεχόντων κρατών μελών της ΕΕ και άλλων χωρών.</p>             <h2>Τι κάνει το SRB;</h2>             <p>Τα κύρια καθήκοντά του είναι:</p>             <ul>                <li>η θέσπιση τυποποιημένων κανόνων και διαδικασιών για την εξυγίανση οντοτήτων</li>                <li>η λήψη αποφάσεων εξυγίανσης εντός της Τραπεζικής Ένωσης σύμφωνα με τυποποιημένη διαδικασία, ώστε να διατηρηθεί η εμπιστοσύνη της αγοράς</li>                <li>η θέσπιση αξιόπιστων και εφαρμόσιμων ρυθμίσεων για την εξυγίανση</li>                <li>η εξάλειψη των εμποδίων στην εξυγίανση των τραπεζών, ώστε να καταστεί ασφαλέστερο το τραπεζικό σύστημα στην Ευρώπη</li>                <li>η ελαχιστοποίηση του κόστους εξυγίανσης και η αποτροπή της απομείωσης της αξίας εκτός αν αυτό είναι αναγκαίο για την επίτευξη των στόχων της εξυγίανσης</li>                <li>η παροχή ουσιαστικών οφελών στους φορολογουμένους, τις τράπεζες και τους καταθέτες</li>                <li>η προώθηση της δημοσιονομικής και οικονομικής σταθερότητας της ΕΕ.</li>             </ul>             <h2>Πώς λειτουργεί το SRB;</h2>             <p>Συνέρχεται σε 2 συνόδους - <b>εκτελεστική </b>και <b>ολομέλειας</b>. Οι κανόνες ψηφοφορίας εξασφαλίζουν την ισορροπία μεταξύ της ανάγκης να λαμβάνονται υπόψη τα συμφέροντα όλων των χωρών και της ανάγκης να λαμβάνονται αποτελεσματικές αποφάσεις σε επίπεδο ΕΕ.</p>             <p>                <b>Εκτελεστική σύνοδος:</b> λαμβάνει τις βασικές προπαρασκευαστικές και επιχειρησιακές αποφάσεις για την εξυγίανση μεμονωμένων τραπεζών, μεταξύ άλλων, με τη χρήση του Ταμείου, καθώς και τις αποφάσεις που απευθύνονται στις εθνικές αρχές για την υλοποίηση των σχετικών μέτρων. Στην εκτελεστική σύνοδο συμμετέχουν:</p>             <ul>                <li>ο πρόεδρος</li>                <li>ο αντιπρόεδρος</li>                <li>τα 4 μόνιμα μέλη</li>                <li>οι αρχές της χώρας στην οποία εδρεύει η προβληματική τράπεζα.</li>             </ul>             <p>Στην εκτελεστική σύνοδο λαμβάνονται μεμονωμένες αποφάσεις εξυγίανσης που προβλέπουν τη χρήση του Ταμείου κάτω από το όριο των 5 δισ. ευρώ.</p>             <p>                <b>Σύνοδος ολομέλειας:</b> αρμόδια να αποφασίζει για μεμονωμένες υποθέσεις εξυγίανσης για τις οποίες η απαιτούμενη στήριξη του Ταμείου υπερβαίνει το όριο των 5 δισ. ευρώ.</p>             <p>Το Ενιαίο Συμβούλιο Εξυγίανσης συνεργάζεται στενά με την Ευρωπαϊκή Αρχή Τραπεζών, η οποία κυρίως συμμετέχει στη σύνταξη ενιαίου ευρωπαϊκού εγχειριδίου κανόνων για τις τραπεζικές δραστηριότητες, όπου καθορίζονται τυποποιημένοι κανόνες προληπτικής εποπτείας για τα χρηματοπιστωτικά ιδρύματα στην ΕΕ. Επίσης, η Αρχή προωθεί τη σύγκλιση των εποπτικών πρακτικών και αξιολογεί τους κινδύνους και τα τρωτά σημεία του τραπεζικού τομέα της ΕΕ.</p>             <h2>Ποιοι ωφελούνται;</h2>             <p>Το Ενιαίο Συμβούλιο Εξυγίανσης θα είναι σε θέση να ενεργεί γρήγορα και με κατάλληλο και αναλογικό τρόπο για την ανάκαμψη και την εξυγίανση των τραπεζών της Ευρωζώνης. Στόχος είναι η αποφυγή μελλοντικών διασώσεων και η ανάληψη του κόστους της εξυγίανσης από τις τράπεζες, με ελάχιστο κόστος για τους φορολογουμένους και την πραγματική οικονομία.</p>             <p> </p>"
+            ],
+            "en": [
+                "<p>The Single Resolution Board (SRB) is the new European Banking Union's resolution authority. It is a key element of the Banking Union and its Single Resolution Mechanism. Its mission is to ensure the orderly resolution of failing banks, with as little impact as possible on the real economy and public finances of the participating EU countries and others.</p>             <h2>What does the SRB do?</h2>             <p>Its main tasks are to:</p>             <ul>                <li>establish standard rules &amp; procedures for the resolution of entities</li>                <li>take decisions on resolution within the Banking Union according to a standard process - this helps maintain market confidence</li>                <li>establish credible &amp; feasible arrangements for resolution</li>                <li>remove obstacles to resolution, to make the banking system in Europe safer</li>                <li>minimise resolution costs &amp; avoid destruction of value unless necessary to achieve the resolution objectives</li>                <li>provide key benefits for taxpayers, banks &amp; deposit-holders</li>                <li>promote EU-wide financial &amp; economic stability.</li>             </ul>             <h2>How does the SRB work?</h2>             <p>In 2 sessions - <b>executive </b>and <b>plenary</b>. Voting rules at each session strike a balance between the need to take all countries' interests into account and the need to make sure effective decisions are taken at EU level.</p>             <p>                <b>Executive session –</b> to take the key preparatory and operational decisions on resolving individual banks, including use of the Fund, and the decisions addressed to national authorities to implement the measures. Such sessions involve:</p>             <ul>                <li>the Chair</li>                <li>the Vice-Chair</li>                <li>the 4 permanent members</li>                <li>the authorities of the country where the troubled bank is based.</li>             </ul>             <p>Individual resolution decisions involving the use of the Fund below a €5bn threshold are adopted.</p>             <p>                <b>Plenary session</b> - competent to decide in individual resolution cases whether the support of the Fund is required above the €5bn threshold.</p>             <p>The Single Resolution Board works in close collaboration with the European Banking Authority, whose main task is to help establish a Single European Rulebook on banking setting out standard prudential rules for financial institutions in the EU. The Authority also promotes convergence of supervisory practices and assesses risks and vulnerabilities in the EU banking sector.</p>             <h2>Who benefits?</h2>             <p>The Single Resolution Board will be able to act swiftly, appropriately and proportionately to establish recovery and resolution arrangements for Eurozone banks. The aim is to avoid future bail-outs and place the burden of resolution on the banks, with minimum costs to taxpayers and the real economy.</p>             <p> </p>"
+            ],
+            "es": [
+                "<p>La Junta Única de Resolución (JUR) es la nueva autoridad de resolución de la Unión Bancaria Europea. Es un elemento clave de la Unión Bancaria y de su Mecanismo Único de Resolución. Su misión consiste en garantizar la resolución ordenada de bancos en crisis con el menor impacto posible sobre la economía real y las finanzas públicas de los países de la UE participantes y terceros.</p>             <h2>¿Qué hace la JUR?</h2>             <p>Sus principales tareas son:</p>             <ul>                <li>Establecer normas y procedimientos habituales para la resolución de las entidades.</li>                <li>Tomar decisiones sobre las resoluciones en el seno de la Unión Bancaria mediante un procedimiento uniforme para ayudar a mantener la confianza del mercado.</li>                <li>Establecer unos mecanismos de resolución que comporten credibilidad y viabilidad.</li>                <li>Eliminar los obstáculos a la resolución para conseguir un sistema bancario más seguro en Europa.</li>                <li>Minimizar el coste de la resolución y evitar toda destrucción de riqueza que no sea necesaria para alcanzar los objetivos de la resolución.</li>                <li>Facilitar beneficios importantes a los contribuyentes, bancos y titulares de depósitos.</li>                <li>Fomentar la estabilidad económica y financiera a escala de la UE.</li>             </ul>             <h2>¿Cómo funciona la JUR?</h2>             <p>En dos sesiones: <b>ejecutiva </b>y <b>plenaria</b>. Durante cada sesión, las normas de votación tratan de conciliar la necesidad de tener en consideración los intereses de todos los países y la de garantizar que las decisiones tomadas a escala de la UE revistan eficacia.</p>             <p>                <b>Sesiones ejecutivas:</b> se destinan a la toma de decisiones de carácter preparatorio y operativo relativas a las resoluciones que afectan a los bancos concretos. Este proceso incluye la utilización del Fondo y las decisiones dirigidas a las autoridades nacionales para que apliquen las medidas. En estas sesiones participan:</p>             <ul>                <li>la presidenta</li>                <li>el vicepresidente</li>                <li>los cuatro miembros permanentes</li>                <li>las autoridades del país donde está ubicado el banco en dificultades.</li>             </ul>             <p>Se adoptan decisiones de resolución concretas que implican la utilización del Fondo por un valor inferior a 5.000 millones de euros.</p>             <p>                <b>Sesiones plenarias:</b> tienen competencia para decidir en casos de resolución concretos si se requiere la ayuda del Fondo por un valor superior al umbral de 5.000 millones de euros.</p>             <p>La Junta Única de Resolución desempeña su actividad en estrecha colaboración con la Autoridad Bancaria Europea cuyo principal objetivo consiste en ayudar a establecer un código normativo único europeo sobre la banca para fijar normas exigentes aplicables a las instituciones financieras en la UE. La Autoridad también promueve la convergencia de las prácticas de supervisión y evalúa los riesgos y vulnerabilidades del sector bancario de la UE.</p>             <h2>¿A quién beneficia?</h2>             <p>La Junta Única de Resolución podrá actuar de forma proporcional, adecuada y ágil para sentar las bases de recuperación y resolución de los bancos de la zona del euro. Se trata de evitar otros rescates y transferir a los bancos la responsabilidad de la resolución con el coste mínimo para los contribuyentes y la economía real.</p>             <p> </p>"
+            ],
+            "et": [
+                "<p>Ühtne Kriisilahendusnõukogu on uus Euroopa pangandusliidu kriisilahendusasutus. See on oluline pangandusliidu ja selle ühtse kriisilahenduskorra element. Ühtse Kriisilahendusnõukogu ülesandeks on tagada maksejõuetusohus olevate pankade korrakohane kriisilahendus, millel oleks minimaalne mõju reaalmajandusele ning pangandusliidus osalevate ELi liikmesriikide ja muude riikide rahandusele.</p>             <h2>Millega Ühtne Kriisilahendusnõukogu tegeleb?</h2>             <p>Selle peamised ülesanded on järgmised:</p>             <ul>                <li>kehtestada üksuste kriisilahenduseks ühtsed eeskirjad ja menetlused;</li>                <li>võtta pangandusliidu raames vastu kriisilahendusalaseid otsuseid standardmenetluse kohaselt – see aitab säilitada turu usaldust;</li>                <li>luua usaldusväärsed ja teostatavad kriisilahenduse menetlused;</li>                <li>kõrvaldada kriisilahenduse takistused, et muuta Euroopa pangandussüsteem turvalisemaks;</li>                <li>hoida kriisilahenduse kulud võimalikult väikesed ja vältida väärtuse hävitamist, välja arvatud juhul, kui see on vajalik kriisilahenduse eesmärkide saavutamiseks;</li>                <li>pakkuda olulisi eeliseid maksumaksjatele, pankadele ja hoiuste omanikele;</li>                <li>edendada kogu ELis rahalist ja majanduslikku stabiilsust.</li>             </ul>             <h2>Kuidas Ühtne Kriisilahendusnõukogu töötab?</h2>             <p>Kriisilahendusnõukogu tuleb kokku kas <b>täitevistungi</b> või <b>täiskogu</b> vormis. Iga istungi hääletuskorra puhul püütakse saavutada tasakaal kahe vajaduse vahel: võtta arvesse kõigi liikmesriikide huve ning tagada tõhus otsuste tegemine ELi tasandil.</p>             <p>                <b>Täitevistung</b> – võtab vastu peamisi ettevalmistavaid ja operatiivseid otsuseid üksikute pankade kriisilahenduse kohta, sealhulgas seoses fondi kasutamisega, ning liikmesriikide asutustele suunatud meetmete rakendamist käsitlevaid otsuseid. Sellistel istungitel osalevad:</p>             <ul>                <li>esimees;</li>                <li>aseesimees;</li>                <li>4 alalist liiget;</li>                <li>esindajad selle riigi ametiasutustest, kus raskustesse sattunud pank asub.</li>             </ul>             <p>Võetakse vastu individuaalsed kriisilahenduse otsused, mis on seotud fondi vahendite kasutamisega alla 5 miljardi euro.</p>             <p>                <b>Täiskogu</b> – pädev otsustama selliste individuaalsete kriisilahendusjuhtumite üle, mille puhul osutub vajalikuks fondi vahendite kasutamine üle 5 miljardi euro.</p>             <p>Ühtne Kriisilahendusnõukogu teeb tihedat koostööd Euroopa Pangandusjärelevalvega, mille peamine ülesanne on aidata koostada ühtsed Euroopa eeskirjad panganduse jaoks, milles määrataks kindlaks ühtsed usaldatavusnõuded finantseerimisasutustele ELis. Lisaks edendab amet järelevalvetavade lähendamist ning hindab riske ja haavatavusi ELi pangandussektoris.</p>             <h2>Kes on kasusaajad?</h2>             <p>Ühtne Kriisilahendusnõukogu saab tegutseda kiiresti, asjakohaselt ja proportsionaalselt, et kehtestada maksevõime taastamise ja kriisilahenduskord euroala pankadele. Eesmärk on vältida päästeabi vajadust tulevikus ning asetada kriisilahendusega kaasnev vastutus pankadele, minimeerides maksumaksjate ja reaalmajanduse kulusid.</p>             <p> </p>"
+            ],
+            "fi": [
+                "<p>Yhteinen kriisinratkaisuneuvosto (Single Resolution Board, SRB) on Euroopan pankkiunionin kriisinratkaisuviranomainen. Se on keskeinen osa uutta pankkiunionia ja sen yhteistä kriisinratkaisumekanismia. Sen tehtävänä on varmistaa, että ongelmapankkien kriisinratkaisu sujuu hallitusti ja vaikuttaa mahdollisimman vähän reaalitalouteen sekä pankkiunioniin osallistuvien EU-maiden ja muiden maiden julkiseen talouteen.</p>             <h2>SRB:n tehtävät</h2>             <p>Kriisinratkaisuneuvoston päätehtävinä on</p>             <ol>                <li>vahvistaa säännöt ja menettelyt kriisinratkaisua varten</li>                <li>tehdä pankkiunionissa päätöksiä, jotka koskevat kriisinratkaisua; vakiomenettelyn noudattaminen edistää markkinoiden luottamuksen säilymistä</li>                <li>laatia uskottavia ja toteuttamiskelpoisia kriisinratkaisujärjestelyjä</li>                <li>poistaa kriisinratkaisun esteitä ja lisätä Euroopan pankkijärjestelmän turvallisuutta </li>                <li>minimoida kriisinratkaisun kustannukset ja välttää arvon tuhoutuminen paitsi, jos se on välttämätöntä kriisinratkaisutavoitteiden saavuttamiseksi</li>                <li>tarjota merkittäviä etuja, jotka hyödyttävät veronmaksajia, pankkeja ja tallettajia</li>                <li>edistää rahoitusalan ja talouden vakautta EU:n laajuisesti.</li>             </ol>             <h2>SRB:n toiminta</h2>             <p>Yhteinen kriisinratkaisuneuvosto toimii <b>johdon istunnoissa</b> ja <b>täysistunnoissa</b>. Kummankin istunnon äänestyssäännöissä pyritään tasapainottamaan tarve ottaa huomioon eri maiden edut ja tarve varmistaa, että EU:n tasolla voidaan tehdä tehokkaita päätöksiä.</p>             <p>                <b>Johdon istunnoissa</b> tehdään yksittäisten pankkien kriisinratkaisun valmistelua ja toteutusta koskevat keskeiset päätökset, mukaan luettuina päätökset kriisinratkaisurahaston käytöstä, sekä kansallisille viranomaisille suunnatut toimenpiteiden täytäntöönpanoa koskevat päätökset. Johdon istuntoihin osallistuvat</p>             <ul>                <li>puheenjohtaja</li>                <li>varapuheenjohtaja</li>                <li>4 pysyvää jäsentä</li>                <li>sen maan viranomaiset, jossa vaikeuksissa oleva pankki sijaitsee.</li>             </ul>             <p>Johdon istunnoissa tehdään yksittäiset päätökset tapauksissa, joissa kriisinratkaisurahastosta tarvittava tuki ei ylitä 5 miljardin euron kynnysarvoa. </p>             <p>                <b>Täysistunnoissa</b> tehdään päätökset tapauksissa, joissa kriisinratkaisurahastosta tarvittava tuki ylittää 5 miljardin euron kynnysarvon.</p>             <p>Yhteinen kriisinratkaisuneuvosto toimii tiiviissä yhteistyössä Euroopan pankkiviranomaisen kanssa. Tämän viranomaisen päätehtävä on laatia rahoituspalvelujen yhteinen eurooppalainen sääntökirja, jossa vahvistetaan yhtenäiset vakavaraisuussäännöt EU:n rahoituslaitoksille. Lisäksi viranomainen edistää valvontakäytäntöjen lähentymistä ja arvioi EU:n pankkialan riskejä ja heikkouksia.</p>             <h2>Hyötyjät</h2>             <p>Yhteinen kriisinratkaisuneuvosto pystyy toteuttamaan nopeita, asianmukaisia ja oikeasuhteisia toimia euroalueen pankkien elvytys- ja kriisinratkaisujärjestelyjen aikaansaamiseksi. Tavoitteena on välttyä tulevaisuudessa pankkien pelastustoimilta ja minimoida veronmaksajille ja reaalitaloudelle aiheutuvat kustannukset. Vastuu kriisinratkaisusta on ensi sijassa pankeilla itsellään.</p>             <p> </p>"
+            ],
+            "fr": [
+                "<p>Le Conseil de résolution unique (CRU) est la nouvelle autorité de résolution de l’Union bancaire européenne. Il constitue un élément essentiel de l’Union bancaire et du mécanisme de résolution unique. Sa mission consiste à assurer la résolution ordonnée des banques défaillantes en réduisant au minimum les conséquences pour l’économie réelle et les finances publiques des pays de l'UE participants et d'autres pays.</p>             <h2>Que fait le CRU?</h2>             <p>Ses principales tâches sont les suivantes:</p>             <ul>                <li>établir des règles et procédures types pour la résolution d'entités;</li>                <li>prendre des décisions de résolution au sein de l’Union bancaire, conformément à une procédure type, en vue de préserver la confiance du marché;</li>                <li>mettre en place des dispositifs de résolution crédibles et réalisables;</li>                <li>supprimer les obstacles à la résolution afin de rendre le système bancaire plus sûr en Europe;</li>                <li>réduire au minimum les coûts de résolution et éviter la destruction de valeur, à moins que la réalisation des objectifs de la résolution ne l’exige;</li>                <li>apporter des bénéfices importants aux contribuables, aux banques et aux déposants;</li>                <li>promouvoir la stabilité financière et économique dans l’ensemble de l'UE.</li>             </ul>             <h2>Comment travaille le CRU?</h2>             <p>Il se réunit en sessions <b>exécutives</b> et <b>plénières</b>. Les règles de vote pour chaque type de session garantissent la prise en compte des intérêts de tous les pays et l’efficacité des décisions à l'échelle de l’UE.</p>             <p>                <b>Session exécutive</b>: le Conseil y prend les décisions préparatoires et opérationnelles importantes en matière de résolution des établissements bancaires et de recours au Fonds, ainsi que les décisions adressées aux autorités nationales concernant l'application des mesures. Lors de ces sessions, le Conseil est composé:</p>             <ul>                <li>de la présidente;</li>                <li>du vice-président;</li>                <li>des quatre membres permanents;</li>                <li>des autorités du pays dans lequel la banque en difficulté est établie.</li>             </ul>             <p>Y sont également prises les décisions de résolution individuelles pour lesquelles le recours au Fonds reste en-deçà d’un seuil de 5 milliards d’euros.</p>             <p>                <b>Session plénière</b>: le Conseil y prend les décisions de résolution individuelles qui impliquent le recours au Fonds au-delà du seuil de 5 milliards d'euros.</p>             <p>Le Conseil de résolution unique collabore étroitement avec l’Autorité bancaire européenne, dont la mission principale est de contribuer à la mise en place d’un règlement uniforme européen («Single European Rulebook») fixant des normes prudentielles types pour les établissements financiers dans l’UE. L’Autorité encourage également la convergence des pratiques en matière de surveillance et évalue les risques et les vulnérabilités dans le secteur bancaire de l’UE.</p>             <h2>Qui bénéficie des mesures adoptées?</h2>             <p>Le Conseil de résolution unique sera en mesure d’agir rapidement, de manière appropriée et proportionnée afin de mettre en place des dispositifs de sauvetage et de résolution pour les banques de la zone euro. L’objectif est d’éviter de futurs renflouements et de placer la charge de la résolution sur les banques, en réduisant au minimum les coûts pour les contribuables et pour l’économie réelle.</p>             <p> </p>"
+            ],
+            "ga": [
+                "<p>Is é an Bord Réitigh Aonair (BRA) údarás réitigh an Aontais Baincéireachta Eorpaigh nua. Tá sé ag croílár an Aontais Baincéireachta agus an tSásra Réitigh Aonair . Is é misean SRB bainc a bhfuil ag cliseadh orthu a réiteach go hordúil sa chaoi nach mbeidh ach tionchar íosta ar fhíorgheilleagar agus ar airgeadas poiblí na dtíortha rannpháirteacha, de chuid an Aontais agus eile.</p>             <h2>Cad a dhéanann BRA?</h2>             <p>Is iad seo na príomhchúraimí atá air:</p>             <ul>                <li>rialacha agus cur chuige a leagan síos maidir le réiteach eagraíochtaí</li>                <li>cinntí maidir le réiteach a ghlacadh laistigh den Aontas Baincéireachta i gcomhréir le cur chuige caighdeánach - rud a chuidíonn le muinín sa mhargadh a choinneáil</li>                <li>socruithe inchreidte féideartha le haghaidh réitigh a bhunú</li>                <li>deireadh a chur le bacainní ar réiteach, córas baincéireachta na hEorpa a dhéanamh níos sábháilte</li>                <li>costais réitigh a choinneáil chomh híseal agus is féidir, díluacháil a sheachaint murar gá é chun cuspóirí réitigh a bhaint amach</li>                <li>príomhshochair a chur ar fáil do cháiníocóirí, do bhainc agus do shealbhóirí taiscí</li>                <li>cobhsaíocht airgeadais agus eacnamaíoch a chur chun cinn ar fud an Aontais.</li>             </ul>             <h2>Cén chaoi a n-oibríonn BRA?</h2>             <p>In dhá sheisiún - <b>feidhmiúcháin</b> agus <b>iomlánach</b>. Aimsíonn na rialacha vótála ag gach seisiún cothromaíocht idir leasanna na dtíortha uile a chur san áireamh agus an gá atá ann cinntí daingne éifeachtacha a dhéanamh ar leibhéal an Aontais Eorpaigh.</p>             <p>                <b>Seisiún feidhmiúcháin –</b> na príomhchinntí ullmhúcháin agus oibríochtúla a dhéanamh maidir le réiteach banc aonair agus maidir le húsáid an Chiste, agus cinntí atá dírithe ar údaráis náisiúnta a dhéanamh maidir le bearta a chur chun feidhme. Is iad seo a leanas a bhíonn rannpháirteach sna seisiúin:</p>             <ul>                <li>an Cathaoirleach</li>                <li>an Leas-Chathaoirleach</li>                <li>na ceithre chomhalta bhuana</li>                <li>údaráis na tíre ina bhfuil an banc a bhfuil ag cliseadh air lonnaithe.</li>             </ul>             <p>Glactar le cinntí réitigh aonair lena n-úsáidtear suim níos lú na €5 billiún ón gCiste.</p>             <p>                <b>Seisiún iomlánach</b> - inniúil ar chinneadh a dhéanamh i gcásanna réitigh aonair an bhfuil gá tacaíocht ar mó í ná an tairseach €5 billiún a chur ar fáil ón gCiste.</p>             <p>Oibríonn an Bord Réitigh Aonair go dlúth i gcomhar leis an Údarás Baincéireachta Eorpach, arb é an príomhdhualgas atá air cuidiú le bunú Leabhar Rialacha Aonair Eorpach maidir le baincéireacht ina leagfar amach rialacha stuamachta caighdeánacha d'institiúidí airgeadais de chuid an Aontais. Cuireann an tÚdarás cóineasú cleachtas maoirseachta chun cinn agus déanann sé measúnú ar rioscaí agus leochaileacht in earnáil na baincéireachta san Aontas.</p>             <h2>Cé a bhainfidh leas as?</h2>             <p>Beidh an Bord Réitigh Aonair in ann gníomhú go gasta, go hiomchuí agus go comhréireach chun socruithe téarnaimh agus réitigh a bhunú do bhainc i limistéar an euro. Is é an cuspóir atá ann tarrthálacha a sheachaint as seo amach agus ualach an réitigh a chur ar na bainc, ar chostas fíorbheag don chainíocóir agus don fhíorgheilleagar.</p>             <p> </p>"
+            ],
+            "hr": [
+                "<p>Jedinstveni sanacijski odbor (SRB) novo je sanacijsko tijelo europske bankovne unije. On je ključni element bankovne unije i njezina jedinstvenog sanacijskog mehanizma. Njegova je misija osigurati propisnu sanaciju posrnulih banaka, uz što je moguće manji utjecaj na realno gospodarstvo i na javne financije uključenih zemalja EU-a i ostalih zemalja.</p>             <h2>Što čini SRB?</h2>             <p>Glavne su mu zadaće sljedeće:</p>             <ul>                <li>uspostavljanje standardnih pravila i postupaka za sanaciju subjekata;</li>                <li>donošenje odluka o sanaciji unutar bankovne unije na temelju standardnog postupka (to pomaže održavanju tržišnog povjerenja);</li>                <li>uspostavljanje vjerodostojnih i izvedivih planova sanacije;</li>                <li>uklanjanje prepreka sanaciji kako bi bankovni sustav u Europi bio sigurniji;</li>                <li>smanjenje troškova sanacije na najmanju moguću mjeru i izbjegavanje rušenja vrijednosti osim ako je to nužno za postizanje ciljeva sanacije;</li>                <li>pružanje ključnih prednosti poreznim obveznicima, bankama i vlasnicima depozita;</li>                <li>promicanje financijske i gospodarske stabilnosti na razini cijelog EU-a.</li>             </ul>             <h2>Kako funkcionira SRB?</h2>             <p>Na temelju dvije sjednice – <b>izvršne </b>i <b>plenarne</b>. Pravilima glasovanja na svakoj sjednici postiže se ravnoteža između potrebe da se u obzir uzmu interesi svih država i potrebe da se osigura poduzimanje učinkovitih odluka na razini EU-a.</p>             <p>                <b>Izvršna sjednica –</b> donošenje ključnih pripremnih i operativnih odluka o sanaciji pojedinačnih banaka, uključujući upotrebu Fonda, te odluka upućenih nacionalnim tijelima radi provedbe tih mjera. Na takvim sjednicama sudjeluju:</p>             <ul>                <li>predsjednik,</li>                <li>potpredsjednik,</li>                <li>četiri stalna člana,</li>                <li>tijela iz države u kojoj se nalazi sjedište banke koja se suočava s poteškoćama.</li>             </ul>             <p>Donose se pojedinačne odluke o sanaciji koje uključuju upotrebu Fonda u iznosima manjima od 5 milijardi EUR.</p>             <p>                <b>Plenarna sjednica</b> – nadležna za odlučivanje u pojedinačnim slučajevima sanacije o tome je li potrebna potpora Fonda u iznosima većima od 5 milijardi EUR.</p>             <p>Jedinstveni sanacijski odbor blisko surađuje s Europskim nadzornim tijelom za bankarstvo, čija je glavna zadaća pomoći pri donošenju jedinstvenog europskog pravilnika za bankarstvo, kojim bi se uspostavila standardna bonitetna pravila za financijske institucije u EU-u. Nadzorno tijelo također promiče konvergenciju nadzornih praksa i procjenjuje rizike i slabe točke u bankovnom sektoru u EU-u.</p>             <h2>Tko će imati koristi od SRB-a?</h2>             <p>Jedinstveni sanacijski odbor moći će djelovati brzo, primjereno i razmjerno kako bi se uspostavili planovi oporavka i sanacije banaka u Eurozoni. Cilj je izbjeći buduće sanacije javnim sredstvima i teret sanacije prebaciti na same bake, uz minimalne troškove za porezne obveznike i realno gospodarstvo.</p>             <p> </p>"
+            ],
+            "hu": [
+                "<p>Az Egységes Szanálási Testület (ESZT) az új európai bankunió szanálási testülete – fontos részét képezi a bankuniónak és az Egységes Szanálási Mechanizmusnak. Küldetése, hogy biztosítsa a támogatásra szoruló bankok pénzügyi helyzetének rendezését úgy, hogy az a részt vevő uniós és egyéb országok reálgazdaságára és államháztartására a lehető legkisebb hatást gyakorolja.</p>             <h2>Milyen feladatokat lát el az ESZT?</h2>             <p>Legfontosabb feladatai:</p>             <ul>                <li>eljárásiszabályzat-minta kidolgozása a pénzintézetek szanálására,</li>                <li>a szanálással kapcsolatos döntések meghozatala a bankunió keretében, szabványos eljárások mentén (ez fontos a piaci bizalom megőrzésének szempontjából),</li>                <li>hiteles és megvalósítható szanálási intézkedések megtervezése,</li>                <li>a szanálás akadályainak felszámolása (hogy az európai bankrendszer biztonságosabb legyen),</li>                <li>a szanálás költségeinek minimálisra csökkentése és az értékek megsemmisítésének elkerülése (kivéve, ha az a szanálási célok eléréséhez szükséges),</li>                <li>az adófizetők, bankok és betétesek érdekeinek védelme,</li>                <li>az uniós pénzügyi és gazdasági stabilitás előmozdítása.</li>             </ul>             <h2>Hogyan működik az ESZT?</h2>             <p>A testület <b>vezetői üléseket</b> és <b>plenáris üléseket</b> tart. Mind a vezetői, mind a plenáris ülések esetében a szavazási szabályok úgy lettek kialakítva, hogy az egyes országok érdekeinek figyelembevétele hatékony uniós döntések meghozatalával párosuljon.</p>             <p>A <b>vezetői ülésen</b> a testület az egyes bankokra vonatkozó legfontosabb általános és operatív döntéseket hozza meg, beleértve az alap felhasználásával kapcsolatos döntéseket és a tagállami hatóságok által végrehajtandó intézkedésekre vonatkozó döntéseket. A vezetői ülésen részt vesz:</p>             <ul>                <li>az elnök</li>                <li>az alelnök</li>                <li>a négy állandó tag</li>                <li>és azon tagállam illetékes nemzeti hatóságának képviselői, ahol a bajba jutott bank be van jegyezve</li>             </ul>             <p>A vezetői ülésen legfeljebb évi 5 milliárd euró összegű kiadást eredményező döntések születhetnek.</p>             <p>A <b>plenáris ülés</b> során a testület olyan szanálási ügyekről dönt, amelyek az alap terhére éves szinten több mint 5 milliárd euró finanszírozást igényelnek.</p>             <p>Az Egységes Szanálási Testület szorosan együttműködik az Európai Bankhatósággal, amelynek legfőbb feladata, hogy elősegítse az európai egységes banki szabálykönyv létrehozását. A szabálykönyv az uniós pénzügyi intézményekre vonatkozóan irányadó prudenciális szabályokat tartalmazza majd. A hatóság emellett előmozdítja a felügyeleti gyakorlatok egymáshoz történő közelítését, és felméri az EU bankszektorában feltárt kockázatokat és gyenge pontokat.</p>             <h2>Kik látják hasznát a testületnek?</h2>             <p>Az Egységes Szanálási Testület gyors, hatékony és arányos intézkedésekkel megfelelő helyreállítási és szanálási megállapodásokat fog kidolgozni az euróövezet bankjai számára. A cél az, hogy elkerülhetők legyenek a további mentőcsomagok, és hogy a szanálás költségeit a bankok viseljék – a reálgazdaság és az adófizetők lehető legnagyobb mértékű tehermentesítése mellett.</p>             <p> </p>"
+            ],
+            "it": [
+                "<p>Il Comitato di risoluzione unico (SRB) è la nuova autorità di risoluzione delle crisi dell’Unione bancaria europea. È un elemento chiave dell’Unione bancaria e del meccanismo di risoluzione unico. La sua missione è garantire la risoluzione ordinata delle banche in difficoltà, con un minimo impatto sull’economia reale e sulle finanze pubbliche dei paesi dell’UE partecipanti e di altri soggetti</p>             <h2>Cosa fa l'SRB?</h2>             <p>Le sue funzioni principali sono:</p>             <ol>                <li>stabilire norme e procedure standard per la risoluzione delle entità</li>                <li>prendere decisioni in materia di risoluzione nell’ambito dell’Unione bancaria secondo una procedura standard, cosa che aiuta a mantenere la fiducia del mercato</li>                <li>istituire meccanismi credibili e attuabili per la risoluzione delle crisi</li>                <li>eliminare gli ostacoli alla risoluzione per rendere il sistema bancario europeo più sicuro</li>                <li>ridurre al minimo i costi ed evitare la distruzione del valore, a meno che non sia necessaria per conseguire gli obiettivi della risoluzione delle crisi</li>                <li>fornire importanti benefici a contribuenti, banche e titolari di depositi</li>                <li>promuovere la stabilità economica e finanziaria a livello dell’UE.</li>             </ol>             <h2>Come funziona l'SRB?</h2>             <p>Sono previste due sessioni: una <b>esecutiva</b> e una <b>plenaria</b>. In ogni sessione, le regole di voto cercano di conciliare la necessità di tenere conto degli interessi di tutti i paesi e l'esigenza di garantire l’efficacia delle decisioni adottate a livello dell’UE.</p>             <p>                <b>Sessione esecutiva –</b> adotta le principali decisioni preparatorie e operative per risolvere la situazione critica delle singole banche, compreso il ricorso al Fondo, e le decisioni rivolte alle autorità nazionali per attuare le misure. A queste sessioni partecipano:</p>             <ul>                <li>il presidente</li>                <li>il vicepresidente</li>                <li>i 4 membri permanenti</li>                <li>le autorità del paese in cui la banca in dissesto è basata.</li>             </ul>             <p>Vengono adottate singole decisioni in materia di risoluzione che comportano il ricorso al Fondo al di sotto di una soglia di 5 miliardi di euro.</p>             <p>                <b>Sessione plenaria</b> - nei casi di risoluzione di crisi bancarie individuali decide se è necessario un sostegno da parte del Fondo superiore alla soglia di 5 miliardi di euro.</p>             <p>Il Comitato di risoluzione unico opera in stretta collaborazione con l’Autorità bancaria europea, il cui compito principale è quello di contribuire all’istituzione di un corpus unico europeo di norme per le banche che fissa norme standard prudenziali per gli istituti finanziari nell’UE. L’Autorità promuove la convergenza delle pratiche di vigilanza e valuta i rischi e le vulnerabilità nel settore bancario dell’UE.</p>             <h2>Chi ne beneficia?</h2>             <p>Il Comitato sarà in grado di intervenire in modo rapido, adeguato e proporzionato per istituire un regime di risanamento e risoluzione delle crisi per le banche dell’area dell’euro. L’obiettivo è evitare salvataggi in futuro e trasferire alle banche l’onere della risoluzione, con costi minimi per i contribuenti e l’economia reale.</p>             <p> </p>"
+            ],
+            "lt": [
+                "<p>Bendra pertvarkymo valdyba (BPV) – nauja Europos Sąjungos bankų pertvarkymo institucija. Ji yra viena svarbiausių bankų sąjungos ir Bendro pertvarkymo mechanizmo dalių. Jos tikslas – užtikrinti tvarkingą žlungančių bankų pertvarkymą, padarant kuo mažesnį poveikį susijusių ES šalių ir kitų šalių realiajai ekonomikai bei viešiesiems finansams.</p>             <h2>Kokia yra BPV veikla?</h2>             <p>Pagrindinės jos užduotys yra:</p>             <ul>                <li>parengti standartines subjektų pertvarkymo taisykles ir procedūras;</li>                <li>priimti sprendimus dėl pertvarkymo bankų sąjungoje pagal standartinį procesą; tai padeda išlaikyti rinkos pasitikėjimą;</li>                <li>parengti patikimus ir įgyvendinamus pertvarkymo susitarimus;</li>                <li>pašalinti pertvarkymo kliūtis, kad Europos bankų sistema būtų saugesnė;</li>                <li>kuo labiau sumažinti pertvarkymo sąnaudas ir vengti visiško vertės praradimo, išskyrus atvejus, kai tai būtina siekiant pertvarkymo tikslų;</li>                <li>būti iš esmės naudinga mokesčių mokėtojams, bankams ir indėlininkams;</li>                <li>skatinti finansinį ir ekonominį stabilumą ES mastu.</li>             </ul>             <h2>Kaip BPV veikia?</h2>             <p>Organizuojami dviejų pobūdžių posėdžiai – <b>valdybos</b> ir <b>plenariniai</b>. Balsavimo taisyklėmis šiuose posėdžiuose siekiama poreikio atsižvelgti į visų šalių interesus ir būtinybės užtikrinti veiksmingų sprendimų priėmimą ES lygmeniu pusiausvyros.</p>             <p>                <b>Valdybos posėdžiuose</b> priimami pagrindiniai parengiamieji ir darbiniai sprendimai dėl atskirų bankų pertvarkymo, be kita ko, numatant fondo lėšų panaudojimą, ir nacionalinėms institucijoms skirti priemonių įgyvendinimo sprendimai. Šiuose posėdžiuose dalyvauja:</p>             <ul>                <li>pirmininkas,</li>                <li>pirmininko pavaduotojas,</li>                <li>4 nuolatiniai nariai,</li>                <li>šalies, kurioje įsikūręs sunkumų patiriantis bankas, kompetentingos institucijos.</li>             </ul>             <p>Priimami atskiri sprendimai dėl pertvarkymo, kuriais gali būti panaudojama iki 5 mlrd. EUR fondo lėšų.</p>             <p>                <b>Plenariniuose posėdžiuose</b> gali būti priimami atskiri sprendimai dėl pertvarkymo, kuriais gali būti skiriama didesnė kaip 5 mlrd. EUR fondo lėšų parama.</p>             <p>Bendra pertvarkymo valdyba glaudžiai bendradarbiauja su Europos bankininkystės institucija, kurios pagrindinė užduotis – padėti sukurti bendrą Europos bankų sektoriaus taisyklių sąvadą, kuriame nurodomos tipinės ES finansų įstaigų prudencinės taisyklės. Institucija skatina vienodinti priežiūros praktiką ir vertina ES bankų sektoriaus riziką ir pažeidžiamumą.</p>             <h2>Kam naudinga?</h2>             <p>Bendra pertvarkymo valdyba gali greitai, tinkamai ir proporcingai parengti euro zonos bankų gaivinimo ir pertvarkymo susitarimus. Tikslas – ateityje išvengti gelbėjimo valstybės lėšomis ir perkelti bankų pertvarkymo naštą bankams, kad tai kuo mažiau kainuotų mokesčių mokėtojams ir realiajai ekonomikai.</p>             <p> </p>"
+            ],
+            "lv": [
+                "<p>Vienotā noregulējuma valde (VNV) ir jauna, par noregulējumu atbildīga Eiropas banku savienības iestāde. Tā ir svarīgs banku savienības un tās vienotā noregulējuma mehānisma elements. Tās uzdevums ir gādāt par noteikumiem atbilstīgu noregulējumu maksātnespējīgām bankām ar iespējami mazākām sekām reālajai ekonomikai un iesaistīto ES valstu un citu personu publiskajām finansēm.</p>             <h2>Ko dara VNV</h2>             <p>Tās galvenie pienākumi ir šādi.</p>             <ul>                <li>Izstrādāt standarta noteikumus un procedūras attiecībā uz finanšu iestāžu noregulējumu.</li>                <li>Lemt par noregulējumu banku savienībā saskaņā ar standarta procedūru, — lai vairotu uzticēšanos tirgum.</li>                <li>Ieviest uzticamus un īstenojamus noregulējuma pasākumus.</li>                <li>Novērst šķēršļus noregulējumam, lai Eiropas banku sistēmu padarītu drošāku.</li>                <li>Līdz minimumam samazināt noregulējuma izmaksas un izvairīties no vērtības iznīcināšanas, ja vien tas nav nepieciešams noregulējuma mērķu sasniegšanai.</li>                <li>Sniegt būtisku labumu nodokļu maksātājiem, bankām, ieguldītājiem.</li>                <li>Veicināt ES mēroga finanšu un ekonomikas stabilitāti.</li>             </ul>             <h2>Kā strādā VNV?</h2>             <p>Valde tiekas 2 veidu sesijās – <b>izpildsesijās</b> un <b>plenārsesijās</b>. Balsošanas noteikumi katrā sesijā gādā, lai tiktu ņemtas vērā visu valstu intereses un ES līmenī tiktu pieņemti efektīvi lēmumi.</p>             <p>                <b>Izpildsesija</b> – sagatavošanas un operatīvi lēmumi par atsevišķu banku noregulējumu, Fonda izmantojumu un valstu iestādēm adresēti lēmumi par pasākumu izpildi. Izpildsesiju dalībnieki:</p>             <ul>                <li>priekšsēdētājs,</li>                <li>priekšsēdētāja vietnieks,</li>                <li>4 pastāvīgie locekļi,</li>                <li>tās valsts iestādes, kurā atrodas grūtībās nonākušās bankas mītne.</li>             </ul>             <p>Tiek pieņemti lēmumi par to, kā noregulējami atsevišķi gadījumi, kad nepieciešamie Fonda līdzekļi nesasniedz 5 miljardu eiro slieksni.</p>             <p>                <b>Plenārsesijas</b> – lēmumi atsevišķos noregulējuma gadījumos par to, vai nepieciešami vairāk nekā 5 miljardi eiro Fonda līdzekļu.</p>             <p>Vienotā noregulējuma valde cieši sadarbojas ar Eiropas Banku iestādi, kuras galvenais uzdevums ir palīdzēt izveidot Eiropas vienoto noteikumu kopumu banku nozarei ar uzraudzības standartiem ES finanšu iestādēm. Iestāde veicina arī uzraudzības prakses tuvināšanu un novērtē risku un apdraudējumus ES banku sektorā.</p>             <h2>Kas ir ieguvēji?</h2>             <p>Vienotā noregulējuma valde varēs rīkoties ātri, atbilstīgi un samērīgi, lai noteiktu atveseļošanās un noregulējuma pasākumus eirozonas bankām. Mērķis ir turpmāk izvairīties no banku glābšanas pasākumiem un gādāt, lai noregulējuma slogu uzņemtos bankas un nodokļu maksātāju un reālās ekonomikas izmaksas būtu minimālas.</p>             <p> </p>"
+            ],
+            "mt": [
+                "<p>Il-Bord Uniku ta’ Riżoluzzjoni (BUR) hu l-awtorità l-ġdida ta’ riżoluzzjoni tal-Unjoni Bankarja Ewropea. Hu element ewlieni tal-Unjoni Bankarja u l-Mekkaniżmu Uniku ta’ Riżoluzzjoni tagħha. Il-missjoni tiegħu hi li tiġi żgurata r-riżoluzzjoni b'mod ordnat ta’ banek li qed ifallu, b’impatt kemm jista' jkun possibbli minimu fuq l-ekonomija reali u l-finanzi pubbliċi tal-pajjiżi tal-UE parteċipanti u oħrajn</p>             <h2>X’jagħmel il-BUR?</h2>             <p>Il-kompiti ewlenin tiegħu huma li:</p>             <ul>                <li>jistabbilixxi regoli u proċeduri standard għar-riżoluzzjoni ta’ entitajiet</li>                <li>jieħu deċiżjonijiet dwar ir-riżoluzzjoni fi ħdan l-Unjoni Bankarja skont proċess standard - dan jgħin biex tinżamm il-fiduċja fis-suq</li>                <li>jistabbilixxi arranġamenti kredibbli u flessibbli ta’ riżoluzzjoni</li>                <li>ineħħi l-ostakli għal riżoluzzjoni, biex is-sistema bankarja fl-Ewropa tkun aktar sikura</li>                <li>jimminimizza l-ispejjeż tar-riżoluzzjoni u jevita d-distruzzjoni tal-valur ħlief jekk neċessarju sabiex jinkisbu l-objettivi tar-riżoluzzjoni</li>                <li>jipprovdi benefiċċji ewlenin għal dawk li jħallsu t-taxxa, il-banek u depożitanti</li>                <li>jippromwovi l-istabbiltà ekonomika u finanzjarji fl-UE kollha.</li>             </ul>             <h2>Kif jaħdem il-BUR?</h2>             <p>F'żewġ sessjonijiet - <b>eżekuttiva </b>u <b>plenarja</b>. Regoli tal-votazzjoni f’kull sessjoni jsibu bilanċ bejn il-ħtieġa li jitqiesu l-interessi tal-pajjiżi kollha u l-ħtieġa li jiġi żgurat li jittieħdu deċiżjonijiet effettivi fil-livell tal-UE.</p>             <p>                <b>Sessjoni eżekuttiva –</b> biex jittieħdu d-deċiżjonijiet preparatorji u operazzjonali ewlenin dwar ir-riżoluzzjoni ta' banek individwali, inkluż l-użu tal-Fond, u d-deċiżjonijiet indirizzati lill-awtoritajiet nazzjonali biex jimplimentaw il-miżuri. Sessjonijiet ta' din ix-xorta jinvolvu:</p>             <ul>                <li>il-President</li>                <li>il-Viċi President</li>                <li>l-4 membri permanenti</li>                <li>l-awtoritajiet tal-pajjiż fejn jinsab ibbażat il-bank f’diffikultà.</li>             </ul>             <p>Jiġu adottati deċiżjonijiet ta’ riżoluzzjoni individwali li jinvolvu l-użu tal-Fond taħt livell limitu ta’ €5 biljun.</p>             <p>                <b>Sessjoni plenarja</b> - kompetenti biex tiddeċiedi f'każijiet ta' riżoluzzjoni individwali jekk l-appoġġ tal-Fond hux meħtieġ 'il fuq mill-livell limitu ta' €5 biljun.</p>             <p>Il-Bord Uniku ta’ Riżoluzzjoni jaħdem b’kollaborazzjoni mill-qrib mal-Awtorità Bankarja Ewropea, li l-kompitu prinċipali tagħha hu li tgħin biex jiġi stabbilit Ktieb wieħed tar-Regoli Ewropej dwar is-settur bankarju li jistabbilixxi standard ta’ regoli prudenzjali għal istituzzjonijiet finanzjarji fl-UE. L-Awtorità wkoll tippromwovi l-konverġenza tal-prattiki superviżorji u tivvaluta r-riskji u l-vulnerabbiltajiet fis-settur bankarju tal-UE.</p>             <h2>Min jibbenefika?</h2>             <p>Il-Bord Uniku ta’ Riżoluzzjoni se jkun kapaċi jaġixxi malajr, b’mod xieraq u proporzjonat biex jiġu stabbiliti arranġamenti ta’ rkupru u riżoluzzjoni għall-banek taż-żona tal-euro. L-għan hu li jiġi evitat aktar salvataġġ fil-futur u li jitqiegħed il-piż ta’ riżoluzzjoni fuq il-banek, bi spejjeż minimi għan-nies li jħallsu t-taxxi u għall-ekonomija reali.</p>             <p> </p>"
+            ],
+            "nl": [
+                "<p>De gemeenschappelijke afwikkelingsraad (GAR), de nieuwe Europese autoriteit voor de afwikkeling van de banken, speelt een cruciale rol in de bankenunie en binnen het gemeenschappelijk afwikkelingsmechanisme. Het zorgt voor een ordelijke afwikkeling van failliete banken, met zo gering mogelijke gevolgen voor de reële economie en de overheidsfinanciën van de deelnemende (EU-)landen.</p>             <h2>Wat doet de GAR?</h2>             <p>De belangrijkste taken zijn:</p>             <ul>                <li>De regels en procedures voor de afwikkeling van banken en financiële instellingen standaardiseren</li>                <li>Beslissingen nemen over de liquidatie van failliete kredietinstellingen in de bankenunie volgens een standaardprocedure om het vertrouwen in de markt te vergroten</li>                <li>Geloofwaardige en realistische financieringsregelingen invoeren voor failliete banken</li>                <li>Belemmeringen voor de afwikkeling van banken in Europa uit de weg ruimen om het financieel stelsel veiliger te maken</li>                <li>Afwikkelingskosten en kapitaalvernietiging tot een minimum beperken voor zover niet noodzakelijk om de afwikkelingsdoelstellingen te verwezenlijken</li>                <li>Werken in het belang van belastingbetalers, banken en spaarders</li>                <li>Werken aan de financiële en economische stabiliteit van de hele EU</li>             </ul>             <h2>Hoe werkt de GAR?</h2>             <p>De gemeenschappelijke afwikkelingsraad houdt <b>bestuursvergaderingen</b> en <b>plenaire vergaderingen</b>. Bij de stemregels voor beide vergaderingen moest enerzijds rekening worden gehouden met de diverse nationale belangen en anderzijds met de noodzaak om doeltreffende beslissingen op EU-niveau te nemen.</p>             <p>De <b>bestuursvergadering</b> neemt voorbereidings- en uitvoeringsbesluiten over de de afwikkeling van individuele banken, met inbegrip over het gebruik van het afwikkelingsfonds, evenals besluiten over de uitvoering van de maatregelen die gericht zijn tot de nationale overheden. In de bestuursvergadering zijn vertegenwoordigd:</p>             <ul>                <li>de voorzitter</li>                <li>de vicevoorzitter</li>                <li>vier permanente leden</li>                <li>de autoriteiten van het land waar de bank die met faillissement wordt bedreigd, is gevestigd</li>             </ul>             <p>De bestuursvergadering neemt besluiten over het gebruik van het afwikkelingsfonds waarmee minder dan 5 miljard euro is gemoeid.</p>             <p>De <b>plenaire vergadering</b> moet een besluit nemen over een afwikkeling waarvoor meer dan 5 miljard euro nodig is.</p>             <p>De gemeenschappelijke afwikkelingsraad werkt nauw samen met de Europese Bankautoriteit, die in de eerste plaats moet toewerken naar gemeenschappelijke Europese regels voor het bankwezen waarin standaardregels voor het toezicht op de handel en wandel van de banken in de EU zijn opgenomen. De Europese Bankautoriteit bevordert ook de uniformiteit van het banktoezicht en beoordeelt de risico’s en kwetsbaarheden van de banksector in de EU.</p>             <h2>Wie is erbij gebaat?</h2>             <p>De gemeenschappelijke afwikkelingsraad kan snel de juiste maatregelen nemen om herstel- en afwikkelingsregelingen voor banken in de eurozone te treffen. Dit moet voorkomen dat overheden met veel geld omvallende banken moeten redden. De banken moeten zelf de lasten gaan dragen, met zo laag mogelijke kosten voor de belastingbetalers en de reële economie.</p>             <p> </p>"
+            ],
+            "pl": [
+                "<p>Jednolita Rada ds. Restrukturyzacji i Uporządkowanej Likwidacji (SRB) to nowy europejski organ unii bankowej. Jest ona jednym z kluczowych elementów unii bankowej i jednolitego mechanizmu restrukturyzacji i uporządkowanej likwidacji. Jej zadaniem jest zagwarantowanie uporządkowanej restrukturyzacji i likwidacji upadających banków, przy minimalnym wpływie na gospodarkę realną i finanse publiczne państw członkowskich UE i innych krajów.</p>             <h2>Czym zajmuje się SRB?</h2>             <p>Do głównych zadań tego organu należą:</p>             <ul>                <li>ustanawianie standardowych zasad i procedur restrukturyzacji i uporządkowanej likwidacji podmiotów</li>                <li>podejmowanie decyzji w sprawie restrukturyzacji i uporządkowanej likwidacji w ramach unii bankowej zgodnie ze standardową procedurą – co pomaga utrzymać zaufanie na rynku</li>                <li>ustalanie wiarygodnych i wykonalnych rozwiązań z zakresu restrukturyzacji i uporządkowanej likwidacji</li>                <li>usuwanie przeszkód dla restrukturyzacji i uporządkowanej likwidacji w celu zwiększenia bezpieczeństwa systemu bankowego w Europie</li>                <li>minimalizowanie kosztów restrukturyzacji i uporządkowanej likwidacji oraz unikanie spadku wartości, chyba że jest on niezbędne do osiągnięcia celów restrukturyzacji i uporządkowanej likwidacji</li>                <li>zapewnianie podstawowych korzyści podatnikom, bankom i posiadaczom depozytów</li>                <li>promowanie stabilności finansowej i gospodarczej w całej UE.</li>             </ul>             <h2>W jaki sposób funkcjonuje SRB?</h2>             <p>W ramach dwóch sesji – <b>wykonawczej</b> i <b>plenarnej</b>. Zasady głosowania na każdej sesji pozwalają na zachowanie równowagi między potrzebą uwzględnienia interesów wszystkich krajów a potrzebą zagwarantowania skutecznego podejmowania decyzji na poziomie UE.</p>             <p>                <b>Sesja wykonawcza</b> – podczas niej podejmowane są najważniejsze decyzje przygotowawcze i operacyjne dotyczące restrukturyzacji poszczególnych banków, w tym również wykorzystania funduszu, oraz decyzje skierowane do władz krajowych w celu wdrożenia ustalonych środków. W tych sesjach uczestniczą:</p>             <ul>                <li>przewodniczący</li>                <li>wiceprzewodniczący</li>                <li>czworo stałych członków</li>                <li>przedstawiciele administracji kraju, w którym zagrożony bank ma swoją siedzibę.</li>             </ul>             <p>Podejmowane są decyzje w sprawie restrukturyzacji i uporządkowanej likwidacji poszczególnych banków przy użyciu środków z funduszu do pułapu 5 mld euro.</p>             <p>                <b>Sesja plenarna</b> – umożliwia podejmowanie w konkretnych przypadkach decyzji, czy wymagane jest wsparcie z funduszu przekraczające próg 5 mld euro</p>             <p>Jednolita Rada ds. Restrukturyzacji i Uporządkowanej Likwidacji działa w ścisłej współpracy z Europejskim Urzędem Nadzoru Bankowego, którego głównym zadaniem jest przyczynienie się do stworzenia jednolitego zbioru przepisów dla europejskiego nadzoru bankowego, zawierającego standardowe normy ostrożnościowe dla instytucji finansowych w UE. Urząd wspiera konwergencję praktyk nadzorczych i ocenia zagrożenia dla unijnego sektora bankowego oraz jego słabe punkty.</p>             <h2>Komu przynosi korzyści ta działalność?</h2>             <p>Jednolita Rada ds. Restrukturyzacji i Uporządkowanej Likwidacji będzie mogła reagować szybko, proporcjonalnie i we właściwy sposób, aby ustanowić mechanizmy naprawy oraz restrukturyzacji i uporządkowanej likwidacji dla banków w strefie euro. Celem tej działalności jest uniknięcie w przyszłości potrzeby ratowania banków i przeniesienie na nie odpowiedzialności za restrukturyzację, przy minimalnych kosztach dla podatników i realnej gospodarki.</p>             <p> </p>"
+            ],
+            "pt": [
+                "<p>O Conselho Único de Resolução (SRB) é a nova autoridade de resolução da União Bancária Europeia. É um elemento central da União Bancária e do seu Mecanismo Único de Resolução. Compete-lhe garantir a resolução ordenada dos bancos insolventes, com um impacto mínimo na economia real e nas finanças públicas dos países da UE participantes, entre outros.</p>             <h2>O que faz o SRB?</h2>             <p>Principais funções:</p>             <ul>                <li>estabelecer normas e procedimentos harmonizados para a resolução de entidades bancárias</li>                <li>tomar decisões de resolução no âmbito da União Bancária segundo um procedimento harmonizado, contribuindo assim para manter a confiança dos mercados</li>                <li>elaborar planos de resolução credíveis e viáveis</li>                <li>eliminar os obstáculos à resolução, a fim de tornar o sistema bancário na Europa mais seguro</li>                <li>minimizar os custos de resolução e evitar a destruição de ativos, exceto se necessário para a consecução dos objetivos da resolução</li>                <li>proporcionar benefícios essenciais para os contribuintes, os bancos e os depositantes</li>                <li>promover a estabilidade económica e financeira em toda a UE</li>             </ul>             <h2>Como funciona o SRB?</h2>             <p>Em dois tipos de sessão: <b>sessão executiva</b> e <b>sessão plenária</b>. As regras de votação em cada sessão procuram assegurar um equilíbrio entre a necessidade de ter em conta os interesses de todos os países e o imperativo de eficácia das decisões tomadas ao nível da UE.</p>             <p>Na <b>sessão executiva</b> são tomadas decisões preparatórias e operacionais essenciais em matéria de resolução de bancos insolventes, incluindo a utilização do Fundo, bem como decisões dirigidas às autoridades nacionais relativamente à execução de medidas. Participam nestas sessões:</p>             <ul>                <li>o Presidente</li>                <li>o Vice-Presidente</li>                <li>os quatro membros permanentes</li>                <li>as autoridades do país onde está estabelecido o banco em dificuldade</li>             </ul>             <p>As decisões de resolução que envolvem a utilização de recursos do Fundo abaixo do limiar de 5 mil milhões de euros são tomadas em sessão executiva.</p>             <p>Na <b>sessão plenária</b> são tomadas as decisões relativas a medidas de resolução que impliquem uma utilização do Fundo acima do limiar de 5 mil milhões de euros.</p>             <p>O Conselho Único de Resolução trabalha em estreita colaboração com a Autoridade Bancária Europeia, a quem compete estabelecer um código europeu para o setor financeiro que fixe um quadro único de normas prudenciais para as instituições financeiras da UE. Cabe também à Autoridade Bancária Europeia promover a convergência das práticas de supervisão e avaliar os riscos e as vulnerabilidades do setor financeiro da UE.</p>             <h2>Quem beneficia?</h2>             <p>O Conselho Único de Resolução tem condições para agir de forma rápida, adequada e proporcionada para definir medidas de recuperação e resolução para os bancos da zona euro. O objetivo é evitar futuros resgates e responsabilizar os bancos pela resolução, minimizando os custos para os contribuintes e para a economia real.</p>             <p> </p>"
+            ],
+            "ro": [
+                "<p>Comitetul unic de rezoluție (SRB) este noua autoritate de rezoluție a Uniunii bancare europene și reprezintă un element esențial al mecanismului unic de rezoluție. Misiunea sa este să garanteze rezoluția ordonată a băncilor aflate în dificultate majoră, cu un impact redus asupra economiei reale și finanțelor publice din statele UE participante și din alte țări.</p>             <h2>Ce face SRB?</h2>             <p>Principalele sale sarcini sunt:</p>             <ul>                <li>să stabilească norme standard și proceduri privind rezoluția entităților</li>                <li>să ia decizii privind rezoluția în cadrul Uniunii bancare, în conformitate cu un standard - acest proces ajută la menținerea încrederii pieței</li>                <li>să stabilească măsuri de rezoluție credibile și fezabile</li>                <li>să elimine obstacolele din calea rezoluției, pentru ca sistemul bancar european să fie mai sigur</li>                <li>să reducă la minimum costurile de rezoluție și să evite distrugerea valorii, cu excepția cazului în care acest lucru este necesar în vederea atingerii obiectivelor de rezoluție</li>                <li>să ofere avantaje importante contribuabililor, băncilor și deponenților</li>                <li>să promoveze stabilitatea economică și financiară la nivelul UE.</li>             </ul>             <h2>Cum funcționează SRB?</h2>             <p>Comitetul se reunește în ședință <b>executivă </b> și în ședință <b>plenară</b>. Regulile de vot pentru fiecare ședință își propun să găsească un echilibru între nevoia de a lua în considerare interesele tuturor țărilor și eficiența deciziilor adoptate la nivelul UE.</p>             <p>                <b>Ședința executivă</b>: Comitetul ia deciziile pregătitoare și operaționale în ceea ce privește rezoluția bancară și utilizarea Fondului, precum și deciziile adresate autorităților naționale cu privire la aplicarea măsurilor. La aceste ședințe participă:</p>             <ul>                <li>președintele</li>                <li>vicepreședintele</li>                <li>4 membri permanenți</li>                <li>autoritățile din țara în care își are sediul banca aflată în dificultate.</li>             </ul>             <p>Sunt adoptate decizii individuale de rezoluție care implică utilizarea Fondului sub pragul de 5 miliarde EUR.</p>             <p>                <b>Ședința plenară</b>: Comitetul ia decizii individuale de rezoluție în cazurile în care sprijinul din partea Fondului depășește pragul de 5 miliarde EUR.</p>             <p>Comitetul unic de rezoluție lucrează în strânsă colaborare cu Autoritatea bancară europeană, a cărei sarcină principală este de a contribui la crearea unui cadru unic de reglementare menit să stabilească norme prudențiale standard pentru instituțiile financiare din UE. Autoritatea promovează, de asemenea, convergența practicilor în materie de supraveghere și evaluează riscurile și vulnerabilitățile existente în sectorul bancar al UE.</p>             <h2>Cine sunt beneficiarii măsurilor adoptate?</h2>             <p>Comitetul unic de rezoluție va putea să acționeze cu promptitudine, în mod adecvat și proporțional, pentru a institui mecanisme de redresare și de rezoluție pentru băncile din zona euro. Obiectivul este să se evite pe viitor operațiunile de salvare, iar sarcina rezoluției să se transfere către bănci, cu costuri minime pentru contribuabili și pentru economia reală.</p>             <p> </p>"
+            ],
+            "sk": [
+                "<p>Jednotná rada pre riešenie krízových situácií (SRB) je nový orgán európskej bankovej únie na riešenie krízových situácií. Je kľúčovým prvkom bankovej únie a jednotného mechanizmu riešenia krízových situácií. Jej poslaním je zabezpečiť riadne riešenie krízovej situácie zlyhávajúcich bánk s čo najmenším dosahom na reálnu ekonomiku a verejné financie zúčastnených krajín EÚ a ostatných krajín.</p>             <h2>Čo robí SRB?</h2>             <p>Jej hlavné úlohy sú:</p>             <ul>                <li>stanoviť štandardné pravidlá a postupy pre riešenie krízových situácií subjektov;</li>                <li>prijímať rozhodnutia o riešení krízových situácií v bankovej únii podľa štandardného postupu, čím pomáha udržať dôveru trhu;</li>                <li>vytvoriť spoľahlivé a uskutočniteľné mechanizmy riešenia krízových situácií;</li>                <li>odstrániť prekážky riešenia krízových situácií, aby bol bankový systém v Európe bezpečnejší;</li>                <li>minimalizovať náklady na riešenie krízových situácií a zabrániť poklesu hodnoty, okrem prípadu, že je to potrebné na dosiahnutie cieľov riešenia krízových situácií;</li>                <li>poskytnúť kľúčové výhody daňovníkom, bankám a vkladateľom;</li>                <li>propagovať celoeurópsku finančnú a hospodársku stabilitu.</li>             </ul>             <h2>Ako funguje SRB?</h2>             <p>Svoju činnosť vykonáva na <b>výkonných</b> a <b>plenárnych</b>zasadnutiach. Pravidlá hlasovania na každom zasadnutí predstavujú rovnováhu medzi potrebou zohľadniť záujmy všetkých krajín a potrebou zabezpečiť prijímanie účinných rozhodnutí na úrovni EÚ.</p>             <p>                <b>Výkonné zasadnutia –</b> slúžia na prijímanie prípravných a operatívnych rozhodnutí o riešení situácií konkrétnych bánk, vrátane použitia prostriedkov fondu, a rozhodnutí určených vnútroštátnym orgánom týkajúcich sa vykonávania opatrení. Na týchto zasadnutiach sa zúčastňujú:</p>             <ul>                <li>predseda,</li>                <li>podpredseda,</li>                <li>4 stáli členovia,</li>                <li>orgány krajiny, kde je problémová banka usadená.</li>             </ul>             <p>Na výkonných zasadnutiach sa prijímajú individuálne rozhodnutia o riešení krízových situácií s využitím prostriedkov fondu vo výške najviac 5 mld. EUR.</p>             <p>                <b>Plenárne zasadnutia</b> – s právomocou rozhodovať o prípadoch riešenie krízových situácií, pri ktorých sa z fondu požaduje suma viac ako 5 mld. EUR.</p>             <p>Jednotná rada pre riešenie krízových situácií úzko spolupracuje s Európskym orgánom pre bankovníctvo, ktorého hlavnou úlohou je pomôcť vytvoriť jednotný európsky súbor pravidiel o bankovníctve pre oblasť obozretnosti finančných inštitúcií v EÚ. Európsky orgán pre bankovníctvo takisto podporuje zbližovanie postupov dohľadu a posudzuje riziká a zraniteľné miesta v bankovom sektore EÚ.</p>             <h2>Kto má z činnosti SRB osoh?</h2>             <p>Rada pre riešenie krízových situácií bude schopná rýchlo, vhodne a primerane stanoviť opatrenia na ozdravenie a riešenie krízových situácií bánk eurozóny. Cieľom je zabrániť budúcim záchranám pomocou vonkajších zdrojov (tzv. bail-out) a preniesť bremeno riešenia na banky s minimálnymi nákladmi pre daňovníkov a reálnu ekonomiku.</p>             <p> </p>"
+            ],
+            "sl": [
+                "<p>Enotni odbor za reševanje je novi organ evropske bančne unije. Ta ključni organ bančne unije in enotnega mehanizma za reševanje skrbi za urejeno reševanje bank v težavah s kar najmanjšimi posledicami za gospodarstvo in javne finance sodelujočih in drugih držav EU.</p>             <h2>Naloge odbora SRB</h2>             <p>Glavne naloge odbora so:</p>             <ol>                <li>priprava standardnih pravil in postopkov za reševanje bank</li>                <li>odločanje o reševanju bank v bančni uniji po standardnem postopku, kar ohranja zaupanje trgov</li>                <li>priprava verodostojnih in izvedljivih shem reševanja bank</li>                <li>odstranitev ovir za reševanje bank in s tem večja varnost bančnega sistema v Evropi</li>                <li>zmanjšanje stroškov reševanja in preprečitev znižanja vrednosti, razen kadar je to potrebno za cilje reševanja banke</li>                <li>zagotavljanje ključnih koristi za davkoplačevalce, banke in bančne komitente</li>                <li>uveljavljanje finančne in gospodarske stabilnosti v EU</li>             </ol>             <h2>Delovanje odbora SRB</h2>             <p>Odbor dela v dveh sestavih – <b>izvršnem</b> in <b>plenarnem</b>. Pravila glasovanja vsakega sestava zagotavljajo ravnotežje med potrebo, da se upoštevajo interesi vseh držav, in potrebo, da se na ravni EU sprejemajo učinkovite odločitve.</p>             <p>                <b>Izvršni sestav odbora</b>: sprejema ključne odločitve glede priprave in izvedbe reševanja posamezne banke, tudi glede uporabe sredstev sklada, ter sklepe o ukrepih, ki jih morajo izvesti nacionalni organi. V izvršnem sestavu odbora so:</p>             <ul>                <li>predsednik</li>                <li>podpredsednik</li>                <li>4 stalni člani odbora</li>                <li>organi države, v kateri ima sedež banka v težavah</li>             </ul>             <p>Odloča o reševanju posamezne banke, kadar za to potrebna sredstva sklada ne presežejo mejne vrednosti 5 milijard evrov.</p>             <p>                <b>Plenarni sestav odbora</b>: odloča o reševanju posamezne banke, kadar za to potrebna sredstva sklada presežejo mejno vrednost 5 milijard evrov.</p>             <p>Enotni odbor za reševanje tesno sodeluje z evropskim bančnim organom, predvsem pri pripravi enotnega evropskega pravilnika o bančništvu, ki bo določil standardna bonitetna pravila za finančne ustanove v EU. Evropski bančni organ spodbuja tudi poenotenje nadzornih praks in ocenjuje tveganja in šibkosti v bančnem sektorju EU.</p>             <h2>Koristi</h2>             <p>Enotni odbor za reševanje bo lahko s hitrim, ustreznim in sorazmernim ukrepanjem poskrbel za sanacijo in reševanje bank evrskega območja. Naredil naj bi konec reševanju bank z javnimi sredstvi in prenesel breme reševanja na banke, tako da bodo stroški za davkoplačevalce in gospodarstvo kar najmanjši.</p>             <p> </p>"
+            ],
+            "sv": [
+                "<p>Gemensamma resolutionsnämnden är den nya bankunionens myndighet med uppgift att rekonstruera krisdrabbade banker. Den är en viktig del av bankunionen och den gemensamma resolutionsmekanismen. Nämnden ska se till att krisdrabbade banker rekonstrueras och avvecklas på ett korrekt sätt med minsta möjliga påverkan på realekonomin och de offentliga finanserna i berörda EU-länder och övriga länder.</p>             <h2>Vad gör resolutionsnämnden?</h2>             <p>Huvuduppgifterna är följande:</p>             <ul>                <li>Fastställa standardiserade regler och förfaranden för att rekonstruera finansinstitut.</li>                <li>Fatta beslut om rekonstruktion inom bankunionen enligt ett standardförfarande för att bibehålla marknadens förtroende.</li>                <li>Fastställa trovärdiga och genomförbara arrangemang för rekonstruktion och avveckling.</li>                <li>Få bort hinder för rekonstruktion för att bidra till ett säkrare banksystem i Europa.</li>                <li>Minimera rekonstruktionskostnaderna och undvika värdeförstörelse om det inte behövs för att uppnå rekonstruktionsmålen.</li>                <li>Gagna skattebetalare, banker och insättare.</li>                <li>Främja finansiell och ekonomisk stabilitet i hela EU.</li>             </ul>             <h2>Hur arbetar resolutionsnämnden?</h2>             <p>Nämnden samlas i <b>verkställande sessioner</b> och <b>plenarsessioner</b>. Omröstningsreglerna vid varje session ska se till att alla länders intressen tas till vara samtidigt som man fattar effektiva beslut på EU-nivå.</p>             <p>                <b>Verkställande sessioner –</b> nämnden förbereder och fattar beslut om att rekonstruera eller avveckla enskilda banker, beslut om att använda resolutionsfonden och beslut om nationella åtgärder. Mötesdeltagarna är</p>             <ul>                <li>ordföranden</li>                <li>vice ordföranden</li>                <li>de fyra permanenta ledamöterna</li>                <li>myndighetsföreträdare från det land där banken är baserad.</li>             </ul>             <p>Deltagarna fattar rekonstruktionsbeslut med bidrag på upp till 5 miljarder euro från resolutionsfonden.</p>             <p>                <b>Plenarsessioner</b> – nämnden fattar rekonstruktionsbeslut med bidrag på över 5 miljarder euro från resolutionsfonden.</p>             <p>Resolutionsnämnden har ett nära samarbete med Europeiska bankmyndigheten, vars huvuduppgift är att införa enhetliga tillsynsregler för finansinstitut i EU. Bankmyndigheten främjar också enhetliga tillsynsmetoder och bedömer risker och sårbarhet i EU:s banksektor.</p>             <h2>Vem gynnas?</h2>             <p>Resolutionsnämnden kommer att kunna agera snabbt för att på ett lämpligt och proportionerligt sätt rekonstruera och avveckla banker i euroländerna. Målet är att undvika framtida räddningsinsatser och lägga ansvaret för rekonstruktion och avveckling på bankerna, så att kostnaden för skattebetalarna och realekonomin blir så låg som möjligt.</p>             <p> </p>"
+            ]
+        },
+        "institution_type": {
+            "und": [
+                "agencies"
+            ]
+        },
+        "contact_details": {
+            "und": [
+                "080126248e472f5f"
+            ]
+        },
+        "left_sub_menu": {
+            "und": [
+                true
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_b1f0463ea597e926e35872069b8b7c2a"
+            ]
+        }
+    }
+}

@@ -1,0 +1,1223 @@
+{
+    "_id": "45295774c7a6fea68fe1215685e1baaf",
+    "type": "institution",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Европейски център за развитие на професионалното обучение (Cedefop)"
+            ],
+            "cs": [
+                "Evropské středisko pro rozvoj odborného vzdělávání (Cedefop)"
+            ],
+            "da": [
+                "Det Europæiske Center for Udvikling af Erhvervsuddannelse (Cedefop)"
+            ],
+            "de": [
+                "Europäisches Zentrum für die Förderung der Berufsbildung"
+            ],
+            "el": [
+                "Ευρωπαϊκό Κέντρο για την Ανάπτυξη της Επαγγελματικής Κατάρτισης (Cedefop)"
+            ],
+            "en": [
+                "European Centre for the Development of Vocational Training (Cedefop)"
+            ],
+            "es": [
+                "Centro Europeo para el Desarrollo de la Formación Profesional (Cedefop)"
+            ],
+            "et": [
+                "Euroopa Kutseõppe Arenduskeskus (Cedefop)"
+            ],
+            "fi": [
+                "Euroopan ammatillisen koulutuksen kehittämiskeskus (Cedefop)"
+            ],
+            "fr": [
+                "Centre européen pour le développement de la formation professionnelle (Cedefop)"
+            ],
+            "ga": [
+                "an Lárionad Eorpach um Fhorbairt na Gairmoiliúna (CEDEFOP)"
+            ],
+            "hr": [
+                "Europski centar za razvoj strukovnog osposobljavanja (Cedefop)"
+            ],
+            "hu": [
+                "Európai Szakképzésfejlesztési Központ (Cedefop)"
+            ],
+            "it": [
+                "Centro europeo per lo sviluppo della formazione professionale (CEDEFOP)"
+            ],
+            "lt": [
+                "Europos profesinio mokymo plėtros centras („Cedefop“)"
+            ],
+            "lv": [
+                "Eiropas Profesionālās izglītības attīstības centrs (Cedefop)"
+            ],
+            "mt": [
+                "Iċ-Ċentru Ewropew għall-Iżvilupp ta’ Taħriġ Vokazzjonali (Cedefop)"
+            ],
+            "nl": [
+                "Europees Centrum voor de ontwikkeling van de beroepsopleiding (CEDEFOP)"
+            ],
+            "pl": [
+                "Europejskie Centrum Rozwoju Szkolenia Zawodowego (Cedefop)"
+            ],
+            "pt": [
+                "Centro Europeu para o Desenvolvimento da Formação Profissional (Cedefop)"
+            ],
+            "ro": [
+                "Centrul European pentru Dezvoltarea Formării Profesionale (Cedefop)"
+            ],
+            "sk": [
+                "Európske stredisko pre rozvoj odborného vzdelávania (Cedefop)"
+            ],
+            "sl": [
+                "Evropski center za razvoj poklicnega usposabljanja (Cedefop)"
+            ],
+            "sv": [
+                "Europeiska centrumet för utveckling av yrkesutbildning (Cedefop)"
+            ]
+        },
+        "category": {
+            "und": [
+                "23337c6",
+                "40261c8"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/"
+            ],
+            "cs": [
+                "EUROPA/"
+            ],
+            "da": [
+                "EUROPA/"
+            ],
+            "de": [
+                "EUROPA/"
+            ],
+            "el": [
+                "EUROPA/"
+            ],
+            "en": [
+                "EUROPA/"
+            ],
+            "es": [
+                "EUROPA/"
+            ],
+            "et": [
+                "EUROPA/"
+            ],
+            "fi": [
+                "EUROPA/"
+            ],
+            "fr": [
+                "EUROPA/"
+            ],
+            "ga": [
+                "EUROPA/"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "EUROPA/"
+            ],
+            "it": [
+                "EUROPA/"
+            ],
+            "lt": [
+                "EUROPA/"
+            ],
+            "lv": [
+                "EUROPA/"
+            ],
+            "mt": [
+                "EUROPA/"
+            ],
+            "nl": [
+                "EUROPA/"
+            ],
+            "pl": [
+                "EUROPA/"
+            ],
+            "pt": [
+                "EUROPA/"
+            ],
+            "ro": [
+                "EUROPA/"
+            ],
+            "sk": [
+                "EUROPA/"
+            ],
+            "sl": [
+                "EUROPA/"
+            ],
+            "sv": [
+                "EUROPA/"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM/A05"
+            ],
+            "cs": [
+                "COMM/COMM/A05"
+            ],
+            "da": [
+                "COMM/COMM/A05"
+            ],
+            "de": [
+                "COMM/COMM/A05"
+            ],
+            "el": [
+                "COMM/COMM/A05"
+            ],
+            "en": [
+                "COMM/COMM/A05"
+            ],
+            "es": [
+                "COMM/COMM/A05"
+            ],
+            "et": [
+                "COMM/COMM/A05"
+            ],
+            "fi": [
+                "COMM/COMM/A05"
+            ],
+            "fr": [
+                "COMM/COMM/A05"
+            ],
+            "ga": [
+                "COMM/COMM/A05"
+            ],
+            "hr": [
+                "COMM/COMM/A05"
+            ],
+            "hu": [
+                "COMM/COMM/A05"
+            ],
+            "it": [
+                "COMM/COMM/A05"
+            ],
+            "lt": [
+                "COMM/COMM/A05"
+            ],
+            "lv": [
+                "COMM/COMM/A05"
+            ],
+            "mt": [
+                "COMM/COMM/A05"
+            ],
+            "nl": [
+                "COMM/COMM/A05"
+            ],
+            "pl": [
+                "COMM/COMM/A05"
+            ],
+            "pt": [
+                "COMM/COMM/A05"
+            ],
+            "ro": [
+                "COMM/COMM/A05"
+            ],
+            "sk": [
+                "COMM/COMM/A05"
+            ],
+            "sl": [
+                "COMM/COMM/A05"
+            ],
+            "sv": [
+                "COMM/COMM/A05"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "de": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "el": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "en": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "es": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "et": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fi": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hu": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "it": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lv": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "mt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "nl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ro": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sk": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sv": [
+                "58-Document for general distribution (intended for the general public)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Чрез своите изследвания и анализи Cedefop предоставя данните, на които се основава политиката за професионално образование и обучение."
+            ],
+            "cs": [
+                "Výsledky výzkumu a analýz agentury Cedefop jsou základem pro tvorbu politik zaměřených na odborné vzdělávání a přípravu."
+            ],
+            "da": [
+                "Gennem forskning og analyse leverer Cedefop data, som danner grundlag for erhvervsuddannelsespolitikker."
+            ],
+            "de": [
+                "Das Cedefop stellt mit seinen Forschungen und Analysen die Wissensbasis für die politische Strategie im Bereich Aus- und Weiterbildung bereit."
+            ],
+            "el": [
+                "Μέσω των ερευνών και αναλύσεών του, το Cedefop παρέχει στοιχεία πάνω στα οποία βασίζεται η πολιτική στον τομέα της επαγγελματικής εκπαίδευσης και κατάρτισης."
+            ],
+            "en": [
+                "Through its research and analyses, Cedefop provides the data on which vocational education and training policy is based."
+            ],
+            "es": [
+                "El Cedefop proporciona, con su trabajo de investigación y análisis, los datos en que se basan las políticas de educación y formación profesionales."
+            ],
+            "et": [
+                "Kutseharidus- ja -koolituspoliitika põhineb Cedefopi teadusuuringutest ja analüüsidest saadud andmetel."
+            ],
+            "fi": [
+                "Cedefop tarjoaa tutkimuksen ja analyysien avulla tietoja ammatilliseen koulutukseen kohdistuvaan päätöksentekoon."
+            ],
+            "fr": [
+                "Le Cedefop fournit des données servant à l'élaboration des politiques d’enseignement et de formation professionnels dans l'UE, au moyen de recherches et d'analyses."
+            ],
+            "ga": [
+                "Trí thaighde agus anailís a dhéanamh, cuireann Cedefop ar fáil na sonraí a mbunaítear an beartas gairmoideachais agus gairmoiliúna orthu"
+            ],
+            "hr": [
+                "Cedefop istraživanjem i analizama osigurava podatke na kojima se temelji politika strukovnog obrazovanja i osposobljavanja."
+            ],
+            "hu": [
+                "Kutatási és elemzési tevékenysége révén a Cedefop adatokat szolgáltat a szakoktatással és -képzéssel kapcsolatos uniós szakpolitika kialakításához."
+            ],
+            "it": [
+                "Attraverso le sue attività di ricerca e analisi, il Cedefop fornisce i dati su cui si fonda la politica di istruzione e formazione professionale."
+            ],
+            "lt": [
+                "Atlikęs mokslinius tyrimus ir analizę Europos profesinio mokymo plėtros centras teikia duomenis, kuriais grindžiama profesinio mokymo politika."
+            ],
+            "lv": [
+                "Cedefop veic pētījumus un analīzi, tādējādi sniedzot datus, kas kalpo profesionālās izglītības un apmācības politikas izstrādei ES."
+            ],
+            "mt": [
+                "Permezz tar-riċerka u l-analiżi tiegħu, is-Cedefop jipprovdi d-dejta li fuqha hi bbażata l-politika tal-edukazzjoni u tat-taħriġ vokazzjonali."
+            ],
+            "nl": [
+                "Via onderzoek en analyses zorgt Cedefop voor gegevens ter onderbouwing van het beleid inzake beroepsonderwijs en -opleiding."
+            ],
+            "pl": [
+                "Cedefop prowadzi badania i analizy, które zapewniają dane, na których opiera się polityka w dziedzinie kształcenia i szkolenia."
+            ],
+            "pt": [
+                "Através das suas atividades de investigação e análise, o CEDEFOP fornece os dados que servem de base para o desenvolvimento da política de ensino e formação profissional."
+            ],
+            "ro": [
+                "Prin activitățile sale de cercetare și analiză, Cedefop oferă datele pe care se bazează politica de educație și formare profesională."
+            ],
+            "sk": [
+                "CEDEFOP poskytuje prostredníctvom svojho výskumu a analýz údaje, z ktorých vychádza politika EÚ v oblasti odborného vzdelávania a prípravy."
+            ],
+            "sl": [
+                "Cedefop z raziskavami in analizami zagotavlja podatke, ki so podlaga za pripravo politik poklicnega izobraževanja in usposabljanja."
+            ],
+            "sv": [
+                "EU:s yrkesutbildningspolitik grundar sig på forskningsdata och analyser från Cedefop."
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "Cedefop",
+                "Европейски център за разв",
+                "ПОО",
+                "професионално обучение",
+                "умения",
+                "квалификации",
+                "мобилност на учещите",
+                "европейска квалификацион",
+                "национална квалификацион",
+                "квалификационни рамки",
+                "Европейски паспорт на уме",
+                "нужди на трудовия пазар",
+                "учене в процеса на работа",
+                "професионални практики (ч",
+                "проверка, валидиране",
+                "несъответствие",
+                "Европейска комисия",
+                "Европейски съюз",
+                "ЕС"
+            ],
+            "cs": [
+                "Cedefop",
+                "Evropské středisko pro rozvoj odborného vzdě",
+                "odborné vzdělávání",
+                "odborná příprava",
+                "dovednosti, schopnosti",
+                "kvalifikace",
+                "mobilita studentů",
+                "evropský rámec kvalifikací (EQF)",
+                "národní rámec kvalifikací (NQF)",
+                "rámce kvalifikací",
+                "Europass",
+                "potřeby trhu práce",
+                "WBL, učení prací, praxe",
+                "učňovské vzdělávání",
+                "validace",
+                "nesoulad",
+                "Evropská komise",
+                "Evropská unie",
+                "EU"
+            ],
+            "da": [
+                "Cedefop",
+                "Det Europæiske Center for Udvikling af Erhvervs",
+                "erhvervsuddannelse",
+                "erhvervsuddannelser",
+                "færdigheder, kvalifikationer",
+                "kvalifikationer",
+                "mobilitet for studerende",
+                "EQF",
+                "NQF",
+                "referencerammer for kvalifikationer",
+                "Europass",
+                "behov på arbejdsmarkedet",
+                "arbejdsbaseret læring",
+                "lærlingeordninger",
+                "validering",
+                "misforhold, skævhed",
+                "Europa-Kommissionen",
+                "Den Europæiske Union",
+                "EU"
+            ],
+            "de": [
+                "Cedefop",
+                "Europäisches Zentrum für die Förderung der Be",
+                "berufliche Aus- und Weiterbildung, vet",
+                "Berufsbildung, berufliche Bildung",
+                "Fähigkeiten, Kompetenzen",
+                "Qualifikationen",
+                "Mobilität von Lernenden",
+                "EQR",
+                "NQR",
+                "Qualifikationsrahmen",
+                "Europass",
+                "Arbeitsmarkterfordernisse, Arbeitsmarktbedarf",
+                "Berufspraktisches Lernen, arbeitsplatzbasiertes ",
+                "Lehrstelle, Ausbildungsplatz",
+                "Validierung",
+                "Missverhältnis, Ungleichgewicht, Inkongruenz",
+                "Europäische Kommission",
+                "Europäische Union",
+                "EU"
+            ],
+            "el": [
+                "Cedefop",
+                "Ευρωπαϊκό Κέντρο για την Α",
+                "ΕΕΚ",
+                "επαγγελματική κατάρτιση",
+                "δεξιότητες",
+                "επαγγελματικά προσόντα, τ",
+                "κινητικότητα σπουδαστών",
+                "ΕΠΕΠ",
+                "ΕθΠΕΠ",
+                "πλαίσια επαγγελματικών πρ",
+                "Europass",
+                "ανάγκες της αγοράς εργασί",
+                "μάθηση μέσα από την εργασί",
+                "μαθητεία",
+                "επικύρωση",
+                "αναντιστοιχία",
+                "Ευρωπαϊκή Επιτροπή",
+                "Ευρωπαϊκή Ένωση",
+                "ΕΕ"
+            ],
+            "en": [
+                "Cedefop",
+                "European Centre for the Development of Vocationa",
+                "VET",
+                "vocational training",
+                "skills",
+                "qualifications",
+                "mobility of learners",
+                "EQF",
+                "NQF",
+                "qualification frameworks",
+                "Europass",
+                "labour market needs",
+                "work-based learning",
+                "apprenticeship",
+                "validation",
+                "mismatch",
+                "European Commission",
+                "European Union",
+                "EU"
+            ],
+            "es": [
+                "Cedefop",
+                "Centro Europeo para el Desarrollo de la Formaci",
+                "EFP",
+                "formación profesional",
+                "competencias, capacidades, aptitudes, destrezas",
+                "cualificaciones",
+                "movilidad de los estudiantes",
+                "MEC",
+                "MNC",
+                "marcos de cualificación",
+                "Europass",
+                "necesidades del mercado laboral",
+                "aprendizaje basado en el trabajo",
+                "prácticas de aprendizaje",
+                "validación",
+                "desfase",
+                "Comisión Europea",
+                "Unión Europea",
+                "UE"
+            ],
+            "et": [
+                "Euroopa Kutseõppe Arenduskeskus",
+                "Euroopa Kutseõppe Arenduskeskus",
+                "kutseharidus ja -koolitus",
+                "kutseõpe",
+                "oskused",
+                "kvalifikatsioonid",
+                "õppijate liikuvus",
+                "Euroopa kvalifikatsiooniraamistik",
+                "Riiklik kvalifikatsiooniraamistik",
+                "kvalifikatsiooniraamistikud",
+                "Europass",
+                "tööturu vajadused",
+                "väljaõpe töökohal",
+                "õpipoisiõpe",
+                "kontrollimine",
+                "mittevastavus",
+                "Euroopa Komisjon",
+                "Euroopa Liit",
+                "EL"
+            ],
+            "fi": [
+                "Cedefop",
+                "Euroopan ammatillisen koulutuksen kehittämiskes",
+                "ammatilliseen koulutukseen kohdistuva päätöks",
+                "ammatillinen koulutus",
+                "taidot, osaaminen, ammattitaito",
+                "tutkinnot ja todistukset",
+                "opiskelijoiden liikkuvuus",
+                "eurooppalainen tutkintojen viitekehys",
+                "kansallinen tutkintojen viitekehys",
+                "tutkintojen tunnustaminen",
+                "Europassi",
+                "työmarkkinoiden tarpeet",
+                "työssä oppiminen",
+                "oppisopimuskoulutus",
+                "arkioppimisen validointi",
+                "ammattitaidon tarjonnan ja kysynnän kohtaamatto",
+                "Euroopan komissio",
+                "Euroopan unioni",
+                "EU"
+            ],
+            "fr": [
+                "Cedefop",
+                "Centre européen pour le développement de la fo",
+                "EFP",
+                "formation professionnelle",
+                "compétences",
+                "qualifications",
+                "mobilité des apprenants",
+                "CEC",
+                "CNC",
+                "cadres de certification",
+                "Europass",
+                "Besoins du marché du travail",
+                "Apprentissage par le travail, formation en milie",
+                "apprentissage, apprenti",
+                "validation",
+                "inadéquation entre l'offre et la demande",
+                "Commission européenne",
+                "Union européenne",
+                "UE"
+            ],
+            "ga": [
+                "Cedefop",
+                "Lárionad Eorpach um Fhorbairt na Gairmoiliúna",
+                "gairmoiliúint",
+                "gairmoiliúint",
+                "scileanna",
+                "cáilíochtaí",
+                "soghluaisteacht foghlaimeoirí",
+                "Creat Eorpach um Cháilíochtaí",
+                "Creat Náisiúnta um Cháilíochtaí",
+                "creataí cáilíochta",
+                "Europass",
+                "riachtanais an mhargaidh saothair",
+                "foghlaim atá bunaithe ar obair",
+                "printíseacht",
+                "bailíochtú",
+                "easnaimh scileanna",
+                "an Coimisiún Eorpach",
+                "an tAontas Eorpach",
+                "AE"
+            ],
+            "hr": [
+                "Cedefop",
+                "Europski centar za razvoj strukovnog osposobljav",
+                "SOO",
+                "strukovno osposobljavanje",
+                "vještine",
+                "kvalifikacije",
+                "mobilnost učenika",
+                "europski kvalifikacijski okvir",
+                "nacionalni kvalifikacijski okvir",
+                "kvalifikacijski okviri",
+                "Europass",
+                "potrebe tržišta rada",
+                "učenje kroz rad",
+                "naukovanje",
+                "potvrđivanje",
+                "neusklađenost",
+                "Europska komisija",
+                "Europska unija",
+                "EU"
+            ],
+            "hu": [
+                "Cedefop",
+                "Európai Szakképzésfejlesztési Központ",
+                "szakoktatás és -képzés",
+                "szakképzés",
+                "készségek, képességek",
+                "képesítések",
+                "tanulói mobilitás, diákmobilitás",
+                "EKKR, európai képesítési keretrendszer, EQF",
+                "NKKR, nemzeti képesítési keretrendszer, NQF",
+                "képesítési keretrendszerek",
+                "Europass",
+                "munkaerő-piaci, munkaerőpiac",
+                "munkaalapú tanulás, munkahelyi környezetben t",
+                "gyakornoki munka, gyakornoki program, gyakornoks",
+                "ellenőrzés, validáció, érvényesítés",
+                "összhang hiánya, aszimmetria, meg nem felelés",
+                "Európai Bizottság",
+                "Európai Unió",
+                "EU"
+            ],
+            "it": [
+                "CEDEFOP",
+                "Centro europeo per lo sviluppo della formazione ",
+                "IFP",
+                "formazione professionale",
+                "abilità",
+                "qualifiche",
+                "competenze",
+                "mobilità dei discenti",
+                "mobilità degli studenti",
+                "quadro europeo delle qualifiche",
+                "QEQ",
+                "quadri delle qualifiche",
+                "Europass",
+                "necessità del mercato del lavoro",
+                "apprendimento basato sul lavoro",
+                "apprendistato",
+                "convalida",
+                "divario",
+                "Commissione europea",
+                "Unione europea",
+                "UE"
+            ],
+            "lt": [
+                "Cedefop",
+                "Europos profesinio mokymo plėtros centras",
+                "profesinis rengimas",
+                "profesinis mokymas",
+                "įgūdžiai, gebėjimai",
+                "kvalifikacijos",
+                "besimokančiųjų judumas",
+                "Europos kvalifikacijų sandara",
+                "nacionalinė kvalifikacijų sistema",
+                "kvalifikacijų sistemos",
+                "Europass",
+                "darbo rinkos poreikiai",
+                "mokymasis darbo vietoje",
+                "pameistrystė",
+                "patvirtinimas",
+                "neatitiktis",
+                "Europos Komisija",
+                "Europos Sąjunga",
+                "ES"
+            ],
+            "lv": [
+                "Cedefop",
+                "Eiropas Profesionālās izglītības attīstība",
+                "PIA",
+                "profesionālā apmācība, arodizglītība",
+                "prasmes",
+                "kvalifikācija",
+                "studentu mobilitāte",
+                "EQF, Eiropas kvalifikāciju sistēma",
+                "nacionālā kvalifikāciju ietvarstruktūra",
+                "kvalifikācijas sistēmas",
+                "Europass",
+                "darba tirgus vajadzības",
+                "mācīšanās darbvietā",
+                "mācekļu vietas",
+                "pārbaude",
+                "neatbilstība",
+                "Eiropas Komisija",
+                "Eiropas Savienība",
+                "ES"
+            ],
+            "mt": [
+                "Cedefop",
+                "Iċ-Ċentru Ewropew għall-Iżvilupp ta’ Taħr",
+                "VET",
+                "taħriġ vokazzjonali",
+                "ħiliet",
+                "kwalifiki",
+                "mobilità tal-istudenti",
+                "QEK",
+                "QKN",
+                "oqfsa ta' kwalifiki",
+                "Europass",
+                "ħtiġijiet tas-suq tax-xogħol",
+                "tagħlim ibbażat fuq ix-xogħol",
+                "apprendistat",
+                "validazzjoni",
+                "nuqqas ta’ tlaqqigħ",
+                "Kummissjoni Ewropea",
+                "Unjoni Ewropea",
+                "UE"
+            ],
+            "nl": [
+                "Cedefop",
+                "Europees Centrum voor de ontwikkeling van de ber",
+                "beroepsonderwijs en -opleiding",
+                "vakopleiding, beroepsopleiding",
+                "vaardigheden",
+                "kwalificaties",
+                "mobiliteit van lerenden",
+                "EKK",
+                "NKK",
+                "kwalificatiekaders",
+                "Europass",
+                "arbeidsmarktbehoeften",
+                "leren op de werkplek",
+                "leerbaan, leercontract",
+                "validatie",
+                "discrepantie, kloof",
+                "Europese Commissie",
+                "Europese Unie",
+                "EU"
+            ],
+            "pl": [
+                "Cedefop",
+                "Europejskie Centrum Rozwoju Kształcenia Zawodow",
+                "kształcenie i szkolenie zawodowe",
+                "szkolenie zawodowe",
+                "umiejętności",
+                "kwalifikacje",
+                "mobilność uczących się",
+                "europejskie ramy kwalifikacji",
+                "krajowe ramy kwalifikacji",
+                "ramy kwalifikacji",
+                "Europass",
+                "potrzeby rynku pracy",
+                "uczenie się poprzez praktykę w miejscu pracy",
+                "przyuczanie do zawodu",
+                "walidacja",
+                "niedopasowanie",
+                "Komisja Europejska",
+                "Unia Europejska",
+                "UE"
+            ],
+            "pt": [
+                "Cedefop",
+                "Centro Europeu para o Desenvolvimento da Formaç",
+                "EFP, ensino e formação profissional",
+                "formação profissional",
+                "competências",
+                "qualificações",
+                "mobilidade dos estudantes",
+                "QEQ, quadro europeu de qualificações",
+                "QNQ, quadro nacional de qualificações",
+                "quadros de qualificações",
+                "Europass",
+                "necessidades do mercado de trabalho",
+                "aprendizagem em contexto de trabalho",
+                "aprendizagem",
+                "validação",
+                "inadequação das competências, desfasamento",
+                "comissão europeia",
+                "união europeia",
+                "ue"
+            ],
+            "ro": [
+                "Cedefop",
+                "Centrul European pentru Dezvoltarea Formării Pr",
+                "EFP",
+                "formare profesională",
+                "competențe",
+                "calificări",
+                "mobilitatea studenților, mobilitatea cursanțil",
+                "CEC",
+                "CNC",
+                "cadrele de acordare a calificărilor",
+                "Europass",
+                "nevoile de pe piața muncii",
+                "învățare la locul de muncă",
+                "ucenicie",
+                "validare",
+                "neconcordanță",
+                "Comisia Europeană",
+                "Uniunea Europeană",
+                "UE"
+            ],
+            "sk": [
+                "Cedefop",
+                "Európske stredisko pre rozvoj odborného vzdel",
+                "OVP",
+                "odborná príprava",
+                "zručnosti",
+                "kvalifikácia",
+                "mobilita študentov",
+                "EKR",
+                "NKR",
+                "kvalifikačné rámce",
+                "Europass",
+                "potreby trhu práce",
+                "učenie sa prácou",
+                "učňovská príprava",
+                "validácia",
+                "nesúlad",
+                "Európska komisia",
+                "Európska únia",
+                "EÚ"
+            ],
+            "sl": [
+                "Cedefop",
+                "Evropski center za razvoj poklicnega usposabljan",
+                "poklicno izobraževanje in usposabljanje",
+                "poklicno usposabljanje",
+                "znanje, veščine, spretnosti",
+                "kvalifikacije",
+                "mobilnost učencev",
+                "Evropsko ogrodje kvalifikacij",
+                "nacionalno ogrodje kvalifikacij",
+                "okviri kvalifikacij",
+                "Europass",
+                "potrebe trga dela",
+                "učenje na delovnem mestu",
+                "Vajeništvo",
+                "preverjanje",
+                "neusklajenost",
+                "Evropska komisija",
+                "Evropska unija",
+                "EU"
+            ],
+            "sv": [
+                "Cedefop",
+                "Europeiska centrumet för utveckling av yrkesutb",
+                "yrkesutbildning",
+                "yrkesutbildning",
+                "kompetens, färdigheter",
+                "kvalifikationer",
+                "rörlighet för studerande",
+                "Europeiska referensramen för kvalifikationer",
+                "Nationella referensramar för kvalifikationer",
+                "referensramar för kvalifikationer",
+                "Europass",
+                "arbetsmarknadsbehov",
+                "arbetsplatsbaserad utbildning",
+                "lärlingsplatser",
+                "validering",
+                "obalans, kompetensglapp",
+                "Europeiska kommissionen, EU-kommissionen",
+                "Europeiska unionen",
+                "EU"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "info1": {
+            "bg": [
+                "<h2>Накратко</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Роля:</strong> Cedefop предоставя данните, на които се основава политиката за професионално образование и обучение.</li>                   <li>                      <strong>Директор:</strong> Хоаким Хамес Калеха</li>                   <li>                      <strong>Създаден:</strong> 1975 г.</li>                   <li>                      <strong>Брой на служителите:</strong> 98</li>                   <li>                      <strong>Местоположение:</strong> Солун (Гърция)</li>                   <li>                      <strong>Уебсайт:</strong> <a href=\"http://www.cedefop.europa.eu/bg\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "cs": [
+                "<h2>Přehled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Úloha:</strong> Údaje z analýz střediska Cedefop se využívají při tvorbě politik zaměřených na odborné vzdělávání a přípravu v EU</li>                   <li>                      <strong>Ředitel:</strong> Joachim James Calleja</li>                   <li>                      <strong>Rok zřízení:</strong> 1975</li>                   <li>                      <strong>Počet zaměstnanců:</strong> 98</li>                   <li>                      <strong>Sídlo:</strong> Soluň (Řecko)</li>                   <li>                      <strong>Internetové stránky:</strong> <a href=\"http://www.cedefop.europa.eu/cs\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "da": [
+                "<h2>Oversigt</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rolle:</strong> Cedefop leverer data, som danner grundlag for EU's erhvervsuddannelsespolitikker</li>                   <li>                      <strong>Direktør:</strong> Joachim James Calleja</li>                   <li>                      <strong>Oprettet i:</strong> 1975</li>                   <li>                      <strong>Antal ansatte:</strong> 98</li>                   <li>                      <strong>Beliggenhed:</strong> Thessaloniki (Grækenland)</li>                   <li>                      <strong>Website:</strong> <a href=\"http://www.cedefop.europa.eu/da\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "de": [
+                "<h2>Überblick</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Aufgabe:</strong> Das Cedefop stellt die Wissensbasis für die EU-Politik im Bereich der beruflichen Aus- und Weiterbildung bereit.</li>                   <li>                      <strong>Direktor:</strong> James Joachim Calleja</li>                   <li>                      <strong>Gründung:</strong> 1975</li>                   <li>                      <strong>Mitarbeiter:</strong> 98</li>                   <li>                      <strong>Standort:</strong> Thessaloniki (Griechenland)</li>                   <li>                      <strong>Internetpräsenz:</strong> <a href=\"http://www.cedefop.europa.eu/de\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "el": [
+                "<h2>Γενικά</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ρόλος:</strong> Το Cedefop παρέχει στοιχεία πάνω στα οποία βασίζεται η πολιτική επαγγελματικής εκπαίδευσης και κατάρτισης στην ΕΕ</li>                   <li>                      <strong>Διευθυντής:</strong> Joachim James Calleja</li>                   <li>                      <strong>Έτος ίδρυσης:</strong> 1975</li>                   <li>                      <strong>Αριθμός υπαλλήλων:</strong> 98</li>                   <li>                      <strong>Τόπος:</strong> Θεσσαλονίκη (Ελλάδα)</li>                   <li>                      <strong>Ιστότοπος:</strong> <a href=\"http://www.cedefop.europa.eu/el\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "en": [
+                "<h2>Overview</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Role:</strong> Cedefop provides the data on which vocational education and training policy in the EU is based</li>                   <li>                      <strong>Director:</strong> Joachim James Calleja</li>                   <li>                      <strong>Established in:</strong> 1975</li>                   <li>                      <strong>Number of staff:</strong> 98</li>                   <li>                      <strong>Location:</strong> Thessaloniki (Greece)</li>                   <li>                      <strong>Website:</strong> <a href=\"http://www.cedefop.europa.eu/\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "es": [
+                "<h2>Datos generales</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Función:</strong> El Cedefop proporciona los datos en que se basan las políticas de educación y formación profesionales de la UE</li>                   <li>                      <strong>Director:</strong> Joachim James Calleja</li>                   <li>                      <strong>Año de creación:</strong> 1975</li>                   <li>                      <strong>Plantilla:</strong> 98</li>                   <li>                      <strong>Sede:</strong> Salónica (Grecia)</li>                   <li>                      <strong>Página web:</strong> <a href=\"http://www.cedefop.europa.eu/es\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "et": [
+                "<h2>Ülevaade</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ülesanne:</strong> Cedefop toodab andmeid, millel põhineb ELi kutseharidus- ja -koolituspoliitika.</li>                   <li>                      <strong>Direktor:</strong> Joachim James Calleja</li>                   <li>                      <strong>Asutatud:</strong> 1975</li>                   <li>                      <strong>Töötajate arv:</strong> 98</li>                   <li>                      <strong>Asukoht:</strong> Thessaloniki (Kreeka)</li>                   <li>                      <strong>Veebisait:</strong> <a href=\"http://www.cedefop.europa.eu/et\">Euroopa Kutseõppe Arenduskeskus</a>                   </li>                </ul>             </div>"
+            ],
+            "fi": [
+                "<h2>Yleiskatsaus</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Tehtävä:</strong> Cedefop tarjoaa tietoa ammatillista koulutusta koskevan päätöksenteon tueksi EU:ssa</li>                   <li>                      <strong>Johtaja:</strong> Joachim James Calleja</li>                   <li>                      <strong>Perustettu:</strong> 1975</li>                   <li>                      <strong>Henkilöstömäärä:</strong> 98</li>                   <li>                      <strong>Toimipaikka:</strong> Thessaloniki (Kreikka)</li>                   <li>                      <strong>Verkkosivusto:</strong> <a href=\"http://www.cedefop.europa.eu/fi\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "fr": [
+                "<h2>Présentation</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rôle:</strong> le Cedefop fournit des données servant à l'élaboration des politiques d’enseignement et de formation professionnels dans l'UE.</li>                   <li>                      <strong>Directeur:</strong> James Joachim Calleja</li>                   <li>                      <strong>Création:</strong> 1975</li>                   <li>                      <strong>Effectifs:</strong> 98</li>                   <li>                      <strong>Siège:</strong> Thessalonique (Grèce)</li>                   <li>                      <strong>Site web:</strong> <a href=\"http://www.cedefop.europa.eu/fr\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "ga": [
+                "<h2>Forléargas</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ról:</strong> Cuireann Cedefop ar fáil na sonraí a mbunaítear beartais ghairmoideachais agus ghairmoiliúna orthu san Aontas Eorpach</li>                   <li>                      <strong>Stiúrthóir:</strong> Joachim James Calleja</li>                   <li>                      <strong>Bliain a bunaithe:</strong> 1975</li>                   <li>                      <strong>Líon ball foirne:</strong> 98</li>                   <li>                      <strong>Suíomh:</strong> Thessaloniki na Gréige</li>                   <li>                      <strong>Suíomh gréasáin:</strong> <a href=\"http://www.cedefop.europa.eu/ga\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "hr": [
+                "<h2>Pregled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uloga:</strong> Cedefop osigurava podatke na kojima se temelji politika strukovnog obrazovanja i osposobljavanja u EU-u.</li>                   <li>                      <strong>Direktor:</strong> Joachim James Calleja</li>                   <li>                      <strong>Godina osnivanja:</strong> 1975.</li>                   <li>                      <strong>Broj zaposlenika:</strong> 98</li>                   <li>                      <strong>Lokacija:</strong> Solun (Grčka)</li>                   <li>                      <strong>Internetska stranica:</strong> <a href=\"http://www.cedefop.europa.eu/hr\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "hu": [
+                "<h2>Áttekintés</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Szerep:</strong> A Cedefop adatokat szolgáltat a szakoktatással és -képzéssel kapcsolatos uniós szakpolitika kialakításához.</li>                   <li>                      <strong>Igazgató:</strong> Joachim James Calleja</li>                   <li>                      <strong>Alapítás éve:</strong> 1975</li>                   <li>                      <strong>Alkalmazottak száma:</strong> 98</li>                   <li>                      <strong>Székhely:</strong> Szaloniki, Görögország</li>                   <li>                      <strong>Honlap:</strong> <a href=\"http://www.cedefop.europa.eu/hu\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "it": [
+                "<h2>Panoramica</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ruolo:</strong> il Cedefop fornisce i dati su cui si basa la politica di istruzione e formazione professionale dell’UE</li>                   <li>                      <strong>Direttore:</strong> Joachim James Calleja</li>                   <li>                      <strong>Anno di istituzione:</strong> 1975</li>                   <li>                      <strong>Numero di dipendenti:</strong> 98</li>                   <li>                      <strong>Sede:</strong> Salonicco (Grecia)</li>                   <li>                      <strong>Sito web:</strong> <a href=\"http://www.cedefop.europa.eu/it\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "lt": [
+                "<h2>Apžvalga</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Vaidmuo:</strong> „Cedefop“ teikia duomenis, kuriais grindžiama ES profesinio mokymo politika.</li>                   <li>                      <strong>Direktorius:</strong> Joachim James Calleja</li>                   <li>                      <strong>Įsteigtas:</strong> 1975 m.</li>                   <li>                      <strong>Darbuotojų skaičius:</strong> 98</li>                   <li>                      <strong>Vieta:</strong> Salonikai (Graikija)</li>                   <li>                      <strong>Interneto svetainė:</strong> <a href=\"http://www.cedefop.europa.eu/lt\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "lv": [
+                "<h2>Pārskats</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uzdevums:</strong> Cedefop sniedz datus, kas kalpo profesionālās izglītības un apmācības politikas izstrādei ES</li>                   <li>                      <strong>Direktors:</strong> Hoakims Hamess Kaleha (Joachim James Calleja)</li>                   <li>                      <strong>Dibināšanas gads:</strong> 1975</li>                   <li>                      <strong>Darbinieku skaits:</strong> 98</li>                   <li>                      <strong>Atrašanās vieta:</strong> Saloniki (Grieķija)</li>                   <li>                      <strong>Tīmekļa vietne:</strong> <a href=\"http://www.cedefop.europa.eu/lv\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "mt": [
+                "<h2>Ħarsa ġenerali</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rwol:</strong> Is-Cedefop jipprovdi d-dejta li fuqha hi bbażata l-politika tal-edukazzjoni u tat-taħriġ vokazzjonali fl-UE </li>                   <li>                      <strong>Direttur:</strong> Joachim James Calleja</li>                   <li>                      <strong>Stabbilita:</strong> fl-1975</li>                   <li>                      <strong>Numru ta’ persunal:</strong> 98</li>                   <li>                      <strong>Lokalità:</strong> Tessaloniki (il-Greċja)</li>                   <li>                      <strong>Sit web:</strong> <a href=\"http://www.cedefop.europa.eu/mt\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "nl": [
+                "<h2>Overzicht</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rol:</strong> Cedefop zorgt voor de gegevens waarop het beleid inzake beroepsonderwijs en -opleiding in de EU wordt gebaseerd</li>                   <li>                      <strong>Directeur:</strong> Joachim James Calleja</li>                   <li>                      <strong>Opgericht:</strong> 1975</li>                   <li>                      <strong>Medewerkers:</strong> 98</li>                   <li>                      <strong>Locatie:</strong> Thessaloniki (Griekenland)</li>                   <li>                      <strong>Website:</strong> <a href=\"http://www.cedefop.europa.eu/nl\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "pl": [
+                "<h2>Informacje ogólne</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Funkcja:</strong> Cedefop zapewnia dane, na których opiera się unijna polityka w dziedzinie kształcenia i szkolenia.</li>                   <li>                      <strong>Dyrektor:</strong> Joachim James Calleja</li>                   <li>                      <strong>Rok założenia:</strong> 1975</li>                   <li>                      <strong>Liczba pracowników:</strong> 98</li>                   <li>                      <strong>Siedziba:</strong> Saloniki (Grecja)</li>                   <li>                      <strong>Strona internetowa:</strong> <a href=\"http://www.cedefop.europa.eu/pl\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "pt": [
+                "<h2>Apresentação</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Missão:</strong> O CEDEFOP fornece os dados que servem de base para o desenvolvimento da  política de ensino e formação profissional da UE.</li>                   <li>                      <strong>Diretor:</strong> Joachim James Calleja</li>                   <li>                      <strong>Criado em:</strong> 1975</li>                   <li>                      <strong>Número de efetivos:</strong> 98</li>                   <li>                      <strong>Sede:</strong> Salónica (Grécia)</li>                   <li>                      <strong>Sítio Web:</strong> <a href=\"http://www.cedefop.europa.eu/pt\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "ro": [
+                "<h2>Prezentare</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rol:</strong> Cedefop furnizează datele pe care se bazează politica UE de educație și formare profesională</li>                   <li>                      <strong>Director:</strong> Joachim James Calleja</li>                   <li>                      <strong>Înființare:</strong> 1975</li>                   <li>                      <strong>Angajați:</strong> 98</li>                   <li>                      <strong>Sediu:</strong> Salonic (Grecia)</li>                   <li>                      <strong>Site:</strong> <a href=\"http://www.cedefop.europa.eu/ro\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "sk": [
+                "<h2>Prehľad</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Úloha:</strong> Cedefop poskytuje údaje, z ktorých vychádza politika EÚ v oblasti odborného vzdelávania a prípravy</li>                   <li>                      <strong>Riaditeľ:</strong> Joachim James Calleja</li>                   <li>                      <strong>Rok zriadenia:</strong> 1975</li>                   <li>                      <strong>Počet zamestnancov:</strong> 98</li>                   <li>                      <strong>Sídlo:</strong> Solún (Grécko)</li>                   <li>                      <strong>Webové sídlo:</strong> <a href=\"http://www.cedefop.europa.eu/sk\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "sl": [
+                "<h2>Pregled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Vloga:</strong> Agencija zagotavlja podatke, ki so podlaga za pripravo politik poklicnega izobraževanja in usposabljanja v EU.</li>                   <li>                      <strong>Direktor:</strong> Joachim James Calleja</li>                   <li>                      <strong>Ustanovitev:</strong> 1975</li>                   <li>                      <strong>Število zaposlenih:</strong> 98</li>                   <li>                      <strong>Sedež:</strong> Solun (Grčija)</li>                   <li>                      <strong>Spletišče:</strong> <a href=\"http://www.cedefop.europa.eu/sl\">Cedefop</a>                   </li>                </ul>             </div>"
+            ],
+            "sv": [
+                "<h2>Översikt</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uppgift:</strong> Tillhandahålla data som ligger till grund för yrkesutbildningspolitiken i EU</li>                   <li>                      <strong>Direktör:</strong> Joachim James Calleja</li>                   <li>                      <strong>Inrättad:</strong> 1975</li>                   <li>                      <strong>Antal anställda:</strong> 98</li>                   <li>                      <strong>Plats:</strong> Thessaloniki (Grekland)</li>                   <li>                      <strong>Webbplats:</strong> <a href=\"http://www.cedefop.europa.eu/sv\">Cedefop</a>                   </li>                </ul>             </div>"
+            ]
+        },
+        "info2": {
+            "bg": [
+                "<p>Европейският център за развитие на професионалното обучение (Cedefop) помага при разработването и прилагането на политиките на ЕС в областта на професионалното обучение. Той следи тенденциите на трудовия пазар и помага на Европейската комисия, страните от ЕС, организациите на работодателите и профсъюзите да съобразяват предоставяното обучение с нуждите на трудовия пазар.</p>             <h2>Какво прави Cedefop?</h2>             <p>Cedefop е <strong>организация на ЕС</strong>, която обединява създатели на политики, организации на работодатели и профсъюзи, образователни институции, преподаватели и обучаващи, както и учащи от всички възрасти — <strong>всички, които имат отношение към професионалното образование и обучение</strong>.</p>             <p>Европейският център за развитие на професионалното обучение, който е звеното, свързващо образователните системи и сферата на труда, дава възможност на участващите в неговата работа организации да обменят идеи и да обсъждат кои са най-добрите начини за подобряване на професионалното образование и обучение в Европа. Центърът споделя опита си с публичните органи и социалните партньори в държавите от ЕС, за да им помогне в създаването на възможности за учене и работа.</p>             <h2>Структура</h2>             <p>Cedefop е тристранна агенция. В нейния управителен съвет влизат представители на:</p>             <ul>                <li>националните правителства</li>                <li>организациите на работодателите и профсъюзите</li>                <li>Европейската комисия.</li>             </ul>             <p>Директорът отговаря за общото управление на работата и персонала на агенцията.</p>             <p>Специалисти в областта на трудовия пазар и професионалното образование и обучение извършват ежедневната работа. Помагат им служители в областта на администрацията и комуникацията.</p>             <h2>Как функционира Cedefop?</h2>             <p>Агенцията:</p>             <ul>                <li>проучва как <strong>социално-икономическите и демографските тенденции</strong> се отразяват върху <strong>заетостта</strong>, <strong>естеството на работните места</strong> и <strong>търсенето на умения</strong>;</li>                <li>помага за <strong>съобразяване на предоставянето на професионално обучение</strong> с <strong>нуждите на трудовия пазар</strong>, като прогнозира бъдещите нужди от умения и незабавно предупреждава създателите на политики за несъответствия в уменията;</li>                <li>подкрепя използването в целия ЕС на инструменти, като <strong>квалификационни рамки</strong>, които дават възможност квалификации от различни образователни системи да бъдат сравнявани и признавани, а програми за самостоятелно учене да бъдат валидирани;</li>                <li>преразглежда модели на учене в процеса на работа и дава политически съвети на правителства от ЕС, за да помогне за <strong>намаляване на безработицата, преждевременното напускане на училище</strong> и други <strong>дисбаланси на трудовия пазар</strong>.</li>             </ul>             <p>Cedefop си сътрудничи с други агенции:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_bg.htm\"                      lang=\"bg\">Европейска фондация за подобряване на условията на живот и труд (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_bg.htm\"                      lang=\"bg\">Европейска фондация за обучение (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_bg.htm\"                      lang=\"bg\">Европейска агенция за безопасност и здраве при работа (EU-OSHA)</a>                </li>             </ul>             <h2>Кой има полза от това?</h2>             <p>Работата на Cedefop:</p>             <ul>                <li>помага на <strong>младите хора</strong> да преминат от образователната система към трудовия пазар;</li>                <li>помага на <strong>преждевременно напусналите училище</strong> да се върнат към образование и обучение;</li>                <li>помага на <strong>безработни или частично заети възрастни</strong> отново да започнат да учат и да променят насоката на професионалното си развитие;</li>                <li>предоставя на <strong>службите за професионално ориентиране и консултации</strong> данни на европейско равнище;</li>                <li>помага на <strong>гражданите на ЕС</strong> да получават признаване на своите квалификации в различни страни и системи;</li>                <li>помага на <strong>страните от ЕС</strong> да подобрят предлагането на чиракуване като форма на обучение;</li>                <li>помага на <strong>създателите на политики на европейско, национално и регионално равнище</strong> да вземат информирани решения относно предоставянето на професионално образование и обучение.</li>             </ul>"
+            ],
+            "cs": [
+                "<p>Evropské středisko pro rozvoj odborného vzdělávání (Cedefop) pomáhá koncipovat a provádět politiky EU zaměřené na odbornou přípravu. Monitoruje trendy na trhu práce a pomáhá Evropské komisi, členským státům, organizacím zaměstnavatelů a odborovým svazům upravovat vzdělávací programy podle potřeb na trhu práce.</p>             <h2>Čím se Cedefop zabývá?</h2>             <p>Cedefop je <strong>organizace EU</strong>, která sdružuje tvůrce politik, organizace zaměstnavatelů a odborové svazy, vzdělávací instituce, učitele, školitele a studenty všech věkových skupin – zkrátka <strong>všechny, co mají co do činění s odborným vzděláváním a přípravou</strong>.</p>             <p>Cedefop jako fórum působící na pomezí vzdělávacích systémů a pracovního procesu umožňuje zainteresovaným organizacím si předávat nápady a diskutovat o tom, jak v Evropě zlepšit odborné vzdělávání a odbornou přípravu. Poznatky, ke kterým dospěje, sdílí s politickými organizacemi a sociálními partnery v zemích EU a pomáhá  jim využívat studijní a pracovní příležitosti.</p>             <h2>Struktura</h2>             <p>Cedefop je třístranná agentura. Její správní rada je složena ze zástupců:</p>             <ul>                <li>ústředních orgánů členských států</li>                <li>organizací zaměstnavatelů a odborových svazů</li>                <li>Evropské komise.</li>             </ul>             <p>Ředitel odpovídá za celkové řízení činností agentury a za její zaměstnance.</p>             <p>Každodenní úkoly plní odborníci na trh práce a oblast odborného vzdělávání a přípravy. Asistují jim administrativní pracovníci a pracovníci odpovědní za komunikaci.</p>             <h2>Činnost agentury Cedefop</h2>             <p>Agentura:</p>             <ul>                <li>zkoumá vliv <strong>socioekonomických a demografických trendů</strong> na <strong>zaměstnanost</strong>, <strong>charakteristiku pracovních míst</strong> a <strong>poptávku po dovednostech</strong>                </li>                <li>pomáhá <strong>sladit poskytování odborné přípravy</strong> s <strong>potřebami trhu práce</strong> tím, že odhaduje, jakých dovedností bude v budoucnu zapotřebí, a upozorňuje tvůrce politik na oblasti, kde panuje nesoulad mezi dovednostmi nabízenými a požadovanými</li>                <li>podporuje využívání celounijních nástrojů, jako jsou <strong>rámce kvalifikací</strong>, které umožňují srovnávat a uznávat kvalifikace získané v různých vzdělávacích systémech nebo validovat informální učení</li>                <li>přezkoumává modely učení založené na vzdělávání na pracovišti a poskytuje politické poradenství vládám jednotlivých zemí EU, aby jim pomohla <strong>snížit nezaměstnanost, snížit počet nedostudovaných</strong> a překonat jiné problémy související s <strong>nerovnováhou na trhu práce</strong>.</li>             </ul>             <p>Cedefop spolupracuje s těmito dalšími agenturami:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_cs.htm\"                      lang=\"cs\">Evropskou nadací pro zlepšení životních a pracovních podmínek (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_cs.htm\"                      lang=\"cs\">Evropskou nadací odborného vzdělávání (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_cs.htm\"                      lang=\"cs\">Evropskou agenturou pro bezpečnost a ochranu zdraví při práci (EU–OSHA)</a>                </li>             </ul>             <h2>Pro koho je činnost agentury přínosná?</h2>             <p>Práce Cedefopu:</p>             <ul>                <li>pomáhá <strong>mladým lidem</strong> začít profesní dráhu po dokončení studia</li>                <li>pomáhá <strong>osobám předčasně opouštějícím vzdělávací systém</strong> znovu se zapojit do vzdělávání a odborné přípravy</li>                <li>pomáhá <strong>nezaměstnaným nebo nedostatečně zaměstnaným dospělým osobám</strong> získat nové dovednosti a rekvalifikovat se</li>                <li>zajišťuje <strong>poradenské pracovníky</strong>, kteří mají zkušenosti s trhem práce v celé EU</li>                <li>pomáhá <strong>občanům EU</strong> přesouvat se mezi jednotlivými zeměmi a systémy i se svými dovednostmi</li>                <li>pomáhá <strong>zemím EU</strong> reformovat jejich učňovské vzdělávání</li>                <li>pomáhá <strong>evropským, národním a regionálním tvůrcům politik</strong> se kvalifikovaně rozhodovat, pokud jde o oblast poskytování odborného vzdělávání a odborné přípravy.</li>             </ul>"
+            ],
+            "da": [
+                "<p>Det Europæiske Center for Udvikling af Erhvervsuddannelse (Cedefop) hjælper med at udvikle og gennemføre EU's erhvervsuddannelsespolitikker. Det holder øje med tendenserne på arbejdsmarkedet og hjælper Europa-Kommissionen, EU-landene, arbejdsgiverorganisationer og fagforeninger med at tilpasse uddannelsestilbuddene til behovene på arbejdsmarkedet.</p>             <h2>Hvad laver Cedefop?</h2>             <p>Cedefop er den <strong>EU-organisation</strong>, der samler beslutningstagere, arbejdsgiverorganisationer og fagforeninger, uddannelsessteder, lærere og undervisere samt studerende i alle aldre – <strong>alle interesserede parter i erhvervsuddannelse</strong>.</p>             <p>I krydsfeltet mellem uddannelsessystemer og arbejdsverdenen fungerer Cedefop som et forum, der giver organisationer med interessere i dets arbejde mulighed for at udveksle idéer og diskutere, hvordan man bedst forbedrer erhvervsuddannelserne i Europa. Det deler sin viden med politiske organisationer og arbejdsmarkedets parter i EU-landene for at hjælpe dem med at skabe lærings- og arbejdsmuligheder.</p>             <h2>Struktur</h2>             <p>Cedefop er et tredelt agentur. Dets bestyrelse består af repræsentanter for:</p>             <ul>                <li>nationale myndigheder</li>                <li>arbejdsgiverorganisationer og fagforeninger</li>                <li>Europa-Kommissionen.</li>             </ul>             <p>Direktøren er ansvarlig for den overordnede ledelse af agenturets arbejde og ansatte.</p>             <p>Eksperter inden for arbejdsmarked og erhvervsuddannelse udfører det daglige arbejde. De støttes af administrative medarbejdere og kommunikationspersonale.</p>             <h2>Hvordan arbejder Cedefop?</h2>             <p>Agenturet:</p>             <ul>                <li>undersøger, hvordan <strong>socioøkonomiske og demografiske tendenser</strong> påvirker <strong>beskæftigelsen</strong>, <strong>jobbenes karakter</strong> og <strong>efterspørgslen efter kvalifikationer</strong>                </li>                <li>hjælper med at <strong>målrette udbuddet af erhvervsuddannelser</strong> mod <strong>behovene på arbejdsmarkedet</strong> ved at forudsige det kommende kvalifikationsbehov og advare beslutningstagerne om kvalifikationsmismatch</li>                <li>støtter brugen af EU-værktøjer såsom <strong>referencerammer for kvalifikationer</strong>, som gør det muligt at sammenligne og anerkende kvalifikationer fra forskellige uddannelsessystemer eller validere uformel læring</li>                <li>vurderer arbejdsbaserede læringsmodeller og giver politisk vejledning til EU-landene for at hjælpe med at <strong>mindske arbejdsløsheden, tidligt skolefrafald</strong> og <strong>andre ubalancer på arbejdsmarkedet</strong>.</li>             </ul>             <p>Cedefop samarbejder med andre agenturer:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_da.htm\"                      lang=\"da\">Det Europæiske Institut til Forbedring af Leve- og Arbejdsvilkårene (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_da.htm\"                      lang=\"da\">Det Europæiske Erhvervsuddannelsesinstitut (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_da.htm\"                      lang=\"da\">Det Europæiske Arbejdsmiljøagentur (EU-OSHA).</a>                </li>             </ul>             <h2>Hvem har gavn af det?</h2>             <p>Cedefops arbejde:</p>             <ul>                <li>hjælper <strong>unge mennesker</strong> med at bevæge sig fra uddannelsesverdenen ind i arbejdslivet</li>                <li>hjælper <strong>unge, der forlader skolen i utide</strong>, med at vende tilbage til en uddannelse</li>                <li>hjælper <strong>arbejdsløse eller underbeskæftigede voksne</strong> med at vende tilbage til uddannelsesverdenen og sætte ny kurs for deres karriere</li>                <li>giver <strong>vejledere og rådgivere</strong> et EU-perspektiv</li>                <li>hjælper <strong>EU-borgere</strong> med at flytte mellem lande og systemer og \"tage deres kvalifikationer med\"</li>                <li>hjælper <strong>EU-landene</strong> med at ændre deres udbud af lærepladser</li>                <li>hjælper <strong>europæiske, nationale og regionale beslutningstagere</strong> med at træffe informerede valg om udbuddet af erhvervsuddannelser.</li>             </ul>"
+            ],
+            "de": [
+                "<p>Das Europäische Zentrum für die Förderung der Berufsbildung (Cedefop) trägt zur Entwicklung und Durchführung der EU-Berufsbildungspolitik bei. Es verfolgt die Entwicklungen auf dem Arbeitsmarkt und hilft der Europäischen Kommission, den EU-Ländern, Arbeitgeberverbänden und Gewerkschaften, das Ausbildungsangebot auf die Bedürfnisse des Arbeitsmarkts abzustimmen.</p>             <h2>Tätigkeiten</h2>             <p>Das Cedefop ist die <strong>EU-Einrichtung</strong>, in der Politiker, Arbeitgeberorganisationen und Gewerkschaften, Ausbildungseinrichtungen, Lehrkräfte und Ausbilder sowie Lernende aller Altersgruppen<strong> mit Interesse am Aus- und Fortbildungswesen</strong> zusammenarbeiten.</p>             <p>An der Schnittstelle zwischen Bildungswesen und Arbeitswelt fungiert das Cedefop als ein Forum, das es interessierten Organisationen ermöglicht, Ideen auszutauschen und Überlegungen darüber anzustellen, wie die berufliche Aus- und Weiterbildung in Europa bestmöglich gestaltet werden kann. Das Cedefop gibt sein Fachwissen an politische Organisationen, Arbeitgeber und Arbeitnehmer in den EU-Ländern weiter und unterstützt sie auf diese Weise bei der Schaffung von Bildungs- und Beschäftigungsmöglichkeiten.</p>             <h2>Aufbau</h2>             <p>Das Cedefop ist eine Dreiparteien-Agentur. Sein Verwaltungsrat setzt sich zusammen aus Vertretern</p>             <ul>                <li>der nationalen Behörden</li>                <li>von Arbeitnehmerorganisationen und Gewerkschaften</li>                <li>der Europäische Kommission</li>             </ul>             <p>Der Direktor ist für die allgemeine Verwaltung und das Personal der Agentur zuständig.</p>             <p>Die laufenden Geschäfte liegen in den Händen von Experten aus den Bereichen Arbeitsmarkt und berufliche Aus- und Weiterbildung. Sie werden von Mitarbeitern der Verwaltungs- und Kommunikationsdienste unterstützt.</p>             <h2>Arbeitsweise</h2>             <p>Die Agentur</p>             <ul>                <li>untersucht die Auswirkungen <strong>sozioökonomischer und demographischer Entwicklungen</strong> auf <strong>Beschäftigung</strong>, <strong>Art der Arbeitsplätze</strong> und <strong>Qualifikationsnachfrage</strong>;</li>                <li>hilft dabei, das <strong>Berufsausbildungsangebot </strong>an den <strong>Arbeitsmarktbedarf</strong> anzupassen, und zwar durch Prognostizierung des künftigen Bedarfs an Qualifikationen und Unterrichtung politischer Entscheidungsträger über bestehende Missverhältnisse;</li>                <li>fördert den Einsatz EU-weiter Instrumente, beispielsweise von <strong>Qualifikationsrahmen</strong>, die den Vergleich und die Anerkennung der Qualifikationen unterschiedlicher Bildungssysteme oder die Validierung einer informellen Bildung ermöglichen;</li>                <li>prüft Modelle für Lernen am Arbeitsplatz und berät die EU-Behörden in politischer Hinsicht im Hinblick auf die<strong> Reduzierung von Arbeitslosigkeit, vorzeitigem Schulabgang</strong> und anderen <strong>Ungleichgewichten auf dem Arbeitsmarkt</strong>.</li>             </ul>             <p>Das Cedefop arbeitet mit folgenden Agenturen zusammen:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_de.htm\"                      lang=\"de\">Europäische Stiftung zur Verbesserung der Lebens- und Arbeitsbedingungen (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_de.htm\"                      lang=\"de\">Europäische Stiftung für Berufsbildung (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_de.htm\"                      lang=\"de\">Europäische Agentur für Sicherheit und Gesundheitsschutz am Arbeitsplatz (EU-OSHA)</a>                </li>             </ul>             <h2>Nutznießer</h2>             <p>Das Cedefop</p>             <ul>                <li>unterstützt <strong>Jugendliche</strong> beim Übergang von der Bildung zum Arbeitsmarkt;</li>                <li>unterstützt <strong>Schulabbrecher</strong> bei der Rückkehr in das Bildungs- und Ausbildungssystem; </li>                <li>hilft <strong>arbeitslosen oder unterbeschäftigten Erwachsenen</strong> beim Wiedereintritt in das Bildungssystem und bei der beruflichen Neuorientierung;</li>                <li>stellt <strong>Orientierungshilfen und Beraterpersonal</strong> zur Verfügung;</li>                <li>bietet<strong> EU-Bürgerinnen und -Bürgern</strong> Hilfestellung beim Wechsel zwischen Ländern und Systemen und bei der Lösung von Problemen aufgrund von Qualifikationsunterschieden;</li>                <li>unterstützt die <strong>EU-Länder</strong> bei der Reform ihrer Lehrlingsausbildungssysteme;</li>                <li>unterstützt <strong>politische Entscheidungsträger auf europäischer, nationaler und regionaler Ebene</strong>, wenn es darum geht, fundierte Entscheidungen über berufliche Aus- und Weiterbildung zu treffen. </li>             </ul>"
+            ],
+            "el": [
+                "<p>Το Ευρωπαϊκό Κέντρο για την Ανάπτυξη της Επαγγελματικής Κατάρτισης (Cedefop) βοηθά στην ανάπτυξη και εφαρμογή των πολιτικών της ΕΕ στον τομέα της επαγγελματικής κατάρτισης. Παρακολουθεί τις τάσεις της αγοράς εργασίας και βοηθά την Ευρωπαϊκή Επιτροπή, τις χώρες της ΕΕ, τις οργανώσεις των εργοδοτών και τις συνδικαλιστικές οργανώσεις να προσαρμόζουν την προσφορά κατάρτισης στις ανάγκες της αγοράς εργασίας.</p>             <h2>Τι ακριβώς κάνει το Cedefop;</h2>             <p>Το Cedefop είναι ο <strong>οργανισμός της ΕΕ</strong> που φέρνει σε επαφή <strong>όλους τους ενδιαφερομένους του τομέα της επαγγελματικής εκπαίδευσης και κατάρτισης</strong>: πολιτικούς ιθύνοντες, οργανώσεις εργοδοτών, συνδικαλιστικές οργανώσεις, εκπαιδευτικά ιδρύματα, καθηγητές και εκπαιδευτές, καθώς και σπουδαστές κάθε ηλικίας.</p>             <p>Όντας στο μεταίχμιο ανάμεσα στα εκπαιδευτικά συστήματα και στον κόσμο της εργασίας, το Cedefop λειτουργεί ως φόρουμ που δίνει τη δυνατότητα στους ενδιαφερόμενους φορείς να ανταλλάσσουν ιδέες και να συζητούν για το πώς μπορεί να βελτιωθεί η επαγγελματική εκπαίδευση και κατάρτιση στην Ευρώπη. Παρέχει εμπειρογνωσία στις δημόσιες αρχές και τους κοινωνικούς εταίρους των χωρών της ΕΕ, ώστε να μπορούν να δημιουργούν εκπαιδευτικές και επαγγελματικές ευκαιρίες.</p>             <h2>Δομή</h2>             <p>Το Cedefop είναι ένας τριμερής οργανισμός. Το διοικητικό του συμβούλιο αποτελείται από εκπροσώπους:</p>             <ul>                <li>των εθνικών κυβερνήσεων</li>                <li>των οργανώσεων των εργοδοτών και των συνδικαλιστικών οργανώσεων</li>                <li>της Ευρωπαϊκής Επιτροπής.</li>             </ul>             <p>Ο διευθυντής είναι υπεύθυνος για τη συνολική διαχείριση των εργασιών του οργανισμού και του προσωπικού.</p>             <p>Τα καθημερινά καθήκοντα ασκούνται από εμπειρογνώμονες της αγοράς εργασίας και της επαγγελματικής εκπαίδευσης και κατάρτισης, οι οποίοι επικουρούνται από διοικητικούς υπαλλήλους και υπαλλήλους αρμόδιους για την επικοινωνία.</p>             <h2>Πώς λειτουργεί το Cedefop;</h2>             <p>Ο οργανισμός αυτός:</p>             <ul>                <li>εξετάζει πώς οι <strong>κοινωνικοοικονομικές και δημογραφικές εξελίξεις</strong> επηρεάζουν την <strong>απασχόληση</strong>, τη <strong>φύση των θέσεων εργασίας</strong> και τη <strong>ζήτηση δεξιοτήτων</strong>                </li>                <li>βοηθά ώστε <strong>η προσφορά επαγγελματικής κατάρτισης να εστιάζει</strong> στις <strong>ανάγκες της αγοράς εργασίας</strong>, προβλέποντας τις μελλοντικές ανάγκες δεξιοτήτων και επισημαίνοντας στους πολιτικούς ιθύνοντες τυχόν αναντιστοιχίες ανάμεσα στην προσφορά και τη ζήτηση δεξιοτήτων</li>                <li>προωθεί τη χρήση εργαλείων σε ευρωπαϊκή κλίμακα, όπως τα <strong>πλαίσια επαγγελματικών προσόντων</strong> που επιτρέπουν τη σύγκριση και αναγνώριση επαγγελματικών προσόντων που αποκτώνται από διαφορετικά εκπαιδευτικά συστήματα, ή την επικύρωση προγραμμάτων άτυπης εκπαίδευσης</li>                <li>αξιολογεί τα συστήματα μάθησης στον χώρο εργασίας και παρέχει συμβουλευτική υποστήριξη στις κυβερνήσεις των χωρών της ΕΕ για να μπορέσουν να <strong>μειώσουν την ανεργία, την πρόωρη εγκατάλειψη του σχολείου</strong> και άλλες <strong>ανισορροπίες της αγοράς εργασίας</strong>.</li>             </ul>             <p>Το Cedefop συνεργάζεται με τους εξής οργανισμούς:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_el.htm\"                      lang=\"el\">Ευρωπαϊκό Ίδρυμα για τη Βελτίωση των Συνθηκών Διαβίωσης και Εργασίας (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_el.htm\"                      lang=\"el\">Ευρωπαϊκό Ίδρυμα Επαγγελματικής Εκπαίδευσης (ΕΙΕΕ)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_el.htm\"                      lang=\"el\">Ευρωπαϊκός Οργανισμός για την Ασφάλεια και την Υγεία στην Εργασία (EU-OSHA)</a>                </li>             </ul>             <h2>Ποιοι ωφελούνται;</h2>             <p>Το έργο του Cedefop:</p>             <ul>                <li>βοηθά τους <strong>νέους</strong> να περνούν από την εκπαίδευση στην αγορά εργασίας</li>                <li>βοηθά <strong>όσους εγκαταλείπουν πρόωρα το σχολείο</strong> να επιστρέφουν στην επαγγελματική εκπαίδευση και κατάρτιση</li>                <li>βοηθά τους <strong>άνεργους ή υποαπασχολούμενους ενήλικες</strong> να επιστρέφουν στη μαθησιακή διαδικασία και να επαναπροσανατολίσουν τη σταδιοδρομία τους</li>                <li>παρέχει στις <strong>υπηρεσίες καθοδήγησης και συμβουλευτικής υποστήριξης</strong> πληροφορίες για όλη την ΕΕ</li>                <li>βοηθά τους <strong>πολίτες της ΕΕ</strong> να αλλάζουν χώρα ή σύστημα χωρίς αυτό να θίγει την αναγνώριση των επαγγελματικών τους προσόντων</li>                <li>βοηθά τις <strong>χώρες της ΕΕ</strong> να βελτιώνουν την προσφορά τους στον τομέα της μαθητείας</li>                <li>βοηθά τους <strong>πολιτικούς ιθύνοντες σε ευρωπαϊκό, εθνικό και περιφερειακό επίπεδο</strong> να λαμβάνουν τεκμηριωμένες αποφάσεις για την προσφορά επαγγελματικής εκπαίδευσης και κατάρτισης.</li>             </ul>"
+            ],
+            "en": [
+                "<p>The European Centre for the Development of Vocational training (Cedefop) helps develop and implement EU vocational training policies. It monitors labour market trends and helps the European Commission, EU countries, employers' organisations and trade unions to match training provision to labour market needs.</p>             <h2>What does Cedefop do?</h2>             <p>Cedefop is the <strong>EU organisation</strong> that brings together policymakers, employers' organisations and trade unions, training institutions, teachers and trainers, and learners of all ages – <strong>everyone with a stake in vocational education and training</strong>.</p>             <p>At the crossroads between education systems and the world of work, Cedefop operates as a forum, allowing the organisations with a stake in its work to share ideas and debate how best to improve vocational education and training in Europe. It shares its expertise with political organisations and the 2 sides of industry in the EU countries to help them generate learning and working opportunities.</p>             <h2>Structure</h2>             <p>Cedefop is a tripartite agency. Its Governing Board comprises representatives of:</p>             <ul>                <li>national governments</li>                <li>employers’ organisations and trade unions</li>                <li>the European Commission.</li>             </ul>             <p>The director is responsible for the overall management of the agency's work and staff.</p>             <p>Experts in the labour market and in vocational education and training carry out the day-to-day work. They are supported by administrative and communication staff.</p>             <h2>How does Cedefop work?</h2>             <p>The agency:</p>             <ul>                <li>examines how <strong>socioeconomic and demographic trends</strong> affect <strong>employment</strong>, the <strong>nature of jobs</strong> and <strong>demand for skills</strong>                </li>                <li>helps <strong>focus vocational training provision</strong> on <strong>labour market needs</strong> by forecasting future skills needs and alerting policymakers to skills mismatches</li>                <li>supports the use of EU-wide tools such as <strong>qualifications frameworks</strong> that enable qualifications from different education systems to be compared and recognised or informal learning to be validated</li>                <li>reviews work-based learning models and provides policy advice to EU governments to help <strong>reduce joblessness, early school leaving</strong> and other <strong>labour market imbalances</strong>.</li>             </ul>             <p>Cedefop cooperates with other agencies:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_en.htm\"                      lang=\"en\">European Foundation for the Improvement of Living &amp; Working Conditions (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_en.htm\"                      lang=\"en\">European Training Foundation (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cedefop/•European%20Agency%20for%20Safety%20&amp;%20Health%20at%20Work%20(EU-OSHA).\">European Agency for Safety &amp; Health at Work (EU-OSHA).</a>                </li>             </ul>             <h2>Who benefits?</h2>             <p>Cedefop’s work:</p>             <ul>                <li>helps <strong>young people</strong> move from education into the labour market</li>                <li>helps <strong>early school-leavers</strong> return to education and training</li>                <li>helps <strong>unemployed or underemployed adults</strong> return to learning and refocus their careers</li>                <li>provides <strong>guidance and counselling staff</strong> with an EU-wide outlook</li>                <li>helps <strong>EU citizens</strong> move between countries and systems, while 'taking their qualifications with them'</li>                <li>helps <strong>EU countries</strong> reform their apprenticeship provision</li>                <li>helps <strong>European, national and regional policymakers</strong> take informed decisions on vocational education and training provision.</li>             </ul>"
+            ],
+            "es": [
+                "<p>El Centro Europeo para el Desarrollo de la Formación Profesional (Cedefop) contribuye a elaborar y ejecutar las políticas de formación profesional de la Unión Europea. Vigila la evolución de las tendencias del mercado laboral y ayuda a la Comisión Europea, los países de la UE, las organizaciones patronales y los sindicatos a adaptar la oferta de formación a las necesidades del mercado de trabajo.</p>             <h2>¿Qué hace el Cedefop?</h2>             <p>El Cedefop es el <strong>organismo de la UE</strong> que reúne a los responsables políticos, las organizaciones patronales y sindicales, las instituciones de formación, los profesores y formadores, y los alumnos de todas las edades, es decir, <strong>a todos los interesados en la educación y la formación profesionales</strong>.</p>             <p>Situado en la encrucijada entre los sistemas educativos y el mundo laboral, el Cedefop funciona como un foro en el que las organizaciones interesadas pueden poner en común sus ideas y debatir la mejor manera de mejorar la educación y formación profesionales en Europa. Pone sus conocimientos especializados a disposición de los organismos políticos y de los interlocutores sociales en los países de la UE, para ayudarles a generar oportunidades de aprendizaje y de trabajo.</p>             <h2>Estructura</h2>             <p>El Cedefop es una agencia tripartita. Su Consejo de Administración está formado por representantes de:</p>             <ul>                <li>las administraciones nacionales</li>                <li>las organizaciones patronales y sindicales</li>                <li>la Comisión Europea.</li>             </ul>             <p>El Director es responsable de la gestión global de la labor del Centro y su personal.</p>             <p>De la labor cotidiana del Centro se ocupan expertos en el mercado laboral y en educación y formación profesionales, ayudados por personal administrativo y de comunicación.</p>             <h2>¿Cómo funciona el Cedefop?</h2>             <p>El Centro:</p>             <ul>                <li>examina cómo afectan las <strong>tendencias socioeconómicas y demográficas</strong> al <strong>empleo</strong>, las <strong>características de los puestos de trabajo</strong> y la <strong>demanda de destrezas</strong>                </li>                <li>ayuda a <strong>centrar la oferta de formación profesional</strong> en las <strong>necesidades del mercado laboral</strong> anticipando las necesidades de competencias en el futuro y alertando a los responsables políticos sobre los desajustes entre la oferta y la demanda de capacidades</li>                <li>apoya el uso de instrumentos de alcance europeo, como los <strong>marcos de cualificaciones</strong>, que permiten la comparación y el reconocimiento de cualificaciones obtenidas a través de diferentes sistemas educativos o la validación del aprendizaje informal</li>                <li>revisa modelos de aprendizaje basados en el trabajo y ofrece asesoramiento a los gobiernos de la UE para ayudar a <strong>reducir el desempleo, el abandono escolar</strong> y otros <strong>desequilibrios del mercado laboral</strong>.</li>             </ul>             <p>El Cedefop colabora con otros organismos:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_es.htm\"                      lang=\"es\">Fundación Europea para la Mejora de las Condiciones de Vida y de Trabajo (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_es.htm\"                      lang=\"es\">Fundación Europea de Formación (FEF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_es.htm\"                      lang=\"es\">Agencia Europea para la Seguridad y la Salud en el Trabajo (EU-OSHA).</a>                </li>             </ul>             <h2>¿A quién beneficia?</h2>             <p>La labor del Cedefop:</p>             <ul>                <li>ayuda a los <strong>jóvenes</strong> a pasar de la educación al mercado laboral</li>                <li>ayuda a los <strong>jóvenes en situación de abandono escolar prematuro</strong> a regresar a la educación y la formación</li>                <li>ayuda a los <strong>adultos desempleados o subempleados</strong> a regresar al aprendizaje y reorientar su carrera profesional</li>                <li>ofrece <strong>orientaciones y asesoramiento</strong> impartidos por personal especializado desde la perspectiva de la UE</li>                <li>ayuda a los <strong>ciudadanos de la UE</strong> a cambiar de país y de sistema, \"llevándose con ellos sus cualificaciones\"</li>                <li>ayuda a los <strong>países de la UE</strong> a reformar su oferta de aprendizaje</li>                <li>ayuda a los <strong>responsables políticos europeos, nacionales y regionales</strong> a tomar decisiones con conocimiento de causa sobre la oferta de educación y formación profesionales.</li>             </ul>"
+            ],
+            "et": [
+                "<p>Euroopa Kutseõppe Arenduskeskus (Cedefop) aitab arendada ja rakendada ELi kutseõppestrateegiaid. Keskus jälgib tööturusuundumusi ja aitab Euroopa Komisjonil, ELi riikidel, tööandjate kutseorganisatsioonidel ja ametiühingutel viia koolituste pakkumine vastavusse tööturu vajadustega.</p>             <h2>Mida Cedefop teeb?</h2>             <p>Cedefop on <strong>ELi organisatsioon</strong>, mis toob kokku poliitikakujundajad, tööandjate kutseorganisatsioonid, ametiühingud, koolitusasutused, õpetajad ja koolitajad ning igas vanuses õppijad – <strong>kõik kutsehariduse ja -koolitusega seotud rühmad.</strong>             </p>             <p>Cedefop seisab koolitussüsteemide ja töömaailma teelahkmel ning annab eri sidusrühmadele võimaluse mõttevahetuseks ja aruteludeks Euroopa kutseharidus- ja -koolitussüsteemi parandamise üle. Keskus pakub lisaks neile kahele osapoolele erialast nõu ka poliitilistele organisatsioonidele, et aidata luua õppimis- ja töövõimalusi.</p>             <h2>Struktuur</h2>             <p>Cedefop on kolmepoolne amet. Selle haldusnõukogusse kuuluvad esindajad järgmistest sidusrühmadest:</p>             <ul>                <li>riikide valitsused;</li>                <li>tööandjate kutseorganisatsioonid ja ametiühingud;</li>                <li>Euroopa Komisjon.</li>             </ul>             <p>Direktor vastutab keskuse töö ja personali igapäevase juhtimise eest.</p>             <p>Igapäevaseid tööülesandeid täidavad tööturu ja kutsehariduse eksperdid, keda toetavad haldus- ja teabevahetusülesandeid täitvad töötajad.</p>             <h2>Kuidas Cedefop töötab?</h2>             <p>Keskus teeb järgmist:</p>             <ul>                <li>uurib, kuidas <strong>sotsiaal-majanduslikud ja demograafilised suundumused</strong> mõjutavad <strong>tööhõivet</strong>, <strong>töö olemust</strong> ja <strong>oskuste nõudlust</strong>;</li>                <li>prognoosib vajalikke oskusi ja teatab poliitikakujundajatele oskuste ja tööturu vajaduste vahelistest ebakõladest, et viia <strong>kutsekoolituste pakkumine</strong> vastavusse <strong>tööturu vajadustega</strong>;</li>                <li>toetab kogu ELi hõlmavaid vahendeid, nagu <strong>kvalifikatsiooniraamistikud</strong>, mis aitavad võrrelda ja tunnustada eri haridussüsteemidest pärit kvalifikatsioone või informaalset õpet;</li>                <li>vaatab läbi töökohal pakutava väljaõppe mudeleid ja annab ELi valitsustele poliitika kujundamiseks vajalikku nõu, et aidata <strong>vähendada tööpuudust, haridussüsteemist varakult lahkumist</strong> ja muid <strong>tööturu tasakaalu häirivaid tegureid</strong>.</li>             </ul>             <p>Cedefop teeb koostööd muude ametitega:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_et.htm\"                      lang=\"et\">Euroopa Elu- ja Töötingimuste Parandamise Fond (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_et.htm\"                      lang=\"et\">Euroopa Koolitusfond (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_et.htm\"                      lang=\"et\">Euroopa Tööohutuse ja Töötervishoiu Agentuur (EU-OSHA)</a>                </li>             </ul>             <h2>Kes saavad kasu?</h2>             <p>Cedefop:</p>             <ul>                <li>aitab <strong>noortel</strong> minna üle koolist tööellu;</li>                <li>aitab <strong>haridussüsteemist varakult lahkunutel</strong> uuesti õpinguid alustada;</li>                <li>aitab <strong>töötutel või madala tööhõivega täiskasvanutel</strong> õpinguid alustada ja karjääri ümber kujundada;</li>                <li>annab tööd <strong>nõustamispersonalile</strong>, kellel on teadmised kogu ELi kohta;</li>                <li>aitab <strong>ELi kodanikel</strong> minna ühest riigist ja süsteemist teise ning võtta kaasa oma kutsekvalifikatsioon;</li>                <li>aitab <strong>ELi riikidel</strong> ümber korraldada õpipoisiõpet;</li>                <li>aitab <strong>Euroopa, riikide ja piirkondade</strong> poliitikakujundajatel teha kutseharidus- ja -koolitussüsteemi kohta teadlikke otsuseid.</li>             </ul>"
+            ],
+            "fi": [
+                "<p>Euroopan ammatillisen koulutuksen kehittämiskeskus (Cedefop) tukee EU:n ammattikoulutuspolitiikan kehittämistä ja toteuttamista. Virasto seuraa työmarkkinoiden suuntauksia ja auttaa Euroopan komissiota, EU-maita, työnantajajärjestöjä ja ammattiliittoja sovittamaan koulutustarjontaa työmarkkinoiden tarpeisiin.</p>             <h2>Tehtävät</h2>             <p>Cedefop on <strong>EU-organisaatio</strong>, jonka toimintaan osallistuu päättäjiä, työnantajajärjestöjä ja ammattiliittoja, oppilaitoksia, opettajia ja kouluttajia sekä kaikenikäisiä oppijoita – <strong>kaikki ammatillisen koulutuksen kanssa tekemisissä olevat tahot</strong>.</p>             <p>Cedefop tarjoaa foorumin eri tahojen ajatustenvaihdolle ja keskustelulle ammatillisen koulutuksen kehittämisestä Euroopassa. Se tarjoaa asiantuntemustaan myös poliittisten järjestöjen ja työmarkkinaosapuolten käyttöön auttaakseen niitä luomaan oppimis- ja työllistymismahdollisuuksia EU-maissa.</p>             <h2>Rakenne</h2>             <p>Cedefopin johtokuntaan kuuluu</p>             <ul>                <li>kansallisia viranomaisia</li>                <li>työnantajajärjestöjen ja ammattiliittojen edustajia</li>                <li>Euroopan komission edustajia.</li>             </ul>             <p>Johtaja vastaa yleis- ja henkilöstöhallinnosta.</p>             <p>Viraston päivittäisestä toiminnasta vastaavat työmarkkinoiden ja ammatillisen koulutuksen asiantuntijat, jotka saavat tukea hallinto- ja viestintähenkilöstöiltä.</p>             <h2>Toiminta</h2>             <p>Cedefop</p>             <ul>                <li>tutkii, kuinka <strong>sosioekonomiset ja väestönkehityksen suuntaukset</strong> vaikuttavat <strong>työllisyyteen</strong>, <strong>työn luonteeseen</strong> ja <strong>osaamiskysyntään</strong>.</li>                <li>auttaa <strong>ammatillisen koulutuksen tarjontaa</strong> vastaamaan <strong>työmarkkinoiden tarpeisiin</strong> ennustamalla tulevia osaamistarpeita ja varoittamalla päättäjiä ammattitaidon tarjonnan ja kysynnän kohtaamattomuudesta.</li>                <li>tukee EU:n laajuisten välineiden, kuten <strong>tutkintojen viitekehyksen</strong> käyttöä, jotka mahdollistavat eri koulutusjärjestelmistä saatujen pätevyyksien vertailun ja tunnustamisen sekä arkioppimisen validoimisen.</li>                <li>tarkastelee työssäoppimisen malleja ja neuvoo EU-maiden viranomaisia <strong>työttömyyden ja koulunkäynnin keskeyttämisen vähentämiseen</strong> sekä <strong>työmarkkinoiden tasapainottamiseen</strong> liittyvässä päätöksenteossa.</li>             </ul>             <p>Cedefop tekee yhteistyötä seuraavien virastojen kanssa:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_fi.htm\"                      lang=\"fi\">Euroopan elin- ja työolojen kehittämissäätiö (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_fi.htm\"                      lang=\"fi\">Euroopan koulutussäätiö (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_fi.htm\"                      lang=\"fi\">Euroopan työterveys- ja työturvallisuusvirasto (EU-OSHA)</a>                </li>             </ul>             <h2>Hyötyjät</h2>             <p>Cedefopin tavoitteena on</p>             <ul>                <li>auttaa <strong>nuoria</strong> siirtymään koulutuksesta työmarkkinoille</li>                <li>auttaa <strong>koulunkäynnin keskeyttäneitä</strong> jatkamaan opiskelua</li>                <li>auttaa <strong>työttömiä ja alityöllistettyjä aikuisia</strong> palaamaan koulutukseen ja ottamaan uuden suunnan urallaan</li>                <li>tarjoaa EU:n laajuista <strong>neuvontaa ja neuvontahenkilöstöä</strong>                </li>                <li>auttaa <strong>EU:n kansalaisia</strong> siirtymään maasta ja järjestelmästä toiseen ja hyödyntämään samalla aiempia tutkintojaan.</li>                <li>auttaa <strong>EU-maita</strong> uudistamaan oppisopimuskoulutustarjontaansa</li>                <li>auttaa <strong>EU-tason, kansallisen tason, ja alueellisen tason päättäjiä</strong> tekemään valistuneita päätöksiä ammattikoulutuksen tarjonnan suhteen.</li>             </ul>"
+            ],
+            "fr": [
+                "<p>Le Centre européen pour le développement de la formation professionnelle (Cedefop) contribue à élaborer et mettre en œuvre les politiques de formation professionnelle. Il surveille les évolutions du marché du travail et aide la Commission européenne, les pays de l’UE et les organisations syndicales et patronales à adapter l'offre en matière de formation aux besoins du marché du travail.</p>             <h2>Activités</h2>             <p>Le Cedefop est une <strong>agence de l'UE</strong> réunissant <strong>tous les acteurs de l'enseignement et de la formation professionnels</strong>: responsables politiques, organisations syndicales et patronales, établissements de formation, enseignants, formateurs et apprenants de tous âges.</p>             <p>À la charnière des systèmes éducatifs et du monde du travail, il permet aux organisations concernées d’échanger des idées et de débattre des moyens d’améliorer l’enseignement et la formation professionnels en Europe. Il propose son expertise aux pouvoirs publics et aux partenaires sociaux dans les pays de l’UE, afin de les aider à développer les possibilités de travail et d’apprentissage.</p>             <h2>Structure</h2>             <p>Le Cedefop  est doté d'un conseil d'administration tripartite, comprenant des représentants:</p>             <ul>                <li>des gouvernements;</li>                <li>des organisations patronales et des syndicats;</li>                <li>de la Commission européenne.</li>             </ul>             <p>Son directeur est chargé de la gestion globale des travaux  et du personnel.</p>             <p>Le travail quotidien est assuré par des experts du marché du travail et de l’enseignement et de la formation professionnels,  assistés par une équipe administrative et de communication.</p>             <h2>Fonctionnement</h2>             <p>L'agence: </p>             <ul>                <li>étudie les effets des <strong>évolutions démographiques et socioéconomiques</strong> sur l'<strong>emploi</strong> et la <strong>demande de compétences</strong>;</li>                <li>aide à <strong>orienter la formation professionnelle</strong> vers les <strong>besoins du marché du travail</strong>, en  anticipant les futurs besoins en  compétences et en signalant les inadéquations entre l'offre et la demande aux responsables politiques;</li>                <li>encourage l'utilisation d'outils à l'échelle de l'UE tels que les <strong>cadres de certification professionnelle</strong>, qui permettent de comparer et de reconnaître  les qualifications obtenues dans différents systèmes éducatifs, ainsi que de valider les programmes d'apprentissage informel;</li>                <li>évalue les modèles de formation en milieu de travail et fournit des conseils aux pays de l'UE pour les aider à <strong>réduire le chômage, le décrochage scolaire</strong> et <strong>les déséquilibres du marché du travail</strong>.</li>             </ul>             <p>Le Cedefop coopère avec d’autres agences:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_fr.htm\"                      lang=\"fr\">La Fondation européenne pour l’amélioration des conditions de vie et de travail (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_fr.htm\"                      lang=\"fr\">La Fondation européenne pour la formation (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_fr.htm\"                      lang=\"fr\">L'Agence européenne pour la sécurité et la santé au travail (EU-OSHA)</a>                </li>             </ul>             <h2>Bénéficiaires</h2>             <p>Le Cedefop:</p>             <ul>                <li>aide les <strong>jeunes</strong> à entrer sur le marché du travail;</li>                <li>aide les <strong>jeunes en décrochage scolaire</strong> à reprendre des études ou une formation;</li>                <li>aide les <strong>adultes sans emploi ou sous-employés</strong> à se former et à réorienter leur carrière;</li>                <li>fournit aux <strong>services d'orientation et de conseil</strong> des informations à l'échelle européenne;</li>                <li>aide les <strong>citoyens de l'UE</strong> à faire reconnaître leurs qualifications dans différents pays et systèmes;</li>                <li>aide les <strong>pays de l'UE</strong> à améliorer leur offre de formation en apprentissage;</li>                <li>aide les <strong>responsables politiques au niveau régional, national et européen</strong> à faire des choix éclairés dans le domaine de la formation et de l'enseignement professionnels.</li>             </ul>"
+            ],
+            "ga": [
+                "<p>Cuidíonn an Lárionad Eorpach um Fhorbairt na Gairmoiliúna (Cedefop) beartais ghairmoideachais agus ghairmoiliúna an Aontais a cheapadh agus a chur i bhfeidhm. Déanann sé monatóireacht ar mhargaí saothair agus cuidíonn sé leis an gCoimisiún Eorpach, leis na Ballstáit, le heagraíochtaí fostóirí agus le ceardchumainn an saghas oiliúna a chuirtear ar fáil a chur in oiriúint do riachtanais an mhargaidh saothair.</p>             <h2>Cad a dhéanann Cedefop?</h2>             <p>Is éard atá in Cedefop <strong>eagraíocht de chuid an Aontais</strong> a thugann i gceann a chéile lucht ceaptha beartas, eagraíochtaí fostóirí agus ceardchumann, institiúidí oiliúna, múinteoirí agus oiliúnóirí, agus foghlaimeoirí de gach aois, is é sin <strong>gach dream a mbaineann an gairmoideachas agus an ghairmoilúint leis</strong>.</p>             <p>Ós ní é gur ag an gcrosbhóthar idir córais oideachais agus an saol oibre atá sé suite, tá Cedefop mar a bheadh fóram ann inar féidir le dreamanna a mbaineann a chuid oibre leo smaointe a roinnt le chéile agus plé a dhéanamh ar an dóigh is fearr le feabhas a chur ar an ngairmoideachas agus ar an ngairmoiliúint san Eoraip. Roinneann sé a chuid saineolais le heagraíochtaí polaitiúla agus le lucht tionscadail sna Ballstáit chun cuidiú leo deiseanna foghlama agus oibre a chur ar fáil.</p>             <h2>Struchtúr</h2>             <p>Eagraíocht ina bhfuil trí chuid é Cedefop. Ar a bhord rialaithe tá ionadaithe ó:</p>             <ul>                <li>na Ballstáit</li>                <li>eagraíochtaí fostóirí agus eagraíochtaí ceardchumann</li>                <li>an Coimisiún Eorpach.</li>             </ul>             <p>Ar an stiúrthóir atá sé de chúram féachaint i ndiaidh bhainistiú ginearálta fhoireann agus cuid oibre Cedefop.</p>             <p>Ar shaineolaithe ar an margadh saothair agus ar shaineolaithe gairmoideachais agus gairmoiliúna atá obair laethúil Cedefop de chúram. Cuidíonn an fhoireann riaracháin agus cumarsáide leo sin a gcuid oibre a dhéanamh.</p>             <h2>Cén chaoi a n-oibríonn Cedefop?</h2>             <p>Déanann an ghníomhaireacht an méid seo a leanas:</p>             <ul>                <li>cíorann sé an tionchar a imríonn <strong>treochtaí socheacnamaíocha agus déimeagrafacha</strong> ar an bh<strong>fostaíocht</strong>, ar <strong>nádúr post</strong> agus ar an <strong>éileamh ar scileanna</strong>                </li>                <li>cuidíonn sé <strong>an ghairmoiliúint a chuirtear ar fáil a oiriúnú do riachtanais an mhargaidh saothair</strong> trí fhéachaint leis na scileanna a bheidh de dhíth sa todhchaí a dhéanamh amach roimh ré agus trí lucht ceaptha beartas a chur ar an eolas faoi easnaimh scileanna</li>                <li>tacaíonn sé le húsáid uirlisí uile-Eorpacha ar nós <strong>creataí cáilíochtaí</strong> a thugann caoi cáilíochtaí a gnóthaíodh faoi chórais oideachais éagsúla a chur i gcomparáid agus aitheantas a thabhairt dóibh, agus, chomh maith leis sin, foghlaim neamhfhoirmeálta a bhailíochtú</li>                <li>déanann sé measúnú ar mhúnlaí foghlama atá bunaithe ar obair agus cuireann sé comhairle faoi bheartais ar rialtais na mBallstát féachaint <strong>an dífhostaíocht, luathfhágáil na scoile</strong> agus <strong> míchothromaíochtaí eile sa mhargadh saothair</strong> a laghdú.</li>             </ul>             <p>Oibríonn Cedefop i gcomhar le gníomhaireachtaí eile dá leithéidí seo:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_ga.htm\"                      lang=\"ga\">an Foras Eorpach chun Dálaí Maireachtála agus Oibre a Fheabhsú (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_ga.htm\"                      lang=\"ga\">an Fhondúireacht Eorpach Oiliúna (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_ga.htm\"                      lang=\"ga\">an Ghníomhaireacht Eorpach um Shábháilteacht agus Sláinte ag an Obair (EU-OSHA)</a>                </li>             </ul>             <h2>Cé a bhaineann leas as?</h2>             <p>A bhuí le cuid oibre Cedefop:</p>             <ul>                <li>cuidítear le <strong>daoine óga</strong> imeacht ón oideachas go dtí an margadh saothair</li>                <li>cuidítear le <strong>luathfhágálaithe scoile</strong> dul i mbun oideachais agus oiliúna athuair</li>                <li>cuidítear le <strong>daoine fásta atá dífhostaithe nó nach bhfuil a ndóthain fostaíochta acu</strong> filleadh ar an oideachas agus fócas a ngairm bheatha a athdhíriú</li>                <li>cuirtear <strong>treoirfhoireann agus foireann chomhairleoireachta</strong> ar fáil a bhfuil dearcadh uile-Eorpach acu</li>                <li>cuidítear le <strong>saoránaigh den Aontas</strong> aistriú go tíortha eile agus go córais eile agus a gcuid cáilíochtaí leanúint de bheith bailí </li>                <li>cuidítear leis na <strong>Ballstáit </strong>na printíseachtaí a chuireann siad ar fáil a athchóiriú</li>                <li>cuidítear le lucht ceaptha beartas ar an leibhéal <strong>Eorpach, náisiúnta agus réigiúnach</strong> cinntí feasacha a dhéanamh faoin ngairmoideachas agus faoin ngairmoiliúint.</li>             </ul>"
+            ],
+            "hr": [
+                "<p>Europski centar za razvoj strukovnog osposobljavanja (Cedefop) pomaže pri razvoju i provedbi politika EU-a o strukovnom osposobljavanju. Nadzire trendove na tržištu rada i pomaže Europskoj komisiji, državama članicama EU-a, organizacijama poslodavaca i sindikatima da usklade mogućnosti osposobljavanja s potrebama na tržištu rada.</p>             <h2>Što čini Cedefop?</h2>             <p>Cedefop je <strong>organizacija EU-a</strong> koja okuplja tvorce politika, organizacije poslodavaca i sindikate, obrazovne ustanove, nastavnike i instruktore te učenike svih dobi – <strong>sve koji sudjeluju u strukovnom obrazovanju i osposobljavanju</strong>.</p>             <p>Cedefop djeluje kao forum na križanju obrazovnih sustava i poslovnog svijeta, pri čemu organizacijama koje sudjeluju u njegovu radu omogućava da razmjenjuju ideje i raspravljaju o najboljim metodama za poboljšanje strukovnog obrazovanja i osposobljavanja u Europi. Svoje stručno znanje dijeli s političkim organizacijama i objema stranama industrije u državama članicama EU-a kako bi im pomogao stvoriti mogućnosti za učenje i rad.</p>             <h2>Struktura</h2>             <p>Cedefop je tripartitna agencija. Njegov se upravni odbor sastoji od predstavnika:</p>             <ul>                <li>nacionalnih vlada</li>                <li>organizacija poslodavaca i sindikata</li>                <li>Europske komisije.</li>             </ul>             <p>Direktor je odgovoran za cjelokupno upravljanje radom i osobljem agencije.</p>             <p>Stručnjaci za tržište rada te stručnjaci za strukovno obrazovanje i osposobljavanje obavljaju svakodnevne zadaće. Njih podupire upravno i komunikacijsko osoblje.</p>             <h2>Kako funkcionira Cedefop?</h2>             <p>Agencija:</p>             <ul>                <li>ispituje kako <strong>socioekonomski i demografski trendovi</strong> utječu na <strong>zapošljavanje</strong>, <strong>prirodu poslova</strong> i <strong>potražnju za vještinama</strong>                </li>                <li>pomaže <strong>usmjeriti pruženo strukovno osposobljavanje</strong> na <strong>potrebe tržišta rada</strong> predviđanjem budućih potreba za vještinama i upozoravanjem tvoraca politika na neusklađenost vještina</li>                <li>nastoji postići da se u cijelom EU-u upotrebljavaju alati kao što su <strong>kvalifikacijski okviri</strong> kojima se omogućava usporedba i priznavanje kvalifikacija iz različitih obrazovnih sustava ili potvrđivanje neformalnog učenja</li>                <li>revidira modele učenja kroz rad i daje političke savjete vladama država članica EU-a kako bi se <strong>smanjili nezaposlenost, rani prekid školovanja</strong> i druge <strong>neravnoteže na tržištu rada</strong>.</li>             </ul>             <p>Cedefop surađuje s drugim agencijama:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_hr.htm\"                      lang=\"hr\">Europskom zakladom za poboljšanje životnih i radnih uvjeta (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_hr.htm\"                      lang=\"hr\">Europskom zakladom za izobrazbu (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_hr.htm\"                      lang=\"hr\">Europskom agencijom za sigurnost i zdravlje na radu (EU-OSHA).</a>                </li>             </ul>             <h2>Tko ima koristi od Cedefopa?</h2>             <p>Zadaće Cedefopa:</p>             <ul>                <li>pomoć <strong>mladima</strong> pri prelasku iz obrazovnog sustava na tržište rada</li>                <li>pomoć <strong>učenicima koji rano prekidaju školovanje</strong> pri povratku u sustav obrazovanja i osposobljavanja</li>                <li>pomoć <strong>nezaposlenim ili podzaposlenim odraslima</strong> pri ponovnom učenju i preusmjeravanju karijere</li>                <li>osiguranje informacija o situaciji u EU-u <strong>osoblju za profesionalno usmjeravanje i savjetovanje</strong>                </li>                <li>pomoć <strong>građanima EU-a</strong> pri kretanju među državama članicama i sustavima, uz zadržavanje kvalifikacija</li>                <li>pomoć <strong>državama članicama EU-a</strong> pri reformi naukovanja</li>                <li>pomoć <strong>europskim, nacionalnim i regionalnim tvorcima politika</strong> pri donošenju informiranih odluka o pružanju strukovnog obrazovanja i osposobljavanja.</li>             </ul>"
+            ],
+            "hu": [
+                "<p>Az Európai Szakképzésfejlesztési Központ az uniós szakképzési és szakoktatási politikák kidolgozásában és megvalósításában támogatja a EU szakpolitikai döntéshozóit. Figyelemmel kíséri a munkaerő-piaci trendeket, valamint segíti az Európai Bizottságot, az EU-országokat, valamint a munkáltatói és a munkavállalói szervezeteket abban a törekvésükben, hogy a képzési kínálat mindenütt a lehető legjobban tükrözze a munkaerőpiacon jelentkező szükségleteket.</p>             <h2>Milyen feladatokat lát el a Cedefop?</h2>             <p>A Cedefop az EU szakképzésre szakosodott <strong>decentralizált szerve</strong>, amely közös fórumot kínál a szakpolitikai döntéshozóknak, a munkáltatói szervezeteknek és a szakszervezeteknek, az oktatási és képzési intézményeknek, a pedagógusoknak és a képzésszervezőknek, valamint a szakképzési programok különböző korosztályú résztvevőinek – magyarán szólva <strong>a szakképzésben érintett összes érdekelt félnek</strong>.</p>             <p>A Cedefop – azáltal, hogy a híd szerepét tölti be a tanulás és a munka világa között – ideális szellemi piactér, ahol az érdekelt szervezetek megoszthatják egymással elképzeléseiket és megvitathatják, hogyan lehet a legjobban előmozdítani a szakoktatás és szakképzés ügyét Európában. Az ügynökség az alkalmazásában álló szakemberek tudását megosztja a politikai döntéshozókkal, az ágazati szereplőkkel és az EU-országok illetékes hatóságaival, hogy így segítsen nekik új képzési és munkalehetőségek teremtésében.</p>             <h2>Szervezeti felépítés</h2>             <p>A Cedefop háromoldalú ügynökség. Az ügynökség irányító testületét képviselőkön keresztül a következő három csoport alkotja:</p>             <ul>                <li>a tagállamok kormányai,</li>                <li>a munkaadói szervezetek és a szakszervezetek,</li>                <li>az Európai Bizottság.</li>             </ul>             <p>Az igazgató felelős az ügynökség munkájának és személyzeti állományának általános igazgatásáért.</p>             <p>A munkaerőpiac és a szakoktatás és -képzés terén tevékenykedő szakértők látják el az ügynökség alaptevékenységéhez tartozó mindennapi feladatokat. Munkájukat a szervezet adminisztrációval és kommunikációval foglalkozó munkatársai segítik.</p>             <h2>Hogyan végzi a Cedefop a munkáját?</h2>             <p>Az ügynökség:</p>             <ul>                <li>megvizsgálja, hogy a <strong>társadalmi-gazdasági és demográfiai tendenciák</strong> hogyan befolyásolják a <strong>foglalkoztatást</strong>, a <strong>kínált állások típusát</strong> és a <strong>készségek iránti keresletet</strong>;</li>                <li>segít a <strong>szakképzésnek</strong> a <strong>munkaerő-piaci szükségletekhez</strong> való hozzáigazításában azáltal, hogy előrejelzéseket készít a készségek iránti kereslet várható alakulásáról és figyelmezteti a szakpolitikai döntéshozókat, ha valahol strukturális munkaerőhiány lép fel;</li>                <li>támogatja az olyan EU-szintű eszközök, pl. <strong>képesítési keretrendszerek</strong> használatát, amelyek lehetővé teszik a különböző oktatási rendszerekben szerzett képesítések összehasonlítását és kölcsönös elismerését, illetve az informális tanulás keretében elsajátított ismeretek validálását;</li>                <li>felülvizsgálja a munkahelyi környezetben történő tanulás modelljeit és szakpolitikai tanácsokkal látja el az EU-országok kormányait, így segítve őket a <strong>munkanélküliség csökkentésében, a korai iskolaelhagyás visszaszorításában</strong> és más <strong>munkaerő-piaci egyensúlyhiányok megszüntetésében</strong>.</li>             </ul>             <p>A Cedefop együttműködik az EU más ügynökségeivel is, így:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_hu.htm\"                      lang=\"hu\">az Európai Alapítvánnyal az Élet- és Munkakörülmények Javításáért (EUROFOUND),</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_hu.htm\"                      lang=\"hu\">az Európai Képzési Alapítvánnyal (ETF) és</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_hu.htm\"                      lang=\"hu\">az Európai Munkahelyi Biztonsági és Egészségvédelmi Ügynökséggel (EU-OSHA).</a>                </li>             </ul>             <h2>Kik látják hasznát a Cedefop tevékenységének?</h2>             <p>Munkája révén a Cedefop:</p>             <ul>                <li>segít a <strong>fiataloknak</strong> abban, hogy tanulmányaik elvégzését követően sikeresen el tudjanak helyezkedni a munkaerőpiacon;</li>                <li>segít az <strong>iskolából kimaradóknak</strong> abban, hogy visszaüljenek az iskolapadba, illetve megfelelő képzésben részesüljenek;</li>                <li>segít az <strong>állás nélküli vagy alulfoglalkoztatott felnőtteknek</strong> abban, hogy átképezzék magukat és új, piacképes szakmát tanuljanak;</li>                <li>tágítja a <strong>pályaorientációs tanácsadók</strong> látókörét, hiszen betekintést nyújt nekik az oktatásügyi és munkaerő-piaci viszonyokba az EU más országaiban;</li>                <li>segít az <strong>uniós polgároknak</strong> abban, hogy hazájukban szerzett képesítésükkel más tagországokban is tudjanak érvényesülni;</li>                <li>segíti az <strong>EU országait</strong> a tanulószerződéses gyakorlati képzés rendszerének megreformálásában;</li>                <li>segít az <strong>európai, nemzeti és regionális szakpolitikai döntéshozóknak</strong> abban, hogy jól megalapozott döntéseket hozzanak a szakoktatás és -képzés terén.</li>             </ul>"
+            ],
+            "it": [
+                "<p>Il Centro europeo per lo sviluppo della formazione professionale (Cedefop) contribuisce a definire e attuare le politiche di formazione professionale dell’UE. Monitora le tendenze del mercato del lavoro e aiuta la Commissione europea, i paesi dell’UE, le organizzazioni dei datori di lavoro e i sindacati a far corrispondere l’offerta di formazione alle esigenze del mercato del lavoro.</p>             <h2>Cosa fa il Cedefop?</h2>             <p>Il Cedefop è l'<strong>organizzazione dell'UE</strong> che riunisce politici, organizzazioni dei datori di lavoro e sindacati, istituti di formazione, insegnanti e formatori, nonché studenti di tutte le età, ovvero <strong>chiunque sia interessato all'istruzione e alla formazione professionale</strong>.</p>             <p>Al crocevia tra i sistemi di istruzione e il mondo del lavoro, il Cedefop opera come un forum, consentendo alle organizzazioni interessate alle sue attività di scambiarsi idee e discutere su come migliorare l’istruzione e la formazione professionale in Europa. Condivide le sue competenze con organizzazioni politiche e le parti sociali dei paesi dell’UE per aiutarle a creare opportunità di apprendimento e lavoro.</p>             <h2>Struttura</h2>             <p>Il Cedefop è un organismo tripartito. Il consiglio di direzione è composto da rappresentanti:</p>             <ul>                <li>delle amministrazioni nazionali</li>                <li>delle organizzazioni dei datori di lavoro e dei sindacati</li>                <li>della Commissione europea.</li>             </ul>             <p>Il direttore è responsabile della gestione complessiva delle attività dell’agenzia e del personale.</p>             <p>Esperti del mercato del lavoro e dell’istruzione e formazione professionale svolgono il lavoro quotidiano, e si avvalgono del sostegno del personale amministrativo e addetto alla comunicazione.</p>             <h2>Come funziona il Cedefop?</h2>             <p>L'agenzia:</p>             <ul>                <li>esamina l'influenza esercitata dalle <strong>tendenze socioeconomiche e demografiche</strong> sull'<strong>occupazione</strong>, i <strong>tipi di posto di lavoro</strong> e <strong>la domanda di competenze</strong>                </li>                <li>contribuisce a <strong>indirizzare l'offerta di formazione professionale</strong> verso le <strong>esigenze del mercato del lavoro</strong> elaborando previsioni sul futuro fabbisogno di qualifiche e segnalando ai politici gli eventuali divari esistenti</li>                <li>favorisce l'uso di strumenti comuni a tutta l'UE come i <strong>quadri delle qualifiche</strong> che consentono il confronto e il riconoscimento delle qualifiche ottenute attraverso sistemi di istruzione differenti o la convalida dell'apprendimento informale</li>                <li>esamina i modelli di apprendimento basato sul lavoro e fornisce consulenze ai governi dell'UE per aiutarli a <strong>ridurre la disoccupazione, l'abbandono scolastico</strong> e altri <strong>squilibri del mercato del lavoro</strong>.</li>             </ul>             <p>Il Cedefop coopera con altre agenzie:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_it.htm\"                      lang=\"it\">Fondazione europea per il miglioramento delle condizioni di vita e di lavoro (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_it.htm\"                      lang=\"it\">Fondazione europea per la formazione professionale (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_it.htm\"                      lang=\"it\">Agenzia europea per la sicurezza e la salute sul lavoro (EU-OSHA)</a>                </li>             </ul>             <h2>Chi ne beneficia?</h2>             <p>Le attività del Cedefop:</p>             <ul>                <li>aiutano i <strong>giovani</strong> a passare dal mondo della scuola  e dell'università al mercato del lavoro</li>                <li>aiutano <strong>chi abbandona prematuramente gli studi </strong> a riprendere un percorso educativo e formativo</li>                <li>aiutano <strong>gli adulti disoccupati o sottoccupati</strong> a riprendere gli studi e a riorientare la loro carriera professionale</li>                <li>mettono a disposizione <strong>personale in grado di fornire orientamenti e consulenze</strong> con una visione europea</li>                <li>aiutano <strong>i cittadini dell'UE</strong> a spostarsi tra paesi e sistemi diversi \"portando con sé le loro qualifiche\"</li>                <li>aiutano <strong>i paesi dell'UE</strong> a riorientare la loro offerta di apprendistato </li>                <li>aiutano <strong>i responsabili politici europei, nazionali e regionali </strong> ad assumere decisioni sulla base di adeguate informazioni per quanto riguarda l'offerta di istruzione e formazione professionale.</li>             </ul>"
+            ],
+            "lt": [
+                "<p>Europos profesinio mokymo plėtros centras („Cedefop“) padeda rengti ir įgyvendinti ES profesinio mokymo politiką. Jis stebi darbo rinkos tendencijas ir padeda Europos Komisijai, ES šalims, darbdavių organizacijoms ir profesinėms sąjungoms pritaikyti mokymą prie darbo rinkos poreikių.</p>             <h2>„Cedefop“ veikla</h2>             <p>„Cedefop“ yra <strong>ES organizacija</strong>, vienijanti politikos formuotojus, darbdavių organizacijas, profesines sąjungas, mokymo įstaigas, mokytojus, instruktorius ir bet kokio amžiaus besimokančius asmenis – <strong>visus, kam svarbūs profesinio mokymo klausimai</strong>.</p>             <p>Švietimo sistemos ir darbo rinkos sandūroje esantis centras veikia kaip forumas, suteikiantis suinteresuotosioms organizacijoms dalytis idėjomis ir diskutuoti, kaip būtų galima tobulinti profesinį mokymą Europoje. Jis dalijasi savo patirtimi su ES šalių politinėmis organizacijomis ir socialiniais partneriais, kad padėtų jiems sudaryti daugiau mokymosi ir darbo galimybių.</p>             <h2>Struktūra</h2>             <p>„Cedefop“ yra trišalė agentūra. Jos valdančiąją tarybą sudaro:</p>             <ul>                <li>nacionalinių vyriausybių atstovai,</li>                <li>darbdavių organizacijų ir profesinių sąjungų atstovai,</li>                <li>Europos Komisijos atstovai.</li>             </ul>             <p>Direktorius yra atsakingas už bendrą vadovavimą agentūros darbui ir darbuotojams.</p>             <p>Kasdienį darbą atlieka darbo rinkos ir profesinio mokymo sričių ekspertai. Jiems padeda administracinį ir komunikacijos darbą dirbantys darbuotojai.</p>             <h2>Kaip „Cedefop“ veikia?</h2>             <p>Agentūra:</p>             <ul>                <li>tiria, kaip <strong>socialinės, ekonominės ir demografinės tendencijos</strong> veikia <strong>užimtumą</strong>, <strong>darbo vietų pobūdį</strong> ir <strong>gebėjimų paklausą</strong>,</li>                <li>prognozuoja, kokių gebėjimų reikės ateityje, praneša politikos formuotojams apie gebėjimų paklausos ir pasiūlos neatitiktį ir taip padeda <strong>pritaikyti profesinį mokymą</strong> prie <strong>darbo rinkos poreikių</strong>,</li>                <li>padeda naudoti ES priemones, pavyzdžiui, <strong>kvalifikacijų sistemas</strong>, suteikiančias galimybę palyginti skirtingose švietimo sistemose įgyjamas kvalifikacijas, pripažinti kvalifikacijas arba savišvietą,</li>                <li>apžvelgia mokymosi darbo vietoje modelius ir teikia ES vyriausybėms politinių rekomendacijų, kad padėtų <strong>mažinti nedarbą, mokyklos nebaigiančių asmenų skaičių</strong> ir kitus <strong>darbo rinkos pusiausvyros sutrikimus</strong>.</li>             </ul>             <p>„Cedefop“ bendradarbiauja su kitomis agentūromis:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_lt.htm\"                      lang=\"lt\">Europos gyvenimo ir darbo sąlygų gerinimo fondu („Eurofound“),</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_lt.htm\"                      lang=\"lt\">Europos mokymo fondu (ETF),</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_lt.htm\"                      lang=\"lt\">Europos darbuotojų saugos ir sveikatos agentūra (EU-OSHA).</a>                </li>             </ul>             <h2>Kam naudinga jo veikla?</h2>             <p>Savo darbu „Cedefop“:</p>             <ul>                <li>padeda <strong>jaunimui</strong> pereiti iš švietimo sistemos į darbo rinką,</li>                <li>padeda <strong>mokyklos nebaigusiems asmenims</strong> grįžti į švietimo ir mokymo sistemą,</li>                <li>padeda <strong>bedarbiams arba ne visu pajėgumu dirbantiems suaugusiesiems</strong> grįžti mokytis ir keisti kvalifikaciją,</li>                <li>                   <strong>orientavimo ir konsultavimo paslaugas teikiančius darbuotojus</strong> informuoja apie padėtį ES,</li>                <li>padeda <strong>ES piliečiams</strong> keisti šalis ir sistemas ir pasiekti, kad jų kvalifikacijos būtų pripažįstamos,</li>                <li>padeda <strong>ES šalims</strong> reformuoti pameistrystės sistemas,</li>                <li>padeda <strong>Europos, šalių ir regionų politikos formuotojams</strong> priimti patikima informacija grindžiamus sprendimus dėl profesinio mokymo.</li>             </ul>"
+            ],
+            "lv": [
+                "<p>Eiropas Profesionālās izglītības attīstības centrs (Cedefop) palīdz izstrādāt un īstenot ES profesionālās izglītības politiku. Tas novēro tendences darba tirgū un palīdz Eiropas Komisijai, ES valstīm, darba devēju organizācijām un arodbiedrībām saskaņot piedāvājumu apmācības jomā ar darba tirgus vajadzībām.</p>             <h2>Kā dara Cedefop?</h2>             <p>Cedefop ir <strong>ES organizācija</strong>, kurā pārstāvēti <strong>visi profesionālās izglītības un apmācības dalībnieki</strong>: politiķi, darba devēju organizācijas un arodbiedrības, izglītības un apmācības iestādes un visu vecumu studenti.</p>             <p>Izglītības sistēmu un darba pasaules krustcelēs tas ļauj attiecīgajām organizācijām apmainīties idejām un apspriest to, kā uzlabot profesionālo izglītību un apmācību Eiropā. Tas piedāvā savu zinātību politiskām organizācijām un abām pusēm – darba devējiem un darba ņēmējiem – ES valstīs, lai tiem palīdzētu attīstīt mācību un darba iespējas.</p>             <h2>Struktūra</h2>             <p>Cedefop ir trīspusēja aģentūra. Tās administratīvajā valdē ietilpst dalībnieki, kas pārstāv:</p>             <ul>                <li>valstu valdības,</li>                <li>darba devēju organizācijas un arodbiedrības,</li>                <li>Eiropas Komisiju.</li>             </ul>             <p>Direktora ziņā ir darba vispārējā vadība un personāla vadība.</p>             <p>Ikdienas darbu veic darba tirgus un profesionālās izglītības un apmācības eksperti, kam palīdz administratīvā un saziņas komanda.</p>             <h2>Kā Cedefop strādā?</h2>             <p>Aģentūra:</p>             <ul>                <li>pēta to, kā <strong>demogrāfiskās un sociālekonomiskās pārmaiņas</strong> ietekmē <strong>nodarbinātību</strong> un <strong>prasmju pieprasījumu</strong>;</li>                <li>palīdz <strong>pielāgot profesionālo apmācību</strong>                   <strong>darba tirgus vajadzībām</strong>, prognozē prasmju pieprasījumu nākotnē, brīdina politiķus par neatbilstību starp piedāvājumu un pieprasījumu;</li>                <li>rosina izmantot ES mēroga rīkus, tādus kā <strong>profesionālās kvalifikācijas sistēmas</strong>, kas ļauj salīdzināt un atzīt dažādās izglītības sistēmās iegūtās kvalifikācijas, kā arī atzīt ikdienējās mācīšanās rezultātus;</li>                <li>novērtē apmācības modeļus darba vidē un sniedz padomus ES valstu valdībām, lai tām palīdzētu <strong>samazināt bezdarbu, mācību pāragru pārtraukšanu</strong> un citas <strong>darba tirgus problēmas</strong>.</li>             </ul>             <p>Cedefop sadarbojas ar citām aģentūrām:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_lv.htm\"                      lang=\"lv\">Eiropas Dzīves un darba apstākļu uzlabošanas fondu (Eurofound),</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_lv.htm\"                      lang=\"lv\">Eiropas Izglītības fondu (EIF),</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_lv.htm\"                      lang=\"lv\">Eiropas Darba drošības un veselības aizsardzības aģentūru (EU-OSHA).</a>                </li>             </ul>             <h2>Kas ir ieguvēji?</h2>             <p>Cedefop darbs:</p>             <ul>                <li>palīdz <strong>jauniešiem</strong> ienākt darba tirgū;</li>                <li>palīdz <strong>jauniešiem, kuri pāragri pārtraukuši mācības</strong>, tās atsākt;</li>                <li>palīdz bez <strong>darba palikušajiem vai daļēji nodarbinātajiem pieaugušajiem</strong> izglītoties un pārorientēt karjeru;</li>                <li>sniedz <strong>orientēšanas un konsultēšanas dienestiem</strong> informāciju Eiropas līmenī;</li>                <li>palīdz <strong>ES iedzīvotājiem</strong> panākt savas kvalifikācijas atzīšanu dažādās valstīs un sistēmās;</li>                <li>palīdz <strong>ES valstīm</strong> uzlabot izglītības un apmācības piedāvājumu; </li>                <li>palīdz <strong>reģionu, valsts un ES līmeņa politiķiem</strong> pieņemt informētus lēmumus profesionālās izglītības un apmācības jomā.</li>             </ul>"
+            ],
+            "mt": [
+                "<p>Iċ-Ċentru Ewropew għall-Iżvilupp ta’ Taħriġ Vokazzjonali (Cedefop) jgħin fl-iżvilupp u fl-implimentazzjoni tal-politiki ta' taħriġ vokazzjonali tal-UE. Hu jimmonitorja t-tendenzi tas-suq tax-xogħol u jgħin il-Kummissjoni Ewropea, il-pajjiżi tal-UE, l-organizzazzjonijiet ta' min inħaddem u t-trejdjunjins biex iqabblu l-provvediment tat-taħriġ mal-ħtiġijiet tas-suq.</p>             <h2>X’jagħmel is-Cedefop?</h2>             <p>Is-Cedefop hu <strong>l-organizzazzjoni tal-UE</strong> li tlaqqa' flimkien lil dawk li jfasslu l-politiki, l-organizzazzjonijiet ta' min iħaddem u t-trejdjunjins, l-istituzzjonijiet ta' taħriġ, l-għalliema u t-trejners, u l-istudenti ta' kull età  – <strong>kull min hu involut fl-edukazzjoni u t-taħriġ vokazzjonali</strong>.</p>             <p>F’salib it-toroq bejn is-sistemi tal-edukazzjoni u d-dinja tax-xogħol, is-Cedefop jaħdem bħala forum, li jippermetti l-organizzazzjonijiet b’interess fil-ħidma tiegħu biex jaqsmu ideat u jiddibattu dwar kif l-aħjar itejbu l-edukazzjoni u t-taħriġ vokazzjonali fl-Ewropa. Hu jaqsam il-kompetenza tiegħu ma’ organizzazzjonijiet politiċi u maż-żewġ naħat tal-industrija fil-pajjiżi tal-UE biex jgħinhom jiġġeneraw opportunitajiet ta’ tagħlim u xogħol.</p>             <h2>Struttura</h2>             <p>Is-Cedefop hi aġenzija tripartitika. Il-Bord ta’ Tmexxija tagħha hu magħmul minn rappreżentanti:</p>             <ul>                <li>tal-gvernijiet nazzjonali</li>                <li>tal-organizzazzjonijiet ta’ min iħaddem u trejdjunjins</li>                <li>tal-Kummissjoni Ewropea.</li>             </ul>             <p>Id-Direttur hu responsabbli għall-immaniġġjar ġenerali tal-ħidma tal-aġenzija u l-persunal.</p>             <p>Esperti fis-suq tax-xogħol u fl-edukazzjoni u t-taħriġ vokazzjonali jwettqu l-ħidma ta’ kuljum. Dawn jiġu appoġġjati mill-persunal amministrattiv u  ta’ komunikazzjoni.</p>             <h2>Kif jaħdem is-Cedefop?</h2>             <p>L-Aġenzija:</p>             <ul>                <li>teżamina kif <strong>it-tendenzi soċjoekonomiċi u demografiċi</strong> jaffettwaw <strong>l-impjiegi</strong>, in-<strong>natura tal-impjiegi</strong> u <strong>d-domanda għal ħiliet</strong>                </li>                <li>tgħin <strong>fl-iffukar tal-provvediment tat-taħriġ vokazzjonali</strong> fuq <strong>il-ħtiġijiet tas-suq tax-xogħol</strong> billi tipprevedi ħtiġijiet futuri ta' ħiliet u billi twissi lil dawk li jfasslu l-politika dwar in-nuqqas ta' tlaqqigħ tal-ħiliet.</li>                <li>tappoġġja l-użu ta' għodod mal-UE kollha bħall-<strong>oqsfa tal-kwalifiki</strong> li jagħmluha possibbli għall-kwalifiki minn sistemi differenti ta' edukazzjoni li jitqabblu u jiġu rikonoxxuti jew għat-tagħlim informali biex jiġi vvalidat</li>                <li>teżamina mill-ġdid il-mudelli tat-tagħlim u tipprovdi parir dwar il-politika lill-gvernijiet tal-UE biex <strong>tgħinhom inaqqsu n-nuqqas ta' impjiegi, l-abbandun bikri tal-iskola</strong> u <strong>żbilanċi oħrajn tas-suq tax-xogħol</strong>.</li>             </ul>             <p>Is-Cedefop jikkoopera ma’ aġenziji oħra:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_mt.htm\"                      lang=\"mt\">Il-Fondazzjoni Ewropea ghat-Titjib tal-Kundizzjonijiet tal-Ħajja u tax-Xogħol (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_mt.htm\"                      lang=\"mt\">Il-Fondazzjoni Ewropea għat-Taħriġ (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_mt.htm\"                      lang=\"mt\">L-Aġenzija Ewropea għas-Sikurezza u s-Saħħa fuq il-Post tax-Xogħol (EU-OSHA)</a>                </li>             </ul>             <h2>Min jibbenefika?</h2>             <p>Il-ħidma tas-Cedefop:</p>             <ul>                <li>tgħin iż-<strong>żgħażagħ</strong> jiċċaqalqu mill-edukazzjoni għas-suq tax-xogħol</li>                <li>tgħin <strong>lil dawk li jħallu l-iskola</strong> jirritornaw għall-edukazzjoni u t-taħriġ</li>                <li>tgħin <strong>adulti bla xogħol jew b'xogħol limitat</strong> jirritornaw biex jitgħallmu u jiffukaw il-karrieri tagħhom</li>                <li>tipprovdi <strong>persunal ta' gwida u ta' pariri</strong> b'perspettiva mal-UE kollha</li>                <li>tgħin iċ-<strong>ċittadini tal-UE</strong> jiċċaqalqu bejn il-pajjiżi u s-sistemi, filwaqt li \"jġorru l-kwalifiki tagħhom magħhom\"</li>                <li>tgħin il-<strong>pajjiżi tal-UE</strong> jiffurmaw mill-ġdid il-provvediment tal-apprendistati tagħhom</li>                <li>tgħin lil <strong>dawk li jfasslu l-politiki Ewropej, nazzjonali jew reġjonali</strong> jieħdu deċiżjonijiet infurmati dwar il-provvediment tal-edukazzjoni u t-taħriġ vokazzjonali.</li>             </ul>"
+            ],
+            "nl": [
+                "<p>Het Europees Centrum voor de ontwikkeling van de beroepsopleiding (Cedefop) draagt bij tot de ontwikkeling en de uitvoering van beleid op het gebied van beroepsopleiding. Het houdt toezicht op ontwikkelingen op de arbeidsmarkt en helpt de Europese Commissie, de EU-landen, vakbonden en werkgeversorganisaties om opleidingen af te stemmen op de behoeften van de arbeidsmarkt.</p>             <h2>Wat doet Cedefop?</h2>             <p>Cedefop is de <strong>EU-organisatie</strong> die beleidsmensen, werkgeversorganisaties, vakbonden, opleidingsinstellingen, lesgevers en leerlingen van alle leeftijden, kortom <strong>iedereen die belang heeft bij beroepsonderwijs en -opleiding</strong>, samenbrengt.</p>             <p>Op het snijvlak van onderwijsstelsels en de arbeidsmarkt werkt Cedefop als een forum, waar de betrokken organisaties ideeën kunnen uitwisselen en kunnen discussiëren over de beste manier om beroepsonderwijs en -opleiding in Europa te verbeteren. Het deelt haar expertise met politieke organisaties, vakbonden en werkgeversorganisaties in de EU-landen om hen te helpen nieuwe leer- en werkmogelijkheden te creëren.</p>             <h2>Structuur</h2>             <p>Cedefop brengt drie partijen samen. De raad van bestuur bestaat uit vertegenwoordigers van:</p>             <ul>                <li>nationale overheden</li>                <li>werkgeversorganisaties en vakbonden</li>                <li>de Europese Commissie</li>             </ul>             <p>De directeur is bevoegd voor het algemeen beheer van de werkzaamheden en het personeel.</p>             <p>De dagelijkse werkzaamheden worden uitgevoerd door deskundigen op het gebied van de arbeidsmarkt en beroepsonderwijs en -opleiding. Zij worden ondersteund door administratief personeel en communicatiemedewerkers.</p>             <h2>Hoe werkt Cedefop?</h2>             <p>Het agentschap:</p>             <ul>                <li>gaat na hoe <strong>sociaaleconomische en demografische ontwikkelingen</strong> de <strong>werkgelegenheid</strong>, de <strong>inhoud van banen</strong> en de <strong>vraag naar vaardigheden</strong> beïnvloeden</li>                <li>helpt om de <strong>beroepsopleidingen beter af te stemmen</strong> op de <strong>behoeften van de arbeidsmarkt</strong> door ontwikkelingen van de vraag naar vaardigheden te voorspellen en beleidsmakers attent te maken op discrepanties</li>                <li>ondersteunt het gebruik van Europese systemen zoals <strong>kwalificatiekaders</strong> waarmee kwalificaties uit verschillende onderwijsstelsels kunnen worden vergeleken en erkend, en informele opleidingen naar waarde kunnen worden geschat</li>                <li>herziet op werk gebaseerde leermodellen en geeft EU-overheden beleidsadvies met het oog op de <strong>aanpak van werklooshied, schooluitval</strong> en andere <strong>onevenwichtigheden op de arbeidsmarkt</strong>.</li>             </ul>             <p>Cedefop werkt samen met andere agentschappen:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_nl.htm\"                      lang=\"nl\">Europese Stichting tot verbetering van de levens- en arbeidsomstandigheden (EUROFOUND)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_nl.htm\"                      lang=\"nl\">Europese Stichting voor opleiding (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_nl.htm\"                      lang=\"nl\">Europees Agentschap voor veiligheid en gezondheid op het werk (EU-OSHA)</a>                </li>             </ul>             <h2>Wie is erbij gebaat?</h2>             <p>Cedefop:</p>             <ul>                <li>helpt <strong>jongeren</strong> bij de overgang van onderwijs naar arbeidsmarkt</li>                <li>helpt <strong>vroegtijdige schoolverlaters</strong> om de weg terug te vinden naar onderwijs en opleiding</li>                <li>helpt <strong>geheel of gedeeltelijk werkloze volwassenen</strong> weer een opleiding te volgen en hun loopbaan een nieuwe richting te geven</li>                <li>geeft <strong>begeleiders en adviseurs</strong> een Europees perspectief </li>                <li>helpt <strong>EU-burgers</strong> om van land of onderwijsstelsel te veranderen en daarbij hun kwalificaties mee te nemen</li>                <li>helpt <strong>EU-landen</strong> om hun regels voor leerbanen te hervormen</li>                <li>helpt <strong>Europese, nationale en regionale beleidsmakers</strong> om goed geïnformeerde beslissingen te nemen over beroepsonderwijs en -opleidingen</li>             </ul>"
+            ],
+            "pl": [
+                "<p>Europejskie Centrum Rozwoju Szkolenia Zawodowego (Cedefop) przyczynia się do kształtowania i realizacji unijnej polityki w dziedzinie kształcenia i szkolenia. Monitoruje tendencje na rynkach pracy i pomaga Komisji Europejskiej, krajom UE, organizacjom pracodawców i związkom zawodowym w dostosowaniu oferty szkoleniowej do potrzeb rynku pracy.</p>             <h2>Czym zajmuje się Cedefop?</h2>             <p>Cedefop jest <strong>agencją UE</strong> w ramach której współpracują ze sobą politycy, organizacje pracodawców, związki zawodowe, instytucje szkoleniowe, nauczyciele i trenerzy oraz uczniowie i uczestnicy szkoleń w każdym wieku – <strong>czyli wszyscy zainteresowani tematyką edukacji i szkolenia</strong>.</p>             <p>Cedefop jest miejscem, gdzie system oświaty styka się z rynkiem pracy, i stanowi forum, na którym zainteresowane podmioty mogą wymieniać się informacjami i dyskutować o tym, jak ulepszyć system kształcenia i szkolenia zawodowego w Europie. Centrum dzieli się swoją wiedzą specjalistyczną z organizacjami politycznymi oraz przedstawicielami pracodawców i pracowników, aby pomóc im w zwiększaniu możliwości w zakresie kształcenia i szkolenia.</p>             <h2>Struktura</h2>             <p>Centrum jest agencją trójstronną. Jej zarząd składa się z przedstawicieli:</p>             <ul>                <li>rządów krajowych</li>                <li>organizacji pracodawców i związków zawodowych</li>                <li>Komisji Europejskiej.</li>             </ul>             <p>Dyrektor jest odpowiedzialny za zarządzanie działalnością i personelem agencji.</p>             <p>Bieżące zadania realizują eksperci w dziedzinie rynku pracy oraz kształcenia i szkolenia zawodowego. W realizacji tych zadań pomagają im pracownicy administracyjni i zajmujący się komunikacją.</p>             <h2>W jaki sposób działa Cedefop?</h2>             <p>Agencja:</p>             <ul>                <li>analizuje wpływ <strong>tendencji społeczno-gospodarczych i demograficznych</strong> na <strong>zatrudnienie</strong>, <strong>charakter pracy</strong> i <strong>zapotrzebowanie na konkretne umiejętności</strong>                </li>                <li>pomaga <strong>dostosować ofertę w zakresie kształcenia zawodowego</strong> do <strong>potrzeb rynku pracy</strong> poprzez prognozowanie zapotrzebowania na rynku pracy w przyszłości i ostrzeganie polityków o braku równowagi między popytem a podażą</li>                <li>propaguje stosowanie w skali całej UE takich narzędzi jak <strong>ramy kwalifikacji</strong>, które umożliwiają porównywanie i uznawanie kwalifikacji zdobytych w ramach różnych systemów edukacji oraz walidację kształcenia nieformalnego</li>                <li>dokonuje przeglądu modeli uczenia się w miejscu pracy i zapewnia rządom krajów UE doradztwo, którego celem jest <strong>ograniczenie bezrobocia, przedwczesnego kończenia nauki</strong> i innych <strong>zakłóceń równowagi na rynkach pracy</strong>.</li>             </ul>             <p>Cedefop współpracuje z innymi agencjami. Są to:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_pl.htm\"                      lang=\"pl\">Europejska Fundacja na rzecz Poprawy Warunków Życia i Pracy (Eurofund)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_pl.htm\"                      lang=\"pl\">Europejska Fundacja Kształcenia (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_pl.htm\"                      lang=\"pl\">Europejska Agencja Bezpieczeństwa i Zdrowia w Pracy (EU-OSHA).</a>                </li>             </ul>             <h2>Komu przynosi korzyści działalność agencji?</h2>             <p>Cedefop:</p>             <ul>                <li>ułatwia <strong>młodym ludziom</strong> przejście z systemu edukacji na rynek pracy</li>                <li>pomaga <strong>osobom, które przedwcześnie skończyły naukę</strong> powrót do kształcenia i szkolenia</li>                <li>pomaga <strong>bezrobotnym lub zatrudnionym poniżej swoich kwalifikacji dorosłym</strong> powrót do edukacji i polepszenie swojej sytuacji zawodowej</li>                <li>oferuje usługi <strong>doradców edukacyjnych</strong> działających w skali całej UE</li>                <li>pomaga <strong>obywatelom UE</strong> w mobilności w skali Unii dzięki ułatwianiu wzajemnego uznawania kwalifikacji</li>                <li>pomaga <strong>krajom UE</strong> w reformowaniu systemów przyuczania do zawodu</li>                <li>pomaga <strong>politykom na szczeblu europejskim, krajowym i regionalnym</strong> w podejmowaniu opartych na realnych podstawach decyzji w sprawie oferty kształcenia i szkolenia zawodowego.</li>             </ul>"
+            ],
+            "pt": [
+                "<p>O Centro Europeu para o Desenvolvimento da Formação Profissional (Cedefop), contribui para o desenvolvimento das políticas de formação profissional da União Europeia e para a respetiva aplicação. Segue as tendências do mercado de trabalho e ajuda a Comissão Europeia, os países da UE, as organizações patronais e os sindicatos a assegurar que a oferta de formação corresponde às necessidades do mercado de trabalho.</p>             <h2>O que faz o Cedefop?</h2>             <p>O Cedefop é a <strong>organização da UE</strong> que reúne responsáveis políticos, organizações patronais e sindicatos, institutos de formação, professores e formadores, bem como formandos  de todas as idades<strong>, isto é, todos os interessados no ensino e formação profissionais</strong>.</p>             <p>A meio caminho entre os sistemas de ensino e o mundo do trabalho, o Cedefop funciona como um fórum no âmbito do qual as organizações interessadas no seu trabalho podem partilhar ideias e debater a forma de melhorar o ensino e a formação profissionais na Europa. O Cedefop partilha os seus conhecimentos especializados tanto com organizações políticas como com os parceiros sociais dos países da UE a fim de os ajudar a criar oportunidades de aprendizagem e de trabalho.</p>             <h2>Estrutura</h2>             <p>O CEDEFOP é uma agência tripartida. O seu conselho de direção é composto por representantes:</p>             <ul>                <li>dos governos nacionais</li>                <li>de organizações patronais e sindicatos</li>                <li>da Comissão Europeia</li>             </ul>             <p>O diretor é responsável pela gestão geral do trabalho da agência e do seu pessoal.</p>             <p>No dia a dia, os trabalhos da agência são assegurados por especialistas no domínio do mercado de trabalho e do ensino e formação profissionais . São apoiados por administrativos e pessoal especializado em comunicação.</p>             <h2>Como funciona?</h2>             <p>A agência:</p>             <ul>                <li>examina de que forma as <strong>tendências socioeconómicas e demográficas</strong> afetam o <strong>emprego</strong>, a <strong>natureza dos empregos</strong> e a <strong>procura de qualificações</strong>                </li>                <li>ajuda a <strong>centrar as ações de formação profissional</strong> nas <strong>necessidades do mercado de trabalho</strong> prevendo as futuras necessidades de competências e alertando os responsáveis para a inadequação das qualificações às necessidades</li>                <li>apoia a utilização de ferramentas à escala da UE, tais como <strong>quadros de qualificações</strong> que permitem comparar e reconhecer qualificações de sistemas de ensino diferentes ou validar aprendizagens informais</li>                <li>examina modelos de aprendizagem com base no trabalho e assegura aconselhamento estratégico aos governos dos países da UE a fim de ajudar a <strong>reduzir o desemprego, o abandono escolar precoce</strong> e outros <strong>desequilíbrios do mercado do trabalho</strong>                </li>             </ul>             <p>O CEDEFOP colabora com outros organismos:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_pt.htm\"                      lang=\"pt\">Fundação Europeia para a Melhoria das Condições de Vida e de Trabalho (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_pt.htm\"                      lang=\"pt\">Fundação Europeia para a Formação (EFT)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_pt.htm\"                      lang=\"pt\">Agência Europeia para a Segurança e a Saúde no Trabalho (EU-OSHA)</a>                </li>             </ul>             <h2>Quem beneficia?</h2>             <p>O trabalho do CEDEFOP:</p>             <ul>                <li>ajuda os <strong>jovens</strong> a fazerem a transição do ensino para o mercado de trabalho</li>                <li>ajuda os <strong> jovens que abandonam precocemente a escola</strong> a regressar ao ensino e à formação</li>                <li>ajuda os <strong>adultos no desemprego ou em situação de subemprego</strong> a retomar uma aprendizagem e a reorientar a sua carreira</li>                <li>presta <strong>serviços de orientação e aconselhamento</strong> com uma perspetiva à escala da UE</li>                <li>ajuda os <strong>cidadãos da UE</strong> a mover-se entre países e sistemas, «trazendo as suas qualificações consigo»</li>                <li>ajuda os <strong>países da UE</strong> a fazerem uma reforma em matéria das aprendizagens que disponibilizam</li>                <li>ajuda os <strong>responsáveis europeus, nacionais e regionais</strong> a tomar decisões fundamentadas sobre o ensino e a formação profissionais</li>             </ul>"
+            ],
+            "ro": [
+                "<p>Centrul European pentru Dezvoltarea Formării Profesionale (Cedefop) contribuie la elaborarea și punerea în aplicare a politicilor UE de formare profesională. Monitorizează tendințele de pe piața forței de muncă și ajută Comisia Europeană, statele membre, organizațiile patronale și sindicale să ofere servicii de formare profesională care să răspundă la nevoile pieței.</p>             <h2>Ce face Cedefop?</h2>             <p>Cedefop este <strong>organismul UE</strong> care reunește <strong>părțile interesate de domeniul educației și formării profesionale</strong>: factori de decizie, organizații patronale și sindicale, instituții de formare, cadre didactice, formatori și cursanți de toate vârstele.</p>             <p>Aflat la intersecția dintre sistemele educaționale și piața muncii, Cedefop funcționează ca un forum, permițându-le organizațiilor interesate de activitatea sa să facă schimb de idei și să analizeze cele mai bune modalități de a îmbunătăți educația și formarea profesională în Europa. Oferă expertiză autorităților publice și partenerilor sociali din țările UE pentru a contribui la dezvoltarea oportunităților de învățare și de muncă.</p>             <h2>Structură</h2>             <p>Cedefop este o agenție tripartită. Membrii Consiliului său de administrație reprezintă:</p>             <ul>                <li>guvernele naționale</li>                <li>organizațiile patronale și sindicale</li>                <li>Comisia Europeană.</li>             </ul>             <p>Directorul răspunde de gestionarea generală a activității agenției și a personalului.</p>             <p>Activitatea de fiecare zi a agenției este realizată de experți de pe piața muncii și din domeniul educației și formării profesionale. Ei beneficiază de sprijin din partea personalului administrativ și de comunicare.</p>             <h2>Cum lucrează Cedefop?</h2>             <p>Agenția:</p>             <ul>                <li>examinează efectele <strong>tendințelor socioeconomice și demografice</strong> asupra <strong>ocupării forței de muncă</strong> și <strong>cererii</strong>                   <strong>de competențe</strong>                </li>                <li>contribuie la <strong>orientarea formării profesionale</strong> către <strong>cerințele de pe piața muncii</strong>, anticipând nevoile viitoare în materie de competențe și atenționând factorii de decizie cu privire la neconcordanțele dintre cererea și oferta de competențe</li>                <li>sprijină utilizarea instrumentelor disponibile la nivelul UE, precum <strong>cadrele calificărilor</strong>, care permit compararea și recunoașterea calificărilor obținute în diverse sisteme de educație și validarea învățării informale</li>                <li>analizează modelele de învățare la locul de muncă și oferă consiliere guvernelor din UE pentru a le ajuta <strong>să reducă șomajul, abandonul școlar timpuriu</strong> și alte <strong>dezechilibre de pe piața muncii</strong>.</li>             </ul>             <p>Cedefop colaborează cu alte agenții:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_ro.htm\"                      lang=\"ro\">Fundația Europeană pentru Îmbunătățirea Condițiilor de Viață și de Muncă (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_ro.htm\"                      lang=\"ro\">Fundația Europeană de Formare (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_ro.htm\"                      lang=\"ro\">Agenția Europeană pentru Sănătate și Securitate în Muncă (EU-OSHA)</a>                </li>             </ul>             <h2>Cine sunt beneficiarii?</h2>             <p>Prin activitatea sa, Cedefop:</p>             <ul>                <li>îi ajută pe <strong>tinerii absolvenți</strong> să se integreze mai ușor pe piața muncii</li>                <li>îi ajută pe <strong>tinerii care părăsesc școala prea devreme</strong> să își reia studiile</li>                <li>îi ajută pe <strong>adulții șomeri sau încadrați în muncă pe posturi subcalificate</strong> să urmeze cursuri de formare și să își reorienteze carierele</li>                <li>oferă informații <strong>serviciilor de orientare și consiliere</strong>, dintr-o perspectivă europeană</li>                <li>îi ajută pe <strong>cetățenii din UE</strong> să obțină recunoașterea calificărilor profesionale în alte țări și sisteme de educație</li>                <li>ajută <strong>țările din UE</strong> să își îmbunătățească oferta în materie de ucenicie</li>                <li>ajută <strong>factorii de decizie de la nivel european, național și regional</strong> să ia decizii bine motivate în domeniul educației și formării profesionale.</li>             </ul>"
+            ],
+            "sk": [
+                "<p>Európske stredisko pre rozvoj odborného vzdelávania (CEDEFOP) pomáha rozvíjať a vykonávať politiky odbornej prípravy EÚ. Monitoruje vývoj na trhu práce a pomáha Európskej komisii, členským štátom EÚ, organizáciám zamestnávateľov a odborom zosúladiť poskytovanie odbornej prípravy s potrebami trhu práce.</p>             <h2>Čo Cedefop robí?</h2>             <p>Cedefop je <strong>organizácia EÚ</strong>, ktorá združuje tvorcov politík, organizácie zamestnávateľov a odbory, inštitúcie odbornej prípravy, učiteľov a školiteľov, ako aj študentov všetkých vekových kategórii – <strong>inými slovami, všetky zainteresované strany podieľajúce sa na odbornom vzdelávaní a príprave</strong>.</p>             <p>Agentúra Cedefop pôsobí na križovatke medzi vzdelávacími systémami a svetom práce ako fórum, ktoré umožňuje zainteresovaným organizáciám výmenu názorov a diskusie na tému zlepšovania odborného vzdelávania a prípravy v Európe. Cedefop poskytuje svoje odborné poznatky politickým organizáciám, ako aj zástupcom zamestnancov a zamestnávateľov v členských štátoch EÚ s cieľom pomôcť im vytvárať vzdelávacie a pracovné príležitosti.</p>             <h2>Štruktúra</h2>             <p>Cedefop je tripartitnou agentúrou. Správna rada pozostáva zo zástupcov:</p>             <ul>                <li>národných vlád,</li>                <li>organizácií zamestnávateľov a odborov,</li>                <li>Európskej komisie.</li>             </ul>             <p>Riaditeľ je zodpovedný za celkové riadenie práce agentúry a zamestnancov.</p>             <p>Odborníci na oblasť trhu práce a odborného vzdelávania a prípravy vykonávajú každodenné úlohy. Pomáhajú im administratívni a komunikační pracovníci.</p>             <h2>Ako funguje Cedefop?</h2>             <p>Agentúra:</p>             <ul>                <li>skúma, ako <strong>socioekonomické a demografické trendy</strong> ovplyvňujú <strong>zamestnanosť</strong>, <strong>charakter pracovných miest</strong> a <strong>dopyt po zručnostiach</strong>,</li>                <li>prostredníctvom prognóz budúcich potrieb zručností pomáha <strong>zamerať poskytovanie odbornej prípravy</strong> na <strong>potreby trhu práce</strong> a upozorňuje tvorcov politík na nesúlad poskytovaných a vyžadovaných zručností,</li>                <li>podporuje využívanie nástrojov na úrovni EÚ, akými sú <strong>kvalifikačné rámce</strong>, ktoré umožňujú porovnávanie a uznávanie kvalifikácií z rôznych vzdelávacích systémov a validáciu informálneho učenia sa,</li>                <li>reviduje modely učenia sa prácou a poskytuje politické poradenstvo vládam EÚ s cieľom pomôcť <strong>znížiť nezamestnanosť, mieru predčasného ukončenia školskej dochádzky</strong> a iné <strong>nerovnováhy trhu práce</strong>.</li>             </ul>             <p>Cedefop spolupracuje s inými agentúrami, ako sú napríklad:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_sk.htm\"                      lang=\"sk\">Európska nadácia pre zlepšovanie životných a pracovných podmienok (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_sk.htm\"                      lang=\"sk\">Európska nadácia pre odborné vzdelávanie (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_sk.htm\"                      lang=\"sk\">Európska agentúra pre bezpečnosť a ochranu zdravia pri práci (EU-OSHA)</a>                </li>             </ul>             <h2>Kto má z činnosti agentúry osoh?</h2>             <p>Činnosť agentúry Cedefop:</p>             <ul>                <li>pomáha <strong>mladým ľuďom</strong> prejsť zo školy na trh práce,</li>                <li>pomáha <strong>osobám s predčasne ukončenou školskou dochádzkou</strong> vrátiť sa do vzdelávacieho procesu,</li>                <li>pomáha <strong>nezamestnaným alebo podzamestnaným dospelým</strong> vrátiť sa do vzdelávacieho procesu a znova naštartovať svoju kariéru,</li>                <li>poskytuje <strong>zamestnancov v oblasti profesijnej orientácie a poradenstva</strong> s celoeurópskou perspektívou,</li>                <li>napomáha <strong>občanom EÚ</strong>, aby sa mohli pohybovať medzi krajinami a systémami, pričom sa ich kvalifikácia uzná v nových krajinách,</li>                <li>pomáha <strong>krajinám EÚ</strong> reformovať ich poskytovanie učňovskej prípravy,</li>                <li>pomáha <strong>európskym, národným a regionálnym tvorcom politík</strong> prijímať informované rozhodnutia o poskytovaní odborného vzdelávania a prípravy.</li>             </ul>"
+            ],
+            "sl": [
+                "<p>Evropski center za razvoj poklicnega usposabljanja (Cedefop) pomaga razvijati in izvajati politike EU o poklicnem usposabljanju. Spremlja trende na trgu dela ter Evropski komisiji, državam EU, organizacijam delodajalcev in sindikatom pomaga pri usklajevanju ponudbe usposabljanja s potrebami na trgu dela.</p>             <h2>Naloge</h2>             <p>Cedefop je <strong>organizacija EU</strong>, ki povezuje <strong>vse udeležence v procesu poklicnega izobraževanja in usposabljanja</strong> – snovalce politik, organizacije delodajalcev in sindikate, izobraževalne ustanove, učitelje in voditelje usposabljanja, in učence vseh starosti.</p>             <p>Agencija deluje na stičišču izobraževalnih sistemov in trga dela ter predstavlja forum, na katerem lahko zainteresirane organizacije izmenjujejo ideje in razpravljajo o najboljših metodah za izboljšanje poklicnega izobraževanja in usposabljanja v Evropi. Svoje strokovno znanje izmenjuje s političnimi organizacijami in socialnimi partnerji v državah EU ter jim pomaga zagotavljati priložnosti za učenje in delo.</p>             <h2>Struktura</h2>             <p>Cedefop je tristranska agencija. Njen upravni odbor sestavljajo predstavniki:</p>             <ul>                <li>vlad držav članic,</li>                <li>organizacij delodajalcev in sindikatov,</li>                <li>Evropske komisije.</li>             </ul>             <p>Za splošno vodenje dela agencije in zaposlene je odgovoren njen direktor.</p>             <p>Vsakdanje delo agencije izvajajo strokovnjaki za trg dela ter za poklicno izobraževanje in usposabljanje. Administrativne in komunikacijske naloge opravlja pomožno osebje.</p>             <h2>Delovanje</h2>             <p>Agencija:</p>             <ul>                <li>preiskuje, kako <strong>socialno-ekonomski in demografski trendi</strong> vplivajo na <strong>zaposlovanje</strong>, <strong>naravo delovnih mest</strong> in <strong>povpraševanje po poklicnih spretnostih</strong>,</li>                <li>z napovedmi o prihodnjih potrebah po spretnostih in opozarjanjem snovalcev politik na neusklajenost med ponudbo in povpraševanjem po spretnostih pomaga <strong>vsebino poklicnega usposabljanja uskladiti</strong> s <strong>potrebami trga dela</strong>,</li>                <li>podpira uporabo vseevropskih orodij, kot so <strong>ogrodja kvalifikacij</strong>, ki omogočajo primerjavo in priznavanje kvalifikacij iz različnih izobraževalnih sistemov, pa tudi potrjevanje neformalnega izobraževanja,</li>                <li>pregleduje modele učenja na delovnem mestu in vladam držav EU svetuje pri <strong>zmanjševanju brezposelnosti, šolskega osipa</strong> in drugih <strong>neravnovesjih na trgu dela</strong>.</li>             </ul>             <p>Cedefop sodeluje z drugimi agencijami:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_sl.htm\"                      lang=\"sl\">Evropsko fundacijo za izboljšanje življenjskih in delovnih razmer (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_sl.htm\"                      lang=\"sl\">Evropsko fundacijo za usposabljanje (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_sl.htm\"                      lang=\"sl\">Evropsko agencijo za varnost in zdravje pri delu (EU-OSHA)</a>                </li>             </ul>             <h2>Koristi</h2>             <p>Delo agencije:</p>             <ul>                <li>pomaga <strong>mladim</strong> pri prehodu iz izobraževanja na trg dela,</li>                <li>pomaga <strong>osipnikom</strong> pri ponovnemu vključevanju v izobraževanje in usposabljanje,</li>                <li>pomaga <strong>brezposelnim in podzaposlenim odraslim</strong>, da se vrnejo v izobraževanje in se poklicno preusmerijo,</li>                <li>zagotavlja vseevropsko dimenzijo <strong>službam za poklicno usmerjanje in svetovanje</strong>,</li>                <li>pomaga <strong>državljanom EU</strong>, da pri selitvi med državami in izobraževalnimi sistemi lahko prenesejo tudi svoje kvalifikacije,</li>                <li>pomaga <strong>državam EU </strong>pri reformi programov vajeništva,</li>                <li>pomaga <strong>evropskim, nacionalnim in regionalnim snovalcem politik</strong>, da sprejemajo ozaveščene odločitve o poklicnem izobraževanju in usposabljanju.</li>             </ul>"
+            ],
+            "sv": [
+                "<p>Cedefop bidrar till att utveckla och genomföra EU:s yrkesutbildningspolitik. Byrån övervakar tendenser på arbetsmarknaden och hjälper EU-kommissionen, medlemsländerna, arbetsgivarorganisationer och fackföreningar att anpassa utbildningsutbudet till arbetsmarknadens behov.</p>             <h2>Vad gör Cedefop?</h2>             <p>                <strong>Cedefop</strong> sammanför politiker, arbetsgivarföreningar, fackföreningar, utbildningsinstitutioner och lärare och elever i alla åldrar – helt enkelt <strong>alla som har ett intresse av yrkesutbildning</strong>.</p>             <p>I skärningspunkten mellan olika utbildningssystem och arbetslivet fungerar Cedefop som ett forum där berörda organisationer delar med sig av sina idéer och diskuterar hur man kan förbättra yrkesutbildningen i Europa. Cedefop delar med sig av sakkunskap till politiska organisationer och EU-ländernas arbetsgivare och arbetstagare för att hjälpa dem att skapa utbildnings- och arbetsmöjligheter.</p>             <h2>Organisation</h2>             <p>Cedefop är uppdelat i tre delar. Styrelsen består av företrädare för</p>             <ul>                <li>ländernas regeringar</li>                <li>arbetsgivarorganisationer och fackföreningar</li>                <li>EU-kommissionen.</li>             </ul>             <p>Direktören ansvarar för den övergripande förvaltningen av byråns arbete och personal.</p>             <p>Experter på arbetsmarknad och yrkesutbildning sköter det löpande arbetet. De får hjälp av administrativ personal och kommunikationspersonal.</p>             <h2>Hur arbetar Cedefop?</h2>             <p>Byrån</p>             <ul>                <li>undersöker hur <strong>den socioekonomiska och demografiska utvecklingen</strong> påverkar <strong>sysselsättning</strong>, <strong>typen av arbete </strong>och <strong>efterfrågan på kompetens</strong>                </li>                <li>hjälper till att <strong>anpassa utbudet av yrkesutbildningar</strong> till <strong>arbetsmarknadens behov</strong> genom att förutse framtida kompetensbehov och göra beslutsfattarna uppmärksamma på kompetensglapp</li>                <li>främjar EU-verktyg som t.ex. <strong>referensramar för kvalifikationer</strong> som gör att betyg från olika utbildningssystem kan jämföras och översättas, och validerar informella utbildningar</li>                <li>granskar arbetsplatsbaserade utbildningsmodeller och ger råd om hur EU-länderna <strong>kan minska arbetslöshet, skolavhopp </strong>och <strong>andra obalanser på arbetsmarknaden</strong>.</li>             </ul>             <p>Cedefop samarbetar med andra byråer:</p>             <ul>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eurofound/index_sv.htm\"                      lang=\"sv\">Europeiska fonden för förbättring av levnads- och arbetsvillkor (Eurofound)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_sv.htm\"                      lang=\"sv\">Europeiska yrkesutbildningsstiftelsen (ETF)</a>                </li>                <li>                   <a href=\"http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/osha/index_sv.htm\"                      lang=\"sv\">Europeiska arbetsmiljöbyrån (EU-Osha)</a>                </li>             </ul>             <h2>Vem gynnas?</h2>             <p>Cedefops arbete</p>             <ul>                <li>hjälper <strong>unga människor</strong> att få jobb efter utbildningen</li>                <li>hjälper <strong>de som har hoppat av skolan</strong> att börja studera igen</li>                <li>hjälper <strong>arbetslösa eller undersysselsatta</strong> att återvända till studier och byta yrkesinriktning</li>                <li>ger <strong>rådgivare och vägledare</strong> ett EU-perspektiv</li>                <li>hjälper <strong>EU-medborgare</strong> att ”ta med sig sina kvalifikationer” när de flyttar mellan länder och olika system</li>                <li>hjälper <strong>EU-länder</strong> att bredda utbudet av lärlingsplatser</li>                <li>hjälper <strong>europeiska, nationella och lokala beslutsfattare</strong> att fatta välinformerade beslut om yrkesutbildning.</li>             </ul>"
+            ]
+        },
+        "left_sub_menu": {
+            "und": [
+                true
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_45295774c7a6fea68fe1215685e1baaf"
+            ]
+        }
+    }
+}

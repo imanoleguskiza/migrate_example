@@ -1,0 +1,47 @@
+{
+    "_id": "dd9f0d902400b61b7e6bacfe42962169",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "und",
+        "hr"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2013-02-01 14:14:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                54
+            ]
+        },
+        "parent": {
+            "und": [
+                "bd24ea227a39b440a2861491af5f056f"
+            ]
+        },
+        "level": {
+            "und": [
+                2
+            ]
+        },
+        "title": {
+            "und": [
+                "**** END OF TOPICS ****"
+            ],
+            "hr": [
+                "**** KRAJ TEMA ****"
+            ]
+        },
+        "link": {
+            "und": [
+                "empty"
+            ],
+            "hr": [
+                "empty"
+            ]
+        }
+    }
+}

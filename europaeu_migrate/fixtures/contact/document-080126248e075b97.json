@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e075b97",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e075b97",
+        "080126248e075b97",
+        "080126248e075b97",
+        "080126248e075b97"
+      ]
+    },
+    "title": {
+      "bg": [
+        "ЕОЗППО(Европейски орган за застраховане и професионално пенсионно осигуряване)"
+      ],
+      "cs": [
+        "EIOPA(Evropský orgán pro pojišťovnictví a zaměstnanecké penzijní pojištění)"
+      ],
+      "da": [
+        "EIOPA(Den Europæiske Tilsynsmyndighed for Forsikrings- og Arbejdsmarkedspensionsordninger)"
+      ],
+      "de": [
+        "EIOPA(Europäische Aufsichtsbehörde für das Versicherungswesen und die betriebliche Altersversorgung)"
+      ],
+      "el": [
+        "ΕΑΑΕΣ(Ευρωπαϊκή Αρχή ασφαλίσεων και επαγγελματικών συντάξεων)"
+      ],
+      "en": [
+        "EIOPA(European Insurance and Occupational Pensions Authority)"
+      ],
+      "es": [
+        "AESPJ(Autoridad Europea de Seguros y Pensiones de Jubilación)"
+      ],
+      "et": [
+        "EIOPA(Euroopa Kindlustus- ja Tööandjapensionide Järelevalve)"
+      ],
+      "fi": [
+        "EVLEV(Euroopan vakuutus- ja lisäeläkeviranomainen)"
+      ],
+      "fr": [
+        "AEAPP(Autorité européenne des assurances et des pensions professionnelles)"
+      ],
+      "ga": [
+        "UAPGE(Údarás Árachais agus Pinsin Ghairme Eorpach)"
+      ],
+      "hr": [
+        "EIOPA(Europsko nadzorno tijelo za osiguranje i strukovno mirovinsko osiguranje)"
+      ],
+      "hu": [
+        "EIOPA(Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság)"
+      ],
+      "it": [
+        "AEAP(Autorità europea delle assicurazioni e delle pensioni aziendali e professionali)"
+      ],
+      "lt": [
+        "EDPPI(Europos draudimo ir profesinių pensijų institucija)"
+      ],
+      "lv": [
+        "EAAPI(Eiropas Apdrošināšanas un aroda pensiju iestāde)"
+      ],
+      "mt": [
+        "AEAPX(Awtorità Ewropea tal-Assigurazzjoni u l-Pensjonijiet tax-Xogħol)"
+      ],
+      "nl": [
+        "EAVB(Europese Autoriteit voor verzekeringen en bedrijfspensioenen)"
+      ],
+      "pl": [
+        "EUNUiPPE(Europejski Urząd Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych)"
+      ],
+      "pt": [
+        "EIOPA(Autoridade Europeia dos Seguros e Pensões Complementares de Reforma)"
+      ],
+      "ro": [
+        "AEAPO(Autoritatea europeană pentru asigurări şi pensii ocupaţionale)"
+      ],
+      "sk": [
+        "EIOPA(Európsky orgán pre poisťovníctvo a dôchodkové poistenie zamestnancov)"
+      ],
+      "sl": [
+        "EIOPA(Evropski organ za zavarovanja in poklicne pokojnine)"
+      ],
+      "sv": [
+        "EIOPA(Europeiska försäkrings- och tjänstepensionsmyndigheten)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/eiopa_logo.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p><span>Westhafenplatz 1</span><br /><span>60327 Frankfurt am Main</span><br /><span>Germany</span></p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+49 (0) 69 95 11 19 20 "
+      ]
+    },
+    "fax": {
+      "und": [
+        "+49 (0) 69 95 11 19 19"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:info@eiopa.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact"
+      ]
+    }
+  }
+}

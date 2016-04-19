@@ -1,0 +1,423 @@
+{
+  "_id": "080126248be628d5",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "en",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2014-05-14 15:51:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        26
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/food/thumb_food_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/food/thumb_food_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/food/thumb_food_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/food/thumb_food_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/food/thumb_food_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/food/thumb_food_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/food/thumb_food_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/food/thumb_food_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/food/thumb_food_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/food/thumb_food_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/food/thumb_food_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/food/thumb_food_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/food/thumb_food_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/food/thumb_food_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/food/thumb_food_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/food/thumb_food_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/food/thumb_food_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/food/thumb_food_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/food/thumb_food_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/food/thumb_food_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/food/thumb_food_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/food/thumb_food_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/food/thumb_food_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/food/thumb_food_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Безопасност на храните"
+      ],
+      "cs": [
+        "Bezpečnost potravin"
+      ],
+      "da": [
+        " Fødevaresikkerhed"
+      ],
+      "de": [
+        "Lebensmittelsicherheit"
+      ],
+      "el": [
+        "Ασφάλεια των τροφίμων"
+      ],
+      "en": [
+        "Food safety "
+      ],
+      "es": [
+        "Seguridad alimentaria"
+      ],
+      "et": [
+        "Toiduohutus "
+      ],
+      "fi": [
+        "Elintarviketurvallisuus"
+      ],
+      "fr": [
+        "Sécurité alimentaire"
+      ],
+      "ga": [
+        "Sábháilteacht bia"
+      ],
+      "hr": [
+        "Sigurnost hrane"
+      ],
+      "hu": [
+        "Élelmiszer-biztonság"
+      ],
+      "it": [
+        "Sicurezza alimentare"
+      ],
+      "lt": [
+        "Maisto sauga"
+      ],
+      "lv": [
+        "Pārtikas nekaitīgums "
+      ],
+      "mt": [
+        "Is-sikurezza tal-ikel"
+      ],
+      "nl": [
+        "Voedselveiligheid"
+      ],
+      "pl": [
+        "Bezpieczeństwo żywności"
+      ],
+      "pt": [
+        "Segurança alimentar"
+      ],
+      "ro": [
+        "Siguranța alimentară"
+      ],
+      "sk": [
+        "Bezpečnosť potravín"
+      ],
+      "sl": [
+        "Varnost hrane"
+      ],
+      "sv": [
+        "Säkra livsmedel"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Безопасност на храните"
+      ],
+      "cs": [
+        "Bezpečnost potravin"
+      ],
+      "da": [
+        " Fødevaresikkerhed"
+      ],
+      "de": [
+        "Lebensmittelsicherheit"
+      ],
+      "el": [
+        "Ασφάλεια των τροφίμων"
+      ],
+      "en": [
+        "Food safety "
+      ],
+      "es": [
+        "Seguridad alimentaria"
+      ],
+      "et": [
+        "Toiduohutus "
+      ],
+      "fi": [
+        "Elintarviketurvallisuus"
+      ],
+      "fr": [
+        "Sécurité alimentaire"
+      ],
+      "ga": [
+        "Sábháilteacht bia"
+      ],
+      "hr": [
+        "Sigurnost hrane"
+      ],
+      "hu": [
+        "Élelmiszer-biztonság"
+      ],
+      "it": [
+        "Sicurezza alimentare"
+      ],
+      "lt": [
+        "Maisto sauga"
+      ],
+      "lv": [
+        "Pārtikas nekaitīgums "
+      ],
+      "mt": [
+        "Is-sikurezza tal-ikel"
+      ],
+      "nl": [
+        "Voedselveiligheid"
+      ],
+      "pl": [
+        "Bezpieczeństwo żywności"
+      ],
+      "pt": [
+        "Segurança alimentar"
+      ],
+      "ro": [
+        "Siguranța alimentară"
+      ],
+      "sk": [
+        "Bezpečnosť potravín"
+      ],
+      "sl": [
+        "Varnost hrane"
+      ],
+      "sv": [
+        "Säkra livsmedel"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през ноември 2014 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Rukopis aktualizován v Listopad 2014</p><p class=\"series\"><span>Publikace je součástí edice Politiky Evropské unie</span></p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i november 2014</p><p class=\"series\"><span>Denne publikation indgår i serien \"Indblik i EU-politik\"</span></p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Manuskript aktualisiert im November 2014</p><p class=\"series\"><span>Teil der Reihe „Die Europäische Union erklärt“</span></p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</p><p class=\"series\"><span>Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια</span></p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\"><span>Updated in November 2014</span></p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto original actualizado en noviembre de 2014</p><p class=\"series\"><span>Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</span></p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud november 2014</p><p class=\"series\"><span>See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</span></p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty marraskuu 2014</p><p class=\"series\"><span>Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</span></p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit actualisé en novembre 2014</p><p class=\"series\"><span>Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</span></p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt cothrom le dáta mí na Samhna 2014</p><p class=\"series\"><span>Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</span></p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u studeni 2014.</p><p class=\"series\"><span>Ova publikacija je dio serije \"Objašnjena Europska Unija\"</span></p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">A kézirat frissítve: 2014. november</p><p class=\"series\"><span>A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</span></p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Redazione aggiornata ad novembre 2014</p><p class=\"series\"><span>Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</span></p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2014 m. novembris mėn.</p><p class=\"series\"><span>Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</span></p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunināts 2014. gada novembris.</p><p class=\"series\"><span>Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</span></p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Manuskritt aġġornat f'Novembru 2014</p><p class=\"series\"><span>Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</span></p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Tekst bijgewerkt in november 2014</p><p class=\"series\"><span>Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</span></p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano w listopad 2014 r.</p><p class=\"series\"><span>Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</span></p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em novembro de 2014</p><p class=\"series\"><span>Esta brochura faz parte da coleção «Compreender melhor a UE»</span></p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în noiembrie 2014</p><p class=\"series\"><span>Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</span></p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol aktualizovaný v november 2014</p><p class=\"series\"><span>Táto publikácia je súčasťou série „Politiky Európskej únie“</span></p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen november 2014.</p><p class=\"series\"><span>Publikacija je del zbirke „Politike Evropske unije“.</span></p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterat i november 2014</p><p class=\"series\"><span>Broschyren ingår i serien ”Insyn i EU-politiken”</span></p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c21"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://europa.eu/pol/pdf/flipbook/bg/food_bg.pdf"
+      ],
+      "cs": [
+        "http://europa.eu/pol/pdf/flipbook/cs/food_cs.pdf"
+      ],
+      "da": [
+        "http://europa.eu/pol/pdf/flipbook/da/food_da.pdf"
+      ],
+      "de": [
+        "http://europa.eu/pol/pdf/flipbook/de/food_de.pdf"
+      ],
+      "el": [
+        "http://europa.eu/pol/pdf/flipbook/el/food_el.pdf"
+      ],
+      "en": [
+        "http://europa.eu/pol/pdf/flipbook/en/food_en.pdf"
+      ],
+      "es": [
+        "http://europa.eu/pol/pdf/flipbook/es/food_es.pdf"
+      ],
+      "et": [
+        "http://europa.eu/pol/pdf/flipbook/et/food_et.pdf"
+      ],
+      "fi": [
+        "http://europa.eu/pol/pdf/flipbook/fi/food_fi.pdf"
+      ],
+      "fr": [
+        "http://europa.eu/pol/pdf/flipbook/fr/food_fr.pdf"
+      ],
+      "ga": [
+        "http://europa.eu/pol/pdf/flipbook/ga/food_ga.pdf"
+      ],
+      "hr": [
+        "http://europa.eu/pol/pdf/flipbook/hr/food_hr.pdf"
+      ],
+      "hu": [
+        "http://europa.eu/pol/pdf/flipbook/hu/food_hu.pdf"
+      ],
+      "it": [
+        "http://europa.eu/pol/pdf/flipbook/it/food_it.pdf"
+      ],
+      "lt": [
+        "http://europa.eu/pol/pdf/flipbook/lt/food_lt.pdf"
+      ],
+      "lv": [
+        "http://europa.eu/pol/pdf/flipbook/lv/food_lv.pdf"
+      ],
+      "mt": [
+        "http://europa.eu/pol/pdf/flipbook/mt/food_mt.pdf"
+      ],
+      "nl": [
+        "http://europa.eu/pol/pdf/flipbook/nl/food_nl.pdf"
+      ],
+      "pl": [
+        "http://europa.eu/pol/pdf/flipbook/pl/food_pl.pdf"
+      ],
+      "pt": [
+        "http://europa.eu/pol/pdf/flipbook/pt/food_pt.pdf"
+      ],
+      "ro": [
+        "http://europa.eu/pol/pdf/flipbook/ro/food_ro.pdf"
+      ],
+      "sk": [
+        "http://europa.eu/pol/pdf/flipbook/sk/food_sk.pdf"
+      ],
+      "sl": [
+        "http://europa.eu/pol/pdf/flipbook/sl/food_sl.pdf"
+      ],
+      "sv": [
+        "http://europa.eu/pol/pdf/flipbook/sv/food_sv.pdf"
+      ]
+    }
+  }
+}

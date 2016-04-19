@@ -1,0 +1,303 @@
+{
+    "_id": "download_item_e738c3640cb684d3856981745426e23c",
+    "type": "download_item",
+    "default_language": "en",
+    "languages": [
+        "hr",
+        "en",
+        "sk",
+        "ro",
+        "nl",
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hu",
+        "it",
+        "pt",
+        "mt",
+        "lv",
+        "pl",
+        "lt",
+        "sv",
+        "sl"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Как работи Европейският съюз – пътеводител за европейските институции",
+                "Договори за присъединяване"
+            ],
+            "cs": [
+                "Jak funguje Evropská unie – Váš průvodce po institucích EU",
+                "Smlouvy o přistoupení"
+            ],
+            "da": [
+                "Sådan virker EU – Guide til Den Europæiske Unions institutioner",
+                "Traktater om tiltrædelse"
+            ],
+            "de": [
+                "Wie funktioniert die Europäische Union? Ihr Wegweiser zu den Organen und Einrichtungen der EU",
+                "Beitrittsverträge"
+            ],
+            "el": [
+                "Πώς λειτουργεί η Ευρωπαϊκή Ένωση - Ο οδηγός σας στα θεσμικά όργανα της ΕΕ",
+                "Συνθήκες προσχώρησης"
+            ],
+            "en": [
+                "How the European Union works - Your guide to the EU institutions",
+                "Accession treaties"
+            ],
+            "es": [
+                "El funcionamiento de la Unión Europea – Guía del ciudadano sobre las instituciones de la UE",
+                "Tratados de adhesión"
+            ],
+            "et": [
+                "Kuidas Euroopa Liit toimib - Euroopa Liidu institutsioonide teatmik",
+                "Ühinemislepingud"
+            ],
+            "fi": [
+                "Näin Euroopan unioni toimii – Tietoa EU:n toimielimistä",
+                "Liittymissopimukset"
+            ],
+            "fr": [
+                "Comment fonctionne l'Union européenne – Petit guide des institutions européennes",
+                "Traités d'adhésion"
+            ],
+            "ga": [
+                "Conas a oibríonn an tAontas Eorpach - Treoir duitse maidir le hinstitiúidí an AE",
+                "Na conarthaí aontachais"
+            ],
+            "hr": [
+                "Kako djeluje Europska unija - Vaš vodič kroz institucije EU-a",
+                "Pristupni sporazumi"
+            ],
+            "hu": [
+                "Hogyan működik az Európai Unió? – Útmutató az EU intézményeihez",
+                "Csatlakozási szerződések"
+            ],
+            "it": [
+                "Come funziona l'Unione europea - Guida del cittadino alle istituzioni dell'UE",
+                "Trattati di adesione"
+            ],
+            "lt": [
+                "„Kaip funkcionuoja Europos Sąjunga. ES institucijų vadovas piliečiams“",
+                "Stojimo sutartys"
+            ],
+            "lv": [
+                "Kā darbojas Eiropas Savienība — ES iestāžu ceļvedis",
+                "Pievienošanās līgumi"
+            ],
+            "mt": [
+                "Kif taħdem l-Unjoni Ewropea - Il-gwida tiegħek għall-istituzzjonijiet tal-UE",
+                "Trattati tal-adeżjoni"
+            ],
+            "nl": [
+                "Hoe werkt de Europese Unie? Uw wegwijzer voor de Europese instellingen",
+                "Toetredingsverdragen"
+            ],
+            "pl": [
+                "Jak działa Unia Europejska – Przewodnik po instytucjach unijnych",
+                "Traktaty akcesyjne"
+            ],
+            "pt": [
+                "Como funciona a União Europeia: Guia das instituições da União Europeia",
+                "Tratados de Adesão"
+            ],
+            "ro": [
+                "Cum funcţionează Uniunea Europeană - Ghidul instituţiilor UE pentru fiecare",
+                "Tratate de aderare"
+            ],
+            "sk": [
+                "Ako funguje Európska únia – Vaša príručka o inštitúciách EÚ",
+                "Prístupové zmluvy"
+            ],
+            "sl": [
+                "Kako deluje Evropska unija – vodnik po institucijah EU",
+                "Pristopne pogodbe"
+            ],
+            "sv": [
+                "Så fungerar EU – Guide till EU:s institutioner",
+                "Anslutningsfördrag"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://bookshop.europa.eu/bg/--pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=bg"
+            ],
+            "cs": [
+                "http://bookshop.europa.eu/cs/jak-funguje-evropsk-unie-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=cs"
+            ],
+            "da": [
+                "http://bookshop.europa.eu/da/s-dan-virker-eu-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=da"
+            ],
+            "de": [
+                "http://bookshop.europa.eu/de/wie-funktioniert-die-eu--pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=de"
+            ],
+            "el": [
+                "http://bookshop.europa.eu/el/--pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=el"
+            ],
+            "en": [
+                "http://bookshop.europa.eu/en/how-the-european-union-works-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=en"
+            ],
+            "es": [
+                "http://bookshop.europa.eu/es/c-mo-funciona-la-uni-n-europea-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=es"
+            ],
+            "et": [
+                "http://bookshop.europa.eu/et/kuidas-euroopa-liit-toimib-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=et"
+            ],
+            "fi": [
+                "http://bookshop.europa.eu/fi/naein-euroopan-unioni-toimii-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=fi"
+            ],
+            "fr": [
+                "http://bookshop.europa.eu/fr/comment-fonctionne-l-union-europ-enne--pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=fr"
+            ],
+            "ga": [
+                "http://bookshop.europa.eu/ga/how-the-european-union-works-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=ga"
+            ],
+            "hr": [
+                "http://bookshop.europa.eu/hr/kako-funkcionira-europska-unija-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=hr"
+            ],
+            "hu": [
+                "http://bookshop.europa.eu/hu/hogyan-m-koedik-az-eur-pai-uni--pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=hu"
+            ],
+            "it": [
+                "http://bookshop.europa.eu/it/come-funziona-l-unione-europea-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=it"
+            ],
+            "lt": [
+                "http://bookshop.europa.eu/lt/kaip-funkcionuoja-europos-s-junga-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=lt"
+            ],
+            "lv": [
+                "http://bookshop.europa.eu/lv/k-darbojas-eiropas-savien-ba-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=lv"
+            ],
+            "mt": [
+                "http://bookshop.europa.eu/mt/kif-ta-dem-l-unjoni-ewropea-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=mt"
+            ],
+            "nl": [
+                "http://bookshop.europa.eu/nl/hoe-werkt-de-europese-unie--pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=nl"
+            ],
+            "pl": [
+                "http://bookshop.europa.eu/pl/jak-dzia-a-unia-europejska-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=pl"
+            ],
+            "pt": [
+                "http://bookshop.europa.eu/pt/como-funciona-a-uni-o-europeia-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=pt"
+            ],
+            "ro": [
+                "http://bookshop.europa.eu/ro/cum-func-ioneaz-uniunea-european--pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=ro"
+            ],
+            "sk": [
+                "http://bookshop.europa.eu/sk/ako-funguje-eur-pska-nia-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=sk"
+            ],
+            "sl": [
+                "http://bookshop.europa.eu/sl/kako-deluje-evropska-unija-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=sl"
+            ],
+            "sv": [
+                "http://bookshop.europa.eu/sv/s-fungerar-europeiska-unionen-pbNA0113090/",
+                "http://eur-lex.europa.eu/collection/eu-law/treaties-overview.html?locale=sv"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Присъединяване към ЕС"
+            ],
+            "cs": [
+                "Nové členské státy EU"
+            ],
+            "da": [
+                "Optagelse i EU"
+            ],
+            "de": [
+                "Beitritt zur EU"
+            ],
+            "el": [
+                "Προσχώρηση στην ΕΕ"
+            ],
+            "en": [
+                "Joining the EU"
+            ],
+            "es": [
+                "Adhesión a la UE"
+            ],
+            "et": [
+                "Ühinemine ELiga"
+            ],
+            "fi": [
+                "EU:n jäseneksi liittyminen"
+            ],
+            "fr": [
+                "L'adhésion à l'UE"
+            ],
+            "ga": [
+                "Ag teacht leis an AE"
+            ],
+            "hr": [
+                "Pristupanje EU-u"
+            ],
+            "hu": [
+                "Csatlakozás az Európai Unióhoz"
+            ],
+            "it": [
+                "Adesione all'UE"
+            ],
+            "lt": [
+                "Stojimas į ES"
+            ],
+            "lv": [
+                "Pievienošanās Eiropas Savienībai"
+            ],
+            "mt": [
+                "Sħubija mal-UE"
+            ],
+            "nl": [
+                "Hoe wordt een land lid van de EU?"
+            ],
+            "pl": [
+                "Przystąpienie do UE"
+            ],
+            "pt": [
+                "Aderir à UE"
+            ],
+            "ro": [
+                "Aderarea la UE"
+            ],
+            "sk": [
+                "Pristúpenie k EÚ"
+            ],
+            "sl": [
+                "Pristop k EU"
+            ],
+            "sv": [
+                "Att bli medlem i EU"
+            ]
+        }
+    }
+}

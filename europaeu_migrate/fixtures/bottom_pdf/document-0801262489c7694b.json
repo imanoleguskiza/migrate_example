@@ -1,0 +1,423 @@
+{
+  "_id": "0801262489c7694b",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "cs",
+    "da",
+    "de",
+    "bg",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-05-21 10:25:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        11
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/hum/thumb_hum_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/hum/thumb_hum_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/hum/thumb_hum_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/hum/thumb_hum_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/hum/thumb_hum_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/hum/thumb_hum_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/hum/thumb_hum_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/hum/thumb_hum_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/hum/thumb_hum_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/hum/thumb_hum_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/hum/thumb_hum_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/hum/thumb_hum_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/hum/thumb_hum_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/hum/thumb_hum_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/hum/thumb_hum_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/hum/thumb_hum_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/hum/thumb_hum_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/hum/thumb_hum_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/hum/thumb_hum_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/hum/thumb_hum_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/hum/thumb_hum_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/hum/thumb_hum_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/hum/thumb_hum_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/hum/thumb_hum_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Хуманитарна помощ и гражданска защита"
+      ],
+      "cs": [
+        "Humanitární pomoc a civilní ochrana"
+      ],
+      "da": [
+        "Humanitær bistand og civilbeskyttelse"
+      ],
+      "de": [
+        "Hilfe und Katastrophenschutz"
+      ],
+      "el": [
+        "Ανθρωπιστική βοήθεια και πολιτική προστασία"
+      ],
+      "en": [
+        "Humanitarian aid and civil protection"
+      ],
+      "es": [
+        "Ayuda humanitaria y protección civil"
+      ],
+      "et": [
+        "Humanitaarabi ja kodanikukaitse"
+      ],
+      "fi": [
+        "Humanitaarinen apu ja pelastuspalvelu"
+      ],
+      "fr": [
+        "Aide humanitaire et protection civile"
+      ],
+      "ga": [
+        "Cabhair dhaonnúil agus cosaint shibhialta"
+      ],
+      "hr": [
+        "Humanitarna pomoć i civilna zaštita"
+      ],
+      "hu": [
+        "Humanitárius segítségnyújtás és polgári védelem"
+      ],
+      "it": [
+        "Aiuti umanitari e protezione civile"
+      ],
+      "lt": [
+        "Humanitarinė pagalba ir civilinė sauga"
+      ],
+      "lv": [
+        "Humānā palīdzība un civilā aizsardzība"
+      ],
+      "mt": [
+        "Għajnuna umanitarja u protezzjoni ċivili "
+      ],
+      "nl": [
+        "Humanitaire hulp en civiele bescherming"
+      ],
+      "pl": [
+        "Pomoc humanitarna i ochrona ludności"
+      ],
+      "pt": [
+        "Ajuda humanitária e proteção civil"
+      ],
+      "ro": [
+        "Ajutor umanitar şi protecţie civilă"
+      ],
+      "sk": [
+        "Humanitárna pomoc a civilná ochrana"
+      ],
+      "sl": [
+        "Humanitarna pomoč in civilna zaščita"
+      ],
+      "sv": [
+        "Humanitärt bistånd och civilskydd"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Хуманитарна помощ и гражданска защита"
+      ],
+      "cs": [
+        "Humanitární pomoc a civilní ochrana"
+      ],
+      "da": [
+        "Humanitær bistand og civilbeskyttelse"
+      ],
+      "de": [
+        "Hilfe und Katastrophenschutz"
+      ],
+      "el": [
+        "Ανθρωπιστική βοήθεια και πολιτική προστασία"
+      ],
+      "en": [
+        "Humanitarian aid and civil protection"
+      ],
+      "es": [
+        "Ayuda humanitaria y protección civil"
+      ],
+      "et": [
+        "Humanitaarabi ja kodanikukaitse"
+      ],
+      "fi": [
+        "Humanitaarinen apu ja pelastuspalvelu"
+      ],
+      "fr": [
+        "Aide humanitaire et protection civile"
+      ],
+      "ga": [
+        "Cabhair dhaonnúil agus cosaint shibhialta"
+      ],
+      "hr": [
+        "Humanitarna pomoć i civilna zaštita"
+      ],
+      "hu": [
+        "Humanitárius segítségnyújtás és polgári védelem"
+      ],
+      "it": [
+        "Aiuti umanitari e protezione civile"
+      ],
+      "lt": [
+        "Humanitarinė pagalba ir civilinė sauga"
+      ],
+      "lv": [
+        "Humānā palīdzība un civilā aizsardzība"
+      ],
+      "mt": [
+        "Għajnuna umanitarja u protezzjoni ċivili "
+      ],
+      "nl": [
+        "Humanitaire hulp en civiele bescherming"
+      ],
+      "pl": [
+        "Pomoc humanitarna i ochrona ludności"
+      ],
+      "pt": [
+        "Ajuda humanitária e proteção civil"
+      ],
+      "ro": [
+        "Ajutor umanitar şi protecţie civilă"
+      ],
+      "sk": [
+        "Humanitárna pomoc a civilná ochrana"
+      ],
+      "sl": [
+        "Humanitarna pomoč in civilna zaščita"
+      ],
+      "sv": [
+        "Humanitärt bistånd och civilskydd"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през октомври 2015 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Text byl aktualizován v říjnu 2015</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i oktober 2015</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Letzte Aktualisierung: Oktober 2015</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Οκτώβριο του 2015.</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in October 2015</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto actualizado en octubre de 2015</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud 2015. aasta oktoobris</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty lokakuussa 2015.</p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit mis à jour en octobre 2015</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt chun dáta i mí Dheireadh Fómhair 2015</p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Ažurirano u listopadu 2015.</p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">Kézirat frissítve: 2015. október</p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Manoscritto aggiornato nell’ottobre 2015</p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2015 m. spalio mėn.</p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunots 2015. gada oktobrī.</p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Kitba aġġornata f'Ottubru 2015</p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Manuscript voltooid in oktober 2015</p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano w październiku 2015 r.</p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em outubro de 2015</p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în octombrie 2015</p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol aktualizovaný v októbri 2015</p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen oktobra 2015.</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterades i oktober 2015</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c24"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://bookshop.europa.eu/bg/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-BG-N/NA0115819BGN_002.pdf?FileName=NA0115819BGN_002.pdf&SKU=NA0115819BGN_PDF&CatalogueNumber=NA-01-15-819-BG-N"
+      ],
+      "cs": [
+        "http://bookshop.europa.eu/cs/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-CS-N/NA0115819CSN_002.pdf?FileName=NA0115819CSN_002.pdf&SKU=NA0115819CSN_PDF&CatalogueNumber=NA-01-15-819-CS-N"
+      ],
+      "da": [
+        "http://bookshop.europa.eu/da/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-DA-N/NA0115819DAN_002.pdf?FileName=NA0115819DAN_002.pdf&SKU=NA0115819DAN_PDF&CatalogueNumber=NA-01-15-819-DA-N"
+      ],
+      "de": [
+        "http://bookshop.europa.eu/de/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-DE-N/NA0115819DEN_002.pdf?FileName=NA0115819DEN_002.pdf&SKU=NA0115819DEN_PDF&CatalogueNumber=NA-01-15-819-DE-N"
+      ],
+      "el": [
+        "http://bookshop.europa.eu/el/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-EL-N/NA0115819ELN_002.pdf?FileName=NA0115819ELN_002.pdf&SKU=NA0115819ELN_PDF&CatalogueNumber=NA-01-15-819-EL-N"
+      ],
+      "en": [
+        "http://bookshop.europa.eu/en/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-EN-N/NA0115819ENN_002.pdf?FileName=NA0115819ENN_002.pdf&SKU=NA0115819ENN_PDF&CatalogueNumber=NA-01-15-819-EN-N"
+      ],
+      "es": [
+        "http://bookshop.europa.eu/es/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-ES-N/NA0115819ESN_002.pdf?FileName=NA0115819ESN_002.pdf&SKU=NA0115819ESN_PDF&CatalogueNumber=NA-01-15-819-ES-N"
+      ],
+      "et": [
+        "http://bookshop.europa.eu/et/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-ET-N/NA0115819ETN_002.pdf?FileName=NA0115819ETN_002.pdf&SKU=NA0115819ETN_PDF&CatalogueNumber=NA-01-15-819-ET-N"
+      ],
+      "fi": [
+        "http://bookshop.europa.eu/fi/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-FI-N/NA0115819FIN_002.pdf?FileName=NA0115819FIN_002.pdf&SKU=NA0115819FIN_PDF&CatalogueNumber=NA-01-15-819-FI-N"
+      ],
+      "fr": [
+        "http://bookshop.europa.eu/fr/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-FR-N/NA0115819FRN_002.pdf?FileName=NA0115819FRN_002.pdf&SKU=NA0115819FRN_PDF&CatalogueNumber=NA-01-15-819-FR-N"
+      ],
+      "ga": [
+        "http://bookshop.europa.eu/ga/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-GA-N/NA0115819GAN_002.pdf?FileName=NA0115819GAN_002.pdf&SKU=NA0115819GAN_PDF&CatalogueNumber=NA-01-15-819-GA-N"
+      ],
+      "hr": [
+        "http://bookshop.europa.eu/hr/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-HR-N/NA0115819HRN_002.pdf?FileName=NA0115819HRN_002.pdf&SKU=NA0115819HRN_PDF&CatalogueNumber=NA-01-15-819-HR-N"
+      ],
+      "hu": [
+        "http://bookshop.europa.eu/hu/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-HU-N/NA0115819HUN_002.pdf?FileName=NA0115819HUN_002.pdf&SKU=NA0115819HUN_PDF&CatalogueNumber=NA-01-15-819-HU-N"
+      ],
+      "it": [
+        "http://bookshop.europa.eu/it/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-IT-N/NA0115819ITN_002.pdf?FileName=NA0115819ITN_002.pdf&SKU=NA0115819ITN_PDF&CatalogueNumber=NA-01-15-819-IT-N"
+      ],
+      "lt": [
+        "http://bookshop.europa.eu/lt/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-LT-N/NA0115819LTN_002.pdf?FileName=NA0115819LTN_002.pdf&SKU=NA0115819LTN_PDF&CatalogueNumber=NA-01-15-819-LT-N"
+      ],
+      "lv": [
+        "http://bookshop.europa.eu/lv/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-LV-N/NA0115819LVN_002.pdf?FileName=NA0115819LVN_002.pdf&SKU=NA0115819LVN_PDF&CatalogueNumber=NA-01-15-819-LV-N"
+      ],
+      "mt": [
+        "http://bookshop.europa.eu/mt/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-MT-N/NA0115819MTN_002.pdf?FileName=NA0115819MTN_002.pdf&SKU=NA0115819MTN_PDF&CatalogueNumber=NA-01-15-819-MT-N"
+      ],
+      "nl": [
+        "http://bookshop.europa.eu/nl/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-NL-N/NA0115819NLN_002.pdf?FileName=NA0115819NLN_002.pdf&SKU=NA0115819NLN_PDF&CatalogueNumber=NA-01-15-819-NL-N"
+      ],
+      "pl": [
+        "http://bookshop.europa.eu/pl/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-PL-N/NA0115819PLN_002.pdf?FileName=NA0115819PLN_002.pdf&SKU=NA0115819PLN_PDF&CatalogueNumber=NA-01-15-819-PL-N"
+      ],
+      "pt": [
+        "http://bookshop.europa.eu/pt/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-PT-N/NA0115819PTN_002.pdf?FileName=NA0115819PTN_002.pdf&SKU=NA0115819PTN_PDF&CatalogueNumber=NA-01-15-819-PT-N"
+      ],
+      "ro": [
+        "http://bookshop.europa.eu/ro/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-RO-N/NA0115819RON_002.pdf?FileName=NA0115819RON_002.pdf&SKU=NA0115819RON_PDF&CatalogueNumber=NA-01-15-819-RO-N"
+      ],
+      "sk": [
+        "http://bookshop.europa.eu/sk/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-SK-N/NA0115819SKN_002.pdf?FileName=NA0115819SKN_002.pdf&SKU=NA0115819SKN_PDF&CatalogueNumber=NA-01-15-819-SK-N"
+      ],
+      "sl": [
+        "http://bookshop.europa.eu/sl/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-SL-N/NA0115819SLN_002.pdf?FileName=NA0115819SLN_002.pdf&SKU=NA0115819SLN_PDF&CatalogueNumber=NA-01-15-819-SL-N"
+      ],
+      "sv": [
+        "http://bookshop.europa.eu/sv/humanitarian-aid-and-civil-protection-pbNA0115819/downloads/NA-01-15-819-SV-N/NA0115819SVN_002.pdf?FileName=NA0115819SVN_002.pdf&SKU=NA0115819SVN_PDF&CatalogueNumber=NA-01-15-819-SV-N"
+      ]
+    }
+  }
+}

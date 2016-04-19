@@ -1,0 +1,316 @@
+{
+  "_id": "carrousel2009",
+  "type": "europe-carrousel_item",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "en",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "sv"
+  ],
+  "fields": {
+    "title": {
+      "bg": [
+        2009
+      ],
+      "cs": [
+        2009
+      ],
+      "da": [
+        2009
+      ],
+      "de": [
+        2009
+      ],
+      "el": [
+        2009
+      ],
+      "en": [
+        2009
+      ],
+      "es": [
+        2009
+      ],
+      "et": [
+        2009
+      ],
+      "fi": [
+        2009
+      ],
+      "fr": [
+        2009
+      ],
+      "ga": [
+        2009
+      ],
+      "hu": [
+        2009
+      ],
+      "it": [
+        2009
+      ],
+      "lt": [
+        2009
+      ],
+      "lv": [
+        2009
+      ],
+      "mt": [
+        2009
+      ],
+      "nl": [
+        2009
+      ],
+      "pl": [
+        2009
+      ],
+      "pt": [
+        2009
+      ],
+      "ro": [
+        2009
+      ],
+      "sk": [
+        2009
+      ],
+      "sl": [
+        2009
+      ],
+      "sv": [
+        2009
+      ]
+    },
+    "image_thumb": {
+      "bg": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_ga.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/european_elections_2009_sv.jpg"
+      ]
+    },
+    "image": {
+      "bg": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_ga.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/european_elections_2009_sv.jpg"
+      ]
+    },
+    "image_alt": {
+      "bg": [
+        2009
+      ],
+      "cs": [
+        2009
+      ],
+      "da": [
+        2009
+      ],
+      "de": [
+        2009
+      ],
+      "el": [
+        2009
+      ],
+      "en": [
+        2009
+      ],
+      "es": [
+        2009
+      ],
+      "et": [
+        2009
+      ],
+      "fi": [
+        2009
+      ],
+      "fr": [
+        2009
+      ],
+      "ga": [
+        2009
+      ],
+      "hu": [
+        2009
+      ],
+      "it": [
+        2009
+      ],
+      "lt": [
+        2009
+      ],
+      "lv": [
+        2009
+      ],
+      "mt": [
+        2009
+      ],
+      "nl": [
+        2009
+      ],
+      "pl": [
+        2009
+      ],
+      "pt": [
+        2009
+      ],
+      "ro": [
+        2009
+      ],
+      "sk": [
+        2009
+      ],
+      "sl": [
+        2009
+      ],
+      "sv": [
+        2009
+      ]
+    }
+  }
+}

@@ -1,0 +1,990 @@
+{
+  "_id": "e5af6d929eddb1d0373d95329ba0ba0c",
+  "type": "institution",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/chafea/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Изпълнителна агенция за потребителите, здравеопазването, селското стопанство и храните"
+      ],
+      "cs": [
+        "Výkonná agentura pro spotřebitele, zdraví, zemědělství a potraviny"
+      ],
+      "da": [
+        "Forvaltningsorganet for Forbrugere, Sundhed, Landbrug og Fødevarer"
+      ],
+      "de": [
+        "Exekutivagentur für Verbraucher, Gesundheit, Landwirtschaft und Lebensmittel"
+      ],
+      "el": [
+        "Εκτελεστικός Οργανισμός για τους Καταναλωτές, την Υγεία, τη Γεωργία και τα Τρόφιμα"
+      ],
+      "en": [
+        "Consumers, Health, Agriculture and Food Executive Agency"
+      ],
+      "es": [
+        "Agencia Ejecutiva de Consumidores, Salud, Agricultura y Alimentación"
+      ],
+      "et": [
+        "Tarbija-, Tervise-, Põllumajandus- ja Toiduküsimuste Rakendusamet"
+      ],
+      "fi": [
+        "kuluttaja-, terveys-, maatalous- ja elintarvikeasioiden toimeenpanovirasto"
+      ],
+      "fr": [
+        "Agence exécutive pour les consommateurs, la santé, l’agriculture et l’alimentation"
+      ],
+      "ga": [
+        "an Ghníomhaireacht Feidhmiúcháin um Thomhaltóirí, Sláinte, Talmhaíocht agus Bia"
+      ],
+      "hr": [
+        "Izvršna agencija za potrošače, zdravlje, poljoprivredu i hranu"
+      ],
+      "hu": [
+        "Fogyasztó-, Egészség-, Élelmiszerügyi és Mezőgazdasági Végrehajtó Ügynökség"
+      ],
+      "it": [
+        "Agenzia esecutiva per i consumatori, la salute, l’agricoltura e la sicurezza alimentare"
+      ],
+      "lt": [
+        "Vartotojų, sveikatos, žemės ūkio ir maisto programų vykdomoji įstaiga"
+      ],
+      "lv": [
+        "Patērētāju, veselības, lauksaimniecības un pārtikas izpildaģentūra"
+      ],
+      "mt": [
+        "l-Aġenzija Eżekuttiva tal-Konsumaturi, is-Saħħa, l-Agrikoltura u l-Ikel"
+      ],
+      "nl": [
+        "Uitvoerend Agentschap voor consumenten, gezondheid, landbouw en voeding"
+      ],
+      "pl": [
+        "Agencja Wykonawcza ds. Konsumentów, Zdrowia, Rolnictwa i Żywności"
+      ],
+      "pt": [
+        "Agência de Execução para os Consumidores, a Saúde, a Agricultura e a Alimentação"
+      ],
+      "ro": [
+        "Agenția Executivă pentru Consumatori, Sănătate, Agricultură și Alimente"
+      ],
+      "sk": [
+        "Výkonná agentúra pre spotrebiteľov, zdravie, poľnohospodárstvo a potraviny"
+      ],
+      "sl": [
+        "Izvajalska agencija za potrošnike, zdravje, kmetijstvo in hrano"
+      ],
+      "sv": [
+        "Genomförandeorganet för konsument-, hälso-, jordbruks- och livsmedelsfrågor"
+      ]
+    },
+    "abstract": {
+      "bg": [
+        "<p>Изпълнителната агенция за потребителите, здравеопазването и храните (CHAFEA) е наследник на Изпълнителната агенция за здравеопазване и въпроси, свързани с потребителите (EAHC), създадена от Европейската комисия през 2006 г., за да управлява</p>             <ul>                <li>програмата за обществено здравеопазване</li>                <li>програма „Потребители“ (от 2008 г.)</li>                <li>(от 2008 г.) инициативата „По-добро обучение за по-безопасни храни“ (от 2008 г.).</li>             </ul>"
+      ],
+      "cs": [
+        "<p>Výkonná agentura pro spotřebitele, zdraví a potraviny (CHAFEA) je nástupce Výkonné agentury pro zdraví a spotřebitele (EAHC), kterou zřídila Evropská komise v roce 2006, aby spravovala:</p>             <ul>                <li>program veřejného zdraví</li>                <li>program ochrany spotřebitele (od roku 2008)</li>                <li>iniciativu pro lepší vzdělávání v oblasti bezpečnosti potravin (od roku 2008).</li>             </ul>"
+      ],
+      "da": [
+        "<p>Forvaltningsorganet for Forbrugere, Sundhed og Fødevarer  (CHAFEA) er en efterfølger til Forvaltningsorganet for Sundhed og Forbrugere (EAHC), som Kommissionen nedsatte i 2006 for at forvalte</p>             <ul>                <li>sundhedsprogrammet</li>                <li>(fra 2008) forbrugerprogrammet</li>                <li>(fra 2008) initiativet til bedre uddannelse for sikrere fødevarer.</li>             </ul>"
+      ],
+      "de": [
+        "<p>Die Exekutivagentur für Verbraucher, Gesundheit und Lebensmittel (Chafea) ersetzt die Exekutivagentur für Gesundheit und Verbraucher (EAHC) und wurde 2006 von der Europäischen Kommission zur Verwaltung des</p>             <ul>                <li>Programms für öffentliche Gesundheit,</li>                <li>des Verbraucherprogramms (seit 2008) und </li>                <li>der Initiative „Bessere Schulung für sicherere Lebensmittel“ (seit 2008) eingerichtet.</li>             </ul>"
+      ],
+      "el": [
+        "<p>Ο Εκτελεστικός Οργανισμός για τους Καταναλωτές, την Υγεία και τα Τρόφιμα (CHAFEA) αντικατέστησε τον Εκτελεστικό Οργανισμό για την Υγεία και τους Καταναλωτές (EAHC), ο οποίος συγκροτήθηκε από την Ευρωπαϊκή Επιτροπή το 2006 για να εφαρμόσει</p>             <ul>                <li>το πρόγραμμα για τη δημόσια υγεία</li>                <li>το πρόγραμμα για τους καταναλωτές (από το 2008) </li>                <li>την πρωτοβουλία «Καλύτερη κατάρτιση για ασφαλέστερα τρόφιμα» (από το 2008) .</li>             </ul>"
+      ],
+      "en": [
+        "<p>The Consumers, Health and Food Executive Agency (CHAFEA) is a successor to the Executive Agency for Health and Consumers (EAHC), set up by the European Commission in 2006 to run</p>             <ul>                <li>the Public Health Programme</li>                <li>(from 2008) the Consumers Programme</li>                <li>(from 2008) the Better Training for Safer Food initiative.</li>             </ul>"
+      ],
+      "es": [
+        "<p>La Agencia Ejecutiva de Consumidores, Salud y Alimentación (Chafea) es la sucesora de la Agencia Ejecutiva de Salud y Consumidores (EAHC), creada por la Comisión Europea en 2006 para ejecutar:</p>             <ul>                <li>el Programa de Salud Pública</li>                <li>el Programa de Consumidores (a partir de 2008) </li>                <li>la iniciativa de mejora de la formación para aumentar la seguridad alimentaria (a partir de 2008).</li>             </ul>"
+      ],
+      "et": [
+        "<p>Tarbija-, Tervise- ja Toiduküsimuste Rakendusamet (CHAFEA) on Tervise ja Tarbijaküsimuste Rakendusameti (EAHC) õigusjärglane, mille komisjon asutas 2006. aastal, et rakendada järgmiseid programme:</p>             <ul>                <li>rahvatervise programm;</li>                <li>tarbijakaitseprogramm (alates 2008. aastast);</li>                <li>algatus „Parem koolitus ohutuma toidu nimel” (alates 2008. aastast). </li>             </ul>"
+      ],
+      "fi": [
+        "<p>Kuluttaja-, terveys- ja elintarvikeasioiden toimeenpanovirasto (CHAFEA) korvaa entisen terveys- ja kuluttaja-asioiden toimeenpanoviraston, jonka komissio perusti vuonna 2006 hallinnoimaan</p>             <ul>                <li>kansanterveysalan toimintaohjelmaa</li>                <li>kuluttajaohjelmaa (vuodesta 2008 alkaen)</li>                <li>Koulutuksen parantaminen elintarvikkeiden turvallisuuden lisäämiseksi -aloitetta (vuodesta 2008 alkaen).</li>             </ul>"
+      ],
+      "fr": [
+        "<p>L'Agence exécutive pour les consommateurs, la santé et l’alimentation (Consumers, Health and Food Executive Agency — CHAFEA) succède à l'Agence exécutive pour la santé et les consommateurs (Executive Agency for Health and Consumers — EAHC), mise en place par la Commission européenne en 2006 pour gérer:</p>             <ul>                <li>le programme de santé publique;</li>                <li>le programme «Consommateurs» (à partir de 2008);</li>                <li>l'initiative «Une meilleure formation pour des denrées alimentaires plus sûres» (à partir de 2008).</li>             </ul>"
+      ],
+      "ga": [
+        "<p>Is í an Ghníomhaireacht Feidhmiúcháin um Thomhaltóirí, um Shláinte agus um Bia a tháinig i gcomharbacht ar an nGníomhaireacht Feidhmiúcháin um Shláinte agus um Thomhaltóirí (EAHC), a bhunaigh an Coimisiún in 2006 chun na nithe seo a leanas a reáchtáil:</p>             <ul>                <li>an Clár Sláinte Poiblí </li>                <li>(ó 2008) an Clár Tomhaltóirí</li>                <li>(ó 2008) an tionscnamh Oiliúint Níos Fearr le haghaidh Bia Níos Sábháilte</li>             </ul>"
+      ],
+      "hr": [
+        "<p>Izvršna agencija za potrošače, zdravlje i hranu (CHAFEA) nasljednica je Izvršne agencije za zdravlje i potrošače (EAHC), koju je osnovala Europska komisija 2006. radi upravljanja </p>             <ul>                <li>programom javnog zdravlja </li>                <li>(od 2008.) programom za potrošače</li>                <li>(od 2008.) inicijativom „Bolja izobrazba za sigurniju hranu”.</li>             </ul>"
+      ],
+      "hu": [
+        "<p>A Fogyasztó-, Egészség- és Élelmiszerügyi Végrehajtó Ügynökség (CHAFEA) elődje az Egészség- és Fogyasztóügyi Végrehajtó Ügynökség (EAHC) volt, melyet abból a célból hozott létre az Európai Bizottság 2006-ban, hogy működtesse:</p>             <ul>                <li>a népegészségügyi programot,</li>                <li>(2008-tól) a fogyasztóvédelmi programot, valamint</li>                <li>(ugyancsak 2008-tól) a „Jobb képzés a biztonságosabb élelmiszerekért” elnevezésű kezdeményezést.</li>             </ul>"
+      ],
+      "it": [
+        "<p>L'Agenzia esecutiva per i consumatori, la salute e la sicurezza alimentare (CHAFEA) è subentrata all'Agenzia esecutiva per la salute e i consumatori  (EAHC), istituita dalla Commissione europea nel 2006 per attuare:</p>             <ul>                <li>il programma per la salute pubblica</li>                <li>il programma per i consumatori (dal 2008 in poi)</li>                <li>l'iniziativa \"Migliorare la formazione per rendere più sicuri gli alimenti\" (dal 2008 in poi).</li>             </ul>"
+      ],
+      "lt": [
+        "<p>Vartotojų, sveikatos ir maisto programų vykdomoji įstaiga (CHAFEA) tęsia Sveikatos ir vartotojų reikalų vykdomosios agentūros (EAHC) darbą. Šią agentūrą Europos Komisija 2006 m. įsteigė valdyti</p>             <ul>                <li>visuomenės sveikatos programai,</li>                <li>vartotojų programai (nuo 2008 m.),</li>                <li>iniciatyvai „Geresnis mokymas rūpinantis maisto sauga“ (nuo 2008 m.).</li>             </ul>"
+      ],
+      "lv": [
+        "<p>Patērētāju, veselības un pārtikas izpildaģentūra (CHAFEA) ir pēctece Veselības un patērētāju izpildaģentūrai (EAHC), ko Eiropas Komisija izveidoja 2006. gadā, lai īstenotu:</p>             <ul>                <li>sabiedrības veselības programmu,</li>                <li>(no 2008. gada) patērētāju programmu,</li>                <li>(no 2008. gada) iniciatīvu “Labāka apmācība nekaitīgai pārtikai”.</li>             </ul>"
+      ],
+      "mt": [
+        "<p>Aġenzija Eżekuttiva għall-Konsumaturi, is-Saħħa u l-Ikel (CHAFEA) hija s-suċċessur tal-Aġenzija Eżekuttiva għas-Saħħa u l-Konsumaturi (EAHC), imwaqqfa mill-Kummissjoni Ewropea fl-2006 biex tmexxi</p>             <ul>                <li>il-Programm tas-Saħħa Pubblika</li>                <li>(mill-2008) il-Programm tal-Konsumaturi</li>                <li>(mill-2008) l-inizjattiva għat-Taħriġ Imtejjeb għal Iżjed Sikurezza fl-Ikel .</li>             </ul>"
+      ],
+      "nl": [
+        "<p>CHAFEA is de opvolger van het in 2006 opgericht Uitvoerend Agentschap voor gezondheid en consumenten (EAHC), dat verantwoordelijk was voor de uitvoering van:</p>             <ul>                <li>het volksgezondheidsprogramma</li>                <li>het consumentenprogramma (vanaf 2008)</li>                <li>het initiatief \"Betere opleiding voor veiliger voedsel\" (vanaf 2008)</li>             </ul>"
+      ],
+      "pl": [
+        "<p>Agencja Wykonawcza ds. Konsumentów, Zdrowia i Żywności zastąpiła Agencję Wykonawczą ds. Zdrowia i Konsumentów, ustanowioną przez Komisję Europejską w 2006 r. w celu zarządzania</p>             <ul>                <li>programem w dziedzinie zdrowia publicznego</li>                <li>programem działań na rzecz konsumentów (od 2008 r.)</li>                <li>programem „Lepsze szkolenia na rzecz bezpieczniejszej żywności” (od 2008 r.).</li>             </ul>"
+      ],
+      "pt": [
+        "<p>A Agência de Execução para os Consumidores, a Saúde e a Alimentação (CHAFEA) é a sucessora da Agência de Execução para a Saúde e os Consumidores (EAHC), que foi instituída pela Comissão Europeia em 2006 para apoiar a execução dos seguintes programas:</p>             <ul>                <li>programa «Saúde Pública» da UE</li>                <li>programa «Consumidores» (a partir de 2008) </li>                <li>iniciativa «Melhor formação para uma maior segurança dos alimentos» (a partir de 2008) </li>             </ul>"
+      ],
+      "ro": [
+        "<p>Agenția Executivă pentru Consumatori, Sănătate și Alimente este succesoarea Agenției Executive pentru Sănătate și Consumatori (EAHC), înființată de Comisia Europeană în 2006 pentru a gestiona</p>             <ul>                <li>programul în domeniul sănătății publice</li>                <li>(din 2008) programul privind protecția consumatorilor</li>                <li>(din 2008) inițiativa „O formare mai bună pentru o hrană mai sigură”.</li>             </ul>"
+      ],
+      "sk": [
+        "<p>Výkonná agentúra pre spotrebiteľov, zdravie a potraviny (CHAFEA) nahradila Výkonnú agentúru pre zdravie a spotrebiteľov (EAHC), ktorú v roku 2006 zriadila Európska komisia, aby riadila</p>             <ul>                <li>program verejného zdravia,</li>                <li>(od roku 2008) Spotrebiteľský program,</li>                <li>(od roku 2008) iniciatívu s názvom Lepšia odborná príprava pre bezpečnejšie potraviny.</li>             </ul>"
+      ],
+      "sl": [
+        "<p>Izvajalska agencija za potrošnike, zdravje in hrano je nasledila Izvajalsko agencijo za zdravje in potrošnike, ki je bila ustanovljena leta 2006 za izvajanje</p>             <ul>                <li>programa javnega zdravja,</li>                <li>programa varstva potrošnikov (od leta 2008) in</li>                <li>pobude Boljše usposabljanje za varnejšo hrano (od leta 2008).</li>             </ul>"
+      ],
+      "sv": [
+        "<p>Genomförandeorganet för konsument-, hälso- och livsmedelsfrågor (Chafea) tar över efter genomförandeorganet för hälso- och konsumentfrågor (EAHC), som EU-kommissionen inrättade 2006 för att sköta</p>             <ul>                <li>folkhälsoprogrammet</li>                <li>konsumentprogrammet (från 2008)</li>                <li>initiativet om bättre utbildning för säkrare livsmedel (från 2008).</li>             </ul>"
+      ]
+    },
+    "category": {
+      "und": [
+        "23337c49",
+        "40261c41"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "EUROPA/"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "EUROPA/ABOUT-EU/AGENCIES/EXECUTIVE_AGENCIES/CHAFEA/EN"
+      ],
+      "es": [
+        "EUROPA/"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "EUROPA/"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA/"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "EUROPA/"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        "COMM/A/5"
+      ],
+      "cs": [
+        "COMM/A/5"
+      ],
+      "da": [
+        "COMM/A/5"
+      ],
+      "de": [
+        "COMM/A/5"
+      ],
+      "el": [
+        "COMM/A/5"
+      ],
+      "en": [
+        "COMM/COMM/A5"
+      ],
+      "es": [
+        "COMM/A/5"
+      ],
+      "et": [
+        "COMM/A/5"
+      ],
+      "fi": [
+        "COMM/A/5"
+      ],
+      "fr": [
+        "COMM/A/5"
+      ],
+      "ga": [
+        "COMM/A/5"
+      ],
+      "hr": [
+        "COMM/A/5"
+      ],
+      "hu": [
+        "COMM/A/5"
+      ],
+      "it": [
+        "COMM/A/5"
+      ],
+      "lt": [
+        "COMM/A/5"
+      ],
+      "lv": [
+        "COMM/A/5"
+      ],
+      "mt": [
+        "COMM/A/5"
+      ],
+      "nl": [
+        "COMM/A/5"
+      ],
+      "pl": [
+        "COMM/A/5"
+      ],
+      "pt": [
+        "COMM/A/5"
+      ],
+      "ro": [
+        "COMM/A/5"
+      ],
+      "sk": [
+        "COMM/A/5"
+      ],
+      "sl": [
+        "COMM/A/5"
+      ],
+      "sv": [
+        "COMM/A/5"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Изпълнителна агенция за потребителите, здравеопазването и храните изпълнява програмата на ЕС за здравеопазване, програмата за потребителите и инициативата за по-добро обучение за по-безопасни храни."
+      ],
+      "cs": [
+        "Výkonná agentura pro spotřebitele, zdraví a potraviny provádí program EU v oblasti zdraví, program ochrany spotřebitele a iniciativu pro lepší vzdělávání v oblasti bezpečnosti potravin."
+      ],
+      "da": [
+        "Forvaltningsorganet for Forbrugere, Sundhed og Fødevarer  skal gennemføre EU's sundhedsprogram, forbrugerprogram og initiativ til bedre uddannelse for sikrere fødevarer"
+      ],
+      "de": [
+        "Die Exekutivagentur für Verbraucher, Gesundheit und Lebensmittel setzt das EU-Gesundheitsprogramm, das Verbraucherprogramm und die Initiative „Bessere Schulung für sicherere Lebensmittel“ um."
+      ],
+      "el": [
+        "Ο Εκτελεστικός Οργανισμός  για τους Καταναλωτές, την Υγεία και τα Τρόφιμα υλοποιεί τα προγράμματα της ΕΕ για την υγεία και τους καταναλωτές και την πρωτοβουλία «Καλύτερη κατάρτιση για ασφαλέστερα τρόφιμα»."
+      ],
+      "en": [
+        "The Consumers, Health and Food Executive Agency implements the EU Health programme, Consumer Programme and the Better Training for Safer Food initiative."
+      ],
+      "es": [
+        "La Agencia Ejecutiva de Consumidores, Salud y Alimentación pone en práctica el Programa de Salud de la UE, el Programa de Protección de Consumidores y la iniciativa de mejora de la formación para aumentar la seguridad alimentaria."
+      ],
+      "et": [
+        "Tarbija-, Tervise- ja Toiduküsimuste Rakendusamet rakendab ELi terviseprogrammi, tarbijakaitseprogrammi ja algatust „Parem koolitus ohutuma toidu nimel”."
+      ],
+      "fi": [
+        "Kuluttaja-, terveys- ja elintarvikeasioiden toimeenpanoviraston vastuulla on EU:n terveysohjelman, kuluttajaohjelman sekä \"Koulutuksen parantaminen elintarvikkeiden turvallisuuden lisäämiseksi\" -aloitteen täytäntöönpano."
+      ],
+      "fr": [
+        "L'Agence exécutive pour les consommateurs, la santé et l’alimentation met en œuvre le programme de santé de l'UE, le programme «Consommateurs» et l'initiative «Une meilleure formation pour des denrées alimentaires plus sûres»."
+      ],
+      "ga": [
+        "Is í an Ghníomhaireacht Feidhmiúcháin um Thomhaltóirí, um Shláinte agus um Bia a chuireann Clár Sláinte an AE, an Clár Tomhaltóirí agus an tionscnamh Oiliúint Níos Fearr le haghaidh Bia Níos Sábháilte chun feidhme."
+      ],
+      "hr": [
+        "Izvršna agencija za potrošače, zdravlje i hranu provodi program EU-a za zdravlje, program za potrošače i inicijativu „Bolja izobrazba za sigurniju hranu”."
+      ],
+      "hu": [
+        "A Fogyasztó-, Egészség- és Élelmiszerügyi Végrehajtó Ügynökség (CHAFEA) hajtja végre az EU népegészségügyi programját, a fogyasztóvédelmi programot, valamint a „Jobb képzés a biztonságosabb élelmiszerekért” elnevezésű kezdeményezést."
+      ],
+      "it": [
+        "L'Agenzia esecutiva per i consumatori, la salute e la sicurezza alimentare attua il programma dell'UE per la salute, il programma per i consumatori e l'iniziativa \"Migliorare la formazione per rendere più sicuri gli alimenti\"."
+      ],
+      "lt": [
+        "Vartotojų, sveikatos ir maisto programų vykdomoji įstaiga įgyvendina ES sveikatos programą, vartotojų programą ir iniciatyvą „Geresnis mokymas rūpinantis maisto sauga“."
+      ],
+      "lv": [
+        "Patērētāju, veselības un pārtikas izpildaģentūra īsteno ES veselības programmu, patērētāju programmu un iniciatīvu “Labāka apmācība nekaitīgai pārtikai”."
+      ],
+      "mt": [
+        "L-Aġenzija Eżekuttiva għall-Konsumaturi, is-Saħħa u l-Ikel timplimenta l-Programm tas-Saħħa tal-UE, il-Programm tal-Konsumaturi u l-inizjattiva għat-Taħriġ Imtejjeb għal Iżjed Sikurezza fl-Ikel."
+      ],
+      "nl": [
+        "Het Uitvoerend Agentschap voor consumenten, gezondheid en voeding (CHAFEA) is belast met de uitvoering van het EU-gezondheidsprogramma, het consumentenprogramma, en het initiatief \"Betere opleiding voor veiliger voedsel\"."
+      ],
+      "pl": [
+        "Agencja Wykonawcza ds. Konsumentów, Zdrowia i Żywności wdraża program UE w dziedzinie zdrowia, program działań na rzecz konsumentów oraz program „Lepsze szkolenia na rzecz bezpieczniejszej żywności”."
+      ],
+      "pt": [
+        "A Agência de Execução para os Consumidores, a Saúde e a Alimentação (CHAFEA)  é responsável pelos programas da UE no domínio da saúde e dos consumidores e da iniciativa «Melhor formação para uma maior segurança dos alimentos»."
+      ],
+      "ro": [
+        "Agenția Executivă pentru Consumatori, Sănătate și Alimente pune în aplicare programul UE în domeniul sănătății, programul privind protecția consumatorilor și inițiativa „O formare mai bună pentru o hrană mai sigură”."
+      ],
+      "sk": [
+        "Výkonná agentúra pre spotrebiteľov, zdravie a potraviny vykonáva program EÚ v oblasti zdravia, Spotrebiteľský program a iniciatívu „Lepšia odborná príprava pre bezpečnejšie potraviny“."
+      ],
+      "sl": [
+        "Izvajalska agencija za potrošnike, zdravje in hrano izvaja program zdravja EU, program varstva potrošnikov in pobudo Boljše usposabljanje za varnejšo hrano."
+      ],
+      "sv": [
+        "Genomförandeorganet för konsument-, hälso- och livsmedelsfrågor (Chafea) genomför EU:s program för folkhälsa och konsumentskydd och initiativet om bättre utbildning för säkrare livsmedel"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "ЕС",
+        "Europa",
+        "Европейски съюз",
+        "Европейска комисия",
+        "Изпълнителна агенция",
+        "свобода",
+        "Здраве",
+        "потребители",
+        "храна"
+      ],
+      "cs": [
+        "EU",
+        "Europa",
+        "Evropa",
+        "Evropská unie",
+        "Evropská komise",
+        "výkonná agentura",
+        "svoboda",
+        "zdravotní péče",
+        "spotřebitelé",
+        "potraviny"
+      ],
+      "da": [
+        "EU",
+        "Europa",
+        "Den Europæiske Union",
+        "Europa-Kommissionen",
+        "forvaltningsorgan",
+        "frihed",
+        "sundhed",
+        "forbrugere",
+        "mad",
+        "madvarer",
+        "fødevarer"
+      ],
+      "de": [
+        "EU",
+        "Europa",
+        "Europäische Union",
+        "Europäische Kommission",
+        "Exekutivagentur",
+        "Freiheit",
+        "Gesundheit",
+        "Verbraucher",
+        "Verbraucherinnen",
+        "Lebensmittel",
+        "Nahrungsmittel"
+      ],
+      "el": [
+        "ΕΕ",
+        "Europa",
+        "Ευρωπαϊκή Ένωση",
+        "Ευρωπαϊκή Επιτροπή",
+        "εκτελεστικός οργανισμός",
+        "ελευθερία",
+        "υγεία",
+        "καταναλωτές",
+        "τρόφιμα"
+      ],
+      "en": [
+        "EU",
+        "Europa",
+        "European Union",
+        "European Commission",
+        "Executive Agency",
+        "freedom",
+        "health",
+        "consumers",
+        "food"
+      ],
+      "es": [
+        "UE",
+        "EUROPA",
+        "Unión Europea",
+        "Comisión Europea",
+        "Agencia ejecutiva",
+        "libertad",
+        "sanidad",
+        "consumidores",
+        "alimentos"
+      ],
+      "et": [
+        "EL",
+        "Europa",
+        "Euroopa Liit",
+        "Euroopa Komisjon",
+        "Rakendusamet",
+        "vabadus",
+        "tervishoid",
+        "tarbijad",
+        "toit"
+      ],
+      "fi": [
+        "EU",
+        "Europa",
+        "Euroopan unioni",
+        "Euroopan komissio",
+        "Toimeenpanovirasto",
+        "vapaus",
+        "terveys",
+        "kansanterveys",
+        "kuluttajat",
+        "kuluttaja-asiat",
+        "elintarvikkeet"
+      ],
+      "fr": [
+        "UE",
+        "Europa",
+        "Union européenne",
+        "Commission européenne",
+        "Agence exécutive",
+        "liberté",
+        "santé",
+        "consommateurs",
+        "aliments",
+        "alimentation",
+        "nourriture"
+      ],
+      "ga": [
+        "AE",
+        "Europa",
+        "An tAontas Eorpach",
+        "An Coimisiún Eorpach",
+        "Gníomhaireacht Feidhmiúcháin",
+        "saoirse",
+        "sláinte",
+        "tomhaltóirí",
+        "bia"
+      ],
+      "hr": [
+        "EU",
+        "Europa",
+        "Europska unija",
+        "Europska komisija",
+        "Izvršna agencija",
+        "sloboda",
+        "zdravlje",
+        "potrošači",
+        "hrana"
+      ],
+      "hu": [
+        "EU",
+        "EUROPA",
+        "Európai Unió",
+        "Európai Bizottság",
+        "végrehajtó ügynökség",
+        "szabadság",
+        "egészségügy",
+        "fogyasztók",
+        "étel",
+        "táplálék",
+        "élelmiszer"
+      ],
+      "it": [
+        "UE",
+        "Europa",
+        "Unione europea",
+        "Commissione europea",
+        "agenzia esecutiva",
+        "libertà",
+        "salute",
+        "consumatori",
+        "alimenti, prodotti alimentari, generi alimentari"
+      ],
+      "lt": [
+        "ES",
+        "Europa",
+        "Europos Sąjunga",
+        "Europos Komisija",
+        "vykdomoji įstaiga",
+        "laisvė",
+        "sveikata",
+        "vartotojai",
+        "maistas"
+      ],
+      "lv": [
+        "ES",
+        "Europa",
+        "Eiropas Savienība",
+        "Eiropas Komisija",
+        "izpildaģentūra",
+        "brīvība",
+        "veselība",
+        "patērētāji",
+        "pārtika"
+      ],
+      "mt": [
+        "UE",
+        "Europa",
+        "Unjoni Ewropea",
+        "Kummissjoni Ewropea",
+        "Aġenzija Eżekuttiva",
+        "libertà",
+        "saħħa",
+        "konsumaturi",
+        "ikel"
+      ],
+      "nl": [
+        "EU",
+        "Europa",
+        "Europese Unie",
+        "Europese Commissie",
+        "Uitvoerend agentschap",
+        "vrijheid",
+        "gezondheidszorg",
+        "consumenten",
+        "voeding"
+      ],
+      "pl": [
+        "UE",
+        "Europa",
+        "Unia Europejska",
+        "Komisja Europejska",
+        "agencja wykonawcza",
+        "swoboda",
+        "zdrowie",
+        "klienci",
+        "konsumenci",
+        "żywność"
+      ],
+      "pt": [
+        "ue",
+        "europa",
+        "união europeia",
+        "comissão europeia",
+        "agência de execução",
+        "liberdade",
+        "saúde",
+        "consumidores",
+        "alimentos"
+      ],
+      "ro": [
+        "UE",
+        "europa",
+        "uniunea europeană",
+        "comisia europeană",
+        "agenție executivă",
+        "libertate",
+        "sănătate",
+        "consumatori",
+        "alimente"
+      ],
+      "sk": [
+        "EÚ",
+        "Europa",
+        "Európska únia",
+        "Európska komisia",
+        "Výkonná agentúra",
+        "sloboda",
+        "zdravie",
+        "spotrebitelia",
+        "potraviny"
+      ],
+      "sl": [
+        "EU",
+        "Europa",
+        "Evropska unija",
+        "Evropska komisija",
+        "izvajalska agencija",
+        "svoboda",
+        "zdravje",
+        "potrošniki",
+        "hrana"
+      ],
+      "sv": [
+        "eu",
+        "europa",
+        "europa.eu",
+        "europeiska unionen",
+        "europeiska kommissionen",
+        "eu-kommissionen",
+        "genomförandeorgan",
+        "frihet",
+        "hälsa",
+        "konsument",
+        "livsmedel"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "info1": {
+      "bg": [
+        "<p>Изпълнителната агенция за потребителите, здравеопазването и храните (CHAFEA) е наследник на Изпълнителната агенция за здравеопазване и въпроси, свързани с потребителите (EAHC), създадена от Европейската комисия през 2006 г., за да управлява</p>             <ul>                <li>програмата за обществено здравеопазване</li>                <li>програма „Потребители“ (от 2008 г.)</li>                <li>(от 2008 г.) инициативата „По-добро обучение за по-безопасни храни“ (от 2008 г.).</li>             </ul>             <p>Новата агенция започна работа на 1 януари 2014 г. Мандатът ѝ продължава до 2024 г.</p>             <p>Тя управлява:</p>             <ul>                <li>                   <span class=\"link-disabled\">програмата на ЕС в областта на здравеопазването</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Избор на превод за предходната връзка\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Избор на превод за предходната връзка\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">програма „Потребители“</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\"> инициативата „По-добро обучение за по-безопасни храни“</a>.</li>             </ul>             <p>Изпълнителната агенция изпълнява задачите, възложени ѝ от Генерална дирекция <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">„Здравеопазване и безопасност на храните“</a> на Европейската комисия.</p>             <p>Тя управлява отношенията с около 2800 бенефициери и външни изпълнители, работещи по близо 400 проекта/договори за услуги в областта на здравеопазването, защитата на потребителите и безопасността на храните. В агенцията със седалище в Люксембург работят около 50 служители.</p>             <p>                <strong>Основана</strong>: 2005 г.</p>             <p>                <strong>Директор</strong>: Luc BRIOL</p>"
+      ],
+      "cs": [
+        "<p>Výkonná agentura pro spotřebitele, zdraví a potraviny (CHAFEA) je nástupce Výkonné agentury pro zdraví a spotřebitele (EAHC), kterou zřídila Evropská komise v roce 2006, aby spravovala:</p>             <ul>                <li>program veřejného zdraví</li>                <li>program ochrany spotřebitele (od roku 2008)</li>                <li>iniciativu pro lepší vzdělávání v oblasti bezpečnosti potravin (od roku 2008).</li>             </ul>             <p>Agentura zahájila svou činnost 1. ledna 2014 a její mandát potrvá až do roku 2024.</p>             <p>CHAFEA spravuje:</p>             <ul>                <li>                   <span class=\"link-disabled\">program EU v oblasti zdraví</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Vybrat překlad k předcházejícímu odkazu\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Vybrat překlad k předcházejícímu odkazu\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">program ochrany spotřebitele</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">iniciativu pro lepší vzdělávání v oblasti bezpečnosti potravin</a>.</li>             </ul>             <p>Agentura plní úkoly, kterými ji pověřilo Generální ředitelství pro zdraví a <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">bezpečnost potravin</a> Evropské komise.</p>             <p>Spolupracuje s přibližně 2 800 příjemci a smluvními partnery, kteří pracují na téměř 400 projektech či zakázkách v oblasti zdraví, ochrany spotřebitele a bezpečnosti potravin. Nachází se v Lucemburku a má kolem 50 zaměstnanců.</p>             <p>                <strong>Založena</strong>: 2005</p>             <p>                <strong>Ředitel</strong>: Luc BRIOL</p>"
+      ],
+      "da": [
+        "<p>Forvaltningsorganet for Forbrugere, Sundhed og Fødevarer  (CHAFEA) er en efterfølger til Forvaltningsorganet for Sundhed og Forbrugere (EAHC), som Kommissionen nedsatte i 2006 for at forvalte</p>             <ul>                <li>sundhedsprogrammet</li>                <li>(fra 2008) forbrugerprogrammet</li>                <li>(fra 2008) initiativet til bedre uddannelse for sikrere fødevarer.</li>             </ul>             <p>CHAFEA påbegyndte arbejdet den 1. januar 2014. Dets mandat løber frem til 2024.</p>             <p>Det forvalter:</p>             <ul>                <li>                   <span class=\"link-disabled\">EU's sundhedsprogram</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Vælg oversættelse af det forrige link\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Vælg oversættelse af det forrige link\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">forbrugerprogrammet</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">initiativet til bedre uddannelse for sikrere fødevarer</a>.</li>             </ul>             <p>CHAFEA varetager de opgaver, det får tildelt af EU-Kommissionens Generaldirektorat for <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">Sundhed og Fødevaresikkerhed</a>.</p>             <p>Det varetager forbindelserne med ca. 2 800 modtagere og kontrahenter, der arbejder på næsten 400 projekter/servicekontrakter på områderne sundhed, forbrugerbeskyttelse og fødevaresikkerhed. Forvaltningsorganet har omkring 50 ansatte i Luxembourg.</p>             <p>           Oprettet: 2005</p>             <p>           Direktør: Luc Briol</p>"
+      ],
+      "de": [
+        "<p>Die Exekutivagentur für Verbraucher, Gesundheit und Lebensmittel (Chafea) ersetzt die Exekutivagentur für Gesundheit und Verbraucher (EAHC) und wurde 2006 von der Europäischen Kommission zur Verwaltung des</p>             <ul>                <li>Programms für öffentliche Gesundheit,</li>                <li>des Verbraucherprogramms (seit 2008) und</li>                <li>der Initiative „Bessere Schulung für sicherere Lebensmittel“ (seit 2008) eingerichtet.</li>             </ul>             <p>Die Agentur hat ihre Tätigkeit am 1. Januar 2014 aufgenommen, und ihr Mandat läuft bis 2024.</p>             <p>Sie verwaltet:</p>             <ul>                <li>                   <span class=\"link-disabled\">das EU-Gesundheitsprogramm</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Übersetzung für diesen Link wählen\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Übersetzung für diesen Link wählen\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>,           </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">das Verbraucherprogramm</a> und           </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">die Initiative „Bessere Schulung für sicherere Lebensmittel“</a>.</li>             </ul>             <p>Die Agentur nimmt Aufgaben wahr, die ihr von der <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_de.htm\" lang=\"de\">Generaldirektion Gesundheit und Lebensmittelsicherheit</a> der Europäischen Kommission übertragen werden.</p>             <p>Sie ist für die Beziehungen zu rund 2 800 Mittelempfängern und Auftragnehmern zuständig, die im Rahmen von etwa 400 Projekten/Dienstleistungsaufträgen in den Bereichen Gesundheit, Verbraucherschutz und Lebensmittelsicherheit tätig sind. Die Agentur hat ihren Sitz in Luxemburg und verfügt über rund 50 Beschäftigte.</p>             <p>                <strong>Gegründet</strong>: 2005</p>             <p>                <strong>Direktor</strong>: Luc BRIOL</p>"
+      ],
+      "el": [
+        "<p>Ο Εκτελεστικός Οργανισμός για τους Καταναλωτές, την Υγεία και τα Τρόφιμα (CHAFEA) αντικατέστησε τον Εκτελεστικό Οργανισμό για την Υγεία και τους Καταναλωτές (EAHC), ο οποίος συγκροτήθηκε από την Ευρωπαϊκή Επιτροπή το 2006 για να εφαρμόσει</p>             <ul>                <li>το πρόγραμμα για τη δημόσια υγεία</li>                <li>το πρόγραμμα για τους καταναλωτές (από το 2008)</li>                <li>την πρωτοβουλία «Καλύτερη κατάρτιση για ασφαλέστερα τρόφιμα» (από το 2008) .</li>             </ul>             <p>Ο CHAFEA άρχισε να λειτουργεί την 1η Ιανουαρίου 2014 και η εντολή που έχει λάβει ισχύει μέχρι το 2024.</p>             <p>Διαχειρίζεται:</p>             <ul>                <li>                   <span class=\"link-disabled\">το πρόγραμμα υγείας της ΕΕ</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">το πρόγραμμα για τους καταναλωτές</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">την πρωτοβουλία «Καλύτερη κατάρτιση για ασφαλέστερα τρόφιμα»</a>.</li>             </ul>             <p>Ο CHAFEA εκτελεί καθήκοντα που του έχουν ανατεθεί από τη γενική διεύθυνση Υγεία και <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">Ασφάλεια των Τροφίμων</a> της Ευρωπαϊκής Επιτροπής.</p>             <p>Διαχειρίζεται σχέσεις με 2.800 περίπου δικαιούχους και αναδόχους 400 περίπου συμβάσεων έργων/υπηρεσιών στους τομείς της υγείας, της προστασίας των καταναλωτών και της ασφάλειας των τροφίμων. Έχει 50 περίπου υπαλλήλους και η έδρα του βρίσκεται στο Λουξεμβούργο.</p>             <p>                <strong>Έτος ίδρυσης</strong>: 2005</p>             <p>                <strong>Διευθυντής</strong>: Luc BRIOL</p>"
+      ],
+      "en": [
+        "<p>The Consumers, Health and Food Executive Agency (CHAFEA) is a successor to the Executive Agency for Health and Consumers (EAHC), set up by the European Commission in 2006 to run</p>             <ul>                <li>the Public Health Programme</li>                <li>(from 2008) the Consumers Programme</li>                <li>(from 2008) the Better Training for Safer Food initiative.</li>             </ul>             <p>CHAFEA started work on 1 January 2014. Its mandate extends until 2024.</p>             <p>It administers:</p>             <ul>                <li>the <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                      lang=\"en\">EU Health Programme</a>                </li>                <li>the <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">Consumer Programme</a>                </li>                <li>the <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">Better Training for Safer Food initiative</a>.</li>             </ul>             <p>CHAFEA carries out duties assigned to it by the European Commission's <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">Directorate-General for Health and Food Safety</a>.</p>             <p>It manages relations with some 2800 beneficiaries and contractors working on nearly 400 projects/service contracts in the fields of health, consumer protection and food safety. It has about 50 staff members based in Luxembourg.</p>             <p>                <strong>Established</strong>: 2005</p>             <p>                <strong>Director</strong>: Luc BRIOL</p>"
+      ],
+      "es": [
+        "<p>La Agencia Ejecutiva de Consumidores, Salud y Alimentación (Chafea) es la sucesora de la Agencia Ejecutiva de Salud y Consumidores (EAHC), creada por la Comisión Europea en 2006 para ejecutar:</p>             <ul>                <li>el Programa de Salud Pública</li>                <li>el Programa de Consumidores (a partir de 2008)</li>                <li>la iniciativa de mejora de la formación para aumentar la seguridad alimentaria (a partir de 2008).</li>             </ul>             <p>La Chafea entró en funcionamiento el 1 de enero de 2014. Su mandato se extiende hasta 2024.</p>             <p>Gestiona:</p>             <ul>                <li>                   <span class=\"link-disabled\">el Programa de Salud de la UE</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Elija traducciones del enlace precedente\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Elija traducciones del enlace precedente\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">el Programa de Consumidores</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">la iniciativa de mejora de la formación para aumentar la seguridad alimentaria</a>.</li>             </ul>             <p>La Chafea desempeña los cometidos encomendados por la <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_es.htm\" lang=\"es\">Dirección General de Salud y Seguridad Alimentaria</a> de la Comisión Europea.</p>             <p>Dirige las relaciones con aproximadamente 2.800 beneficiarios y contratistas que trabajan en cerca de 400 proyectos o contratos de servicios en los ámbitos de la salud, la protección de los consumidores y la seguridad alimentaria. Cuenta con una plantilla de aproximadamente 50 trabajadores en Luxemburgo.</p>             <p>                <strong>Creación:</strong> 2005</p>             <p>                <strong>Director:</strong> Luc BRIOL</p>"
+      ],
+      "et": [
+        "<p>Tarbija-, Tervise- ja Toiduküsimuste Rakendusamet (CHAFEA) on Tervise ja Tarbijaküsimuste Rakendusameti (EAHC) õigusjärglane, mille komisjon asutas 2006. aastal, et rakendada järgmiseid programme:</p>             <ul>                <li>rahvatervise programm;</li>                <li>tarbijakaitseprogramm (alates 2008. aastast);</li>                <li>algatus „Parem koolitus ohutuma toidu nimel” (alates 2008. aastast).</li>             </ul>             <p>CHAFEA alustasid tööd 1. jaanuaril 2014. Selle volitused kehtivad kuni 2024. aastani.</p>             <p>Rakendusamet haldab:</p>             <ul>                <li>                   <span class=\"link-disabled\">ELi rahvatervise programmi</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Valige lingiga seotud tõlked\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Valige lingiga seotud tõlked\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>;           </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">tarbijaprogrammi</a>;           </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">algatust „Parem koolitus ohutuma toidu nimel” </a>.</li>             </ul>             <p>Amet täidab talle Euroopa Komisjoni tervise- ja <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">tarbijaküsimuste peadirektoraadi</a> poolt määratud ülesandeid.</p>             <p>Ta haldab suhteid umbes 2800 abisaaja ja töövõtjaga, hallates ligikaudu 400 projekti/teenuslepingut tervishoiu, tarbijakaitse ja toiduohutuse valdkondades. Luxembourg'is asuvas ametis töötab ligikaudu 50 inimest.</p>             <p>                <strong>Asutamisaasta</strong>: 2005</p>             <p>                <strong>Direktor</strong>: Luc BRIOL</p>"
+      ],
+      "fi": [
+        "<p>Kuluttaja-, terveys- ja elintarvikeasioiden toimeenpanovirasto (CHAFEA) korvaa entisen terveys- ja kuluttaja-asioiden toimeenpanoviraston, jonka komissio perusti vuonna 2006 hallinnoimaan</p>             <ul>                <li>kansanterveysalan toimintaohjelmaa</li>                <li>kuluttajaohjelmaa (vuodesta 2008 alkaen)</li>                <li>Koulutuksen parantaminen elintarvikkeiden turvallisuuden lisäämiseksi -aloitetta (vuodesta 2008 alkaen).</li>             </ul>             <p>CHAFEA aloitti toimintansa 1.1.2014. Sen toimikausi kestää vuoteen 2024.</p>             <p>Virasto hallinnoi</p>             <ul>                <li>                   <span class=\"link-disabled\">EU:n terveysohjelmaa</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Näytä edellisen linkin kieliversiot\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Näytä edellisen linkin kieliversiot\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">kuluttajaohjelmaa</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\"> Koulutuksen parantaminen elintarvikkeiden turvallisuuden lisäämiseksi -aloitetta </a>.</li>             </ul>             <p>CHAFEA työskentelee Euroopan komission terveys- ja <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">elintarviketurvallisuus pääosaston</a> alaisuudessa.</p>             <p>Virasto hoitaa suhteita noin 2 800 tuensaajaan ja alihankkijaan yli 400:ssa terveys-, kuluttajansuoja- ja elintarviketurvallisuusalan hankkeessa. Sen toimipaikka on Luxemburgissa, ja sen palveluksessa on noin 50 henkilöä.</p>             <p>                <strong>Perustettu:</strong> 2005</p>             <p>                <strong>Johtaja:</strong> Luc Briol</p>"
+      ],
+      "fr": [
+        "<p>L'Agence exécutive pour les consommateurs, la santé et l’alimentation (Consumers, Health and Food Executive Agency — CHAFEA) succède à l'Agence exécutive pour la santé et les consommateurs (Executive Agency for Health and Consumers — EAHC), mise en place par la Commission européenne en 2006 pour gérer:</p>             <ul>                <li>le programme de santé publique;</li>                <li>le programme «Consommateurs» (à partir de 2008);</li>                <li>l'initiative «Une meilleure formation pour des denrées alimentaires plus sûres» (à partir de 2008).</li>             </ul>             <p>Le mandat de la CHAFEA, qui a débuté ses travaux le 1er janvier 2014, s'étend jusqu'à 2024.</p>             <p>L'agence gère:</p>             <ul>                <li>                   <span class=\"link-disabled\">le programme de santé de l'UE</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Choisir les traductions du lien précédent\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Choisir les traductions du lien précédent\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>;           </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">le programme «Consommateurs»</a>;           </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">l'initiative «Une meilleure formation pour des denrées alimentaires plus sûres» </a>.</li>             </ul>             <p>La CHAFEA assume les missions qui lui sont confiées par la <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_fr.htm\" lang=\"fr\">direction générale de la santé et sécurité alimentaire</a> de la Commission européenne.</p>             <p>Elle entretient des relations avec quelque 2 800 bénéficiaires et contractants travaillant dans le cadre de près de 400 projets/marchés de services dans le domaine de la santé, de la protection des consommateurs et de la sécurité alimentaire. Elle dispose d'un effectif d'une cinquantaine de personnes établies à Luxembourg.</p>             <p>                <strong>Année de création</strong>: 2005</p>             <p>                <strong>Directeur</strong>: Luc BRIOL</p>"
+      ],
+      "ga": [
+        "<p>Is í an Ghníomhaireacht Feidhmiúcháin um Thomhaltóirí, um Shláinte agus um Bia a tháinig i gcomharbacht ar an nGníomhaireacht Feidhmiúcháin um Shláinte agus um Thomhaltóirí (EAHC), a bhunaigh an Coimisiún in 2006 chun na nithe seo a leanas a reáchtáil:</p>             <ul>                <li>an Clár Sláinte Poiblí</li>                <li>(ó 2008) an Clár Tomhaltóirí</li>                <li>(ó 2008) an tionscnamh Oiliúint Níos Fearr le haghaidh Bia Níos Sábháilte</li>             </ul>             <p>Chuaigh CHAFEA i mbun oibre an 1 Eanáir 2014. Tá sainordú aige go dtí 2024.</p>             <p>Déanann sé na nithe seo a leanas a riar:</p>             <ul>                <li>                   <span class=\"link-disabled\">Clár Sláinte an AE</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">an Clár Tomhaltóirí</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">an tionscnamh Oiliúint Níos Fearr le haghaidh Bia Níos Sábháilte</a>.</li>             </ul>             <p>Déanann CHAFEA dualgais atá sannta dó ag Ard-Stiúrthóireacht na <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">Sláinte agus na dTomhaltóirí</a> de chuid an Choimisiúin Eorpaigh.</p>             <p>Déanann sé bainistiú ar an gcaidreamh le tuairim is 2 800 tairbhí agus conraitheoir atá ag obair ar beagnach 400 tionscadal/conradh seirbhíse i réimsí na sláinte, na cosanta tomhaltóirí agus na sábháilteachta bia. Tá 50 ball foirne aige atá lonnaithe i Lucsamburg.</p>             <p>                <strong>Bliain a bhunaithe</strong>: 2005</p>             <p>                <strong>Stiúrthóir</strong>: Luc BRIOL</p>"
+      ],
+      "hr": [
+        "<p>Izvršna agencija za potrošače, zdravlje i hranu (CHAFEA) nasljednica je Izvršne agencije za zdravlje i potrošače (EAHC), koju je osnovala Europska komisija 2006. radi upravljanja</p>             <ul>                <li>programom javnog zdravlja</li>                <li>(od 2008.) programom za potrošače</li>                <li>(od 2008.) inicijativom „Bolja izobrazba za sigurniju hranu”.</li>             </ul>             <p>CHAFEA  je počela s radom 1. siječnja 2014., a mandat joj traje do 2024.</p>             <p>Agencija upravlja:</p>             <ul>                <li>                   <span class=\"link-disabled\">programom javnog zdravlja EU-a</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Odaberi prijevod prethodne poveznice\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Odaberi prijevod prethodne poveznice\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">programom za potrošače</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">inicijativom „Bolja izobrazba za sigurniju hranu”</a>.</li>             </ul>             <p>CHAFEA obavlja poslove koje joj je povjerila Glavna uprava za <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">zdravlje i sigurnost hrane</a> Europske komisije.</p>             <p>Upravlja odnosima s otprilike 2 800 korisnika i izvoditelja s kojima surađuje u okviru gotovo 400 projekata/ugovora o uslugama u područjima zdravlja, zaštite potrošača i sigurnosti hrane. U Agenciji radi oko 50 zaposlenika sa sjedištem u Luxembourgu.</p>             <p>                <strong>Godina osnivanja</strong>: 2005.</p>             <p>                <strong>Direktor</strong>: Luc BRIOL</p>"
+      ],
+      "hu": [
+        "<p>A Fogyasztó-, Egészség- és Élelmiszerügyi Végrehajtó Ügynökség (CHAFEA) elődje az Egészség- és Fogyasztóügyi Végrehajtó Ügynökség (EAHC) volt, melyet abból a célból hozott létre az Európai Bizottság 2006-ban, hogy működtesse:</p>             <ul>                <li>a népegészségügyi programot,</li>                <li>(2008-tól) a fogyasztóvédelmi programot, valamint</li>                <li>(ugyancsak 2008-tól) a „Jobb képzés a biztonságosabb élelmiszerekért” elnevezésű kezdeményezést.</li>             </ul>             <p>A Fogyasztó-, Egészség- és Élelmiszerügyi Végrehajtó Ügynökség (CHAFEA) 2014. január 1-jén kezdte meg működését. Megbízatása 2024-ig tart.</p>             <p>A CHAFEA működteti:</p>             <ul>                <li>                   <span class=\"link-disabled\">az EU népegészségügyi programját</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Az előző linken elérhető szöveg fordításai\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Az előző linken elérhető szöveg fordításai\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>,</li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">a fogyasztóvédelmi programot</a>, valamint</li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">a „Jobb képzés a biztonságosabb élelmiszerekért” elnevezésű kezdeményezést </a>.</li>             </ul>             <p>A CHAFEA az Európai Bizottság Egészségügy és <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">élelmiszer-biztonság Főigazgatósága</a> által ráruházott feladatokat látja el.</p>             <p>Mintegy 2800 kedvezményezettel és szerződő féllel áll kapcsolatban, akik közel 400 projekt, illetve szolgáltatási szerződés végrehajtását végzik az egészségügy, a fogyasztóvédelem és az élelmiszer-biztonság területén. Az ügynökség székhelye Luxembourgban található. Munkatársainak száma hozzávetőleg 50 fő.</p>             <p>                <strong>Alapítás időpontja</strong>: 2005</p>             <p>                <strong>Igazgató</strong>: Luc BRIOL</p>"
+      ],
+      "it": [
+        "<p>L'Agenzia esecutiva per i consumatori, la salute e la sicurezza alimentare (CHAFEA) è subentrata all'Agenzia esecutiva per la salute e i consumatori  (EAHC), istituita dalla Commissione europea nel 2006 per attuare:</p>             <ul>                <li>il programma per la salute pubblica</li>                <li>il programma per i consumatori (dal 2008 in poi)</li>                <li>l'iniziativa \"Migliorare la formazione per rendere più sicuri gli alimenti\" (dal 2008 in poi).</li>             </ul>             <p>La CHAFEA è diventata operativa il 1° gennaio 2014, con un mandato fino al 2024.</p>             <p>Si occupa di gestire:</p>             <ul>                <li>                   <span class=\"link-disabled\">il programma dell'UE per la salute</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Scegli le traduzioni del link precedente\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Scegli le traduzioni del link precedente\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">il programma per i consumatori</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">l'iniziativa \"Migliorare la formazione per rendere più sicuri gli alimenti </a> (Better Training for Safer Food).</li>             </ul>             <p>La CHAFEA svolge le funzioni che le sono state attribuite dalla <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_it.htm\" lang=\"it\">direzione generale per la Salute e sicurezza alimentare</a> della Commissione europea.</p>             <p>Gestisce le relazioni con circa 2800 beneficiari e collaboratori che portano avanti quasi 400 appalti di progetti / servizi nel campo della salute, della protezione dei consumatori e della sicurezza alimentare. Conta circa 50 dipendenti e ha sede a Lussemburgo.</p>             <p>                <strong>Anno di istituzione</strong>: 2014</p>             <p>                <strong>Direttore</strong>: Luc BRIOL</p>"
+      ],
+      "lt": [
+        "<p>Vartotojų, sveikatos ir maisto programų vykdomoji įstaiga (CHAFEA) tęsia Sveikatos ir vartotojų reikalų vykdomosios agentūros (EAHC) darbą. Šią agentūrą Europos Komisija 2006 m. įsteigė valdyti</p>             <ul>                <li>visuomenės sveikatos programai,</li>                <li>vartotojų programai (nuo 2008 m.),</li>                <li>iniciatyvai „Geresnis mokymas rūpinantis maisto sauga“ (nuo 2008 m.).</li>             </ul>             <p>CHAFEA pradėjo darbą 2014 m. sausio 1 d. Jai suteikti įgaliojimai iki 2024 m.</p>             <p>Ji administruoja:</p>             <ul>                <li>                   <span class=\"link-disabled\">ES sveikatos programą</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Pasirinkti šios nuorodos vertimus\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Pasirinkti šios nuorodos vertimus\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>,           </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">vartotojų programą</a>,           </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">iniciatyvą „Geresnis mokymas rūpinantis maisto sauga“</a>.</li>             </ul>             <p>CHAFEA vykdo jai Europos Komisijos Sveikata ir maisto <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">sauga generalinio direktorato</a> skirtas užduotis.</p>             <p>Ji palaiko ryšius su maždaug 2800 naudos gavėjų ir rangovų, dirbančių su beveik 400 projektų ir (arba) pagal paslaugų pirkimo sutartis sveikatos, vartotojų apsaugos ir maisto saugos srityse. Liuksemburge įsikūrusioje agentūroje dirba apie 50 darbuotojų.</p>             <p>                <strong>Įsteigta</strong> 2005 m.</p>             <p>                <strong>Direktorius</strong> Luc BRIOL</p>"
+      ],
+      "lv": [
+        "<p>Patērētāju, veselības un pārtikas izpildaģentūra (CHAFEA) ir pēctece Veselības un patērētāju izpildaģentūrai (EAHC), ko Eiropas Komisija izveidoja 2006. gadā, lai vadītu:</p>             <ul>                <li>sabiedrības veselības programmu,</li>                <li>(no 2008. gada) patērētāju programmu,</li>                <li>(no 2008. gada) iniciatīvu “Labāka apmācība nekaitīgai pārtikai”.</li>             </ul>             <p>Šī izpildaģentūra sāka darboties 2014. gada 1. janvārī. Tai piešķirtas pilnvaras uz laiku līdz 2024. gadam.</p>             <p>Tā pārvalda:</p>             <ul>                <li>                   <span class=\"link-disabled\">ES veselības programmu</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Izvēlieties saites tulkojumu\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Izvēlieties saites tulkojumu\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> ,           </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">patērētāju programmu</a>,           </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">iniciatīvu “Labāka apmācība nekaitīgai pārtikai”</a>.</li>             </ul>             <p>Izpildaģentūra pilda uzdevumus, ko tai uztic Eiropas Komisijas Veselība un pārtikas <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">nekaitīgums ģenerāldirektorāts</a>.</p>             <p>Tā uztur sakarus ar aptuveni 2800 finansējuma saņēmējiem un līgumslēdzējiem, kas īsteno gandrīz 400 projektus vai pakalpojumu līgumus tādās jomās kā veselība, patērētāju aizsardzība un pārtikas nekaitīgums. Aģentūra atrodas Luksemburgā, un tajā strādā aptuveni 50 darbinieku.</p>             <p>                <strong>Izveides gads</strong>: 2005</p>             <p>                <strong>Direktors</strong>: Liks BRIOLS (Luc BRIOL)</p>"
+      ],
+      "mt": [
+        "<p>L-Aġenzija Eżekuttiva għall-Konsumaturi, is-Saħħa u l-Ikel (CHAFEA) hija s-suċċessur tal-Aġenzija Eżekuttiva għas-Saħħa u l-Konsumaturi (EAHC), imwaqqfa mill-Kummissjoni Ewropea fl-2006 biex tmexxi</p>             <ul>                <li>i-Programm tas-Saħħa Pubblika</li>                <li>(mill-2008) il-Programm tal-Konsumaturi</li>                <li>(mill-2008) l-inizjattiva għat-Taħriġ Imtejjeb għal Iżjed Sikurezza fl-Ikel .</li>             </ul>             <p>CHAFEA bdiet topera fl-1 ta' Jannar 2014. Il-mandat tagħha huwa sal-2024.</p>             <p>Hija tamministra:</p>             <ul>                <li>                   <span class=\"link-disabled\">il-Programm għas-Saħħa tal-UE</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">il-Programm tal-Konsumaturi</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">l-inizjattiva għat-Taħriġ Imtejjeb għal Iżjed Sikurezza fl-Ikel</a>.</li>             </ul>             <p>CHAFEA twettaq id-dmirijiet assenjati lilha mid-Direttorat Ġenerali <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">għas-Saħħa u Sikurezza Alimentari</a> tal-Kummissjoni Ewropea.</p>             <p>Tmexxi r-relazzjonijiet ma’ madwar 2800 benefiċjarju u kuntrattur li jaħdmu fuq kważi 400 proġett jew kuntratt ta’ servizz fl-oqsma tas-saħħa, il-ħarsien tal-konsumatur u s-sikurezza fl-ikel. Għandha madwar 50 membri tal-persunal fil-Lussemburgu.</p>             <p>                <strong>Stabbilita</strong>: 2005</p>             <p>                <strong>Direttur</strong>: Luc BRIOL</p>"
+      ],
+      "nl": [
+        "<p>CHAFEA is de opvolger van het in 2006 opgericht Uitvoerend Agentschap voor gezondheid en consumenten (EAHC), dat verantwoordelijk was voor de uitvoering van:</p>             <ul>                <li>het volksgezondheidsprogramma</li>                <li>het consumentenprogramma (vanaf 2008)</li>                <li>het initiatief \"Betere opleiding voor veiliger voedsel\" (vanaf 2008)</li>             </ul>             <p>Op 1 januari 2014 is CHAFEA met zijn werkzaamheden begonnen. Het mandaat loopt tot 2014.</p>             <p>CHAFEA is belast met het beheer van:</p>             <ul>                <li>                   <span class=\"link-disabled\">het EU-gezondheidsprogramma</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Bekijk deze link in een andere taal\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Bekijk deze link in een andere taal\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">het consumentenprogramma</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">het initiatief \"Betere opleiding voor veiliger voedsel\"</a>                </li>             </ul>             <p>CHAFEA wordt aangestuurd door het directoraat-generaal <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">Gezondheid en Voedselveiligheid</a> van de Europese Commissie.</p>             <p>Het beheert de contacten met 2800 begunstigden en contractanten die betrokken zijn bij bijna 400 projecten/dienstverleningscontracten op het gebied van gezondheid, consumentenbescherming en voedselveiligheid. Het agentschap telt ongeveer 50 medewerkers en is gevestigd in Luxemburg.</p>             <p>                <strong>Opgericht</strong>: 2005</p>             <p>                <strong>Directeur</strong>: Luc Briol</p>"
+      ],
+      "pl": [
+        "<p>Agencja Wykonawcza ds. Konsumentów, Zdrowia i Żywności zastąpiła Agencję Wykonawczą ds. Zdrowia i Konsumentów, ustanowioną przez Komisję Europejską w 2006 r. w celu zarządzania</p>             <ul>                <li>programem w dziedzinie zdrowia publicznego</li>                <li>programem działań na rzecz konsumentów (od 2008 r.)</li>                <li>programem „Lepsze szkolenia na rzecz bezpieczniejszej żywności” (od 2008 r.).</li>             </ul>             <p>Agencja Wykonawcza ds. Konsumentów, Zdrowia i Żywności rozpoczęła działalność 1 stycznia 2014 r. Jej mandat wygasa w 2024 r.</p>             <p>Odpowiada ona za zarządzanie:</p>             <ul>                <li>                   <span class=\"link-disabled\">programem UE w dziedzinie zdrowia</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Wybierz wersję językową tego linka\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Wybierz wersję językową tego linka\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">programem działań na rzecz konsumentów</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">programem „Lepsze szkolenia na rzecz bezpieczniejszej żywności</a>.</li>             </ul>             <p>Agencja wykonuje zadania powierzone jej przez <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_pl.htm\" lang=\"pl\">Dyrekcję Generalną Komisji Europejskiej ds. Zdrowia i bezpieczeństwo żywności </a>.</p>             <p>Współpracuje z około 2800 beneficjentami i wykonawcami zaangażowanymi w realizację blisko 400 projektów/umów o świadczenie usług w dziedzinie zdrowia, ochrony konsumentów i bezpieczeństwa żywności. Agencja ma siedzibę w Luksemburgu i zatrudnia około 50 osób.</p>             <p>                <strong>Rok założenia</strong>: 2005</p>             <p>                <strong>Dyrektor</strong>: Luc BRIOL</p>"
+      ],
+      "pt": [
+        "<p>A Agência de Execução para os Consumidores, a Saúde e a Alimentação (CHAFEA) é a sucessora da Agência de Execução para a Saúde e os Consumidores (EAHC), que foi instituída pela Comissão Europeia em 2006 para apoiar a execução dos seguintes programas:</p>             <ul>                <li>programa «Saúde Pública» da UE</li>                <li>programa «Consumidores» (a partir de 2008)</li>                <li>iniciativa «Melhor formação para uma maior segurança dos alimentos» (a partir de 2008)</li>             </ul>             <p>A Agência de Execução para os Consumidores, a Saúde e a Alimentação (CHAFEA) entrou em funcionamento em 1 de janeiro de 2014  com um mandato que se prolonga até 2024.</p>             <p>Esta Agência é responsável pela gestão dos seguintes programas:</p>             <ul>                <li>                   <span class=\"link-disabled\">programa «Saúde UE»</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Traduções da ligação anterior\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Traduções da ligação anterior\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">programa «Consumidores»</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">iniciativa «Melhor formação para uma maior segurança dos alimentos»</a>                </li>             </ul>             <p>Chafea desempenha tarefas que lhe são confiadas pela Direcção-Geral da <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">Saúde e da Segurança Alimentar</a>.</p>             <p>A agência constitui o elo de ligação com cerca de 2800 beneficiários e contratantes que trabalham no quadro de perto de 400 projetos/contratos de prestação de serviços nos domínios da saúde, da proteção dos consumidores e da segurança alimentar. Com sede no Luxemburgo, a Agência de Execução para os Consumidores, a Saúde e a Alimentação conta com cerca de 50 efetivos.</p>             <p>                <strong>Criação</strong>: 2005</p>             <p>                <strong>Diretor</strong>: Luc BRIOL</p>"
+      ],
+      "ro": [
+        "<p>Agenția Executivă pentru Consumatori, Sănătate și Alimente (CHAFEA) este succesoarea Agenției Executive pentru Sănătate și Consumatori (EAHC), înființată de Comisia Europeană în 2006 pentru a gestiona</p>             <ul>                <li>programul în domeniul sănătății publice</li>                <li>(din 2008) programul privind protecția consumatorilor</li>                <li>(din 2008) inițiativa „O formare mai bună pentru o hrană mai sigură”.</li>             </ul>             <p>CHAFEA și-a început activitatea la 1 ianuarie 2014 și are un mandat de funcționare până în 2024.</p>             <p>Agenția gestionează:</p>             <ul>                <li>                   <span class=\"link-disabled\">programul UE în domeniul sănătății</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Traducerile linkului anterior\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Traducerile linkului anterior\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">programul privind protecția consumatorilor</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">inițiativa „O formare mai bună pentru o hrană mai sigură”</a>.</li>             </ul>             <p>CHAFEA îndeplinește sarcinile care îi sunt delegate de <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_ro.htm\" lang=\"ro\">Direcția Generală Sănătate și Siguranță Alimentară</a> a Comisiei Europene.</p>             <p>Agenția gestionează relațiile cu aproximativ 2 800 de beneficiari și contractanți și lucrează la aproximativ 400 de proiecte/contracte de servicii în domeniul sănătății, al protecției consumatorilor și al siguranței alimentelor. Are aproximativ 50 de angajați și are sediul la Luxemburg.</p>             <p>                <strong>Data înființării:</strong> 2005</p>             <p>                <strong>Director</strong>: Luc BRIOL</p>"
+      ],
+      "sk": [
+        "<p>Výkonná agentúra pre spotrebiteľov, zdravie a potraviny (CHAFEA) nahradila Výkonnú agentúru pre zdravie a spotrebiteľov (EAHC), ktorú v roku 2006 zriadila Európska komisia, aby riadila</p>             <ul>                <li>program verejného zdravia,</li>                <li>(od roku 2008) Spotrebiteľský program,</li>                <li>(od roku 2008) iniciatívu s názvom Lepšia odborná príprava pre bezpečnejšie potraviny.</li>             </ul>             <p>Agentúra CHAFEA začala svoju činnosť 1. januára 2014. Jej mandát siaha až do roku 2024.</p>             <p>Spravuje:</p>             <ul>                <li>                   <span class=\"link-disabled\">program EÚ v oblasti zdravia</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Vybrať preklady k predchádzajúcemu odkazu\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>,           </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">Spotrebiteľský program</a>,           </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">iniciatívu Lepšia odborná príprava pre bezpečnejšie potraviny</a>.</li>             </ul>             <p>Agentúra CHAFEA vykonáva úlohy, ktoré jej zveruje Generálne riaditeľstvo Európskej komisie pre <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">zdravie a bezpečnosť potravín</a>.</p>             <p>Riadi vzťahy s približne 2 800 príjemcami a dodávateľmi v súvislosti s takmer štyrmi stovkami projektov/zákaziek na služby v oblasti zdravia, ochrany spotrebiteľa a bezpečnosti potravín. Sídli v Luxemburgu a má takmer 50 zamestnancov.</p>             <p>                <strong>Dátum vzniku</strong>: 2005</p>             <p>                <strong>Riaditeľ</strong>: Luc BRIOL</p>"
+      ],
+      "sl": [
+        "<p>Izvajalska agencija za potrošnike, zdravje in hrano je nasledila Izvajalsko agencijo za zdravje in potrošnike, ki je bila ustanovljena leta 2006 za izvajanje</p>             <ul>                <li>programa javnega zdravja,</li>                <li>programa varstva potrošnikov (od leta 2008) in</li>                <li>pobude Boljše usposabljanje za varnejšo hrano (od leta 2008).</li>             </ul>             <p>Agencija je začela delovati 1. januarja 2014, njen mandat pa bo trajal do leta 2024.</p>             <p>Agencija upravlja:</p>             <ul>                <li>                   <span class=\"link-disabled\">program javnega zdravja EU</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Seznam prevodov predhodne povezave\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Seznam prevodov predhodne povezave\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>,</li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">program varstva potrošnikov</a> in</li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">pobudo Boljše usposabljanje za varnejšo hrano</a>.</li>             </ul>             <p>Agencija izvaja naloge, ki ji jih je podelil Generalni direktorat za <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">zdravje in varnost hrane</a> pri Evropski komisiji.</p>             <p>Ureja tudi odnose z okoli 2 800 prejemniki sredstev in izvajalci, ki sodelujejo pri več kot 400 projektih/naročilih storitev na področju zdravja, varstva potrošnikov in varnosti hrane. Agencija ima sedež v Luxembourgu in približno 50 zaposlenih.</p>             <p>                <strong>Ustanovitev</strong>: 2005</p>             <p>                <strong>Direktor</strong>: Luc BRIOL</p>"
+      ],
+      "sv": [
+        "<p>Genomförandeorganet för konsument-, hälso- och livsmedelsfrågor (Chafea) tar över efter genomförandeorganet för hälso- och konsumentfrågor (EAHC), som EU-kommissionen inrättade 2006 för att sköta</p>             <ul>                <li>folkhälsoprogrammet</li>                <li>konsumentprogrammet (från 2008)</li>                <li>initiativet om bättre utbildning för säkrare livsmedel (från 2008).</li>             </ul>             <p>Chafea inledde sin verksamhet den 1 januari 2014. Organets mandat löper till 2024.</p>             <p>Det ska genomföra</p>             <ul>                <li>                   <span class=\"link-disabled\">EU:s folkhälsoprogram</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Visa översättning av föregående länk\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Visa översättning av föregående länk\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/health/programme/policy/2008-2013/index_en.htm\"                               lang=\"en\"                               class=\"lang\"                               hreflang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>                </li>                <li>                   <a href=\"http://ec.europa.eu/consumers/eu_consumer_policy/financial-programme/index_en.htm\"                      lang=\"en\">programmet för konsumentskydd</a>                </li>                <li>                   <a href=\"http://ec.europa.eu/food/training_strategy/index_en.htm\" lang=\"en\">initiativet Bättre utbildning för säkrare livsmedel</a>.</li>             </ul>             <p>Chafea lyder under kommissionens generaldirektorat för <a href=\"http://ec.europa.eu/dgs/health_food-safety/index_en.htm\" lang=\"en\">hälso- och livsmedelssäkerhet</a>.</p>             <p>Organet sköter kontakterna med runt 2 800 stödmottagare och uppdragstagare som arbetar med nästan 400 projekt och tjänster inom hälsa, konsumentskydd och livsmedelssäkerhet. Det har sitt säte i Luxemburg och sysselsätter cirka 50 personer.</p>             <p>                <strong>Inrättat</strong>: 2005</p>             <p>                <strong>Direktör</strong>: Luc Briol</p>"
+      ]
+    },
+    "left_sub_menu": {
+      "und": [
+        true
+      ]
+    }
+  }
+}

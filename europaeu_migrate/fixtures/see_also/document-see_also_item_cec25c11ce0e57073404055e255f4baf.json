@@ -1,0 +1,351 @@
+{
+    "_id": "see_also_item_cec25c11ce0e57073404055e255f4baf",
+    "type": "see_also_item",
+    "default_language": "en",
+    "languages": [
+        "hr",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "lt",
+        "fr",
+        "lv",
+        "ga",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "hu",
+        "sk",
+        "it",
+        "sl",
+        "bg",
+        "sv",
+        "cs",
+        "da",
+        "de",
+        "el"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Договори за ЕС",
+                "Разширяване",
+                "Исторически архиви на Европейския съюз"
+            ],
+            "cs": [
+                "Smlouvy EU",
+                "Rozšíření EU",
+                "Historický archiv Evropské unie"
+            ],
+            "da": [
+                "EU-traktater",
+                "Udvidelse",
+                "EU's historiske arkiver"
+            ],
+            "de": [
+                "EU-Verträge",
+                "Erweiterung",
+                "Die historischen Archive der Europäischen Union"
+            ],
+            "el": [
+                "Συνθήκες της ΕΕ",
+                "Διεύρυνση",
+                "Ιστορικά αρχεία της Ευρωπαϊκής Ένωσης"
+            ],
+            "en": [
+                "EU treaties",
+                "Enlargement",
+                "Historical Archives of the European Union"
+            ],
+            "es": [
+                "Tratados de la UE",
+                "Ampliación",
+                "Archivos Históricos de la Unión Europea"
+            ],
+            "et": [
+                "ELi aluslepingud",
+                "Laienemine",
+                "Euroopa Liidu ajaloolised arhiivid"
+            ],
+            "fi": [
+                "EU:n perussopimukset",
+                "Laajentuminen",
+                "Euroopan unionin historiallinen arkisto"
+            ],
+            "fr": [
+                "Traités européens",
+                "Élargissement",
+                "Archives historiques de l'Union européenne"
+            ],
+            "ga": [
+                "Conarthaí AE",
+                "Méadú",
+                "Cartlann Staire an Aontais Eorpaigh"
+            ],
+            "hr": [
+                "EU ugovori",
+                "Proširenje",
+                "Povijesni arhivi Europske unije"
+            ],
+            "hu": [
+                "Az uniós szerződések",
+                "Bővítés",
+                "Az Európai Unió Történeti Levéltára"
+            ],
+            "it": [
+                "Trattati dell'UE",
+                "Allargamento",
+                "Archivi storici dell'Unione europea"
+            ],
+            "lt": [
+                "ES sutartys",
+                "ES plėtra",
+                "Istoriniai Europos Sąjungos archyvai"
+            ],
+            "lv": [
+                "ES līgumi",
+                "ES paplašināšanās",
+                "Eiropas Savienības vēstures arhīvi"
+            ],
+            "mt": [
+                "Trattati tal-UE",
+                "Tkabbir",
+                "Arkivji Storiċi tal-Unjoni Ewropea"
+            ],
+            "nl": [
+                "EU-verdragen",
+                "Uitbreiding van de EU",
+                "Historische archieven van de Europese Unie"
+            ],
+            "pl": [
+                "Traktaty UE",
+                "Rozszerzenie",
+                "Archiwa Historyczne Unii Europejskiej"
+            ],
+            "pt": [
+                "Tratados da UE",
+                "Alargamento",
+                "Arquivo histórico da UE"
+            ],
+            "ro": [
+                "Tratatele UE",
+                "Extindere",
+                "Arhivele istorice ale Uniunii Europene"
+            ],
+            "sk": [
+                "Zmluvy EÚ",
+                "Rozšírenie",
+                "Historické archívy Európskej únie"
+            ],
+            "sl": [
+                "Pogodbe EU",
+                "Širitev",
+                "Zgodovinski arhiv Evropske unije"
+            ],
+            "sv": [
+                "EU-fördragen",
+                "Utvidgningen",
+                "EU:s historiska arkiv"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_bg.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_bg.htm",
+                "http://europa.eu/nolink"
+            ],
+            "cs": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_cs.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_cs.htm",
+                "http://europa.eu/nolink"
+            ],
+            "da": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_da.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_da.htm",
+                "http://europa.eu/nolink"
+            ],
+            "de": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_de.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_de.htm",
+                "http://europa.eu/nolink"
+            ],
+            "el": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_el.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_el.htm",
+                "http://europa.eu/nolink"
+            ],
+            "en": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_en.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_en.htm",
+                "http://www.eui.eu/Research/HistoricalArchivesOfEU/Index.aspx"
+            ],
+            "es": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_es.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_es.htm",
+                "http://europa.eu/nolink"
+            ],
+            "et": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_et.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_et.htm",
+                "http://europa.eu/nolink"
+            ],
+            "fi": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_fi.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_fi.htm",
+                "http://europa.eu/nolink"
+            ],
+            "fr": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_fr.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_fr.htm",
+                "http://europa.eu/nolink"
+            ],
+            "ga": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_ga.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_ga.htm",
+                "http://europa.eu/nolink"
+            ],
+            "hr": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_hr.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_en.htm",
+                "empty"
+            ],
+            "hu": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_hu.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_hu.htm",
+                "http://europa.eu/nolink"
+            ],
+            "it": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_it.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_it.htm",
+                "http://europa.eu/nolink"
+            ],
+            "lt": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_lt.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_lt.htm",
+                "http://europa.eu/nolink"
+            ],
+            "lv": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_lv.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_lv.htm",
+                "http://europa.eu/nolink"
+            ],
+            "mt": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_mt.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_mt.htm",
+                "http://europa.eu/nolink"
+            ],
+            "nl": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_nl.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_nl.htm",
+                "http://europa.eu/nolink"
+            ],
+            "pl": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_pl.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_pl.htm",
+                "http://europa.eu/nolink"
+            ],
+            "pt": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_pt.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_pt.htm",
+                "http://europa.eu/nolink"
+            ],
+            "ro": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_ro.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_ro.htm",
+                "http://europa.eu/nolink"
+            ],
+            "sk": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_sk.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_sk.htm",
+                "http://europa.eu/nolink"
+            ],
+            "sl": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_sl.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_sl.htm",
+                "http://europa.eu/nolink"
+            ],
+            "sv": [
+                "http://europa.eu/eu-law/decision-making/treaties/index_sv.htm",
+                "http://europa.eu/legislation_summaries/enlargement/index_sv.htm",
+                "http://europa.eu/nolink"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Историята на Европейския съюз - 1950 r."
+            ],
+            "cs": [
+                "Dějiny Evropské unie - 1950"
+            ],
+            "da": [
+                "Den Europæiske Unions historie - 1950"
+            ],
+            "de": [
+                "Die Geschichte der Europäischen Union - 1950"
+            ],
+            "el": [
+                "Η ιστορία της Ευρωπαϊκής Ένωσης - 1950"
+            ],
+            "en": [
+                "The history of the European Union - 1950"
+            ],
+            "es": [
+                "La Historia de la Unión Europea - 1950"
+            ],
+            "et": [
+                "Euroopa Liidu ajalugu - 1950"
+            ],
+            "fi": [
+                "Euroopan unionin historia - 1950"
+            ],
+            "fr": [
+                "L'histoire de l'Union européenne - 1950"
+            ],
+            "ga": [
+                "Stair an Aontais Eorpaigh - 1950"
+            ],
+            "hr": [
+                "Povijest Europske unije - 1950."
+            ],
+            "hu": [
+                "Az Európai Unió története - 1950"
+            ],
+            "it": [
+                "La Storia dell'Unione europea - 1950"
+            ],
+            "lt": [
+                "Europos Sąjungos istorija"
+            ],
+            "lv": [
+                "Eiropas Savienības vēsture - 1950"
+            ],
+            "mt": [
+                "L-Istorja tal-Unjoni Ewropea - 1950"
+            ],
+            "nl": [
+                "De geschiedenis van de Europese Unie - 1950"
+            ],
+            "pl": [
+                "Historia Unii Europejskiej - 1950"
+            ],
+            "pt": [
+                "A história da União Europeia - 1950"
+            ],
+            "ro": [
+                "Istoria Uniunii Europene - 1950"
+            ],
+            "sk": [
+                "História Európskej únie - 1950"
+            ],
+            "sl": [
+                "Zgodovina Evropske unije - 1950"
+            ],
+            "sv": [
+                "Europeiska unionens historia - 1950"
+            ]
+        }
+    }
+}

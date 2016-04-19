@@ -1,0 +1,340 @@
+{
+  "_id": "080126248e07731b",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e07731b",
+        "080126248e07731b",
+        "080126248e07731b",
+        "080126248e07731b",
+        "080126248e07731b",
+        "080126248e07731b",
+        "080126248e07731b",
+        "080126248e07731b",
+        "080126248e07731b",
+        "080126248e07731b"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска централна банка"
+      ],
+      "cs": [
+        "Evropská centrální banka"
+      ],
+      "da": [
+        "Den Europæiske Centralbank"
+      ],
+      "de": [
+        "Europäische Zentralbank"
+      ],
+      "el": [
+        "Ευρωπαϊκή Κεντρική Τράπεζα"
+      ],
+      "en": [
+        "European Central Bank"
+      ],
+      "es": [
+        "Banco Central Europeo"
+      ],
+      "et": [
+        "Euroopa Keskpank"
+      ],
+      "fi": [
+        "Euroopan keskuspankki"
+      ],
+      "fr": [
+        "Banque centrale européenne"
+      ],
+      "ga": [
+        "An Banc Ceannais Eorpach"
+      ],
+      "hr": [
+        "Europska središnja banka"
+      ],
+      "hu": [
+        "Európai Központi Bank"
+      ],
+      "it": [
+        "Banca centrale europea"
+      ],
+      "lt": [
+        "Europos Centrinis Bankas"
+      ],
+      "lv": [
+        "Eiropas Centrālā banka"
+      ],
+      "mt": [
+        "il-Bank Ċentrali Ewropew"
+      ],
+      "nl": [
+        "Europese Centrale Bank"
+      ],
+      "pl": [
+        "Europejski Bank Centralny"
+      ],
+      "pt": [
+        "Banco Central Europeu"
+      ],
+      "ro": [
+        "Banca Centrală Europeană"
+      ],
+      "sk": [
+        "Európska centrálna banka"
+      ],
+      "sl": [
+        "Evropska centralna banka"
+      ],
+      "sv": [
+        "Europeiska centralbanken"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_central_bank.jpg",
+        null
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Sonnemannstrasse 20</p> <p>DE-60314 Frankfurt am Main</p> <p>Deutschland</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+49 69 13 44 0"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+49 69 13 44 60 00"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "http://www.ecb.europa.eu/home/contacts/html/index.en.html"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact"
+      ]
+    },
+    "visit": {
+      "bg": [
+        "<p>Вид посещение: 2 вида информационни сесии, обиколка на сградата в строеж</p> <p>Минимален размер на групата: 20 души (по-малки групи могат да се присъединят към по-голяма група)</p> <p>Изискване за предварителна резервация: 3 месеца</p> <p>Минимална възраст на посетителите: 18 години</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.bg.html\">Посетете Европейската централна банка</a></p>"
+      ],
+      "cs": [
+        "<p>Typ návštěvy: 2 typy informačních prohlídek, návštěva staveniště nového sídla ECB</p> <p>Minimální velikost skupiny: 20 osob (menší skupiny se mohou připojit k větší skupině)</p> <p>Povinná rezervace: 3 měsíce předem</p> <p>Minimální věk návštěvníků: 18 let</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.cs.html\">Evropská centrální banka – návštěvy pro veřejnost</a></p>"
+      ],
+      "da": [
+        "<p>Former for besøg: 2 former for informationsbesøg, rundvisning på byggeplads</p> <p>Minimumstørrelse på gruppe: 20 personer (mindre grupper kan slutte sig til større grupper)</p> <p>Kram om forudbestilling: 3 måneder</p> <p>Minimumsalder på besøgende: 18 år</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.da.html\">Besøg Den Europæiske Centralbank</a></p>"
+      ],
+      "de": [
+        "<p>Art des Besuchs: Zwei Arten von Informationsbesuchen, Baustellenführung</p> <p>Mindestteilnehmerzahl: 20 Personen (kleinere Gruppen können sich größeren anschließen)</p> <p>Anmeldung: Drei Monate im Voraus</p> <p>Mindestalter der Besucher: 18 Jahre</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.de.html\">Besuchen Sie die Europäische Zentralbank</a></p>"
+      ],
+      "el": [
+        "<p>Είδη επισκέψεων: 2 είδη ενημερωτικών επισκέψεων, ξενάγηση στο εργοτάξιο κατασκευής των νέων εγκαταστάσεων</p> <p>Ελάχιστο μέγεθος ομάδας επισκεπτών: 20 άτομα (οι μικρότερες ομάδες μπορούν να ενσωματωθούν σε μια μεγαλύτερη)</p> <p>Υποχρέωση κράτησης: 3 μήνες νωρίτερα</p> <p>Κατώτατο όριο ηλικίας επισκεπτών: 18 ετών</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.el.html\">Επισκεφθείτε την Ευρωπαϊκή Κεντρική Τράπεζα</a></p>"
+      ],
+      "en": [
+        "<p>Type of visit: 2 types of information session, tour of construction site</p> <p>Minimum size of group: 20 people (smaller groups can join a larger one)</p> <p>Advance booking requirement: 3 months</p> <p>Minimum age of visitors: 18 years old</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.en.html\">Visit the European Central Bank</a></p>"
+      ],
+      "es": [
+        "<p>Tipo de visita: Dos tipos de visitas de información; visita a las obras de la nueva sede</p> <p>Tamaño mínimo del grupo: 20 personas (los grupos más pequeños pueden unirse a otro más grande)</p> <p>Plazo mínimo para hacer la solicitud: 3 meses</p> <p>Edad mínima de los visitantes: 18 años</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.es.html\">Visitas al Banco Central Europeo</a></p>"
+      ],
+      "et": [
+        "<p>Külastuste liigid: Kahte liiki teabekülastused, ringkäik ehitusel</p> <p>Minimaalne rühma suurus: 20 inimest (väiksemad rühmad võivad suurematega liituda)</p> <p>Kohustus eelnevalt registreerida: 3 kuud ette</p> <p>Minimaalne külastajate vanus: 18 aastat</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.et.html\">Külastage Euroopa Keskpanka</a></p>"
+      ],
+      "fi": [
+        "<p>Vierailutyypit: kaksi erilaista esittelytilaisuutta, kierros rakennustyömaalla</p> <p>Ryhmän vähimmäiskoko: 20 henkeä (pienemmät ryhmät voivat liittyä suurempaan)</p> <p>Pakollinen etukäteisvaraus: 3 kuukautta etukäteen</p> <p>Vierailijoiden vähimmäisikä: 18 vuotta</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.fi.html\">Vierailu Euroopan keskuspankissa</a></p>"
+      ],
+      "fr": [
+        "<p>Type de visite: 2 types de séances d'information, visite guidée du bâtiment</p> <p>Taille minimale des groupes: 20 personnes (les groupes plus petits peuvent se joindre à un groupe plus important)</p> <p>Délai de réservation: 3 mois</p> <p>Âge minimum des visiteurs: 18 ans</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.fr.html\">Visiter la Banque centrale européenne</a></p>"
+      ],
+      "ga": [
+        "<p>Cineál cuairte: 2 chineál seisiún eolais, cuairt ar an láithreán tógála</p> <p>Íosmhéid an ghrúpa: 20 duine (is féidir le grúpa níos lú dul in éineacht le grúpa níos mó)</p> <p>Riachtanas réamháirithinte: 3 mhí</p> <p>Aois íosta na gcuairteoirí: 18 mbliana d'aois</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.en.html\">Tabhair cuairt ar an mBanc Ceannais Eorpach</a></p>"
+      ],
+      "hr": [
+        "<p>Vrsta posjeta: 2 vrste informativnih sastanaka, razgledavanje gradilišta</p> <p>Minimalna veličina skupine: 20 osoba (male se skupine mogu pridružiti većima)</p> <p>Obvezna prethodna rezervacija: 3 mjeseca</p> <p>Minimalna dob posjetitelja: 18 godina</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.en.html\">Posjetite Europsku središnju banku</a></p>"
+      ],
+      "hu": [
+        "<p>Látogatás típusa: 2 típusú információs látogatás, valamint az új székház építési területének megtekintése idegenvezetővel</p> <p>Csoport minimális létszáma: 20 fő (a kisebb csoportok csatlakozhatnak más, nagyobb csoportokhoz)</p> <p>Előzetes bejelentkezés: 3 hónappal a látogatás tervezett időpontja előtt</p> <p>Látogatók alsó korhatára: 18 év</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.hu.html\">Látogatás az Európai Központi Bankban</a></p>"
+      ],
+      "it": [
+        "<p>Tipo di visita: Due tipi di sessioni informative, visita del cantiere</p> <p>Numero minimo di partecipanti: 20 persone (i gruppi più piccoli possono unirsi a un gruppo più numeroso)</p> <p>Prenotazione: 3 mesi prima</p> <p>Età minima dei visitatori: 18 anni</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.it.html\">Visitate la Banca centrale europea</a></p>"
+      ],
+      "lt": [
+        "<p>Apsilankymo pobūdis: 2 rūšių informacinės paskaitos, ekskursija po pastatą</p> <p>Minimalus grupės dydis: 20 asmenų (mažesnės grupės gali prisijungti prie didesnių)</p> <p>Prieš kiek laiko būtina susitarti dėl apsilankymo?: Prieš 3 mėnesius</p> <p>Minimalus lankytojų amžius: 18 metų</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.lt.html\">Apsilankykite Europos Centriniame Banke</a></p>"
+      ],
+      "lv": [
+        "<p>Apmeklējuma veids: 2 informatīvo apmeklējumu veidi, būvlaukuma apmeklējums</p> <p>Minimālais grupas lielums: 20 personas (mazākas grupas var pievienoties lielākai)</p> <p>Iepriekšēja pieteikšanās: 3 mēnešus iepriekš</p> <p>Apmeklētāju minimālais vecums: 18 gadi</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.lv.html\">Eiropas Centrālās bankas apmeklējums</a></p>"
+      ],
+      "mt": [
+        "<p>Tip ta’ żjara: 2 tipi ta' sessjoni ta' informazzjoni, żjara tas-sit ta' kostruzzjoni</p> <p>Daqs minimu tal-grupp: 20 persuna (gruppi iżgħar jistgħu jingħaqdu ma' wieħed ikbar)</p> <p>Rekwiżit tar-Riżervazzjoni bil-quddiem: Ħmistax-il (3-il) xahar</p> <p>L-età minima tal-viżitaturi: 18-il sena</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.mt.html\">Żur il-Bank Ċentrali Ewropew</a></p>"
+      ],
+      "nl": [
+        "<p>Soort bezoek: 2 soorten voorlichtingsbezoeken, rondleiding over het bouwterrein</p> <p>Groepsgrootte: Minimaal 20 personen (kleinere groepen moeten zich aansluiten bij grotere)</p> <p>Reservering: Minimaal 3 maanden van tevoren</p> <p>Minimumleeftijd: 18 jaar</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.nl.html\">Bezoek de Europese Centrale Bank</a></p>"
+      ],
+      "pl": [
+        "<p>Rodzaj wizyty: 2 rodzaje sesji informacyjnych, zwiedzanie nowej siedziby w budowie</p> <p>Minimalna wielkość grupy: 20 osób (mniejsze grupy mogą dołączyć do większych)</p> <p>Wymóg rezerwacji: 3 miesiące wcześniej</p> <p>Minimalny wiek odwiedzających: 18 lat</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.pl.html\">Wizyty w Europejskim Banku Centralnym</a></p>"
+      ],
+      "pt": [
+        "<p>Tipo de visita: 2 tipos de sessões de informação, visita ao edifício</p> <p>Número mínimo de participantes: 20 pessoas (os grupos com menor número de participantes podem ser integrados num grupo maior)</p> <p>Marcação prévia obrigatória: 3 meses</p> <p>Idade mínima dos visitantes: 18 anos</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.pt.html\">Visite o Banco Central Europeu</a></p>"
+      ],
+      "ro": [
+        "<p>Tipul de vizită: 2 tipuri de sesiuni de informare, vizitarea clădirii</p> <p>Dimensiunea minimă a grupului: 20 de persoane (grupurile mai mici se pot alătura celor mai mari)</p> <p>Rezervare: cu 3 luni înainte de data vizitei</p> <p>Vârsta minimă a vizitatorilor: 18 ani</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.ro.html\">Vizitaţi Banca Centrală Europeană</a></p>"
+      ],
+      "sk": [
+        "<p>Typy návštev: 2 typy informačných stretnutí, prehliadka budovy</p> <p>Minimálna veľkosť skupiny: 20 osôb (menšie skupiny sa môžu pridať k väčšej)</p> <p>Povinná rezervácia: 3 mesiace pred návštevou</p> <p>Minimálny vek návštevníkov: 18 rokov</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.sk.html\">Navštívte Európsku centrálnu banku</a></p>"
+      ],
+      "sl": [
+        "<p>Vrsta obiska: Dve vrsti informativne predstavitve, ogled gradbišča nove banke</p> <p>Velikost skupine: Najmanj 20 oseb (manjše skupine se lahko pridružijo večji)</p> <p>Vnaprejšnja rezervacija: 3 mesece</p> <p>Starost obiskovalcev: Najmanj 18 let</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.sl.html\">Obiščite Evropsko centralno banko</a></p>"
+      ],
+      "sv": [
+        "<p>Typ av besök: Två typer av föredrag och rundtur på platsen där bankens nya lokaler håller på att byggas</p> <p>Gruppens storlek: Minst 20 personer (mindre grupper kan ansluta sig till en större)</p> <p>Förhandsbokning: 3 månader</p> <p>Åldersgräns: 18 år</p> <p><a href=\"http://www.ecb.europa.eu/ecb/visits/html/index.sv.html\">Boka besök på Europeiska centralbanken</a></p>"
+      ]
+    },
+    "social_url": {
+      "en": [
+        "https://twitter.com/ecb",
+        "https://www.flickr.com/groups/europeancentralbank/",
+        "https://www.youtube.com/user/ecbeuro",
+        "https://plus.google.com/106801572747733939594/posts"
+      ]
+    },
+    "social_label": {
+      "en": [
+        "Twitter",
+        "Flickr",
+        "YouTube",
+        "Google+"
+      ]
+    }
+  }
+}

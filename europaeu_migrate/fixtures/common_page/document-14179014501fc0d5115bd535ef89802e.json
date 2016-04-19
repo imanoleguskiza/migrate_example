@@ -1,0 +1,993 @@
+{
+  "_id": "14179014501fc0d5115bd535ef89802e",
+  "type": "common_page",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/cookies/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/cookies/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/cookies/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/cookies/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/cookies/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/cookies/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/cookies/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/cookies/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/cookies/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/cookies/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/cookies/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/cookies/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/cookies/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/cookies/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/cookies/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/cookies/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/cookies/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/cookies/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/cookies/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/cookies/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/cookies/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/cookies/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/cookies/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/cookies/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Бисквитки"
+      ],
+      "cs": [
+        "Cookies"
+      ],
+      "da": [
+        "Cookies"
+      ],
+      "de": [
+        "Cookies"
+      ],
+      "el": [
+        "Cookies"
+      ],
+      "en": [
+        "Cookies"
+      ],
+      "es": [
+        "Cookies"
+      ],
+      "et": [
+        "Küpsised"
+      ],
+      "fi": [
+        "Evästeet"
+      ],
+      "fr": [
+        "Cookies"
+      ],
+      "ga": [
+        "Fianáin"
+      ],
+      "hr": [
+        "Kolačići"
+      ],
+      "hu": [
+        "Cookie-k"
+      ],
+      "it": [
+        "Cookies"
+      ],
+      "lt": [
+        "Slapukai"
+      ],
+      "lv": [
+        "Sīkdatnes"
+      ],
+      "mt": [
+        "Cookies"
+      ],
+      "nl": [
+        "Cookies"
+      ],
+      "pl": [
+        "Pliki cookie"
+      ],
+      "pt": [
+        "Cookies testemunhos de conexão"
+      ],
+      "ro": [
+        "Cookie-urile"
+      ],
+      "sk": [
+        "Súbory cookie"
+      ],
+      "sl": [
+        "Piškotki"
+      ],
+      "sv": [
+        "Kakor ”cookies”"
+      ]
+    },
+    "category": {
+      "und": [
+        "68667c18",
+        "55411c2"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "EUROPA/"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "EUROPA/"
+      ],
+      "es": [
+        "EUROPA/"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "EUROPA/"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA/"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "EUROPA/"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        "COMM"
+      ],
+      "cs": [
+        "COMM"
+      ],
+      "da": [
+        "COMM"
+      ],
+      "de": [
+        "COMM"
+      ],
+      "el": [
+        "COMM"
+      ],
+      "en": [
+        "COMM"
+      ],
+      "es": [
+        "COMM"
+      ],
+      "et": [
+        "COMM"
+      ],
+      "fi": [
+        "COMM"
+      ],
+      "fr": [
+        "COMM"
+      ],
+      "ga": [
+        "COMM"
+      ],
+      "hr": [
+        "COMM"
+      ],
+      "hu": [
+        "COMM"
+      ],
+      "it": [
+        "COMM"
+      ],
+      "lt": [
+        "COMM"
+      ],
+      "lv": [
+        "COMM"
+      ],
+      "mt": [
+        "COMM"
+      ],
+      "nl": [
+        "COMM"
+      ],
+      "pl": [
+        "COMM"
+      ],
+      "pt": [
+        "COMM"
+      ],
+      "ro": [
+        "COMM"
+      ],
+      "sk": [
+        "COMM"
+      ],
+      "sl": [
+        "COMM"
+      ],
+      "sv": [
+        "COMM"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Cookies"
+      ],
+      "cs": [
+        "Cookies"
+      ],
+      "da": [
+        "Cookies"
+      ],
+      "de": [
+        "Cookies"
+      ],
+      "el": [
+        "Cookies"
+      ],
+      "en": [
+        "Cookies"
+      ],
+      "es": [
+        "Cookies"
+      ],
+      "et": [
+        "Küpsised"
+      ],
+      "fi": [
+        "Evästeet"
+      ],
+      "fr": [
+        "Cookies"
+      ],
+      "ga": [
+        "Fianáin"
+      ],
+      "hr": [
+        "Kolačići"
+      ],
+      "hu": [
+        "Sütik"
+      ],
+      "it": [
+        "Cookies"
+      ],
+      "lt": [
+        "Slapukai"
+      ],
+      "lv": [
+        "Sīkdatnes"
+      ],
+      "mt": [
+        "Cookies"
+      ],
+      "nl": [
+        "Cookies"
+      ],
+      "pl": [
+        "Pliki cookie"
+      ],
+      "pt": [
+        "Cookies testemunhos de conexão"
+      ],
+      "ro": [
+        "Cookie-urile"
+      ],
+      "sk": [
+        "Súbory cookie"
+      ],
+      "sl": [
+        "Piškotki"
+      ],
+      "sv": [
+        "Kakor ”cookies”"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "cs": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "da": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "de": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "el": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "en": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "es": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "et": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "fi": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "fr": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "ga": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "hr": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "hu": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "it": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "lt": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "lv": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "mt": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "nl": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "pl": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "pt": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "ro": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "sk": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "sl": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ],
+      "sv": [
+        "europa",
+        "european commission",
+        "institutions",
+        "news",
+        "calendar",
+        "organisation",
+        "commissioners",
+        "president",
+        "recruitment",
+        "contact",
+        "services",
+        "european union",
+        "eu"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "body": {
+      "bg": [
+        "<p> \t\t\tЗа да работи този сайт както трябва, понякога запазваме на вашето устройство малки файлове с данни, наричани бисквитки.Повечето големи уебсайтове също използват този метод.</p>             <h2> \t\t\tКакво представляват бисквитките?</h2>             <p> \t\t\tБисквитките са малки текстови файлове, които се запазват на вашия компютър или мобилно устройство, когато посещавате даден уебсайт.Те позволяват на уебсайта да запаметява вашите действия и предпочитания (като например потребителско име, език, размер на шрифта и други настройки за показване) за определен период от време, за да не се налага да ги въвеждате всеки път, когато посещавате сайта или преминавате от една страница към друга.</p>             <h2> \t\t\tПо какъв начин използваме бисквитките?</h2>             <p> \t\t\tРедица наши страници използват бисквитки за запаметяване на:</p>             <ul>                <li>вашите настройки за показване, като например настройките за контраст на цветовете или размер на шрифта;</li>                <li>информация за това дали вече сте попълнили проучване за полезността на съдържанието на сайта с цел да не бъдете питани отново;</li>                <li>информация дали сте се съгласили или не с използването на бисквитки на този сайт.</li>             </ul>             <p> \t\t\tОсвен това някои от вградените на нашите страници видеоклипове също използват бисквитки, за да събират анонимно статистика за това как сте стигнали до съответната страница и кои видеоклипове сте гледали.</p>             <p> \t\t\tРазрешаването на бисквитките не е абсолютно необходимо, за да може уебсайтът да работи, но ще допринесе за по-доброто му използване.Можете да изтриете или блокирате бисквитките, но ако го направите е възможно някои функции на сайта да не работят както трябва.</p>             <p> \t\t\tСвързаната с бисквитките информация <strong>не се използва за установяване на самоличността</strong> ви, а образците с данни са изцяло под наш контрол.Бисквитките не се използват за цели, различни от посочените тук.</p>             <h2> \t\t\tИзползваме ли други бисквитки?</h2>             <p> \t\t\tВъзможно е някои от нашите страници или подсайтове да използват допълнителни или различни бисквитки от описаните по-горе.Ако това е така, информация за тях ще бъде предоставена на съответната страница с данни за бисквитките.Може да ви бъде поискано разрешение за запазването на тези бисквитки.</p>             <h2> \t\t\tКак да контролирате бисквитките</h2>             <p> \t\t\tМожете да <strong>контролирате и/или изтривате</strong> бисквитки когато пожелаете - за повече информация вижте <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Избор на превод за предходната връзка\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Избор на превод за предходната връзка\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.Можете да изтриете всички бисквитки, които вече са запазени на вашия компютър, а също така можете да настроите повечето браузъри да ги блокират.Ако направите това обаче, може да се наложи ръчно да настройвате някои параметри всеки път, когато посещавате даден сайт, а освен това е възможно някои услуги и функции да не работят.</p>"
+      ],
+      "cs": [
+        "<p>Cookies jsou malé datové soubory, které jsou nezbytné pro správnou funkci stránek, a které proto někdy umísťujeme na váš počítač, tak jako ostatně většina velkých internetových stránek.</p>             <h2>Co jsou cookies?</h2>             <p>Textové soubory, které internetové stránky ukládají na váš počítače nebo mobilní zařízení v okamžiku, kdy tyto stránky začnete využívat. Stránky si tak na určitou dobu zapamatují úkony, které jste na nich provedli, a preferencí (např. přihlašovací údaje, jazyka, velikost písma a jiné zobrazovací preferencí), takže tyto údaje pak nemusíte zadávat znovu a přeskakovat z jedné stránky na druhou.</p>             <h2>Jak se cookies používají?</h2>             <p>S pomocí cookies si řada našich stránek pamatuje:</p>             <ul>                <li>vaše zobrazovací preference, například nastavení kontrastu barev nebo velikost písma  </li>                <li>zda jste již odpověděli na otázky ohledně užitečnosti obsahu stránek, a pokud ano, okno, v němž se tyto otázky automaticky objeví, již neotevře</li>                <li>zda jste souhlasili s využíváním cookies na daných stránkách  </li>             </ul>             <p>Na naše stránky také často zařazujeme videosoubory, o nichž za pomoci cookies sbíráme údaje (odkud jste se na stránku s videozáznamem dostali, která videa jste přehráli atp.).</p>             <p>Povolit tento typ cookies není pro fungování internetových stránek nezbytně nutné, jejich prohlížení je ale díky nim snazší a příjemnější. Tyto cookies lze vymazat nebo zablokovat , může se však stát, že v důsledku toho nebudou stránky fungovat tak, jak mají.</p>             <p>Informace získané pomocí cookies <strong>se nepoužívají pro účely vaší </strong>osobní <strong>identifikace</strong>, přičemž struktura těchto informací je plně pod naší kontrolou. Tyto cookies se nevyužívají k jinému účelu, než který je zde popsán.</p>             <h2>Používáme i další cookies?</h2>             <p>Některé naše stránky (především s odbornějším obsahem) mohou používat i další soubory cookies, jež se liší od výše popsaných. Pokud ano, podrobné informace o jejich fungování budou poskytnuty ve zvláštním oznámení na toto téma, které se na dané stránce objeví. Je také možné, že vás tyto stránky vyzvou, abyste ukládání těchto cookies odsouhlasili.</p>             <h2>Jak upravit využívání cookies</h2>             <p> Využívání <strong>cookies</strong> lze <strong>upravit</strong> podle toho, jak potřebujete (např. je můžete <strong>vymazat</strong>).  Podrobné informace uvádí stránky <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrat překlad k předcházejícímu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrat překlad k předcházejícímu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Můžete vymazat všechny cookies, které jsou již na vašem počítači a většina prohlížečů také nabízí možnost zabránit tomu, aby byly cookies na váš počítač ukládány. Pokud však tuto možnost využijete, budete zřejmě muset manuálně upravovat některé preference při každé návštěvě daných stránek a nelze ani vyloučit omezení některých služeb a funkcí stránek.</p>"
+      ],
+      "da": [
+        "<p>For at få vores website til at fungere bedst muligt lægger vi sommetider små datafiler, såkaldte cookies, på din computer. Det gør de fleste store websites.</p>             <h2>Hvad er cookies?</h2>             <p>En cookie er en lille tekstfil, som et website gemmer på din computer eller dit mobiludstyr, når du besøger sitet. På den måde kan websitet huske dine handlinger og indstillinger (såsom login, sprog, skriftstørrelse og andre indstillinger for visning) i en vis periode, så du ikke behøver at foretage indstillingerne, hver gang du går ind på sitet eller bevæger dig fra én side til en anden.</p>             <h2>Hvordan bruger vi cookies?</h2>             <p>En række af vores sider bruger cookies til at huske:</p>             <ul>                <li>dine indstillinger for visning såsom kontrastfarve eller skriftstørrelse</li>                <li>om du allerede har svaret på en pop-up-undersøgelse, der beder dig svare på om indholdet var nyttigt eller ej (så du ikke bliver bedt om at svare igen)</li>                <li>hvor vidt du har accepteret vores brug af cookies på sitet eller ej.</li>             </ul>             <p>Visse videoklip på vores sider anvender også en cookie for anonymt at indhente statistik om, hvordan du kom frem til siden, og hvilke videoer du har set.</p>             <p>Det er ikke strengt nødvendigt at acceptere cookies, for at websitet kan fungere, men det vil give dig en bedre oplevelse, når du bruger sitet. Du kan slette eller blokere cookies, men visse funktioner på sitet vil i så fald muligvis ikke fungere korrekt.</p>             <p>De oplysninger, der indhentes med cookies, <strong>bruges ikke til at identificere dig</strong> personligt, og vi har fuld kontrol over datamønstrene. Vores cookies anvendes ikke til andre formål end de, der er beskrevet her.</p>             <h2>Anvender vi andre cookies?</h2>             <p>Nogle af vores sider eller undersider bruger flere eller andre cookies end dem, der er beskrevet ovenfor. Når det er tilfældet, stilles der oplysninger til rådighed om disse på de specifikke sider med meddelelser om cookies. Du vil muligvis blive bedt om at acceptere at gemme disse cookies.</p>             <h2>Hvordan kontrollerer du cookies?</h2>             <p>Du kan <strong>kontrollere og/eller slette </strong>cookies, som du vil – læs mere på <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vælg oversættelse af det forrige link\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vælg oversættelse af det forrige link\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Du kan slette alle de cookies, der allerede er på din computer, og indstille de fleste browsere til at forhindre dem i at blive lagt på computeren. Hvis du gør dette, skal du dog muligvis selv tilpasse dine indstillinger manuelt, hver gang du besøger et site, og visse tjenester og funktioner vil muligvis ikke fungere.</p>             <p> </p>"
+      ],
+      "de": [
+        "<p>Damit dieses Internetportal ordnungsgemäß funktioniert, legen wir manchmal kleine Dateien – sogenannte Cookies – auf Ihrem Gerät ab. Das ist bei den meisten großen Websites üblich.</p>             <h2>Was sind Cookies?</h2>             <p>Ein Cookie ist eine kleine Textdatei, die ein Webportal auf Ihrem Rechner, Tablet-Computer oder Smartphone hinterlässt, wenn Sie es besuchen. So kann sich das Portal bestimmte Eingaben und Einstellungen (z. B. Login, Sprache, Schriftgröße und andere Anzeigepräferenzen) über einen bestimmten Zeitraum „merken“, und Sie brauchen diese nicht bei jedem weiteren Besuch und beim Navigieren im Portal erneut vorzunehmen.</p>             <h2>Wie setzen wir Cookies ein?</h2>             <p>Auf unseren Seiten verwenden wir Cookies zur Speicherung</p>             <ul>                <li>Ihrer Vorlieben bei der Bildschirmanzeige , z. B. Kontrast und Schriftgröße</li>                <li>Ihrer etwaigen Teilnahme an einer Umfrage zur Nützlichkeit der Inhalte (damit Sie nicht erneut durch ein Pop-up-Fenster zur Beantwortung aufgefordert werden)</li>                <li>Ihrer Entscheidung zur (oder gegen die) Nutzung von Cookies auf diesem Portal.</li>             </ul>             <p>Auch einige auf unseren Seiten eingebettete Videos verwenden Cookies zur Erstellung anonymer Statistiken über die zuvor besuchten Seiten und die ausgewählten Videos.</p>             <p>Das Akzeptieren von Cookies ist zwar für die Nutzung des Portals nicht unbedingt erforderlich, macht das Surfen aber angenehmer. Sie können Cookies blockieren oder löschen – das kann jedoch einige Funktionen dieses Portals beeinträchtigen.</p>             <p>Die mithilfe von Cookies erhobenen Informationen <strong>werden nicht dazu genutzt, Sie zu identifizieren</strong>, und die Daten unterliegen vollständig unserer Kontrolle. Die Cookies dienen keinen anderen Zwecken als den hier genannten.</p>             <h2>Werden auch andere Cookies verwendet?</h2>             <p>Auf einigen unserer Seiten oder Unterseiten können zusätzliche oder andere Cookies als oben beschrieben zum Einsatz kommen. Gegebenenfalls werden deren Eigenschaften in einem speziellen Hinweis angegeben und Ihre Zustimmung zu deren Speicherung eingeholt.</p>             <h2>Kontrolle über Cookies</h2>             <p>Sie können Cookies nach Belieben <strong>steuern und/oder löschen</strong>. Wie, erfahren Sie hier: <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Übersetzung für diesen Link wählen\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Übersetzung für diesen Link wählen\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Sie können alle auf Ihrem Rechner abgelegten Cookies löschen und die meisten Browser so einstellen, dass die Ablage von Cookies verhindert wird. Dann müssen Sie aber möglicherweise einige Einstellungen bei jedem Besuch einer Seite manuell vornehmen und die Beeinträchtigung mancher Funktionen in Kauf nehmen.</p>"
+      ],
+      "el": [
+        "<p>Για να εξασφαλίσουμε τη σωστή λειτουργία του ιστότοπου, μερικές φορές τοποθετούμε μικρά αρχεία δεδομένων στον υπολογιστή σας, τα λεγόμενα «cookies». Οι περισσότεροι μεγάλοι ιστότοποι κάνουν το ίδιο.</p>             <h2>Τι είναι τα cookies;</h2>             <p>Τα  cookies είναι μικρά αρχεία κειμένου τα οποία ένας ιστότοπος αποθηκεύει στον υπολογιστή σας ή στην κινητή σας συσκευή όταν επισκέπτεστε αυτόν τον ιστότοπο. Με τον τρόπο αυτό, ο ιστότοπος θυμάται τις ενέργειές σας και τις προτιμήσεις σας (όπως  κωδικός σύνδεσης, γλώσσα,  μέγεθος γραμματοσειράς και άλλες προτιμήσεις απεικόνισης) για ένα χρονικό διάστημα, κι έτσι δεν χρειάζεται να εισάγετε τις προτιμήσεις αυτές κάθε φορά που επισκέπτεστε τον ιστότοπο ή φυλλομετρείτε τις σελίδες του.</p>             <h2>Πως χρησιμοποιούμε τα cookies;</h2>             <p>Ορισμένες από τις σελίδες μας χρησιμοποιούν cookies για να θυμούνται:</p>             <ul>                <li>τις προτιμήσεις σας όσον αφορά την απεικόνιση, π.χ. φωτεινότητα ή μέγεθος χαρακτήρων</li>                <li>αν έχετε ήδη απαντήσει σε αναδυόμενη έρευνα που σας ρωτούσε αν το περιεχόμενο ήταν χρήσιμο ή όχι (για να μην σας ξανατεθεί η ίδια ερώτηση)</li>                <li>αν έχετε συμφωνήσει (ή όχι) να χρησιμοποιούμε cookies σ΄ αυτόν τον ιστότοπο.</li>             </ul>             <p>Επίσης, ορισμένα βίντεο ενσωματωμένα στις σελίδες μας χρησιμοποιούν ένα cookie για να συγκεντρώνουν ανώνυμα στατιστικά στοιχεία για τον τρόπο με τον οποίο φθάσατε ως το συγκεκριμένο σημείο και για το ποια βίντεο επισκεφτήκατε.</p>             <p>Η ενεργοποίηση αυτών των cookies δεν είναι απαραίτητη για τη λειτουργία του ιστότοπου αλλά, μέσω αυτών θα έχετε δυνατότητες για καλύτερη φυλλομέτρηση.  Μπορείτε να διαγράψετε αυτά τα cookies, ή να αποκλείσετε την πρόσβαση σε αυτά, αλλά αν το κάνετε ορισμένα χαρακτηριστικά του ιστότοπου ίσως να μην λειτουργούν ικανοποιητικά.</p>             <p>Οι πληροφορίες που σχετίζονται με τα cookies <strong>δεν χρησιμοποιούνται για να σας ταυτοποιήσουν</strong> προσωπικά και έχουμε τον απόλυτο έλεγχο των δεδομένων του μοτίβου. Τα cookies δεν χρησιμοποιούνται για σκοπούς άλλους από αυτούς που περιγράφονται στο παρόν κείμενο.</p>             <h2>Χρησιμοποιούμε άλλα cookies;</h2>             <p>Ορισμένες από τις ιστοσελίδες μας ή δευτερεύοντες ιστότοποι ίσως χρησιμοποιούν επιπλέον ή διαφορετικά cookies από τα προαναφερθέντα. Στην περίπτωση αυτή, θα βρείτε λεπτομέρειες για τα cookies στην αντίστοιχη ενημερωτική  σελίδα. Ίσως σας ζητηθεί να συμφωνήσετε στην αποθήκευση αυτών των cookies.</p>             <h2>Πώς να ελέγχετε τα cookies</h2>             <p>Μπορείτε να ελέγχετε και/ή να διαγράφετε τα cookies ανάλογα με τις επιθυμίες σας. Λεπτομέρειες θα βρείτε εδώ: <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Μπορείτε να διαγράψετε όλα τα cookies που βρίσκονται ήδη στον υπολογιστή σας, όπως και να ρυθμίσετε τους περισσότερους φυλλομετρητές κατά τρόπο που να μην επιτρέπουν την εγκατάσταση cookies. Ωστόσο, στην περίπτωση αυτή, ίσως χρειαστεί να προσαρμόζετε εσείς από μόνοι σας ορισμένες προτιμήσεις κάθε φορά που επισκέπτεστε έναν ιστότοπο, και επίσης ενδέχεται να μην λειτουργούν και μερικές υπηρεσίες. </p>"
+      ],
+      "en": [
+        "<p>To make this site work properly, we sometimes place small data files called cookies on your device. Most big websites do this too.</p>             <h2>What are cookies?</h2>             <p>A cookie is a small text file that a website saves onyour computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, font size and other display preferences) over a period of time, so you don't have to keep re-entering them whenever you come back to the site or browse from one page to another.</p>             <h2>How do we use cookies?</h2>             <p>A number of our pages use cookies to remember:</p>             <ul>                <li>your display preferences, such as contrast colour settings or font size</li>                <li>if you have already replied to a survey pop-up that asks you if the content was helpful or not (so you won't be asked again)</li>                <li>if you have agreed (or not) to our use of cookies on this site</li>             </ul>             <p>Also, some videos embedded in our pages use a cookie to anonymously gather statistics on how you got there and what videos you visited.</p>             <p>Enabling these cookies is not strictly necessary for the website to work but it will provide you with a better browsing experience. You can delete or block these cookies, but if you do that some features of this site may not work as intended.</p>             <p>The cookie-related information <strong>is not used to identify you</strong> personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.</p>             <h2>Do we use other cookies?</h2>             <p>Some of our pages or subsites may use additional or different cookies to the ones described above. If so, the details of these will be provided in their specific cookies notice page. You may be asked for your agreement to store these cookies.</p>             <h2>How to control cookies</h2>             <p>You can <strong>control and/or delete</strong> cookies as you wish - for details, see <a href=\"http://www.aboutcookies.org/\">aboutcookies.org</a>. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.</p>"
+      ],
+      "es": [
+        "<p>Para que este sitio funcione adecuadamente, a veces instalamos en los dispositivos de los usuarios pequeños ficheros de datos, conocidos como cookies. La mayoría de los grandes sitios web también lo hacen.</p>             <h2>¿Qué son las cookies?</h2>             <p>Una cookie es un pequeño fichero de texto que los sitios web instalan en el ordenador o el dispositivo móvil de los usuarios que los visitan. Las cookies hacen posible que el sitio web recuerde las acciones y preferencias del usuario (identificador de inicio de sesión, idioma, tamaño de letra y otras preferencias de visualización), para que este no tenga que volver a configurarlos cuando regrese al sitio o navegue por sus páginas.</p>             <h2>¿Cómo utilizamos las cookies?</h2>             <p>En algunas páginas utilizamos cookies para recordar:</p>             <ul>                <li>sus preferencias de presentación (por ejemplo, contraste, color o tamaño de letra)</li>                <li>si ya ha respondido a una encuesta emergente sobre la utilidad de un determinado contenido (para no volver a pedirle que lo haga)</li>                <li>si ha dado o no su consentimiento para que utilicemos cookies en nuestra web.</li>             </ul>             <p>Además, algunos de los vídeos incrustados en nuestras páginas utilizan cookies para elaborar estadísticas anónimas sobre cómo ha llegado hasta ellos y qué vídeos ha visualizado.</p>             <p>Aunque las cookies no son imprescindibles para que el sitio web funcione, si las habilita disfrutará de una mejor experiencia de navegación. Puede borrar o bloquear las cookies, pero si lo hace es posible que algunas de las características de esta web no funcionen adecuadamente.</p>             <p>La información asociada a las cookies <strong>no se utiliza para identificar personalmente al usuario</strong>. Además, mantenemos plenamente bajo nuestro control los datos sobre sus patrones de navegación. Estas cookies se utilizan exclusivamente para los fines aquí indicados.</p>             <h2>¿Utilizamos otras cookies?</h2>             <p>Algunas de nuestras páginas o subsitios pueden utilizar otras cookies en lugar, o además, de las descritas más arriba. Si es así, la información al respecto se facilita en el aviso correspondiente sobre el uso de cookies. Es posible que tenga que dar su consentimiento para almacenar estas cookies.</p>             <h2>Cómo controlar las cookies</h2>             <p>Usted puede <strong>controlar o borrar</strong> las cookies siempre que lo desee: para más información, consulte <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Elija traducciones del enlace precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Elija traducciones del enlace precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Además de poder eliminar todas las cookies que ya se encuentran en su ordenador, también puede configurar la mayoría de los navegadores para que dejen de aceptarlas. Pero tenga presente que, si rechaza las cookies, es posible que tenga que volver a configurar manualmente sus preferencias cada vez que visite un sitio y que dejen de funcionar determinados servicios y funcionalidades.</p>"
+      ],
+      "et": [
+        "<p>Veebisaidi nõuetekohaseks toimimiseks salvestame mõnikord teie seadmesse väikseid andmefaile – nn küpsiseid. Enamik suurtest veebisaitidest teeb seda samuti.</p>             <h2>Mis on küpsised?</h2>             <p>Küpsis on väike tekstifail, mille veebisait salvestab teie arvutisse või mobiilseadmesse, kui te saiti külastate. See võimaldab veebisaidil jätta meelde teie toimingud ja eelistused (näiteks kasutajanimi, keel, kirjasuurus ning muud eelistused kuvamisel) teatud ajavahemikuks. Nii ei pea te neid iga kord uuesti sisestama, kui saidile tagasi tulete või lehekülgi sirvite.</p>             <h2>Kuidas me küpsiseid kasutame?</h2>             <p>Mitmed meie leheküljed kasutavad küpsiseid, et jätta meelde:</p>             <ul>                <li>teie kuvaeelistused – näiteks kontrast, värv või kirjasuurus.</li>                <li>kas te juba vastasite küsitlusele hüpikaknas, kus uuritakse, kas peate saidi sisu kasulikuks (nii välditakse küsimuse korduvat esitamist)</li>                <li>kas te nõustusite (või mitte) meie küpsiste kasutamisega sellel veebisaidil.</li>             </ul>             <p>Ka mõned meie lehekülgedel leiduvad videod kasutavad küpsist, et koguda anonüümselt statistikat selle kohta, kuidas te saidile sattusite ning mis videoid te vaatasite.</p>             <p>Selliste küpsiste rakendamine ei ole otseselt vajalik veebisaidi toimimiseks, kuid see tagab teile parema sirvimiskogemuse. Võite küpsised kas kustutada või blokeerida, kuid sellisel juhul ei pruugi kõik saidi funktsioonid toimida nii, nagu ette nähtud.</p>             <p>Küpsistega seotud teavet <strong>ei kasutata teie isiku kindlaks tegemiseks</strong> ning kõik asjaomased andmed on täielikult meie kontrolli all. Küpsiseid kasutatakse ainult siinkirjeldatud eesmärkidel.</p>             <h2>Kas me kasutame ka muid küpsiseid?</h2>             <p>Mõned meie leheküljed võivad kasutada täiendavaid või ülalkirjeldatutest erinevaid küpsiseid. Kui see on nii, siis esitatakse asjaomane teave spetsiaalses küpsiseid käsitlevas teates. Teilt võidakse küsida nõusolekut nende küpsiste salvestamiseks.</p>             <h2>Kuidas küpsiseid kontrollida?</h2>             <p>Võite küpsiseid <strong>kontrollida ja/või kustutada</strong> vastavalt oma soovile. Vt <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Valige lingiga seotud tõlked\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Valige lingiga seotud tõlked\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Võite kustutada kõik juba teie arvutis olevad küpsised ning enamikku brausereid saate seadistada selliselt, et küpsiste paigaldamine oleks tõkestatud. Sellisel juhul võite aga olla sunnitud kohandama teatavaid eelistusi käsitsi iga kord, kui saiti külastate, ning mõned teenused ja funktsioonid ei pruugi toimida.</p>"
+      ],
+      "fi": [
+        "<p>Jotta tämä sivusto toimisi mahdollisimman hyvin, se tallentaa aika ajoin laitteellesi pieniä datatiedostoja, joita kutsutaan evästeiksi (cookies). Tämä on yleinen käytäntö useimmissa isoissa verkkosivustoissa.</p>             <h2>Mitä ovat evästeet?</h2>             <p>Evästeet ovat pieniä tekstitiedostoja, joita verkkosivusto tallentaa tietokoneellesi tai mobiililaitteellesi, kun käyt sivustolla. Evästeet tallentavat tietoa laitteesi käytöstä ja käyttötavoista, muun muassa käyttäjätunnuksesi, valitsemasi kielen, fonttikoon ja erilaiset näyttöasetukset. Näin tallentuneet tiedot tarvitsee antaa vain kerran eikä aina erikseen sivustolla käydessäsi tai sivuja selaillessasi.</p>             <h2>Miten evästeitä käytetään?</h2>             <p>Monilla verkkosivustoillamme käytetään evästeitä, joihin tallennetaan seuraavat tiedot:</p>             <ul>                <li>näyttöasetuksesi, kuten kontrasti- ja väriasetukset ja fonttikoko</li>                <li>oletko jo vastannut palauteruutuun, jossa tiedustellaan, oliko sivusta hyötyä vai ei (tieto vastaamisesta tallennetaan evästeeseen, jotta ruutu ei tulisi enää uudestaan näkyviin).</li>                <li>oletko hyväksynyt evästeiden käytön sivustolla.</li>             </ul>             <p>Myös joissakin verkkosivustoillamme olevissa videoissa käytetään evästeitä, joilla kerätään anonyymisti tietoa sivulle pääsemiseksi valitusta polusta ja katsotuista videoista.</p>             <p>Näiden evästeiden hyväksyminen ei ole sivuston toiminnan kannalta ehdottoman välttämätöntä, mutta ne helpottavat sivujen selaamista. Voit poistaa tai torjua evästeet, mutta tällöin jotkin sivuston toiminnot eivät mahdollisesti toimi tarkoitetulla tavalla.</p>             <p>Evästeitä <strong>ei käytetä henkilöllisyyden tunnistamiseen</strong>, ja sivuston käyttöä kuvaavat tiedot ovat täysin sivuston verkkovastaavan hallinnassa. Evästeitä käytetään ainoastaan edellä kuvattuihin tarkoituksiin.</p>             <h2>Käytetäänkö sivuilla muita evästeitä?</h2>             <p>Joillakin verkkosivuilla tai alasivustoilla voidaan käyttää edellä kuvattuja täydentäviä tai niistä poikkeavia evästeitä. Tällöin evästeistä annetaan tarkemmat tiedot kyseisellä sivulla. Sinua voidaan pyytää hyväksymään näiden evästeiden tallentaminen laitteellesi.</p>             <h2>Kuinka voit hallita evästeitä?</h2>             <p>Voit <strong>hallita ja/tai poistaa</strong> evästeitä vapaasti. Ohjeita löytyy osoitteesta <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Näytä edellisen linkin kieliversiot\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Näytä edellisen linkin kieliversiot\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Voit poistaa kaikki tietokoneellasi olevat evästeet, ja useimmat selaimet voi asettaa torjumaan ne kokonaan. Muista kuitenkin, että jos torjut evästeet, joudut määrittämään tietyt asetukset aina uudestaan sivustolle palatessasi. Saattaa myös olla, että et voi käyttää joitakin sivustolla olevia palveluja ja toimintoja.</p>"
+      ],
+      "fr": [
+        "<p>Pour assurer le bon fonctionnement de ce site, nous devons parfois enregistrer de petits fichiers de données sur l'équipement de nos utilisateurs.  La plupart des grands sites web font de même.</p>             <h2>Qu'est-ce qu'un cookie?</h2>             <p>Un cookie est un petit fichier texte que les sites web sauvegardent sur votre ordinateur ou appareil mobile lorsque vous les consultez. Il permet à ces sites de mémoriser vos actions et préférences (nom d'utilisateur, langue, taille des caractères et autres paramètres d'affichage) pendant un temps donné, pour que vous n'ayez pas à réindiquer ces informations à chaque fois vous consultez ces sites ou naviguez d'une page à une autre.</p>             <h2>Comment utilisons-nous les cookies?</h2>             <p>Certaines de nos pages utilisent des cookies afin de mémoriser:</p>             <ul>                <li>vos préférences d'affichage, comme le contraste et la taille des caractères;</li>                <li>si vous avez déjà répondu à une enquête vous demandant si le contenu vous a été utile (la question ne vous sera ainsi posée qu'une fois);</li>                <li>si vous avez accepté que nous utilisions des cookies sur ce site.</li>             </ul>             <p>En outre, certaines vidéos présentées sur nos pages utilisent des cookies pour recueillir des statistiques anonymes indiquant comment vous êtes arrivé sur la page et quelles vidéos vous avez vues.</p>             <p>Ces cookies ne sont pas indispensables au fonctionnement du site, mais ils facilitent votre navigation. Vous pouvez les bloquer ou les supprimer, mais vous risquez alors d'empêcher le bon fonctionnement de certains éléments du site.</p>             <p>Les informations contenues dans les cookies <strong>ne visent pas à vous identifier</strong> personnellement et nous en contrôlons pleinement les données. Ces cookies ne sont jamais utilisés à d'autres fins que celles indiquées ici.</p>             <h2>Utilisons-nous d'autres cookies?</h2>             <p>Certaines pages ou sous-sites utilisent d'autres cookies que ceux décrits ici. Dans ce cas, ces cookies sont décrits dans un avis spécifique. Il est possible que vous deviez donner votre accord pour qu'ils soient stockés.</p>             <h2>Comment contrôler les cookies</h2>             <p>Vous pouvez <strong>contrôler et/ou supprimer</strong> des cookies comme vous le souhaitez. Pour en savoir plus, consultez <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Choisir les traductions du lien précédent\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Choisir les traductions du lien précédent\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Vous avez la possibilité de supprimer tous les cookies déjà stockés sur votre ordinateur et de configurer la plupart des navigateurs pour qu'ils les bloquent. Toutefois, dans ce cas, vous devrez peut-être indiquer vous-mêmes certaines préférences chaque fois que vous vous rendrez sur un site, et certains services et fonctionnalités risquent de ne pas être accessibles.</p>"
+      ],
+      "ga": [
+        "<p>Le go n-oibreoidh an suíomh seo i gceart, is minic a chuirimid comhaid bheaga sonraí, ar a dtugtar fianáin, ar do ghléas ríomhaireachta. Déanann an chuid is mó de na suíomhanna móra amhlaidh freisin.</p>             <h2>Cad is fianán ann?</h2>             <p>Is comhad beag téacs é an fianán a shábhálann suíomh gréasáin ar do ríomhaire nó ar do ghléas soghluaiste le linn duit cuairt a thabhairt ar an suíomh gréasáin sin. Fágann sé gur féidir leis an suíomh gréasáin do chuid gníomhaíochtaí agus do roghanna (m.sh. logáil isteach, teanga, clómhéid agus roghanna eile taispeána) a choinneáil i gcuimhne ar feadh tréimhse ama, le nach mbeidh ortsa iad a chur isteach arís is arís eile nuair a fhilleann tú ar an suíomh sin nó nuair a dhéanann tú brabhsáil ó leathanach go leathanach.</p>             <h2>Conas a úsáidtear fianán?</h2>             <p>Tá roinnt leathanach againn a úsáideann fianáin chun an méid seo thíos a choinneáil i gcuimhne:</p>             <ul>                <li>do roghanna taispeána, m.sh. socruithe dathanna imeartais nó clómhéid</li>                <li>má thug tú freagra ar mhír aníos i bhfoirm suirbhé ina raibh ort do thuairim a thabhairt faoi cé chomh húsáideach agus a bhí an t-ábhar (le nach gcuirfear an cheist chéanna ort arís)</li>                <li>má d'aontaigh tú nó murar aontaigh tú leis an úsáid a bhainimid as fianáin ar an suíomh seo</li>             </ul>             <p>Chomh maith leis sin, tá roinnt físeán atá leabaithe ar na leathanaigh againn a bhaineann úsáid as fianán le staitisticí a bhailiú faoin tslí ar tháinig tú ar leathanach áirithe agus faoi na físeáin ar fhéach tú orthu.</p>             <p>Ní hé go gcaithfear na fianáin sin a chumasú i gcónaí le go n-oibreoidh an suíomh gréasáin ach beidh an bhrabhsáil a dhéanfaidh tú níos éasca má chumasaítear iad. Is féidir na fianáin sin a scriosadh nó a bhlocáil, ach má dhéantar amhlaidh d’fhéadfadh sé go mbeadh roinnt gnéithe atá ar an suíomh nach mbeadh ag obair i gceart duit.</p>             <p>                <strong>Ní bhaintear leas as an bhfaisnéis a bhaineann le fianáin le tú a aithint</strong> go pearsanta agus tá smacht iomlán againn ar na sonraí sin. Ní bhaintear aon úsáid eile as na fianáin seo ach na húsáidí a bhfuil cur síos déanta orthu anseo.</p>             <h2>An mbíonn fianáin eile in úsáid againn?</h2>             <p>D’fhéadfadh sé go mbeadh fianáin bhreise nó dhifriúla ó na fianáin thuasluaite in úsáid ar leathanaigh áirithe nó ar fhoshuíomhanna gréasáin. Má dhéantar amhlaidh, tabharfar mionsonraí faoi na fianáin sin ar an leathanach fóga a ghabhann leis na fianáin áirithe sin. D’fhéadfadh sé go n-iarrfaí ort do chead a thabhairt chun na fianáin sin a stóráil.</p>             <h2>Conas a choinnítear smacht ar na fianáin?</h2>             <p>Is féidir leat fianáin <strong>a rialú agus/nó a scriosadh</strong> de réir mar is mian leat – féach an t-eolas ag <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Is féidir leat na fianáin uile atá ar do ríomhaire cheana a scriosadh agus is féidir leat formhór na mbrabhsálaithe a shocrú le bac a chur orthu. Má dhéanann tú sin, ámh, b'fhéidir go mbeadh ort roinnt de na roghanna a athrú gach uair a thugann tú cuairt ar shuíomh agus b’fhéidir nach n-oibreodh seirbhísí ná feidhmiúlachtaí áirithe.</p>"
+      ],
+      "hr": [
+        "<p>Kako bi se osigurao ispravan rad ovih <em>web</em>-stranica, ponekad na vaše uređaje pohranjujemo male podatkovne datoteke poznate pod nazivom kolačići. Isto čini i većina velikih <em>web</em>-mjesta.</p>             <h2>Što su kolačići?</h2>             <p>Kolačić je mala tekstna datoteka koja se pohranjuje na računalo ili mobilni uređaj pri posjetu određenom <em>web</em>-mjestu. S pomoću kolačića <em>web</em>-mjesto pamti vaše radnje i željene postavke (poput prijave, jezika, veličine fonta i drugih željenih postavki koje se odnose na prikaz) tijekom duljeg razdoblja, pa ih nije potrebno ponovno unositi pri svakom povratku na <em>web</em>-mjesto odnosno pri pregledavanju njegovih različitih stranica.</p>             <h2>Na koji se način koristimo kolačićima?</h2>             <p>Mnoge naše stranice s pomoću kolačića pamte sljedeće:</p>             <ul>                <li>vaše željene postavke koje se odnose na prikaz, poput postavki kontrasta boja ili veličine fonta</li>                <li>informacije o tome jeste li već odgovorili na anketu o korisnosti sadržaja (kako vam pitanje ne bi ponovno iskočilo)</li>                <li>informacije o tome slažete li se s uporabom kolačića za ovo <em>web</em>-mjesto.</li>             </ul>             <p>Isto tako, određeni uloženi videozapisi na našim stranicama koriste se kolačićima za anonimno prikupljanje statističkih podataka o tome kako ste došli do videozapisa i koje ste videozapise pogledali.</p>             <p>Iako će se <em>web</em>-mjesto prikazivati čak i ako kolačići nisu omogućeni, pregledavanje će biti ugodnije ako se oni omoguće. Kolačiće možete izbrisati ili blokirati, no u tom se slučaju određene značajke ovog <em>web</em>-mjesta neće prikazivati na najbolji način.</p>             <p>Informacije povezane s kolačićima <strong>ne služe za vašu identifikaciju</strong>, a podaci o navikama pregledavanja isključivo su pod našim nadzorom. Kolačićima se ne koristimo ni u koje druge svrhe osim onih koje smo ovdje opisali.</p>             <h2>Koristimo li se drugim kolačićima?</h2>             <p>Neke od naših stranica ili podmjesta koriste se možda kolačićima drugačijim od spomenutih. U tom slučaju se pojedinosti o tim kolačićima nalaze na posebnoj stranici za obavijest o kolačićima. Možda će se od vas tražiti suglasnost da se pohrane takvi kolačići.</p>             <h2>Kako se kontroliraju kolačići?</h2>             <p>Kolačiće možete <strong>kontrolirati i/ili izbrisati</strong> prema želji. Više informacija potražite na: <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Odaberi prijevod prethodne poveznice\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Odaberi prijevod prethodne poveznice\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Možete izbrisati sve kolačiće koji su već pohranjeni na računalu, a postavke većine preglednika omogućuju blokiranje pohrane kolačića. Ako blokirate kolačiće, možda ćete pri svakom posjetu <em>web</em>-mjestu morati ručno prilagođivati neke željene postavke, a određene usluge i funkcije možda neće biti dostupne.</p>"
+      ],
+      "hu": [
+        "<p>E honlap megfelelő működéséhez néha sütiknek – vagy az angol eredeti alapján cookie-knak – nevezett adatfájlokat kell elhelyeznünk számítógépén, ahogy azt más nagy webhelyek és internetszolgáltatók is teszik.</p>             <h2>Mik is azok a sütik?</h2>             <p>A sütik kis szövegfájlok, melyeket a webhely az oldalaira látogató felhasználó számítógépén, illetve mobilkészülékén tárol el. A sütik segítségével a honlap bizonyos ideig megjegyzi az Ön műveleteit és személyes beállításait (pl. a felhasználói nevet, a nyelvet, a betűméretet és a honlap megjelenítésével kapcsolatos többi egyedi beállítást), így Önnek nem kell azokat újra megadnia minden egyes alkalommal, amikor honlapunkra ellátogat, vagy az egyik lapról átnavigál egy másikra.</p>             <h2>Hogyan használjuk fel a sütiket?</h2>             <p>Portálunk számos oldala sütik segítségével tartja nyilván a következőket:</p>             <ul>                <li>az Ön megjelenítési beállításait, pl. a szín- és betűtípus-beállításokat;</li>                <li>azt, hogy Ön válaszolt-e már a weboldal tartalmának hasznosságát felmérő felugró kérdőívre (hogy ne kapjon több felkérést a kitöltésre);</li>                <li>azt, hogy Ön beleegyezett-e (vagy sem) abba, hogy a webhelyünk sütiket használjon.</li>             </ul>             <p>Emellett a portálunkon elhelyezett videofilmek némelyike szintén használ sütiket, hogy névtelen statisztikai adatokat gyűjtsön arról, milyen elérési útvonalon érkezik a felhasználó az adott oldalra, és mely videofilmeket nézi meg.</p>             <p>A sütiknek az engedélyezése nem feltétlenül szükséges a webhely működéséhez, de javítja a böngészés élményét és teljesítményét. Ön törölheti vagy letilthatja ezeket a sütiket, de ebben az esetben előfordulhat, hogy a webhely bizonyos funkciói nem működnek rendeltetésszerűen.</p>             <p>A sütik által tárolt információkat <strong>nem használjuk fel az Ön személyazonosságának megállapítására</strong>, és a mintaadatok teljes mértékben az ellenőrzésünk alatt állnak. A sütik által tárolt információk kizárólag az itt leírt célokra kerülnek felhasználásra.</p>             <h2>Használunk más sütiket is?</h2>             <p>Egyes oldalaink és alwebhelyeink a fent leírt sütiktől eltérő, illetve azokat kiegészítő sütiket használnak. Az ezzel kapcsolatos részletekről az adott oldalakhoz tartozó nyilatkozatban tájékoztatjuk a felhasználót. Ezeken az oldalakon esetenként hozzájárulását kérjük e sütik tárolásához.</p>             <h2>A sütik karbantartása</h2>             <p>Önnek lehetősége van arra, hogy <strong>karbantartsa és/vagy</strong> tetszés szerint <strong>törölje</strong> a sütiket. Kérjük, hogy az ezzel kapcsolatos tudnivalókért látogasson el az <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Az előző linken elérhető szöveg fordításai\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Az előző linken elérhető szöveg fordításai\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> webhelyre. Ön törölni tudja a számítógépén tárolt összes sütit, és a böngészőprogramok többségében le tudja tiltani a telepítésüket. Ebben az esetben azonban előfordulhat, hogy minden alkalommal, amikor ellátogat egy adott oldalra, manuálisan el kell végeznie egyes beállításokat, és számolnia kell azzal is, hogy bizonyos szolgáltatások és funkciók esetleg nem működnek.</p>"
+      ],
+      "it": [
+        "<p>Per far funzionare bene questo sito, a volte installiamo sul tuo dispositivo dei piccoli file di dati che si chiamano \"cookies\". Anche la maggior parte dei grandi siti fanno lo stesso.</p>             <h2>Cosa sono i cookies?</h2>             <p>Un cookie è un piccolo file di testo che i siti salvano sul tuo computer o dispositivo mobile mentre li visiti. Grazie ai cookies il sito ricorda le tue azioni e preferenze (per es. login, lingua, dimensioni dei caratteri e altre impostazioni di visualizzazione) in modo che tu non debba reinserirle quando torni sul sito o navighi da una pagina all'altra. </p>             <h2>Come utilizziamo i cookies?</h2>             <p>In alcune pagine utilizziamo i cookies per ricordare:</p>             <ul>                <li>le preferenze di visualizzazione, per es. le impostazioni del contrasto o le dimensioni dei caratteri</li>                <li>se hai già risposto a un sondaggio pop-up sull'utilità dei contenuti trovati, per evitare di riproportelo</li>                <li>se hai autorizzato l'uso dei cookies sul sito.</li>             </ul>             <p>Inoltre, alcuni video inseriti nelle nostre pagine utilizzano un cookie per elaborare statistiche, in modo anonimo, su come sei arrivato sulla pagina e quali video hai visto.</p>             <p>Non è necessario abilitare i cookies perché il sito funzioni, ma farlo migliora la navigazione. È possibile cancellare o bloccare i cookies, però in questo caso alcune funzioni del sito potrebbero non funzionare correttamente.</p>             <p>Le informazioni riguardanti i cookies <strong>non sono utilizzate per identificare gli utenti </strong>e i dati di navigazione restano sempre sotto il nostro controllo. Questi cookies servono esclusivamente per i fini qui descritti. </p>             <h2>Utilizziamo altri cookies?</h2>             <p>Alcune pagine o determinati sottositi possono utilizzare anche altri cookies diversi da quelli già descritti.  In questo caso, le informazioni relative saranno fornite su una pagina specifica. Può esserti chiesto di autorizzare l'installazione di questi cookies.</p>             <h2>Come controllare i cookies?</h2>             <p>Puoi <strong>controllare e/o verificare</strong> i cookies  come vuoi – per saperne di più, vai su <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Scegli le traduzioni del link precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Scegli le traduzioni del link precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Puoi cancellare i cookies già presenti nel computer e impostare quasi tutti i browser in modo da bloccarne l'installazione. Se scegli questa opzione, dovrai però modificare manualmente alcune preferenze ogni volta che visiti il sito ed è possibile che alcuni servizi o determinate funzioni non siano disponibili.</p>"
+      ],
+      "lt": [
+        "<p>Kad ši svetainė tinkamai veiktų, kartais į jūsų įrenginį ji įrašo mažas duomenų rinkmenas, vadinamuosius slapukus. Tą patį daro ir dauguma didžiųjų interneto svetainių.</p>             <h2>Kas yra slapukai?</h2>             <p>Slapukas yra nedidelė teksto rinkmena, kurią svetainė jums joje apsilankius išsaugo jūsų kompiuteryje arba judriojo ryšio įrenginyje. Dėl jo interneto svetainė gali tam tikrą laiką „atsiminti“ jūsų veiksmus ir parinktis (pvz., registracijos vardą, kalbą, šrifto dydį ir kitas rodymo parinktis), o jums nereikia jų iš naujo įvedinėti kaskart lankantis svetainėje ar naršant įvairiuose jos puslapiuose.</p>             <h2>Kaip naudojame slapukus?</h2>             <p>Kai kurie mūsų puslapiai naudoja slapukus, kad atsimintų:</p>             <ul>                <li>jūsų rodymo pasirinktis, pavyzdžiui, spalvų kontrastingumo parinktis arba šrifto dydį;  </li>                <li>ar jau atsakėte į apklausos klausimą iškylančiame lange apie svetainės turinio naudingumą (tam, kad jūsų nebūtų klausiama dar kartą);</li>                <li>ar sutikote, kad naudotume slapukus šioje svetainėje.</li>             </ul>             <p>Be to, su kai kuriais mūsų puslapių vaizdo siužetais naudojami slapukai, kad būtų galima anonimiškai gauti statistinių duomenų apie tai, kaip radote tą puslapį ir kokius vaizdo siužetus žiūrėjote.</p>             <p>Kad interneto svetainė galėtų veikti, nebūtina leisti naudoti šiuos slapukus,  bet tai padarius naršyti jums bus paprasčiau. Galite ištrinti arba blokuoti slapukus, bet tokiu atveju kai kurios šios svetainės funkcijos gali neveikti taip, kaip numatyta.</p>             <p>Su slapukais susijusi informacija <strong>nenaudojama jūsų </strong>tapatybei nustatyti, o surinktus duomenis apie naudojimąsi svetaine visiškai kontroliuojame. Šie slapukai nenaudojami jokiais kitais nei pirmiau aprašytieji tikslais.</p>             <h2>Ar naudojame kitus slapukus?</h2>             <p>Kai kuriuose mūsų puslapiuose arba svetainėse gali būti naudojami papildomi arba skirtingi nuo pirmiau aprašytųjų slapukai. Tokiu atveju apie juos informacijos bus pateikta atitinkamame puslapyje. Gali būti atsiklausta jūsų sutikimo naudoti šiuos slapukus.</p>             <h2>Kaip kontroliuoti slapukus?</h2>             <p>Jei pageidaujate, galite <strong>kontroliuoti ir (arba) ištrinti</strong> slapukus. Išsamesnės informacijos pateikiama adresu <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Pasirinkti šios nuorodos vertimus\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Pasirinkti šios nuorodos vertimus\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Galite ištrinti visus jūsų kompiuteryje jau esančius slapukus, o daugumą naršyklių nustatyti taip, kad slapukai nebūtų įrašomi jūsų įrenginyje. Tačiau tokiu atveju jums gali reikėti rankiniu būdu pakeisti kai kurias parinktis kaskart, kai lankysitės interneto svetainėje, o kai kurios paslaugos ir funkcijos gali neveikti.</p>"
+      ],
+      "lv": [
+        "<p>Lai šī vietne pienācīgi darbotos, mēs dažreiz jūsu ierīcē izvietojam sīkdatnes (<em>cookies</em>). Tāpat dara arī lielākā daļa lielo tīmekļa vietņu.</p>             <h2>Kas ir sīkdatnes?</h2>             <p>Sīkdatne ir neliela teksta datne, ko tīmekļa vietne saglabā jūsu datorā vai mobilajā ierīcē, kad jūs atverat vietni. Tā vietnei palīdz atcerēties jūsu pieteikumvārdu un iestatījumus (piemēram, valodu, fontu izmēru u.c. attēlošanas iestatījumus), ar kādiem esat izvēlējies vietni skatīt, lai katru reizi jums tie nebūtu jānorāda no jauna.</p>             <h2>Kā mēs sīkdatnes izmantojam?</h2>             <p>Vairākās mūsu lapās tiek izmantotas sīkdatnes, lai atcerētos</p>             <ul>                <li>jūsu ekrāna iestatījumus, piemēram, parādāmo krāsas kontrastu vai teksta  lielumu,</li>                <li>vai esat jau atbildējies uz uznirstošo aptaujas jautājumu par to, vai vietnes saturs jums noderēja (lai tad šo jautājumu vairs jums nerādītu),</li>                <li>vai esat jau piekritis (vai nepiekritis) tam, ka mēs šajā vietnē izmantojam sīkdatnes.</li>             </ul>             <p>Šīs vietnes lapās ir daži vídeo, kuri anonīmi ar sīkdatnēm ievāc statistiku par to, kā jūs šeit nokļuvāt un kādus video skatījāties.</p>             <p>Šīs sīkdatnes nav obligāti jāiespējo, lai šī vietne darbotos, bet jums būs labāka pārlūkošana. Šīs sīkdatnes ir iespējams dzēst vai bloķēt, bet tādā gadījumā atsevišķas šīs vietnes iespējas var nedarboties, kā nākas.</p>             <p>Ar sīkdatnēm saistītā informācija <strong>netiek izmantota, lai jūs </strong>personiski<strong> identificētu</strong>, un dati par jūsu navigāciju ir mūsu kontrolē. Šīs sīkdatnes tiek izmantotas tikai un vienīgi tam mērķim, kas norādīts šeit.</p>             <h2>Vai mēs izmantojam citas sīkdatnes?</h2>             <p>Dažās mūsu vietnes lapās vai apakšvietnēs var tikt izmantotas arī citas vai atšķirīgas sīkdatnes papildus šeit aprakstītajām. Tādā gadījumā tur atsevišķā lapā būs sniegts paziņojums, kurā būs sīkāka informācija. Jums var tikt lūgta piekrišana šo sīkdatņu glabāšanai.</p>             <h2>Kā var kontrolēt sīkdatnes?</h2>             <p>Pēc vēlēšanās varat <strong>sīkdatnes kontrolēt un izdzēst</strong>. Plašāk lasiet šeit: <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Izvēlieties saites tulkojumu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Izvēlieties saites tulkojumu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Varat izdzēst visas sīkdatnes, kuras ir jūsu datorā, un lielāko daļu pārlūkprogrammu var iestatīt tā, lai tiktu bloķēta sīkdatņu ievietošana datorā. Taču tādā gadījumā jums būs pašrocīgi jāpielāgo daži iestatījumi ikreiz, kad apmeklēsiet vietni, un varbūt nedarbosies daži pakalpojumi un funkcijas.</p>"
+      ],
+      "mt": [
+        "<p>Biex dan is-sit web jaħdem sew, xi drabi nqiegħdu fajls żgħar ta’ dejta fuq l-apparat tiegħek, magħrufin bħala cookies. Il-biċċa l-kbira tas-siti jagħmlu dan ukoll.</p>             <h2>X'inhuma l-cookies?</h2>             <p>Cookie hija fajl żgħir ta' test li sit web jissejvja fuq il-kompjuter jew mowbajl tiegħek meta żżur is-sit. Din tippermetti lis-sit web li jiftakar l-azzjonijiet u l-preferenzi tiegħek (bħal-login, il-lingwa, id-daqs tat-tipa u preferenzi oħrajn) matul perjodu ta’ żmien, biex ma jkollokx toqgħod tissettjahom kull darba li terġa’ żżur is-sit jew tibbrawżja minn paġna għal oħra.</p>             <h2>Kif nużaw il-cookies?</h2>             <p>Għadd ta’ paġni tagħna jużaw il-cookies biex jiftakru:</p>             <ul>                <li>il-preferenzi tad-dehra tiegħek, bħas-settings tal-kuntrast tal-kuluri jew id-daqs tat-tipa  </li>                <li>jekk diġà weġibt stħarriġ pop-up li jistaqsik jekk il-kontenut kienx utli jew le (biex b'hekk ma tintalabx twieġeb mill-ġdid)</li>                <li>jekk tkunx aċċettajtx l-użu tagħna tal-cookies fuq dan is-sit  </li>             </ul>             <p>Barra minn hekk, xi filmati inkorporati fil-paġni tagħna jużaw cookie biex b’mod anonimu tinġabar statistika dwar kif wasalt hemm u liema filmati rajt.</p>             <p>L-attivazzjoni ta' dawn il-cookies mhix strettament meħtieġa biex is-sit jaħdem iżda jipprovduk b'esperjenza ta' bbrawżjar aħjar. Tista’ tħassar jew timblokka dawn il-cookies, iżda jekk tagħmel dan xi aspetti ta’ dan is-sit jistgħu ma jaħdmux kif suppost.</p>             <p>L-informazzjoni relatata mal-cookies <strong>ma tintużax biex tidentifikak</strong> personalment u aħna nikkontrollaw it-tqassim tad-dejta. Dawn il-cookies ma jintużaw għall-ebda għanijiet oħrajn għajr dawk deskritti hawnhekk.</p>             <h2>Nużaw cookies oħra?</h2>             <p>Xi wħud mill-paġni jew siti sekondarji tagħna jistgħu jużaw cookies addizzjonali jew differenti għal dawk deskritti hawn fuq. F'dan il-każ, id-dettalji ta’ dawn se jiġu pprovduti fil-paġna tal-avviżi dwar il-cookies speċifiċi tagħhom. Tista’ tintalab tagħti l-kunsens tiegħek biex taħżen dawn il-cookies.</p>             <h2>Kif tikkontrolla l-cookies</h2>             <p>Tista’ <strong>tikkontrolla u/jew tħassar</strong> il-cookies kif tixtieq – għad-dettalji, ara <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Tista’ tħassar il-cookies kollha li huma diġà fuq il-kompjuter tiegħek u tista’ tissettja l-parti l-kbira tal-brawżers biex jimblukkawhom milli jiġu maħżuna. Iżda jekk tagħmel dan, għandu mnejn ikollok toqgħod tissettja l-preferenzi manwalment kull darba li żżur is-sit u xi servizzi u funzjonalitajiet jistgħu ma jaħdmux.</p>"
+      ],
+      "nl": [
+        "<p>Om deze website goed te laten werken, moeten we soms kleine bestanden op uw computer zetten, zogenaamde cookies. De meeste grote websites doen dit.</p>             <h2>Wat zijn cookies?</h2>             <p>Een cookie is een klein tekstbestand dat een website op uw computer of mobiel toestel opslaat wanneer u die site bezoekt. Zo onthoudt de website de pagina's die u heeft bezocht en uw voorkeuren (zoals gebruikersnaam, taal, lettergrootte en andere voorkeuren) zodat u die niet bij ieder bezoek aan de site opnieuw hoeft in te vullen. </p>             <h2>Hoe gebruiken we cookies?</h2>             <p>Op enkele pagina’s registreren we in cookies:</p>             <ul>                <li> uw weergavevoorkeuren, zoals contrastkleur en lettergrootte </li>                <li> of u een enquête over onze site al heeft beantwoord (zodat we het u niet opnieuw vragen) </li>                <li> of u al dan niet akkoord gaat met het gebruik van cookies op onze site </li>             </ul>             <p>Sommige video's op onze site gebruiken ook een cookie om anonieme statistieken op te stellen over hoe u die video heeft gevonden en welke video’s u heeft bekeken. </p>             <p>Deze website werkt ook zonder cookies, maar met cookies wordt hij wel gebruiksvriendelijker. U kunt cookies dus wissen of blokkeren, maar sommige onderdelen van de site zullen dan niet (naar behoren) werken.</p>             <p>De informatie die de cookies verzamelen, wordt niet gebruikt om u te identificeren en wij delen de statistische gegevens niet met derden. Deze cookies worden ook niet voor andere dan de hierboven beschreven doeleinden gebruikt. </p>             <h2>Gebruiken we nog andere cookies? </h2>             <p>Op sommige van onze pagina’s of subsites worden naast de hierboven beschreven cookies nog andere gebruikt. In dat geval krijgt u daarvan een speciale melding. U kunt dan ook de vraag krijgen of u ermee instemt dat die cookies worden bewaard.</p>             <h2>Hoe komt u meer te weten en wat kunt u met de cookies doen?</h2>             <p>U kunt cookies altijd controleren en/of wissen. Meer hierover leest u op <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Bekijk deze link in een andere taal\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Bekijk deze link in een andere taal\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. U kunt alle cookies op uw computer wissen en u kunt uw browser zo instellen dat cookies geblokkeerd worden. Dit betekent wel dat u daarna uw voorkeuren bij ieder bezoek opnieuw moet instellen en dat sommige delen van de website niet (naar behoren) werken.</p>"
+      ],
+      "pl": [
+        "<p>Aby zapewnić sprawne funkcjonowanie tego portalu, czasami umieszczamy na komputerze użytkownika (bądź innym urządzeniu) małe pliki – tzw. cookies („ciasteczka”). Podobnie postępuje większość dużych witryn internetowych.</p>             <h2>Czym są pliki cookie?</h2>             <p>„Cookie” to mały plik tekstowy, który strona internetowa zapisuje na komputerze lub urządzeniu przenośnym internauty w chwili, gdy ten ją przegląda. Strona ta może w ten sposób zapamiętać na dłużej czynności i preferencje internauty (takie jak nazwa użytkownika, język, rozmiar czcionki i inne opcje). Dzięki temu użytkownik nie musi wpisywać tych samych informacji za każdym razem, gdy powróci na tę stronę lub przejdzie z jednej strony na inną.</p>             <h2>Jak używamy plików cookie?</h2>             <p>Część naszych stron używa plików cookie, żeby zapamiętać:</p>             <ul>                <li>jakie są preferencje sposobu wyświetlania, np. ustawienia kontrastu kolorów czy rozmiar czcionki</li>                <li>czy użytkownik udzielił już odpowiedzi na ankietę w osobnym okienku zawierającą pytanie o to, czy strona była przydatna (dzięki temu okienko to nie wyświetli się ponownie)</li>                <li>czy użytkownik wyraził zgodę na korzystanie przez stronę z plików cookie.</li>             </ul>             <p>Niektóre pliki wideo zamieszczone na naszych stronach używają również cookies do gromadzenia anonimowych statystyk dotyczących tego, jak internauta dostał się na stronę oraz które nagrania wideo odtwarzał. </p>             <p>Aktywowanie plików cookie nie jest konieczne do funkcjonowania strony, a jedynie ułatwia użytkownikom przeglądanie jej zawartości. Cookies można usunąć albo zablokować, ale w takim wypadku niektóre elementy tej strony mogą nie działać prawidłowo.</p>             <p>Informacje związane z plikami cookie <strong>nie są wykorzystywane do zidentyfikowania użytkownika,</strong> a dane dotyczące preferencji są pod ścisłą kontrolą. Nie używamy plików cookie do żadnych innych celów niż te opisane na tej stronie.</p>             <h2>Czy używamy innych plików cookie?</h2>             <p>Niektóre strony naszego portalu mogą używać dodatkowych plików cookie, innych niż te opisane powyżej. W takim wypadku szczegóły zostaną podane w osobnej informacji o użyciu plików cookie. Użytkownik może zostać poproszony o wyrażenie zgody na zapisywanie takich plików cookie.</p>             <h2>Jak kontrolować pliki cookie</h2>             <p>Pliki cookie można samodzielnie <strong>kontrolować i usuwać</strong> – szczegóły są dostępne na stronie <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Wybierz wersję językową tego linka\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Wybierz wersję językową tego linka\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Można usunąć wszystkie pliki cookie zamieszczone na swoim komputerze, a w większości przeglądarek wybrać ustawienie, które uniemożliwia instalowanie tych plików. W takim przypadku może się okazać konieczne dostosowanie niektórych preferencji przy każdej wizycie na danej stronie, a część opcji i usług może być niedostępna.</p>"
+      ],
+      "pt": [
+        "<p>Tal como a maioria dos grandes sítios Web, para que o nosso sítio possa funcionar corretamente, instalamos pontualmente no seu computador ou dispositivo móvel pequenos ficheiros denominados <em>cookies </em>ou<em/>testemunhos de conexão.</p>             <h2>O que são <em>cookies</em>?</h2>             <p>Um <em>cookie</em> é um pequeno ficheiro de texto que um sítio Web instala no seu computador ou dispositivo móvel quando o visita. Estes ficheiros permitem que durante um certo período de tempo o sítio Web se «lembre» das suas ações e preferências, nomeadamente do nome de utilizador, da língua escolhida, do tamanho dos carateres e de outras definições de visualização. É por isso que quando percorre as páginas de um sítio ou regressa a um sítio que já visitou não tem, em princípio, de voltar a indicar as suas preferências quando regressa a um sítio.</p>             <h2>Como utilizamos os <em>cookies</em>?</h2>             <p>Várias das nossas páginas utilizam <em>cookies</em> para registar:</p>             <ul>                <li>as suas preferências em termos de visualização, tais como parâmetros relativos ao contraste e à cor ou ao tamanho dos carateres  </li>                <li>se já respondeu a um inquérito numa janela instantânea em que lhe é perguntado se acha útil ou não o conteúdo da página em questão (para que o mesmo deixe de aparecer se já respondeu)</li>                <li>se deu ou não o seu acordo quanto à instalação de <em>cookies</em>                </li>             </ul>             <p>Além disso, alguns vídeos inseridos nas nossas páginas utilizam um <em>cookie</em> para recolher estatísticas anónimas sobre a forma como as pessoas chegaram até eles e que vídeos viram.</p>             <p>A ativação dos <em>cookies</em> não é indispensável para que um sítio Web funcione, mas facilita a navegação. Os <em>cookies</em> podem ser apagados ou bloqueados, mas se o fizer poderá desativar algumas funcionalidades do sítio.</p>             <p>As informações associadas aos <em>cookies</em>                <strong>não são utilizadas para identificar pessoalmente</strong> os utilizadores e a Comissão tem pleno controlo sobre os dados recolhidos. A Comissão só usa <em>cookies</em> para os fins referidos.</p>             <h2>Utilizamos outros <em>cookies</em>?</h2>             <p>Algumas das nossas páginas ou sítios Web podem utilizar outros <em>cookies</em> diferentes dos acima descritos. Nesse caso, a área específica sobre <em>cookies</em> da página de advertência conterá informações pormenorizadas sobre os mesmos, podendo ser solicitado o seu acordo para que possam ser instalados.</p>             <h2>Como controlar os <em>cookies</em>             </h2>             <p>Pode <strong>controlar e/ou apagar</strong> os <em>cookies</em> que desejar. Para mais informações, consulte <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traduções da ligação anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traduções da ligação anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Pode apagar todos os <em>cookies</em> já instalados no seu computador ou dispositivo móvel ou ativar uma opção disponível na maioria dos programas de navegação que impede a sua instalação. Mas se o fizer, poderá ter de configurar manualmente algumas preferências sempre que visitar um sítio e corre o risco de desativar determinados serviços e funcionalidades.</p>"
+      ],
+      "ro": [
+        "<p>Pentru a asigura buna funcționare a acestui site, uneori plasăm în computerul dumneavoastră mici fișiere cu date, cunoscute sub numele de cookie-uri. Majoritatea site-urilor mari fac acest lucru.</p>             <h2>Ce se înțelege prin cookie-uri?</h2>             <p>Cookie-ul este un fişier text de mici dimensiuni pe care un site îl salvează în calculatorul sau dispozitivul dumneavoastră mobil atunci când îl vizitaţi. Datorită cookie-urilor, site-ul reţine, pe o perioadă de timp, acţiunile şi preferinţele dumneavoastră (login, limbă, dimensiunea caracterelor şi alte preferinţe de afişare). Astfel nu mai trebuie să le reintroduceţi ori de câte ori reveniţi la site sau navigaţi de pe o pagină pe alta.</p>             <h2>Cum se folosesc cookie-urile?</h2>             <p>O parte din paginile noastre utilizează cookie-urile pentru a reţine:</p>             <ul>                <li>preferinţele dumneavoastră de afişare, cum ar fi contrastul, culoarea sau dimensiunea caracterelor</li>                <li>dacă  aţi răspuns la un sondaj pop-up privind utilitatea conţinutului (pentru a nu fi întrebat din nou)</li>                <li>dacă aţi acceptat (sau nu) utilizarea cookie-urilor pe site.</li>             </ul>             <p>De asemenea, unele materiale video găzduite de paginile noastre utilizează cookie-uri pentru a colecta statistici anonime privind modul în care aţi ajuns pe site şi materialele video pe care le-aţi vizualizat.</p>             <p>Activarea cookie-urilor nu este strict necesară pentru funcţionarea site-ului, dar vă poate îmbunătăţi experienţa de navigare. Puteţi şterge sau bloca cookie-urile însă, dacă faceţi acest lucru, s-ar putea ca anumite caracteristici ale site-ului să nu funcţioneze corespunzător.</p>             <p>Informaţiile asociate cookie-urilor <strong>nu sunt utilizate pentru a vă identifica</strong> personal. În plus, ţinem sub control datele referitoare la preferinţele dumneavoastră de navigare. Cookie-urile nu sunt folosite în alte scopuri decât cele descrise aici.</p>             <h2>Folosim şi alte cookie-uri?</h2>             <p>O parte din paginile sau subsite-urile noastre pot folosi cookie-uri suplimentare sau diferite de cele descrise mai sus. În acest caz, veţi găsi detalii pe paginile specifice referitoare la cookie-uri. De asemenea, s-ar putea să vi se ceară acordul cu privire la stocarea lor.</p>             <h2>Cum puteţi controla cookie-urile?</h2>             <p>Puteţi <strong>controla şi/sau şterge</strong> cookie-urile după cum doriţi – pentru detalii, consultaţi site-ul <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traducerile linkului anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traducerile linkului anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Puteți șterge toate cookie-urile din calculatorul dumneavoastră și puteți seta majoritatea browserelor să blocheze plasarea acestora. Dacă faceţi acest lucru, este posibil să fiţi nevoit să setaţi manual unele preferinţe, de fiecare dată când vizitaţi site-ul. De asemenea, s-ar putea ca unele servicii sau opţiuni să nu funcţioneze.</p>"
+      ],
+      "sk": [
+        "<p>S cieľom zabezpečiť riadne fungovanie tejto webovej lokality ukladáme niekedy na vašom zariadení malé dátové súbory, tzv. cookie. Je to bežná prax väčšiny veľkých webových lokalít.</p>             <h2>Čo sú súbory cookie?</h2>             <p>Súbor cookie je malý textový súbor, ktorý webová lokalita ukladá vo vašom počítači alebo mobilnom zariadení pri jej prehliadaní. Vďaka tomuto súboru si webová lokalita na určitý čas uchováva informácie o vašich krokoch a preferenciách (ako sú prihlasovacie meno, jazyk, veľkosť písma a iné nastavenia zobrazovania), takže ich pri ďalšej návšteve lokality alebo prehliadaní jej jednotlivých stránok nemusíte opätovne uvádzať.</p>             <h2>Ako používame súbory cookie?</h2>             <p>Rad našich stránok používa súbory cookie, aby sme uchovali:</p>             <ul>                <li>vaše preferencie zobrazenia, napríklad nastavenia kontrastu farieb alebo veľkosti písma;</li>                <li>skutočnosť, že ste už odpovedali na prieskum zobrazujúci sa v samostatnom okne (pop-up), prostredníctvom ktorého môžete vyjadriť svoj názor na obsah stránky (nebude sa opätovne zobrazovať);</li>                <li>skutočnosť, či ste súhlasili (alebo nesúhlasili) s tým, aby sme využívali súbory cookie na tejto webovej lokalite.</li>             </ul>             <p>Rovnako niektoré videá, ktoré sú súčasťou našich stránok, používajú súbory cookie na anonymný zber štatistických údajov o tom, ako ste sa tam dostali a ktoré videoklipy ste si pozreli.</p>             <p>Povolenie použitia súborov cookie nie je nevyhnutne potrebné na správne fungovanie webovej lokality, ale poskytne vám to lepší používateľský komfort pri práci s ňou. Súbory cookie môžete vymazať alebo zablokovať. V takomto prípade sa však môže stať, že určité funkcionality webovej lokality nebudú fungovať tak, ako by mali.</p>             <p>Informácie ukladané v súboroch cookie <strong>sa nepoužijú na vašu osobnú identifikáciu</strong> a štruktúra údajov je plne pod našou kontrolou. Súbory cookie sa nepoužívajú na iné účely ako tie, ktoré sú uvedené v tomto texte.</p>             <h2>Používame aj iné súbory cookie?</h2>             <p>Niektoré z našich stránok alebo podlokalít môžu používať dodatočné alebo odlišné súbory cookie než uvedené v predchádzajúcom texte. V takomto prípade budú na predmetnej stránke v osobitnom oznámení o súboroch cookie poskytnuté podrobné údaje o ich použití. Komisia vás môže požiadať, aby ste súhlasili s uchovaním týchto súborov cookie.</p>             <h2>Ako kontrolovať súbory cookie</h2>             <p>Súbory cookie môžete <strong>kontrolovať a/alebo zmazať</strong> podľa uváženia – podrobnosti si pozrite na stránke <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrať preklady k predchádzajúcemu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Môžete vymazať všetky súbory cookie uložené vo svojom počítači a väčšinu prehliadačov môžete nastaviť tak, aby ste im znemožnili ich ukladanie. V takomto prípade však pravdepodobne budete musieť pri každej návšteve webovej lokality manuálne upravovať niektoré nastavenia a niektoré služby a funkcie nebudú fungovať.</p>"
+      ],
+      "sl": [
+        "<p>Za pravilno delovanje tega spletišča se včasih na vašo napravo naložijo majhne podatkovne datoteke, imenovane piškotki. To se zgodi na večini večjih spletišč.</p>             <h2>Kaj so piškotki</h2>             <p>Piškotek je majhna besedilna datoteka, ki jo spletišče ob vašem obisku shrani na vašem računalniku ali mobilni napravi. Spletišču omogoča, da si za določeno časovno obdobje zapomni vaša dejanja in prednostne nastavitve (kot so uporabniško ime ali geslo, jezik, velikost črk in druge nastavitve), zato jih pri obisku spletišča ali brskanju po straneh ni treba vedno znova vpisovati.</p>             <h2>Kako uporabljamo piškotke</h2>             <p>Številne naše strani uporabljajo piškotke, ki si zapomnijo:</p>             <ul>                <li>vaše nastavitve, denimo barvne nastavitve ali velikost pisave,  </li>                <li>če ste že odgovorili na anketno vprašanje v pojavnem oknu o tem, ali ste zadovoljni z vsebino spletišča (torej se vprašanje ne bo znova pojavilo),</li>                <li>če soglašate (ali ne) z uporabo piškotkov na tem spletišču.  </li>             </ul>             <p>Tudi nekateri videoposnetki na naših straneh uporabljajo piškotke zaradi zbiranja anonimnih statističnih podatkov o tem, kako ste prišli na naše spletišče in katere videoposnetke ste si ogledali.</p>             <p>Omogočanje piškotkov ni nujno potrebno za delovanje spletišča, vendar pripomorejo k učinkovitejšemu brskanju. Piškotke lahko izbrišete ali blokirate, vendar potem nekateri elementi spletne strani morebiti ne bodo več delovali, kot je bilo predvideno.</p>             <p>Informacije, ki jih zbiramo s piškoti, <strong>se ne uporabljajo za ugotavljanje istovetnosti</strong> uporabnika in podatki o brskalnih navadah so v celoti pod našim nadzorom. Ti piškotki se ne uporabljajo za druge namene, razen tistih, ki so tukaj navedeni.</p>             <h2>Ali uporabljamo druge piškotke</h2>             <p>Nekatere naše strani ali podstrani lahko uporabljajo dodatne ali drugačne piškotke od zgoraj navedenih. V takem primeru piškotke podrobneje predstavimo v posebnem obvestilu in vas vprašamo, ali soglašate z uporabo teh piškotkov.</p>             <h2>Nadzor nad piškotki</h2>             <p>Če želite, lahko ohranite <strong>nadzor nad piškotki</strong>                <strong>in/ali jih zbrišete</strong>, – več o tem v <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Seznam prevodov predhodne povezave\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Seznam prevodov predhodne povezave\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Izbrišete lahko vse piškotke, ki so že na vašem računalniku, tudi večino brskalnikov lahko nastavite tako,  da preprečijo njihovo namestitev. V tem primeru boste morda morali ročno vnesti nekatere nastavitve vsakič, ko boste obiskali spletišče, nekatere storitve in funkcionalnosti pa mogoče ne bodo delovale.</p>"
+      ],
+      "sv": [
+        "<p>För att få den här webbplatsen att fungera ordentligt skickar vi ibland små filer till din dator. Dessa filer kallas kakor eller ”cookies”. De flesta större webbplatser gör på samma sätt.</p>             <h2>Vad är kakor?</h2>             <p>Kakorna är små textfiler som sparas på din dator, telefon eller surfplatta när du besöker webbplatsen. Kakorna hjälper webbplatsen att komma ihåg dina inställningar (t.ex. användarnamn, språk, textstorlek och andra förhandsval) under en viss tid. Tanken är att du inte ska behöva göra om inställningarna varje gång du går in på webbplatsen eller bläddrar mellan olika sidor.</p>             <h2>Hur använder vi kakorna?</h2>             <p>På flera av våra sidor används kakor för att komma ihåg</p>             <ul>                <li>dina inställningar, t.ex. kontrast och textstorlek</li>                <li>om du redan har svarat på en poppupp-enkät där vi undrar om du hittade det du sökte (så att du inte blir tillfrågad igen)</li>                <li>om du har accepterat att vi använder kakor på webbplatsen.</li>             </ul>             <p>Vissa videoklipp på webbplatsen använder också kakor för att samla in anonym statistik om hur du hittade dit och vilka videoklipp du har sett.</p>             <p>Kakorna är inte helt nödvändiga för att webbplatsen ska fungera, men de gör det lättare för dig att söka information. Du kan ta bort eller blockera kakorna, men i så fall får du vara beredd på att webbplatsen inte fungerar optimalt.</p>             <p>Kakorna <strong>används inte för att identifiera dig</strong> som person och de insamlade uppgifterna står helt under vår kontroll. Kakorna används bara i de syften som nämns här.</p>             <h2>Använder vi andra kakor?</h2>             <p>På vissa av våra sidor används ibland fler eller andra kakor än de som beskrivs ovan. Du kan läsa mer om dem i det särskilda meddelandet om kakor. Du kan behöva godkänna att kakorna sparas.</p>             <h2>Hur du kan kontrollera kakorna</h2>             <p>Du kan <strong>kontrollera och radera</strong> kakor precis som du vill. Läs mer på <span class=\"link-disabled\">aboutcookies.org</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Visa översättning av föregående länk\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Visa översättning av föregående länk\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://www.aboutcookies.org/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>. Du kan ta bort alla kakor som finns på din dator och du kan ställa in webbläsaren så att den inte tar emot några kakor. I så fall måste du eventuellt göra om vissa inställningar varje gång du går in på en webbplats och vissa tjänster och funktioner kanske inte fungerar.</p>"
+      ]
+    }
+  }
+}

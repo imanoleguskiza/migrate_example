@@ -1,0 +1,20 @@
+{
+  "_id": "chart-gdp",
+  "type": "webtools",
+  "default_language": "und",
+  "languages": [
+    "und"
+  ],
+  "fields": {
+    "title": {
+      "und": [
+        "Webtools chart gdp"
+      ]
+    },
+    "json_object": {
+      "und": [
+        "{\n\"service\": \"charts\",\n\"custom\": \"http:\/\/localhost\/platform\/sites\/all\/modules\/custom\/europaeu_maps_charts\/js\/chart_language.js\"\n}\n\n\n"
+      ]
+    }
+  }
+}

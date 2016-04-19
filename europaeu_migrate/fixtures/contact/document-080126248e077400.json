@@ -1,0 +1,378 @@
+{
+  "_id": "080126248e077400",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e077400",
+        "080126248e077400",
+        "080126248e077400",
+        "080126248e077400",
+        "080126248e077400",
+        "080126248e077400",
+        "080126248e077400",
+        "080126248e077400"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски надзорен орган за защита на данните"
+      ],
+      "cs": [
+        "Evropský inspektor ochrany údajů"
+      ],
+      "da": [
+        "Europæisk Tilsynsførende for Databeskyttelse"
+      ],
+      "de": [
+        "Der Europäische Datenschutzbeauftragte"
+      ],
+      "el": [
+        "Ο Ευρωπαίος Επόπτης Προστασίας Δεδομένων"
+      ],
+      "en": [
+        "European Data Protection Supervisor"
+      ],
+      "es": [
+        "Supervisor Europeo de Protección de Datos"
+      ],
+      "et": [
+        "Euroopa andmekaitseinspektor"
+      ],
+      "fi": [
+        "Euroopan tietosuojavaltuutettu"
+      ],
+      "fr": [
+        "Le Contrôleur européen de la protection des données"
+      ],
+      "ga": [
+        "An Maoirseoir Eorpach ar Chosaint Sonraí"
+      ],
+      "hr": [
+        "Europski nadzornik za zaštitu podataka"
+      ],
+      "hu": [
+        "Az Európai Adatvédelmi Biztos"
+      ],
+      "it": [
+        "Il Garante europeo della protezione dei dati"
+      ],
+      "lt": [
+        "Europos duomenų apsaugos priežiūros pareigūnas"
+      ],
+      "lv": [
+        "Eiropas Datu aizsardzības uzraudzītājs"
+      ],
+      "mt": [
+        "il-Kontrollur Ewropew tal-Protezzjoni tad-Dejta"
+      ],
+      "nl": [
+        "De Europese Toezichthouder voor gegevensbescherming"
+      ],
+      "pl": [
+        "Europejski inspektor ochrony danych"
+      ],
+      "pt": [
+        "Autoridade Europeia para a Protecção de Dados"
+      ],
+      "ro": [
+        "Autorităţea Europeana pentru Protecţia Datelor"
+      ],
+      "sk": [
+        "Európsky dozorný úradník pre ochranu údajov"
+      ],
+      "sl": [
+        "Evropski nadzornik za varstvo podatkov"
+      ],
+      "sv": [
+        "Europeiska datatillsynsmannen"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_data_protect_sup.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Rue Wiertz/Wiertzstraat 60</p> <p>B-1047 Bruxelles/Brussel</p> <p>Belgique/België</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 283 19 00"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+32 2 283 19 50"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:edps@edps.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "https://twitter.com/EU_EDPS",
+        "https://www.linkedin.com/company/edps",
+        "https://www.youtube.com/channel/UCyj0K_6QVeTgKkd47jT_IoQ",
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Twitter",
+        "Linkedin",
+        "Youtube",
+        "Social networks"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    }
+  }
+}

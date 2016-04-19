@@ -1,0 +1,840 @@
+{
+  "_id": "6ce7639e828332fd3327e891186b4ef4",
+  "type": "common_page",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/publications/open-data/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/publications/open-data/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/publications/open-data/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/publications/open-data/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/publications/open-data/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/publications/open-data/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/publications/open-data/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/publications/open-data/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/publications/open-data/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/publications/open-data/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/publications/open-data/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/publications/open-data/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/publications/open-data/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/publications/open-data/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/publications/open-data/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/publications/open-data/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/publications/open-data/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/publications/open-data/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/publications/open-data/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/publications/open-data/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/publications/open-data/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/publications/open-data/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/publications/open-data/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/publications/open-data/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "свободнo достъпни данни"
+      ],
+      "cs": [
+        "veřejně přístupná data"
+      ],
+      "da": [
+        "Åbne data"
+      ],
+      "de": [
+        "Offene Daten"
+      ],
+      "el": [
+        "Ανοιχτά δεδομένα"
+      ],
+      "en": [
+        "Open data"
+      ],
+      "es": [
+        "Datos abiertos"
+      ],
+      "et": [
+        "avatud andmed"
+      ],
+      "fi": [
+        "Avoin data"
+      ],
+      "fr": [
+        "Données ouvertes"
+      ],
+      "ga": [
+        "Sonraí oscailte"
+      ],
+      "hr": [
+        "Otvoreni podaci"
+      ],
+      "hu": [
+        "Nyílt hozzáférésű adatok"
+      ],
+      "it": [
+        "Open Data"
+      ],
+      "lt": [
+        "Atvirieji duomenys"
+      ],
+      "lv": [
+        "atklātie dati"
+      ],
+      "mt": [
+        "Dejta miftuħa"
+      ],
+      "nl": [
+        "Open data"
+      ],
+      "pl": [
+        "Portal Otwartych Danych"
+      ],
+      "pt": [
+        "Dados abertos"
+      ],
+      "ro": [
+        "Datele deschise"
+      ],
+      "sk": [
+        "voľné údaje"
+      ],
+      "sl": [
+        "Odprti podatki"
+      ],
+      "sv": [
+        "Öppna data"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "EUROPA/"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "EUROPA/"
+      ],
+      "es": [
+        "EUROPA/"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "EUROPA/"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "EUROPA/"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        "ipg"
+      ],
+      "cs": [
+        "ipg"
+      ],
+      "da": [
+        "ipg"
+      ],
+      "de": [
+        "ipg"
+      ],
+      "el": [
+        "ipg"
+      ],
+      "en": [
+        "ipg"
+      ],
+      "es": [
+        "ipg"
+      ],
+      "et": [
+        "ipg"
+      ],
+      "fi": [
+        "ipg"
+      ],
+      "fr": [
+        "ipg"
+      ],
+      "ga": [
+        "ipg"
+      ],
+      "hr": [
+        "ipg"
+      ],
+      "hu": [
+        "ipg"
+      ],
+      "it": [
+        "ipg"
+      ],
+      "lt": [
+        "ipg"
+      ],
+      "lv": [
+        "ipg"
+      ],
+      "mt": [
+        "ipg"
+      ],
+      "nl": [
+        "ipg"
+      ],
+      "pl": [
+        "ipg"
+      ],
+      "pt": [
+        "ipg"
+      ],
+      "ro": [
+        "ipg"
+      ],
+      "sk": [
+        "ipg"
+      ],
+      "sl": [
+        "ipg"
+      ],
+      "sv": [
+        "ipg"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Портал за свободно достъпни данни — достъп до данни на институции и органи на ЕС за всеобща консултация и употреба."
+      ],
+      "cs": [
+        "Portálu veřejně přístupných dat — brána k údajům shromažďovaným institucemi a orgány EU. K nahlédnutí i dalšímu využití."
+      ],
+      "da": [
+        "Portalen for åbne data – adgang til data fra EU's institutioner og organer, som kan konsulteres og genanvendes af alle."
+      ],
+      "de": [
+        "Offenes Datenportal – Zugang zu Informationen der EU-Institutionen und ‑Einrichtungen zur Konsultation und Weiterverwendung"
+      ],
+      "el": [
+        "Ιστότοπος ανοιχτών δεδομένων - Πρόσβαση σε δεδομένα των οργάνων και οργανισμών της ΕΕ για όσους επιθυμούν να τα συμβουλευτούν και να τα χρησιμοποιήσουν."
+      ],
+      "en": [
+        "Open Data Portal – access to data from the EU institutions and bodies for anyone to consult and reuse."
+      ],
+      "es": [
+        "Portal de datos abiertos – Acceso a los datos de las instituciones y organismos de la UE para consulta y reutilización"
+      ],
+      "et": [
+        "Avatud andmete portaal – juurdepääs ELi institutsioonide ja asutuste andmetele, mida võib vaadata ning kasutada igaüks."
+      ],
+      "fi": [
+        "Avoimen datan portaali – avoin pääsy EU:n toimielinten ja laitosten dataan."
+      ],
+      "fr": [
+        "Portail «Données ouvertes» – Accès aux données des institutions et organes de l'UE pouvant être consultées et utilisées par tous"
+      ],
+      "ga": [
+        "Tairseach Sonraí Oscailte – fáil ar shonraí ó institiúidí agus ó chomhlachtaí an AE a fhéadfaidh aon duine a cheadú nó a athúsáid."
+      ],
+      "hr": [
+        "Portal otvorenih podataka — Pristup podacima iz institucija i tijela EU-a koje svi mogu slobodno upotrebljavati."
+      ],
+      "hu": [
+        "Nyílt hozzáférésű adatok portálja – hozzáférést biztosít az uniós intézmények és szervek által nyilvántartott adatokhoz megtekintés, illetve felhasználás céljából."
+      ],
+      "it": [
+        "Portale Open Data - accesso ai dati delle istituzioni e degli organi dell'UE a fini di consultazione e riutilizzo"
+      ],
+      "lt": [
+        "Atvirųjų duomenų portale bet kuris asmuo gali susipažinti su ES institucijų ir įstaigų duomenimis ir jais naudotis."
+      ],
+      "lv": [
+        "Atklāto datu portālā ikviens var iepazīties ar ES iestāžu un struktūru datiem un izmantot tos savām vajadzībām."
+      ],
+      "mt": [
+        "Portal tad-Dejta Miftuħa – aċċess għal dejta mill-istituzzjonijiet u l-korpi tal-UE għal kull min jixtieq jikkonsultaha u jużaha mill-ġdid."
+      ],
+      "nl": [
+        "Opendataportaal van de EU: gegevens van de instellingen en organen van de EU, om te raadplegen en vrij te gebruiken."
+      ],
+      "pl": [
+        "Portal Otwartych Danych – dane instytucji i organów UE udostępniane w celach informacyjnych oraz do ponownego wykorzystania"
+      ],
+      "pt": [
+        "O Portal de Dados Abertos Portal dá acesso aos dados das instituições e organismos da União Europeia (UE). Esses dados podem ser livremente consultados, utilizados e reutilizados. "
+      ],
+      "ro": [
+        "Portalul de Date Deschise al UE - acces la datele provenind de la instituțiile și organismele UE, pentru consultare și reutilizare."
+      ],
+      "sk": [
+        "Portál pre voľné údaje – možnosť konzultácie a opakovaného použitia údajov inštitúcií a orgánov EÚ."
+      ],
+      "sl": [
+        "Portal odprtih podatkov: vsakdo si lahko ogleda in ponovno uporabi podatke institucij in organov EU."
+      ],
+      "sv": [
+        "Portalen för öppna data – data från EU:s institutioner och organ som vem som helst får använda"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "ЕС",
+        "Europa",
+        "Европейски съюз",
+        "свободно достъпни данни",
+        "набори от данни",
+        "данни"
+      ],
+      "cs": [
+        "EU",
+        "Europa",
+        "Evropská unie",
+        "otevřená data",
+        "volně přístupná data",
+        "pří",
+        "soubory údajů",
+        "dat",
+        "údajů",
+        "údajích",
+        "údaji",
+        "údaje!"
+      ],
+      "da": [
+        "EU",
+        "Den Europæiske Union",
+        "Unionen",
+        "Europa",
+        "Den Europæiske Union",
+        "Åbne data",
+        "datasæt",
+        "data"
+      ],
+      "de": [
+        "EU",
+        "Europa",
+        "Europäische Union",
+        "offene Daten",
+        "Datensätze",
+        "Daten",
+        "Informationen"
+      ],
+      "el": [
+        "ΕΕ",
+        "Europa",
+        "Ευρωπαϊκή Ένωση",
+        "ανοιχτά δεδομένα",
+        "σύνολα δεδομένων",
+        "δεδομένα"
+      ],
+      "en": [
+        "EU",
+        "Europa",
+        "European Union",
+        "open data",
+        "datasets",
+        "data"
+      ],
+      "es": [
+        "UE",
+        "Europa",
+        "Unión Europea",
+        "datos abiertos",
+        "conjuntos de datos",
+        "datos"
+      ],
+      "et": [
+        "EL",
+        "Europa",
+        "Euroopa Liit",
+        "avatud andmed",
+        "avaandmed",
+        "andmekogumid",
+        "andmehulgad",
+        "andmed"
+      ],
+      "fi": [
+        "EU",
+        "Europa",
+        "Euroopan unioni",
+        "avoin data",
+        "datajoukot",
+        "data"
+      ],
+      "fr": [
+        "UE",
+        "Europa",
+        "Union européenne",
+        "Données ouvertes",
+        "Séries de données",
+        "jeux de données",
+        "Données"
+      ],
+      "ga": [
+        "AE",
+        "Europa",
+        "An tAontas Eorpach",
+        "sonraí oscailte",
+        "tacair shonraí",
+        "sonraí"
+      ],
+      "hr": [
+        "EU",
+        "Europa",
+        "Europska unija",
+        "otvoreni podaci",
+        "skupovi podataka",
+        "podaci"
+      ],
+      "hu": [
+        "EU",
+        "Europa",
+        "Európai Unió",
+        "nyílt adatok",
+        "nyílt hozzáférésű adatok",
+        "adatkészletek",
+        "adatok"
+      ],
+      "it": [
+        "UE",
+        "Europa",
+        "Unione europea",
+        "Open Data",
+        "dati aperti",
+        "set di dati",
+        "dati"
+      ],
+      "lt": [
+        "ES",
+        "Europa",
+        "Europos Sąjunga",
+        "atvirieji duomenys",
+        "duomenų rinkiniai",
+        "duomenys"
+      ],
+      "lv": [
+        "ES",
+        "Europa",
+        "Eiropas Savienība",
+        "atklātie dati",
+        "datu kopas",
+        "dati"
+      ],
+      "mt": [
+        "UE",
+        "Europa",
+        "Unjoni Ewropea",
+        "dejta miftuħa",
+        "settijiet tad-dejta",
+        "dejta"
+      ],
+      "nl": [
+        "EU",
+        "Europa",
+        "Europese Unie",
+        "open data",
+        "gegevens",
+        "gegevensreeksen",
+        "dataset",
+        "datasets",
+        "gegevens",
+        "data",
+        "portaal",
+        "portal"
+      ],
+      "pl": [
+        "UE",
+        "Europa",
+        "Unia Europejska",
+        "otwarte dane",
+        "zbiory danych",
+        "dane"
+      ],
+      "pt": [
+        "ue",
+        "europa",
+        "união europeia",
+        "dados abertos",
+        "séries de dados",
+        "conjuntos de dados",
+        "dados"
+      ],
+      "ro": [
+        "UE",
+        "Europa",
+        "Uniunea Europeană",
+        "date deschise",
+        "seturi de date",
+        "date"
+      ],
+      "sk": [
+        "EÚ",
+        "europa",
+        "Európska únia",
+        "voľné údaje",
+        "súbory údajov",
+        "údaje"
+      ],
+      "sl": [
+        "EU",
+        "Europa",
+        "Evropska unija",
+        "Odprti podatki",
+        "nabori podatkov",
+        "podatki"
+      ],
+      "sv": [
+        "EU",
+        "europa.eu",
+        "Europeiska unionen",
+        "öppna data",
+        "dataserier",
+        "data"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "body": {
+      "bg": [
+        "<p>Политиката на ЕС за свободен достъп до данни <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Избор на превод за предходната връзка\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Избор на превод за предходната връзка\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> се основава на идеята, че публичната информация трябва да може да се използва свободно и неограничено.</p>             <h3>                <a href=\"https://open-data.europa.eu/bg/data\">Портал за свободно достъпни данни на ЕС</a>             </h3>             <p>Порталът на ЕС за свободно достъпни данни е единна точка за достъп до данни на институциите и органите на Европейския съюз. Тези данни могат да се използват свободно за търговски или нетърговски цели.</p>             <p> </p>             <p>                <strong>Порталът за свободно достъпни данни накратко</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/bg/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Видео за портала за свободно достъпни данни\"                        title=\"Видео за портала за свободно достъпни данни\"/>                </a>             </p>"
+      ],
+      "cs": [
+        "<p>Politika EU v oblasti veřejně přístupných dat <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrat překlad k předcházejícímu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrat překlad k předcházejícímu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> (někdy nazývaných „open data“, „otevřená data“) vychází z myšlenky, že informace veřejného charakteru by měly být volně dostupné k dalšímu využití.</p>             <h3>                <a href=\"https://open-data.europa.eu/cs/data\">Portál veřejně přístupných dat EU</a>             </h3>             <p>Portál veřejně přístupných dat je prostor, kde najdete shromážděna užitečná data pocházející od institucí a orgánů Evropské unie. Tyto údaje lze volně využívat pro komerční či nekomerční účely.</p>             <p> </p>             <p>                <strong>Portál veřejně přístupných dat EU v kostce</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/cs/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Odkaz na video o Portálu veřejně přístupných dat\"                        title=\"Odkaz na video o Portálu veřejně přístupných dat\"/>                </a>             </p>"
+      ],
+      "da": [
+        "<p>EU's politik for åbne data <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vælg oversættelse af det forrige link\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vælg oversættelse af det forrige link\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> bygger på ideen om, at offentlige oplysninger bør være frit tilgængelige til anvendelse og genanvendelse.</p>             <h3>                <a href=\"https://open-data.europa.eu/da/data\">EU's portal for åbne data</a>             </h3>             <p>EU's portal for åbne data er en enkelt indgang til data fra EU's institutioner og andre EU-organer. Disse data kan frit anvendes og genanvendes til kommercielle eller ikke-kommercielle formål.</p>             <p> </p>             <p>                <strong>Kort om EU’s åbne dataportal</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/da/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Link til video fra portalen for åbne data\"                        title=\"Link til video fra portalen for åbne data\"/>                </a>             </p>"
+      ],
+      "de": [
+        "<p>Die EU-Politik der offenen Daten <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Übersetzung für diesen Link wählen\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Übersetzung für diesen Link wählen\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> beruht auf der Idee, dass öffentliche Informationen frei verfügbar, nutzbar und weiterverwendbar sein sollten.</p>             <h3>                <a href=\"https://open-data.europa.eu/de/data/\">Offenes Datenportal der EU</a>             </h3>             <p>Das offene Datenportal der Europäischen Union ist Ihre zentrale Anlaufstelle für den Zugang zu Daten der EU-Institutionen und ‑Einrichtungen. Diese Daten können nach Belieben für gewerbliche und nichtgewerbliche Zwecke genutzt und weiterverwendet werden.</p>             <p> </p>             <p>                <strong>Das offene Datenportal der EU – kurze Präsentation</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/de/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Link zum Video über das offene Datenportal\"                        title=\"Link zum Video über das offene Datenportal\"/>                </a>             </p>"
+      ],
+      "el": [
+        "<p>Η πολιτική ανοιχτών δεδομένων <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> της ΕΕ βασίζεται στο σκεπτικό ότι οι δημόσιες πληροφορίες θα πρέπει να διατίθενται δωρεάν για περαιτέρω χρήση.</p>             <h3>                <a href=\"https://open-data.europa.eu/el/data\">Ιστότοπος ανοιχτών δεδομένων της ΕΕ </a>             </h3>             <p>Ο ιστότοπος της Ευρωπαϊκής Ένωσης για τα ανοιχτά δεδομένα είναι το ενιαίο σημείο πρόσβασης σε δεδομένα των οργάνων και οργανισμών της Ευρωπαϊκής Ένωσης. Τα δεδομένα αυτά μπορούν να χρησιμοποιούνται ξανά και ξανά, δωρεάν, για εμπορικούς ή μη σκοπούς.</p>             <p> </p>             <p>                <strong>Ο ιστότοπος ανοιχτών δεδομένων της ΕΕ με λίγα λόγια</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/el/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Βίντεο για την πύλη ανοιχτών δεδομένων \"                        title=\"Βίντεο για την πύλη ανοιχτών δεδομένων \"/>                </a>             </p>"
+      ],
+      "en": [
+        "<p>The EU's <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" title=\"\">Open Data policy</a> is based on the idea that public information should be freely available for use and re-use.</p>             <h3>                <a href=\"https://open-data.europa.eu/en/data\">The EU Open Data Portal</a>             </h3>             <p>The European Union's Open Data Portal is the single point of access to data from the institutions and other bodies of the European Union. These data may be used and reused freely for commercial or non-commercial purposes.</p>             <p> </p>             <p>                <strong>The EU Open Data Portal in a nutshell</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/en/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Link to the Open Data Portal video\"                        title=\"Link to the Open Data Portal video\"/>                </a>             </p>"
+      ],
+      "es": [
+        "<p>La política de datos abiertos <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Elija traducciones del enlace precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Elija traducciones del enlace precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> de la UE se basa en el principio de que la información pública debe estar a disposición del ciudadano y poder utilizarse y reutilizarse libremente.</p>             <h3>                <a href=\"https://open-data.europa.eu/es/data\">El portal de datos abiertos de la UE</a>             </h3>             <p>El portal de datos abiertos de la Unión Europea es el punto único de acceso a los datos de las instituciones y otros organismos de la Unión. Los datos pueden utilizarse y reutilizarse libremente para fines comerciales o no comerciales.</p>             <p> </p>             <p>                <strong>El portal de datos abiertos de la UE en pocas palabras</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/es/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Enlace al vídeo del portal de datos abiertos\"                        title=\"Enlace al vídeo del portal de datos abiertos\"/>                </a>             </p>"
+      ],
+      "et": [
+        "<p>ELi avatud andmete poliitika <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Valige lingiga seotud tõlked\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Valige lingiga seotud tõlked\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> aluseks on põhimõte, et avalik teave peaks olema kasutamiseks ja taaskasutamiseks vabalt kättesaadav.</p>             <h3>                <a href=\"https://open-data.europa.eu/et/data\">ELi avatud andmete portaal</a>             </h3>             <p>Euroopa Liidu avatud andmete portaal võimaldab ühtset juurdepääsu ELi institutsioonide ja muude asutuste andmetele. Neid andmeid võib vabalt kasutada ja taaskasutada ärilistel või mitteärilistel eesmärkidel.</p>             <p> </p>             <p>                <strong>Lühidalt ELi avatud andmete portaalist</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/et/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Link Euroopa Liidu avatud andmete portaali video juurde\"                        title=\"Link Euroopa Liidu avatud andmete portaali video juurde\"/>                </a>             </p>"
+      ],
+      "fi": [
+        "<p>EU:n avoimen datan politiikka <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Näytä edellisen linkin kieliversiot\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Näytä edellisen linkin kieliversiot\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> perustuu ajatukseen, että julkisen sektorin tiedon pitäisi olla vapaasti saatavissa ja uudelleenkäytettävissä.</p>             <h3>                <a href=\"https://open-data.europa.eu/fi/data\">EU:n avoimen datan portaali</a>             </h3>             <p>EU:n avoimen datan portaalista pääsee keskitetysti Euroopan unionin toimielinten ja laitosten tuottamaan data-aineistoon. Data on vapaasti käytettävissä ja uudelleenkäytettävissä kaupallisiin ja ei-kaupallisiin tarkoituksiin.</p>             <p> </p>             <p>                <strong>EU:n avoimen datan portaali pähkinänkuoressa</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/fi/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Linkki avoimen datan portaalin videoon\"                        title=\"Linkki avoimen datan portaalin videoon\"/>                </a>             </p>"
+      ],
+      "fr": [
+        "<p>La politique de l'UE en matière de données ouvertes <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Choisir les traductions du lien précédent\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Choisir les traductions du lien précédent\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> repose sur l'idée selon laquelle les informations publiques doivent être librement accessibles afin de pouvoir être utilisées et réutilisées.</p>             <h3>                <a href=\"https://open-data.europa.eu/fr/data\">Le portail «Données ouvertes» de l'UE</a>             </h3>             <p>Le portail «Données ouvertes» de l'UE est un point d'accès unique aux données des institutions et organes de l’Union européenne. Ces données peuvent être utilisées et réutilisées gratuitement à des fins commerciales ou non.</p>             <p> </p>             <p>                <strong>Le portail «Données ouvertes» de l'UE en bref</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/fr/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Lien vers la vidéo sur le portail des données ouvertes\"                        title=\"Lien vers la vidéo sur le portail des données ouvertes\"/>                </a>             </p>"
+      ],
+      "ga": [
+        "<p>Tá beartas Sonraí Oscailte <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> an AE bunaithe ar an smaoineamh gur cheart faisnéis phoiblí a bheith ar fáil gan srian lena húsáid agus lena hathúsáid.</p>             <h3>                <a href=\"https://open-data.europa.eu/ga/data\">Tairseach Sonraí Oscailte an AE</a>             </h3>             <p>Is í Tairseach Sonraí Oscailte an AE an t-aon phointe ar a bhfuil fáil ar shonraí ó institiúidí agus ó chomhlachtaí an Aontais Eorpaigh. Féadtar na sonraí sin a úsáid agus a athúsáid gan srian ar chúiseanna tráchtála nó neamhthráchtála.</p>             <p> </p>             <p>                <strong>Tairseach Sonraí Oscailte an AE i mbeagán focal</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/ga/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Nasc leis an bhfíseán faoin Tairseach Sonraí Oscailte\"                        title=\"Nasc leis an bhfíseán faoin Tairseach Sonraí Oscailte\"/>                </a>             </p>"
+      ],
+      "hr": [
+        "<p>Politika otvorenih podataka <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Odaberi prijevod prethodne poveznice\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Odaberi prijevod prethodne poveznice\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> EU-a temelji se na ideji da bi javni podaci morali biti dostupni građanima kako bi ih mogli slobodno upotrebljavati.</p>             <h3>                <a href=\"https://open-data.europa.eu/hr/data\">Portal otvorenih podataka EU-a</a> </h3>             <p>Portal otvorenih podataka Europske unije jedinstvena je točka pristupa podacima iz institucija i ostalih tijela Europske unije. Ti se podaci slobodno mogu upotrebljavati u komercijalne ili nekomercijalne svrhe.</p>             <p> </p>             <p>                <strong>Portal otvorenih podataka EU-a ukratko</strong>             </p>             <p>                <img src=\"http://europa.eu/publications/images/open_data_video.png\"                     alt=\"Poveznica na videozapis o Portalu otvorenih podataka\"                     title=\"Poveznica na videozapis o Portalu otvorenih podataka\"/>             </p>             <div style=\"margin-top: 10px;\">                <a href=\"https://open-data.europa.eu/bg/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_bg.gif\" align=\"bottom\"                        alt=\"български\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"bg\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/cs/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_cs.gif\" align=\"bottom\"                        alt=\"čeština\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"cs\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/da/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_da.gif\" align=\"bottom\"                        alt=\"dansk\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"da\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/de/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_de.gif\" align=\"bottom\"                        alt=\"Deutsch\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"de\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/et/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_et.gif\" align=\"bottom\"                        alt=\"eesti keel\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"et\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/el/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_el.gif\" align=\"bottom\"                        alt=\"ελληνικά\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"el\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/en/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_en.gif\" align=\"bottom\"                        alt=\"English\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"en\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/es/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_es.gif\" align=\"bottom\"                        alt=\"español\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"es\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/fr/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_fr.gif\" align=\"bottom\"                        alt=\"français\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"fr\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/ga/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_ga.gif\" align=\"bottom\"                        alt=\"Gaeilge\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"ga\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/it/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_it.gif\" align=\"bottom\"                        alt=\"italiano\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"it\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/lv/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_lv.gif\" align=\"bottom\"                        alt=\"latviešu valoda\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"lv\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/mt/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_mt.gif\" align=\"bottom\"                        alt=\"Malti\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"mt\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/nl/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_nl.gif\" align=\"bottom\"                        alt=\"Nederlands\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"nl\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/pl/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_pl.gif\" align=\"bottom\"                        alt=\"polski\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"pl\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/pt/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_pt.gif\" align=\"bottom\"                        alt=\"português\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"pt\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/lt/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_lt.gif\" align=\"bottom\"                        alt=\"lietuvių kalba\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"lt\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/hu/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_hu.gif\" align=\"bottom\"                        alt=\"magyar\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"hu\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/ro/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_ro.gif\" align=\"bottom\"                        alt=\"română\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"ro\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/sk/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_sk.gif\" align=\"bottom\"                        alt=\"slovenčina\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"sk\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/sl/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_sl.gif\" align=\"bottom\"                        alt=\"slovenščina\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"sl\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/fi/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_fi.gif\" align=\"bottom\"                        alt=\"suomi\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"fi\"                        width=\"18\"/>                </a>                <a href=\"https://open-data.europa.eu/sv/open-data-video\">                   <img src=\"http://ec.europa.eu/wel/images/languages/lang_sv.gif\" align=\"bottom\"                        alt=\"svenska\"                        border=\"0\"                        class=\"alIco\"                        height=\"13\"                        lang=\"sv\"                        width=\"18\"/>                </a>             </div>"
+      ],
+      "hu": [
+        "<p>Az EU nyílt hozzáférésű adatokra vonatkozó szakpolitikája <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Az előző linken elérhető szöveg fordításai\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Az előző linken elérhető szöveg fordításai\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> a következő alapelven nyugszik: a nyilvános természetű és közérdekű információknak szabadon rendelkezésre kell állniuk annak érdekében, hogy az érdeklődők azokat saját céljaikra szabadon felhasználhassák.</p>             <h3>                <a href=\"https://open-data.europa.eu/hu/data\">A nyílt hozzáférésű adatok EU-portálja</a>             </h3>             <p>A nyílt hozzáférésű adatok európai uniós portálján egy helyen megtalálhatók az EU intézményei és szervei által kezelt, illetve nyilvántartott adatok. Ezeket az adatokat – kereskedelmi vagy más célból – bárki szabadon felhasználhatja.</p>             <p> </p>             <p>                <strong>Ismertető kisfilm a nyílt hozzáférésű adatok európai uniós portáljáról</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/hu/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Link a portálról szóló kisfilmhez\"                        title=\"Link a portálról szóló kisfilmhez\"/>                </a>             </p>"
+      ],
+      "it": [
+        "<p>La politica dell'UE in materia di Open Data <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Scegli le traduzioni del link precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Scegli le traduzioni del link precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> si basa sul principio del libero utilizzo e riutilizzo delle informazioni pubbliche.</p>             <h3>                <a href=\"https://open-data.europa.eu/it/data\">Il portale Open Data dell'UE</a>             </h3>             <p>Il portale Open Data dell'UE è il punto unico di accesso ai dati delle istituzioni e degli organi dell'Unione europea. I dati possono essere liberamente utilizzati e riutilizzati a fini commerciali o non commerciali.</p>             <p> </p>             <p>                <strong>Il portale Open Data dell'UE in sintesi</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/it/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Link al video sul portale Open Data\"                        title=\"Link al video sul portale Open Data\"/>                </a>             </p>"
+      ],
+      "lt": [
+        "<p>ES atvirųjų duomenų politika <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Pasirinkti šios nuorodos vertimus\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Pasirinkti šios nuorodos vertimus\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> grindžiama mintimi, kad vieša informacija turėtų būti laisvai prieinama, kad ja būtų galima naudotis ne kartą.</p>             <h3>                <a href=\"https://open-data.europa.eu/lt/data\">ES atvirųjų duomenų portalas</a>             </h3>             <p>Europos Sąjungos atvirųjų duomenų portalas – tai vieno langelio principu grindžiama prieigos prie Europos Sąjungos institucijų ir kitų įstaigų duomenų vieta. Šiais duomenimis gali būti nemokamai naudojamasi daugybę kartų komerciniais arba nekomerciniais tikslais.</p>             <p> </p>             <p>                <strong>Apie ES atvirųjų duomenų portalą glaustai</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/lt/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Nuoroda į Atvirųjų duomenų portalo vaizdo siužetą\"                        title=\"Nuoroda į Atvirųjų duomenų portalo vaizdo siužetą\"/>                </a>             </p>"
+      ],
+      "lv": [
+        "<p>ES atklāto datu politikas <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Izvēlieties saites tulkojumu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Izvēlieties saites tulkojumu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> pamatā ir ideja, ka publiskai informācijai jābūt brīvi pieejamai un izmantojamai.</p>             <h3>                <a href=\"https://open-data.europa.eu/lv/data\">ES atklāto datu portāls</a>             </h3>             <p>Eiropas Savienības atklāto datu portāls ir vienots Eiropas Savienības iestāžu un citu struktūru datu avots. Šos datus var brīvi izmantot komerciāliem un nekomerciāliem mērķiem.</p>             <p> </p>             <p>                <strong>Īsumā par ES atklāto datu portālu</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/lv/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Saite uz ES atklāto datu portāla video\"                        title=\"Saite uz ES atklāto datu portāla video\"/>                </a>             </p>"
+      ],
+      "mt": [
+        "<p>Il-politika dwar id-Dejta Miftuħa <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> tal-UE hija bbażata fuq l-idea li l-informazzjoni pubblika għandha tkun disponibbli liberament għall-użu u l-użu mill-ġdid.</p>             <h3>                <a href=\"https://open-data.europa.eu/mt/data\">Il-Portal tad-Dejta Miftuħa tal-UE</a>             </h3>             <p>Il-Portal tad-Dejta Miftuħa tal-Unjoni Ewropea huwa punt uniku ta’ aċċess għal dejta mill-istituzzjonijiet u korpi oħra tal-Unjoni Ewropea. Din id-dejta tista’ tintuża u tintuża mill-ġdid liberament għal finijiet kummerċjali jew mhux kummerċjali.</p>             <p> </p>             <p>                <strong>Il-Portal tad-Dejta Miftuħa tal-UE fil-qosor</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/mt/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Link għall-filmat dwar il-Portal tad-Dejta Miftuħa\"                        title=\"Link għall-filmat dwar il-Portal tad-Dejta Miftuħa\"/>                </a>             </p>"
+      ],
+      "nl": [
+        "<p>Het opendatabeleid <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Bekijk deze link in een andere taal\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Bekijk deze link in een andere taal\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> van de EU is gebaseerd op het idee dat overheidsinformatie vrij beschikbaar moet zijn voor gebruik en hergebruik.</p>             <h3>                <a href=\"https://open-data.europa.eu/nl/data\">Het opendataportaal van de EU</a>             </h3>             <p>Het opendataportaal van de EU is het centrale toegangspunt tot gegevens van de instellingen en andere organen van de EU. Iedereen mag deze gegevens inkijken en hergebruiken voor commerciële of niet-commerciële doeleinden.</p>             <p> </p>             <p>                <strong>Het opendataportaal van de EU in een notendop</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/nl/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Klik hier voor een video over het opendataportaal\"                        title=\"Klik hier voor een video over het opendataportaal\"/>                </a>             </p>"
+      ],
+      "pl": [
+        "<p>U podstaw unijnej polityki „otwartych danych” <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Wybierz wersję językową tego linka\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Wybierz wersję językową tego linka\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> leży zasada, zgodnie z którą wszelkie informacje o charakterze publicznym powinny być dostępne dla ogółu społeczeństwa – do wglądu oraz do ponownego wykorzystania.</p>             <h3>                <a href=\"https://open-data.europa.eu/pl/data\">Portal otwartych danych UE</a>             </h3>             <p>W Portalu Otwartych Danych Unii Europejskiej znajdą Państwo dane instytucji i organów UE. Dane te można swobodnie wykorzystywać, zarówno do celów komercyjnych, jak i niekomercyjnych.</p>             <p> </p>             <p>                <strong>Portal otwartych danych UE w skrócie</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/pl/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Link do filmu o Portalu Otwartych Danych UE\"                        title=\"Link do filmu o Portalu Otwartych Danych UE\"/>                </a>             </p>"
+      ],
+      "pt": [
+        "<p>A política da UE em matéria de dados abertos <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traduções da ligação anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traduções da ligação anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> baseia-se no princípio de que as informações públicas devem ser postas à disposição dos interessados para que possam ser livremente utilizadas e reutilizadas.</p>             <h3>                <a href=\"https://open-data.europa.eu/pt/data\">Portal de Dados Abertos da UE</a>             </h3>             <p>O Portal de Dados Abertos da UE é o ponto de acesso único aos dados das instituições e outros organismos da União Europeia. Esses dados podem ser utilizados e reutilizados gratuitamente para fins comerciais ou não comerciais.</p>             <p> </p>             <p>                <strong>O que é o Portal de Dados Abertos da UE?</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/pt/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Ligação para o vídeo sobre o Portal de Dados Abertos\"                        title=\"Ligação para o vídeo sobre o Portal de Dados Abertos\"/>                </a>             </p>"
+      ],
+      "ro": [
+        "<p>Politica UE privind datele deschise <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traducerile linkului anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traducerile linkului anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> are la bază ideea că informațiile publice ar trebui să poată fi utilizate și reutilizate în mod gratuit.</p>             <h3>                <a href=\"https://open-data.europa.eu/ro/data\">Portalul de Date Deschise al UE</a>             </h3>             <p>Portalul de Date Deschise al UE este punctul unic de acces la datele provenind de la instituțiile și organismele Uniunii Europene. Aceste date pot fi utilizate și reutilizate în scopuri comerciale sau necomerciale, în mod gratuit.</p>             <p> </p>             <p>                <strong>Pe scurt, despre Portalul de Date Deschise al UE</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/ro/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Videoclip despre Portalul de Date Deschise\"                        title=\"Videoclip despre Portalul de Date Deschise\"/>                </a>             </p>"
+      ],
+      "sk": [
+        "<p>Politika EÚ v oblasti voľných údajov <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrať preklady k predchádzajúcemu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> vychádza z myšlienky, že prístup k verejným údajom a ich ďalšie použitie by nemali podliehať žiadnym obmedzeniam.</p>             <h3>                <a href=\"https://open-data.europa.eu/sk/data\">Portál pre voľné údaje EÚ</a>             </h3>             <p>Portál pre voľné údaje Európskej únie je jednotným miestom pre prístup k údajom inštitúcií a iných orgánov Európskej únie. Tieto údaje môžu byť využité a opätovne použité voľne na komerčné alebo nekomerčné účely.</p>             <p> </p>             <p>                <strong>Portál pre voľné údaje EÚ v skratke</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/sk/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Odkaz na video o Portáli pre voľné údaje\"                        title=\"Odkaz na video o Portáli pre voľné údaje\"/>                </a>             </p>"
+      ],
+      "sl": [
+        "<p>Politika odprtih podatkov <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Seznam prevodov predhodne povezave\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Seznam prevodov predhodne povezave\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> Evropske unije temelji na načelu, da morajo biti podatki javnih organov brezplačno na razpolago za uporabo in ponovno uporabo.</p>             <h3>                <a href=\"https://open-data.europa.eu/sl/data\">Portal odprtih podatkov EU</a>             </h3>             <p>Portal odprtih podatkov Evropske unije je enotna točka dostopa do podatkov institucij in drugih organov Evropske unije. Podatke je mogoče uporabiti in ponovno uporabiti za komercialne in nekomercialne namene.</p>             <p> </p>             <p>                <strong>Na kratko o portalu odprtih podatkov EU</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/sl/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Povezava na videoposnetek o portalu odprtih podatkov\"                        title=\"Povezava na videoposnetek o portalu odprtih podatkov\"/>                </a>             </p>"
+      ],
+      "sv": [
+        "<p>EU:s politik för öppna data <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(0)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Visa översättning av föregående länk\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Visa översättning av föregående länk\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\"                         style=\"width: 170px; z-index: 9999; top: -5px; left: -9999px; display: none;\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://ec.europa.eu/digital-agenda/en/open-data-0\" class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> grundar sig på tanken att det ska vara fritt att använda och vidareutnyttja offentlig information.</p>             <h3>                <a href=\"https://open-data.europa.eu/sv/data\">EU:s portal för öppna data</a>             </h3>             <p>I EU:s portal finns data från EU:s institutioner och organ samlade på ett enda ställe. Dataserierna får användas fritt för kommersiella och andra ändamål.</p>             <p> </p>             <p>                <strong>Det här är EU:s portal för öppna data</strong>             </p>             <p>                <a href=\"https://open-data.europa.eu/sv/open-data-video\">                   <img src=\"http://europa.eu/publications/images/open_data_video.png\"                        alt=\"Videoklipp om EU:s portal för öppna data\"                        title=\"Videoklipp om EU:s portal för öppna data\"/>                </a>             </p>"
+      ]
+    }
+  }
+}

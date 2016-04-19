@@ -1,0 +1,506 @@
+{
+  "_id": "080126248e077690",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "it",
+    "lv",
+    "lt",
+    "hu"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e077690",
+        "080126248e077690",
+        "080126248e077690",
+        "080126248e077690",
+        "080126248e077690",
+        "080126248e077690",
+        "080126248e077690",
+        "080126248e077690",
+        "080126248e077690",
+        "080126248e077690"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска служба за външна дейност"
+      ],
+      "cs": [
+        "Evropská služba pro vnější činnost"
+      ],
+      "da": [
+        "EU's Udenrigstjeneste"
+      ],
+      "de": [
+        "Europäischer Auswärtiger Dienst"
+      ],
+      "el": [
+        "Ευρωπαϊκή Υπηρεσία Εξωτερικής Δράσης"
+      ],
+      "en": [
+        "European External Action Service (EEAS)"
+      ],
+      "es": [
+        "Servicio Europeo de Acción Exterior"
+      ],
+      "et": [
+        "Euroopa välisteenistus"
+      ],
+      "fi": [
+        "Euroopan ulkosuhdehallinto"
+      ],
+      "fr": [
+        "Service européen pour l’action extérieure"
+      ],
+      "ga": [
+        "An tSeirbhís Eorpach Gníomhaíochta Seachtraí"
+      ],
+      "hu": [
+        "Európai Külügyi Szolgálat"
+      ],
+      "it": [
+        "Servizio europeo per l’azione esterna"
+      ],
+      "lt": [
+        "Europos išorės veiksmų tarnyba"
+      ],
+      "lv": [
+        "Eiropas Ārējās darbības dienests"
+      ],
+      "mt": [
+        "Servizz Ewropew għall-Azzjoni Esterna"
+      ],
+      "nl": [
+        "Europese Dienst voor extern optreden"
+      ],
+      "pl": [
+        "Europejska Służba Działań Zewnętrznych"
+      ],
+      "pt": [
+        "Serviço Europeu para a Ação Externa"
+      ],
+      "ro": [
+        "Serviciul European de Acțiune Externă"
+      ],
+      "sk": [
+        "Európska služba pre vonkajšiu činnosť"
+      ],
+      "sl": [
+        "Evropska služba za zunanje delovanje"
+      ],
+      "sv": [
+        "Europeiska utrikestjänsten"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_eeas.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>1046 Brussels</p> <p>Belgium</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 584 11 11"
+      ]
+    },
+    "link_url": {
+      "bg": [
+        "http://www.eeas.europa.eu/contact/index_bg.htm"
+      ],
+      "cs": [
+        "http://www.eeas.europa.eu/contact/index_cs.htm"
+      ],
+      "da": [
+        "http://www.eeas.europa.eu/contact/index_da.htm"
+      ],
+      "de": [
+        "http://www.eeas.europa.eu/contact/index_de.htm"
+      ],
+      "el": [
+        "http://www.eeas.europa.eu/contact/index_el.htm"
+      ],
+      "en": [
+        "http://www.eeas.europa.eu/contact/index_en.htm"
+      ],
+      "es": [
+        "http://www.eeas.europa.eu/contact/index_es.htm"
+      ],
+      "et": [
+        "http://www.eeas.europa.eu/contact/index_et.htm"
+      ],
+      "fi": [
+        "http://www.eeas.europa.eu/contact/index_fi.htm"
+      ],
+      "fr": [
+        "http://www.eeas.europa.eu/contact/index_fr.htm"
+      ],
+      "ga": [
+        "http://www.eeas.europa.eu/contact/index_ga.htm"
+      ],
+      "hu": [
+        "http://www.eeas.europa.eu/contact/index_hu.htm"
+      ],
+      "it": [
+        "http://www.eeas.europa.eu/contact/index_it.htm"
+      ],
+      "lt": [
+        "http://www.eeas.europa.eu/contact/index_lt.htm"
+      ],
+      "lv": [
+        "http://www.eeas.europa.eu/contact/index_lv.htm"
+      ],
+      "mt": [
+        "http://www.eeas.europa.eu/contact/index_mt.htm"
+      ],
+      "nl": [
+        "http://www.eeas.europa.eu/contact/index_nl.htm"
+      ],
+      "pl": [
+        "http://www.eeas.europa.eu/contact/index_pl.htm"
+      ],
+      "pt": [
+        "http://www.eeas.europa.eu/contact/index_pt.htm"
+      ],
+      "ro": [
+        "http://www.eeas.europa.eu/contact/index_ro.htm"
+      ],
+      "sk": [
+        "http://www.eeas.europa.eu/contact/index_sk.htm"
+      ],
+      "sl": [
+        "http://www.eeas.europa.eu/contact/index_sl.htm"
+      ],
+      "sv": [
+        "http://www.eeas.europa.eu/contact/index_sv.htm"
+      ]
+    },
+    "link_label": {
+      "bg": [
+        "За контакти"
+      ],
+      "cs": [
+        "Kontakt"
+      ],
+      "da": [
+        "Kontakt"
+      ],
+      "de": [
+        "Kontakt"
+      ],
+      "el": [
+        "Επικοινωνία"
+      ],
+      "en": [
+        "Contact"
+      ],
+      "es": [
+        "Dirección de contacto"
+      ],
+      "et": [
+        "Kontakt"
+      ],
+      "fi": [
+        "Yhteydenotot"
+      ],
+      "fr": [
+        "Contact"
+      ],
+      "ga": [
+        "Teagmháil"
+      ],
+      "hu": [
+        "Kapcsolat"
+      ],
+      "it": [
+        "Per contattarci"
+      ],
+      "lt": [
+        "Kontaktai"
+      ],
+      "lv": [
+        "Kontakti"
+      ],
+      "mt": [
+        "Kuntatt"
+      ],
+      "nl": [
+        "Contact"
+      ],
+      "pl": [
+        "Kontakt"
+      ],
+      "pt": [
+        "Contacto"
+      ],
+      "ro": [
+        "Contact"
+      ],
+      "sk": [
+        "Kontakt"
+      ],
+      "sl": [
+        "Kontakt"
+      ],
+      "sv": [
+        "Kontakt"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "https://www.facebook.com/EuropeanExternalActionService",
+        "https://twitter.com/eu_eeas",
+        "https://www.youtube.com/user/EUExternalAction",
+        "https://www.flickr.com/photos/eeas/",
+        "http://europa.eu/contact/social-networks/index_en.html",
+        "https://www.youtube.com/channel/UCncJvnJeRcPYm_0jlQYmiig/feed?activity_view=1",
+        "https://www.flickr.com/photos/64269515@N07/albums/"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Facebook",
+        "Twitter",
+        "YouTube",
+        "Flickr",
+        "Social networks",
+        "YouTube",
+        "Flickr"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    }
+  }
+}

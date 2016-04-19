@@ -1,0 +1,930 @@
+{
+    "_id": "d79d716ce45e0912fb1a473aefd99dc1",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/business/startups/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/business/startups/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/business/startups/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/business/startups/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/business/startups/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/business/startups/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/business/startups/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/business/startups/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/business/startups/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/business/startups/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/business/startups/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/business/startups/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/business/startups/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/business/startups/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/business/startups/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/business/startups/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/business/startups/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/business/startups/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/business/startups/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/business/startups/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/business/startups/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/business/startups/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/business/startups/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/business/startups/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Стартиращи предприятия"
+            ],
+            "cs": [
+                "Začínající podniky"
+            ],
+            "da": [
+                "Nye virksomheder"
+            ],
+            "de": [
+                "Existenzgründung"
+            ],
+            "el": [
+                "Νεοφυείς επιχειρήσεις"
+            ],
+            "en": [
+                "Start-ups"
+            ],
+            "es": [
+                "Empresas emergentes"
+            ],
+            "et": [
+                "Idufirmad"
+            ],
+            "fi": [
+                "Uudet yritykset"
+            ],
+            "fr": [
+                "Créer une entreprise"
+            ],
+            "ga": [
+                "Cuideachtaí nuathionscanta"
+            ],
+            "hr": [
+                "Nova poduzeća"
+            ],
+            "hu": [
+                "Vállalkozásindítás"
+            ],
+            "it": [
+                "Nuove imprese"
+            ],
+            "lt": [
+                "Pradedančiosios įmonės"
+            ],
+            "lv": [
+                "Uzņēmuma izveide"
+            ],
+            "mt": [
+                "Negozji ġodda"
+            ],
+            "nl": [
+                "Een bedrijf oprichten"
+            ],
+            "pl": [
+                "Firmy rozpoczynające działalność"
+            ],
+            "pt": [
+                "Startups"
+            ],
+            "ro": [
+                "Întreprinderi noi"
+            ],
+            "sk": [
+                "Začínajúce podniky"
+            ],
+            "sl": [
+                "Zagonska podjetja"
+            ],
+            "sv": [
+                "Nystartade företag"
+            ]
+        },
+        "category": {
+            "und": [
+                "60623c10"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "/INDEX/HP/EN"
+            ],
+            "cs": [
+                "/INDEX/HP/EN"
+            ],
+            "da": [
+                "/INDEX/HP/EN"
+            ],
+            "de": [
+                "/INDEX/HP/EN"
+            ],
+            "el": [
+                "/INDEX/HP/EN"
+            ],
+            "en": [
+                "/INDEX/HP/EN"
+            ],
+            "es": [
+                "/INDEX/HP/EN"
+            ],
+            "et": [
+                "/INDEX/HP/EN"
+            ],
+            "fi": [
+                "/INDEX/HP/EN"
+            ],
+            "fr": [
+                "/INDEX/HP/EN"
+            ],
+            "ga": [
+                "/INDEX/HP/EN"
+            ],
+            "hr": [
+                "/INDEX/HP/EN"
+            ],
+            "hu": [
+                "/INDEX/HP/EN"
+            ],
+            "it": [
+                "/INDEX/HP/EN"
+            ],
+            "lt": [
+                "/INDEX/HP/EN"
+            ],
+            "lv": [
+                "/INDEX/HP/EN"
+            ],
+            "mt": [
+                "/INDEX/HP/EN"
+            ],
+            "nl": [
+                "/INDEX/HP/EN"
+            ],
+            "pl": [
+                "/INDEX/HP/EN"
+            ],
+            "pt": [
+                "/INDEX/HP/EN"
+            ],
+            "ro": [
+                "/INDEX/HP/EN"
+            ],
+            "sk": [
+                "/INDEX/HP/EN"
+            ],
+            "sl": [
+                "/INDEX/HP/EN"
+            ],
+            "sv": [
+                "/INDEX/HP/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM/A5"
+            ],
+            "cs": [
+                "COMM/COMM/A5"
+            ],
+            "da": [
+                "COMM/COMM/A5"
+            ],
+            "de": [
+                "COMM/COMM/A5"
+            ],
+            "el": [
+                "COMM/COMM/A5"
+            ],
+            "en": [
+                "COMM/COMM/A5"
+            ],
+            "es": [
+                "COMM/COMM/A5"
+            ],
+            "et": [
+                "COMM/COMM/A5"
+            ],
+            "fi": [
+                "COMM/COMM/A5"
+            ],
+            "fr": [
+                "COMM/COMM/A5"
+            ],
+            "ga": [
+                "COMM/COMM/A5"
+            ],
+            "hr": [
+                "COMM/COMM/A5"
+            ],
+            "hu": [
+                "COMM/COMM/A5"
+            ],
+            "it": [
+                "COMM/COMM/A5"
+            ],
+            "lt": [
+                "COMM/COMM/A5"
+            ],
+            "lv": [
+                "COMM/COMM/A5"
+            ],
+            "mt": [
+                "COMM/COMM/A5"
+            ],
+            "nl": [
+                "COMM/COMM/A5"
+            ],
+            "pl": [
+                "COMM/COMM/A5"
+            ],
+            "pt": [
+                "COMM/COMM/A5"
+            ],
+            "ro": [
+                "COMM/COMM/A5"
+            ],
+            "sk": [
+                "COMM/COMM/A5"
+            ],
+            "sl": [
+                "COMM/COMM/A5"
+            ],
+            "sv": [
+                "COMM/COMM/A5"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Започване на бизнес — вашите права и задължения и как да защитавате интелектуалната си собственост (търговски марки, патенти, друга поверителна информация)."
+            ],
+            "cs": [
+                "Zahájení podnikání – vaše práva a povinnosti, ochrana duševního vlastnictví (ochranné známky, patenty, důvěrné informace)."
+            ],
+            "da": [
+                "Opstart af virksomhed – dine rettigheder og pligter, og hvordan du beskytter din intellektuelle ejendomsret (varemærker, patenter, andre fortrolige oplysninger)."
+            ],
+            "de": [
+                "Gründung eines Unternehmens – Ihre Rechte und Pflichten, Schutz des geistigen Eigentums (Marken, Patente, andere vertrauliche Informationen)."
+            ],
+            "el": [
+                "Ξεκινώντας μια επιχείρηση –  τα δικαιώματα και οι υποχρεώσεις σας, και πώς να προστατέψετε τη διανοητική ιδιοκτησία σας (εμπορικά σήματα, ευρεσιτεχνίες, άλλες πληροφορίες εμπιστευτικού χαρακτήρα)."
+            ],
+            "en": [
+                "Starting a business – your rights & obligations, and how to protect your intellectual property (trademarks, patents, other confidential information)."
+            ],
+            "es": [
+                "Crear una empresa: derechos y obligaciones, protección de los derechos de propiedad intelectual (patentes, marcas comerciales y todo tipo de información confidencial)."
+            ],
+            "et": [
+                "Ettevõtlusega alustamine − Teie õigused ja kohustused ning kuidas kaitsta oma intellektuaalomandit (kaubamärke, patente ja muud konfidentsiaalset teavet)."
+            ],
+            "fi": [
+                "Yrityksen perustaminen – oikeudet ja velvollisuudet sekä teollis- ja tekijänoikeuksien suoja (tavaramerkit, patentit, muu luottamuksellinen tieto)"
+            ],
+            "fr": [
+                "Créer une entreprise – Droits et obligations, et protection de la propriété intellectuelle (marques, brevets et autres informations confidentielles)."
+            ],
+            "ga": [
+                "Gnólacht a thionscnamh – do chuid ceart agus oibleagáidí atá, agus conas do mhaoin intleachtúil (trádmharcanna, paitinní agus eolas rúnda eile) a chosaint."
+            ],
+            "hr": [
+                "Starting a business – your rights & obligations, and how to protect your intellectual property (trademarks, patents, other confidential information)."
+            ],
+            "hu": [
+                "Cégalapítás – Jogok és kötelezettségek, a szellemi tulajdon (védjegy, szabadalom, egyéb bizalmas információk) védelmével kapcsolatos tudnivalók"
+            ],
+            "it": [
+                "Avviare un'impresa – obblighi e diritti, come proteggere la proprietà intellettuale (marchi, brevetti, altre informazioni riservate)."
+            ],
+            "lt": [
+                "Įmonės steigimas. Jūsų teisės ir pareigos, intelektinės nuosavybės apsauga (prekių ženklai, patentai, kita konfidenciali informacija)."
+            ],
+            "lv": [
+                "Jauna uzņēmuma dibināšana — kādas ir jūsu tiesības un pienākumi un kā aizsargāt jūsu intelektuālo īpašumu (preču zīmes, patentus, konfidenciālu informāciju)."
+            ],
+            "mt": [
+                "Bidu ta’ negozju — id-drittijiet u l-obbligi tiegħek, u kif tipproteġi l-proprjetà intellettwali tiegħek (il-marki kummerċjali, il-privattivi, informazzjoni kunfidenzjali oħra)."
+            ],
+            "nl": [
+                "Een onderneming beginnen - uw rechten en plichten, en de bescherming van uw intellectuele eigendom (handelsmerken, octrooien en andere vertrouwelijke informatie)."
+            ],
+            "pl": [
+                "Jak założyć firmę – prawa i obowiązki, ochrona własności intelektualnej (znaki towarowe, patenty i inne informacje niejawne)"
+            ],
+            "pt": [
+                "Criar uma empresa – Direitos e obrigações. Proteção dos direitos de propriedade intelectual (marcas, patentes, outras informações confidenciais)."
+            ],
+            "ro": [
+                "Înființarea unei firme - drepturile și obligațiile dvs., protejarea proprietății intelectuale (mărci, brevete, alte informații confidențiale)."
+            ],
+            "sk": [
+                "Začatie podnikania – vaše práva a povinnosti a ochrana duševného vlastníctva (ochranné známky, patenty a iné dôverné informácie)."
+            ],
+            "sl": [
+                "Ustanovitev podjetja – vaše pravice in obveznosti ter kako zaščititi intelektualno lastnino (zaščitene znamke, patente, druge zaupne informacije)."
+            ],
+            "sv": [
+                "Starta eget – rättigheter, skyldigheter och skydd av affärsidéer (varumärken, patent och annan konfidentiell information)"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "стартиращо предприятие",
+                "правни изисквания",
+                "търговски марки",
+                "патенти",
+                "дизайни",
+                "интелектуална собственос",
+                "бизнес, предприятие",
+                "Европейски съюз",
+                "EUROPA",
+                "ЕС"
+            ],
+            "cs": [
+                "začínající podnik, startup, start-up",
+                "právní požadavky, zákonné požadavky",
+                "ochranné známky",
+                "patenty",
+                "design, návrh, projekt, koncepce",
+                "duševní vlastnictví",
+                "podnikání",
+                "Evropská unie",
+                "EUROPA",
+                "EU"
+            ],
+            "da": [
+                "opstart",
+                "lovmæssige krav",
+                "varemærker",
+                "patenter",
+                "design",
+                "intellektuel ejendomsret",
+                "erhvervsliv",
+                "den europæiske union",
+                "EUROPA",
+                "EU"
+            ],
+            "de": [
+                "Start-up, Unternehmensgründung, Existenzgründu",
+                "rechtliche Anforderungen",
+                "Marken",
+                "Patente",
+                "Muster und Modelle",
+                "geistiges Eigentum",
+                "Unternehmen",
+                "Europäische Union",
+                "EUROPA",
+                "EU"
+            ],
+            "el": [
+                "εκκίνηση, νεοφυής επιχείρ",
+                "νομικές απαιτήσεις",
+                "εμπορικά σήματα",
+                "ευρεσιτεχνίες, διπλώματα",
+                "σχέδια",
+                "διανοητική ιδιοκτησία",
+                "επιχείρηση, επιχειρηματικ",
+                "Ευρωπαϊκή Ένωση",
+                "EUROPA",
+                "ΕΕ"
+            ],
+            "en": [
+                "startup",
+                "legal requirements",
+                "trademarks",
+                "patents",
+                "designs",
+                "intellectual property",
+                "business",
+                "European Union",
+                "EUROPA",
+                "EU"
+            ],
+            "es": [
+                "creación de una empresa",
+                "requisitos legales",
+                "marcas comerciales",
+                "patentes",
+                "dibujos, diseños",
+                "propiedad intelectual",
+                "negocios, empresas",
+                "Unión Europea",
+                "EUROPA",
+                "UE"
+            ],
+            "et": [
+                "idufirma",
+                "õiguslikud nõuded",
+                "kaubamärgid",
+                "kaubamärgid",
+                "disainilahendused",
+                "intellektuaalomand",
+                "küsimused",
+                "Euroopa Liit",
+                "EUROPA",
+                "EL"
+            ],
+            "fi": [
+                "uusi yritys",
+                "lakisääteiset vaatimukset",
+                "tavaramerkit",
+                "patentit",
+                "suunnitelmat",
+                "henkinen omaisuus, teollis- ja tekijänoikeudet,",
+                "liiketoiminta",
+                "Euroopan unioni",
+                "EUROPA",
+                "EU"
+            ],
+            "fr": [
+                "démarrage, démarrer, créer",
+                "exigences légales",
+                "marques",
+                "brevets",
+                "dessins et modèles",
+                "propriété intellectuelle",
+                "entreprise",
+                "Union européenne",
+                "EUROPA",
+                "UE"
+            ],
+            "ga": [
+                "cuideachta nuathionscanta",
+                "ceanglais dlí",
+                "trádmharcanna",
+                "paitinní",
+                "dearaí",
+                "maoin intleachtúil",
+                "gnó",
+                "An tAontas Eorpach",
+                "EUROPA",
+                "AE"
+            ],
+            "hr": [
+                "startup",
+                "legal requirements",
+                "trademarks",
+                "patents",
+                "designs",
+                "intellectual property",
+                "business",
+                "European Union",
+                "EUROPA",
+                "EU"
+            ],
+            "hu": [
+                "vállalkozásindítás, cégalapítás, kezdő v",
+                "jogi előírások, jogi követelmények",
+                "védjegy",
+                "szabadalmak",
+                "formatervezési minta",
+                "szellemi tulajdon",
+                "vállalkozások, cégek, üzleti világ",
+                "Európai Unió",
+                "EUROPA",
+                "EU"
+            ],
+            "it": [
+                "startup, nuova impresa",
+                "requisiti giuridici, requisiti di legge",
+                "marchi commerciali",
+                "brevetti",
+                "disegni e modelli",
+                "proprietà intellettuale",
+                "impresa, azienda",
+                "Unione europea",
+                "EUROPA",
+                "UE"
+            ],
+            "lt": [
+                "pradedančioji įmonė",
+                "teisiniai reikalavimai",
+                "prekių ženklai",
+                "patentai",
+                "dizainas",
+                "intelektinė nuosavybė",
+                "verslas, įmonė",
+                "Europos Sąjunga",
+                "EUROPA",
+                "ES"
+            ],
+            "lv": [
+                "jauns uzņēmums, uzņēmuma izveidošana",
+                "juridiskās prasības",
+                "preču zīmes",
+                "patents, patenti, patentu",
+                "dizainparaugi",
+                "intelektuālais īpašums",
+                "bizness, uzņēmējdarbība",
+                "Eiropas Savienība",
+                "EUROPA",
+                "ES"
+            ],
+            "mt": [
+                "negozju li jkun għadu kemm jiftaħ",
+                "rekwiżiti legali",
+                "marki kummerċjali",
+                "privattivi",
+                "disinni",
+                "proprjetà intellettwali",
+                "negozju",
+                "Unjoni Ewropea",
+                "EUROPA",
+                "UE"
+            ],
+            "nl": [
+                "startup, starten",
+                "wettelijke eisen",
+                "handelsmerk, handelsmerken",
+                "octrooi, octrooien",
+                "modellen, ontwerpen",
+                "intellectueel eigendom",
+                "bedrijven, ondernemingen, bedrijfsleven",
+                "Europese Unie",
+                "EUROPA",
+                "EU"
+            ],
+            "pl": [
+                "startup",
+                "wymogi prawne",
+                "znaki towarowe",
+                "patenty",
+                "wzory, projekty",
+                "własność intelektualna",
+                "biznes",
+                "Unia Europejska",
+                "EUROPA",
+                "UE"
+            ],
+            "pt": [
+                "nova empresa, empresa em fase de arranque",
+                "requisitos legais",
+                "marcas",
+                "patentes",
+                "desenhos, modelos",
+                "propriedade intelectual",
+                "empresa",
+                "união europeia",
+                "europa",
+                "ue"
+            ],
+            "ro": [
+                "înființare, creare",
+                "cerințe juridice",
+                "mărci",
+                "brevete",
+                "desene",
+                "proprietate intelectuală",
+                "afacere, firmă",
+                "Uniunea Europeană",
+                "EUROPA",
+                "UE"
+            ],
+            "sk": [
+                "začínajúci podnik",
+                "právne požiadavky",
+                "ochranné známky",
+                "patenty",
+                "dizajny",
+                "duševné vlastníctvo",
+                "podnikanie, obchod",
+                "Európska únia",
+                "EUROPA",
+                "EÚ"
+            ],
+            "sl": [
+                "zagonsko podjetje",
+                "zakonske zahteve",
+                "zaščitene znamke",
+                "patenti",
+                "vzorci in modeli",
+                "intelektualna lastnina",
+                "podjetje",
+                "Evropska unija",
+                "EUROPA",
+                "EU"
+            ],
+            "sv": [
+                "nystartat företag",
+                "rättsliga krav",
+                "varumärken",
+                "patent",
+                "mönster",
+                "affärsidé, immaterialrätt",
+                "affärer",
+                "europeiska unionen",
+                "europa, europa.eu",
+                "eu"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Стартиращи предприятия</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Започване на бизнес в ЕС</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_bg.htm\">                                              <span>Правни изисквания</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Създаване на европейско дружество</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_bg.htm\">                                              <span>Европейско дружество — правна форма</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Защита на вашите бизнес идеи</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_bg.htm\">                                              <span>Права върху интелектуалната собственост</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Изготвяне на годишни счетоводни отчети</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_bg.htm\">                                              <span>Годишни отчети</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Сливания на дружества с ограничена отговорност</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_bg.htm\">                                              <span>Сливания с чуждестранни компании</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "cs": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Začínající podniky</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Založení firmy v EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_cs.htm\">                                              <span>Zákonné požadavky</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Zřízení evropské společnosti</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_cs.htm\">                                              <span>Evropská společnost – právní forma</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Ochrana vašich podnikatelských nápadů</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_cs.htm\">                                              <span>Práva duševního vlastnictví</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Sestavení roční účetní závěrky</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_cs.htm\">                                              <span>Roční účetní závěrka</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Fúze akciových společností</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_cs.htm\">                                              <span>Fúze podniku se zahraničními společnostmi</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "da": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Nye virksomheder</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Start af virksomhed i EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_da.htm\">                                              <span>Krav i henhold til loven</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Etabler et europæisk selskab</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_da.htm\">                                              <span>Europæisk selskab – retlig form</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Beskyt dine forretningsidéer</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_da.htm\">                                              <span>Intellektuelle ejendomsrettigheder</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Hold årsregnskaber</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_da.htm\">                                              <span>Årsregnskab</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Fusioner af selskaber med begrænset ansvar</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_da.htm\">                                              <span>Fusioner med udenlandske virksomheder</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "de": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Existenzgründung</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Ein Unternehmen in der EU gründen</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_de.htm\">                                              <span>Rechtliche Anforderungen</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Gründung einer Europäischen Gesellschaft</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_de.htm\">                                              <span>Europäische Gesellschaft – Rechtsform</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Schutz Ihrer Geschäftsideen</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_de.htm\">                                              <span>Rechte des geistigen Eigentums</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Jahresabschluss</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_de.htm\">                                              <span>Jahresabschlüsse</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Zusammenschlüsse von Gesellschaften mit beschränkter Haftung</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_de.htm\">                                              <span>Zusammenschlüsse mit ausländischen Unternehmen</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "el": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Νεοφυείς επιχειρήσεις</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Σύσταση επιχείρησης στην ΕΕ</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_el.htm\">                                              <span>Νομικές απαιτήσεις</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Σύσταση ευρωπαϊκής εταιρείας</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_el.htm\">                                              <span>Eυρωπαϊκή εταιρεία - νομική μορφή</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Προστατέψτε τις επιχειρηματικές σας ιδέες</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_el.htm\">                                              <span>Δικαιώματα διανοητικής ιδιοκτησίας</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Τήρηση ετήσιων λογαριασμών</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_el.htm\">                                              <span>Ετήσιοι λογαριασμοί</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Συγχωνεύσεις κεφαλαιουχικών εταιρειών</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_el.htm\">                                              <span>Συγχωνεύσεις με ξένες εταιρείες</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "en": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Start-ups</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Start your own business in the EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_en.htm\">                                              <span>Legal requirements</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Set up a European Company</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_en.htm\">                                              <span>Set up a European Company (Societas Europaea)</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Protect your business ideas</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_en.htm\">                                              <span>Intellectual property rights</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Keeping annual accounts</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_en.htm\">                                              <span>Rules on annual accounts</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Merging with foreign companies</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_en.htm\">                                              <span>Mergers of limited liability companies</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "es": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Empresas emergentes</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Crear una empresa en la UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_es.htm\">                                              <span>Requisitos legales</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Crear una sociedad anónima europea</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_es.htm\">                                              <span>Societas Europaea (SE) - forma jurídica</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Proteger tus ideas comerciales</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_es.htm\">                                              <span>Derechos de propiedad intelectual</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Llevar cuentas anuales</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_es.htm\">                                              <span>Cuentas anuales</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Fusiones con sociedades anónimas</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_es.htm\">                                              <span>Fusiones con empresas extranjeras</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "et": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Idufirmad</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Ettevõtlusega alustamine ELis</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_et.htm\">                                              <span>Õigusnõuded</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Asuta Euroopa äriühing</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_et.htm\">                                              <span>Euroopa äriühing − õiguslik vorm</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Kaubamärkide, patentide ja kavandite kaitsmine</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_et.htm\">                                              <span>Intellektuaalomandi õigused</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Raamatupidamise aastaaruande esitamine</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_et.htm\">                                              <span>Raamatupidamise aastaaruanne</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Aktsiaseltside ühinemine</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_et.htm\">                                              <span>Ühinemised välisriikide äriühingutega</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fi": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Uudet yritykset</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Yrityksen perustaminen EU:ssa</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_fi.htm\">                                              <span>Lakisääteiset vaatimukset</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Eurooppayhtiön perustaminen</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_fi.htm\">                                              <span>Eurooppayhtiö</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Liikeideoiden suojaaminen</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_fi.htm\">                                              <span>Teollis- ja tekijänoikeudet</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Vuositilinpäätös</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_fi.htm\">                                              <span>Tilinpäätös</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Pääomayhtiöiden sulautumiset</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_fi.htm\">                                              <span>Sulautumat ulkomaisten yritysten kanssa</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Créer une entreprise</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Créer une entreprise dans l'UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_fr.htm\">                                              <span>Exigences légales</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Créer une société européenne</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_fr.htm\">                                              <span>Société européenne – Forme juridique</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Protéger ses inventions</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_fr.htm\">                                              <span>Droits de propriété intellectuelle</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Comptabilité</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_fr.htm\">                                              <span>Comptabilité</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Fusions des sociétés de capitaux</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_fr.htm\">                                              <span>Fusions avec des entreprises étrangères</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ga": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Cuideachtaí nuathionscanta</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Gnólacht a thosú san AE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_ga.htm\">                                              <span>Ceanglais dlí</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Cuideachta Eorpach a bhunú</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_ga.htm\">                                              <span>Cuideachta Eorpach (Societas Europaea) a bhunú</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Smaointe gnó atá agat a chosaint</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_ga.htm\">                                              <span>Cearta maoine intleachtúla</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Cuntais bhliantúla a choimeád</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_ga.htm\">                                              <span>Rialacha maidir le cuntais bhliantúla</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Cumaisc idir cuideachtaí faoi dhliteanas teoranta</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_ga.htm\">                                              <span>Cumaisc idir cuideachtaí faoi dhliteanas teoranta</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Nova poduzeća</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Pokretanje poduzeća u</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_hr.htm\">                                              <span>Pravni zahtjevi</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Osnujte europsko trgovačko društvo</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_hr.htm\">                                              <span>Europsko trgovačko društvo – pravni oblik</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Zaštitite svoje poslovne ideje</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_hr.htm\">                                              <span>Prava intelektualnog vlasništva</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Vođenje godišnjih financijskih izvještaja</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_hr.htm\">                                              <span>Godišnji fincijski izvještaji</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Spajanja društava s ograničenom odgovornošću</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_hr.htm\">                                              <span>Spajanja sa stranim poduzećima</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hu": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Vállalkozásindítás</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Cégalapítás az EU-ban</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_hu.htm\">                                              <span>Jogi követelmények</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Európai részvénytársaság létrehozása</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_hu.htm\">                                              <span>Európai részvénytársaság</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Az üzleti ötletek védelme</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_hu.htm\">                                              <span>Szellemitulajdon-jogok</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Az éves beszámoló elkészítése</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_hu.htm\">                                              <span>Éves beszámoló</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Részvénytársaságok egyesülése</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_hu.htm\">                                              <span>Fúzió külföldi vállalatokkal</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "it": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Nuove imprese</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Avviare un'impresa nell'UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_it.htm\">                                              <span>Prescrizioni di legge</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Costituire una società europea</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_it.htm\">                                              <span>Società europea - forma giuridica</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Tutelare le idee commerciali</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_it.htm\">                                              <span>Diritti di proprietà intellettuale</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Tenere la contabilità</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_it.htm\">                                              <span>Contabilità</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Fusioni di società di capitali</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_it.htm\">                                              <span>Fusioni con imprese estere</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Pradedančiosios įmonės</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Įmonės steigimas ES</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_lt.htm\">                                              <span>Teisiniai reikalavimai</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Įsteikite Europos bendrovę</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_lt.htm\">                                              <span>Europos bendrovė. Juridinis statusas</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Apsaugokite savo verslo idėjas</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_lt.htm\">                                              <span>Intelektinės nuosavybės teisės</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Metinės apskaitos vedimas</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_lt.htm\">                                              <span>Metinės finansinės ataskaitos</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Uždarųjų akcinių bendrovių susijungimas</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_lt.htm\">                                              <span>Susijungimas su užsienio įmonėmis</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Uzņēmuma izveide</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Uzņēmuma izveide ES</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_lv.htm\">                                              <span>Juridiskās prasības</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Eiropas uzņēmējsabiedrības izveide</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_lv.htm\">                                              <span>Juridiskā forma — Eiropas uzņēmējsabiedrība</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Uzņēmējdarbības ideju aizsardzība</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_lv.htm\">                                              <span>Intelektuālā īpašuma tiesības</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Grāmatvedības gada pārskatu sagatavošana</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_lv.htm\">                                              <span>Gada pārskati</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Akciju sabiedrību apvienošanās</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_lv.htm\">                                              <span>Apvienošanās ar ārvalstu uzņēmumiem</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "mt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Negozji ġodda</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Kif tibda negozju fl-UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_mt.htm\">                                              <span>Rekwiżiti legali</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Waqqaf Kumpanija Ewropea</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_mt.htm\">                                              <span>Kumpanija Ewropea - forma legali</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Ipproteġi l-ideat tan-negozju tiegħek</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_mt.htm\">                                              <span>Drittijiet tal-proprjetà intelletwali</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Iż-żamma tal-kontijiet annwali</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_mt.htm\">                                              <span>Kontijiet annwali</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Il-fużjonijiet ta’ kumpaniji b’responsabbiltà limitata</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_mt.htm\">                                              <span>Fużjonijiet ma' kumpaniji barranin</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "nl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Een bedrijf oprichten</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Een bedrijf beginnen in de EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_nl.htm\">                                              <span>Wettelijke regels</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Een Europese vennootschap oprichten</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_nl.htm\">                                              <span>Europese vennootschap - rechtsvorm</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Bescherm uw handelsmerk, octrooi, ontwerp...</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_nl.htm\">                                              <span>Intellectuele eigendomsrechten</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Jaarrekeningen opstellen</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_nl.htm\">                                              <span>Jaarrekeningen</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Fusies van kapitaalvennootschappen</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_nl.htm\">                                              <span>Fusie met een buitenlands bedrijf</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Firmy rozpoczynające działalność</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Jak założyć firmę w UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_pl.htm\">                                              <span>Wymogi prawne</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Jak założyć spółkę europejską</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_pl.htm\">                                              <span>Spółka europejska – forma prawna</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Chroń swój pomysł na biznes!</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_pl.htm\">                                              <span>Prawa własności intelektualnej</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Roczne sprawozdanie finansowe</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_pl.htm\">                                              <span>Roczne sprawozdanie finansowe</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Łączenie się spółek kapitałowych</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_pl.htm\">                                              <span>Połączenia z zagranicznymi przedsiębiorstwami</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Startups</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Criar uma empresa na UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_pt.htm\">                                              <span>Requisitos legais</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Criar uma Sociedade Europeia</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_pt.htm\">                                              <span>Sociedade Europeia: forma jurídica</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Proteger as suas ideias de negócio</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_pt.htm\">                                              <span>Direitos de propriedade intelectual</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Manter contas anuais</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_pt.htm\">                                              <span>Contas anuais</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Fusões de sociedades de responsabilidade limitada</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_pt.htm\">                                              <span>Fusões com empresas estrangeiras</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ro": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Întreprinderi noi</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Înființarea unei întreprinderi în UE</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_ro.htm\">                                              <span>Cerințe legale</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Înființarea unei societăți europene</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_ro.htm\">                                              <span>Societatea europeană - formă juridică</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Protejarea ideilor de afaceri</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_ro.htm\">                                              <span>Drepturile de proprietate intelectuală</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Contabilitate</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_ro.htm\">                                              <span>Conturi anuale</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Fuziunile societăților comerciale cu răspundere limitată</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_ro.htm\">                                              <span>Fuziunile cu societăți străine</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sk": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Začínajúce podniky</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Začatie podnikania v EÚ</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_sk.htm\">                                              <span>Právne požiadavky</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Založenie európskej spoločnosti</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_sk.htm\">                                              <span>Európska spoločnosť – právna forma</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Ochrana podnikateľských nápadov</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_sk.htm\">                                              <span>Práva duševného vlastníctva</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Zostavovanie ročných účtovných závierok</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_sk.htm\">                                              <span>Ročná účtovná závierka</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Fúzie spoločností s ručením obmedzeným</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_sk.htm\">                                              <span>Fúzie so zahraničnými spoločnosťami</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Zagonska podjetja</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Ustanovitev podjetja v EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_sl.htm\">                                              <span>Zakonske zahteve</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Ustanovitev evropske družbe</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_sl.htm\">                                              <span>Evropska družba – pravna oblika</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Zaščita poslovnih zamisli</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_sl.htm\">                                              <span>Pravice intelektualne lastnine</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Računovodski izkazi</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_sl.htm\">                                              <span>Letni računovodski izkazi</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Združitve družb z omejeno odgovornostjo</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_sl.htm\">                                              <span>Združitev s tujimi družbami</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Nystartade företag</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Starta eget i EU</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/start-ups/index_sv.htm\">                                              <span>Rättsliga krav</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Starta ett europabolag</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_sv.htm\">                                              <span>Europabolag</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_3\">Skydda dina affärsidéer</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/intellectual-property-rights/index_sv.htm\">                                              <span>Immaterialrätt</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_4\">Upprätta årsbokslut</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/annual-accounts/index_sv.htm\">                                              <span>Årsbokslut</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_5\">Fusioner av aktiebolag</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/start-grow/mergers-acquisitions/index_sv.htm\">                                              <span>Gå samman med utländska företag</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_d79d716ce45e0912fb1a473aefd99dc1"
+            ]
+        },
+        "download_item": {
+            "und": [
+                "download_item_d79d716ce45e0912fb1a473aefd99dc1"
+            ]
+        }
+    }
+}

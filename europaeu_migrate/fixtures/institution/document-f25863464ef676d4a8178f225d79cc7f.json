@@ -1,0 +1,793 @@
+{
+    "_id": "f25863464ef676d4a8178f225d79cc7f",
+    "type": "institution",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/frontex/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Европейска агенция за управление на операционно сътрудничество в периферните райони"
+            ],
+            "cs": [
+                "Evropská agentura pro řízení operativní spolupráce na vnějších hranicích členských států EU"
+            ],
+            "da": [
+                "Det Europæiske Agentur for Forvaltning af det Operative Samarbejde ved de Ydre Grænser"
+            ],
+            "de": [
+                "Europäische Agentur für die operative Zusammenarbeit an den Außengrenzen"
+            ],
+            "el": [
+                "Ευρωπαϊκός οργανισμός για τη διαχείριση της επιχειρησιακής συνεργασίας στα εξωτερικά"
+            ],
+            "en": [
+                "European Agency for the Management of Operational Cooperation at the External Borders"
+            ],
+            "es": [
+                "Agencia Europea para la gestión de la cooperación operativa en las fronteras exteriores"
+            ],
+            "et": [
+                "Euroopa Liidu välispiiridel tehtava operatiivkoostöö juhtimise Euroopa agentuur"
+            ],
+            "fi": [
+                "Euroopan unionin jäsenvaltioiden operatiivisesta ulkorajayhteistyöstä huolehtiva virasto"
+            ],
+            "fr": [
+                "Agence européenne pour la gestion de la coopération opérationnelle aux frontières extérieures"
+            ],
+            "ga": [
+                "An Ghníomhaireacht Eorpach chun Comhar Oibríochtúil a Bhainistiú ag Teorainneacha Seachtracha Bhallstáit an Aontais Eorpaigh "
+            ],
+            "hr": [
+                "Europska agencija za upravljanje operativnom suradnjom na vanjskim granicama"
+            ],
+            "hu": [
+                "Európai határőrizeti ügynökség"
+            ],
+            "it": [
+                "Agenzia europea per la gestione della cooperazione operativa alle frontiere esterne"
+            ],
+            "lt": [
+                "Europos operatyvaus bendradarbiavimo prie ES valstybių narių išorės sienų valdymo agentūra"
+            ],
+            "lv": [
+                "Eiropas Aģentūra operatīvās sadarbības vadībai pie Eiropas Savienības dalībvalstu ārējām robežām"
+            ],
+            "mt": [
+                "l-Aġenzija Ewropea għall-Ġestjoni ta’ Kooperazzjoni Operazzjonali fil-Fruntieri Esterni"
+            ],
+            "nl": [
+                "Europees Agentschap voor het beheer van de operationele samenwerking aan de buitengrenzen"
+            ],
+            "pl": [
+                "Europejska Agencja Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich"
+            ],
+            "pt": [
+                "Agência Europeia de Gestão da Cooperação Operacional nas Fronteiras Externas"
+            ],
+            "ro": [
+                "Agenţia Europeană pentru Gestionarea Cooperării Operative la Frontierele Externe ale Statelor Membre ale Uniunii Europene"
+            ],
+            "sk": [
+                "Európska agentúra pre riadenie operačnej spolupráce na vonkajších hraniciach členských"
+            ],
+            "sl": [
+                "Evropska agencija za upravljanje in operativno sodelovanje na zunanjih mejah držav članic"
+            ],
+            "sv": [
+                "Europeiska byrån för förvaltningen av det operativa samarbetet vid Europeiska unionens yttre gränser"
+            ]
+        },
+        "category": {
+            "und": [
+                "23337c23",
+                "40261c5"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/"
+            ],
+            "cs": [
+                "AGENCIES"
+            ],
+            "da": [
+                "EUROPA/"
+            ],
+            "de": [
+                "EUROPA/"
+            ],
+            "el": [
+                "EUROPA/"
+            ],
+            "en": [
+                "EUROPA/"
+            ],
+            "es": [
+                "EUROPA"
+            ],
+            "et": [
+                "EUROPA/"
+            ],
+            "fi": [
+                "EUROPA/"
+            ],
+            "fr": [
+                "EUROPA/"
+            ],
+            "ga": [
+                "EUROPA/"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "EUROPA/"
+            ],
+            "it": [
+                "EUROPA/"
+            ],
+            "lt": [
+                "EUROPA/"
+            ],
+            "lv": [
+                "EUROPA/"
+            ],
+            "mt": [
+                "EUROPA/"
+            ],
+            "nl": [
+                "EUROPA/"
+            ],
+            "pl": [
+                "EUROPA/"
+            ],
+            "pt": [
+                "EUROPA/"
+            ],
+            "ro": [
+                "EUROPA/"
+            ],
+            "sk": [
+                "EUROPA/"
+            ],
+            "sl": [
+                "EUROPA/"
+            ],
+            "sv": [
+                "EUROPA/"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Европейска агенция за управление на операционно сътрудничество в периферните райони"
+            ],
+            "cs": [
+                "Přístup k Evropské agentuře pro řízení operativní spolupráce na vnějších hranicích, agentuře Evropské unie, a obecné informace o ní"
+            ],
+            "da": [
+                "Adgang til og baggrundsinformation om Det Europæiske Agentur for Forvaltning af det Operative Samarbejde ved de Ydre Grænser, ydre grænser, et af Den Europæiske Unions agenturer"
+            ],
+            "de": [
+                "Zugang zu, und Hintergrundinformationen über die Europäische Agentur für die operative Zusammenarbeit an den Außengrenzen, eine Agentur der Europäischen Union"
+            ],
+            "el": [
+                "Ευropa - Πρόσβαση στην ιστοσελίδα και ενημερωτικό υπόβαθρο σχετικά με τον Ευρωπαϊκό οργανισμό για τη διαχείριση της επιχειρησιακής συνεργασίας στα εξωτερικά σύνορα, έναν Οργανισμό (υπηρεσία) της Ευρωπαϊκής Ένωσης"
+            ],
+            "en": [
+                "European Agency for the Management of Operational Cooperation at the External Borders of the Member States of the European Union"
+            ],
+            "es": [
+                "Acceso a la Agencia Europea para la Gestión de la Cooperación Operativa en las Fronteras Exteriores, agencia de la Unión Europea, e información sobre la misma"
+            ],
+            "et": [
+                "Europa  - Juurdepääs Euroopa Liidu ametile Euroopa Liidu liikmesriikide välispiiril tehtava operatiivkoostöö juhtimise Euroopa agentuur ja taustteave ameti kohta"
+            ],
+            "fi": [
+                "Europa  - Euroopan operatiivisesta ulkorajayhteistyöstä huolehtivan viraston verkkosivusto ja taustatietoa virastosta, Euroopan unionin erillisvirasto"
+            ],
+            "fr": [
+                "Accès au site des agences de l'Union européenne et informations générales sur l’Agence européenne pour la gestion de la coopération opérationnelle aux frontières extérieures"
+            ],
+            "ga": [
+                "An Ghníomhaireacht Eorpach chun Comhar Oibríochtúil a Bhainistiú ag Teorainneacha Seachtracha Bhallstáit an Aontais Eorpaigh  "
+            ],
+            "hr": [
+                "Europa – Europska agencija za upravljanje operativnom suradnjom na vanjskim granicama država članica Europske unije"
+            ],
+            "hu": [
+                "Hozzáférés az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökséghez, az Európai Unió egyik ügynökségéhez, és háttérinformáció az ügynökségről"
+            ],
+            "it": [
+                "Accesso al sito delle agenzie dell’Unione europea e informazioni di carattere generale sull’Agenzia europea per la gestione della cooperazione operativa alle frontiere esterne."
+            ],
+            "lt": [
+                "Prieiga, pagrindinė informacija apie Europos operatyvaus bendradarbiavimo prie Europos Sąjungos valstybių narių išorės sienų valdymo agentūrą, Europos Sąjungos agentūra"
+            ],
+            "lv": [
+                "Pieeja informācijai un vispārēja informācija par Eiropas Aģentūru operatīvās sadarbības vadībai pie Eiropas Savienības dalībvalstu ārējām robežām , Eiropas Savienības aģentūru"
+            ],
+            "mt": [
+                "Aċċess għal, u sfond ta’ tagħrif dwar l-Aġenzija Ewropea għall-Ġestjoni tal-Kooperazzjoni Operattiva tal-Fruntieri Esterni, Aġenzija ta’ l-Unjoni Ewropea"
+            ],
+            "nl": [
+                "Toegang tot en achtergrondinformatie over het Europees Agentschap voor het Beheer van de Operationele Samenwerking aan de Buitengrenzen, een agentschap van de Europese Unie"
+            ],
+            "pl": [
+                "dostęp do Agencji oraz podstawowe informacje o Europejskiej Agencji ds. Zarządzania Współpracą Operacyjną na Granicach Zewnętrznych, agencji Unii Europejskiej"
+            ],
+            "pt": [
+                "Acesso e informações gerais sobre a Agência Europeia de Gestão da Cooperação Operacional nas Fronteiras Externas, uma Agência da União Europeia"
+            ],
+            "ro": [
+                "Agenţia Europeană pentru Gestionarea Cooperării Operative la Frontierele Externe ale Statelor Membre ale Uniunii Europene"
+            ],
+            "sk": [
+                "Európska agentúra pre riadenie operačnej spolupráce na vonkajších hraniciach členských štátov Európskej únie"
+            ],
+            "sl": [
+                "Dostop do in ozadje o Evropski agenciji za upravljanje in operativno sodelovanje na zunanjih mejah, agenciji Evropske unije."
+            ],
+            "sv": [
+                "Tillgång till och bakgrundsinformation om Europeiska byrån för förvaltning av det operativa samarbetet vid de yttre gränserna, ett EU-organ"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "europa"
+            ],
+            "cs": [
+                "EUROPA",
+                "agentury",
+                "orgány",
+                "evropská",
+                "unie",
+                "eu"
+            ],
+            "da": [
+                "agenturer",
+                "europa",
+                "institutioner",
+                "den europæiske union",
+                "eu"
+            ],
+            "de": [
+                "europa",
+                "Einrichtungen",
+                "Institutionen",
+                "Europäische Union",
+                "EU"
+            ],
+            "el": [
+                "europa",
+                "Οργανισμοί (υπηρεσίες)",
+                "θεσμικά όργανα",
+                "Ευρωπαϊκή Ένωση",
+                "ΕΕ"
+            ],
+            "en": [
+                "europa"
+            ],
+            "es": [
+                "europa",
+                "organismos",
+                "instituciones",
+                "union europea",
+                "ue"
+            ],
+            "et": [
+                "europa",
+                "Ametid",
+                "institutsioonid",
+                "Euroopa Liit",
+                "EL"
+            ],
+            "fi": [
+                "europa",
+                "erillisvirastot",
+                "toimielimet",
+                "Euroopan unioni",
+                "EU"
+            ],
+            "fr": [
+                "europa",
+                "agences",
+                "institutions",
+                "Union européenne",
+                "UE"
+            ],
+            "ga": [
+                "europa"
+            ],
+            "hr": [
+                "europa"
+            ],
+            "hu": [
+                "europa",
+                "ügynökségek",
+                "intézmények",
+                "európai unió",
+                "eu"
+            ],
+            "it": [
+                "europa",
+                "agenzie",
+                "istituzioni",
+                "Unione europea",
+                "UE"
+            ],
+            "lt": [
+                "europa",
+                "agentūros",
+                "institucijos",
+                "europos sąjunga",
+                "es"
+            ],
+            "lv": [
+                "europa",
+                "aģentūras",
+                "iestādes",
+                "eiropas",
+                "savienība",
+                "es"
+            ],
+            "mt": [
+                "europa",
+                "aġenziji",
+                "istituzzjonijiet",
+                "unjoni ewropea",
+                "ue"
+            ],
+            "nl": [
+                "europa",
+                "agentschappen",
+                "instellingen",
+                "Europese Unie",
+                "EU"
+            ],
+            "pl": [
+                "europa",
+                "agencje",
+                "instytucje",
+                "unia europejska",
+                "UE"
+            ],
+            "pt": [
+                "europa",
+                "agências",
+                "instituições",
+                "União Europeia",
+                "UE"
+            ],
+            "ro": [
+                "europa"
+            ],
+            "sk": [
+                "europa",
+                "agentúry",
+                "inštitúcie",
+                "Európska únia",
+                "EÚ"
+            ],
+            "sl": [
+                "europa",
+                "agencije",
+                "institucije",
+                "evropska unija",
+                "eu"
+            ],
+            "sv": [
+                "europa",
+                "organ",
+                "institutioner",
+                "Europeiska unionen",
+                "EU"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "info1": {
+            "bg": [
+                "<p>Европейската агенция за управление на операционно сътрудничество в периферните райони на страните членки на Европейския съюз е учредена с Регламент (ЕО) <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:BG:NOT&amp;locale=BG\">2007/2004/ (26.10.2004, OJ L 349/25.11.2004)</a>.</p>             <p>FRONTEX координира операционното сътрудничество между страните-членки в областта на управлението в периферните райони; съдейства на страните-членки при обучението на национални гранични служби, включително и изграждането на общи обучителни стандарти; осъществява анализи на риска; предприема разработването на научноизследователски изследвания, съответстващи на контролирането и наблюдението на периферните райони; подпомага страните-членки при обстоятелства, изискващи повишена техническа и операционна помощ в периферните райони; както и осигурява необходимото съдействие на страните-членки при организиране съвместни операции.</p>"
+            ],
+            "cs": [
+                "<p>Evropská agentura pro řízení operativní spolupráce na vnějších hranicích členských států Evropské unie byla zřízena nařízením Rady (ES) <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:CS:NOT&amp;locale=CS\"> 2007/2004/ (26.10.2004, Úř. věst. L 349, 25.11.2004)</a>.</p>             <p>FRONTEX koordinuje operativní spolupráci mezi členskými státy v oblasti řízení vnějších hranic; napomáhá členským státům při odborné přípravě vnitrostátní pohraniční stráže, včetně vypracovávání společných standardů odborné přípravy; provádí analýzu rizik; pokračuje v rozvoji výzkumu souvisejícího s kontrolou a ostrahou vnějších hranic; napomáhá členským státům v situacích, které vyžadují zvýšenou technickou a operativní pomoc na vnějších hranicích; poskytuje členským státům nezbytnou podporu při organizaci společných návratových operací.</p>"
+            ],
+            "da": [
+                "<p>Det Europæiske Agentur for Forvaltning af det Operative Samarbejde ved EU-medlemsstaternes Ydre Grænser blev oprettet ved Rådets forordning (EF) nr. <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:DA:NOT&amp;locale=DA\"> 2007/2004 (26.10.2004, EUT L 349 af 25.11.2004)</a>.</p>             <p>FRONTEX koordinerer det operative samarbejde mellem medlemsstaterne, hvad angår forvaltning af de ydre grænser; bistår medlemsstaterne med uddannelse af nationale grænsevagter, herunder med indførelse af fælles uddannelsesstandarder; foretager risikoanalyser; følger udviklingen i forskning, der er relevant for kontrol og overvågning af de ydre grænser; bistår medlemsstaterne i situationer, der kræver øget teknisk og operativ bistand ved de ydre grænser; og yder medlemsstaterne den nødvendige støtte i forbindelse med tilrettelæggelsen af fælles tilbagesendelsesaktioner.</p>"
+            ],
+            "de": [
+                "<p>Die Europäische Agentur für die operative Zusammenarbeit an den Außengrenzen der Mitgliedstaaten der Europäischen Union wurde errichtet durch die Verordnung (EG)  <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:DE:NOT&amp;locale=DE\"> 2007/2004 des Rates vom 26. Oktober 2004 (ABl. L 349 vom 25.11.2004).</a>             </p>             <p>Die Agentur koordiniert die operative Zusammenarbeit der Mitgliedstaaten im Bereich des Schutzes der Außengrenzen, unterstützt die Mitgliedstaaten bei der Ausbildung von nationalen Grenzschutzbeamten und legt u. a. gemeinsame Ausbildungsnormen fest, erstellt Risikoanalysen, verfolgt die Entwicklungen der für die Kontrolle und Überwachung der Außengrenzen relevanten Forschung, unterstützt die Mitgliedstaaten in Situationen, die eine verstärkte technische und operative Unterstützung an den Außengrenzen erfordern, und leistet die erforderliche Unterstützung für die Organisation gemeinsamer Rückführungsaktionen der Mitgliedstaaten.</p>"
+            ],
+            "el": [
+                "<p>Ο ευρωπαϊκός οργανισμός για τη διαχείριση της επιχειρησιακής συνεργασίας στα εξωτερικά σύνορα των κρατών μελών της Ευρωπαϊκής Ένωσης συστάθηκε με τον Κανονισμό (ΕΚ) <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:EL:NOT&amp;locale=EL\"> 2007/2004 του Συμβουλίου (26.10.2004, ΕΕ L 349/25.11.2004)</a>.</p>             <p>Ο FRONTEX συντονίζει την επιχειρησιακή συνεργασία μεταξύ των κρατών μελών στον τομέα της διαχείρισης των εξωτερικών συνόρων• επικουρεί τα κράτη μέλη στην εκπαίδευση των εθνικών συνοριακών φυλάκων, μεταξύ άλλων με την καθιέρωση κοινών προδιαγραφών εκπαίδευσης· πραγματοποιεί αναλύσεις κινδύνου· παρακολουθεί τις εξελίξεις των ερευνών σχετικά με τον έλεγχο και την επιτήρηση των εξωτερικών συνόρων· επικουρεί τα κράτη μέλη σε περιπτώσεις που απαιτείται αυξημένη τεχνική και επιχειρησιακή συνδρομή στα εξωτερικά σύνορα· και παρέχει στα κράτη μέλη την αναγκαία στήριξη για την οργάνωση κοινών επιχειρήσεων επαναπατρισμού.</p>"
+            ],
+            "en": [
+                "<p>The European Agency for the Management of Operational Cooperation at the External Borders of the Member States of the European Union was established by Council Regulation (EC) <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:EN:NOT&amp;locale=EN\"> 2007/2004/ (26.10.2004, OJ L 349/25.11.2004)</a>.</p>             <p>FRONTEX coordinates operational cooperation between Member States in the field of management of external borders; assists Member States in the training of national border guards, including the establishment of common training standards; carries out risk analyses; follows up the development of research relevant for the control and surveillance of external borders; assists Member States in circumstances requiring increased technical and operational assistance at external borders; and provides Member States with the necessary support in organising joint return operations.</p>"
+            ],
+            "es": [
+                "<p>La Agencia Europea para la gestión de la cooperación operativa en las fronteras exteriores de los Estados miembros de la Unión Europea fue creada por el Reglamento (CE) nº <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:ES:NOT&amp;locale=ES\"> 2007/2004 del Consejo (26.10.2004, DO L 349/25.11.2004)</a>.</p>             <p>FRONTEX coordina la cooperación operativa entre Estados miembros en el ámbito de la gestión de las fronteras exteriores; ayuda a los Estados miembros en la formación de los guardias fronterizos nacionales, incluido el establecimiento de normas comunes de formación; lleva a cabo análisis de riesgos; hace un seguimiento de la evolución en materia de investigación relacionada con el control y la vigilancia de las fronteras exteriores; asiste a los Estados miembros en circunstancias que requieren un aumento de la asistencia técnica y operativa en las fronteras exteriores; y proporciona a los Estados miembros el apoyo necesario para organizar operaciones conjuntas de retorno.</p>"
+            ],
+            "et": [
+                "<p>Euroopa Liidu liikmesriikide välispiiridel tehtava operatiivkoostöö juhtimise Euroopa agentuur loodi kooskõlas nõukogu määrusega (EÜ) <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:ET:NOT&amp;locale=ET\"> 2007/2004/ (26.10.2004, ELT L 349, 25.11.2004)</a>.</p>             <p>FRONTEX koordineerib liikmesriikidevahelist operatiivkoostööd välispiiri haldamisel;abistab liikmesriike piirivalvurite koolitamisel, sealhulgas ühiste õppestandardite väljatöötamisel;teeb riskianalüüse;jälgib välispiiri kontrolli ja valve seisukohalt oluliste uuringute arengut;abistab liikmesriike olukorras, mil välispiiril on vaja tõhustatud tehnilist ja operatiivabi;ning annab liikmesriikidele vajalikku abi ühiste tagasisaatmisoperatsioonide korraldamiseks.</p>"
+            ],
+            "fi": [
+                "<p>Euroopan unionin jäsenvaltioiden operatiivisesta ulkorajayhteistyöstä huolehtiva virasto on perustettu neuvoston asetuksella (EY) N:o <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:FI:NOT&amp;locale=FI\"> 2007/2004 (26.10.2004, EUVL L 349, 25.11.2004)</a>.</p>             <p>Frontex yhteensovittaa jäsenvaltioiden välistä operatiivista yhteistyötä ulkorajavalvonnan alalla; avustaa jäsenvaltioita kansallisten rajavartijoiden kouluttamisessa, mihin kuuluu myös yhteisten koulutusvaatimusten käyttöönotto; tekee riskianalyysejä; seuraa ulkorajavalvontaan liittyvän tutkimuksen kehitystä; avustaa jäsenvaltioita olosuhteissa, joissa ulkorajoilla tarvitaan teknistä ja operatiivista lisäapua; ja antaa tarvittavaa tukea jäsenvaltioille yhteisten palauttamisoperaatioiden järjestämiseksi.</p>"
+            ],
+            "fr": [
+                "<p>L'Agence européenne pour la gestion de la coopération opérationnelle aux frontières extérieures des États membres de l'Union européenne a été créée par le règlement (CE) n° <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:FR:NOT&amp;locale=FR\"> 2007/2004 du Conseil (du 26 octobre 2004, JO L 349 du 25.11.2004)</a>.</p>             <p>FRONTEX coordonne la coopération opérationnelle entre les États membres en matière de gestion des frontières extérieures, assiste les États membres pour la formation des garde‑frontières nationaux, y compris dans l'établissement de normes communes de formation, effectue des analyses de risques, suit l'évolution de la recherche dans les domaines présentant de l'intérêt pour le contrôle et la surveillance des frontières extérieures, assiste les États membres dans les situations qui exigent une assistance technique et opérationnelle renforcée aux frontières extérieures et fournit aux États membres l'appui nécessaire pour organiser des opérations de retour conjointes.</p>"
+            ],
+            "ga": [
+                "<p>Bunaíodh an Ghníomhaireacht Eorpach chun Comhar Oibríochtúil a Bhainistiú ag Teorainneacha Seachtracha Bhallstáit an Aontais Eorpaigh le Rialachán (CE) <span class=\"link-disabled\">2007/2004/ ón gComhairle (26.10.2004, Iris Oifigiúil L 349/25.11.2004)</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:EN:NOT&amp;locale=EN\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>.</p>             <p>Comhordaíonn FRONTEX comhar oibríochtúil idir Bhallstáit maidir le bainistiú teorainneacha seachtracha; cabhraíonn sé le Ballstáit gardaí teorann náisiúnta a thraenáil, lena n-áirítear comhchaighdeáin oiliúna a bhunú; déanann sé anailís ar rioscaí; déanann sé obair leantach maidir le taighde a fhorbairt a bhainfidh le rialú agus faireachán ar theorainneacha seachtracha; cabhraíonn sé le Ballstáit i dtosca nuair a bhíonn gá le cúnamh breise teicniúil agus oibríochtúil ag teorainneacha seachtracha; agus soláthraíonn sé do Bhallstáit an tacaíocht atá riachtanach chun comhoibríochtaí fillidh a eagrú. </p>"
+            ],
+            "hr": [
+                "<p>Europska agencija za upravljanje operativnom suradnjom na vanjskim granicama država članica Europske unije osnovana je Uredbom Vijeća (EZ) <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:HR:NOT&amp;locale=HR\">2007/2004 (26.10.2004., SL L 349, 25.11.2004.)</a>.</p>             <p>FRONTEX koordinira operativnu suradnju među državama članicama u području upravljanja vanjskim granicama; pomaže državama članicama u izobrazbi njihove granične policije, što uključuje i utvrđivanje zajedničkih normi izobrazbe; provodi procjenu rizika; prati razvoj istraživanja važnoga za kontrolu i nadzor vanjskih granica; pomaže državama članicama u okolnostima koje zahtijevaju pojačanu tehničku i operativnu podršku na vanjskim granicama; pruža državama članicama podršku potrebnu pri organizaciji zajedničkih operacija povratka osoba.</p>"
+            ],
+            "hu": [
+                "<p>Az Európai Unió Tagállamai Külső Határain Való Operatív Együttműködési Igazgatásért Felelős Európai Ügynökséget a 2004. október 26-i <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:HU:NOT&amp;locale=HU\"> 2007/2004/EK tanácsi rendelet (HL L 349., 2004.11.25.)</a> hozta létre.</p>             <p>A FRONTEX a tagállamok közötti operatív szintű együttműködést koordinálja a külső határok kezelésének területén; támogatást nyújt a tagállamok részére a nemzeti határőrök kiképzésében, illetve a közös képzési szabványok kialakításában; kockázatelemzést végez; figyelemmel kíséri a külső határok ellenőrzésének és felügyeletének területére irányuló kutatás fejlődését; segíti a tagállamokat a külső határokon felmerülő magas technikai és operatív támogatást igénylő helyzetekben; és biztosítja a tagállamok számára a szükséges támogatást a közös visszatérítési műveletek során.</p>"
+            ],
+            "it": [
+                "<p>L’Agenzia europea per la gestione della cooperazione operativa alle frontiere esterne degli Stati membri dell’Unione europea è stata istituita con il regolamento (CE) n. <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:IT:NOT&amp;locale=IT\"> 2007/2004 del Consiglio del 26 ottobre 2004 (GU L 349 del 25.11.2004)</a>.</p>             <p>FRONTEX ha il compito di coordinare la cooperazione operativa tra gli Stati membri in materia di gestione delle frontiere esterne; assistere gli Stati membri nella formazione di guardie nazionali di confine, anche elaborando norme comuni in materia di formazione; preparare analisi dei rischi; seguire l’evoluzione delle ricerche in materia di controllo e sorveglianza delle frontiere esterne; aiutare gli Stati membri che devono affrontare circostanze tali da richiedere un’assistenza tecnica e operativa rafforzata alle frontiere esterne; fornire agli Stati membri il sostegno necessario per organizzare operazioni di rimpatrio congiunte.</p>"
+            ],
+            "lt": [
+                "<p>Europos operatyvaus bendradarbiavimo prie ES valstybių narių išorės sienų valdymo agentūra buvo įsteigta Tarybos Reglamentu (EB) <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:LT:NOT&amp;locale=LT\"> 2007/2004/ (2004 10 26, OL L 349/25.11.2004)</a>.</p>             <p>FRONTEX koordinuoja valstybių narių operatyvų bendradarbiavimą išorės sienų valdymo srityje, padeda valstybėms narėms mokyti valstybės sienų apsaugos pareigūnus, įskaitant bendrų mokymo reikalavimų nustatymą,atlieka rizikos analizę,stebi su išorės sienų kontrole ir stebėjimu susijusių mokslinių tyrimų plėtrą,padeda valstybėms narėms tais atvejais, kai prie išorės sienų reikia didesnės techninės ir operatyviosios pagalbos,teikia valstybėms narės reikiamą pagalbą organizuojant bendras grąžinimo operacijas.</p>"
+            ],
+            "lv": [
+                "<p>Eiropas Aģentūru operatīvās sadarbības vadībai pie Eiropas Savienības dalībvalstu ārējām robežām izveidoja ar Padomes Regulu (EK) <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:LV:NOT&amp;locale=LV\"> 2007/2004/ (26.10.2004., OV L 349/25.11.2004.)</a>.</p>             <p>                <i>FRONTEX</i> koordinē operatīvo sadarbību starp dalībvalstīm ārējo robežu pārvaldības jomā; palīdz dalībvalstīm īstenot valsts robežsargu apmācību, tostarp noteikt kopējus apmācības standartus; veic riska analīzi; seko līdzi attīstībai pētījumos, kas ir būtiski ārējo robežu kontrolei un uzraudzībai; palīdz dalībvalstīm gadījumos, kad nepieciešama pastiprināta tehniska un operatīva palīdzība pie ārējām robežām; kā arī nodrošina dalībvalstīm nepieciešamo atbalstu kopīgu atgriešanās operāciju organizēšanā.</p>"
+            ],
+            "mt": [
+                "<p>L-Aġenzija Ewropea għall-Ġestjoni ta’ Kooperazzjoni Operazzjonali fil-Fruntieri Esterni ta’ l-Istati Membri ta’ l-Unjoni Ewropea twaqqfet mir-Regolament tal-Kunsill (KE) <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:MT:NOT&amp;locale=MT\"> 2007/2004/ (26.10.2004, ĠU L 349/25.11.2004)</a>.</p>             <p>FRONTEX tikkoordina il-kooperazzjoni operazzjonali bejn l-Istati Membri fil-qasam tal-ġestjoni ta’ fruntieri esterni;tgħin l-Istati Membri fit-taħriġ ta’ gwardjani nazzjonali tal-fruntieri, inkluż it-twaqqif ta’ standards ta’ taħriġ komuni;twettaq analiżi tar-riskji;issegwi l-iżvilupp ta’ riċerka rilevanti għall-kontroll u s-sorveljanza ta’ fruntieri esterni;tgħin l-Istati Membri f’ċirkostanzi li jeħtieġu aktar għajnuna teknika u operazzjonali fi fruntieri esterni;u tipprovdi l-appoġġ meħtieġ għall-Istati Membri permezz ta’ l-organizzazzjoni ta’ ħidmiet bi sħab.</p>"
+            ],
+            "nl": [
+                "<p>Het Europees Agentschap voor het beheer van de operationele samenwerking aan de buitengrenzen van de lidstaten van de Europese Unie is opgericht bij Verordening (EG) nr. <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:NL:NOT&amp;locale=NL\"> 2007/2004 van de Raad (van 26 oktober 2004, PB L 349/2004 van 25.11.2004)</a>.</p>             <p>FRONTEX coördineert de operationele samenwerking tussen de lidstaten op het gebied van het beheer van de buitengrenzen; helpt de lidstaten bij het opleiden van nationale grenswachten, met inbegrip van de vaststelling van gemeenschappelijke opleidingsnormen; voert risicoanalyses uit; volgt de ontwikkelingen op het gebied van onderzoek dat relevant is voor de controle en de bewaking van de buitengrenzen; staat de lidstaten bij in omstandigheden die extra technische en operationele bijstand aan de buitengrenzen vergen; en biedt de lidstaten de nodige ondersteuning bij de organisatie van gezamenlijke terugkeeroperaties.</p>"
+            ],
+            "pl": [
+                "<p>Europejska Agencja Zarządzania Współpracą Operacyjną na Zewnętrznych Granicach Państw Członkowskich Unii Europejskiej została ustanowiona na mocy rozporządzenia Rady (WE) nr <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:PL:NOT&amp;locale=PL\"> 2007/2004 (26.10.2004, Dz.U. L 349 z 25.11.2004)</a>.</p>             <p>Agencja FRONTEX koordynuje współpracę operacyjną między państwami członkowskimi w dziedzinie zarządzania granicami zewnętrznymi, wspomaga państwa członkowskie w szkoleniu funkcjonariuszy straży granicznej, w tym w ustanowieniu wspólnych standardów szkoleniowych, przeprowadza analizy ryzyka, śledzi rozwój badań mających znaczenie dla kontroli i ochrony granic zewnętrznych, wspomaga państwa członkowskie w sytuacjach wymagających zwiększonej pomocy technicznej i operacyjnej na granicach zewnętrznych oraz udziela państwom członkowskim niezbędnego wsparcia w organizowaniu wspólnych działań dotyczących powrotów.</p>"
+            ],
+            "pt": [
+                "<p>A Agência Europeia de Gestão da Cooperação Operacional nas Fronteiras Externas dos Estados-Membros da União Europeia foi criada pelo Regulamento (CE) n.° <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:PT:NOT&amp;locale=PT\"> 2007/2004 do Conselho (26.10.2004, JO L 349 de 25.11.2004)</a>.</p>             <p>A Agência FRONTEX coordena a cooperação operacional entre os Estados-Membros no domínio da gestão das fronteiras externas; apoia os Estados-Membros na formação dos guardas de fronteiras nacionais, incluindo a definição de normas de formação comuns; realiza análises de risco; acompanha a evolução da investigação relevante em matéria de controlo e vigilância das fronteiras externas; apoia os Estados-Membros em circunstâncias que exijam assistência operacional e técnica reforçada nas fronteiras externas; e faculta aos Estados‑Membros o apoio necessário no âmbito da organização de operações conjuntas de regresso.</p>"
+            ],
+            "ro": [
+                "<p>Agenţia Europeană pentru Gestionarea Cooperării Operative la Frontierele Externe ale Statelor Membre ale Uniunii Europene a fost înfiinţată prin Regulamentul (CE) <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:RO:NOT&amp;locale=RO\">nr. 2007/2004/ al Consiliului (din 26 octombrie 2004, JO L 349/25.11.2004)</a>.</p>             <p>FRONTEX coordonează cooperarea operaţională între statele membre în domeniul gestionării frontierelor externe; asistă statele membre la formarea agenţiilor de protecţie a frontierelor naţionale, inclusiv pentru stabilirea de norme comune de formare; efectuează analize ale riscurilor; urmăreşte evoluţia cercetărilor în domeniile pertinente pentru controlul şi supravegherea frontierelor externe; asistă statele membre în situaţii care necesită sprijin tehnic şi operaţional sporite la frontierele externe; furnizează statelor membre sprijinul necesar pentru organizarea de operaţiuni de returnare comune.</p>"
+            ],
+            "sk": [
+                "<p>Európska agentúra pre riadenie operačnej spolupráce na vonkajších hraniciach členských štátov Európskej únie bola zriadená nariadením Rady (ES) č. <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:SK:NOT&amp;locale=SK\"> 2007/2004 z 26. októbra 2004 (Ú. v. EÚ L 349/25.11.2004)</a>.</p>             <p>FRONTEX koordinuje operačnú spoluprácu medzi členskými štátmi v oblasti riadenia vonkajších hraníc, pomáha členským štátom pri vzdelávaní a odbornej príprave vnútroštátnej pohraničnej stráže vrátane stanovovania spoločných vzdelávacích noriem, vykonáva analýzy rizika, sleduje vývoj výskumu, ktorý sa týka kontroly a dozoru nad vonkajšími hranicami, pomáha členským štátom v situáciách, ktoré si vyžadujú zvýšenú technickú a operačnú pomoc na vonkajších hraniciach a poskytuje členským štátom potrebnú pomoc pri organizovaní spoločných operácií v prípadoch navracania osôb.</p>"
+            ],
+            "sl": [
+                "<p>Evropska agencija za upravljanje in operativno sodelovanje na zunanjih mejah držav članic Evropske unije je bila ustanovljena z Uredbo Sveta (ES) <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:SL:NOT&amp;locale=SL\"> 2007/2004 (26. oktober 2004, UL L 349, 25.11.2004)</a>.</p>             <p>FRONTEX usklajuje operativno sodelovanje med državami članicami na področju upravljanja zunanjih meja;državam članicam pomaga pri usposabljanju nacionalnih mejnih straž, vključno z vzpostavitvijo skupnih standardov usposabljanja;izvaja analize tveganja;spremlja razvoj raziskav, ki so pomembne za kontrolo in nadzor zunanjih meja;državam članicam pomaga v okoliščinah, ki zahtevajo povečano tehnično in operativno pomoč na zunanjih mejah;in jim zagotavlja potrebno podporo pri organiziranju skupnih postopkov vračanja.</p>"
+            ],
+            "sv": [
+                "<p>Europeiska byrån för förvaltningen av det operativa samarbetet vid Europeiska unionens medlemsstaters yttre gränser inrättades genom rådets förordning (EG) nr <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32004R2007:SV:NOT&amp;locale=SV\"> 2007/2004/ (26.10.2004, EUT L 349/25.11.2004)</a>.</p>             <p>Frontex samordnar det operativa samarbetet mellan medlemsstaterna när det gäller förvaltningen av de yttre gränserna, bistår medlemsstaterna med utbildning av nationell  gränsbevakningspersonal, inbegripet fastställande av gemensamma utbildningsnormer, genomför riskanalyser, följer upp den utveckling inom forskningen som är av betydelse för kontrollen och övervakningen av de yttre gränserna, bistår medlemsstaterna i situationer som kräver ökat tekniskt och operativt bistånd vid de yttre gränserna samt erbjuder medlemsstaterna nödvändigt tekniskt stöd till genomförandet av gemensamma insatser för återsändande.</p>"
+            ]
+        },
+        "info2": {
+            "bg": [
+                "<p>FRONTEX работи в тясно сътрудничество с други партньори на Общността и ЕС, отговорни за сигурността в периферните райони, като например <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Избор на превод за предходната връзка\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Избор на превод за предходната връзка\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Избор на превод за предходната връзка\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Избор на превод за предходната връзка\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_bg.html\" lang=\"bg\">OLAF</a>, сътрудничеството с граничните власти, както и сътрудничеството с пестицидно-санитарните и ветеринарни контролни органи с цел да насърчи цялостна координираност.</p>             <p>FRONTEX подобрява граничната сигурност чрез осигуряване на координация между действията на страните-членки при изпълнението на мерките на Общността по отношение на управлението на периферните граници.</p>"
+            ],
+            "cs": [
+                "<p>Za účelem větší soudržnosti FRONTEX úzce spolupracuje s ostatními partnery Společenství a EU odpovědnými za bezpečnost vnějších hranic, např. <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrat překlad k předcházejícímu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrat překlad k předcházejícímu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrat překlad k předcházejícímu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrat překlad k předcházejícímu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_cs.html\" lang=\"cs\">OLAF</a>, za celní spolupráci a za spolupráci v oblasti hygienických a veterinárních kontrol.</p>             <p>Pro zvýšení bezpečnosti hranic FRONTEX rovněž zajišťuje koordinaci jednotlivých akcí členských států při provádění opatření Společenství týkajících se řízení kontroly vnějších hranic.</p>"
+            ],
+            "da": [
+                "<p>Af hensyn til den overordnede sammenhæng holder FRONTEX tæt kontakt til andre fællesskabs- og EU-partnere, der har ansvar for sikkerheden ved de ydre grænser, som f.eks. <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vælg oversættelse af det forrige link\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vælg oversættelse af det forrige link\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vælg oversættelse af det forrige link\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vælg oversættelse af det forrige link\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> og <a href=\"http://ec.europa.eu/anti_fraud/index_da.html\" lang=\"da\">OLAF</a>, og for toldsamarbejdet og samarbejdet inden for plantesundhed og veterinærkontrol.</p>             <p>FRONTEX koordinerer medlemsstaternes initiativer i forbindelse med gennemførelsen af Fællesskabets foranstaltninger vedrørende forvaltning af de ydre grænser og styrker derved sikkerheden ved grænserne.</p>"
+            ],
+            "de": [
+                "<p>Die Agentur kann im Interesse einer umfassenden Kohärenz eng mit anderen Gemeinschafts- und EU-Partnereinrichtungen zusammenarbeiten, die zuständig sind für die Sicherheit der Außengrenzen, wie <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Übersetzung für diesen Link wählen\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Übersetzung für diesen Link wählen\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">EPA</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Übersetzung für diesen Link wählen\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Übersetzung für diesen Link wählen\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> und <a href=\"http://ec.europa.eu/anti_fraud/index_de.html\" lang=\"de\">OLAF</a>, für die Zusammenarbeit der Zollbehörden oder für die Zusammenarbeit bei Pflanzenschutz- und Veterinärkontrollen.</p>             <p>Die Agentur gewährleistet die Koordinierung der einzelstaatlichen Aktionen zur Durchführung von Gemeinschaftsmaßnahmen im Bereich des Grenzschutzes an den Außengrenzen und stärkt so die Sicherheit an den Grenzen.</p>"
+            ],
+            "el": [
+                "<p>Ο FRONTEX συνδέεται στενά με άλλους εταίρους της Κοινότητας και της ΕΕ, αρμόδιους για την ασφάλεια των εξωτερικών συνόρων, όπως η <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_el.html\" lang=\"el\">OLAF</a>, για την τελωνειακή συνεργασία και τη συνεργασία όσον αφορά τους φυτοϋγειονομικούς και κτηνιατρικούς ελέγχους, με σκοπό την προώθηση της γενικής συνοχής.</p>             <p>Ο FRONTEX ενισχύει την ασφάλεια των συνόρων εξασφαλίζοντας το συντονισμό των ενεργειών των κρατών μελών κατά την εφαρμογή των κοινοτικών μέτρων που αφορούν τη διαχείριση των εξωτερικών συνόρων.</p>"
+            ],
+            "en": [
+                "<p>FRONTEX liaises closely with other Community and EU partners responsible for the security of the external borders, such as <a href=\"http://www.europol.europa.eu/\">EUROPOL</a>, <a href=\"http://www.cepol.europa.eu/\">CEPOL</a>, <a href=\"http://ec.europa.eu/anti_fraud/index_en.html\" lang=\"en\">OLAF</a>, the customs cooperation and the cooperation on phyto-sanitary and veterinary controls, in order to promote overall coherency.</p>             <p>FRONTEX strengthens border security by ensuring the coordination of Member States’ actions in the implementation of Community measures relating to the management of the external borders.</p>"
+            ],
+            "es": [
+                "<p>FRONTEX está muy vinculado con otros socios de la Comunidad y de la UE responsables de la seguridad de las fronteras exteriores, tales como <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Elija traducciones del enlace precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Elija traducciones del enlace precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Elija traducciones del enlace precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Elija traducciones del enlace precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_es.html\" lang=\"es\">OLAF</a>, la cooperación aduanera y la cooperación en controles fitosanitarios y veterinarios, con el fin de fomentar la coherencia general.</p>             <p>FRONTEX fortalece la seguridad fronteriza garantizando la coordinación de las acciones de los Estados miembros en la ejecución de medidas comunitarias relativas a la gestión de las fronteras exteriores.</p>"
+            ],
+            "et": [
+                "<p>FRONTEX teeb tihedat koostööd ühenduse ja ELi muude partneritega, kes vastutavad julgeoleku eest välispiiridel, nagu <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Valige lingiga seotud tõlked\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Valige lingiga seotud tõlked\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Valige lingiga seotud tõlked\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Valige lingiga seotud tõlked\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_et.html\" lang=\"et\">OLAF</a> ja tolliasutused, ning teeb koostööd fütosanitaarse ja veterinaarse kontrolli alal, et edendada üldist sidusust.</p>             <p>FRONTEX tugevdab piiride julgeolekut, tagades ühenduse välispiiride haldamisega seotud meetmete rakendamisel liikmesriikide meetmete koordineerimise.</p>"
+            ],
+            "fi": [
+                "<p>Jotta toiminta olisi johdonmukaista, Frontex tekee läheistä yhteistyötä muiden yhteisön ja EU:n toimijoiden kanssa, jotka vastaavat ulkorajojen turvallisuudesta (<span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Näytä edellisen linkin kieliversiot\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Näytä edellisen linkin kieliversiot\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Näytä edellisen linkin kieliversiot\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Näytä edellisen linkin kieliversiot\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> ja <a href=\"http://ec.europa.eu/anti_fraud/index_fi.html\" lang=\"fi\">Olaf</a>), tulliyhteistyöstä sekä kasvinterveydellisiin ja eläinlääkinnällisiin rajatarkastuksiin liittyvästä yhteistyöstä.</p>             <p>Frontex vahvistaa rajaturvallisuutta varmistamalla, että jäsenvaltioiden toimet sovitetaan yhteen, kun ulkorajavalvontaan liittyviä yhteisön toimenpiteitä pannaan täytäntöön.</p>"
+            ],
+            "fr": [
+                "<p>FRONTEX travaille en liaison étroite avec d'autres partenaires de la Communauté et de l'UE chargés de la sécurité aux frontières extérieures, tels qu'<span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Choisir les traductions du lien précédent\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Choisir les traductions du lien précédent\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Choisir les traductions du lien précédent\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Choisir les traductions du lien précédent\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> et l'<a href=\"http://ec.europa.eu/anti_fraud/index_fr.html\" lang=\"fr\">OLAF</a>, de la coopération douanière et de la coopération en matière de contrôles phytosanitaires et vétérinaires, afin de promouvoir la cohérence générale.</p>             <p>FRONTEX renforce la sécurité aux frontières en assurant la coordination des actions des États membres dans le cadre de la mise en œuvre des mesures communautaires relatives à la gestion des frontières extérieures.</p>"
+            ],
+            "ga": [
+                "<p>Bíonn idirchaidreamh ag FRONTEX le comhpháirtithe eile de chuid an Chomhphobail agus an AE atá freagrach as slándáil teorainneacha seachtracha, ar nós  <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>,  <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_ga.html\" lang=\"ga\">OLAF</a>, comhar custam agus comhar maidir le rialú fíteashláintíochta agus tréidliachta, ar mhaithe le comhchuibheas tríd is tríd.  </p>             <p>Neartaíonn FRONTEX slándáil teorainneacha tríd a áirithiú go mbíonn comhordú ann idir gníomhaíochtaí na mBallstát nuair a bhíonn bearta Comhphobail á gcur chun feidhme maidir le bainistiú na dteorainneacha seachtracha. </p>"
+            ],
+            "hr": [
+                "<p>Radi cjelovite usklađenosti FRONTEX blisko surađuje s drugim partnerima Zajednice i EU-a nadležnima za sigurnost vanjskih granica (npr. <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traducerile linkului anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traducerile linkului anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traducerile linkului anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traducerile linkului anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_hr.html\" lang=\"hr\">OLAF</a>), za carinsku suradnju i suradnju pri fitosanitarnim i veterinarskim kontrolama.</p>             <p>FRONTEX osigurava koordinaciju aktivnosti što ih države članice provode u okviru Zajedničinih mjera za upravljanje vanjskim granicama te na taj način pridonosi jačanju sigurnosti granica.</p>"
+            ],
+            "hu": [
+                "<p>A FRONTEX szoros kapcsolatot tart fenn a külső határok biztonságáért felelős többi közösségi és uniós partnerrel, például az <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Az előző linken elérhető szöveg fordításai\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Az előző linken elérhető szöveg fordításai\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>-lal, a <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Az előző linken elérhető szöveg fordításai\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Az előző linken elérhető szöveg fordításai\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>-lal, az <a href=\"http://ec.europa.eu/anti_fraud/index_hu.html\" lang=\"hu\">OLAF</a>-fal, a vámügyi együttműködéssel, illetve a növény- és állategészségügyi együttműködéssel annak érdekében, hogy elősegítse a teljes koherencia megteremtését.</p>             <p>A FRONTEX megnöveli a határok biztonságosságát azáltal, hogy a külső határok kezelésére vonatkozó közösségi intézkedések végrehajtásában biztosítja a tagállamok tevékenységének koordinációját.</p>"
+            ],
+            "it": [
+                "<p>FRONTEX opera in stretto collegamento con altri organismi comunitari e dell’UE responsabili in materia di sicurezza alle frontiere esterne, come <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Scegli le traduzioni del link precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Scegli le traduzioni del link precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Scegli le traduzioni del link precedente\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Scegli le traduzioni del link precedente\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_it.html\" lang=\"it\">OLAF</a>, e di cooperazione nel settore delle dogane e dei controlli fitosanitari e veterinari, al fine di garantire la coerenza complessiva del sistema.</p>             <p>FRONTEX aumenta la sicurezza alle frontiere, assicurando il coordinamento delle iniziative degli Stati membri intese ad attuare le misure comunitarie per la gestione delle frontiere esterne.</p>"
+            ],
+            "lt": [
+                "<p>Siekdama nuoseklumo sienų apsaugos srityje, FRONTEX palaiko glaudžius ryšius su Bendrijos ir ES partneriais, atsakingais už išorės sienų saugumą, muitinių bendradarbiavimą ir bendradarbiavimą fitosanitarinės bei veterinarinės kontrolės srityje, kaip antai: <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Pasirinkti šios nuorodos vertimus\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Pasirinkti šios nuorodos vertimus\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Pasirinkti šios nuorodos vertimus\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Pasirinkti šios nuorodos vertimus\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_lt.html\" lang=\"lt\">OLAF</a>.</p>             <p>FRONTEX stiprina sienų apsaugą ir užtikrina valstybių narių veiksmų įgyvendinant Bendrijos priemones, susijusias su išorės sienų priežiūra, koordinavimą.</p>"
+            ],
+            "lv": [
+                "<p>Lai veicinātu vispārējo saskaņotību, <i>FRONTEX</i> cieši sadarbojas ar citiem Kopienas un ES partneriem, kas ir atbildīgi par drošību uz ārējām robežām, piemēram, <span class=\"link-disabled\">Eiropolu</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Izvēlieties saites tulkojumu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Izvēlieties saites tulkojumu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Izvēlieties saites tulkojumu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Izvēlieties saites tulkojumu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_lv.html\" lang=\"lv\">OLAF</a>, kā arī par muitas sadarbību un sadarbību fitosanitāro un veterināri sanitāro pārbaužu jomā.</p>             <p>                <i>FRONTEX</i> stiprina robežu drošību, nodrošinot dalībvalstu pasākumu koordinēšanu to Kopienas pasākumu īstenošanai, kas attiecas uz ārējo robežu pārvaldību.</p>"
+            ],
+            "mt": [
+                "<p>FRONTEX taħdem mill-qrib ma’ sħab oħra fil-Komunità u fl-UE li huma responsabbli għas-sigurtà tal-fruntieri esterni, bħal m’huma l-<span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, iċ-<span class=\"link-disabled\">ĊEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, l-<a href=\"http://ec.europa.eu/anti_fraud/index_mt.html\" lang=\"mt\">OLAF</a>, il-kooperazzjoni tad-dwana u l-kooperazzjoni responsabbli għall-kontrolli fitosanitarji u veterinarji, sabiex trawwem koerenza ġenerali.</p>             <p>FRONTEX issaħħaħ is-sigurtà tal-fruntieri billi tassigura l-koordinazzjoni tal-ħidmiet ta’ l-Istati Membri fit-twettiq ta’ miżuri Komunitarji li għandhom x’jaqsmu mal-ġestjoni tal-fruntieri esterni.</p>"
+            ],
+            "nl": [
+                "<p>FRONTEX houdt nauw contact met andere communautaire partners en EU-partners die verantwoordelijk zijn voor de veiligheid aan de buitengrenzen, zoals <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Bekijk deze link in een andere taal\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Bekijk deze link in een andere taal\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, de <span class=\"link-disabled\">EPA</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Bekijk deze link in een andere taal\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Bekijk deze link in een andere taal\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> en <a href=\"http://ec.europa.eu/anti_fraud/index_nl.html\" lang=\"nl\">OLAF</a>, voor douanesamenwerking en voor de samenwerking op het gebied van fytosanitaire en veterinaire controles, teneinde de algemene samenhang te bevorderen.</p>             <p>FRONTEX verhoogt de veiligheid aan de grenzen door de acties van de lidstaten ter uitvoering van communautaire maatregelen in verband met het beheer van de buitengrenzen te coördineren.</p>"
+            ],
+            "pl": [
+                "<p>Aby zapewnić spójność działań, agencja FRONTEX jest w stałym kontakcie z innymi wspólnotowymi i unijnymi organami odpowiedzialnymi za bezpieczeństwo granic zewnętrznych, takimi jak <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Wybierz wersję językową tego linka\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Wybierz wersję językową tego linka\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Wybierz wersję językową tego linka\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Wybierz wersję językową tego linka\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_pl.html\" lang=\"pl\">OLAF</a>, a także z organami odpowiedzialnymi za współpracę celną i współpracę w zakresie kontroli fitosanitarnych i weterynaryjnych.</p>             <p>Agencja ta wzmacnia bezpieczeństwo granic, koordynując działania podjęte przez państwa członkowskie w celu wdrożenia środków wspólnotowych dotyczących zarządzania granicami zewnętrznymi.</p>"
+            ],
+            "pt": [
+                "<p>A Agência FRONTEX tem ligações com outros parceiros comunitários e da UE responsáveis pela segurança das fronteiras externas, designadamente a <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traduções da ligação anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traduções da ligação anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, a <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traduções da ligação anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traduções da ligação anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span> e a <a href=\"http://ec.europa.eu/anti_fraud/index_pt.html\" lang=\"pt\">OLAF</a>, bem como pela cooperação no domínio aduaneiro e dos controlos fitossanitários e veterinários a fim de promover a coerência global nesta matéria.</p>             <p>A Agência FRONTEX reforça a segurança nas fronteiras, assegurando a coordenação das acções dos Estados‑Membros na aplicação de medidas comunitárias relacionadas com a gestão das fronteiras externas.</p>"
+            ],
+            "ro": [
+                "<p>FRONTEX lucrează în strânsă legătură cu alţi parteneri ai Comunităţii şi ai UE responsabili de securitatea frontierelor externe, cum ar fi <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traducerile linkului anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traducerile linkului anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>,<span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traducerile linkului anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traducerile linkului anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_ro.html\" lang=\"ro\">OLAF</a>, cooperarea vamală şi cooperarea în materie de controale fitosanitare şi veterinare, în scopul de a promova coerenţa generală.</p>             <p>FRONTEX întăreşte securitatea frontierelor, asigurând coordonarea acţiunilor statelor membre în cadrul punerii în aplicare a măsurilor comunitare referitoare la gestionarea frontierelor externe.</p>"
+            ],
+            "sk": [
+                "<p>Agentúra v záujme upevnenia celkovej súdržnosti úzko spolupracuje s inými partnermi Spoločenstva a EÚ zodpovednými za bezpečnosť vonkajších hraníc, ako <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrať preklady k predchádzajúcemu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrať preklady k predchádzajúcemu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_sk.html\" lang=\"sk\">OLAF</a>,  za colnú spoluprácu či spoluprácu v oblasti fytosanitárnych a veterinárnych kontrol.</p>             <p>FRONTEX posilňuje bezpečnosť hraníc zabezpečovaním koordinácie krokov členských štátov pri implementácii opatrení Spoločenstva v oblasti riadenia vonkajších hraníc. </p>"
+            ],
+            "sl": [
+                "<p>Zaradi celovite usklajenosti FRONTEX tesno sodeluje z drugimi partnerji Skupnosti in EU, ki so odgovorni za varnost zunanjih meja, kot so <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Seznam prevodov predhodne povezave\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Seznam prevodov predhodne povezave\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Seznam prevodov predhodne povezave\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Seznam prevodov predhodne povezave\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_sl.html\" lang=\"sl\">OLAF</a>, carinsko sodelovanje ter sodelovanje pri fitosanitarnih in veterinarskih kontrolah.</p>             <p>FRONTEX krepi varnost meja s tem, ko zagotavlja usklajevanje dejavnosti držav članic pri izvajanju ukrepov Skupnosti v zvezi z upravljanjem zunanjih meja.</p>"
+            ],
+            "sv": [
+                "<p>Frontex upprätthåller nära kontakter med andra gemenskaps- och EU-partner som ansvarar för säkerheten vid de yttre gränserna (t.ex. <span class=\"link-disabled\">EUROPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Visa översättning av föregående länk\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Visa översättning av föregående länk\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.europol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <span class=\"link-disabled\">CEPOL</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Visa översättning av föregående länk\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Visa översättning av föregående länk\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"https://www.cepol.europa.eu/\" class=\"lang\" hreflang=\"en\" lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, <a href=\"http://ec.europa.eu/anti_fraud/index_sv.html\" lang=\"sv\">Olaf</a>), tullsamarbetet och samarbetet kring fytosanitära och veterinärmedicinska kontroller, allt i syfte att främja en övergripande konsekvens i verksamheten.</p>             <p>Frontex stärker gränssäkerheten genom att se till att medlemsstaternas åtgärder samordnas vid genomförandet av gemenskapsåtgärder som avser förvaltningen av de yttre gränserna.</p>"
+            ]
+        },
+        "left_sub_menu": {
+            "und": [
+                true
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_f25863464ef676d4a8178f225d79cc7f"
+            ]
+        }
+    }
+}

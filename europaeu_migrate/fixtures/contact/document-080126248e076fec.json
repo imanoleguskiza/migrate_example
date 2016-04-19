@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e076fec",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e076fec",
+        "080126248e076fec",
+        "080126248e076fec",
+        "080126248e076fec"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски институт за изследване на сигурността(ЕИИС)"
+      ],
+      "cs": [
+        "Ústav Evropské unie pro bezpečnostní studia(EUISS)"
+      ],
+      "da": [
+        "Den Europæiske Unions Institut for Sikkerhedsstudier(EUISS)"
+      ],
+      "de": [
+        "Institut der Europäischen Union für Sicherheitsstudien(IEUSS)"
+      ],
+      "el": [
+        "Ινστιτούτο Μελετών της Ευρωπαϊκής Ένωσης για Θέματα Ασφάλειας(EUISS)"
+      ],
+      "en": [
+        "European Union Institute for Security Studies(EUISS)"
+      ],
+      "es": [
+        "Instituto de Estudios de Seguridad de la Unión Europea(IESUE)"
+      ],
+      "et": [
+        "Euroopa Julgeoleku-uuringute Instituut(EUISS)"
+      ],
+      "fi": [
+        "Euroopan unionin turvallisuusalan tutkimuslaitos(EUTT)"
+      ],
+      "fr": [
+        "Institut d'études de sécurité de l'Union européenne(IESUE)"
+      ],
+      "ga": [
+        "An Foras Eorpach um Staidéar Slándála(EUISS)"
+      ],
+      "hr": [
+        "Europski institut za sigurnosne studije(EUISS)"
+      ],
+      "hu": [
+        "Az Európai Unió Biztonságpolitikai Kutatóintézete(EUISS)"
+      ],
+      "it": [
+        "Istituto dell’Unione europea per gli studi sulla sicurezza(IUESS)"
+      ],
+      "lt": [
+        "Europos saugumo studijų institutas(ESSSI)"
+      ],
+      "lv": [
+        "Eiropas Savienības Drošības izpētes institūts(EUISS)"
+      ],
+      "mt": [
+        "l-Istitut tal-Unjoni Ewropea għall-Istudji dwar is-Sigurtà(EUISS)"
+      ],
+      "nl": [
+        "Europees Instituut voor veiligheidsstudies(IVSEU)"
+      ],
+      "pl": [
+        "Instytut Unii Europejskiej Studiów nad Bezpieczeństwem(EUISS)"
+      ],
+      "pt": [
+        "Instituto de Estudos de Segurança da União Europeia(IESUE)"
+      ],
+      "ro": [
+        "Institutul pentru Studii de Securitate al Uniunii Europene(ISSUE)"
+      ],
+      "sk": [
+        "Európsky inštitút pre bezpečnostné štúdie(ISS)"
+      ],
+      "sl": [
+        "Inštitut EU za varnostne študije(EUISS)"
+      ],
+      "sv": [
+        "EU:s institut för säkerhetsstudier(EUISS)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/iss_logo.gif"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>100 avenue de Suffren</p> <p>F-75015 Paris</p> <p>France</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+33 1 56 89 19 30"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+33 1 56 89 19 31"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:info@iss.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact ISS"
+      ]
+    }
+  }
+}

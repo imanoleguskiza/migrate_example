@@ -1,0 +1,929 @@
+{
+    "_id": "aef4eed8c484210e2b618cca4175f9d",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/publications/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/publications/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/publications/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/publications/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/publications/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/publications/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/publications/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/publications/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/publications/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/publications/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/publications/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/publications/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/publications/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/publications/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/publications/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/publications/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/publications/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/publications/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/publications/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/publications/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/publications/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/publications/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/publications/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/publications/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Документи и публикации"
+            ],
+            "cs": [
+                "Dokumenty a publikace"
+            ],
+            "da": [
+                "Dokumenter og publikationer"
+            ],
+            "de": [
+                "Dokumente und Publikationen"
+            ],
+            "el": [
+                "Έγγραφα και δημοσιεύσεις"
+            ],
+            "en": [
+                "Documents and publications"
+            ],
+            "es": [
+                "Documentos y publicaciones"
+            ],
+            "et": [
+                "Dokumendid ja väljaanded"
+            ],
+            "fi": [
+                "Asiakirjat ja julkaisut"
+            ],
+            "fr": [
+                "Documents et publications"
+            ],
+            "ga": [
+                "Doiciméid agus foilseacháin"
+            ],
+            "hr": [
+                "Dokumenti i publikacije"
+            ],
+            "hu": [
+                "Dokumentumok"
+            ],
+            "it": [
+                "Documenti e pubblicazioni"
+            ],
+            "lt": [
+                "Dokumentai ir leidiniai"
+            ],
+            "lv": [
+                "Dokumenti un publikācijas"
+            ],
+            "mt": [
+                "Dokumenti u pubblikazzjonijiet"
+            ],
+            "nl": [
+                "Documenten en publicaties"
+            ],
+            "pl": [
+                "Dokumenty i publikacje"
+            ],
+            "pt": [
+                "Documentos e publicações"
+            ],
+            "ro": [
+                "Documente și publicații"
+            ],
+            "sk": [
+                "Dokumenty a publikácie"
+            ],
+            "sl": [
+                "Dokumenti in publikacije"
+            ],
+            "sv": [
+                "Handlingar och publikationer"
+            ]
+        },
+        "category": {
+            "und": [
+                "56720c9",
+                "94333c1"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/"
+            ],
+            "cs": [
+                "EUROPA/"
+            ],
+            "da": [
+                "EUROPA/"
+            ],
+            "de": [
+                "EUROPA/"
+            ],
+            "el": [
+                "EUROPA/"
+            ],
+            "en": [
+                "EUROPA/"
+            ],
+            "es": [
+                "EUROPA/"
+            ],
+            "et": [
+                "EUROPA/"
+            ],
+            "fi": [
+                "EUROPA/"
+            ],
+            "fr": [
+                "EUROPA/"
+            ],
+            "ga": [
+                "EUROPA/"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "EUROPA/"
+            ],
+            "it": [
+                "EUROPA/"
+            ],
+            "lt": [
+                "EUROPA/"
+            ],
+            "lv": [
+                "EUROPA/"
+            ],
+            "mt": [
+                "EUROPA/"
+            ],
+            "nl": [
+                "EUROPA/"
+            ],
+            "pl": [
+                "EUROPA/"
+            ],
+            "pt": [
+                "EUROPA/"
+            ],
+            "ro": [
+                "EUROPA/"
+            ],
+            "sk": [
+                "EUROPA/"
+            ],
+            "sl": [
+                "EUROPA/"
+            ],
+            "sv": [
+                "EUROPA/"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "ipg"
+            ],
+            "cs": [
+                "ipg"
+            ],
+            "da": [
+                "ipg"
+            ],
+            "de": [
+                "ipg"
+            ],
+            "el": [
+                "ipg"
+            ],
+            "en": [
+                "ipg"
+            ],
+            "es": [
+                "ipg"
+            ],
+            "et": [
+                "ipg"
+            ],
+            "fi": [
+                "ipg"
+            ],
+            "fr": [
+                "ipg"
+            ],
+            "ga": [
+                "ipg"
+            ],
+            "hr": [
+                "ipg"
+            ],
+            "hu": [
+                "ipg"
+            ],
+            "it": [
+                "ipg"
+            ],
+            "lt": [
+                "ipg"
+            ],
+            "lv": [
+                "ipg"
+            ],
+            "mt": [
+                "ipg"
+            ],
+            "nl": [
+                "ipg"
+            ],
+            "pl": [
+                "ipg"
+            ],
+            "pt": [
+                "ipg"
+            ],
+            "ro": [
+                "ipg"
+            ],
+            "sk": [
+                "ipg"
+            ],
+            "sl": [
+                "ipg"
+            ],
+            "sv": [
+                "ipg"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Информация за публикации, доклади, статистика и библиотеки на ЕС. Достъп до регистъра на документи на институциите на ЕС, съдържащ  всички официални документи на ЕС."
+            ],
+            "cs": [
+                "Přehled publikací, zpráv, statistik a knihoven EU. Přístup k rejstříkům úředních dokumentů evropských orgánů a institucí. "
+            ],
+            "da": [
+                "En oversigt over EU-publikationer, -rapporter, -statistikker og -biblioteker. Få adgang til EU-institutionernes register over alle officielle EU-dokumenter."
+            ],
+            "de": [
+                "Überblick über Veröffentlichungen, Berichte, Statistiken und Bibliotheken der EU. Register von Dokumenten der EU-Institutionen – alle amtlichen EU-Dokumente"
+            ],
+            "el": [
+                "Παρουσίαση εκδόσεων, εκθέσεων και στατιστικών της ΕΕ καθώς και των βιβλιοθηκών της ΕΕ. Πρόσβαση στα μητρώα εγγράφων των οργάνων της ΕΕ, τα οποία περιέχουν όλα τα επίσημα έγγραφα της ΕΕ."
+            ],
+            "en": [
+                "An overview of EU publications, reports, statistics and EU libraries. Access the register of documents of the EU institutions for all official EU documents."
+            ],
+            "es": [
+                "Visión general de las publicaciones, informes, estadísticas y bibliotecas de la UE. Acceso al registro de documentos de las instituciones de la UE donde se encuentran todos los documentos oficiales de la UE."
+            ],
+            "et": [
+                "ELi väljaannete, aruannete, statistika ja ELi raamatukogude ülevaade. Juurdepääs ELi institutsioonide dokumentide registri kõigile ametlikele ELi dokumentidele.  "
+            ],
+            "fi": [
+                "Tietoa EU:n julkaisuista, raporteista, tilastoista ja kirjastoista. EU-toimielinten asiakirjarekistereiden avulla voit tutustua kaikkiin EU:n virallisiin asiakirjoihin."
+            ],
+            "fr": [
+                "Présentation des publications, rapports, statistiques et bibliothèques de l'UE. Accéder au registre des documents officiels de toutes les institutions de l'UE"
+            ],
+            "ga": [
+                "Léargas ginearálta ar fhoilseacháin AE, tuarascálacha, staitisticí agus leabharlanna AE. Beidh rochtain agat ar chlár doiciméad institiúidí an AE chun doiciméid oifigiúla uile an AE a aimsiú."
+            ],
+            "hr": [
+                "Pregled publikacija, izvješća, statističkih podataka i knjižnica EU-a. Pristup registru dokumenata institucija EU-a i svim službenim dokumentima EU-a."
+            ],
+            "hu": [
+                "Uniós kiadványok, jelentések, statisztikák áttekintése és az EU könyvtárainak bemutatása. Hozzáférés a az uniós intézmények dokumentum-nyilvántartásaiban található hivatalos uniós dokumentumok összességéhez"
+            ],
+            "it": [
+                "Panoramica delle pubblicazioni, relazioni, statistiche e biblioteche dell'UE. Accesso al registro dei documenti ufficiali delle istituzioni europee."
+            ],
+            "lt": [
+                "ES leidinių, pranešimų, statistikos ir ES bibliotekų apžvalga. Prieiga prie ES institucijų visų oficialių ES dokumentų registro."
+            ],
+            "lv": [
+                "Pārskats par ES publikācijām, ziņojumiem, statistiku un ES bibliotēkām. Piekļuve ES iestāžu dokumentu reģistram, kas aptver visus ES dokumentus."
+            ],
+            "mt": [
+                "Daqqa t'għajn lejn il-pubblikazzjonijiet tal-UE, ir-rapporti, l-istatistika u l-libreriji tal-UE. Aċċess għar-reġistru tad-dokumenti tal-istituzzjonijiet tal-UE għad-dokumenti uffiċjali kollha tal-UE."
+            ],
+            "nl": [
+                "Een overzicht van publicaties, verslagen, statistieken en bibliotheken van de EU. U kunt er zoeken naar gelijk welk officieel document van een instelling van de EU."
+            ],
+            "pl": [
+                "Przegląd publikacji, sprawozdań i statystyk oraz bibliotek UE. Dostęp do rejestru zawierającego wszystkie urzędowe dokumenty instytucji UE."
+            ],
+            "pt": [
+                "Apresentação geral das publicações, relatórios, estatísticas e bibliotecas da UE. Acesso ao registo dos documentos das instituições da UE para consulta de qualquer documento oficial da UE."
+            ],
+            "ro": [
+                "Publicaţii, rapoarte, statistici şi biblioteci ale instituţiilor UE. Accesaţi registrul de documente al instituţiilor europene şi consultaţi documente oficiale ale UE."
+            ],
+            "sk": [
+                "Prehľad publikácií, správ a štatistík. Informácie o knižniciach EÚ. Prístup do registrov dokumentov jednotlivých inštitúcií EÚ."
+            ],
+            "sl": [
+                "Pregled publikacij, poročil, statističnih podatkov in knjižnic EU. Dostop do registra dokumentov institucij EU, kjer so objavljeni vsi uradni dokumenti EU."
+            ],
+            "sv": [
+                "Översikt över EU:s publikationer, rapporter, statistik och bibliotek samt länkar till EU-institutionernas register över officiella handlingar."
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "публикации на ЕС",
+                "публикации",
+                "доклади",
+                "брошури на ЕС",
+                "библиотеки на ЕС",
+                "официални документи на ЕС",
+                "регистър на документите н",
+                "европейски институции",
+                "EUROPA",
+                "ЕС"
+            ],
+            "cs": [
+                "Publikace EU",
+                "publikace",
+                "zprávy",
+                "brožury o EU",
+                "knihovny EU",
+                "úřední dokumenty EU",
+                "rejstřík dokumentů orgánů a institucí EU",
+                "evropské orgány",
+                "instituce EUROPA",
+                "EU"
+            ],
+            "da": [
+                "EU-publikationer",
+                "publikationer",
+                "rapporter",
+                "EU-brochurer",
+                "EU-biblioteker",
+                "officielle EU-dokumenter",
+                "register over EU-institutionernes dokumenter",
+                "EU-institutioner",
+                "EUROPA",
+                "EU"
+            ],
+            "de": [
+                "EU-Veröffentlichungen",
+                "Veröffentlichungen",
+                "Berichte",
+                "EU-Broschüren",
+                "EU-Bibliotheken",
+                "amtliche EU-Dokumente",
+                "Dokumentenregister der EU-Institutionen",
+                "Europäische Institutionen",
+                "EUROPA",
+                "EU"
+            ],
+            "el": [
+                "Εκδόσεις ΕΕ",
+                "εκδόσεις",
+                "εκθέσεις",
+                "φυλλάδια ΕΕ",
+                "βιβλιοθήκες ΕΕ",
+                "επίσημα έγγραφα ΕΕ",
+                "μητρώο εγγράφων των οργάν",
+                "Ευρωπαϊκά όργανα",
+                "EUROPA",
+                "ΕΕ"
+            ],
+            "en": [
+                "EU publications",
+                "publications",
+                "reports",
+                "EU booklets",
+                "EU libraries",
+                "official EU documents",
+                "register of documents of EU institutions",
+                "European institutions",
+                "EUROPA",
+                "EU"
+            ],
+            "es": [
+                "Publicaciones de la UE",
+                "publicaciones",
+                "informes",
+                "folletos de la UE",
+                "bibliotecas de la UE",
+                "documentos oficiales de la UE",
+                "registro de documentos de las instituciones de l",
+                "instituciones europeas",
+                "EUROPA",
+                "UE"
+            ],
+            "et": [
+                "ELi väljaanded",
+                "väljaanded",
+                "aruanded",
+                "ELi brošüürid",
+                "ELi raamatukogud",
+                "ametlikud ELi dokumendid",
+                "ELi institutsioonide dokumentide register",
+                "Euroopa institutsioonid",
+                "EUROPA",
+                "EL"
+            ],
+            "fi": [
+                "EU:n julkaisut",
+                "julkaisut",
+                "raportit",
+                "EU:n esitteet",
+                "EU:n kirjastot",
+                "EU:n viralliset asiakirjat",
+                "EU-toimielinten asiakirjarekisterit",
+                "EU:n toimielimet",
+                "EUROPA",
+                "EU"
+            ],
+            "fr": [
+                "Publications de l'UE",
+                "publications",
+                "rapports",
+                "brochures de l'UE",
+                "bibliothèques de l'UE",
+                "documents officiels de l'UE",
+                "registre de documents des institutions de l'UE",
+                "institutions européennes",
+                "EUROPA",
+                "UE"
+            ],
+            "ga": [
+                "Foilseacháin AE",
+                "foilseacháin",
+                "tuarascálacha",
+                "leabhráin AE",
+                "leabharlanna AE",
+                "doiciméid oifigiúla an AE",
+                "clár doiciméad institiúidí an AE",
+                "institiúidí Eorpacha",
+                "EUROPA",
+                "AE"
+            ],
+            "hr": [
+                "publikacije EU-a",
+                "publikacije",
+                "izvješća",
+                "knjižice EU-a",
+                "knjižnice EU-a",
+                "službeni dokumenti EU-a",
+                "registar dokumenata institucija EU-a",
+                "europske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "hu": [
+                "Uniós kiadványok",
+                "kiadványok",
+                "jelentések",
+                "uniós ismertetők",
+                "EU-könyvtárak",
+                "hivatalos uniós dokumentumok",
+                "az uniós intézmények dokumentum-nyilvántart",
+                "európai intézmények",
+                "EUROPA",
+                "EU"
+            ],
+            "it": [
+                "Pubblicazioni dell'UE",
+                "pubblicazioni",
+                "relazioni",
+                "opuscoli dell'UE",
+                "biblioteche dell'UE",
+                "documenti ufficiali dell'UE",
+                "registro dei documenti delle istituzioni dell'UE",
+                "istituzioni europee",
+                "EUROPA",
+                "UE"
+            ],
+            "lt": [
+                "ES leidiniai",
+                "leidiniai",
+                "pranešimai",
+                "ataskaitos",
+                "ES knygelės",
+                "ES bibliotekos",
+                "oficialūs ES dokumentai",
+                "ES institucijų dokumentų registras",
+                "ES institucijos",
+                "EUROPA",
+                "ES"
+            ],
+            "lv": [
+                "ES publikācijas",
+                "publikācijas",
+                "ziņojumi",
+                "ES brošūras",
+                "ES bibliotēkas",
+                "oficiālie ES dokumenti",
+                "ES iestāžu dokumentu reģistrs",
+                "Eiropas iestādes",
+                "EUROPA",
+                "ES"
+            ],
+            "mt": [
+                "Pubblikazzjonijiet tal-UE",
+                "pubblikazzjonijiet",
+                "rapporti",
+                "kotba tal-UE",
+                "libreriji tal-UE",
+                "dokumenti uffiċjali tal-UE",
+                "reġistru ta' dokumenti tal-istituzzjonijiet tal",
+                "istituzzjonijiet Ewropej",
+                "EUROPA",
+                "UE"
+            ],
+            "nl": [
+                "EU-publicaties",
+                "publicaties",
+                "verslagen",
+                "EU-brochures",
+                "EU-bibliotheken",
+                "officiële EU-documenten",
+                "register van documenten van de instellingen van",
+                "Europese instellingen",
+                "EUROPA",
+                "EU"
+            ],
+            "pl": [
+                "Publikacje UE",
+                "publikacje",
+                "sprawozdania",
+                "broszury",
+                "biblioteki",
+                "dokumenty urzędowe",
+                "rejestr dokumentów instytucji UE",
+                "instytucje europejskie",
+                "EUROPA",
+                "UE"
+            ],
+            "pt": [
+                "Publicações da UE",
+                "publicações",
+                "relatórios",
+                "brochuras da UE",
+                "bibliotecas da UE",
+                "documentos oficiais da UE",
+                "registo dos documentos das instituições da UE",
+                "instituições europeias",
+                "EUROPA",
+                "UE"
+            ],
+            "ro": [
+                "Publicaţii UE",
+                "publicaţii",
+                "rapoarte",
+                "broşuri UE",
+                "biblioteci UE",
+                "documente oficiale ale UE",
+                "registrul de documente al instituţiilor UE",
+                "instituţii europene",
+                "EUROPA",
+                "UE"
+            ],
+            "sk": [
+                "publikácie EÚ",
+                "publikácie",
+                "správy",
+                "brožúry EÚ",
+                "knižnice EÚ",
+                "oficiálne dokumenty EÚ",
+                "register dokumentov inštitúcií EÚ",
+                "európske inštitúcie",
+                "Europa",
+                "EÚ"
+            ],
+            "sl": [
+                "Publikacije EU",
+                "publikacije",
+                "poročila",
+                "knjižice EU",
+                "brošure",
+                "knjižnice EU",
+                "uradni dokumenti EU",
+                "register dokumentov institucij EU",
+                "evropske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "sv": [
+                "EU-publikationer",
+                "rapporter",
+                "rapporter",
+                "EU-broschyrer",
+                "EU-bibliotek",
+                "officiella EU-handlingar",
+                "EU-institutionernas register över handlingar",
+                "EU-institutioner",
+                "europa.eu",
+                "EUROPA",
+                "EU"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<p>Информация за публикации, доклади, статистика и библиотеки на ЕС. Достъп до регистъра на документи на институциите на ЕС, съдържащ  всички официални документи на ЕС.</p>             <h3>Документи, доклади и данни</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_bg.htm\" lang=\"bg\">Официални документи</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_bg.htm\" lang=\"bg\">Доклади, проучвания и брошури</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_bg.htm\" lang=\"bg\">Статистика и проучвания на общественото мнение</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_bg.htm\" lang=\"bg\">Свободно достъпни данни</a>                </li>             </ul>             <h3>Библиотеки и архиви</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_bg.htm\" lang=\"bg\">Библиотеки и архиви</a>                </li>             </ul>             <h3>Материали за</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_bg.htm\" lang=\"bg\">Преподаватели</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_bg.htm\"                      lang=\"bg\">Издателства и автори </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_bg.htm\"                      lang=\"bg\">Служители на институциите на ЕС</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_bg.htm\"                      lang=\"bg\">Език и терминология</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_bg.htm\" lang=\"bg\">Презентации</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_bg.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/bg/bundles/comprender-las-pol-ticas-de-la-uni-n-europea-cbsciep2OwkgkAAAE.xjhtLxJz/\">Политиките на Европейския Съюз</a>                   </h3>                   <p>Тази поредица кратки издания предоставя ясна и достъпна информация за дейността на ЕС в различните области на политиката, неговата роля и резултатите от тази дейност. </p>                </div>             </div>"
+            ],
+            "cs": [
+                "<p>Přehled publikací, zpráv, statistik a knihoven EU. Přístup k rejstříkům úředních dokumentů evropských orgánů a institucí.</p>             <h3>Dokumenty, zprávy a data</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_cs.htm\" lang=\"cs\">Úřední dokumenty</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_cs.htm\" lang=\"cs\">Zprávy, studie a brožury</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_cs.htm\" lang=\"cs\">Statistiky a průzkumy</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_cs.htm\" lang=\"cs\">Veřejně přístupná data</a>                </li>             </ul>             <h3>Knihovny a archivy</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_cs.htm\" lang=\"cs\">Knihovny a archivy</a>                </li>             </ul>             <h3>Materiály o EU</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_cs.htm\" lang=\"cs\">Učitele</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_cs.htm\"                      lang=\"cs\">Vydavatelé a autoři textů </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_cs.htm\"                      lang=\"cs\">Zaměstnanci orgánů EU a dodavatelé</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_cs.htm\"                      lang=\"cs\">Jazyk a terminologie</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_cs.htm\" lang=\"cs\">Vizuální prezentace</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_cs.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/cs/bundles/--cbsciep2OwkgkAAAE.xjhtLxJz/\">Politiky Evropské Unie</a>                   </h3>                   <p>Cílem této edice je jasným a přístupným způsobem veřejnost seznámit s tím, jaké činnosti EU v jednotlivých politických oblastech vyvíjí, proč se v dané oblasti angažuje a jaké má výsledky. </p>                </div>             </div>"
+            ],
+            "da": [
+                "<p>En oversigt over EU-publikationer, -rapporter, -statistikker og -biblioteker. Få adgang til EU-institutionernes register over alle officielle EU-dokumenter.</p>             <h3>Dokumenter, rapporter og data</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_da.htm\" lang=\"da\">Officielle dokumenter</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_da.htm\" lang=\"da\">Rapporter, undersøgelser og brochurer</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_da.htm\" lang=\"da\">Statistik og meningsmålinger</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_da.htm\" lang=\"da\">Åbne data</a>                </li>             </ul>             <h3>Biblioteker og arkiver</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_da.htm\" lang=\"da\">Biblioteker og arkiver</a>                </li>             </ul>             <h3>Ressourcer for</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_da.htm\" lang=\"da\">Lærere</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_da.htm\"                      lang=\"da\">Udgivere og forfattere </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_da.htm\"                      lang=\"da\">Ansatte ved EU-institutionerne og kontrahenter</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_da.htm\"                      lang=\"da\">Sprog og terminologi</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_da.htm\" lang=\"da\">Diaspræsentationer</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_da.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/da/bundles/politiky-evropsk-unie-cbsciep2OwkgkAAAE.xjhtLxJz/\">Indblik i EU- Politik</a>                   </h3>                   <p>Denne serie af korte publikationer beskriver klart og tydeligt, hvad EU gør på de forskellige politikområder, hvorfor politikken ser ud, som den gør, og hvilke resultater der er opnået. </p>                </div>             </div>"
+            ],
+            "de": [
+                "<p>Überblick ûber Veröffentlichungen, Berichte, Statistiken und Bibliotheken der EU. Register von Dokumenten der EU-Institutionen – alle amtlichen EU-Dokumente.</p>             <h3>Dokumente, Berichte und Daten</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_de.htm\" lang=\"de\">Amtliche Dokumente</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_de.htm\" lang=\"de\">Berichte, Studien und Broschüren</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_de.htm\" lang=\"de\">Statistiken und Meinungsumfragen</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_de.htm\" lang=\"de\">Offene Daten</a>                </li>             </ul>             <h3>Bibliotheken und Archive</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_de.htm\" lang=\"de\">Bibliotheken und Archive</a>                </li>             </ul>             <h3>Ressourcen für</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_de.htm\" lang=\"de\">Lehrkräfte</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_de.htm\"                      lang=\"de\">Herausgeber und Autoren </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_de.htm\"                      lang=\"de\">Mitarbeiter und Auftragnehmer der EU-Institutionen</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_de.htm\"                      lang=\"de\">Sprache und Terminologie</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_de.htm\" lang=\"de\">Folienpräsentationen</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_de.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/de/bundles/indblik-i-eu-politik-cbsciep2OwkgkAAAE.xjhtLxJz/\">Die Europäische Union erklärt</a>                   </h3> Ziel dieser Veröffentlichungsreihe ist es, kurz und leicht verständlich zu erklären, was die EU in verschiedenen Politikbereichen unternimmt, warum sie tätig wird und zu welchen Ergebnissen dies führt.</div>             </div>"
+            ],
+            "el": [
+                "<p>Παρουσίαση εκδόσεων, εκθέσεων και στατιστικών της ΕΕ καθώς και των βιβλιοθηκών της ΕΕ. Πρόσβαση στα μητρώα εγγράφων των οργάνων της ΕΕ, τα οποία περιέχουν όλα τα επίσημα έγγραφα της ΕΕ.</p>             <h3>Έγγραφα, εκθέσεις και δεδομένα</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_el.htm\" lang=\"el\">Επίσημα έγγραφα</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_el.htm\" lang=\"el\">Εκθέσεις, μελέτες και φυλλάδια</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_el.htm\" lang=\"el\">Στατιστικές και δημοσκοπήσεις</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_el.htm\" lang=\"el\">Ανοιχτά δεδομένα</a>                </li>             </ul>             <h3>Βιβλιοθήκες και αρχεία</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_el.htm\" lang=\"el\">Βιβλιοθήκες και αρχεία</a>                </li>             </ul>             <h3>Πηγές για</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_el.htm\" lang=\"el\">Εκπαιδευτικούς</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_el.htm\"                      lang=\"el\">Εκδότες και συντάκτες </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_el.htm\"                      lang=\"el\">Προσωπικό και εξωτερικούς συνεργάτες των οργάνων της ΕΕ</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_el.htm\"                      lang=\"el\">Γλώσσα και ορολογία</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_el.htm\" lang=\"el\">Παρουσιάσεις με διαφάνειες</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_el.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/el/bundles/euroopa-liidu-poliitika-lahtiseletatuna-cbsciep2OwkgkAAAE.xjhtLxJz/\">Για να κατανοήσουμε τις πολιτικές της Ευρωπαϊκής Ένωσης</a>                   </h3> Οι εκδόσεις αυτές περιέχουν σαφείς και εύληπτες πληροφορίες για το τι κάνει η ΕΕ στους διάφορους τομείς πολιτικής, για ποιο λόγο αναλαμβάνει δράση και με ποια αποτελέσματα.</div>             </div>"
+            ],
+            "en": [
+                "<p>An overview of EU publications, reports, statistics and EU libraries. Access the register of documents of the EU institutions for all official EU documents.</p>             <h3>Documents, reports and data</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_en.htm\" lang=\"en\">Official documents</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_en.htm\" lang=\"en\">Reports, studies and booklets</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_en.htm\" lang=\"en\">Statistics and opinion polls</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_en.htm\" lang=\"en\">Open data</a>                </li>             </ul>             <h3>Libraries and archives</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_en.htm\" lang=\"en\">Libraries and archives</a>                </li>             </ul>             <h3>Resources for</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_en.htm\" lang=\"en\">Teachers</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_en.htm\"                      lang=\"en\">Publishers and writers</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_en.htm\"                      lang=\"en\">EU institution staff and contractors</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_en.htm\"                      lang=\"en\">Language and terminology</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_en.htm\" lang=\"en\">Slide presentations</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_en.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/en/bundles/the-eu-explained-cbsciep2OwkgkAAAE.xjhtLxJz/\">The European Union explained</a>                   </h3> Find out what the EU does in the different policies areas, why the EU is involved and what the results are.<br/>                </div>             </div>"
+            ],
+            "es": [
+                "<p>Visión general de las publicaciones, informes, estadísticas y bibliotecas de la UE. Acceso al registro de documentos de las instituciones de la UE donde se encuentran todos los documentos oficiales de la UE.</p>             <h3>Documentos, informes y datos</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_es.htm\" lang=\"es\">Documentos oficiales</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_es.htm\" lang=\"es\">Informes, estudios y folletos</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_es.htm\" lang=\"es\">Estadísticas y sondeos</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_es.htm\" lang=\"es\">Datos abiertos</a>                </li>             </ul>             <h3>Bibliotecas y archivos</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_es.htm\" lang=\"es\">Bibliotecas y archivos</a>                </li>             </ul>             <h3>Recursos para</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_es.htm\" lang=\"es\">Profesores</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_es.htm\"                      lang=\"es\">Editores y redactores </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_es.htm\"                      lang=\"es\">Personal y contratistas de las instituciones de la UE</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_es.htm\"                      lang=\"es\">Lengua y terminología</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_es.htm\" lang=\"es\">Presentaciones de diapositivas</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_es.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/es/bundles/the-eu-explained-cbsciep2OwkgkAAAE.xjhtLxJz/\">Comprender las políticas de la Unión Europea</a>                   </h3> Serie de opúsculos que explican de manera clara y sencilla las actividades de la UE en diversos ámbitos, las razones por las que interviene y los resultados.<br/>                </div>             </div>"
+            ],
+            "et": [
+                "<p>ELi väljaannete, aruannete, statistika ja ELi raamatukogude ülevaade. Juurdepääs ELi institutsioonide dokumentide registri kõigile ametlikele ELi dokumentidele.</p>             <h3>Dokumendid, aruanded ja andmed</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_et.htm\" lang=\"et\">Ametlikud dokumendid</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_et.htm\" lang=\"et\">Aruanded, uuringud ja brošüürid</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_et.htm\" lang=\"et\">Statistika ja arvamusküsitlused</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_et.htm\" lang=\"et\">Avatud andmed</a>                </li>             </ul>             <h3>Raamatukogud ja arhiivid</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_et.htm\" lang=\"et\">Raamatukogud ja arhiivid</a>                </li>             </ul>             <h3>Kasulik materjal</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_et.htm\" lang=\"et\">Õpetajatele</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_et.htm\"                      lang=\"et\">Kirjastajad ja autorid </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_et.htm\"                      lang=\"et\">ELi instutsioonide töötajad ja alltöövõtjad</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_et.htm\"                      lang=\"et\">Keel ja terminoloogia</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_et.htm\" lang=\"et\">Slaidiesitlused</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_et.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/et/bundles/die-europaeische-union-erklaert-cbsciep2OwkgkAAAE.xjhtLxJz/\">Euroopa Liidu Poliitika Lahtiseletatuna</a>                   </h3> Käesolevas lühidokumentide sarjas kirjeldatakse ja põhjendatakse selgelt ning arusaadavalt ELi tegevust eri poliitikavaldkondades ning selle tegevuse tulemusi.<br/>                </div>             </div>"
+            ],
+            "fi": [
+                "<p>Tietoa EU:n julkaisuista, raporteista, tilastoista ja kirjastoista. EU-toimielinten asiakirjarekistereiden avulla voit tutustua kaikkiin EU:n virallisiin asiakirjoihin.</p>             <h3>Asiakirjat, raportit ja data</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_fi.htm\" lang=\"fi\">Viralliset asiakirjat</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_fi.htm\" lang=\"fi\">Raportit, tutkimukset ja esitteet</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_fi.htm\" lang=\"fi\">Tilastot ja mielipidetutkimukset</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_fi.htm\" lang=\"fi\">Avoin data</a>                </li>             </ul>             <h3>Kirjastot ja arkistot</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_fi.htm\" lang=\"fi\">Kirjastot ja arkistot</a>                </li>             </ul>             <h3>Ohjeita</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_fi.htm\" lang=\"fi\">Opettajille</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_fi.htm\"                      lang=\"fi\">Julkaisijoille ja kirjoittajille</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_fi.htm\"                      lang=\"fi\">EU:n toimielinten henkilöstölle ja alihankkijoille</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_fi.htm\"                      lang=\"fi\">Kielet ja terminologia</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_fi.htm\" lang=\"fi\">Diaesitykset</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_fi.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/fi/bundles/politiky-eur-pskej-nie-cbsciep2OwkgkAAAE.xjhtLxJz/\">Valokeilassa Euroopan unionin politiikka</a>                   </h3>                   <p>Yleistajuisessa sarjassa esitellään EU:n toimia eri politiikan aloilla sekä toiminnan taustoja ja tuloksia. </p>                </div>             </div>"
+            ],
+            "fr": [
+                "<p>Présentation des publications, rapports, statistiques et bibliothèques de l'UE. Accéder au registre des documents officiels de toutes les institutions de l'UE.</p>             <h3>Documents, rapports et données</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_fr.htm\" lang=\"fr\">Documents officiels</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_fr.htm\" lang=\"fr\">Rapports, études et brochures</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_fr.htm\" lang=\"fr\">Statistiques et sondages</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_fr.htm\" lang=\"fr\">Données ouvertes</a>                </li>             </ul>             <h3>Bibliothèques et archives</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_fr.htm\" lang=\"fr\">Bibliothèques et archives</a>                </li>             </ul>             <h3>Ressources pour</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_fr.htm\" lang=\"fr\">Enseignants</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_fr.htm\"                      lang=\"fr\">Éditeurs et rédacteurs</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_fr.htm\"                      lang=\"fr\">Agents permanents et contractuels des institutions de l'UE</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_fr.htm\"                      lang=\"fr\">Langues et terminologie</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_fr.htm\" lang=\"fr\">Diaporamas</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_fr.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/fr/bundles/comprender-las-pol-ticas-de-la-uni-n-europea-cbsciep2OwkgkAAAE.xjhtLxJz/\">Comprendre les politiques de l’Union Européenne</a>                   </h3> Cette série de brochures offre des explications claires et simples sur ce que fait l'UE dans ses différents domaines de compétence, pour quelles raisons elle agit et quels sont les résultats de son action.</div>             </div>"
+            ],
+            "ga": [
+                "<p>Léargas ginearálta ar fhoilseacháin AE, tuarascálacha, staitisticí agus leabharlanna AE. Beidh rochtain agat ar chlár doiciméad institiáidí an AE chun doiciméid oifigiúla uile an AE a aimsiú.</p>             <h3>Doiciméid, tuarascálacha agus sonraí</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_ga.htm\" lang=\"ga\">Doiciméid oifigiúla</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_ga.htm\" lang=\"ga\">Tuarascálacha, staidéir agus leabhráin</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_ga.htm\" lang=\"ga\">Staidreamh agus pobalmheasanna</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_ga.htm\" lang=\"ga\">Sonraí oscailte</a>                </li>             </ul>             <h3>Leabharlanna agus cartlanna</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_ga.htm\" lang=\"ga\">Leabharlanna agus cartlanna</a>                </li>             </ul>             <h3>Acmhainní do</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_ga.htm\" lang=\"ga\">Múinteoirí</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_ga.htm\"                      lang=\"ga\">Fhoilsitheoirí agus scríbhneoirí</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_ga.htm\"                      lang=\"ga\">Foireann agus conraitheoirí institiúidí an AE</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_ga.htm\"                      lang=\"ga\">Teanga agus téarmaíocht</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_ga.htm\" lang=\"ga\">Cuir i láthair</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_en.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/ga/bundles/comprendre-les-politiques-de-l-union-europ-enne-cbsciep2OwkgkAAAE.xjhtLxJz/\">Foras Feasa ar an Aontas Eorpach</a>                   </h3> Léargas ar obair an Aontais i réimsí éagsúla beartais, ar na fáthanna a bhfuil an tAontas gníomhach sna réimsí sin agus ar thorthaí na hoibre sin.</div>             </div>"
+            ],
+            "hr": [
+                "<p>Pregled publikacija, izvješća, statističkih podataka i knjižnica EU-a. Pristup registru dokumenata institucija EU-a i svim službenim dokumentima EU-a.</p>             <h3>Dokumenti , izvješća i podaci</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_hr.htm\" lang=\"hr\">Službeni dokumenti</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_hr.htm\" lang=\"hr\">Dokumenti, izvješća i brošure</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_hr.htm\" lang=\"hr\">Statistike i ispitivanja javnog mnijenja</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_hr.htm\" lang=\"hr\">Otvoreni podaci</a>                </li>             </ul>             <h3>Knjižnice i arhivi</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_hr.htm\" lang=\"hr\">Knjižnice i arhivi</a>                </li>             </ul>             <h3>Izvori informacija za</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_hr.htm\" lang=\"hr\">Nastavnike</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_hr.htm\"                      lang=\"hr\">Izdavače i autore</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_hr.htm\"                      lang=\"hr\">Osoblje institucija EU-a i vanjsko ugovorno osoblje</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_hr.htm\"                      lang=\"hr\">Jezik i terminologija</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_hr.htm\" lang=\"hr\">Prezentacije u slajdovima</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_hr.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/hr/bundles/the-eu-explained-cbsciep2OwkgkAAAE.xjhtLxJz/\">Više o EU-u</a>                   </h3> U ovim kratkim izdanjima možete pronaći jasna i lako razumljiva objašnjenja o djelovanjima EU-a u različitim područjima politike te o razlozima i rezultatima tog djelovanja.<br/>                </div>             </div>"
+            ],
+            "hu": [
+                "<p>Uniós kiadványok, jelentések, statisztikák áttekintése és az EU könyvtárainak bemutatása. Hozzáférés a az uniós intézmények dokumentum-nyilvántartásaiban található hivatalos uniós dokumentumok összességéhez.</p>             <h3>Dokumentumok, jelentések és adatok</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_hu.htm\" lang=\"hu\">Hivatalos dokumentumok</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_hu.htm\" lang=\"hu\">Jelentések, tanulmányok és ismertetők</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_hu.htm\" lang=\"hu\">Statisztikák és közvélemény-kutatások</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_hu.htm\" lang=\"hu\">Nyílt hozzáférésű adatok</a>                </li>             </ul>             <h3>Könyvtárak és levéltárak</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_hu.htm\" lang=\"hu\">Könyvtárak és levéltárak</a>                </li>             </ul>             <h3>Információk</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_hu.htm\" lang=\"hu\">Tanárok</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_hu.htm\"                      lang=\"hu\">Kiadók és szerzők </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_hu.htm\"                      lang=\"hu\">Az EU intézményeinek munkatársai és alvállalkozói</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_hu.htm\"                      lang=\"hu\">Nyelv és terminológia</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_hu.htm\" lang=\"hu\">Diabemutatók</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_hu.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/hu/bundles/apie-europos-s-jungos-politik--cbsciep2OwkgkAAAE.xjhtLxJz/\">Közérthetően az Európai Unió szakpolitikáiról</a>                   </h3>                   <p>A kiadványsorozat közérthető magyarázattal szolgál arról, mit tesz az EU a különböző szakpolitikai területeken, miért van szükség arra, hogy intézkedjen, és munkája milyen eredménnyel jár. </p>                </div>             </div>"
+            ],
+            "it": [
+                "<p>Panoramica delle pubblicazioni, relazioni, statistiche e biblioteche dell'UE. Accesso al registro dei documenti ufficiali delle istituzioni europee.</p>             <h3>Documenti, relazioni e dati</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_it.htm\" lang=\"it\">Documenti ufficiali</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_it.htm\" lang=\"it\">Relazioni, studi e opuscoli</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_it.htm\" lang=\"it\">Statistiche e sondaggi</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_it.htm\" lang=\"it\">Open Data</a>                </li>             </ul>             <h3>Biblioteche e archivi</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_it.htm\" lang=\"it\">Biblioteche e archivi</a>                </li>             </ul>             <h3>Risorse per</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_it.htm\" lang=\"it\">Insegnanti</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_it.htm\"                      lang=\"it\">Editori e autori </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_it.htm\"                      lang=\"it\">Personale delle istituzioni dell'UE e appaltatori</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_it.htm\"                      lang=\"it\">Lingua e terminologia</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_it.htm\" lang=\"it\">Schede per le presentazioni</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_it.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/it/bundles/vi-e-o-eu-u--cbsciep2OwkgkAAAE.xjhtLxJz/\">Le politiche dell'Unione Europea</a>                   </h3> Questa serie di brevi pubblicazioni illustra in modo chiaro e semplice le varie politiche europee, spiegando quali sono le competenze dell'UE e quali risultati ha ottenuto.<br/>                </div>             </div>"
+            ],
+            "lt": [
+                "<p>ES leidinių, pranešimų, statistikos ir ES bibliotekų apžvalga. Prieiga prie ES institucijų visų oficialių ES dokumentų registro.</p>             <h3>Dokumentai, ataskaitos ir duomenys</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_lt.htm\" lang=\"lt\">Oficialūs dokumentai</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_lt.htm\" lang=\"lt\">Ataskaitos, tyrimai ir knygelės</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_lt.htm\" lang=\"lt\">Statistika ir apklausos</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_lt.htm\" lang=\"lt\">Atvirieji duomenys</a>                </li>             </ul>             <h3>Bibliotekos ir archyvai</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_lt.htm\" lang=\"lt\">Bibliotekos ir archyvai</a>                </li>             </ul>             <h3>Ištekliai</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_lt.htm\" lang=\"lt\">Mokytojams</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_lt.htm\"                      lang=\"lt\">Medžiaga leidėjams ir autoriams</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_lt.htm\"                      lang=\"lt\">ES institucijų darbuotojai ir sutartininkai</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_lt.htm\"                      lang=\"lt\">Kalbos ir terminologija</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_lt.htm\" lang=\"lt\">Skaidrės</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_lt.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/lt/bundles/ieskats-es-politik--cbsciep2OwkgkAAAE.xjhtLxJz/\">Apie Europos Sąjungos politiką</a>                   </h3>                   <p>Šioje knygelių serijoje aiškiai ir suprantamai paaiškinama, ką ES veikia įvairiose politikos srityse, kodėl ji imasi veiksmų ir kokių rezultatų yra pasiekusi. </p>                </div>             </div>"
+            ],
+            "lv": [
+                "<p>Pārskats par ES publikācijām, ziņojumiem, statistiku un ES bibliotēkām. Piekļuve ES iestāžu dokumentu reģistram, kas aptver visus ES dokumentus.</p>             <h3>Dokumenti, ziņojumi un dati</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_lv.htm\" lang=\"lv\">Oficiālie dokumenti</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_lv.htm\" lang=\"lv\">Ziņojumi, pētījumi un brošūras</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_lv.htm\" lang=\"lv\">Statistika un sabiedriskās domas aptaujas</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_lv.htm\" lang=\"lv\">Atklātie dati</a>                </li>             </ul>             <h3>Bibliotēkas un arhīvi</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_lv.htm\" lang=\"lv\">Bibliotēkas un arhīvi</a>                </li>             </ul>             <h3>Materiāli</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_lv.htm\" lang=\"lv\">Skolotājiem</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_lv.htm\"                      lang=\"lv\">Izdevējiem un autoriem </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_lv.htm\"                      lang=\"lv\">ES iestāžu darbinieki un līgumdarbinieki</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_lv.htm\"                      lang=\"lv\">Valoda un terminoloģija</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_lv.htm\" lang=\"lv\">Slaidu prezentācijas</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_lv.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/lv/bundles/le-politiche-dell-unione-europea-cbsciep2OwkgkAAAE.xjhtLxJz/\">Ieskats ES politikā</a>                   </h3> Šajā rakstu sērijā ir skaidrā un saprotamā valodā izskaidrots, ko ES dara dažādās politikas jomās, kāpēc ES politika ir tieši tāda un kādi rezultāti ir sasniegti.<br/>                </div>             </div>"
+            ],
+            "mt": [
+                "<p>Daqqa t'għajn lejn il-pubblikazzjonijiet tal-UE, ir-rapporti, l-istatistika u l-libreriji tal-UE. Aċċess għar-reġistru tad-dokumenti tal-istituzzjonijiet tal-UE għad-dokumenti uffiċjali kollha tal-UE.</p>             <h3>Dokumenti, rapporti u dejta</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_mt.htm\" lang=\"mt\">Dokumenti uffiċjali</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_mt.htm\" lang=\"mt\">Rapporti, studji u fuljetti</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_mt.htm\" lang=\"mt\">Statistika u stħarriġ tal-opinjonijiet</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_mt.htm\" lang=\"mt\">Dejta miftuħa</a>                </li>             </ul>             <h3>Libreriji u arkivji</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_mt.htm\" lang=\"mt\">Libreriji u arkivji</a>                </li>             </ul>             <h3>Riżorsi għal</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_mt.htm\" lang=\"mt\">Għalliema</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_mt.htm\"                      lang=\"mt\">Riżorsi għall-pubblikaturi u l-kittieba</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_mt.htm\"                      lang=\"mt\">Il-persunal u l-kuntratturi tal-istituzzjonijiet tal-UE</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_mt.htm\"                      lang=\"mt\">Lingwaġġ u terminoloġija</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_mt.htm\" lang=\"mt\">Presentazzjonijiet bl-islides</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_mt.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/mt/bundles/koez-rthet-en-az-eur-pai-uni-szakpolitik-ir-l-cbsciep2OwkgkAAAE.xjhtLxJz/\">Il-politiki tal-Unjoni Ewropea</a>                   </h3> Din is-serje ta' dokumenti qosra tipprovdi spjegazzjonijiet ċari, li jinftiehmu malajr dwar il-ħidma tal-UE f'diversi oqsma ta' politika, għaliex hija involuta l-UE, u x'inhuma r-riżultati.<br/>                </div>             </div>"
+            ],
+            "nl": [
+                "<p>Een overzicht van publicaties, verslagen, statistieken en bibliotheken van de EU. U kunt er zoeken naar gelijk welk officieel document van een instelling van de EU.</p>             <h3>Documenten, verslagen en statistieken</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_nl.htm\" lang=\"nl\">Officiële documenten</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_nl.htm\" lang=\"nl\">Verslagen, studies en brochures</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_nl.htm\" lang=\"nl\">Statistieken en opiniepeilingen</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_nl.htm\" lang=\"nl\">Open data</a>                </li>             </ul>             <h3>Bibliotheken en archieven</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_nl.htm\" lang=\"nl\">Bibliotheken en archieven</a>                </li>             </ul>             <h3>Materiaal voor</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_nl.htm\" lang=\"nl\">Leerkrachten</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_nl.htm\"                      lang=\"nl\">Uitgevers en auteurs </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_nl.htm\"                      lang=\"nl\">Personeel en contractanten van de EU-instellingen</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_nl.htm\"                      lang=\"nl\">Taal en terminologie</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_nl.htm\" lang=\"nl\">Presentaties, slideshows etc.</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_nl.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/nl/bundles/il-politiki-tal-unjoni-ewropea-cbsciep2OwkgkAAAE.xjhtLxJz/\">De Europese Unie in het kort</a>                   </h3> Deze reeks brochures beschrijft kort en duidelijk wat de EU op verschillende beleidsterreinen doet, waarom de EU daar een rol speelt, en wat de resultaten zijn.<br/>                </div>             </div>"
+            ],
+            "pl": [
+                "<p>Przegląd publikacji, sprawozdań i statystyk oraz bibliotek UE. Dostęp do rejestru zawierającego wszystkie urzędowe dokumenty instytucji UE.</p>             <h3>Dokumenty, raporty i dane</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_pl.htm\" lang=\"pl\">Dokumenty urzędowe</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_pl.htm\" lang=\"pl\">Sprawozdania, analizy i broszury</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_pl.htm\" lang=\"pl\">Statystyki i badania opinii publicznej</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_pl.htm\" lang=\"pl\">Otwarte dane</a>                </li>             </ul>             <h3>Biblioteki i archiwa</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_pl.htm\" lang=\"pl\">Biblioteki i archiwa</a>                </li>             </ul>             <h3>Materiały Dla nauczycieli</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_pl.htm\" lang=\"pl\">Nauczyciele</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_pl.htm\"                      lang=\"pl\">Wydawcy i autorzy </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_pl.htm\"                      lang=\"pl\">Pracownicy i podwykonawcy w instytucjach UE</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_pl.htm\"                      lang=\"pl\">Język i terminologia</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_pl.htm\" lang=\"pl\">Prezentacje na slajdach</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_pl.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/pl/bundles/de-europese-unie-in-het-kort-cbsciep2OwkgkAAAE.xjhtLxJz/\">Zrozumieć politykę Unii Europejskiej</a>                   </h3>                   <p>Publikacje z tej serii poświęcone są działaniom, jakie podejmuje Unia w różnych obszarach, powodom ich podejmowania i osiąganym wynikom.</p>                </div>             </div>"
+            ],
+            "pt": [
+                "<p>Presentação geral das publicações, relatórios, estatísticas e bibliotecas da UE. Acesso ao registo dos documentos das instituições da UE para consulta de qualquer documento oficial da UE.</p>             <h3>Documentos, relatórios e dados</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_pt.htm\" lang=\"pt\">Documentos oficiais</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_pt.htm\" lang=\"pt\">Relatórios, estudos e brochuras</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_pt.htm\" lang=\"pt\">Estatísticas e sondagens de opinião</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_pt.htm\" lang=\"pt\">Dados abertos</a>                </li>             </ul>             <h3>Bibliotecas e arquivos</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_pt.htm\" lang=\"pt\">Bibliotecas e arquivos</a>                </li>             </ul>             <h3>Material para</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_pt.htm\" lang=\"pt\">Professores</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_pt.htm\"                      lang=\"pt\">Editores e escritores </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_pt.htm\"                      lang=\"pt\">Pessoal da UE e contratantes</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_pt.htm\"                      lang=\"pt\">Língua e terminologia</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_pt.htm\" lang=\"pt\">Diaporamas</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_pt.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/pt/bundles/zrozumie-polityk-unii-europejskiej-cbsciep2OwkgkAAAE.xjhtLxJz/\">Compreender as políticas da União Europeia</a>                   </h3> Esta série de brochuras explica, numa linguagem fácil e acessível, a ação da UE em vários domínios, as razões da sua intervenção e os resultados obtidos.<br/>                </div>             </div>"
+            ],
+            "ro": [
+                "<p>Biblioteci şi arhive istorice ale instituţiilor UE. Accesaţi Biblioteca Europeană şi Docurama.</p>             <h3>Documente, rapoarte și date</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_ro.htm\" lang=\"ro\">Documente oficiale</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_ro.htm\" lang=\"ro\">Rapoarte, studii şi broşuri</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_ro.htm\" lang=\"ro\">Statistici şi sondaje de opinie</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_ro.htm\" lang=\"ro\">Datele deschise</a>                </li>             </ul>             <h3>Biblioteci și arhive</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_ro.htm\" lang=\"ro\">Biblioteci şi arhive</a>                </li>             </ul>             <h3>Resurse pentru</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_ro.htm\" lang=\"ro\">Profesori</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_ro.htm\"                      lang=\"ro\">Editori şi autori </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_ro.htm\"                      lang=\"ro\">Personalul şi contractanţii instituţiilor UE</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_ro.htm\"                      lang=\"ro\">Politică lingvistică şi terminologie</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_ro.htm\" lang=\"ro\">Prezentări sub formă de diapozitive</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_ro.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/ro/bundles/compreender-as-pol-ticas-da-uni-o-europeia-cbsciep2OwkgkAAAE.xjhtLxJz/\">Să înțelegem politicile Uniunii Europene</a>                   </h3>                   <p>Această serie de broşuri explică, într-un limbaj clar şi accesibil, ce face UE în diverse domenii, de ce acţionează şi ce rezultate obţine. </p>                </div>             </div>"
+            ],
+            "sk": [
+                "<p>Prehľad publikácií, správ a štatistík. Informácie o knižniciach EÚ. Prístup do registrov dokumentov jednotlivých inštitúcií EÚ.</p>             <h3>Dokumenty, správy a údaje</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_sk.htm\" lang=\"sk\">Oficiálne dokumenty</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_sk.htm\" lang=\"sk\">Správy, štúdie a brožúry</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_sk.htm\" lang=\"sk\">Štatistiky a prieskumy verejnej mienky</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_sk.htm\" lang=\"sk\">Voľné údaje</a>                </li>             </ul>             <h3>Knižnice a archívy</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_sk.htm\" lang=\"sk\">Knižnice a archívy</a>                </li>             </ul>             <h3>Podkladové materiály pre</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_sk.htm\" lang=\"sk\">Pedagógov</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_sk.htm\"                      lang=\"sk\">Vydavateľov a autorov</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_sk.htm\"                      lang=\"sk\">Zamestnanci inštitúcií EÚ a zmluvní partneri</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_sk.htm\"                      lang=\"sk\">Jazyky a terminológia</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_sk.htm\" lang=\"sk\">Snímkové prezentácie</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_sk.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/sk/bundles/s-n-elegem-politicile-uniunii-europene-cbsciep2OwkgkAAAE.xjhtLxJz/\">Politiky Európskej únie</a>                   </h3> Táto séria brožúr ponúka jasné, ľahko čitateľné texty o tom, čo robí Európska únia v rôznych politických oblastiach, aké sú dôvody jej opatrení a aké výsledky dosiahla.<br/>                </div>             </div>"
+            ],
+            "sl": [
+                "<p>Pregled publikacij, poročil, statističnih podatkov in knjižnic EU. Dostop do registra dokumentov institucij EU, kjer so objavljeni vsi uradni dokumenti EU.</p>             <h3>Dokumenti, poročila in podatki</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_sl.htm\" lang=\"sl\">Uradni dokumenti</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_sl.htm\" lang=\"sl\">Poročila, študije in knjižice</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_sl.htm\" lang=\"sl\">Statistike in javnomnenjske raziskave</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_sl.htm\" lang=\"sl\">Odprti podatki</a>                </li>             </ul>             <h3>Knjižnice in arhivi</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_sl.htm\" lang=\"sl\">Knjižnice in arhivi</a>                </li>             </ul>             <h3>Gradivo za</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_sl.htm\" lang=\"sl\">Učitelji</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_sl.htm\"                      lang=\"sl\">Založniki in avtorji </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_sl.htm\"                      lang=\"sl\">Osebje institucij EU in pogodbeni sodelavci</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_sl.htm\"                      lang=\"sl\">Jezik in terminologija</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_sl.htm\" lang=\"sl\">Predstavitve z diapozitivi</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_sl.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/sl/bundles/insyn-i-eu-politiken-cbsciep2OwkgkAAAE.xjhtLxJz/\">Politike Evropske unije</a>                   </h3> Zbirka kratko in razumljivo predstavlja dejavnosti EU na različnih področjih politik, razloge za njeno ukrepanje in dosežene rezultate..<br/>                </div>             </div>"
+            ],
+            "sv": [
+                "<p>Översikt över EU:s publikationer, rapporter, statistik och bibliotek samt länkar till EU-institutionernas register över officiella handlingar.</p>             <h3>Handlingar, rapporter och statistik</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/official-documents/index_sv.htm\" lang=\"sv\">Officiella handlingar</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/reports-booklets/index_sv.htm\" lang=\"sv\">Rapporter, studier och broschyrer</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/statistics/index_sv.htm\" lang=\"sv\">Statistik och opinionsundersökningar</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/open-data/index_sv.htm\" lang=\"sv\">Öppna data</a>                </li>             </ul>             <h3>Bibliotek och arkiv</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/libraries-archives/index_sv.htm\" lang=\"sv\">Bibliotek och arkiv</a>                </li>             </ul>             <h3>Hjälpmedel för...</h3>             <ul>                <li>                   <a href=\"http://europa.eu/publications/resources-teachers/index_sv.htm\" lang=\"sv\">Lärare</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/resources-publishers/index_sv.htm\"                      lang=\"sv\">Förläggare och skribenter </a>                </li>                <li>                   <a href=\"http://europa.eu/publications/eu-institution-staff-and-contractors/index_sv.htm\"                      lang=\"sv\">EU-institutionernas personal och leverantörer</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/language-and-terminology/index_sv.htm\"                      lang=\"sv\">Språk och termer</a>                </li>                <li>                   <a href=\"http://europa.eu/publications/slide-presentations/index_sv.htm\" lang=\"sv\">Bildspel</a>                </li>             </ul>             <div class=\"popular-publ\">                <div class=\"left_content\">                   <div class=\"image_overflow\">                      <img src=\"http://europa.eu/publications/images/eu_explained_sv.jpg\" alt=\"\"/>                   </div>                </div>                <div class=\"right_content\">                   <h3 class=\"link\">                      <a href=\"http://bookshop.europa.eu/sv/bundles/valokeilassa-euroopan-unionin-politiikka-cbsciep2OwkgkAAAE.xjhtLxJz/\">Insyn i EU-Politiken</a>                   </h3>                   <p>Den här broschyrserien beskriver på ett enkelt och tydligt sätt vad EU gör på sina olika politikområden, varför politiken ser ut som den gör och vilka resultat EU har uppnått. </p>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_aef4eed8c484210e2b618cca4175f9d"
+            ]
+        }
+    }
+}

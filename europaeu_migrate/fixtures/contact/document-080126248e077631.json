@@ -1,0 +1,427 @@
+{
+  "_id": "080126248e077631",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e077631",
+        "080126248e077631",
+        "080126248e077631",
+        "080126248e077631",
+        "080126248e077631"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски парламент (Страсбург)"
+      ],
+      "cs": [
+        "Evropský parlament (Štrasburk)"
+      ],
+      "da": [
+        "Europa-Parlamentet (Strasbourg)"
+      ],
+      "de": [
+        "Europäisches Parlament (Straßburg)"
+      ],
+      "el": [
+        "Ευρωπαϊκό Κοινοβούλιο (Στρασβούργο)"
+      ],
+      "en": [
+        "European Parliament (Strasbourg)"
+      ],
+      "es": [
+        "Parlamento Europeo (Estrasburgo)"
+      ],
+      "et": [
+        "Euroopa Parlament (Strasbourg)"
+      ],
+      "fi": [
+        "Euroopan parlamentti (Strasbourg)"
+      ],
+      "fr": [
+        "Parlement européen (Strasbourg)"
+      ],
+      "ga": [
+        "Parlaimint na hEorpa (Strasbourg)"
+      ],
+      "hr": [
+        "Europski parlament (Strasbourg)"
+      ],
+      "hu": [
+        "Európai Parlament (Strasbourg)"
+      ],
+      "it": [
+        "Parlamento europeo (Strasburgo)"
+      ],
+      "lt": [
+        "Europos Parlamentas (Strasbūras)"
+      ],
+      "lv": [
+        "Eiropas Parlaments (Strasbūra)"
+      ],
+      "mt": [
+        "Parlament Ewropew (Strasburgu)"
+      ],
+      "nl": [
+        "Europees Parlement  (Straatsburg)"
+      ],
+      "pl": [
+        "Parlament Europejski (Strasburg)"
+      ],
+      "pt": [
+        "Parlamento Europeu (Estrasburgo)"
+      ],
+      "ro": [
+        "Parlamentul European (Strasbourg)"
+      ],
+      "sk": [
+        "Európsky parlament (Štrasburg)"
+      ],
+      "sl": [
+        "Evropski parlament (Strasbourg)"
+      ],
+      "sv": [
+        "Europaparlamentet (Strasbourg)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>1, avenue du Président Robert Schuman</p> <p>CS 91024</p> <p>F-67070 Strasbourg Cedex</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+33 3 88 17 40 01"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+33 3 88 17 51 84"
+      ]
+    },
+    "link_url": {
+      "bg": [
+        "http://www.europarl.europa.eu/portal/bg/contact/"
+      ],
+      "cs": [
+        "http://www.europarl.europa.eu/portal/cs/contact/"
+      ],
+      "da": [
+        "http://www.europarl.europa.eu/portal/da/contact/"
+      ],
+      "de": [
+        "http://www.europarl.europa.eu/portal/de/contact/"
+      ],
+      "el": [
+        "http://www.europarl.europa.eu/portal/el/contact/"
+      ],
+      "en": [
+        "http://www.europarl.europa.eu/portal/en/contact/"
+      ],
+      "es": [
+        "http://www.europarl.europa.eu/portal/es/contact/"
+      ],
+      "et": [
+        "http://www.europarl.europa.eu/portal/et/contact/"
+      ],
+      "fi": [
+        "http://www.europarl.europa.eu/portal/fi/contact/"
+      ],
+      "fr": [
+        "http://www.europarl.europa.eu/portal/fr/contact/"
+      ],
+      "hr": [
+        "http://www.europarl.europa.eu/portal/hr/contact"
+      ],
+      "hu": [
+        "http://www.europarl.europa.eu/portal/hu/contact/"
+      ],
+      "it": [
+        "http://www.europarl.europa.eu/portal/it/contact/"
+      ],
+      "lt": [
+        "http://www.europarl.europa.eu/portal/lt/contact/"
+      ],
+      "lv": [
+        "http://www.europarl.europa.eu/portal/lv/contact/"
+      ],
+      "mt": [
+        "http://www.europarl.europa.eu/portal/mt/contact/"
+      ],
+      "nl": [
+        "http://www.europarl.europa.eu/portal/nl/contact/"
+      ],
+      "pl": [
+        "http://www.europarl.europa.eu/portal/pl/contact/"
+      ],
+      "pt": [
+        "http://www.europarl.europa.eu/portal/pt/contact/"
+      ],
+      "ro": [
+        "http://www.europarl.europa.eu/portal/ro/contact/"
+      ],
+      "sk": [
+        "http://www.europarl.europa.eu/portal/sk/contact/"
+      ],
+      "sl": [
+        "http://www.europarl.europa.eu/portal/sl/contact/"
+      ],
+      "sv": [
+        "http://www.europarl.europa.eu/portal/sv/contact/"
+      ]
+    },
+    "link_label": {
+      "bg": [
+        "Contact"
+      ],
+      "cs": [
+        "Contact"
+      ],
+      "da": [
+        "Contact"
+      ],
+      "de": [
+        "Contact"
+      ],
+      "el": [
+        "Contact"
+      ],
+      "en": [
+        "Contact"
+      ],
+      "es": [
+        "Contact"
+      ],
+      "et": [
+        "Contact"
+      ],
+      "fi": [
+        "Contact"
+      ],
+      "fr": [
+        "Contact"
+      ],
+      "hr": [
+        "Kontakt"
+      ],
+      "hu": [
+        "Contact"
+      ],
+      "it": [
+        "Contact"
+      ],
+      "lt": [
+        "Contact"
+      ],
+      "lv": [
+        "Contact"
+      ],
+      "mt": [
+        "Contact"
+      ],
+      "nl": [
+        "Contact"
+      ],
+      "pl": [
+        "Contact"
+      ],
+      "pt": [
+        "Contact"
+      ],
+      "ro": [
+        "Contact"
+      ],
+      "sk": [
+        "Contact"
+      ],
+      "sl": [
+        "Contact"
+      ],
+      "sv": [
+        "Contact"
+      ]
+    },
+    "visit": {
+      "bg": [
+        "<p>Вид посещение: Обиколка с екскурзовод, информационна сесия, пленарно заседание, Euroscola (за училища, учители и студенти)</p> <p>Минимален размер на групата: 20-45 души (с изключение на пленарните заседания)</p> <p>Отделни посетители: Само по време на пленарните заседания</p> <p>Изискване за предварителна резервация: 3 месеца (с изключение на пленарните заседания)</p> <p>Минимална възраст на посетителите: 14 години</p> <p><a href=\"http://www.europarl.europa.eu/visiting/bg/locations/strasbourg.html\">Посетете Европейския парламент в Страсбург</a></p>"
+      ],
+      "cs": [
+        "<p>Typ návštěvy: Prohlídka s průvodcem, přednáška, účast na plenárním zasedání, Euroscola (pro školní exkurze)</p> <p>Minimální velikost skupiny: 20–45 osob (s výjimkou účasti na plenárním zasedání)</p> <p>Návštěvy pro jednotlivce: Pouze během plenárního zasedání</p> <p>Povinná rezervace: 3 měsíce předem (s výjimkou účasti na plenárním zasedání)</p> <p>Minimální věk návštěvníků: 14 let</p> <p><a href=\"http://www.europarl.europa.eu/visiting/cs/locations/strasbourg.html\">Navštivte budovu Evropského parlamentu ve Štrasburku</a></p>"
+      ],
+      "da": [
+        "<p>Former for besøg: Rundvisninger, informationsbesøg, plenarmøder, Euroscola (for skoler, lærere og studerende)</p> <p>Minimumstørrelse på gruppe: 20-45 personer (bortset fra ved plenarmøder)</p> <p>Enkeltpersoner: Kun under plenarmøder</p> <p>Krav om forudbestilling: 3 måneder (bortset fra ved plenarmøder)</p> <p>Minimumsalder på besøgende: 14 år</p> <p><a href=\"http://www.europarl.europa.eu/visiting/da/locations/strasbourg.html\">Besøg Europa-Parlamentet i Strasbourg</a></p>"
+      ],
+      "de": [
+        "<p>Art des Besuchs: Führung, Informationsbesuch, Plenartagung, Euroscola (für Schulen, Lehrkräfte und Studierende)</p> <p>Mindestteilnehmerzahl: 20–45 Personen (außer Plenartagung)</p> <p>Einzelbesucher: Nur Plenartagung</p> <p>Anmeldung: Drei Monate im Voraus (außer Plenartagung)</p> <p>Mindestalter der Besucher: 14 Jahre</p> <p><a href=\"http://www.europarl.europa.eu/visiting/de/locations/strasbourg.html\">Besuchen Sie das Europäische Parlament in Straßburg</a></p>"
+      ],
+      "el": [
+        "<p>Είδη επισκέψεων: Ξεναγήσεις, ενημερωτικές συνεδριάσεις, συνεδριάσεις ολομέλειας, Euroscola (για σχολεία, εκπαιδευτικούς και φοιτητές)</p> <p>Ελάχιστο μέγεθος ομάδας επισκεπτών: 20-45 άτομα (πλην της συνεδρίασης ολομέλειας)</p> <p>Μεμονωμένοι επισκέπτες: Μόνο για τις συνεδριάσεις ολομέλειας</p> <p>Υποχρέωση κράτησης: 3 μήνες νωρίτερα (πλην της συνεδρίασης ολομέλειας)</p> <p>Κατώτατο όριο ηλικίας επισκεπτών: 14 ετών</p> <p><a href=\"http://www.europarl.europa.eu/visiting/el/locations/strasbourg.html\">Επισκεφθείτε το Ευρωπαϊκό Κοινοβούλιο στο Στρασβούργο</a></p>"
+      ],
+      "en": [
+        "<p>Type of visit: Guided tour, information session, plenary sitting, Euroscola (for schools, teachers and students)</p> <p>Minimum size of group: 20-45 people (except for plenary sitting)</p> <p>Individual visitors: During plenary sittings only</p> <p>Advance booking requirement: 3 months (except for plenary sitting)</p> <p>Minimum age of visitors: 14 years old</p> <p><a href=\"http://www.europarl.europa.eu/visiting/en/locations/strasbourg.html\">Visit the European Parliament in Strasbourg</a></p>"
+      ],
+      "es": [
+        "<p>Tipo de visita: Visita guiada, visita de información, plenos, Euroscola (para centros escolares, profesores y alumnos)</p> <p>Tamaño mínimo del grupo: 20-45 personas (salvo para los plenos)</p> <p>Visitas individuales: Solo durante los plenos</p> <p>Plazo mínimo para hacer la solicitud: 3 meses (salvo para los plenos)</p> <p>Edad mínima de los visitantes: 14 años</p> <p><a href=\"http://www.europarl.europa.eu/visiting/es/locations/strasbourg.html\">Visitas al Parlamento Europeo en Estrasburgo</a></p>"
+      ],
+      "et": [
+        "<p>Külastuste liigid: Ringkäik giidiga, teabekülastus, täiskogu istung, Euroscala (koolidele, õpetajatele ja üliõpilastele)</p> <p>Minimaalne rühma suurus: 20–45 inimest (välja arvatud täiskogu istungi puhul)</p> <p>Eraviisiline külastus: Ainult täiskogu istungi ajal</p> <p>Kohustus eelnevalt registreerida: 3 kuud ette (välja arvatud täiskogu istungi korral)</p> <p>Minimaalne külastajate vanus: 14 aastat</p> <p><a href=\"http://www.europarl.europa.eu/visiting/et/locations/strasbourg.html\">Külastage Euroopa Parlamenti Strasbourgis</a></p>"
+      ],
+      "fi": [
+        "<p>Vierailutyypit: opastettu kierros, esittelytilaisuus, täysistunto, Euroscola (lukioiden ja ammatillisten oppilaitosten opiskelijoille ja opettajille)</p> <p>Ryhmän vähimmäiskoko: 20–45 henkeä (paitsi täysistunnoissa)</p> <p>Yksittäiset vierailijat: ainoastaan täysistuntojen aikana</p> <p>Pakollinen etukäteisvaraus: 3 kuukautta etukäteen (paitsi täysistuntoihin)</p> <p>Vierailijoiden vähimmäisikä: 14 vuotta</p> <p><a href=\"http://www.europarl.europa.eu/visiting/fi/locations/strasbourg.html\">Vierailut Euroopan parlamentissa Strasbourgissa</a></p>"
+      ],
+      "fr": [
+        "<p>Type de visite: Visite guidée, séance d'information, séance plénière, Euroscola (pour les écoles, les enseignants et les étudiants)</p> <p>Taille minimale des groupes: 20 à 45 personnes (sauf pour les séances plénières)</p> <p>Visites individuelles: Uniquement durant les séances plénières</p> <p>Réservation: 3 mois (sauf pour les séances plénières)</p> <p>Âge minimum des visiteurs: 14 ans</p> <p><a href=\"http://www.europarl.europa.eu/visiting/fr/locations/strasbourg.html\">Visiter le Parlement européen à Strasbourg</a></p>"
+      ],
+      "ga": [
+        "<p>Cineál cuairte: Turas treoraithe, seisiún eolais, cruinniú iomlánach, Euroscola (do scoileanna, múinteoirí agus daltaí)</p> <p>Íosmhéid an ghrúpa: 20-45 duine (seachas i gcruinniú iomlánach)</p> <p>Daoine aonair: Le linn cruinnithe iomlánacha amháin</p> <p>Riachtanas réamháirithinte: 3 mhí (seachas cruinniú iomlánach)</p> <p>Aois íosta na gcuairteoirí: 14 bliana d'aois</p> <p><a href=\"http://www.europarl.europa.eu/visiting/en/locations/strasbourg.html\">Tabhair cuairt ar Pharlaimint na hEorpa in Strasbourg</a></p>"
+      ],
+      "hr": [
+        "<p>Vrsta posjeta: razgledavanje s vodičem, informativni sastanak, plenarna sjednica, Euroscola (za škole, nastavnike/profesore i učenike/studente)</p> <p>Minimalna veličina skupine: 20 - 45 osoba (osim za plenarnu sjednicu)</p> <p>Individualni posjetitelji: Samo tijekom plenarnih sjednica</p> <p>Obvezna prethodna rezervacija: 3 mjeseca (osim za plenarnu sjednicu)</p> <p>Minimalna dob posjetitelja: 14 godina</p> <p><a href=\"http://www.europarl.europa.eu/visiting/hr/locations/strasbourg.html\">Posjetite Europski parlament u Strasbourgu</a></p>"
+      ],
+      "hu": [
+        "<p>Látogatás típusa: Látogatás idegenvezetéssel, információs látogatás, plenáris ülés, Euroscola (iskolák, tanárok és diákok számára)</p> <p>Csoport minimális létszáma: 20–45 fő (kivéve a plenáris ülések esetében)</p> <p>Egyéni látogatás: Csak plenáris ülések idején</p> <p>Előzetes bejelentkezés: 3 hónappal a látogatás tervezett időpontja előtt (kivéve a plenáris üléseket)</p> <p>Látogatók alsó korhatára: 14 év</p> <p><a href=\"http://www.europarl.europa.eu/visiting/hu/locations/strasbourg.html\">Látogatás az Európai Parlament strasbourgi épületében</a></p>"
+      ],
+      "it": [
+        "<p>Tipo di visita: visita guidata, sessione informativa, seduta plenaria, Euroscola (per scuole, insegnanti e studenti)</p> <p>Numero minimo di partecipanti: 20-45 persone (ad eccezione delle sedute plenarie)</p> <p>Visitatori individuali: solo durante le sedute plenarie</p> <p>Prenotazione: 3 mesi prima (ad eccezione delle sedute plenarie)</p> <p>Età minima dei visitatori: 14 anni</p> <p><a href=\"http://www.europarl.europa.eu/visiting/it/locations/strasbourg.html\">Visitate il Parlamento europeo a Strasburgo</a></p>"
+      ],
+      "lt": [
+        "<p>Apsilankymo pobūdis: Ekskursija su gidu, informacinė paskaita, plenarinis posėdis, „Euroscola“ (mokykloms, mokytojams ir mokiniams)</p> <p>Grupės dydis: 20–45 asmenys (netaikoma plenariniams posėdžiams)</p> <p>Individualūs lankytojai: Dalyvavimas tik plenariniuose posėdžiuose</p> <p>Prieš kiek laiko būtina susitarti dėl apsilankymo?: Prieš 3 mėnesius (netaikoma plenariniams posėdžiams)</p> <p>Minimalus lankytojų amžius: 14 metų</p> <p><a href=\"http://www.europarl.europa.eu/visiting/lt/locations/strasbourg.html\">Apsilankykite Europos Parlamente Strasbūre</a></p>"
+      ],
+      "lv": [
+        "<p>Apmeklējuma veids: gida vadīts apmeklējums, informatīvs apmeklējums, plenārsēde, “Euroscola” (skolām, skolēniem un skolotājiem)</p> <p>Minimālais grupas lielums: 20–45 cilvēki (izņemot plenārsēdes)</p> <p>Individuāli apmeklētāji: tikai uz plenārsēdēm</p> <p>Iepriekšēja pieteikšanās: 3 mēnešus iepriekš (izņemot plenārsēdes)</p> <p>Apmeklētāju minimālais vecums: 14 gadi</p> <p><a href=\"http://www.europarl.europa.eu/visiting/lv/locations/strasbourg.html\">Eiropas Parlamenta apmeklējums Strasbūrā</a></p>"
+      ],
+      "mt": [
+        "<p>Tip ta’ żjara: Żjara gwidata, sessjoni ta' informazzjoni, seduta plenarja, Euroscola (għall-iskejjel, l-għalliema u l-istudenti)</p> <p>Daqs minimu ta’ grupp: 20-45 persuna (ħlief għas-seduta plenarja)</p> <p>Viżitaturi individwali: Matul is-seduti plenarji biss</p> <p>Ħtieġa ta' riżervazzjoni bil-quddiem: 3 xhur (ħlief għal seduti plenarji)</p> <p>Età minima tal-viżitaturi: 14-il sena</p> <p><a href=\"http://www.europarl.europa.eu/visiting/mt/locations/strasbourg.html\">Żur il-Parlament Ewropew fi Strasburgu</a></p>"
+      ],
+      "nl": [
+        "<p>Soort bezoek: Rondleiding, voorlichtingsbezoek, plenaire vergadering, Euroscola (voor scholen, leerkrachten en studenten)</p> <p>Groepsgrootte: 20-45 personen (behalve voor plenaire vergaderingen)</p> <p>Individuele bezoekers: Alleen tijdens plenaire vergaderingen</p> <p>Reservering: Minstens 3 maanden van tevoren (behalve voor plenaire vergaderingen)</p> <p>Minimumleeftijd: 14 jaar</p> <p><a href=\"http://www.europarl.europa.eu/visiting/nl/locations/strasbourg.html\">Bezoek het Europees Parlement in Straatsburg</a></p>"
+      ],
+      "pl": [
+        "<p>Rodzaj wizyty: Zwiedzanie z przewodnikiem, sesja informacyjna, udział w posiedzeniu plenarnym, Euroscola (dla szkół, nauczycieli i uczniów)</p> <p>Minimalna wielkość grupy: 20–45 osób (nie dotyczy posiedzeń plenarnych)</p> <p>Wizyty indywidualne: Wyłącznie podczas posiedzeń plenarnych</p> <p>Wymóg rezerwacji: 3 miesiące wcześniej (nie dotyczy posiedzeń plenarnych)</p> <p>Minimalny wiek odwiedzających: 14 lat</p> <p><a href=\"http://www.europarl.europa.eu/visiting/pl/locations/strasbourg.html\">Wizyty w Parlamencie Europejskim w Strasburgu</a></p>"
+      ],
+      "pt": [
+        "<p>Tipo de visita: visita guiada, sessão de informação, sessão plenária, Euroscola (para escolas, professores e alunos)</p> <p>Número mínimo de participantes: 20-45 pessoas (exceto para as sessões plenárias)</p> <p>Visitantes individuais: só durante as sessões plenárias</p> <p>Marcação prévia obrigatória: 3 meses (exceto para as sessões plenárias)</p> <p>Idade mínima dos visitantes: 14 anos</p> <p><a href=\"http://www.europarl.europa.eu/visiting/pt/locations/strasbourg.html\">Visite o Parlamento Europeu em Estrasburgo</a></p>"
+      ],
+      "ro": [
+        "<p>Tipul de vizită: tur ghidat, sesiune de informare, şedinţă plenară, Euroscola (pentru şcoli, cadre didactice şi elevi)</p> <p>Dimensiunea grupului: 20-45 de persoane (cu excepţia şedinţei plenare)</p> <p>Vizitatori individuali: numai pentru şedinţele plenare</p> <p>Rezervare: cu 3 luni înainte de data vizitei (cu excepţia şedinţelor plenare)</p> <p>Vârsta minimă a vizitatorilor: 14 ani</p> <p><a href=\"http://www.europarl.europa.eu/visiting/ro/locations/strasbourg.html\">Vizitaţi Parlamentul European la Strasbourg</a></p>"
+      ],
+      "sk": [
+        "<p>Typy návštev: prehliadky, informatívne stretnutia, plenárne zasadnutia, Euroscola (pre školy, učiteľov a študentov)</p> <p>Minimálna veľkosť skupiny: 20 – 45 osôb (s výnimkou plenárnych zasadnutí)</p> <p>Individuálni návštevníci: iba počas plenárnych zasadnutí</p> <p>Povinná rezervácia: 3 mesiace pred návštevou (s výnimkou plenárnych zasadnutí)</p> <p>Minimálny vek návštevníkov: 14 rokov</p> <p><a href=\"http://www.europarl.europa.eu/visiting/sk/locations/strasbourg.html\">Navštívte Európsky parlament v Štrasburgu</a></p>"
+      ],
+      "sl": [
+        "<p>Vrsta obiska: Vodeni ogled, informativna predstavitev, plenarno zasedanje, Euroscola (za šole, učitelje in študente)</p> <p>Velikost skupine: Najmanj 20–45 oseb (razen za plenarno zasedanje)</p> <p>Obiski posameznikov: Samo med plenarnim zasedanjem</p> <p>Vnaprejšnja rezervacija: 3 mesece (razen za plenarno zasedanje)</p> <p>Starost obiskovalcev: Najmanj 14 let</p> <p><a href=\"http://www.europarl.europa.eu/visiting/sl/locations/strasbourg.html\">Obiščite Evropski parlament v Strasbourgu</a></p>"
+      ],
+      "sv": [
+        "<p>Typ av besök: Guidade turer, föredrag, plenarsammanträden, Euroscola (för skolor, lärare och elever)</p> <p>Gruppens storlek: 20–45 personer (utom för plenarsammanträden)</p> <p>Enskilda besökare: Endast plenarsammanträden</p> <p>Förhandsbokning: 3 månader (utom för plenarsammanträden)</p> <p>Åldersgräns: 14 år</p> <p><a href=\"http://www.europarl.europa.eu/visiting/sv/locations/strasbourg.html\">Besök Europaparlamentet i Strasbourg</a></p>"
+      ]
+    }
+  }
+}

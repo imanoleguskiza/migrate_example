@@ -1,0 +1,316 @@
+{
+  "_id": "carrousel2010",
+  "type": "europe-carrousel_item",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "en",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "sv"
+  ],
+  "fields": {
+    "title": {
+      "bg": [
+        2010
+      ],
+      "cs": [
+        2010
+      ],
+      "da": [
+        2010
+      ],
+      "de": [
+        2010
+      ],
+      "el": [
+        2010
+      ],
+      "en": [
+        2010
+      ],
+      "es": [
+        2010
+      ],
+      "et": [
+        2010
+      ],
+      "fi": [
+        2010
+      ],
+      "fr": [
+        2010
+      ],
+      "ga": [
+        2010
+      ],
+      "hu": [
+        2010
+      ],
+      "it": [
+        2010
+      ],
+      "lt": [
+        2010
+      ],
+      "lv": [
+        2010
+      ],
+      "mt": [
+        2010
+      ],
+      "nl": [
+        2010
+      ],
+      "pl": [
+        2010
+      ],
+      "pt": [
+        2010
+      ],
+      "ro": [
+        2010
+      ],
+      "sk": [
+        2010
+      ],
+      "sl": [
+        2010
+      ],
+      "sv": [
+        2010
+      ]
+    },
+    "image_thumb": {
+      "bg": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_ga.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/i_love_europe_2010_sv.jpg"
+      ]
+    },
+    "image": {
+      "bg": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_ga.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/i_love_europe_2010_sv.jpg"
+      ]
+    },
+    "image_alt": {
+      "bg": [
+        2010
+      ],
+      "cs": [
+        2010
+      ],
+      "da": [
+        2010
+      ],
+      "de": [
+        2010
+      ],
+      "el": [
+        2010
+      ],
+      "en": [
+        2010
+      ],
+      "es": [
+        2010
+      ],
+      "et": [
+        2010
+      ],
+      "fi": [
+        2010
+      ],
+      "fr": [
+        2010
+      ],
+      "ga": [
+        2010
+      ],
+      "hu": [
+        2010
+      ],
+      "it": [
+        2010
+      ],
+      "lt": [
+        2010
+      ],
+      "lv": [
+        2010
+      ],
+      "mt": [
+        2010
+      ],
+      "nl": [
+        2010
+      ],
+      "pl": [
+        2010
+      ],
+      "pt": [
+        2010
+      ],
+      "ro": [
+        2010
+      ],
+      "sk": [
+        2010
+      ],
+      "sl": [
+        2010
+      ],
+      "sv": [
+        2010
+      ]
+    }
+  }
+}

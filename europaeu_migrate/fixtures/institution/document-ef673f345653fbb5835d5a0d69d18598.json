@@ -1,0 +1,738 @@
+{
+    "_id": "ef673f345653fbb5835d5a0d69d18598",
+    "type": "institution",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/acer/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Агенция за сътрудничество между регулаторите на енергия"
+            ],
+            "cs": [
+                "Agentura pro spolupráci energetických regulačních orgánů"
+            ],
+            "da": [
+                "Agenturet for Samarbejde mellem Energimyndigheder"
+            ],
+            "de": [
+                "Agentur für die Zusammenarbeit der Energieregulierungsbehörden"
+            ],
+            "el": [
+                "Οργανισμός Συνεργασίας Ρυθμιστικών Αρχών Ενέργειας"
+            ],
+            "en": [
+                "Agency for the Cooperation of Energy Regulators"
+            ],
+            "es": [
+                "Agencia de Cooperación de los Reguladores de la Energía"
+            ],
+            "et": [
+                "Energeetikasektorit Reguleerivate Asutuste Koostööamet"
+            ],
+            "fi": [
+                "Energia-alan sääntelyviranomaisten yhteistyövirasto"
+            ],
+            "fr": [
+                "Agence de coopération des régulateurs de l’énergie"
+            ],
+            "ga": [
+                "An Ghníomhaireacht um Chomhar idir Rialálaithe Fuinnimh"
+            ],
+            "hr": [
+                "Agencija za suradnju energetskih regulatornih tijela"
+            ],
+            "hu": [
+                "Energiaszabályozók Együttműködési Ügynöksége"
+            ],
+            "it": [
+                "Agenzia per la cooperazione fra i regolatori nazionali dell’energia"
+            ],
+            "lt": [
+                "Energetikos reguliavimo institucijų bendradarbiavimo agentūra"
+            ],
+            "lv": [
+                "Energoregulatoru sadarbības aģentūra"
+            ],
+            "mt": [
+                "Aġenzija għall-Kooperazzjoni tar-Regolaturi tal-Enerġija"
+            ],
+            "nl": [
+                "Agentschap voor de samenwerking tussen energieregelgevers"
+            ],
+            "pl": [
+                "Agencja ds. Współpracy Organów Regulacji Energetyki"
+            ],
+            "pt": [
+                "Agência de Cooperação dos Reguladores da Energia"
+            ],
+            "ro": [
+                "Agenţia pentru Cooperarea Autorităţilor de Reglementare din Domeniul Energiei"
+            ],
+            "sk": [
+                "Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky"
+            ],
+            "sl": [
+                "Agencija za sodelovanje energetskih regulatorjev"
+            ],
+            "sv": [
+                "Byrån för samarbete mellan energitillsynsmyndigheter"
+            ]
+        },
+        "category": {
+            "und": [
+                "40261c37",
+                "23337c59",
+                "23337c1"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/"
+            ],
+            "cs": [
+                "EUROPA/"
+            ],
+            "da": [
+                "EUROPA/"
+            ],
+            "de": [
+                "EUROPA/"
+            ],
+            "el": [
+                "EUROPA/"
+            ],
+            "en": [
+                "EUROPA/"
+            ],
+            "es": [
+                "EUROPA/"
+            ],
+            "et": [
+                "EUROPA/"
+            ],
+            "fi": [
+                "EUROPA/"
+            ],
+            "fr": [
+                "EUROPA/"
+            ],
+            "ga": [
+                "EUROPA/"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "EUROPA/"
+            ],
+            "it": [
+                "EUROPA/"
+            ],
+            "lt": [
+                "EUROPA/"
+            ],
+            "lv": [
+                "EUROPA/"
+            ],
+            "mt": [
+                "EUROPA/"
+            ],
+            "nl": [
+                "EUROPA/"
+            ],
+            "pl": [
+                "EUROPA/"
+            ],
+            "pt": [
+                "EUROPA/"
+            ],
+            "ro": [
+                "EUROPA/"
+            ],
+            "sk": [
+                "EUROPA/"
+            ],
+            "sl": [
+                "EUROPA/"
+            ],
+            "sv": [
+                "EUROPA/"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Агенцията за сътрудничество между енергийните регулатори помага за гладкото функциониране на единния европейски пазар на газ и електроенергия. Обзор на основните задачи на агенцията и координати за връзка."
+            ],
+            "cs": [
+                "Agentura pro spolupráci energetických regulačních orgánů (ACER) pomáhá zajišťovat řádné fungování jednotného evropského trhu s elektřinou a zemním plynem. Přehled hlavních povinností a úkolů agentury ACER, včetně kontaktních údajů."
+            ],
+            "da": [
+                "Agenturet for Samarbejde mellem Energimyndigheder – ACER er med til at sikre, at EU's indre marked for gas og el fungerer ordentligt. Oversigt over ACER's vigtigste ansvarsområder, opgaver og kontaktinformation."
+            ],
+            "de": [
+                "Agentur für die Zusammenarbeit der Energieregulierungsbehörden – ACER trägt zum reibungslosen Funktionieren des europäischen Strom- und Gasmarkts bei. Überblick über die Zuständigkeiten, Aufgaben und Kontaktinformationen von ACER."
+            ],
+            "el": [
+                "O Οργανισμός Συνεργασίας Ρυθμιστικών Αρχών Ενέργειας (ACER) μεριμνά για την εύρυθμη λειτουργία της ενιαίας ευρωπαϊκής αγοράς φυσικού αερίου και ηλεκτρικής ενέργειας.  Γενική παρουσίαση των βασικών αρμοδιοτήτων, καθηκόντων και στοιχείων επικοινωνίας του ACER."
+            ],
+            "en": [
+                "Agency for the Cooperation of Energy Regulators - ACER helps ensure the single European market in gas and electricity functions properly. Overview of ACER’s main responsibilities, tasks and contact information."
+            ],
+            "es": [
+                "Agencia de Cooperación de los Reguladores de la Energía - La ACER ayuda a garantizar el buen funcionamiento del mercado único europeo del gas y la electricidad. Principales responsabilidades y tareas, datos de contacto."
+            ],
+            "et": [
+                "Energeetikasektorit Reguleerivate Asutuste Koostööamet (ACER) aitab tagada Euroopa ühtse gaasi- ja elektrituru nõuetekohast toimimist. ACERI peamised ülesanded ja kontaktid."
+            ],
+            "fi": [
+                "Energia-alan sääntelyviranomaisten yhteistyövirasto – ACER auttaa varmistamaan, että EU:n kaasu- ja sähköalan sisämarkkinat toimivat tehokkaasti. Katsaus ACERin vastuualaan ja tehtäviin sekä viraston yhteystiedot."
+            ],
+            "fr": [
+                "L'ACER (Agence de coopération des régulateurs de l’énergie) contribue à garantir le bon fonctionnement du marché européen du gaz et de l'électricité. Présentation de ses tâches et de ses compétences et coordonnées."
+            ],
+            "ga": [
+                "An Ghníomhaireacht um Chomhar idir Rialálaithe Fuinnimh  - cabhraíonn ACER lena chinntiú go bhfeidhmeoidh an margadh aonair Eorpach i ngás is i leictreachas i gceart.   Forléargas ar phríomhfhreagrachtaí, ar chúraimí is ar eolas teagmhála ACER.  "
+            ],
+            "hr": [
+                "Agencija za suradnju energetskih regulatornih tijela (ACER) pomaže u osiguravanju pravilnoga funkcioniranja jedinstvenoga europskog tržišta plina i električne energije. Pregled glavnih nadležnosti i zadataka Agencije te podatci za kontakt."
+            ],
+            "hu": [
+                "Energiaszabályozók Együttműködési Ügynöksége – Az ACER elősegíti az egységes európai gáz- és villamosenergia-piac megfelelő működését. Áttekintés: a ACER szerepe és fő feladatai, illetve elérhetőségi adatai."
+            ],
+            "it": [
+                "L'Agenzia per la cooperazione fra i regolatori nazionali dell’energia (ACER) aiuta a garantire il corretto funzionamento del mercato unico europeo del gas e dell'energia elettrica. Descrizione delle principali competenze dell'ACER. Funzioni e contatti."
+            ],
+            "lt": [
+                "Energetikos reguliavimo institucijų bendradarbiavimo agentūra (ACER) rūpinasi, kad tinkamai veiktų bendroji Europos dujų ir elektros rinka. ACER pagrindinės atsakomybės sritys, uždaviniai ir kontaktinė informacija."
+            ],
+            "lv": [
+                "Energoregulatoru sadarbības aģentūra (ACER) palīdz gādāt, lai pareizi darbotos vienotais Eiropas gāzes un elektroenerģijas tirgus. ACER pamata pienākumi, uzdevumi un kontaktinformācija."
+            ],
+            "mt": [
+                "L-Aġenzija għall-Kooperazzjoni tar-Regolaturi tal-Enerġija - ACER tgħin biex fis-suq uniku Ewropew, il-gass u l-elettriċità jaħdmu sew. Ħarsa lejn ir-responsabbiltajiet prinċipali, il-kompiti u l-informazzjoni tal-kuntatt ta' ACER."
+            ],
+            "nl": [
+                "ACER, het Agentschap voor de samenwerking tussen energieregelgevers, controleert de goede werking van de Europese markt voor gas en elektriciteit. Een overzicht van de bevoegdheden, taken en contactgegevens van ACER."
+            ],
+            "pl": [
+                "Agencja ds. Współpracy Organów Regulacji Energetyki – ACER pomaga zagwarantować właściwe funkcjonowanie jednolitego europejskiego rynku gazu i energii elektrycznej. Przegląd głównych obowiązków i zadań ACER oraz dane kontaktowe."
+            ],
+            "pt": [
+                "Agência de Cooperação dos Reguladores da Energia - A ACER ajuda a assegurar o correto funcionamento do mercado único europeu do gás e da eletricidade.  Principais responsabilidades e tarefas da ACER. Contactos."
+            ],
+            "ro": [
+                "Agenţia pentru Cooperarea Autorităţilor de Reglementare din Domeniul Energiei – ACER contribuie la garantarea bunei funcţionări a pieţei europene unice a gazului şi electricităţii. ACER - responsabilităţi principale, misiuni şi date de contact"
+            ],
+            "sk": [
+                "Agentúra pre spoluprácu regulačných orgánov v oblasti energetiky (ACER) pomáha zabezpečiť, aby jednotný európsky trh s plynom a elektrickou energiou fungoval plynule. Prehľad hlavných úloh a kontaktné informácie agentúry ACER."
+            ],
+            "sl": [
+                "Agencija za sodelovanje energetskih regulatorjev – Agencija ACER skrbi za pravilno delovanje enotnega evropskega trga z električno energijo in zemeljskim plinom. Pregled glavnih odgovornosti in nalog Agencije ter kontaktni podatki."
+            ],
+            "sv": [
+                "Byrån för samarbete mellan energitillsynsmyndigheter (Acer) bidrar till att den europeiska gas- och elmarknaden fungerar ordentligt. Översikt över byråns ansvarsområden, verksamhet och kontaktuppgifter."
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "europa",
+                "ACER",
+                "Агенция за сътрудничество",
+                "европейски пазар за газ и",
+                "агенции и децентрализиран"
+            ],
+            "cs": [
+                "Evropa, europa",
+                "ACER",
+                "Agentura pro spolupráci energetických regulač",
+                "evropský trh s elektřinou a zemním plynem",
+                "agentury a decentralizované orgány"
+            ],
+            "da": [
+                "europa",
+                "ACER",
+                "Agenturet for Samarbejde mellem Energimyndighede",
+                "Det europæiske marked for gas og el",
+                "Agenturer og decentraliserede organer"
+            ],
+            "de": [
+                "europa",
+                "ACER",
+                "Agentur für die Zusammenarbeit der Energieregul",
+                "Europäischer Strom- und Gasmarkt",
+                "Agenturen und dezentrale Einrichtungen"
+            ],
+            "el": [
+                "europa",
+                "ACER",
+                "Οργανισμός Συνεργασίας Ρυ",
+                "ευρωπαϊκή αγορά φυσικού α",
+                "Οργανισμοί και αποκεντρωμ"
+            ],
+            "en": [
+                "europa",
+                "ACER",
+                "Agency for the Cooperation of Energy Regulators",
+                "European market in gas and electricity",
+                "Agencies and decentralised bodies"
+            ],
+            "es": [
+                "europa",
+                "ACER",
+                "Agencia de Cooperación de los Reguladores de la",
+                "mercado europeo del gas y la electricidad",
+                "Agencias y órganos descentralizados"
+            ],
+            "et": [
+                "europa",
+                "ACER",
+                "Energeetikasektorit Reguleerivate Asutuste Koost",
+                "Euroopa gaasi- ja elektriturg",
+                "Ametid ja detsentraliseeritud asutused"
+            ],
+            "fi": [
+                "europa",
+                "ACER",
+                "Energia-alan sääntelyviranomaisten yhteistyöv",
+                "EU:n kaasu- ja sähköalan markkinat",
+                "erillisvirastot, -elimet ja -laitokset"
+            ],
+            "fr": [
+                "Europa",
+                "ACER, ACRE",
+                "Agence de coopération des régulateurs de l’",
+                "Marché européen du gaz et de l’électricité",
+                "Agences et organismes décentralisés"
+            ],
+            "ga": [
+                "europa",
+                "ACER",
+                "An Ghníomhaireacht um Chomhar idir Rialálaithe",
+                "An margadh Eorpach i ngás is i leictreachas",
+                "Gníomhaireachtaí agus comhlachtaí dílárnait"
+            ],
+            "hr": [
+                "europa",
+                "ACER",
+                "Agencija za suradnju energetskih regulatornih ti",
+                "Europsko tržište plina i električne energije",
+                "Agencije i decentralizirana tijela"
+            ],
+            "hu": [
+                "EUROPA",
+                "ACER",
+                "Energiaszabályozók Együttműködési Ügynök",
+                "A gáz és a villamos energia belső piaca",
+                "Ügynökségek és decentralizált szervek"
+            ],
+            "it": [
+                "europa",
+                "ACER",
+                "Agenzia per la cooperazione fra i regolatori naz",
+                "Mercato europeo del gas e dell'energia elettrica",
+                "Agenzie e organismi decentrati"
+            ],
+            "lt": [
+                "europa",
+                "ACER",
+                "Energetikos reguliavimo institucijų bendradarbi",
+                "Europos dujų ir elektros rinka",
+                "Agentūros ir decentralizuotos įstaigos"
+            ],
+            "lv": [
+                "europa",
+                "ACER",
+                "Energoregulatoru sadarbības aģentūra",
+                "Eiropas gāzes un elektroenerģijas tirgus",
+                "Aģentūras un decentralizētās struktūras"
+            ],
+            "mt": [
+                "europa",
+                "ACER",
+                "Aġenzija għall-Kooperazzjoni tar-Regolaturi ta",
+                "Is-suq Ewropew fil-gass u l-elettriċità",
+                "Aġenziji u entitajiet deċentralizzati"
+            ],
+            "nl": [
+                "Europa",
+                "ACER",
+                "Agentschap voor de samenwerking tussen energiere",
+                "Europese markt voor gas en elektriciteit",
+                "Agentschappen en gedecentraliseerde organen"
+            ],
+            "pl": [
+                "europa",
+                "ACER",
+                "Agencja ds. Współpracy Organów Regulacji Ene",
+                "Europejski rynek gazu i energii elektrycznej",
+                "Agencje i organy zdecentralizowane"
+            ],
+            "pt": [
+                "europa",
+                "acer",
+                "agência de cooperação dos reguladores da ener",
+                "mercado europeu do gás e da eletricidade",
+                "agências e organismos descentralizados"
+            ],
+            "ro": [
+                "europa",
+                "ACER",
+                "Agenţia pentru Cooperarea Autorităţilor de Re",
+                "Piaţa europeană a gazului şi electricităţii",
+                "Agenţii şi organisme descentralizate"
+            ],
+            "sk": [
+                "europa",
+                "ACER",
+                "Agentúra pre spoluprácu regulačných orgánov",
+                "Európsky trh s plynom a elektrinou",
+                "Agentúry a decentralizované orgány"
+            ],
+            "sl": [
+                "Evropa",
+                "ACER",
+                "Agencija za sodelovanje energetskih regulatorjev",
+                "Evropski trg električne energije in plina",
+                "Agencije in decentralizirani organi"
+            ],
+            "sv": [
+                "europa, europa.eu",
+                "Acer",
+                "Byrån för samarbete mellan energitillsynsmyndi",
+                "europeiska gas- och elmarknaden",
+                "Byråer och decentraliserade organ"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "info1": {
+            "bg": [
+                "<p>Агенцията помага за гладкото функциониране на единния европейски пазар за газ и електичество. Тя съдейства на националните регулаторни органи при изпълнението на техните функции на европейско равнище и координира усилията им, когато това е необходимо.</p>             <p>По-конкретно, агенцията:</p>             <ul>                <li>допълва и координира работата на националнтие регулаторни органи;</li>                <li>помага за определяне на правилата за европейските мрежи;</li>                <li>взема обвързващи решения, когато това е уместно, за условията за достъп и оперативна сигурност на трансграничната инфраструктура;</li>                <li>съветва европейските институции по въпроси, свързани с електроенергията и природния газ;</li>                <li>следи вътрешните пазари на електроенергия и природен газ и докладва за наблюденията си;</li>                <li>следи енерийните пазари на едро, за да открива и предотвратява пазарните злоупотреби, като си сътрудничи тясно с националните регулаторни органи (тя пое тази функция през 2012 г. по силата на <a href=\"http://eur-lex.europa.eu/legal-content/BG/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">Регламент 1227/2011 на ЕС за интегритета и прозрачността на пазара за търговия на едро с енергия</a>.</li>             </ul>"
+            ],
+            "cs": [
+                "<p>Agentura ACER zajišťuje řádné fungování jednotného evropského trhu s elektřinou a zemním plynem. Napomáhá vnitrostátním regulačním orgánům při plnění jejich regulačních funkcí na evropské úrovni a v případě potřeby koordinuje jejich práci.</p>             <p>Mezi úkoly agentury patří:</p>             <ul>                <li>doplňovat a koordinovat práci vnitrostátních regulačních orgánů</li>                <li>napomáhat při vytváření předpisů týkajících se evropské energetické sítě</li>                <li>v případě potřeby přijímat závazná individuální rozhodnutí o podmínkách pro přístup a bezpečnost provozu přeshraniční infrastruktury</li>                <li>poskytovat poradenství evropským orgánům v otázkách týkajících se elektřiny a zemního plynu</li>                <li>monitorovat vnitřní trhy s elektřinou a zemním plynem a podávat zprávy o svých zjištěních</li>                <li>sledovat velkoobchodní trhy s energií a přitom odhalovat či zamezovat zneužívání trhu, a to v úzké spolupráci s vnitrostátními regulačními orgány (tuto funkci agentura převzala v roce 2012 podle <a href=\"http://eur-lex.europa.eu/legal-content/CS/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">nařízení EU č. 1227/2011 o integritě a transparentnosti velkoobchodního trhu s energií (REMIT)</a>.</li>             </ul>"
+            ],
+            "da": [
+                "<p>ACER er med til at sikre, at EU's indre marked for gas og el fungerer ordentligt. Agenturet hjælper de nationale tilsynsmyndigheder med at regulere på europæisk plan og koordinerer deres arbejde, når det er påkrævet.</p>             <p>Mere specifikt:</p>             <ul>                <li>supplerer og koordinerer ACER de nationale tilsynsmyndigheders arbejde</li>                <li>er ACER med til at udarbejde reglerne for europæiske net</li>                <li>træffer ACER bindende individuelle beslutninger om vilkår for adgang og driftssikkerhed for grænseoverskridende infrastruktur, når det er påkrævet</li>                <li>rådgiver ACER europæiske institutioner om emner, der vedrører el og naturgas</li>                <li>overvåger ACER det indre marked for el og naturgas og aflægger rapport herom</li>                <li>er ACER i tæt samarbejde med de nationale tilsynsmyndigheder på udkig efter og i kamp med markedsmisbrug på engrosmarkederne for energi (ACER påtog sig denne funktion i 2012 i henhold til <a href=\"http://eur-lex.europa.eu/legal-content/DA/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">EU-forordning nr. 1227/2011 om integritet og gennemsigtighed på engrosenergimarkederne (REMIT)</a>.</li>             </ul>"
+            ],
+            "de": [
+                "<p>ACER trägt zum reibungslosen Funktionieren des europäischen Strom- und Gasmarkts bei. Die Agentur unterstützt die nationalen Regulierungsbehörden auf EU-Ebene und koordiniert falls notwendig ihre Arbeit.</p>             <p>Aufgaben von ACER:</p>             <ul>                <li>Ergänzung und Koordinierung der Arbeit der nationalen Regulierungsbehörden</li>                <li>Mitwirkung an der Erarbeitung von Vorschriften für europäische Netze</li>                <li>Treffen verbindlicher Einzelentscheidungen zu den Bestimmungen für den Zugang zu grenzübergreifenden Infrastrukturen und deren Betriebssicherheit (nur unter bestimmten Bedingungen)</li>                <li>Beratung der EU-Institutionen in Energiefragen (Strom und Gas)</li>                <li>Überwachung der Entwicklungen auf den Strom- und Gasmärkten und Berichterstattung darüber</li>                <li>Überwachung der Energiegroßhandelsmärkte zur Ermittlung und Verhinderung von Marktmissbrauch in enger Zusammenarbeit mit den nationalen Regulierungsbehörden (neue Funktion der Agentur seit 2012 gemäß <a href=\"http://eur-lex.europa.eu/legal-content/DE/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">EU-Verordnung 1227/2011 über die Integrität und Transparenz des Energiegroßhandelsmarkts</a>).</li>             </ul>"
+            ],
+            "el": [
+                "<p>Ο οργανισμός ACER μεριμνά για την εύρυθμη λειτουργία της ενιαίας ευρωπαϊκής αγοράς φυσικού αερίου και ηλεκτρικής ενέργειας. Βοηθά τις εθνικές ρυθμιστικές αρχές να ασκούν σε ευρωπαϊκό επίπεδο τα ρυθμιστικά τους καθήκοντα και, όπου κρίνεται σκόπιμο, συντονίζει τις εργασίες τους.</p>             <p>Ειδικότερα, ο ACER:</p>             <ul>                <li>συμπληρώνει και συντονίζει το έργο των εθνικών ρυθμιστικών αρχών</li>                <li>βοηθά στη διατύπωση ευρωπαϊκών κανόνων σχετικά με τα δίκτυα</li>                <li>όπου κρίνεται σκόπιμο, λαμβάνει επιμέρους δεσμευτικές αποφάσεις για τους όρους και προϋποθέσεις όσον αφορά την πρόσβαση στις διασυνοριακές υποδομές και την ασφάλεια λειτουργίας τους </li>                <li>παρέχει συμβουλές στα ευρωπαϊκά όργανα για θέματα σχετικά με την ηλεκτρική ενέργεια και το φυσικό αέριο </li>                <li>παρακολουθεί τις εσωτερικές αγορές ηλεκτρικής ενέργειας και φυσικού αερίου και καταρτίζει εκθέσεις με τα πορίσματά του</li>                <li>εποπτεύει τη χονδρική αγορά ενέργειας προκειμένου να εντοπίζει και να αποτρέπει τυχόν καταχρήσεις της αγοράς, σε στενή συνεργασία με τις εθνικές ρυθμιστικές αρχές (τα καθήκοντα αυτά ανέλαβε το 2012 με βάση τον <a href=\"http://eur-lex.europa.eu/legal-content/EL/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">κανονισμό (ΕΕ) 1227/2011 για την ακεραιότητα και τη διαφάνεια στη χονδρική αγορά ενέργειας (REMIT)</a>.</li>             </ul>"
+            ],
+            "en": [
+                "<p>ACER helps ensure the single European market in gas and electricity functions properly. It assists national regulatory authorities in performing their regulatory function at European level and, where necessary, coordinates their work.</p>             <p>More specifically, ACER:</p>             <ul>                <li>complements and coordinates the work of national regulatory authorities</li>                <li>helps formulate European network rules</li>                <li>where appropriate, takes binding individual decisions on terms and conditions for access and operational security for cross border infrastructure</li>                <li>advises European institutions on issues relating to electricity and natural gas</li>                <li>monitors the internal markets in electricity and natural gas and reports on its findings</li>                <li>monitors wholesale energy markets to detect and deter market abuse, in close collaboration with national regulatory authorities (it took on this function in 2012 under <a href=\"http://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">EU Regulation 1227/2011 on wholesale energy market integrity &amp; transparency (REMIT)</a>.</li>             </ul>"
+            ],
+            "es": [
+                "<p>La ACER contribuye a garantizar el buen funcionamiento del mercado único europeo del gas y la electricidad. La ACER ayuda a las autoridades nacionales de reglamentación de toda Europa a ejercer sus funciones y, cuando hace falta, coordina sus labores.</p>             <p>Más concretamente, la ACER:</p>             <ul>                <li>complementa y coordina las labores de las autoridades nacionales de reglamentación</li>                <li>ayuda a formular las normas que gobiernan las redes europeas</li>                <li>en casos concretos, cuando es necesario, toma decisiones vinculantes sobre condiciones generales de acceso y seguridad operativa de las infraestructuras transfronterizas</li>                <li>asesora a las instituciones europeas sobre todo lo relacionado con la electricidad y el gas natural</li>                <li>supervisa los mercados interiores de la electricidad y gas natural e informa de sus conclusiones</li>                <li>en estrecha cooperación con las autoridades nacionales de reglamentación, supervisa los mercados mayoristas de la energía para descubrir y disuadir de abusos del mercado, cometido que asumió en 2012 según el <a href=\"http://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">Reglamento de la UE nº 1227/2011 sobre la integridad y la transparencia del mercado mayorista de la energía</a>.</li>             </ul>"
+            ],
+            "et": [
+                "<p>ACER aitab tagada Euroopa ühtse gaasi- ja elektrituru nõuetekohast toimimist. Ta aitab liikmesriikide reguleerivatel asutustel täita oma ülesandeid Euroopa tasandil ning koordineerib vajadusel nende tööd.</p>             <p>ACER teeb konkreetselt järgmist:</p>             <ul>                <li>täiendab ja koordineerib liikmesriikide reguleerivate asutuste tööd</li>                <li>aitab koostada Euroopa võrgustiku eeskirju</li>                <li>vajadusel teeb iseseisvaid siduvaid otsuseid, määrates tingimused juurdepääsuks piiriülesele infrastruktuurile ning sellise infrastruktuuri turvaliseks toimimiseks</li>                <li>annab nõu Euroopa institutsioonidele elektrienergiat ja maagaasi käsitlevates küsimustes</li>                <li>kontrollib elektri- ja maagaasi turge ELis ning esitab asjaomase aruande</li>                <li>kontrollib tihedas koostöös liikmesriikide reguleerivate asutustega energia hulgimüügiturge kuritarvituste kindlakstegemiseks (alates 2012. aastast vastavalt <a href=\"http://eur-lex.europa.eu/legal-content/ET/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">ELi määrusele 1227/2011 energia hulgimüügituru terviklikkuse ja läbipaistvuse kohta</a>. </li>             </ul>"
+            ],
+            "fi": [
+                "<p>ACER auttaa varmistamaan, että EU:n kaasu- ja sähköalan sisämarkkinat toimivat tehokkaasti. Se avustaa kansallisia sääntelyviranomaisia sääntelytehtävän suorittamisessa EU-tasolla ja tarvittaessa koordinoi niiden työskentelyä.</p>             <p>ACERin tehtävänä on erityisesti</p>             <ul>                <li>täydentää ja koordinoida kansallisten sääntelyviranomaisten työskentelyä</li>                <li>avustaa eurooppalaisia verkkoja koskevien sääntöjen valmistelussa</li>                <li>tehdä tarvittaessa sitovia yksittäisiä päätöksiä rajat ylittävän infrastruktuurin käyttöehdoista ja -turvallisuudesta</li>                <li>antaa asiantuntijalausuntoja EU:n toimielimille sähköön ja kaasuun liittyvissä asioissa</li>                <li>seurata sähkön ja kaasun sisämarkkinoita ja raportoida havainnoistaan</li>                <li>valvoa yhteistyössä kansallisten sääntelyviranomaisten kanssa energian tukkumarkkinoita niiden väärinkäytön havaitsemiseksi ja ehkäisemiseksi (virasto aloitti tämän tehtävän vuonna 2012 <a href=\"http://eur-lex.europa.eu/legal-content/FI/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">energian tukkumarkkinoiden eheydestä ja tarkasteltavuudesta annetun asetuksen (EU) N:o 1227/2011 (nk. REMIT-asetus)</a> mukaisesti.</li>             </ul>"
+            ],
+            "fr": [
+                "<p>L'Agence de coopération des régulateurs de l'énergie (ACER) contribue à garantir le bon fonctionnement du marché européen du gaz et de l'électricité. Elle assiste les autorités nationales de régulation dans leur activité de régulation au niveau européen et, au besoin, coordonne leur action.</p>             <p>En particulier, l'ACER:</p>             <ul>                <li>complète et coordonne les travaux des autorités nationales de régulation;</li>                <li>aide à fixer les règles régissant les réseaux européens;</li>                <li>prend, dans certaines circonstances, des décisions individuelles contraignantes sur les modalités et les conditions appliquées à l'accès et à la sécurité opérationnelle des infrastructures transfrontalières; </li>                <li>conseille les institutions européennes sur les questions touchant à l'électricité et au gaz naturel;</li>                <li>surveille les marchés intérieurs de l'électricité et du gaz naturel et élabore des analyses;</li>                <li>surveille les marchés de gros de l'énergie en vue de détecter et d'empêcher les abus de marché, en coopération étroite avec les autorités nationales de régulation (responsabilité exercée depuis 2012, en vertu du <a href=\"http://eur-lex.europa.eu/legal-content/FR/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">règlement (UE) n°1227/2011 concernant l'intégrité et la transparence du marché de gros de l'énergie – REMIT)</a>.</li>             </ul>"
+            ],
+            "ga": [
+                "<p>Cabhraíonn ACER lena chinntiú go bhfeidhmeoidh an margadh aonair Eorpach i ngás is i leictreachas i gceart.  Cabhraíonn sé le húdaráis náisiúnta rialála chun a bhfeidhm rialála ag leibhéal na hEorpa a chomhlíonadh, agus, nuair is gá, comhordaíonn sé a gcuid oibre.  </p>             <p>So sonrach, déanann ACER:</p>             <ul>                <li>obair na n-údarás náisiúnta rialála a chomhlánú is a chomhordú </li>                <li>cabhrú chun rialacha líonra Eorpacha a dhréachtadh</li>                <li>nuair is cuí sin, cinntí ceangailteacha indibhidiúla a ghlacadh ar théarmaí is ar choinníollacha do rochtain is do shlándáil oibríoch an bhonneagair thrasteorann </li>                <li>institiúidí Eorpacha a chomhairliú ar cheisteanna a bhaineann le leictreachas is le gás nádúrtha </li>                <li>faireachán ar na margaí inmheánacha i leictreachas is i ngás nádúrtha agus tuairisciú ar na torthaí </li>                <li>faireachán ar mhargaidh mhórdhíola fuinnimh chun mí-úsáid margaidh a bhrath is a dhíspreagach, i ndlúthchomhar leis na húdaráis náisiúnta rialála (ghlac sé an fheidhm sin ar láimh in 2012 faoi <a href=\"http://eur-lex.europa.eu/legal-content/GA/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">Rialachán AE 1227/2011 maidir le sláine agus trédhearcacht an mhargaidh mhórdhíola fuinnimh (REMIT)</a>.</li>             </ul>"
+            ],
+            "hr": [
+                "<p>ACER pomaže u osiguravanju pravilnoga funkcioniranja europskoga tržišta plina i električne energije. Pruža podršku nacionalnim regulatornim tijelima u provedbi njihove regulatorne uloge na razini Europe te, prema potrebi, koordinira njihov rad.</p>             <p>Točnije, ACER:</p>             <ul>                <li>nadopunjuje i koordinira rad nacionalnih regulatornih tijela</li>                <li>pomaže u oblikovanju pravila europske mreže </li>                <li>prema potrebi donosi obvezujuće pojedinačne odluke o uvjetima za pristup prekograničnoj infrastrukturi i za njezinu operativnu sigurnost</li>                <li>savjetuje europske institucije o pitanjima u vezi s električnom energijom i prirodnim plinom</li>                <li>prati unutarnje tržište električne energije i prirodnoga plina te izvješćuje o svojim saznanjima</li>                <li>u bliskoj suradnji s nacionalnim regulatornim tijelima prati veleprodajno energetsko tržište radi otkrivanja i sprečavanja zlouporabe tržišta (tu je dužnost preuzeo 2012. u skladu s <a href=\"http://eur-lex.europa.eu/legal-content/HR/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">Uredbom EU-a br. 1227/2011 o integritetu i transparentnosti veleprodajnoga energetskog tržišta (REMIT)</a>.</li>             </ul>"
+            ],
+            "hu": [
+                "<p>Az ACER elősegíti az egységes európai gáz- és villamosenergia-piac megfelelő működését. Az ügynökség feladata, hogy segítséget nyújtson a tagállami szabályozó hatóságoknak szabályozási feladataik európai szinten történő ellátásában és adott esetben munkájuk koordinálásában.</p>             <p>Az ACER:</p>             <ul>                <li>kiegészíti és koordinálja a nemzeti szabályozó hatóságok munkáját </li>                <li>részt vesz az európai hálózat szabályainak kidolgozásában</li>                <li>adott esetben kötelező érvényű egyedi határozatokat fogad el a határokon átnyúló infrastruktúrákhoz való hozzáférésre és üzemeltetésük biztonságára vonatkozó feltételekről</li>                <li>tanácsokkal látja el az európai intézményeket a villamosenergiával és a földgázzal kapcsolatos kérdésekben</li>                <li>nyomon követi a földgáz és villamosenergia belső piacának működését és jelentéseket készít megállapításairól</li>                <li>a piaci visszaélések feltárása és megakadályozása érdekében a nemzeti szabályozó hatóságokkal karöltve nyomon követi a nagykereskedelmi energiapiacok működését (e feladatát a <a href=\"http://eur-lex.europa.eu/legal-content/HU/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">nagykereskedelmi energiapiacok integritásáról és átláthatóságáról szóló 1227/2011/EU rendelet</a> ruházta rá 2012-ben)</li>             </ul>"
+            ],
+            "it": [
+                "<p>L'ACER aiuta a garantire il corretto funzionamento del mercato unico europeo del gas e dell'energia elettrica. Assiste le autorità nazionali di regolamentazione nell'esecuzione delle loro funzioni normative a livello europeo e, ove opportuno, ne coordina i lavori.</p>             <p>In particolare, l'ACER:</p>             <ul>                <li>integra e coordina i lavori delle autorità nazionali di regolamentazione</li>                <li>contribuisce all'elaborazione delle norme sulla rete europea</li>                <li>ove opportuno, adotta decisioni individuali vincolanti sui termini e le condizioni di accesso e sulla sicurezza operativa delle infrastrutture transfrontaliere</li>                <li>fornisce consulenze alle istituzioni europee sulle questioni riguardanti l'energia elettrica e il gas </li>                <li>svolge un'opera di monitoraggio dei mercati interni dell'energia elettrica e del gas naturale e riferisce sui relativi risultati</li>                <li>controlla i mercati dell'energia all'ingrosso, in stretta collaborazione con le autorità nazionali di regolamentazione, al fine di individuare e prevenire casi di abuso di mercato (ha assunto questa funzione nel 2012 in base al <a href=\"http://eur-lex.europa.eu/legal-content/IT/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">regolamento (UE) n. 1227/2011 concernente l’integrità e la trasparenza del mercato dell’energia all'ingrosso (REMIT)</a>.</li>             </ul>"
+            ],
+            "lt": [
+                "<p>ACER rūpinasi, kad tinkamai veiktų bendroji Europos dujų ir elektros rinka. Ji Europos lygmeniu padeda nacionalinėms reguliavimo įstaigoms atlikti savo reguliavimo funkcijas ir, jei reikia, koordinuoja jų veiklą.</p>             <p>ACER:</p>             <ul>                <li>papildo ir koordinuoja nacionalinių reguliavimo institucijų veiklą;</li>                <li>padeda rengti Europos tinklų taisykles;</li>                <li>prireikus priima įpareigojančius individualius sprendimus dėl tarpvalstybinės infrastruktūros naudojimo ir veiklos saugumo sąlygų;</li>                <li>konsultuoja Europos institucijas elektros ir gamtinių dujų klausimais;</li>                <li>prižiūri elektros ir gamtinių dujų vidaus rinkas ir informuoja apie išvadas;</li>                <li>glaudžiai bendradarbiaudama su nacionalinėmis reguliavimo įstaigomis prižiūri, kad didmeninėse energijos rinkose nebūtų piktnaudžiaujama (šią funkciją ji prisiėmė 2012 m. pagal <a href=\"http://eur-lex.europa.eu/legal-content/LT/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">ES reglamentą 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (REMIT)</a>.</li>             </ul>"
+            ],
+            "lv": [
+                "<p>ACER palīdz garantēt vienotā Eiropas gāzes un elektroenerģijas tirgus pareizu darbību. Šī aģentūra palīdz valsts regulatīvajām iestādēm veikt regulatīvās funcijas Eiropas līmenī un, ja vajadzīgs, koordinē šo iestāžu darbu.</p>             <p>Konkrētāk, ACER:</p>             <ul>                <li>papildina un koordinē valsts regulatīvo iestāžu darbu;</li>                <li>palīdz formulēt Eiropas tīklu [lietošanas] noteikumus;</li>                <li>attiecīgā gadījumā pieņem saistošus individuālus lēmumus par pārrobežu infrastruktūras pieejamības nosacījumiem un ekspluatācijas drošību;</li>                <li>konsultē ES iestādes par jautājumiem, kas saistīti ar elektroenerģiju un dabasgāzi;</li>                <li>novēro iekšējos elektroenerģijas un dabasgāzes tirgus un ziņo par konstatēto;</li>                <li>novēro energijas vairumtirdzniecības tirgu, lai konstatētu ļaunprātīgu tirgus izmantošanu un novērstu to, cieši sadarbojoties ar valsts regulatīvajām iestādēm (šo funkciju aģentūra uzņēmās 2012. gadā atbilstīgi <a href=\"http://eur-lex.europa.eu/legal-content/LV/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">ES Regulai Nr. 1227/2011 par enerģijas vairumtirgus integritāti un pārredzamību (REMIT)</a>.</li>             </ul>"
+            ],
+            "mt": [
+                "<p>ACER tgħin biex fis-suq uniku Ewropew, il-gass u l-elettriċità jaħdmu sew. Tassisti lill-awtoritajiet regolatorji nazzjonali fil-funzjoni regolatorja tagħhom fil-livell Ewropew u, fejn ikun hemm bżonn, tikkoordina ħidmiethom.</p>             <p>B’mod iktar speċifiku, ACER:</p>             <ul>                <li>tikkomplementa u tikkoordina l-ħidma tal-awtoritajiet regolatorji nazzjonali</li>                <li>tgħin fit-tfassil tar-regoli tan-netwerk Ewropew</li>                <li>fejn ikun xieraq, tieħu deċiżjonijiet individwali li jorbtu fuq it-termini u l-kondizzjonijiet għall-aċċess u s-sigurtà funzjonali tal-infrastruttura bejn il-fruntieri</li>                <li>tagħti konsulenza lill-Istituzzjonijiet Ewropej dwar kwistjonijiet marbuta mal-elettriċità u l-gass naturali</li>                <li>tissorvelja s-swieq interni tal-elettriċità u l-gass naturali u toħroġ rapporti fuq is-sejbiet</li>                <li>tissorvelja s-swieq tal-enerġija bl-ingrossa biex tiskopri u twarrab l-abbuż tas-swieq, b'kollaborazzjni mill-qrib tal-awtoritajiet regolatorji nazzjonali (bdiet din il-funzjoni fl-2012 skont ir-<a href=\"http://eur-lex.europa.eu/legal-content/MT/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">Regolament tal-UE 1227/2011 dwar l-integrità u t-trasparenza tas-swieq tal-enerġija bl-ingrossa (REMIT)</a>.</li>             </ul>"
+            ],
+            "nl": [
+                "<p>ACER ziet erop toe dat de Europese markt voor gas en elektriciteit goed functioneert. Het helpt de nationale regelgevers bij hun toezicht en coördineert dit werk indien nodig op Europees niveau.</p>             <p>Wat doet ACER precies?</p>             <ul>                <li>ACER ondersteunt en coördineert het werk van de nationale regelgevende instanties.</li>                <li>Het helpt bij de opstelling van Europese regels voor het energienet.</li>                <li>Indien nodig neemt ACER bindende besluiten over de toegang tot en de operationele veiligheid van grensoverschrijdende infrastructuur.</li>                <li>ACER adviseert de Europese instellingen over de problematiek van de elektriciteits- en aardgasvoorziening .</li>                <li>ACER houdt toezicht op de interne markt voor elektriciteit en aardgas en brengt daarover verslag uit.</li>                <li>Samen met de nationale regulerende instanties controleert ACER de groothandelsmarkt voor energie om marktmisbruik op te sporen en te ontmoedigen (sinds 2012 op grond van <a href=\"http://eur-lex.europa.eu/legal-content/NL/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">EU-verordening 1227/2011</a> over de integriteit en transparantie van die markt (REMIT)).</li>             </ul>"
+            ],
+            "pl": [
+                "<p>ACER pomaga zagwarantować, by jednolity europejski rynek gazu i energii elektrycznej funkcjonował właściwie. Udziela wsparcia krajowym organom regulacyjnym w wykonywaniu ich funkcji regulacyjnych na poziomie europejskim i, w razie konieczności, koordynuje ich działania.</p>             <p>Główne zadania ACER:</p>             <ul>                <li>wspomaganie krajowych organów regulacyjnych i koordynowanie ich pracy </li>                <li>pomoc w opracowywaniu unijnych przepisów dotyczących funkcjonowania sieci </li>                <li>w stosownych przypadkach podejmowanie wiążących indywidualnych decyzji w sprawie zasad i warunków dostępu do infrastruktury transgranicznej oraz warunków jej bezpiecznej eksploatacji</li>                <li>udzielanie porad instytucjom europejskim na temat kwestii związanych z energią elektryczną i gazem ziemnym</li>                <li>monitorowanie wewnętrznych rynków energii elektrycznej i gazu ziemnego oraz przedstawianie wyników tego monitorowania</li>                <li>monitorowanie hurtowych rynków energii w celu wykrywania nadużyć na rynku i zapobiegania im w ścisłej współpracy z krajowymi organami regulacyjnymi (uprawnienia nadane w 2012 r. na mocy <a href=\"http://eur-lex.europa.eu/legal-content/PL/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">rozporządzenia UE 1227/2011 w sprawie integralności i przejrzystości hurtowego rynku energii (REMIT)</a>.</li>             </ul>"
+            ],
+            "pt": [
+                "<p>A ACER ajuda a assegurar o correto funcionamento do mercado único europeu do gás e da eletricidade. Apoia as autoridades reguladoras nacionais no desempenho da sua função reguladora a nível europeu e, quando necessário, coordena o respetivo trabalho. </p>             <p>Mais especificamente, a ACER:</p>             <ul>                <li>complementa e coordena o trabalho das autoridades reguladoras nacionais; </li>                <li>colabora na elaboração de regras para a rede europeia;</li>                <li>quando adequado, toma decisões individuais vinculativas sobre as condições de acesso e a segurança operacional para infraestruturas transfronteiras;</li>                <li>aconselha as instituições europeias sobre questões relacionadas com a eletricidade e o gás natural;</li>                <li>monitoriza os mercados internos da eletricidade e do gás natural e informa sobre os resultados dessa monitorização;</li>                <li>monitoriza os mercados grossistas da energia para detetar e desencorajar eventuais abusos, em estreita colaboração com as autoridades reguladoras nacionais (assumiu esta função em 2012 ao abrigo do <a href=\"http://eur-lex.europa.eu/legal-content/PT/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">Regulamento (UE) n.º 1227/2011 relativo à integridade e à transparência nos mercados grossistas da energia</a>.</li>             </ul>"
+            ],
+            "ro": [
+                "<p>ACER contribuie la garantarea bunei funcţionări a pieţei europene unice a gazului şi electricităţii. Agenţia sprijină autorităţile naţionale de reglementare în îndeplinirea funcţiei de reglementare la nivel european şi, dacă este cazul, coordonează activitatea acestora.</p>             <p>Mai exact, ACER:</p>             <ul>                <li>completează şi coordonează acţiunile autorităţilor naţionale de reglementare</li>                <li>contribuie la elaborarea normelor privind reţelele europene</li>                <li>după caz, ia decizii individuale obligatorii privind termenii şi condiţiile de acces şi securitate operaţională aplicabile infrastructurii transfrontaliere</li>                <li>oferă consiliere instituţiilor europene pe teme privind energia electrică şi gazele naturale</li>                <li>monitorizează pieţele interne ale gazelor naturale şi energiei electrice şi elaborează rapoarte pe marginea constatărilor sale</li>                <li>monitorizează pieţele angro ale energiei pentru a detecta şi a preveni abuzurile de piaţă, în strânsă colaborare cu autorităţile naţionale de reglementare (această funcţie a fost preluată în 2012 în conformitate cu <a href=\"http://eur-lex.europa.eu/legal-content/RO/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">Regulamentul UE nr.1227/2011 privind integritatea şi transparenţa pieţei angro de energie)</a>.</li>             </ul>"
+            ],
+            "sk": [
+                "<p>ACER pomáha zabezpečovať, aby jednotný európsky trh s plynom a elektrickou energiou fungoval plynule. Pomáha vnútroštátnym regulačným orgánom vykonávať ich regulačné úlohy na európskej úrovni a ak je to potrebné, koordinuje ich prácu.</p>             <p>Agentúra ACER:</p>             <ul>                <li>dopĺňa a koordinuje prácu jednotlivých národných regulačných orgánov,</li>                <li>pomáha formulovať európske pravidlá v oblastí energetických sietí,</li>                <li>za určitých podmienok prijíma záväzné individuálne rozhodnutia o podmienkach prístupu k cezhraničnej infraštruktúre a o jej prevádzkovej bezpečnosti,</li>                <li>poskytuje poradenstvo európskym inštitúciám v otázkach elektrickej energie a zemného plynu,</li>                <li>monitoruje vnútorný trh s elektrinou a zemným plynom a publikuje správy a svojich zisteniach,</li>                <li>monitoruje veľkoobchodné trhy s energiami a v úzkej spolupráci s vnútroštátnymi regulačnými orgánmi sa usiluje predchádzať zneužitiu na trhoch  (túto úlohu agentúra prevzala v roku 2012 v súlade s <a href=\"http://eur-lex.europa.eu/legal-content/SK/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">nariadením EÚ č. 1227/2011 o integrite a transparentnosti veľkoobchodného trhu s energiou, REMIT)</a>.</li>             </ul>"
+            ],
+            "sl": [
+                "<p>Agencija za sodelovanje energetskih regulatorjev skrbi za pravilno delovanje enotnega evropskega trga električne energije in plina. Nacionalnim regulativnim organom pomaga pri izvajanju njihovih nalog na evropski ravni in po potrebi koordinira njihovo delo.</p>             <p>Natančneje:</p>             <ul>                <li>dopolnjuje in usklajuje delo nacionalnih regulativnih organov,</li>                <li>pomaga oblikovati pravila za evropsko omrežje,</li>                <li>kadar je potrebno, sprejema zavezujoče posamične odločitve o pogojih dostopa do čezmejne infrastrukture in njeni obratovalni zanesljivosti,</li>                <li>svetuje evropskim institucijam o vprašanjih, ki zadevajo električno energijo in zemeljski plin,</li>                <li>spremlja notranje trge električne energije in plina ter poroča o svojih ugotovitvah,</li>                <li>spremlja grosistične energetske trge ter v tesnem sodelovanju z nacionalnimi regulativnimi organi ugotavlja in preprečuje tržne zlorabe (to nalogo je prevzela leta 2012 v skladu z <a href=\"http://eur-lex.europa.eu/legal-content/SL/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">Uredbo EU št.1227/2011 o celovitosti in preglednosti veleprodajnega energetskega trga (REMIT)</a>.</li>             </ul>"
+            ],
+            "sv": [
+                "<p>Acer ska bidra till att EU-marknaden för gas och el fungerar som den ska. Byrån hjälper de nationella tillsynsmyndigheterna att utöva sin verksamhet på EU-nivå och samordnar vid behov deras arbete.</p>             <p>Det här gör Acer rent konkret:</p>             <ul>                <li>Kompletterar och samordnar de nationella tillsynsmyndigheternas arbete.</li>                <li>Hjälper till att ta fram regler för europiska nät.</li>                <li>Fattar vid behov bindande beslut om villkoren för infrastruktur över gränserna i fråga om tillträde och driftssäkerhet.</li>                <li>Ger EU-institutionerna råd i frågor som gäller el och naturgas.</li>                <li>Övervakar och rapporterar om marknaderna för el och naturgas.</li>                <li>Övervakar grossistmarknaderna för energi för att upptäcka och avskräcka marknadsmissbruk, i nära samarbete med EU-ländernas tillsynsmyndigheter (uppdrag som byrån fick 2012 enligt <a href=\"http://eur-lex.europa.eu/legal-content/SV/TXT/?qid=1407324667535&amp;uri=CELEX:32011R1227\">EU:s förordning 1227/2011 om integritet och öppenhet på grossistmarknaderna för energi</a>).</li>             </ul>"
+            ]
+        },
+        "left_sub_menu": {
+            "und": [
+                true
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_ef673f345653fbb5835d5a0d69d18598"
+            ]
+        }
+    }
+}

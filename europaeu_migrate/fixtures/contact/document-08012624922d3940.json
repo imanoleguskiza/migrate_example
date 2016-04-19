@@ -1,0 +1,70 @@
+{
+  "_id": "08012624922d3940",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "en"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "08012624922d3940",
+        "08012624922d3940",
+        "08012624922d3940",
+        "08012624922d3940",
+        "08012624922d3940",
+        "08012624922d3940"
+      ]
+    },
+    "title": {
+      "en": [
+        "IMI 2 Joint Undertaking (IMI 2 Joint Undertaking )"
+      ]
+    },
+    "logo": {
+      "en": [
+        "http://europa.eu/contact/images/agencies/imi_logo.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p><span>IMI 2 Joint Undertaking</span><br /><span>Avenue de la Toison d'Or 56-60</span><br /><span>1060 Bruxelles / Brussel</span><br /><span>Belgique / België</span></p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 221 81 81"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "http://www.imi.europa.eu/content/send-us-message"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact"
+      ]
+    },
+    "social_url": {
+      "en": [
+        "https://twitter.com/IMI_JU",
+        "http://www.linkedin.com/groups/Innovative-Medicines-Initiative-1126077",
+        "https://www.youtube.com/user/imichannel"
+      ]
+    },
+    "social_label": {
+      "en": [
+        "Twitter",
+        "LinkedIn",
+        "YouTube"
+      ]
+    }
+  }
+}

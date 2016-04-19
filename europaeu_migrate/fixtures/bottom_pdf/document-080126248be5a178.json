@@ -1,0 +1,425 @@
+{
+  "_id": "080126248be5a178",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2014-05-14 10:30:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        10
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/justice/thumb_justice_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/justice/thumb_justice_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/justice/thumb_justice_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/justice/thumb_justice_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/justice/thumb_justice_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/justice/thumb_justice_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/justice/thumb_justice_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/justice/thumb_justice_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/justice/thumb_justice_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/justice/thumb_justice_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/justice/thumb_justice_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/justice/thumb_justice_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/justice/thumb_justice_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/justice/thumb_justice_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/justice/thumb_justice_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/justice/thumb_justice_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/justice/thumb_justice_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/justice/thumb_justice_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/justice/thumb_justice_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/justice/thumb_justice_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/justice/thumb_justice_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/justice/thumb_justice_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/justice/thumb_justice_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/justice/thumb_justice_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Правосъдие, основни права и равенство"
+      ],
+      "cs": [
+        "Spravedlnost, základní práva a rovnost"
+      ],
+      "da": [
+        "Retfærdighed, grundlæggende rettigheder og ligestilling"
+      ],
+      "de": [
+        "Justiz, Grundrechte und Gleichstellung"
+      ],
+      "el": [
+        "Δικαιοσύνη, θεμελιώδη δικαιώματα και ισότητα"
+      ],
+      "en": [
+        "Justice, fundamental rights and equality"
+      ],
+      "es": [
+        "Justicia, Derechos Fundamentales e Igualdad"
+      ],
+      "et": [
+        "Õigusküsimused, põhiõigused ja võrdsus"
+      ],
+      "fi": [
+        "Oikeusasiat, perusoikeudet ja tasa‑arvo"
+      ],
+      "fr": [
+        "Justice, droits fondamentaux et égalité"
+      ],
+      "ga": [
+        "Ceartas, Cearta Bunúsacha agus Comhionannas"
+      ],
+      "hr": [
+        "Pravosuđe, temeljna prava i jednakost"
+      ],
+      "hu": [
+        "Jogérvényesülés, alapvető jogok és egyenlőség"
+      ],
+      "it": [
+        "Giustizia, diritti fondamentali e uguaglianza"
+      ],
+      "lt": [
+        "Teisingumas, pagrindinės teisės ir lygybė"
+      ],
+      "lv": [
+        "Tieslietas, pamattiesības un līdztiesība"
+      ],
+      "mt": [
+        "Ġustizzja, drittijiet fundamentali u ugwaljanza"
+      ],
+      "nl": [
+        "Justitie, grondrechten en gelijkheid"
+      ],
+      "pl": [
+        "Sprawiedliwość, prawa podstawowe i równość"
+      ],
+      "pt": [
+        "Justiça, direitos fundamentais e igualdade"
+      ],
+      "ro": [
+        "Justiție, drepturi fundamentale și egalitate"
+      ],
+      "sk": [
+        "Spravodlivosť, základné práva a rovnosť"
+      ],
+      "sl": [
+        "Pravosodje, temeljne pravice in enakost"
+      ],
+      "sv": [
+        "Rättvisa, grundläggande rättigheter och jämlikhet"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Правосъдие, основни права и равенство"
+      ],
+      "cs": [
+        "Spravedlnost, základní práva a rovnost"
+      ],
+      "da": [
+        "Retfærdighed, grundlæggende rettigheder og ligestilling"
+      ],
+      "de": [
+        "Justiz, Grundrechte und Gleichstellung"
+      ],
+      "el": [
+        "Δικαιοσύνη, θεμελιώδη δικαιώματα και ισότητα"
+      ],
+      "en": [
+        "Justice, fundamental rights and equality"
+      ],
+      "es": [
+        "Justicia, Derechos Fundamentales e Igualdad"
+      ],
+      "et": [
+        "Õigusküsimused, põhiõigused ja võrdsus"
+      ],
+      "fi": [
+        "Oikeusasiat, perusoikeudet ja tasa‑arvo"
+      ],
+      "fr": [
+        "Justice, droits fondamentaux et égalité"
+      ],
+      "ga": [
+        "Ceartas, Cearta Bunúsacha agus Comhionannas"
+      ],
+      "hr": [
+        "Pravosuđe, temeljna prava i jednakost"
+      ],
+      "hu": [
+        "Jogérvényesülés, alapvető jogok és egyenlőség"
+      ],
+      "it": [
+        "Giustizia, diritti fondamentali e uguaglianza"
+      ],
+      "lt": [
+        "Teisingumas, pagrindinės teisės ir lygybė"
+      ],
+      "lv": [
+        "Tieslietas, pamattiesības un līdztiesība"
+      ],
+      "mt": [
+        "Ġustizzja, drittijiet fundamentali u ugwaljanza"
+      ],
+      "nl": [
+        "Justitie, grondrechten en gelijkheid"
+      ],
+      "pl": [
+        "Sprawiedliwość, prawa podstawowe i równość"
+      ],
+      "pt": [
+        "Justiça, direitos fundamentais e igualdade"
+      ],
+      "ro": [
+        "Justiție, drepturi fundamentale și egalitate"
+      ],
+      "sk": [
+        "Spravodlivosť, základné práva a rovnosť"
+      ],
+      "sl": [
+        "Pravosodje, temeljne pravice in enakost"
+      ],
+      "sv": [
+        "Rättvisa, grundläggande rättigheter och jämlikhet"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през ноември 2014 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Rukopis aktualizován v Listopad 2014</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i november 2014</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Manuskript aktualisiert im November 2014</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto original actualizado en noviembre de 2014</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud november 2014</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty marraskuu 2014</p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit actualisé en novembre 2014</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt cothrom le dáta mí na Samhna 2014</p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u studeni 2014.</p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p><p> </p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">A kézirat frissítve: 2014. november</p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Redazione aggiornata ad novembre 2014</p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2014 m. novembris mėn.</p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunināts 2014. gada novembris.</p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Manuskritt aġġornat f'Novembru 2014</p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Tekst bijgewerkt in november 2014</p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano w czerwcu 2014 r.</p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em novembro de 2014</p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în noiembrie 2014</p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol aktualizovaný v november 2014</p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen november 2014.</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterat i november 2014</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c27",
+        "27698c30",
+        "27698c37"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-BG-C/NA0514002BGC_002.pdf?FileName=NA0514002BGC_002.pdf&SKU=NA0514002BGC_PDF&CatalogueNumber=NA-05-0514002-002-BG-C"
+      ],
+      "cs": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-CS-C/NA0514002CSC_002.pdf?FileName=NA0514002CSC_002.pdf&SKU=NA0514002CSC_PDF&CatalogueNumber=NA-05-0514002-002-CS-C"
+      ],
+      "da": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-DA-C/NA0514002DAC_002.pdf?FileName=NA0514002DAC_002.pdf&SKU=NA0514002DAC_PDF&CatalogueNumber=NA-05-0514002-002-DA-C"
+      ],
+      "de": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-DE-C/NA0514002DEC_002.pdf?FileName=NA0514002DEC_002.pdf&SKU=NA0514002DEC_PDF&CatalogueNumber=NA-05-0514002-002-DE-C"
+      ],
+      "el": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-EL-C/NA0514002ELC_002.pdf?FileName=NA0514002ELC_002.pdf&SKU=NA0514002ELC_PDF&CatalogueNumber=NA-05-0514002-002-EL-C"
+      ],
+      "en": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-EN-C/NA0514002ENC_002.pdf?FileName=NA0514002ENC_002.pdf&SKU=NA0514002ENC_PDF&CatalogueNumber=NA-05-0514002-002-EN-C"
+      ],
+      "es": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-ES-C/NA0514002ESC_002.pdf?FileName=NA0514002ESC_002.pdf&SKU=NA0514002ESC_PDF&CatalogueNumber=NA-05-0514002-002-ES-C"
+      ],
+      "et": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-ET-C/NA0514002ETC_002.pdf?FileName=NA0514002ETC_002.pdf&SKU=NA0514002ETC_PDF&CatalogueNumber=NA-05-0514002-002-ET-C"
+      ],
+      "fi": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-FI-C/NA0514002FIC_002.pdf?FileName=NA0514002FIC_002.pdf&SKU=NA0514002FIC_PDF&CatalogueNumber=NA-05-0514002-002-FI-C"
+      ],
+      "fr": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-FR-C/NA0514002FRC_002.pdf?FileName=NA0514002FRC_002.pdf&SKU=NA0514002FRC_PDF&CatalogueNumber=NA-05-0514002-002-FR-C"
+      ],
+      "ga": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-GA-C/NA0514002GAC_002.pdf?FileName=NA0514002GAC_002.pdf&SKU=NA0514002GAC_PDF&CatalogueNumber=NA-05-0514002-002-GA-C"
+      ],
+      "hr": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-HR-C/NA0514002HRC_002.pdf?FileName=NA0514002HRC_002.pdf&SKU=NA0514002HRC_PDF&CatalogueNumber=NA-05-0514002-002-HR-C"
+      ],
+      "hu": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-HU-C/NA0514002HUC_002.pdf?FileName=NA0514002HUC_002.pdf&SKU=NA0514002HUC_PDF&CatalogueNumber=NA-05-0514002-002-HU-C"
+      ],
+      "it": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-IT-C/NA0514002ITC_002.pdf?FileName=NA0514002ITC_002.pdf&SKU=NA0514002ITC_PDF&CatalogueNumber=NA-05-0514002-002-IT-C"
+      ],
+      "lt": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-LT-C/NA0514002LTC_002.pdf?FileName=NA0514002LTC_002.pdf&SKU=NA0514002LTC_PDF&CatalogueNumber=NA-05-0514002-002-LT-C"
+      ],
+      "lv": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-LV-C/NA0514002LVC_002.pdf?FileName=NA0514002LVC_002.pdf&SKU=NA0514002LVC_PDF&CatalogueNumber=NA-05-0514002-002-LV-C"
+      ],
+      "mt": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-MT-C/NA0514002MTC_002.pdf?FileName=NA0514002MTC_002.pdf&SKU=NA0514002MTC_PDF&CatalogueNumber=NA-05-0514002-002-MT-C"
+      ],
+      "nl": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-NL-C/NA0514002NLC_002.pdf?FileName=NA0514002NLC_002.pdf&SKU=NA0514002NLC_PDF&CatalogueNumber=NA-05-0514002-002-NL-C"
+      ],
+      "pl": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-PL-C/NA0514002PLC_002.pdf?FileName=NA0514002PLC_002.pdf&SKU=NA0514002PLC_PDF&CatalogueNumber=NA-05-0514002-002-PL-C"
+      ],
+      "pt": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-PT-C/NA0514002PTC_002.pdf?FileName=NA0514002PTC_002.pdf&SKU=NA0514002PTC_PDF&CatalogueNumber=NA-05-0514002-002-PT-C"
+      ],
+      "ro": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-RO-C/NA0514002ROC_002.pdf?FileName=NA0514002ROC_002.pdf&SKU=NA0514002ROC_PDF&CatalogueNumber=NA-05-0514002-002-RO-C"
+      ],
+      "sk": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-SK-C/NA0514002SKC_002.pdf?FileName=NA0514002SKC_002.pdf&SKU=NA0514002SKC_PDF&CatalogueNumber=NA-05-0514002-002-SK-C"
+      ],
+      "sl": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-SL-C/NA0514002SLC_002.pdf?FileName=NA0514002SLC_002.pdf&SKU=NA0514002SLC_PDF&CatalogueNumber=NA-05-0514002-002-SL-C"
+      ],
+      "sv": [
+        "http://bookshop.europa.eu/en/justice-fundamental-rights-and-equality-pbNA0514002/downloads/NA-05-0514002-002-SV-C/NA0514002SVC_002.pdf?FileName=NA0514002SVC_002.pdf&SKU=NA0514002SVC_PDF&CatalogueNumber=NA-05-0514002-002-SV-C"
+      ]
+    }
+  }
+}

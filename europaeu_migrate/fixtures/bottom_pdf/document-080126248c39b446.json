@@ -1,0 +1,423 @@
+{
+  "_id": "080126248c39b446",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv",
+    "en"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2014-07-03 17:37:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        29
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/reg/thumb_reg_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/reg/thumb_reg_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/reg/thumb_reg_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/reg/thumb_reg_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/reg/thumb_reg_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/reg/thumb_reg_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/reg/thumb_reg_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/reg/thumb_reg_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/reg/thumb_reg_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/reg/thumb_reg_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/reg/thumb_reg_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/reg/thumb_reg_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/reg/thumb_reg_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/reg/thumb_reg_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/reg/thumb_reg_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/reg/thumb_reg_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/reg/thumb_reg_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/reg/thumb_reg_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/reg/thumb_reg_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/reg/thumb_reg_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/reg/thumb_reg_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/reg/thumb_reg_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/reg/thumb_reg_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/reg/thumb_reg_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Регионална  политика"
+      ],
+      "cs": [
+        "Regionální  politika"
+      ],
+      "da": [
+        "Regionalpolitik"
+      ],
+      "de": [
+        "Regionalpolitik"
+      ],
+      "el": [
+        "Περιφερειακή  πολιτική"
+      ],
+      "en": [
+        "Regional policy"
+      ],
+      "es": [
+        "Política  regional"
+      ],
+      "et": [
+        "Regionaal­ poliitika"
+      ],
+      "fi": [
+        "Aluepolitiikka"
+      ],
+      "fr": [
+        "Politique  régionale"
+      ],
+      "ga": [
+        "Beartas  Réigiúnach"
+      ],
+      "hr": [
+        "Regionalna  politika"
+      ],
+      "hu": [
+        "Regionális  politika"
+      ],
+      "it": [
+        "Politica  regionale"
+      ],
+      "lt": [
+        "Regioninė  politika"
+      ],
+      "lv": [
+        "Reģionālā  politika"
+      ],
+      "mt": [
+        "Il-Politika  Reġjonali"
+      ],
+      "nl": [
+        "Regionaal  beleid"
+      ],
+      "pl": [
+        "Polityka  regionalna"
+      ],
+      "pt": [
+        "Política  regional"
+      ],
+      "ro": [
+        "Politica  regională"
+      ],
+      "sk": [
+        "Regionálna  politika"
+      ],
+      "sl": [
+        "Regionalna  politika"
+      ],
+      "sv": [
+        "Regionalpolitiken"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Регионална  политика"
+      ],
+      "cs": [
+        "Regionální  politika"
+      ],
+      "da": [
+        "Regionalpolitik"
+      ],
+      "de": [
+        "Regionalpolitik"
+      ],
+      "el": [
+        "Περιφερειακή  πολιτική"
+      ],
+      "en": [
+        "Regional policy"
+      ],
+      "es": [
+        "Política  regional"
+      ],
+      "et": [
+        "Regionaal­ poliitika"
+      ],
+      "fi": [
+        "Aluepolitiikka"
+      ],
+      "fr": [
+        "Politique  régionale"
+      ],
+      "ga": [
+        "Beartas  Réigiúnach"
+      ],
+      "hr": [
+        "Regionalna  politika"
+      ],
+      "hu": [
+        "Regionális  politika"
+      ],
+      "it": [
+        "Politica  regionale"
+      ],
+      "lt": [
+        "Regioninė  politika"
+      ],
+      "lv": [
+        "Reģionālā  politika"
+      ],
+      "mt": [
+        "Il-Politika  Reġjonali"
+      ],
+      "nl": [
+        "Regionaal  beleid"
+      ],
+      "pl": [
+        "Polityka  regionalna"
+      ],
+      "pt": [
+        "Política  regional"
+      ],
+      "ro": [
+        "Politica  regională"
+      ],
+      "sk": [
+        "Regionálna  politika"
+      ],
+      "sl": [
+        "Regionalna  politika"
+      ],
+      "sv": [
+        "Regionalpolitiken"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през ноември 2014 г.</p><p class=\"series\"><em>Тази публикация е част от серията „Политиките на Европейския съюз“</em></p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Rukopis aktualizován v Listopad 2014</p><p class=\"series\"><em>Publikace je součástí edice Politiky Evropské unie</em></p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i november 2014</p><p class=\"series\"><em>Denne publikation indgår i serien \"Indblik i EU-politik\"</em></p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Manuskript aktualisiert im November 2014</p><p class=\"series\"><em>Teil der Reihe „Die Europäische Union erklärt“</em></p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</p><p class=\"series\"><em>Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</em></p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto original actualizado en noviembre de 2014</p><p class=\"series\"><em>Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</em></p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud november 2014</p><p class=\"series\"><em>See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</em></p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty marraskuu 2014</p><p class=\"series\"><em>Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</em></p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit actualisé en novembre 2014</p><p class=\"series\"><em>Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</em></p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt cothrom le dáta mí na Samhna 2014</p><p class=\"series\"><em>Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</em></p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u studeni 2014.</p><p class=\"series\"><em>Ova publikacija je dio serije \"Objašnjena Europska Unija\"</em></p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">A kézirat frissítve: 2014. november</p><p class=\"series\"><em>A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</em></p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Redazione aggiornata ad novembre 2014</p><p class=\"series\"><em>Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</em></p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2014 m. novembris mėn.</p><p class=\"series\"><em>Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</em></p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunināts 2014. gada novembris.</p><p class=\"series\"><em>Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</em></p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Manuskritt aġġornat f'Novembru 2014</p><p class=\"series\"><em>Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</em></p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Tekst bijgewerkt in november 2014</p><p class=\"series\"><em>Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</em></p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano w czerwcu 2014 r.</p><p class=\"series\"><em>Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</em></p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em novembro de 2014</p><p class=\"series\"><em>Esta brochura faz parte da coleção «Compreender melhor a UE»</em></p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în noiembrie 2014</p><p class=\"series\"><em>Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</em></p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol aktualizovaný v november 2014</p><p class=\"series\"><em>Táto publikácia je súčasťou série „Politiky Európskej únie“</em></p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen november 2014.</p><p class=\"series\"><em>Publikacija je del zbirke „Politike Evropske unije“.</em></p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterat i november 2014</p><p class=\"series\"><em>Broschyren ingår i serien ”Insyn i EU-politiken”</em></p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c29"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://europa.eu/pol/pdf/flipbook/bg/regional_policy_bg.pdf"
+      ],
+      "cs": [
+        "http://europa.eu/pol/pdf/flipbook/cs/regional_policy_cs.pdf"
+      ],
+      "da": [
+        "http://europa.eu/pol/pdf/flipbook/da/regional_policy_da.pdf"
+      ],
+      "de": [
+        "http://europa.eu/pol/pdf/flipbook/de/regional_policy_de.pdf"
+      ],
+      "el": [
+        "http://europa.eu/pol/pdf/flipbook/el/regional_policy_el.pdf"
+      ],
+      "en": [
+        "http://europa.eu/pol/pdf/flipbook/en/regional_policy_en.pdf"
+      ],
+      "es": [
+        "http://europa.eu/pol/pdf/flipbook/es/regional_policy_es.pdf"
+      ],
+      "et": [
+        "http://europa.eu/pol/pdf/flipbook/et/regional_policy_et.pdf"
+      ],
+      "fi": [
+        "http://europa.eu/pol/pdf/flipbook/fi/regional_policy_fi.pdf"
+      ],
+      "fr": [
+        "http://europa.eu/pol/pdf/flipbook/fr/regional_policy_fr.pdf"
+      ],
+      "ga": [
+        "http://europa.eu/pol/pdf/flipbook/ga/regional_policy_ga.pdf"
+      ],
+      "hr": [
+        "http://europa.eu/pol/pdf/flipbook/hr/regional_policy_hr.pdf"
+      ],
+      "hu": [
+        "http://europa.eu/pol/pdf/flipbook/hu/regional_policy_hu.pdf"
+      ],
+      "it": [
+        "http://europa.eu/pol/pdf/flipbook/it/regional_policy_it.pdf"
+      ],
+      "lt": [
+        "http://europa.eu/pol/pdf/flipbook/lt/regional_policy_lt.pdf"
+      ],
+      "lv": [
+        "http://europa.eu/pol/pdf/flipbook/lv/regional_policy_lv.pdf"
+      ],
+      "mt": [
+        "http://europa.eu/pol/pdf/flipbook/mt/regional_policy_mt.pdf"
+      ],
+      "nl": [
+        "http://europa.eu/pol/pdf/flipbook/nl/regional_policy_nl.pdf"
+      ],
+      "pl": [
+        "http://europa.eu/pol/pdf/flipbook/pl/regional_policy_pl.pdf"
+      ],
+      "pt": [
+        "http://europa.eu/pol/pdf/flipbook/pt/regional_policy_pt.pdf"
+      ],
+      "ro": [
+        "http://europa.eu/pol/pdf/flipbook/ro/regional_policy_ro.pdf"
+      ],
+      "sk": [
+        "http://europa.eu/pol/pdf/flipbook/sk/regional_policy_sk.pdf"
+      ],
+      "sl": [
+        "http://europa.eu/pol/pdf/flipbook/sl/regional_policy_sl.pdf"
+      ],
+      "sv": [
+        "http://europa.eu/pol/pdf/flipbook/sv/regional_policy_sv.pdf"
+      ]
+    }
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "_id": "080126248bf4857d",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "ro",
+    "sk",
+    "sl",
+    "bg",
+    "cs",
+    "et",
+    "da",
+    "de",
+    "el",
+    "fi",
+    "sv",
+    "en"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2014-05-23 10:56:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        28
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/fraud/thumb_fight_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Борбата на ЕС с измамите и корупцията"
+      ],
+      "cs": [
+        "Boj EU proti podvodům a korupci"
+      ],
+      "da": [
+        "EU's kamp mod svig og korruption"
+      ],
+      "de": [
+        "Der Kampf der EU gegen Betrug und Korruption"
+      ],
+      "el": [
+        "Η καταπολέμηση της απάτης και της διαφθοράς από την ΕΕ"
+      ],
+      "en": [
+        "Fight against fraud"
+      ],
+      "es": [
+        "La lucha de la UE contra el fraude y la corrupción"
+      ],
+      "et": [
+        "ELi võitlus pettuste ja korruptsiooni vastu"
+      ],
+      "fi": [
+        "Petosten ja korruption torjunta EU:ssa"
+      ],
+      "fr": [
+        "La lutte de l’UE contre la fraude et la corruption"
+      ],
+      "ga": [
+        "Comhrac an AE i gcoinne na calaoise agus an éillithe"
+      ],
+      "hr": [
+        "Borba EU-a protiv prijevara i korupcije"
+      ],
+      "hu": [
+        "Uniós fellépés a csalás és a korrupció ellen"
+      ],
+      "it": [
+        "La lotta dell’UE alla frode e alla corruzione"
+      ],
+      "lt": [
+        "ES kova su sukčiavimu ir korupcija"
+      ],
+      "lv": [
+        "ES cīņa pret krāpšanu un korupciju"
+      ],
+      "mt": [
+        "Il-ġlieda tal-UE kontra l-frodi u l-korruzzjoni"
+      ],
+      "nl": [
+        "Bestrijding van fraude en corruptie door de EU"
+      ],
+      "pl": [
+        "Walka UE z nadużyciami finansowymi i korupcją"
+      ],
+      "pt": [
+        "A luta da União Europeia contra a fraude e a corrupção"
+      ],
+      "ro": [
+        "Lupta UE împotriva fraudei și a corupției"
+      ],
+      "sk": [
+        "Boj EÚ proti podvodom a korupcii"
+      ],
+      "sl": [
+        "Boj EU proti goljufijam in korupciji"
+      ],
+      "sv": [
+        "EU:s kamp mot bedrägerier och korruption"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Борбата на ЕС с измамите и корупцията"
+      ],
+      "cs": [
+        "Boj EU proti podvodům a korupci"
+      ],
+      "da": [
+        "EU's kamp mod svig og korruption"
+      ],
+      "de": [
+        "Der Kampf der EU gegen Betrug und Korruption"
+      ],
+      "el": [
+        "Η καταπολέμηση της απάτης και της διαφθοράς από την ΕΕ"
+      ],
+      "en": [
+        "Fight against fraud"
+      ],
+      "es": [
+        "La lucha de la UE contra el fraude y la corrupción"
+      ],
+      "et": [
+        "ELi võitlus pettuste ja korruptsiooni vastu"
+      ],
+      "fi": [
+        "Petosten ja korruption torjunta EU:ssa"
+      ],
+      "fr": [
+        "La lutte de l’UE contre la fraude et la corruption"
+      ],
+      "ga": [
+        "Comhrac an AE i gcoinne na calaoise agus an éillithe"
+      ],
+      "hr": [
+        "Borba EU-a protiv prijevara i korupcije"
+      ],
+      "hu": [
+        "Uniós fellépés a csalás és a korrupció ellen"
+      ],
+      "it": [
+        "La lotta dell’UE alla frode e alla corruzione"
+      ],
+      "lt": [
+        "ES kova su sukčiavimu ir korupcija"
+      ],
+      "lv": [
+        "ES cīņa pret krāpšanu un korupciju"
+      ],
+      "mt": [
+        "Il-ġlieda tal-UE kontra l-frodi u l-korruzzjoni"
+      ],
+      "nl": [
+        "Bestrijding van fraude en corruptie door de EU"
+      ],
+      "pl": [
+        "Walka UE z nadużyciami finansowymi i korupcją"
+      ],
+      "pt": [
+        "A luta da União Europeia contra a fraude e a corrupção"
+      ],
+      "ro": [
+        "Lupta UE împotriva fraudei și a corupției"
+      ],
+      "sk": [
+        "Boj EÚ proti podvodom a korupcii"
+      ],
+      "sl": [
+        "Boj EU proti goljufijam in korupciji"
+      ],
+      "sv": [
+        "EU:s kamp mot bedrägerier och korruption"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Публикувано през Ноември 2014 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Vydáno v listopadu 2014</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Udgivet i november 2014</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Im November 2014 veröffentlicht</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Δημοσιεύθηκε τον <span class=\"displayedIn\">Νοέμβριο</span> του 2014</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Published in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Publicado en noviembre de 2014</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Välja antud novembris 2014</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\"><span class=\"hps\">Julkaistu</span> <span class=\"hps\"><span>marraskuu</span> 2014</span></p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Publiée en novembre 2014</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna fhoilsiú i Samhain 2014</p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Objavljeno u studeniu 2014.</p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">Megjelent: 2014 <span class=\"displayedIn\">novemberében</span></p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Pubblicato a novembre 2014</p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\"><span class=\"hps\">Paskelbta</span> <span class=\"hps\"><span class=\"displayedIn\">lapkričio</span> 2014</span></p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Publicēts 2014.gada <span class=\"displayedIn\">novembrī</span></p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Ippubblikat N<span>ovembru</span> 2014</p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Gepubliceerd in november 2014</p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Opublikowano w listopadzie 2014 r.</p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Publicado em novembro de 2014</p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Publicată în noiembrie 2014</p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Dátum uverejnenia: november 2014</p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Objavljeno novembra 2014</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Publicerad i november 2014</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c22"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-BG-C/NA0415192BGC_002.pdf?FileName=NA0415192BGC_002.pdf&SKU=NA0415192BGC_PDF&CatalogueNumber=NA-04-15-192-BG-C"
+      ],
+      "cs": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-CS-C/NA0415192CSC_002.pdf?FileName=NA0415192CSC_002.pdf&SKU=NA0415192CSC_PDF&CatalogueNumber=NA-04-15-192-CS-C"
+      ],
+      "da": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-DA-C/NA0415192DAC_002.pdf?FileName=NA0415192DAC_002.pdf&SKU=NA0415192DAC_PDF&CatalogueNumber=NA-04-15-192-DA-C"
+      ],
+      "de": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-DE-C/NA0415192DEC_002.pdf?FileName=NA0415192DEC_002.pdf&SKU=NA0415192DEC_PDF&CatalogueNumber=NA-04-15-192-DE-C"
+      ],
+      "el": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-EL-C/NA0415192ELC_002.pdf?FileName=NA0415192ELC_002.pdf&SKU=NA0415192ELC_PDF&CatalogueNumber=NA-04-15-192-EL-C"
+      ],
+      "en": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-EN-C/NA0415192ENC_002.pdf?FileName=NA0415192ENC_002.pdf&SKU=NA0415192ENC_PDF&CatalogueNumber=NA-04-15-192-EN-C"
+      ],
+      "es": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-ES-C/NA0415192ESC_002.pdf?FileName=NA0415192ESC_002.pdf&SKU=NA0415192ESC_PDF&CatalogueNumber=NA-04-15-192-ES-C"
+      ],
+      "et": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-ET-C/NA0415192ETC_002.pdf?FileName=NA0415192ETC_002.pdf&SKU=NA0415192ETC_PDF&CatalogueNumber=NA-04-15-192-ET-C"
+      ],
+      "fi": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-FI-C/NA0415192FIC_002.pdf?FileName=NA0415192FIC_002.pdf&SKU=NA0415192FIC_PDF&CatalogueNumber=NA-04-15-192-FI-C"
+      ],
+      "fr": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-FR-C/NA0415192FRC_002.pdf?FileName=NA0415192FRC_002.pdf&SKU=NA0415192FRC_PDF&CatalogueNumber=NA-04-15-192-FR-C"
+      ],
+      "ga": [
+        "http://europa.eu/pol/pdf/flipbook/ga/fight_fraud_ga.pdf"
+      ],
+      "hr": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-HR-C/NA0415192HRC_002.pdf?FileName=NA0415192HRC_002.pdf&SKU=NA0415192HRC_PDF&CatalogueNumber=NA-04-15-192-HR-C"
+      ],
+      "hu": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-HU-C/NA0415192HUC_002.pdf?FileName=NA0415192HUC_002.pdf&SKU=NA0415192HUC_PDF&CatalogueNumber=NA-04-15-192-HU-C"
+      ],
+      "it": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-IT-C/NA0415192ITC_002.pdf?FileName=NA0415192ITC_002.pdf&SKU=NA0415192ITC_PDF&CatalogueNumber=NA-04-15-192-IT-C"
+      ],
+      "lt": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-LT-C/NA0415192LTC_002.pdf?FileName=NA0415192LTC_002.pdf&SKU=NA0415192LTC_PDF&CatalogueNumber=NA-04-15-192-LT-C"
+      ],
+      "lv": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-LV-C/NA0415192LVC_002.pdf?FileName=NA0415192LVC_002.pdf&SKU=NA0415192LVC_PDF&CatalogueNumber=NA-04-15-192-LV-C"
+      ],
+      "mt": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-MT-C/NA0415192MTC_002.pdf?FileName=NA0415192MTC_002.pdf&SKU=NA0415192MTC_PDF&CatalogueNumber=NA-04-15-192-MT-C"
+      ],
+      "nl": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-NL-C/NA0415192NLC_002.pdf?FileName=NA0415192NLC_002.pdf&SKU=NA0415192NLC_PDF&CatalogueNumber=NA-04-15-192-NL-C"
+      ],
+      "pl": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-PL-C/NA0415192PLC_002.pdf?FileName=NA0415192PLC_002.pdf&SKU=NA0415192PLC_PDF&CatalogueNumber=NA-04-15-192-PL-C"
+      ],
+      "pt": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-PT-C/NA0415192PTC_002.pdf?FileName=NA0415192PTC_002.pdf&SKU=NA0415192PTC_PDF&CatalogueNumber=NA-04-15-192-PT-C"
+      ],
+      "ro": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-RO-C/NA0415192ROC_002.pdf?FileName=NA0415192ROC_002.pdf&SKU=NA0415192ROC_PDF&CatalogueNumber=NA-04-15-192-RO-C"
+      ],
+      "sk": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-SK-C/NA0415192SKC_002.pdf?FileName=NA0415192SKC_002.pdf&SKU=NA0415192SKC_PDF&CatalogueNumber=NA-04-15-192-SK-C"
+      ],
+      "sl": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-SL-C/NA0415192SLC_002.pdf?FileName=NA0415192SLC_002.pdf&SKU=NA0415192SLC_PDF&CatalogueNumber=NA-04-15-192-SL-C"
+      ],
+      "sv": [
+        "http://bookshop.europa.eu/en/fight-against-fraud-pbNA0415192/downloads/NA-04-15-192-SV-C/NA0415192SVC_002.pdf?FileName=NA0415192SVC_002.pdf&SKU=NA0415192SVC_PDF&CatalogueNumber=NA-04-15-192-SV-C"
+      ]
+    }
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e076dad",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e076dad",
+        "080126248e076dad",
+        "080126248e076dad",
+        "080126248e076dad"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска агенция за околната среда(EAОС)"
+      ],
+      "cs": [
+        "Evropská agentura pro životní prostředí(EEA)"
+      ],
+      "da": [
+        "Det Europæiske Miljøagentur(EEA)"
+      ],
+      "de": [
+        "Europäische Umweltagentur(EUA)"
+      ],
+      "el": [
+        "Ευρωπαϊκός Οργανισμός Περιβάλλοντος(EEA)"
+      ],
+      "en": [
+        "European Environment Agency(EEA)"
+      ],
+      "es": [
+        "Agencia Europea de Medio Ambiente(AEMA)"
+      ],
+      "et": [
+        "Euroopa Keskkonnaamet(EEA)"
+      ],
+      "fi": [
+        "Euroopan ympäristökeskus(EEA)"
+      ],
+      "fr": [
+        "Agence européenne pour l’environnement(AEE)"
+      ],
+      "ga": [
+        "An Ghníomhaireacht Eorpach Chomhshaoil(GCE)"
+      ],
+      "hr": [
+        "Europska agencija za okoliš(EEA)"
+      ],
+      "hu": [
+        "Európai Környezetvédelmi Ügynökség(EEA)"
+      ],
+      "it": [
+        "Agenzia europea dell’ambiente(AEA)"
+      ],
+      "lt": [
+        "Europos aplinkos agentūra(EAA)"
+      ],
+      "lv": [
+        "Eiropas Vides aģentūra(EEA)"
+      ],
+      "mt": [
+        "l-Aġenzija Ewropea għall-Ambjent(AEA)"
+      ],
+      "nl": [
+        "Europees Milieuagentschap(EMA)"
+      ],
+      "pl": [
+        "Europejska Agencja Środowiska(EEA)"
+      ],
+      "pt": [
+        "Agência Europeia do Ambiente(AEA)"
+      ],
+      "ro": [
+        "Agenţia Europeană de Mediu(AEM)"
+      ],
+      "sk": [
+        "Európska environmentálna agentúra(EEA)"
+      ],
+      "sl": [
+        "Evropska agencija za okolje(EEA)"
+      ],
+      "sv": [
+        "Europeiska miljöbyrån(EEA)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/eea_logo.gif"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Kongens Nytorv 6</p> <p>DK-1050 København K</p> <p>Danmark</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+45 33 36 71 00"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+45 33 36 71 99"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "http://www.eea.europa.eu/help/infocentre/enquiries/portal_factory/Enquiry/enquiry.2011-07-12.3036973486/edit"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact EEA"
+      ]
+    }
+  }
+}

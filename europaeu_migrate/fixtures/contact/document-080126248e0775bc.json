@@ -1,0 +1,369 @@
+{
+  "_id": "080126248e0775bc",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e0775bc",
+        "080126248e0775bc",
+        "080126248e0775bc",
+        "080126248e0775bc",
+        "080126248e0775bc"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Службата за публикации на Европейския съюз"
+      ],
+      "cs": [
+        "Úřad pro publikace Evropské unie"
+      ],
+      "da": [
+        "Den Europæiske Unions Publikationskontor"
+      ],
+      "de": [
+        "Amt für Veröffentlichungen der Europäischen Union"
+      ],
+      "el": [
+        "Υπηρεσία Εκδόσεων της Ευρωπαϊκής Ένωσης"
+      ],
+      "en": [
+        "Publications Office of the European Union"
+      ],
+      "es": [
+        "Oficina de Publicaciones de la Unión Europea"
+      ],
+      "et": [
+        "Euroopa Liidu Väljaannete Talitus"
+      ],
+      "fi": [
+        "Euroopan unionin julkaisutoimisto"
+      ],
+      "fr": [
+        "Office des publications de l'Union européenne"
+      ],
+      "ga": [
+        "Oifig Foilseachán an Aontais Eorpaigh"
+      ],
+      "hr": [
+        "Ured za publikacije Europske unije"
+      ],
+      "hu": [
+        "Európai Unió Kiadóhivatala"
+      ],
+      "it": [
+        "Ufficio delle pubblicazioni dell’Unione europea"
+      ],
+      "lt": [
+        "Europos Sąjungos leidinių biuras"
+      ],
+      "lv": [
+        "Eiropas Savienības Publikāciju birojs"
+      ],
+      "mt": [
+        "l-Uffiċċju tal-Pubblikazzjonijiet tal-Unjoni Ewropea"
+      ],
+      "nl": [
+        "Bureau voor publicaties van de Europese Unie"
+      ],
+      "pl": [
+        "Urząd Publikacji Unii Europejskiej"
+      ],
+      "pt": [
+        "Serviço das Publicações da União Europeia"
+      ],
+      "ro": [
+        "Oficiul pentru Publicaţii al Uniunii Europene"
+      ],
+      "sk": [
+        "Úrad pre vydávanie publikácií Európskej únie"
+      ],
+      "sl": [
+        "Urad za publikacije Evropske unije"
+      ],
+      "sv": [
+        "Europeiska unionens publikationsbyrå"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/opoce_logo.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>2 rue Mercier</p> <p>L-2985 Luxembourg</p> <p>Luxembourg</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+352 2929-1"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+352 2929-42758"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:info@publications.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Email"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Social networks"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    }
+  }
+}

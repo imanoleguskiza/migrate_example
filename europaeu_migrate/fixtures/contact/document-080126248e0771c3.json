@@ -1,0 +1,214 @@
+{
+  "_id": "080126248e0771c3",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e0771c3",
+        "080126248e0771c3",
+        "080126248e0771c3"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейският институт за иновации и технологии(EIT)"
+      ],
+      "cs": [
+        "Evropský inovační a technologický institut(EIT)"
+      ],
+      "da": [
+        "Europæiske Institut for Innovation og Teknologi(EIT)"
+      ],
+      "de": [
+        "Europäisches Innovations- und Technologieinstitut(EIT)"
+      ],
+      "el": [
+        "Το Ευρωπαϊκό Ινστιτούτο Καινοτομίας και Τεχνολογίας(EIT)"
+      ],
+      "en": [
+        "European Institute of Innovation and Technology(EIT)"
+      ],
+      "es": [
+        "Instituto Europeo de Innovación y Tecnología(EIT)"
+      ],
+      "et": [
+        "Euroopa Innovatsiooni- ja Tehnoloogiainstituut(EIT)"
+      ],
+      "fi": [
+        "Euroopan innovaatio- ja teknologiainstituutti(EIT)"
+      ],
+      "fr": [
+        "Institut européen d'innovation et de technologie(EIT)"
+      ],
+      "ga": [
+        "Institiúid Eorpach um Nuáil agus Teicneolaíocht(EIT)"
+      ],
+      "hr": [
+        "Europski institut za inovacije i tehnologiju(EIT)"
+      ],
+      "hu": [
+        "Az Európai Innovációs és Technológiai Intézet(EIT)"
+      ],
+      "it": [
+        "Istituto europeo di innovazione e tecnologia(EIT)"
+      ],
+      "lt": [
+        "Europos inovacijos ir technologijos institutas(EIT)"
+      ],
+      "lv": [
+        "Eiropas Inovāciju un tehnoloģiju institūts(EIT)"
+      ],
+      "mt": [
+        "Istitut Ewropew tal-Innovazzjoni u t-Teknoloġija(EIT)"
+      ],
+      "nl": [
+        "Europees instituut voor innovatie en technologie(EIT)"
+      ],
+      "pl": [
+        "Europejski Instytut Innowacji i Technologii(EIT)"
+      ],
+      "pt": [
+        "Instituto Europeu de Inovação e Tecnologia(EIT)"
+      ],
+      "ro": [
+        "Institutul European de Inovare şi Tehnologie(EIT)"
+      ],
+      "sk": [
+        "Európsky inovačný a technologický inštitút(EIT)"
+      ],
+      "sl": [
+        "Evropski inštitut za inovacije in tehnologijo(EIT)"
+      ],
+      "sv": [
+        "Europeiska institutet för innovation och teknik(EIT)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/eit_logo.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p><span>Infopark 1/E</span><br /><span>Neumann Janos utca</span><br /><span>1117 Budapest</span><br /><span>Magyarország/Hungary</span></p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+36 14 819 300"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "http://eit.europa.eu/interact/contact-us"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact EIT"
+      ]
+    }
+  }
+}

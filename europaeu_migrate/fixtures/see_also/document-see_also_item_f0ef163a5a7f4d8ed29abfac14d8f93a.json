@@ -1,0 +1,543 @@
+{
+    "_id": "see_also_item_f0ef163a5a7f4d8ed29abfac14d8f93a",
+    "type": "see_also_item",
+    "default_language": "en",
+    "languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "es",
+        "fr",
+        "ga",
+        "hr",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "en"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Новини от ЕОБХ",
+                "Прояви и срещи на ЕОБХ",
+                "Пресцентър",
+                "Списание на ЕОБХ",
+                "Документи и публикации на ЕОБХ",
+                "Възможности за работа",
+                "Научен процес на ЕОБХ (подробно ръководство)"
+            ],
+            "cs": [
+                "Aktuality EFSA",
+                "Akce a schůze EFSA",
+                "Tiskové středisko",
+                "Zpravodaj EFSA",
+                "Dokumenty a publikace EFSA",
+                "Pracovní nabídky",
+                "Vědecký postup EFSA (jednotlivé kroky)"
+            ],
+            "da": [
+                "EFSA-nyheder",
+                "EFSA-arrangementer og -møder",
+                "Pressecenter",
+                "EFSA Journal",
+                "EFSA-dokumenter og -publikationer",
+                "Karrieremuligheder",
+                "EFSA's videnskabelige proces (trinvis vejledning)"
+            ],
+            "de": [
+                "EFSA-Nachrichten",
+                "EFSA: Veranstaltungen und Sitzungen ",
+                "Pressezentrum",
+                "EFSA-Journal",
+                "EFSA: Dokumente und Veröffentlichungen",
+                "Stellenangebote ",
+                "EFSA: Ablaufschema wissenschaftliche Beratung (Schritt "
+            ],
+            "el": [
+                "Ειδήσεις της ΕΑΑΤ",
+                "Εκδηλώσεις και συνεδριάσεις της ΕΑΑΤ",
+                "Κέντρο Τύπου",
+                "Περιοδικό της ΕΑΑΤ",
+                "Έγγραφα και εκδόσεις της ΕΑΑΤ",
+                "Δυνατότητες σταδιοδρομίας",
+                "Επιστημονική διαδικασία της ΕΑΑΤ (οδηγός βήμα-βήμα)"
+            ],
+            "en": [
+                "EFSA news",
+                "EFSA events and meetings",
+                "Press centre",
+                "EFSA Journal",
+                "EFSA documents and publications",
+                "Career opportunities",
+                "EFSA’s scientific process (step-by-step guide)"
+            ],
+            "es": [
+                "Noticias de la AESA",
+                "Actos y reuniones de la AESA",
+                "Sala de prensa",
+                "Boletín",
+                "Documentos y publicaciones de la AESA",
+                "Ofertas de empleo",
+                "Procedimiento científico de la AESA (guía paso a paso)"
+            ],
+            "et": [
+                "EFSA uudised",
+                "EFSA üritused ja kohtumised",
+                "Pressikeskus",
+                "EFSA Teataja",
+                "EFSA dokumendid ja väljaanded",
+                "Töövõimalused",
+                "EFSA teadustöö (etapiviisiline tutvustus)"
+            ],
+            "fi": [
+                "EFSAn uutisia",
+                "EFSAn tapahtumakalenteri",
+                "Lehdistökeskus",
+                "EFSA Journal -verkkolehti",
+                "EFSAn asiakirjoja ja julkaisuja",
+                "Avoimet työpaikat",
+                "EFSAn tieteellinen prosessi (graafinen esitys)"
+            ],
+            "fr": [
+                "Actualités de l'EFSA",
+                "Événements et réunions de l'EFSA",
+                "Centre de presse",
+                "Journal de l'EFSA",
+                "Documents et publications de l'EFSA",
+                "Travailler à l'EFSA",
+                "Le processus scientifique de l'EFSA étape par étape ("
+            ],
+            "ga": [
+                "Nuacht EFSA",
+                "Imeachtaí agus cruinnithe EFSA",
+                "An lárionad preasa",
+                "Iris EFSA",
+                "Doiciméid agus foilseacháin EFSA",
+                "Deiseanna fostaíochta",
+                "Obair eolaíochta EFSA (treoir mhionsonraithe)"
+            ],
+            "hr": [
+                "vijesti iz EFSA-e",
+                "događaji i sastanci EFSA-e",
+                "centar za medije",
+                "EFSA Journal",
+                "dokumenti i publikacije EFSA-e",
+                "mogućnosti zapošljavanja",
+                "znanstveni postupak EFSA-e (vodič kroz svaki korak)"
+            ],
+            "hu": [
+                "EFSA-hírek",
+                "EFSA-események és -találkozók",
+                "Sajtóközpont",
+                "EFSA Journal",
+                "EFSA-dokumentumok és -kiadványok",
+                "Álláslehetőségek",
+                "Az EFSA tudományos tevékenységének lépései (részletes "
+            ],
+            "it": [
+                "Notizie",
+                "Eventi e riunioni",
+                "Sala stampa",
+                "Rivista",
+                "Documenti e pubblicazioni",
+                "Opportunità professionali",
+                "Processo scientifico (guida dettagliata)"
+            ],
+            "lt": [
+                "EFSA naujienos",
+                "EFSA renginiai ir susitikimai",
+                "Spaudos centras",
+                "EFSA oficialusis leidinys",
+                "EFSA dokumentai ir leidiniai",
+                "Darbo galimybės",
+                "EFSA mokslinė procedūra (etapų paaiškinimas)"
+            ],
+            "lv": [
+                "EFSA jaunumi",
+                "EFSA pasākumi un sanāksmes",
+                "Preses centrs",
+                "EFSA Journal",
+                "EFSA dokumenti  un publikācijas",
+                "Darbs",
+                "EFSA zinātniskais process (soli pa solim)"
+            ],
+            "mt": [
+                "Aħbarijiet tal-EFSA",
+                "Avvenimenti u laqgħat tal-EFSA",
+                "Ċentru Stampa",
+                "Ġurnal tal-EFSA",
+                "Dokumenti u pubblikazzjonijiet tal-EFSA",
+                "Opportunitajiet ta' karrieri",
+                "Proċess xjentifiku tal-EFSA (gwida pass pass)"
+            ],
+            "nl": [
+                "Nieuws",
+                "Evenementen en bijeenkomsten",
+                "Perscentrum",
+                "EFSA Journal",
+                "Documenten en publicaties ",
+                "Vacatures ",
+                "etenschappelijke aanpak (stappengids)"
+            ],
+            "pl": [
+                "Aktualności",
+                "Wydarzenia i spotkania",
+                "Centrum prasowe",
+                "Dziennik EFSA",
+                "Dokumenty i publikacje",
+                "Praca w EFSA",
+                "Proces naukowy EFSA (krok po kroku)"
+            ],
+            "pt": [
+                "Notícias da EFSA",
+                "Eventos e reuniões da EFSA",
+                "Centro de imprensa",
+                "Jornal da EFSA",
+                "Documentos e publicações da EFSA",
+                "Oportunidades de emprego",
+                "Processo científico da EFSA (Guia explicativo do "
+            ],
+            "ro": [
+                "Noutăți ",
+                "Evenimente și reuniuni ",
+                "Centrul de presă",
+                "Revista EFSA",
+                "Documente și publicații EFSA",
+                "Posturi vacante",
+                "Procesul științific EFSA (ghid explicativ)"
+            ],
+            "sk": [
+                "EFSA - aktuality",
+                "EFSA - podujatia a stretnutia",
+                "Tlačové stredisko",
+                "Vestník EFSA (EFSA Journal)",
+                "EFSA - dokumenty a publikácie",
+                "Pracovné príležitosti",
+                "EFSA - vedecký proces (podrobné informácie)"
+            ],
+            "sl": [
+                "Novice EFSA",
+                "Dogodki in seje EFSA",
+                "Medijsko središče",
+                "Bilten EFSA",
+                "Dokumenti in publikacije EFSA",
+                "Možnosti zaposlitve",
+                "Znanstveni postopek EFSA (po korakih)"
+            ],
+            "sv": [
+                "Nyheter",
+                "Evenemang och möten",
+                "Presscentrum",
+                "Tidskriften Efsa Journal",
+                "Dokument och publikationer",
+                "Lediga jobb",
+                "Vetenskapliga yttranden – steg för steg"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "cs": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "da": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "de": [
+                "http://www.efsa.europa.eu/de/news",
+                "http://www.efsa.europa.eu/de/events/advanced-search",
+                "http://www.efsa.europa.eu/de/news/presscontacts",
+                "http://www.efsa.europa.eu/de/publications/efsajournal",
+                "http://www.efsa.europa.eu/de/corporate/pub/sciencestrategy12",
+                "http://www.efsa.europa.eu/de/aboutefsa/jobs",
+                "http://europa.eu/nolink"
+            ],
+            "el": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "en": [
+                "http://www.efsa.europa.eu/en/news",
+                "http://www.efsa.europa.eu/en/events/advanced-search",
+                "http://www.efsa.europa.eu/en/news/presscontacts",
+                "http://www.efsa.europa.eu/en/publications/efsajournal",
+                "http://www.efsa.europa.eu/en/corporate/pub/sciencestrategy12",
+                "http://www.efsa.europa.eu/en/aboutefsa/jobs",
+                "http://www.efsa.europa.eu/interactive_pages/scientificprocess/ScientificProcess"
+            ],
+            "es": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "et": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "fi": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "fr": [
+                "http://www.efsa.europa.eu/fr/news",
+                "http://www.efsa.europa.eu/fr/events/advanced-search",
+                "http://www.efsa.europa.eu/fr/news/presscontacts",
+                "http://www.efsa.europa.eu/fr/publications/efsajournal",
+                "http://www.efsa.europa.eu/fr/corporate/pub/sciencestrategy12",
+                "http://www.efsa.europa.eu/fr/aboutefsa/jobs",
+                "http://europa.eu/nolink"
+            ],
+            "ga": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "hr": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "hu": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "it": [
+                "http://www.efsa.europa.eu/it/news",
+                "http://www.efsa.europa.eu/it/events/advanced-search",
+                "http://www.efsa.europa.eu/it/news/presscontacts",
+                "http://www.efsa.europa.eu/it/publications/efsajournal",
+                "http://www.efsa.europa.eu/it/corporate/pub/sciencestrategy12",
+                "http://www.efsa.europa.eu/it/aboutefsa/jobs",
+                "http://europa.eu/nolink"
+            ],
+            "lt": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "lv": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "mt": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "nl": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "pl": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "pt": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "ro": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "sk": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "sl": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "sv": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Европейски орган за безопасност на храните (ЕОБХ)"
+            ],
+            "cs": [
+                "Evropský úřad pro bezpečnost potravin (EFSA)"
+            ],
+            "da": [
+                "Den Europæiske Fødevaresikkerhedsautoritet (EFSA)"
+            ],
+            "de": [
+                "Europäische Behörde für Lebensmittelsicherheit (EFSA)"
+            ],
+            "el": [
+                "Ευρωπαϊκή Αρχή για την Ασφάλεια των Τροφίμων (EFSA)"
+            ],
+            "en": [
+                "European Food Safety Authority (EFSA)"
+            ],
+            "es": [
+                "Autoridad Europea de Seguridad Alimentaria (EFSA)"
+            ],
+            "et": [
+                "Euroopa Toiduohutusamet (EFSA)"
+            ],
+            "fi": [
+                "Euroopan elintarviketurvallisuusviranomainen (EFSA)"
+            ],
+            "fr": [
+                "Autorité européenne de sécurité des aliments (EFSA)"
+            ],
+            "ga": [
+                "An tÚdarás Eorpach um Shábháilteacht Bia (EFSA)"
+            ],
+            "hr": [
+                "Europska agencija za sigurnost hrane (EFSA)"
+            ],
+            "hu": [
+                "Európai Élelmiszerbiztonsági Hatóság (EFSA)"
+            ],
+            "it": [
+                "Autorità europea per la sicurezza alimentare (EFSA)"
+            ],
+            "lt": [
+                "Europos maisto saugos tarnyba (EFSA)"
+            ],
+            "lv": [
+                "Eiropas Pārtikas nekaitīguma iestāde (EFSA)"
+            ],
+            "mt": [
+                "L-Awtorità Ewropea dwar is-Sigurtà fl-Ikel (EFSA)"
+            ],
+            "nl": [
+                "Europese Autoriteit voor voedselveiligheid (EFSA)"
+            ],
+            "pl": [
+                "Europejski Urząd ds. Bezpieczeństwa Żywności (EFSA)"
+            ],
+            "pt": [
+                "Autoridade Europeia para a Segurança dos Alimentos (EFSA)"
+            ],
+            "ro": [
+                "Autoritatea Europeană pentru Siguranța Alimentară (EFSA)"
+            ],
+            "sk": [
+                "Európsky úrad pre bezpečnosť potravín (EFSA)"
+            ],
+            "sl": [
+                "Evropska agencija za varnost hrane"
+            ],
+            "sv": [
+                "Europeiska myndigheten för livsmedelssäkerhet (Efsa)"
+            ]
+        }
+    }
+}

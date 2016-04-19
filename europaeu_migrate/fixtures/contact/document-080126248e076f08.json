@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e076f08",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e076f08",
+        "080126248e076f08",
+        "080126248e076f08",
+        "080126248e076f08"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска железопътна агенция(ERA)"
+      ],
+      "cs": [
+        "Evropská agentura pro železnice(ERA)"
+      ],
+      "da": [
+        "Det Europæiske Jernbaneagentur(ERA)"
+      ],
+      "de": [
+        "Europäische Eisenbahnagentur(ERA)"
+      ],
+      "el": [
+        "Ευρωπαϊκός Οργανισμός Σιδηροδρόμων(ERA)"
+      ],
+      "en": [
+        "European Railway Agency(ERA)"
+      ],
+      "es": [
+        "Agencia Ferroviaria Europea(AFE)"
+      ],
+      "et": [
+        "Euroopa Raudteeagentuur(ERA)"
+      ],
+      "fi": [
+        "Euroopan rautatievirasto(ERA)"
+      ],
+      "fr": [
+        "Agence ferroviaire européenne(AFE)"
+      ],
+      "ga": [
+        "An Ghníomhaireacht Eorpach Iarnróid(GEI)"
+      ],
+      "hr": [
+        "Europska agencija za željeznice(ERA)"
+      ],
+      "hu": [
+        "Európai Vasúti Ügynökség(ERA)"
+      ],
+      "it": [
+        "Agenzia ferroviaria europea(AFE)"
+      ],
+      "lt": [
+        "Europos geležinkelių agentūra(EGA)"
+      ],
+      "lv": [
+        "Eiropas Dzelzceļa aģentūra(ERA)"
+      ],
+      "mt": [
+        "Aġenzija Ewropea tal-Ferroviji(AFE)"
+      ],
+      "nl": [
+        "Europees Spoorwegbureau(ESB)"
+      ],
+      "pl": [
+        "Europejska Agencja Kolejowa(ERA)"
+      ],
+      "pt": [
+        "Agência Ferroviária Europeia(AFE)"
+      ],
+      "ro": [
+        "Agenţia Europeană a Căilor Ferate(AEF)"
+      ],
+      "sk": [
+        "Európska železničná agentúra(ERA)"
+      ],
+      "sl": [
+        "Evropska železniška agencija(ERA)"
+      ],
+      "sv": [
+        "Europeiska järnvägsbyrån(ERA)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/era_logo.gif"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>120 rue Marc Lefrancq</p> <p>F-59300 Valenciennes</p> <p>France</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+33 3 27 09 65 00"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+33 3 27 33 40 65"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:press-info@era.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact ERA"
+      ]
+    }
+  }
+}

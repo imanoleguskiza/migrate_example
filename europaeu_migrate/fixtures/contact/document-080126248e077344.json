@@ -1,0 +1,594 @@
+{
+  "_id": "080126248e077344",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e077344",
+        "080126248e077344",
+        "080126248e077344",
+        "080126248e077344",
+        "080126248e077344",
+        "080126248e077344",
+        "080126248e077344",
+        "080126248e077344",
+        "080126248e077344",
+        "080126248e077344",
+        "080126248e077344"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска комисия"
+      ],
+      "cs": [
+        "Evropská komise"
+      ],
+      "da": [
+        "Europa-Kommissionen"
+      ],
+      "de": [
+        "Europäische Kommission"
+      ],
+      "el": [
+        "Ευρωπαϊκή Επιτροπή"
+      ],
+      "en": [
+        "European Commission"
+      ],
+      "es": [
+        "Comisión Europea"
+      ],
+      "et": [
+        "Euroopa Komisjon"
+      ],
+      "fi": [
+        "Euroopan komissio"
+      ],
+      "fr": [
+        "Commission européenne"
+      ],
+      "ga": [
+        "An Coimisiún Eorpach"
+      ],
+      "hr": [
+        "Europska komisija"
+      ],
+      "hu": [
+        "Európai Bizottság"
+      ],
+      "it": [
+        "Commissione europea"
+      ],
+      "lt": [
+        "Europos Komisija"
+      ],
+      "lv": [
+        "Eiropas Komisija"
+      ],
+      "mt": [
+        "il-Kummissjoni Ewropea"
+      ],
+      "nl": [
+        "Europese Commissie"
+      ],
+      "pl": [
+        "Komisja Europejska"
+      ],
+      "pt": [
+        "Comissão Europeia"
+      ],
+      "ro": [
+        "Comisia Europeană"
+      ],
+      "sk": [
+        "Európska komisia"
+      ],
+      "sl": [
+        "Evropska komisija"
+      ],
+      "sv": [
+        "Europeiska kommissionen"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Rue de la Loi / Wetstraat 170</p> <p>B-1049 Bruxelles/Brussel</p> <p>Belgique/België</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 299 11 11"
+      ]
+    },
+    "link_url": {
+      "bg": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "cs": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "da": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "de": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "el": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "en": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "es": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "et": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "fi": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "fr": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "ga": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "hr": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "hu": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "it": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "lt": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "lv": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "mt": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "nl": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "pl": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "pt": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "ro": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "sk": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "sl": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ],
+      "sv": [
+        "http://ec.europa.eu/contact/index_en.html"
+      ]
+    },
+    "link_label": {
+      "bg": [
+        "За контакти"
+      ],
+      "cs": [
+        "Kontakt"
+      ],
+      "da": [
+        "Kontakt"
+      ],
+      "de": [
+        "Kontakt"
+      ],
+      "el": [
+        "Επικοινωνία"
+      ],
+      "en": [
+        "Contact"
+      ],
+      "es": [
+        "Dirección de contacto"
+      ],
+      "et": [
+        "Kontakt"
+      ],
+      "fi": [
+        "Yhteydenotot"
+      ],
+      "fr": [
+        "Contact"
+      ],
+      "ga": [
+        "Teagmháil"
+      ],
+      "hr": [
+        "Kontakt"
+      ],
+      "hu": [
+        "Kapcsolat"
+      ],
+      "it": [
+        "Per contattarci"
+      ],
+      "lt": [
+        "Kontaktai"
+      ],
+      "lv": [
+        "Kontakti"
+      ],
+      "mt": [
+        "Kuntatt "
+      ],
+      "nl": [
+        "Contact"
+      ],
+      "pl": [
+        "Kontakt"
+      ],
+      "pt": [
+        "Contacto"
+      ],
+      "ro": [
+        "Contact"
+      ],
+      "sk": [
+        "Kontakt"
+      ],
+      "sl": [
+        "Kontakt"
+      ],
+      "sv": [
+        "Kontakt"
+      ]
+    },
+    "visit": {
+      "bg": [
+        "<p>Вид посещение: Различни видове информационни сесии</p> <p>Минимален размер на групата: 15 души</p> <p>Изискване за предварителна резервация: 10 седмици</p> <p>Минимална възраст на посетителите: 15 години</p> <p><a href=\"http://ec.europa.eu/visits/index_bg.htm\">Посетете Европейската комисия</a></p>"
+      ],
+      "cs": [
+        "<p>Typ návštěvy: K dispozici jsou různé typy prohlídek</p> <p>Minimální velikost skupiny: 15 osob</p> <p>Povinná rezervace: 10 týdnů předem</p> <p>Minimální věk návštěvníků: 15 let</p> <p><a href=\"http://ec.europa.eu/visits/index_cs.htm\">Evropská komise – návštěvy pro veřejnost</a></p>"
+      ],
+      "da": [
+        "<p>Former for besøg: Der findes forskellige former for besøg</p> <p>Minimumstørrelse på gruppe: 15 personer</p> <p>Krav om forudbestilling: 10 uger</p> <p>Minimumsalder på besøgende: 15 år</p> <p><a href=\"http://ec.europa.eu/visits/index_da.htm\">Besøg Europa-Kommissionen</a></p>"
+      ],
+      "de": [
+        "<p>Art des Besuchs: Verschiedene Informationsbesuche</p> <p>Mindestteilnehmerzahl: 15 Personen</p> <p>Anmeldung: Zehn Wochen im Voraus</p> <p>Mindestalter der Besucher: 15 Jahre</p> <p><a href=\"http://ec.europa.eu/visits/index_de.htm\">Besuchen Sie die Europäische Kommission</a></p>"
+      ],
+      "el": [
+        "<p>Είδη επισκέψεων: Διάφορα είδη ενημερωτικών επισκέψεων</p> <p>Ελάχιστο μέγεθος ομάδας επισκεπτών: 15 άτομα</p> <p>Υποχρέωση κράτησης: 10 εβδομάδες νωρίτερα</p> <p>Κατώτατο όριο ηλικίας των επισκεπτών: 15 ετών</p> <p><a href=\"http://ec.europa.eu/visits/index_el.htm\">Επισκεφθείτε την Ευρωπαϊκή Επιτροπή</a></p>"
+      ],
+      "en": [
+        "<p>Type of visit: Different types of information session available</p> <p>Minimum size of group: 15 people</p> <p>Advance booking requirement: 10 weeks</p> <p>Minimum age of visitors: 15 years old</p> <p><a href=\"http://ec.europa.eu/visits/index_en.htm\">Visit the European Commission</a></p>"
+      ],
+      "es": [
+        "<p>Tipo de visita: Hay varios tipos de visitas de información</p> <p>Tamaño mínimo del grupo: 15 personas</p> <p>Plazo mínimo para hacer la solicitud: 10 semanas</p> <p>Edad mínima de los visitantes: 15 años</p> <p><a href=\"http://ec.europa.eu/visits/index_es.htm\">Visitas a la Comisión Europea</a></p>"
+      ],
+      "et": [
+        "<p>Külastuste liigid: Võimalikud on erinevad teabekülastused</p> <p>Minimaalne rühma suurus: 15 inimest</p> <p>Kohustus eelnevalt registreerida: 10 nädalat ette</p> <p>Minimaalne külastajate vanus: 15 aastat</p> <p><a href=\"http://ec.europa.eu/visits/index_et.htm\">Külastage Euroopa Komisjoni</a></p>"
+      ],
+      "fi": [
+        "<p>Vierailutyypit: erilaisia esittelytilaisuuksia</p> <p>Ryhmän vähimmäiskoko: 15 henkeä</p> <p>Pakollinen etukäteisvaraus: 10 viikkoa etukäteen</p> <p>Vierailijoiden vähimmäisikä: 15 vuotta</p> <p><a href=\"http://ec.europa.eu/visits/index_fi.htm\">Vierailut Euroopan komissiossa</a></p>"
+      ],
+      "fr": [
+        "<p>Type de visite: Il existe différents types de séances d'information</p> <p>Taille minimale des groupes: 15 personnes</p> <p>Délai de réservation: 10 semaines</p> <p>Âge minimum des visiteurs: 15 ans</p> <p><a href=\"http://ec.europa.eu/visits/index_fr.htm\">Visiter la Commission européenne</a></p>"
+      ],
+      "ga": [
+        "<p>Cineál cuairte: Na cineálacha éagsúla seisiún eolais atá ar fáil</p> <p>Íosmhéid an ghrúpa: 15 duine</p> <p>Riachtanas réamháirithinte: 10 seachtaine</p> <p>Aois íosta na gcuairteoirí: 15 bliana d'aois</p> <p><a href=\"http://ec.europa.eu/visits/index_ga.htm\">Tabhair cuairt ar an gCoimisiún Eorpach</a></p>"
+      ],
+      "hr": [
+        "<p>Vrsta posjeta: Ponuđene su različite vrste informativnih sastanaka</p> <p>Minimalna veličina skupine: 15 osoba</p> <p>Obvezna prethodna rezervacija: 10 tjedana</p> <p>Minimalna dob posjetitelja: 15 godina</p> <p><a href=\"http://ec.europa.eu/visits/index_en.htm\">Posjetite Europsku komisiju</a></p>"
+      ],
+      "hu": [
+        "<p>Látogatás típusa: Különböző típusú információs látogatások</p> <p>Csoport minimális létszáma: 15 fő</p> <p>Előzetes bejelentkezés: 10 héttel a látogatás tervezett időpontja előtt</p> <p>Látogatók alsó korhatára: 15 év</p> <p><a href=\"http://ec.europa.eu/visits/index_hu.htm\">Látogatás az Európai Bizottságnál</a></p>"
+      ],
+      "it": [
+        "<p>Tipo di visita: Vari tipi di sessioni informative</p> <p>Numero minimo di partecipanti: 15 persone</p> <p>Prenotazione: 10 settimane prima</p> <p>Età minima dei visitatori: 15 anni</p> <p><a href=\"http://ec.europa.eu/visits/index_it.htm\">Visitate la Commissione europea</a></p>"
+      ],
+      "lt": [
+        "<p>Apsilankymo pobūdis: Organizuojamos įvairios informacinės paskaitos</p> <p>Minimalus grupės dydis: 15 asmenų</p> <p>Prieš kiek laiko būtina susitarti dėl apsilankymo?: Prieš 10 savaičių</p> <p>Minimalus lankytojų amžius: 15 metų</p> <p><a href=\"http://ec.europa.eu/visits/index_lt.htm\">Apsilankykite Europos Komisijoje</a></p>"
+      ],
+      "lv": [
+        "<p>Apmeklējuma veids: dažādi informatīvie apmeklējumi</p> <p>Minimālais grupas lielums: 15 cilvēki</p> <p>Iepriekšēja pieteikšanās: 10 nedēļas iepriekš</p> <p>Apmeklētāju minimālais vecums: 15 gadi</p> <p><a href=\"http://ec.europa.eu/visits/index_lv.htm\">Eiropas Komisijas apmeklējums</a></p>"
+      ],
+      "mt": [
+        "<p>Tip ta’ żjara: Tipi differenti ta’ sessjonijiet ta’ informazzjoni disponibbli</p> <p>Daqs minimu tal-grupp: 15 ruħ</p> <p>Rekwiżit tar-Riżervazzjoni bil-quddiem: 10 ġimgħat</p> <p>L-età minima ta’ viżitaturi: 15-il sena</p> <p><a href=\"http://ec.europa.eu/visits/index_mt.htm\">Żur il-Kummissjoni Ewropea</a></p>"
+      ],
+      "nl": [
+        "<p>Soort bezoek: Verschillende soorten voorlichtingsbezoeken</p> <p>Groepsgrootte: Minimaal 15 personen</p> <p>Reservering: Minimaal 10 weken van tevoren</p> <p>Minimumleeftijd: 15 jaar</p> <p><a href=\"http://ec.europa.eu/visits/index_nl.htm\">Bezoek de Europese Commissie</a></p>"
+      ],
+      "pl": [
+        "<p>Rodzaj wizyty: Dostępne różne rodzaje sesji informacyjnych</p> <p>Minimalna wielkość grupy: 15 osób</p> <p>Wymóg rezerwacji: 10 tygodni wcześniej</p> <p>Minimalny wiek odwiedzających: 15 lat</p> <p><a href=\"http://ec.europa.eu/visits/index_pl.htm\">Wizyty w Komisji Europejskiej</a></p>"
+      ],
+      "pt": [
+        "<p>Tipo de visita: vários tipos de sessões de informação</p> <p>Número mínimo de participantes: 15 pessoas</p> <p>Marcação prévia obrigatória: 10 semanas</p> <p>Idade mínima dos visitantes: 15 anos</p>"
+      ],
+      "ro": [
+        "<p>Tipul de vizită: mai multe tipuri de sesiuni de informare</p> <p>Dimensiunea minimă a grupului: 15 de persoane</p> <p>Rezervare: cu 10 săptămâni înainte de data vizitei</p> <p>Vârsta minimă a vizitatorilor: 15 ani</p> <p><a href=\"http://ec.europa.eu/visits/index_ro.htm\">Vizitaţi Comisia Europeană</a></p>"
+      ],
+      "sk": [
+        "<p>Typy návštev: Rôzne typy informačných stretnutí</p> <p>Minimálna veľkosť skupiny: 15 osôb</p> <p>Povinná rezervácia: 10 týždňov pred návštevou</p> <p>Minimálny vek návštevníkov: 15 rokov</p> <p><a href=\"http://ec.europa.eu/visits/index_sk.htm\">Navštívte Európsku komisiu</a></p>"
+      ],
+      "sl": [
+        "<p>Vrsta obiska: Različne informativne predstavitve</p> <p>Velikost skupine: Najmanj 15 oseb</p> <p>Vnaprejšnja rezervacija: 10 tednov</p> <p>Starost obiskovalcev: Najmanj 15 let</p> <p><a href=\"http://ec.europa.eu/visits/index_sl.htm\">Obiščite Evropsko komisijo</a></p>"
+      ],
+      "sv": [
+        "<p>Typ av besök: Olika typer av studiebesök</p> <p>Gruppens storlek: Minst 15 personer</p> <p>Förhandsbokning: 10 veckor</p> <p>Åldersgräns: 15 år</p> <p><a href=\"http://ec.europa.eu/visits/index_sv.htm\">Besök EU-kommissionen</a></p>"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "https://www.facebook.com/EuropeanCommission",
+        "https://twitter.com/EU_Commission",
+        "https://plus.google.com/+EuropeanCommission/posts",
+        "https://www.linkedin.com/company/european-commission",
+        "https://www.youtube.com/user/eutube",
+        "https://www.pinterest.com/eucommission/",
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Facebook",
+        "Twitter",
+        "Google+",
+        "LinkedIn",
+        "YouTube",
+        "Pinterest",
+        "Social networks"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    }
+  }
+}

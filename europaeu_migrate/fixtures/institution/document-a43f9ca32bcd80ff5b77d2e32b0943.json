@@ -1,0 +1,849 @@
+{
+  "_id": "a43f9ca32bcd80ff5b77d2e32b0943",
+  "type": "institution",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/eige/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски институт за равенство на половете"
+      ],
+      "cs": [
+        "Evropský institut pro rovnost žen a mužů"
+      ],
+      "da": [
+        "Det Europæiske Ligestillingsinstitut"
+      ],
+      "de": [
+        "Europäisches Institut für Gleichstellungsfragen"
+      ],
+      "el": [
+        "Ευρωπαϊκό Ινστιτούτο για την Ισότητα των Φύλων"
+      ],
+      "en": [
+        "European Institute for Gender Equality"
+      ],
+      "es": [
+        "Instituto Europeo de la Igualdad de Género"
+      ],
+      "et": [
+        "Euroopa Soolise Võrdõiguslikkuse Instituut"
+      ],
+      "fi": [
+        "Euroopan tasa-arvoinstituutti"
+      ],
+      "fr": [
+        "Institut européen pour l’égalité entre les hommes et les femmes"
+      ],
+      "ga": [
+        "An Institiúid Eorpach um Chomhionannas Inscne"
+      ],
+      "hr": [
+        "Europski institut za ravnopravnost spolova"
+      ],
+      "hu": [
+        "Nemek Közötti Egyenlőség Európai Intézete"
+      ],
+      "it": [
+        "Istituto europeo per l'uguaglianza di genere"
+      ],
+      "lt": [
+        "Europos lyčių lygybės institutas"
+      ],
+      "lv": [
+        "Eiropas Dzimumu līdztiesības institūts"
+      ],
+      "mt": [
+        "l-Istitut Ewropew għall-Ugwaljanza bejn is-Sessi"
+      ],
+      "nl": [
+        "Europees Instituut voor gendergelijkheid"
+      ],
+      "pl": [
+        "Europejski Instytut ds. Równości Kobiet i Mężczyzn"
+      ],
+      "pt": [
+        "Instituto Europeu para a Igualdade de Género"
+      ],
+      "ro": [
+        "Institutul European pentru Egalitatea de Şanse între Femei şi Bărbaţi"
+      ],
+      "sk": [
+        "Európsky inštitút pre rodovú rovnosť"
+      ],
+      "sl": [
+        "Evropski inštitut za enakost med spoloma"
+      ],
+      "sv": [
+        "Europeiska jämställdhetsinstitutet"
+      ]
+    },
+    "category": {
+      "und": [
+        "23337c26",
+        "40261c14"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "EUROPA/"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "EUROPA/"
+      ],
+      "es": [
+        "EUROPA/"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "EUROPA/"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA/"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "EUROPA/"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        "-"
+      ],
+      "en": [
+        "-"
+      ],
+      "ga": [
+        "-"
+      ],
+      "hr": [
+        "-"
+      ],
+      "ro": [
+        "-"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Европейска комисия - Европейски институт за равенство на половете"
+      ],
+      "cs": [
+        "Evropský institut pro rovnost žen a mužů (EIGE)"
+      ],
+      "da": [
+        "Det Europæiske Ligestillingsinstitut (EIGE)"
+      ],
+      "de": [
+        "Europäische Kommission - Europäisches Institut für Gleichstellungsfragen (EIGE)"
+      ],
+      "el": [
+        "Ευρωπαϊκή Επιτροπή - Ευρωπαϊκό Ινστιτούτο για την Ισότητα των Φύλων (EIGE)"
+      ],
+      "en": [
+        "European Commission - European Institute for Gender Equality"
+      ],
+      "es": [
+        "Comisión Europea - Instituto Europeo de la Igualdad de Género (EIGE)"
+      ],
+      "et": [
+        "Euroopa Komisjon - Euroopa Soolise Võrdõiguslikkuse Instituut (EIGE)"
+      ],
+      "fi": [
+        "Euroopan komissio - Euroopan tasa-arvoinstituutti (EIGE)"
+      ],
+      "fr": [
+        "Commission européenne - Institut européen pour l’égalité entre les hommes et les femmes (EIGE)"
+      ],
+      "ga": [
+        "An Coimisiún Eorpach - An Institiúid Eorpach um Chomhionannas Inscne"
+      ],
+      "hr": [
+        "Europska komisija - Europski institut za ravnopravnost spolova"
+      ],
+      "hu": [
+        "Európai Bizottság - Nemek Közötti Egyenlőség Európai Intézete  (EIGE)"
+      ],
+      "it": [
+        "Istituto europeo per l'uguaglianza di genere  (EIGE)"
+      ],
+      "lt": [
+        "Europos lyčių lygybės institutas (EIGE)"
+      ],
+      "lv": [
+        "Eiropas Dzimumu līdztiesības institūts (EIGE)"
+      ],
+      "mt": [
+        "l-Istitut Ewropew għall-Ugwaljanza bejn is-Sessi (EIGE)"
+      ],
+      "nl": [
+        "Europees Instituut voor gendergelijkheid (EIGE)"
+      ],
+      "pl": [
+        "Europejski Instytut ds. Równości Kobiet i Mężczyzn (EIGE)"
+      ],
+      "pt": [
+        "Instituto Europeu para a Igualdade de Género (EIGE)"
+      ],
+      "ro": [
+        "Comisia Europeană - Institutul European pentru Egalitatea de Şanse între Femei şi Bărbaţi"
+      ],
+      "sk": [
+        "Európsky inštitút pre rodovú rovnosť (EIGE)"
+      ],
+      "sl": [
+        "Evropski inštitut za enakost med spoloma (EIGE)"
+      ],
+      "sv": [
+        "Europeiska jämställdhetsinstitutet (EIGE)"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "Европейска агенция за упр",
+        "europa",
+        "агенции",
+        "институции",
+        "Европейски съюз",
+        "ЕС"
+      ],
+      "cs": [
+        "Evropský institut pro rovnost žen a mužů",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "da": [
+        "Det Europæiske Ligestillingsinstitut",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "de": [
+        "Europäisches Institut für Gleichstellungsfrage",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "el": [
+        "Ευρωπαϊκό Ινστιτούτο για",
+        "Χημικών Προϊόντων",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "en": [
+        "European Chemicals Agency",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "es": [
+        "Agencia Europea",
+        "Instituto Europeo de la Igualdad de Género",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "et": [
+        "Euroopa Soolise Võrdõiguslikkuse Instituut",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "fi": [
+        "Euroopan tasa-arvoinstituutti",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "fr": [
+        "Institut européen pour l’égalité entre les",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "ga": [
+        "An Ghníomhaireacht Eorpach Ceimiceán",
+        "europa",
+        "gníomhaireachtaí",
+        "institiúidí",
+        "An tAontas Eorpach",
+        "AE"
+      ],
+      "hr": [
+        "Europska agencija za kemikalije",
+        "europa",
+        "agencije",
+        "institucije",
+        "Europska unija",
+        "EU"
+      ],
+      "hu": [
+        "Nemek Közötti Egyenlőség Európai Intézete",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "it": [
+        "Istituto europeo per l'uguaglianza di genere",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "lt": [
+        "Europos lyčių lygybės institutas",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "lv": [
+        "Eiropas Dzimumu līdztiesības institūts",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "mt": [
+        "l-Istitut Ewropew għall-Ugwaljanza bejn is-Sess",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "nl": [
+        "Europees Instituut voor gendergelijkheid",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "pl": [
+        "Europejski Instytut ds. Równości Kobiet i Mę",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "pt": [
+        "Instituto Europeu para a Igualdade de Género",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "ro": [
+        "Agenţia Europeană pentru Produse Chimice",
+        "europa",
+        "agenţii",
+        "instituţii",
+        "Uniunea Europeană",
+        "UE"
+      ],
+      "sk": [
+        "Európsky inštitút pre rodovú rovnosť",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "sl": [
+        "Evropski inštitut za enakost med spoloma",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ],
+      "sv": [
+        "Europeiska jämställdhetsinstitutet",
+        "europa",
+        "agencies",
+        "institutions",
+        "European Union",
+        "EU"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "info1": {
+      "bg": [
+        "<p>Европейски институт за равенство на половете е европейска агенция <strong>подкрепяща дейността на правителствата и институциите на ЕС</strong> (особено на Комисията) в тази област.</p>"
+      ],
+      "cs": [
+        "<p>Evropský institut pro rovnost žen a mužů je evropská agentura, která <b>podporuje činnost vlád členských států EU a orgánů EU</b>(především Komise) v oblasti rovnosti žen a mužů.</p>"
+      ],
+      "da": [
+        "<p>Det Europæiske Ligestillingsinstitut er et EU-agentur, der <b>støtter medlemslandenes regeringer og EU's institutioner</b> (især Kommissionen) i deres arbejde på området.</p>"
+      ],
+      "de": [
+        "<p>Das Europäische Institut für Gleichstellungsfragen ist eine europäische Agentur, <b>die EU-Länder und EU-Institutionen</b> – namentlich die Kommission – in diesem Bereich unterstützt.</p>"
+      ],
+      "el": [
+        "<p>Το Ευρωπαϊκό Ινστιτούτο για την Ισότητα των Φύλων είναι ένας ευρωπαϊκός οργανισμός <b>που στηρίζει το έργο των κυβερνήσεων και των οργάνων της ΕΕ</b> (κυρίως της Επιτροπής) στον συγκεκριμένο τομέα.</p>"
+      ],
+      "en": [
+        "<p>The European Institute for Gender Equality is a European agency <strong>supporting the work of EU governments and EU institutions</strong> (especially the Commission) in this field.</p>"
+      ],
+      "es": [
+        "<p>El Instituto Europeo de la Igualdad de Género es una agencia europea de apoyo a la labor de los gobiernos e instituciones de la UE (especialmente la Comisión) en este ámbito.</p>"
+      ],
+      "et": [
+        "<p>Euroopa Soolise Võrdõiguslikkuse Instituut on Euroopa asutus, mis toetab ELi liikmesriikide valitsuste ja ELi institutsioonide (eelkõige Euroopa Komisjoni) tegevust kõnealuses valdkonnas.</p>"
+      ],
+      "fi": [
+        "<p>Euroopan tasa-arvoinstituutti on EU:n virasto, joka <strong>tukee jäsenmaiden hallitusten ja EU:n toimielinten</strong>, erityisesti komission, työtä tasa-arvon edistämisen parissa.</p>"
+      ],
+      "fr": [
+        "<p>L'institut européen pour l'égalité entre les hommes et les femmes est une agence de l'Union européenne qui <strong>soutient le travail des États membres et des institutions européennes</strong> (en particulier la Commission) dans ce domaine.</p>"
+      ],
+      "ga": [
+        "<p>Gníomhaireacht Eorpach is ea an Institiúid Eorpach um Chomhionannas Inscne a <strong>thacaíonn le hobair rialtais agus institiúidí an AE</strong> (go háirithe an Coimisiún) sa réimse seo.</p>"
+      ],
+      "hr": [
+        "<p>Europski institut za ravnopravnost spolova europska je agencija koja <strong>podržava rad vlada i institucija EU-a</strong> (posebno Komisije) u tome području.</p>"
+      ],
+      "hu": [
+        "<p>A Nemek Közötti Egyenlőség Európai Intézete a tagállami kormányok és az uniós intézmények (legfőképpen a Bizottság) e területen végzett munkáját támogató európai ügynökség.</p>"
+      ],
+      "it": [
+        "<p>L'Istituto europeo per l'uguaglianza di genere è un'agenzia europea che coadiuva i governi e le istituzioni dell'UE (in particolare la Commissione) nella loro azione per promuovere la parità uomo-donna.</p>"
+      ],
+      "lt": [
+        "<p>Europos lyčių lygybės institutas – tai Europos agentūra, <b>remianti Europos Sąjungos šalių vyriausybių ir ES institucijų</b> (ypač Europos Komisijos) darbą šioje srityje.</p>"
+      ],
+      "lv": [
+        "<p>Eiropas Dzimumu līdztiesības institūts ir <b>ES aģentūra, kurai ir jāpalīdz ES dalībvalstu valdībām un ES iestādēm</b> (īpaši Komisijai) šajā jomā.</p>"
+      ],
+      "mt": [
+        "<p>L-Istitut Ewropew għall-Ugwaljanza bejn is-Sessi huwa aġenzija Ewropea li tappoġġa x-xogħol tal-gvernijiet tal-UE u l-istituzzjonijiet tal-UE (speċjalment il-Kummissjoni) f'dan il-qasam.</p>"
+      ],
+      "nl": [
+        "<p>Het Europees Instituut voor gendergelijkheid ondersteunt EU-overheden en –instellingen, en met name de Commissie, op het gebied van gelijkheid tussen mannen en vrouwen.</p>"
+      ],
+      "pl": [
+        "<p>Europejski Instytut ds. Równości Kobiet i Mężczyzn jest europejską agencją, która wspiera prace rządów krajów UE i instytucji unijnych (zwłaszcza Komisji) w tej dziedzinie.</p>"
+      ],
+      "pt": [
+        "<p>O Instituto Europeu para a Igualdade de Género é uma agência europeia que tem por missão <b>apoiar o trabalho dos governos dos países da UE e das instituições europeias</b> (especialmente a Comissão) no domínio da promoção da igualdade entre homens e mulheres.</p>"
+      ],
+      "ro": [
+        "<p>Institutul European pentru Egalitatea de Şanse între Femei şi Bărbaţi este o agenţie europeană <strong>care sprijină activitatea guvernelor statelor membre şi ale instituţiilor UE</strong> (în special ale Comisiei Europene) în acest domeniu.</p>"
+      ],
+      "sk": [
+        "<p>Európsky inštitút pre rodovú rovnosť patrí medzi európske agentúry a slúži na <b>podporu činností vlád členských štátov a inštitúcií EÚ</b> (najmä Komisie) v oblasti rovnosti medzi ženami a mužmi.</p>"
+      ],
+      "sl": [
+        "<p>Evropski inštitut za enakost med spoloma je evropska agencija, ki <b>pomaga vladam in institucijam EU</b> (zlasti Evropski komisiji) na tem področju.</p>"
+      ],
+      "sv": [
+        "<p>Europeiska jämställdhetsinstitutet är ett EU-organ som stöder <b>medlemsländernas och EU-institutionernas</b>, främst kommissionens, jämställdhetsarbete.</p>"
+      ]
+    },
+    "info2": {
+      "bg": [
+        "<h2>Дейности</h2>             <ul>                <li>събиране и анализиране на конкурентна <strong>база данни</strong> за тематики, свързани с равенството на половете</li>                <li>Разработвайки <strong>методологични инструменти</strong>, предимно за да спомогне интегрирането на равенството на половете във всички политически области</li>                <li>, улеснявайки <strong>обмена на най-добри практики</strong> и <strong>диалог</strong> между заинтересовани лица</li>                <li>,насърчавайки <strong>обществената заинтересованост</strong>.</li>             </ul>             <h2>Основни структури, съставляващи института</h2>             <ul>                <li>                   <strong>Управителен съвет</strong> (управленска роля)<br/> Приема годишните и междинните работни програми и бюджета.</li>                <li>                   <strong>Форум на експертите</strong> (консултативна роля)<br/> Подпомага дейността на Управителя.</li>                <li>                   <strong>Управител и екип</strong> (изпълнителна роля).<br/> Юридическият представител на института, отговорен за ежедневното разпределение на дейностите и изпълнение на работната програма.</li>             </ul>             <h2>Бюджет</h2>             <p>52.5 млн. евро2007-13).</p>             <h2>Директор</h2>             <p>Г-ца Виржиния Лангбак</p>             <h2>Повече за политиката</h2>             <p>Равенството на половете не е само фундаментално право, но и напредък, жизнено необходим на ЕС, да осъществи своите цели за <strong>икономически растеж и социална интеграция</strong>.</p>             <p>Въпреки че неравенството все още съществува, ЕС постигна <strong>значителен напредък в последните десетилетия</strong>. Това основно се дължи на законодателството и включването на равенството на половете в областите на обществена политика, както и на специфични действия за благоприятстването на жените</p>"
+      ],
+      "cs": [
+        "<h2>Úkoly</h2>             <ul>                <li>shromažďování a analýza srovnatelných <b>údajů</b> týkající se rovnosti žen a mužů</li>                <li>vytvoření <b>metodických nástrojů</b>, s jejichž pomocí lze rovnost žen a mužů začleňovat do všech oblastí politik</li>                <li>snazší <b>výměna osvědčených postupů a dialog</b> mezi zainteresovanými stranami</li>                <li>zvyšování <b>informovanost veřejnosti</b>                </li>             </ul>             <h2>Jednotlivé subjekty institutu</h2>             <ul>                <li>                   <b>správní rada</b> (rozhodovací úloha)<br/> Přijímá roční a střednědobé pracovní plány a rozpočet.</li>                <li>                   <b>fórum odborníků</b> (konzultativní úloha)<br/> Je nápomocné ředitelce agentury.</li>                <li>                   <b>ředitelka a zaměstnanci</b> (výkonná úloha) Právně institut zastupuje, je odpovědná za jeho každodenní řízení a za provádění pracovního programu.</li>             </ul>             <h2>Rozpočet</h2>             <p>52,5 milionu eur (2007-13).</p>             <h2>Ředitelka</h2>             <p>Virginija Langbakk</p>             <h2>Význam politiky</h2>             <p>Rovnost mezi muži a ženami patří mezi základní práva. Pokrok v této oblasti je navíc pro EU důležitý i proto, aby dosáhla svých cílů, pokud jde o <b>hospodářský růst a sociální soudržnost</b>.</p>             <p>I když stále nepanuje mezi ženami a muži úplná rovnost, bylo v EU <b>v posledních desetiletích dosaženo značného pokroku</b>, a to především díky právním předpisům o rovnosti žen a mužů a včlenění této problematiky do všech oblastí politiky, ale také díky konkrétním opatřením v zájmu lepšího postavení žen.</p>"
+      ],
+      "da": [
+        "<h2>Opgaver</h2>             <ul>                <li>at indsamle og analysere sammenlignelige <b>data</b> om kønsspørgsmål</li>                <li>at udvikle <b>metodiske redskaber</b>, især for at gøre det lettere at integrere ligestilling på alle politikområder</li>                <li>at gøre det lettere at <b>dele bedste praksis</b> og skabe <b>dialog</b> blandt interessenterne</li>                <li>at øge den <b>offentlige bevidsthed</b> om emnet.</li>             </ul>             <h2>Instituttets organer</h2>             <ul>                <li>                   <b>Bestyrelse</b> (beslutningsorgan)<br/> Vedtager årlige og mellemlange arbejdsprogrammer og budgettet.</li>                <li>                   <b>Ekspertforum</b> (rådgivende organ)<br/> Understøtter direktørens arbejde.</li>                <li>                   <b>Direktør og personale</b> (ledelse).<br/> Instituttets juridiske repræsentant med ansvar for den daglige ledelse og gennemførelse af arbejdsprogrammet.</li>             </ul>             <h2>Budget</h2>             <p>52,5 millioner euro (2007-13).</p>             <h2>Direktør</h2>             <p>Virginija Langbakk</p>             <h2>Baggrund</h2>             <p>Ligestilling er ikke kun en grundlæggende rettighed i sig selv – det er også afgørende at skabe fremskridt på dette område, hvis EU skal nå sine mål om økonomisk vækst og social samhørighed.</p>             <p>Selv om der stadig findes uligheder, har EU gjort betydelige fremskridt i de seneste årtier. Det skyldes overvejende lovgivningen og integration af ligestilling på alle politikområder og særlige initiativer, der skal styrke kvindernes stilling.</p>"
+      ],
+      "de": [
+        "<h2>Aufgabe</h2>             <ul>                <li>Erhebung und Analyse von vergleichbaren Daten zur Geschlechtergleichstellung</li>                <li>Entwicklung einer <b>Methode</b> zur Förderung der Einbeziehung des Gleichstellungsaspekts in alle Politikbereiche</li>                <li>                   <b>Erleichterung des Austauschs bewährter Verfahren sowie Dialog zwischen den Beteiligten</b>                </li>                <li>                   <b>Sensibilisierung der Öffentlichkeit</b>                </li>             </ul>             <h2>Organisationsstruktur</h2>             <ul>                <li>                   <b>Verwaltungsrat</b> (Beschlussfassung)<br/> Verabschiedet das jährliche und mittelfristige Arbeitsprogramm und den Haushaltsplan.</li>                <li>                   <b>Sachverständigenbeirat</b> (Beratung)<br/> Unterstützt den Direktor.</li>                <li>                   <b>Direktor und Personal</b> (praktische Verwaltung)<br/> Der Direktor ist der gesetzliche Vertreter des Instituts. Er ist verantwortlich für die laufenden Geschäfte und die Durchführung des Arbeitsprogramms.</li>             </ul>             <h2>Mittelausstattung</h2>             <p>52,5 Millionen Euro (2007-13).</p>             <h2>Direktorin</h2>             <p>Virginija Langbakk</p>             <h2>Politischer Kontext</h2>             <p>Die Gleichstellung der Geschlechter ist ein Grundrecht. Unabhängig davon sind Fortschritte bei der Durchsetzung dieses Rechts für die EU eine Grundvoraussetzung für <b>Wirtschaftswachstum und sozialen Zusammenhalt</b>, die sich die EU zum Ziel gesetzt hat.</p>             <p>Die EU hat <b>in den letzten Jahrzehnten bedeutende Fortschritte</b> gemacht, auch wenn Ungleichbehandlung noch nicht völlig beseitigt ist. Diese Fortschritte wurden durch entsprechende Rechtsvorschriften, Einbeziehung der Geschlechtergleichstellung in alle Politikbereiche und Frauenförderungsmaßnahmen möglich.</p>"
+      ],
+      "el": [
+        "<h2>Καθήκοντα</h2>             <ul>                <li>συλλογή και ανάλυση συγκρίσιμων <b>στοιχείων</b> για θέματα ισότητας των φύλων</li>                <li>ανάπτυξη <b>μεθοδολογικών εργαλείων</b> που στοχεύουν κυρίως στην ένταξη της ισότητας των φύλων σε όλους τους τομείς πολιτικής</li>                <li>διευκόλυνση της <b>ανταλλαγής βέλτιστων πρακτικών</b> και του <b>διαλόγου</b> μεταξύ των ενδιαφερομένων</li>                <li>                   <b>ευαισθητοποίηση του κοινού</b>.</li>             </ul>             <h2>Όργανα του Ινστιτούτου</h2>             <ul>                <li>                   <b>Διοικητικό Συμβούλιο</b> (αρμοδιότητα λήψης αποφάσεων)<br/> Εγκρίνει το ετήσιο και μεσοπρόθεσμο πρόγραμμα δραστηριοτήτων και τον προϋπολογισμό.</li>                <li>                   <b>Φόρουμ εμπειρογνωμόνων</b>(συμβουλευτικός ρόλος)<br/> Στηρίζει το έργο του διευθυντή.</li>                <li>                   <b>Διευθυντής και προσωπικό</b> (εκτελεστικός ρόλος).<br/> Νόμιμος εκπρόσωπος του Ινστιτούτου, υπεύθυνος για την καθημερινή διαχείριση και εφαρμογή του προγράμματος δραστηριοτήτων.</li>             </ul>             <h2>Προϋπολογισμός</h2>             <p>52,5 εκατ. ευρώ (2007-13).</p>             <h2>Διευθύντρια</h2>             <p>Κα Virginija Langbakk</p>             <h2>Πλαίσιο πολιτικής</h2>             <p>Η ισότητα των φύλων δεν είναι μόνο θεμελιώδες δικαίωμα, αλλά και καθοριστικός παράγοντας για την επίτευξη των στόχων <b>οικονομικής ανάπτυξης και κοινωνικής συνοχής</b>.</p>             <p>Αν και εξακολουθούν να υπάρχουν ανισότητες, η ΕΕ έχει σημειώσει <b>σημαντική πρόοδο τις τελευταίες δεκαετίες</b>, γεγονός που οφείλεται κυρίως στη νομοθεσία και στην ένταξη της ισότητας των φύλων σε όλους τους τομείς πολιτικής, καθώς και στα συγκεκριμένα μέτρα που έχουν ληφθεί για την προώθηση των γυναικών.</p>"
+      ],
+      "en": [
+        "<h2>Tasks</h2>             <ul>                <li>collecting and analysing comparable <strong>data</strong> on gender issues</li>                <li>developing <strong>methodological tools</strong>, especially to help integrate gender equality in all policy areas</li>                <li>facilitating the <strong>sharing of best practice</strong> and <strong>dialogue</strong> among stakeholders</li>                <li>raising <strong>public awareness</strong>.</li>             </ul>             <h2>Bodies making up the Institute</h2>             <ul>                <li>                   <strong>Management Board</strong> (decision-making role)<br/> Adopts the annual and medium-term work programmes and the budget.</li>                <li>                   <strong>Experts' Forum</strong> (consultative role)<br/> Supports the Director's work.</li>                <li>                   <strong>Director and staff</strong> (executive role).<br/> The legal representative of the Institute, responsible for daily management and implementing the work programme.</li>             </ul>             <h2>Budget</h2>             <p>€52.5m (2007-13).</p>             <h2>Director</h2>             <p>Ms Virginija Langbakk</p>             <h2>Policy background</h2>             <p>Not only is gender equality a fundamental right – progress in this area is also vital for the EU to meet its goals of <strong>economic growth and social cohesion</strong>.</p>             <p>Although inequalities still exist, the EU has made <strong>significant progress in recent decades</strong>. This is mainly thanks to legislation and the inclusion of gender equality in all fields of public policy, as well as specific measures to advance women</p>"
+      ],
+      "es": [
+        "<h2>Tareas</h2>             <ul>                <li>recopilación y análisis de datos comparables sobre cuestiones de igualdad</li>                <li>desarrollo de instrumentos metodológicos, especialmente con vistas a integrar la igualdad en todas las políticas</li>                <li>intercambio de buenas prácticas y diálogo entre los interesados</li>                <li>sensibilización.</li>             </ul>             <h2>Órganos del Instituto</h2>             <ul>                <li>                   <strong>Consejo de Administración (función decisoria)</strong>                   <br/> Adopta los programas de trabajo anual y a medio plazo y el presupuesto.</li>                <li>                   <strong>Foro de expertos (función consultiva)</strong>                   <br/> Apoya la labor del Director.</li>                <li>                   <strong>Director y personal (función ejecutiva)</strong>                   <br/> Representante legal del Instituto, responsable de la gestión cotidiana y la ejecución del programa de trabajo.</li>             </ul>             <h2>Presupuesto</h2>             <p>52,5 millones de euros (2007-13).</p>             <h2>Directora</h2>             <p>Virginija Langbakk</p>             <h2>Contexto</h2>             <p>La igualdad no sólo es un derecho fundamental, sino también un factor vital para alcanzar los objetivos de crecimiento económico y cohesión social de la UE.</p>             <p>Aunque siguen existiendo desigualdades, la UE ha avanzado mucho en las últimas décadas, principalmente gracias a la legislación, a la inclusión de la igualdad en todos los ámbitos de las políticas y a medidas específicas para la mujer.</p>"
+      ],
+      "et": [
+        "<h2>Ülesanded:</h2>             <ul>                <li>sooküsimustega seotud võrreldavate andmete kogumine ja analüüsimine;</li>                <li>metodoloogiliste vahendite väljatöötamine, eelkõige selleks, et aidata integreerida soolist võrdõiguslikkust kõigisse poliitikavaldkondadesse;</li>                <li>parimate tavade jagamise ja sidusrühmade vahelise dialoogi hõlbustamine;</li>                <li>üldsuse teadlikkuse tõstmine.</li>             </ul>             <h2>Instituudi koosseisu kuuluvad:</h2>             <ul>                <li>                   <strong>haldusnõukogu</strong> (otsuste tegemise roll)<br/> Võtab vastu iga-aastased ja keskpikad tööprogrammid ning eelarve;</li>                <li>                   <strong>ekspertidest koosnev foorum</strong> (konsultatiivne roll)<br/> Toetab direktorit tema töös;</li>                <li>                   <strong>direktor ja töötajad</strong> (täidesaatev roll).<br/> Instituudi õiguslik esindaja, kes vastutab igapäevase haldamise ja tööprogrammide rakendamise eest.</li>             </ul>             <h2>Eelarve</h2>             <p>52,5 miljonit eurot (2007–2013).</p>             <h2>Direktor</h2>             <p>Virginija Langbakk</p>             <h2>Poliitikavaldkonna taust</h2>             <p>Sooline võrdõiguslikkus on üks põhiõigustest, kuid lisaks sellele on kõnealuses valdkonnas toimuv areng ELi jaoks väga oluline ka majanduskasvu ja sotsiaalse ühtekuuluvusega seotud eesmärkide saavutamisel.</p>             <p>EL on viimastel kümnenditel teinud küll suuri edusamme, kuid ebavõrdsust esineb ikka veel. Edusamme on tehtud peamiselt tänu õigusaktidele ja soolise võrdõiguslikkuse kaasamisele kõigisse poliitikavaldkondadesse, samuti naisi soodustavatele konkreetsetele meetmetele.</p>"
+      ],
+      "fi": [
+        "<h2>Tasa-arvoinstituutti</h2>             <ul>                <li>kerää, vertailee ja analysoi <strong>tietoja</strong> tasa-arvoasioista</li>                <li>kehittää <strong>menetelmiä</strong>, joiden avulla voidaan edistää sukupuolten tasa-arvoa kaikilla politiikan aloilla</li>                <li>edistää <strong>parhaiden toimintatapojen tuntemista</strong> ja <strong>tiedonvälitystä</strong> sidosryhmien kesken ja</li>                <li>                   <strong>tiedottaa</strong> tasa-arvokysymyksistä.</li>             </ul>             <h2>Instituutin hallinto</h2>             <ul>                <li>                   <strong>Hallintoneuvosto</strong> (päätöksenteko)<br/> Hallintoneuvosto hyväksyy vuosittaisen ja keskipitkän aikavälin työohjelman sekä talousarvion.</li>                <li>                   <strong>Asiantuntijaryhmä</strong> (neuvonanto)<br/> Asiantuntijaryhmä avustaa johtajaa tämän työssä.</li>                <li>                   <strong>Johtaja ja henkilökunta</strong> (toimeenpano).<br/> Johtaja toimii instituutin laillisena edustajana ja vastaa sen päivittäisestä hallinnoimisesta sekä työohjelman toteuttamisesta.</li>             </ul>             <h2>Talousarvio</h2>             <p>52,5 miljoonaa euroa (2007-13).</p>             <h2>Johtaja</h2>             <p>Virginija Langbakk</p>             <h2>Taustaa</h2>             <p>Sukupuolten tasa-arvo on perusoikeus. Tasa-arvon toteutuminen on erityisen tärkeää, jotta EU voi saavuttaa <strong>talouskasvua ja sosiaalista yhteenkuuluvuutta</strong> koskevat tavoitteensa.</p>             <p>Vaikka epätasa-arvoisuutta vielä ilmenee, EU:ssa on <strong>viime vuosikymmeninä edistytty huomattavasti</strong> tasa-arvoasioissa. Tuloksia on saavutettu lainsäädännön avulla ja ottamalla sukupuolten tasa-arvon edistäminen mukaan politiikan eri aloihin. Lisäksi naisten oikeuksia on edistetty erityistoimenpiteillä.</p>"
+      ],
+      "fr": [
+        "<h2>Tâches</h2>             <ul>                <li>recueillir et analyser des <b>données</b> comparables sur l'égalité hommes/femmes</li>                <li>développer des <b>outils méthodologiques</b>, en particulier dans le but de favoriser l'intégration de l'égalité hommes/femmes dans tous les domaines politiques</li>                <li>faciliter l'<b>échange de bonnes pratiques</b> et le <b>dialogue</b> entre acteurs concernés</li>                <li>effectuer un travail de <b>sensibilisation</b>                </li>             </ul>             <h2>Organes constitutifs</h2>             <ul>                <li>                   <b>Le conseil d'administration</b> (organe de décision)<br/> Il adopte les programmes de travail annuels et à moyen terme ainsi que le budget de l'institut.</li>                <li>                   <b>Le forum d'experts</b> (organe consultatif)<br/> Il assiste le directeur de l'institut.</li>                <li>                   <b>Le directeur et le personnel de l'institut</b> (rôle exécutif)<br/> Le directeur est le représentant légal de l'institut. Il est responsable de la gestion quotidienne et de la mise en œuvre du programme de travail.</li>             </ul>             <h2>Budget</h2>             <p>52,5 millions d'euros sur la période 2007-2013         </p>             <h2>Directrice</h2>             <p>Mme Virginija Langbakk</p>             <h2>Contexte politique</h2>             <p>L'égalité entre les hommes et les femmes n'est pas seulement un droit fondamental, elle est également une condition nécessaire à la réalisation de l'objectif de <b>croissance économique</b> et de <b>cohésion sociale</b> que s'est fixé l'Union.</p>             <p>Bien que des inégalités subsistent, l'UE a réalisé des <b>progrès significatifs ces dernières années</b>, en particulier grâce à l'évolution de la législation et à l'inclusion de l'égalité hommes/femmes dans tous les domaines politiques, ainsi qu'à l'application de mesures spécifiques en faveur des femmes.</p>"
+      ],
+      "ga": [
+        "<h2>Cúraimí</h2>             <ul>                <li>sonraí inchomparáide a bhailiú agus anailís a dhéanamh <strong>orthu</strong> maidir le saincheisteanna inscne</li>                <li>uirlisí modheolaíochta <strong>a fhorbairt</strong>, go háirithe chun comhionannas inscne a lánpháirtiú i ngach réimse beartais</li>                <li>comhroinnt an <strong>dea-chleachtais</strong> agus <strong>idirphlé</strong> i measc páirtithe leasmhara a éascú</li>                <li>feasacht an phobail <strong>a mhúscailt</strong>.</li>             </ul>             <h2>Comhlachtaí atá ina gcuid den Institiúid</h2>             <ul>                <li>                   <strong>Bord Bainistíochta</strong> (ról cinnteoireachta)<br/> Glacann sé le cláir oibre bhliantúla agus meántéarmacha agus leis an mbuiséad. </li>                <li>                   <strong>Fóram Saineolaithe</strong> (ról comhairleach)<br/> Tacaíonn sé le hobair an Stiúrthóra.</li>                <li>                   <strong>Stiúrthóir agus foireann</strong> (ról feidhmiúcháin).<br/> Ionadaí dlí na hInstitiúide, freagrach as bainistiú laethúil agus as an gclár oibre a chur chun feidhme. </li>             </ul>             <h2>Buiséad</h2>             <p>€52.5m (2007-13).</p>             <h2>Stiúrthóir</h2>             <p>Virginija Langbakk, Uasal</p>             <h2>Cúlra beartais</h2>             <p>Ní amháin gur ceart bunúsach é comhionannas inscne - is den riachtanas é dul chun cinn a dhéanamh sa réimse seo má tá an AE chun a spriocanna <strong>maidir le fás eacnamaíoch agus comhtháthú sóisialta a chomhlíonadh</strong>.</p>             <p>Cé go bhfuil éagothromachtaí ann fós, tá dul chun cinn nach beag <strong>déanta ag an AE le fiche nó tríocha bliain anuas</strong>. An reachtaíocht agus cuimsiú an chomhionannais inscne i ngach réimse den bheartas poiblí, mar aon le bearta ar leith chun mná a chur ar aghaidh, is cúis leis sin don chuid is mó</p>"
+      ],
+      "hr": [
+        "<h2>Zadaće</h2>             <ul>                <li>prikupljanje i analiza usporedivih <strong>podataka</strong> u vezi s ravnopravnošću spolova</li>                <li>razvoj <strong>metodoloških alata</strong>, posebno kako bi se pridonijelo integriranju ravnopravnosti spolova u sve politike</li>                <li>poticanje <strong>razmjene primjera najbolje prakse</strong> i promicanje <strong>dijaloga</strong> među dionicima</li>                <li>                   <strong>osvješćivanje javnosti</strong>                </li>             </ul>             <h2>Tijela Instituta</h2>             <ul>                <li>                   <strong>upravni odbor</strong> (organ koji odlučuje)<br/> Donosi godišnje i srednjoročne programe rada i proračun.</li>                <li>                   <strong>stručni forum</strong> (savjetodavni organ)<br/> Podržava rad direktora.</li>                <li>                   <strong>direktor i osoblje</strong> (izvršni organi)<br/> Pravni zastupnik Instituta, odgovoran za svakodnevno upravljanje i provedbu programa rada.</li>             </ul>             <h2>Proračun</h2>             <p>52,5 milijuna eura (2007. - 2013.)</p>             <h2>Direktorica</h2>             <p>Virginija Langbakk</p>             <h2>Pozadina politike</h2>             <p>Ravnopravnost spolova nije samo temeljno pravo nego je i napredak u tome području ključan za postizanje EU-ovih ciljeva <strong>gospodarskoga rasta i socijalne kohezije</strong>.</p>             <p>Iako neravnopravnost još uvijek postoji, EU je <strong>tijekom posljednjih desetljeća ostvario znatan napredak</strong>. To je postignuto donošenjem odgovarajućih propisa, uključivanjem ravnopravnosti spolova u sve javne politike i posebnim mjerama za poboljšanje položaja žena.</p>"
+      ],
+      "hu": [
+        "<h2>Feladatok</h2>             <ul>                <li>a nemekkel kapcsolatos kérdésekre vonatkozó összehasonlítható adatok gyűjtése és elemzése,</li>                <li>módszertani eszközök kidolgozása, főképpen a nemek közötti esélyegyenlőség valamennyi szakpolitikába történő integrálásának elősegítése céljából,</li>                <li>az érdekelt felek közötti információcsere és párbeszéd előmozdítása,</li>                <li>társadalmi tudatosítás.</li>             </ul>             <h2>Az intézmény felépítése</h2>             <ul>                <li>Igazgatótanács (döntéshozatali szerep)<br/> Az igazgatótanács fogadja el az éves és a középtávú munkaprogramot, valamint a költségvetést.</li>                <li>Szakértői fórum (tanácsadó szerep)<br/> A fórum az elnök munkáját segíti.</li>                <li>Az elnök és munkatársai (végrehajtó szerep)<br/> Az ügynökség jogi képviselőjeként az elnök a napi ügyvitelért és a munkaprogram végrehajtásáért felelős.</li>             </ul>             <h2>Költségvetés</h2>             <p>52,5 millió EUR(2007-13).</p>             <h2>Elnök</h2>             <p>Virginija Langbakk</p>             <h2>Szakpolitikai háttér</h2>             <p>A nemek közötti esélyegyenlőség nem csupán alapvető emberi jog. Azért is rendkívül fontos eredményeket elérni ezen a területen, hogy az EU meg tudja valósítani a növekedésre és a szociális kohézióra irányuló célkitűzéseit.</p>             <p>Noha léteznek még egyenlőtlenségek, az EU az elmúlt évtizedekben jelentős előrehaladást ért el ezen a területen. Ez legfőképpen a jogszabályoknak és a nők előmenetelét támogató különleges intézkedéseknek volt köszönhető, illetve annak, hogy az EU a nemek közötti esélyegyenlőség elvét valamennyi szakpolitikába beillesztette.</p>"
+      ],
+      "it": [
+        "<h2>Compiti</h2>             <ul>                <li>raccogliere e analizzare <b>dati</b> comparabili</li>                <li>sviluppare <b>strumenti metodologici</b>, in particolare per integrare l'uguaglianza di genere in tutte le politiche</li>                <li>facilitare lo <b>scambio di buone pratiche</b> e il <b>dialogo</b> tra i portatori di interesse</li>                <li>                   <b>sensibilizzare il pubblico</b>.</li>             </ul>             <h2>Organi dell'istituto</h2>             <ul>                <li>                   <b>Consiglio di amministrazione</b> (organo decisionale)<br/> Adotta il programma di lavoro annuale e quello a medio termine e il bilancio.</li>                <li>                   <b>Forum di esperti</b> (organo consultivo)<br/> Assiste il direttore.</li>                <li>                   <b>Direttore e personale</b> (funzioni esecutive)<br/> Il direttore è il rappresentante legale dell'Istituto ed è responsabile della gestione corrente e dell'attuazione del programma di lavoro.</li>             </ul>             <h2>Bilancio</h2>             <p>52,5 milioni di euro (2007-13).</p>             <h2>Direttore</h2>             <p>Virginija Langbakk</p>             <h2>Contesto politico</h2>             <p>La parità uomo-donna non è soltanto un diritto fondamentale, ma anche una condizione essenziale perché l'UE possa conseguire i suoi obiettivi in materia di <b>crescita economica e coesione sociale</b>.</p>             <p>Anche se le diseguaglianze persistono, l'UE ha compiuto <b>notevoli progressi negli ultimi decenni</b>, soprattutto grazie a nuove leggi e all'integrazione dei principi di uguaglianza di genere in tutte le politiche, nonché a misure specifiche per la promozione delle donne.</p>"
+      ],
+      "lt": [
+        "<h2>Uždaviniai</h2>             <ul>                <li>Rinkti ir analizuoti palyginamus <b>duomenis</b> lyčių klausimais</li>                <li>Rengti <b>metodines priemones</b>, ypač siekiant skatinti lyčių lygybę visose politikos srityse</li>                <li>Sudaryti geresnes sąlygas suinteresuotosioms šalims <b>dalytis patirtimi</b> ir <b>diskutuoti</b>                </li>                <li>Geriau <b>informuoti visuomenę</b>                </li>             </ul>             <h2>Instituto sudėtis</h2>             <ul>                <li>                   <b>Valdymo taryba</b> (sprendimų priėmimo vaidmuo)<br/> Priima metines bei vidutinės trukmės darbo programas ir tvirtina biudžetą.</li>                <li>                   <b>Ekspertų forumas</b> (patariamasis vaidmuo)<br/> Padeda instituto direktoriui.</li>                <li>                   <b>Direktorius ir darbuotojai</b> (vykdomasis vaidmuo)<br/> Direktorius yra teisinis instituto atstovas, atsakingas už kasdienį valdymą ir darbo programos įgyvendinimą.</li>             </ul>             <h2>Biudžetas</h2>             <p>52,5 mln. eurų (2007-13).</p>             <h2>Direktorius</h2>             <p>Virginija Langbakk</p>             <h2>Politinės aplinkybės</h2>             <p>Lyčių lygybė – ne tik pagrindinė teisė. Pažanga šioje srityje taip pat itin svarbi, kad Europos Sąjunga galėtų pasiekti <b>ekonomikos augimo ir socialinės sanglaudos</b> tikslus.</p>             <p>Nors nelygybės tebesama, <b>pastaraisiais dešimtmečiais ES daug nuveikė</b>. Rezultatų daugiausia pasiekta patobulinus teisės aktus, pradėjus skatinti lyčių lygybę visose viešosios politikos srityse ir ėmusis konkrečių moterų padėties gerinimo priemonių.</p>"
+      ],
+      "lv": [
+        "<h2>Uzdevumi</h2>             <ul>                <li>Vākt un analizēt salīdzināmus <b>datus</b> par dzimumu jautājumiem.</li>                <li>Izstrādāt <b>metodi</b>, kas ļautu visās politikas jomās iekļaut dzimumu līdztiesības aspektus.</li>                <li>                   <b>Veicināt apmaiņu ar labas prakses piemēriem un dialogu starp ieinteresētajām personām.</b>                </li>                <li>                   <b>Vairot sabiedrības izpratni.</b>                </li>             </ul>             <h2>Institūta organizatoriskā struktūra</h2>             <ul>                <li>                   <b>Valde</b> (lēmumu pieņemšana)<br/> Pieņem ikgadējās un vidēja termiņa darba programmas un budžetu.</li>                <li>                   <b>Ekspertu forums</b> (konsultēšana)<br/> Palīdz direktoram.</li>                <li>                   <b>Direktors un personāls</b> (izpildfunkcija)<br/> Direktors ir institūta juridiskais pārstāvis. Viņa ziņā ir ikdienas darba vadība un darba programmas izpilde.</li>             </ul>             <h2>Budžets</h2>             <p>52,5 miljoni eiro (2007-13).</p>             <h2>Direktore</h2>             <p>Virginija Langbakk</p>             <h2>Politiskais konteksts</h2>             <p>Dzimumu līdztiesība nav tikai pamattiesības. Progress šajā jomā ir vitāli svarīgs, lai ES varētu sasniegt savus <b>ekonomiskās izaugsmes un sociālās kohēzijas mērķus</b>.</p>             <p>Lai gan nevienlīdzība joprojām pastāv, pēdējos gadu desmitos ES panākusi būtisku progresu, galvenokārt pateicoties likumdošanai, dzimumlīdztiesības aspektu iekļaušanai visās politikas jomās, kā arī īpašiem pasākumiem, kuru mērķis ir atbalstīt sievietes.</p>"
+      ],
+      "mt": [
+        "<h2>Kompiti</h2>             <ul>                <li>ġbir u analiżi ta' dejta kumparabbli dwar kwistjonijiet tas-sessi</li>                <li>żvilupp ta' għodod metodoloġiċi, speċjalment biex jgħinu fl-integrazzjoni tal-ugwaljanza bejn is-sessi fl-oqsma kollha ta' politika</li>                <li>faċilitar tat-tqassim tal-aħjar prassi u djalogar fost il-partijiet interessati</li>                <li>żgurar tal-kuxjenza pubblika</li>             </ul>             <h2>Entitajiet inklużi fl-Istitut</h2>             <ul>                <li>Bord tat- Tmexxija (rwol deċiżiv)<br/> Jadotta l-programmi ta' ħidma annwali u ta' terminu medju kif ukoll il-baġit.</li>                <li>Forum ta' Esperti (rwol konsultattiv)<br/> Jappoġġa l-ħidma tad-Direttur.</li>                <li>Direttur u staff (rwol eżekuttiv).<br/> Ir-rappreżentant tal-Istitut, responsabbli għat-tmexxija ta' kuljum u l-implementazzjoni tal-programm ta' ħidma.</li>             </ul>             <h2>Baġit</h2>             <p>€52.5m (2007-13).</p>             <h2>Direttur</h2>             <p>Is-Sinjura Virginija Langbakk</p>             <h2>Kuntest politiku</h2>             <p>L-ugwaljanza bejn is-sessi mhix talli hija dritt fundamentali - il-progress f'dan il-qasam huwa vitali wkoll għall-UE biex tilħaq l-għanijiet dwar it-tkabbir ekonomiku u l-koeżjoni soċjali.</p>             <p>Għalkemm l-inugwaljanzi għadhom jeżistu, l-UE għamlet progress sinifikanti f'dawn l-aħħar diċennji. Dan huwa sforz tal-leġiżlazzjoni u l-inklużjoni tal-ugwaljanza bejn is-sessi fl-oqsma kollha tal-politika pubblika, kif ukoll il-miżuri speċifiċi biex jaġevolaw lill-mara.</p>"
+      ],
+      "nl": [
+        "<h2>Taken</h2>             <ul>                <li>het verzamelen en analyseren van vergelijkbare gegevens over genderkwesties</li>                <li>het ontwikkelen van hulpmiddelen om gendergelijkheid te integreren in alle beleidsterreinen</li>                <li>het helpen uitwisselen van goede werkwijzen en een dialoog tussen belanghebbenden vergemakkelijken</li>                <li>publieksvoorlichting</li>             </ul>             <h2>Organen van het Instituut</h2>             <ul>                <li>Raad van bestuur (besluitvorming)<br/> Neemt besluiten over de jaarlijkse werkprogramma's, werkprogramma's voor de middellange termijn en de begroting.</li>                <li>Deskundigenforum (advies)<br/> Ondersteunt de directeur.</li>                <li>Directeur en personeel (uitvoering)<br/> De juridisch vertegenwoordiger van het Instituut, verantwoordelijk voor het dagelijks beheer en uitvoering van het werkprogramma.</li>             </ul>             <h2>Budget</h2>             <p>52,5 miljoen euro (2007-13).</p>             <h2>Directeur</h2>             <p>Mevr. Virginija Langbakk</p>             <h2>Achtergrond van het beleid</h2>             <p>Gendergelijkheid is niet alleen een grondrecht, zonder vooruitgang op dit terrein kan de EU haar doelen op het gebied van economische groei en sociale samenhang niet bereiken.</p>             <p>Hoewel er nog wel ongelijkheid is, heeft de EU de afgelopen decennia al aanzienlijke vooruitgang geboekt. Dit is voornamelijk te danken aan wetgeving, het opnemen van gendergelijkheid in al het openbare beleid en positieve discriminatie van vrouwen.</p>"
+      ],
+      "pl": [
+        "<h2>Zadania</h2>             <ul>                <li>Gromadzenie i analiza porównywalnych danych na temat równości mężczyzn i kobiet</li>                <li>Opracowywanie metod służących wspieraniu włączania problematyki równości kobiet i mężczyzn do wszystkich obszarów polityki</li>                <li>Ułatwianie wymiany sprawdzonych rozwiązań i dialogu między zainteresowanymi stronami</li>                <li>Uwrażliwianie społeczeństwa na problematykę równości kobiet i mężczyzn</li>             </ul>             <h2>Organy wchodzące w skład Instytutu</h2>             <ul>                <li>Zarząd (podejmowanie decyzji)<br/> Przyjmuje roczny i średnioterminowy program prac Instytutu oraz jego budżet.</li>                <li>Forum ekspertów (rola doradcza)<br/> Wspiera pracę dyrektora.</li>                <li>Dyrektor i pracownicy (rola wykonawcza)<br/> Prawny przedstawiciel Instytutu odpowiedzialny za bieżące zarządzanie programem prac i jego wdrażanie.</li>             </ul>             <h2>Budżet</h2>             <p>52,5 mln euro (2007-13).</p>             <h2>Dyrektor</h2>             <p>Virginija Langbakk</p>             <h2>Kontekst polityczny</h2>             <p>Równość kobiet i mężczyzn to jedno z praw podstawowych UE. Dalszy rozwój w tej dziedzinie ma decydujące znaczenie dla osiągania celów w zakresie wzrostu gospodarczego i spójności społecznej, jakie wyznaczyła sobie UE.</p>             <p>Mimo że nadal zdarzają się przypadki nierównego traktowania kobiet i mężczyzn, UE zrobiła w ostatnich dziesięcioleciach znaczne postępy. Było to możliwe głównie dzięki odpowiednim przepisom prawnym, uwzględnianiu równości kobiet i mężczyzn we wszystkich obszarach polityki oraz konkretnym działaniom na rzecz wzmacniania pozycji kobiet.</p>"
+      ],
+      "pt": [
+        "<h2>Funções</h2>             <ul>                <li>recolher e analisar <b>dados</b> comparáveis sobre questões de género;</li>                <li>desenvolver <b>instrumentos metodológicos</b> para promover a integração da igualdade de género em todos os domínios políticos;</li>                <li>promover a <b>partilha de boas práticas</b> e o <b>diálogo</b> entre as partes interessadas;</li>                <li>sensibilizar a <b>opinião pública.</b>                </li>             </ul>             <h2>Órgãos constitutivos do instituto</h2>             <ul>                <li>                   <b>Conselho de Administração</b> (poder de decisão)<br/> Adopção do programa de trabalho anual e a médio prazo e do orçamento.</li>                <li>                   <b>Fórum de Peritos</b> (órgão consultivo)<br/> Apoio ao Director.</li>                <li>                   <b>Director e respectiva equipa de colaboradores</b> (órgão executivo) Representante legal do Instituto, responsável pela gestão dos assuntos correntes e pela execução do programa de trabalho.</li>             </ul>             <h2>Orçamento</h2>             <p>52,5 milhões de euros(2007-13).</p>             <h2>Directora</h2>             <p>Virginija Langbakk</p>             <h2>Contexto político</h2>             <p>A igualdade entre homens e mulheres é um direito fundamental. Os progressos neste domínio são fundamentais para a UE atingir os seus objectivos de <b>crescimento económico e de coesão social</b>.</p>             <p>Apesar de ainda existirem desigualdades, a UE realizou <b>progressos significativos nas últimas décadas</b>, graças sobretudo a legislação e à inclusão da igualdade de género em todos os domínios políticos, assim como a medidas específicas para promover as mulheres.</p>"
+      ],
+      "ro": [
+        "<h2>Sarcini</h2>             <ul>                <li>culegerea şi analizarea datelor <strong>comparabile</strong> referitoare la chestiunile de egalitate între femei şi bărbaţi</li>                <li>dezvoltarea <strong>de instrumente metodologice</strong>, în special în scopul de a facilita integrarea egalităţii între femei şi bărbaţi în toate domeniile politice</li>                <li>facilitarea <strong>schimbului de bune practici</strong> şi <strong>a dialogului</strong> între părţile interesate</li>                <li>sensibilizarea <strong>opiniei publice</strong>.</li>             </ul>             <h2>Organismele constitutive ale Institutului</h2>             <ul>                <li>                   <strong>Consiliul de administraţie</strong> (rol decizional)<br/> Adoptă programele de lucru anuale şi pe termen mediu şi bugetul.</li>                <li>                   <strong>Forumul experţilor</strong> (rol consultativ)<br/> Asistă activitatea Directorului institutului.</li>                <li>                   <strong>Directorul şi personalul institutului</strong> (rol executiv).<br/> Este reprezentantul legal al institutului, responsabil cu administrarea activităţilor curente şi cu punerea în aplicare a programului de lucru.</li>             </ul>             <h2>Buget</h2>             <p>52,5 de milioane EUR (pentru perioada 2007-2013).</p>             <h2>Director</h2>             <p>Dra. Virginija Langbakk</p>             <h2>Context politic</h2>             <p>Egalitatea între femei şi bărbaţi nu este numai un drept fundamental - progresele în acest domeniu sunt, de asemenea, vitale pentru ca UE să îşi atingă obiectivele de <strong>creştere economică şi coeziune socială</strong>.</p>             <p>Deşi încă mai există inegalităţi, UE a înregistrat <strong>progrese semnificative în ultimele decenii</strong>. Acestea se datorează în principal legislaţiei şi includerii egalităţii între femei şi bărbaţi în toate domeniile politicii publice, precum şi aplicării de măsuri specifice în favoarea femeilor.</p>"
+      ],
+      "sk": [
+        "<h2>Úlohy</h2>             <ul>                <li>zber a analýza porovnateľných <b>údajov</b> o otázkach rovnosti mužov a žien;</li>                <li>tvorba <b>metodických nástrojov</b> určených predovšetkým na pomoc pri začleňovaní otázok rodovej rovnosti do všetkých oblastí politiky;</li>                <li>uľahčovanie <b>výmeny osvedčených postupov</b> a podpora <b>komunikácie</b> medzi zainteresovanými stranami;</li>                <li>zvyšovanie <b>povedomia verejnosti</b> o otázkach rodovej rovnosti.</li>             </ul>             <h2>Riadiace orgány inštitútu</h2>             <ul>                <li>                   <b>Správna rada</b> (rozhodovacia úloha)<br/> Schvaľuje ročné a strednodobé pracovné plány a rozpočet.</li>                <li>                   <b>Fórum odborníkov</b> (poradná úloha)<br/> Poskytuje poradenstvo riaditeľovi inštitútu.</li>                <li>                   <b>Riaditeľ a zamestnanci</b> (výkonná úloha)<br/> Štatutárny zástupca inštitútu, ktorý zodpovedá za jeho každodenné riadenie a uplatňovanie pracovného plánu.</li>             </ul>             <h2>Rozpočet</h2>             <p>52,5 milióna EUR(2007-13).</p>             <h2>Riaditeľka</h2>             <p>Ms Virginija Langbakk</p>             <h2>Politické východiská</h2>             <p>Rovnosť medzi mužmi a ženami patrí medzi základné práva. Vývoj v tejto oblasti je zároveň nevyhnutný aj z hľadiska dosahovania cieľov <b>hospodárskeho rastu a sociálnej súdržnosti</b> EÚ.</p>             <p>Napriek pretrvávajúcim rozdielom dosiahla EÚ v otázke rovnosti mužov a žien <b>v uplynulých desaťročiach významný pokrok</b>. Za týmto úspechom stojí hlavne uplatňovanie právnych predpisov a začlenenie otázok rodovej rovnosti do všetkých oblastí politiky, ako aj osobitné opatrenia na zlepšenie postavenia žien.</p>"
+      ],
+      "sl": [
+        "<h2>Delo</h2>             <ul>                <li>zbiranje in analiziranje primerljivih <b>podatkov</b> v zvezi z moškimi in ženskami;</li>                <li>razvijanje <b>metodoloških orodij</b>, predvsem za vključevanje načela enakosti med spoloma v vse politike;</li>                <li>omogočanje <b>izmenjave najboljših praks</b> in <b>dialoga</b> med zainteresiranimi stranmi;</li>                <li>                   <b>javno opozarjanje</b> na vprašanja enakosti med spoloma.</li>             </ul>             <h2>Organi Inštituta</h2>             <ul>                <li>                   <b>upravni odbor</b> (organ odločanja)<br/> Letni in srednjeročni programi dela in proračun.</li>                <li>                   <b>strokovni svet</b> (posvetovalni organ)<br/> Pomoč direktorju pri delu.</li>                <li>                   <b>direktor z osebjem</b> (izvršilni organ)<br/> Zakoniti predstavnik inštituta, pristojen za vsakodnevno vodenje in izvajanje programa dela.</li>             </ul>             <h2>Proračun</h2>             <p>52,5 milijona EUR (2007-13).</p>             <h2>Direktorica</h2>             <p>Virginija Langbakk</p>             <h2>Osnovni podatki o politiki</h2>             <p>Enakost med spoloma ni le temeljna pravica. Uresničevanje tega načela je bistvenega pomena, če naj EU izpolni cilje glede gospodarske rasti in socialne kohezije.</p>             <p>Kljub nekaterim neodpravljenim neenakostim je Evropska unija v zadnjih desetletjih dosegla velik napredek na tem področju, predvsem z zakonodajo in vključevanjem načela enakosti med spoloma v vse javne politike ter s posebnimi ukrepi v prid ženskam.</p>"
+      ],
+      "sv": [
+        "<h2>Institutet ska</h2>             <ul>                <li>samla in och analysera jämförbara <b>uppgifter</b> om könsrollsfrågor</li>                <li>ta fram <b>metoder och metodologiska verktyg</b>, i synnerhet för att bidra till att jämställdhetsaspekten integreras i alla politikområden</li>                <li>underlätta <b>utbyte av goda lösningar</b> och föra <b>dialog</b> med de verksamma på området</li>                <li>öka <b>allmänhetens kunskap</b> om jämställdhet.</li>             </ul>             <h2>Institutet består av</h2>             <ul>                <li>                   <b>Styrelsen</b> (beslutsfattande organ)<br/> Antar det årliga och det långsiktiga arbetsprogrammet samt budgeten</li>                <li>                   <b>Expertforumet</b> (rådgivande organ)<br/> Bistår direktören</li>                <li>                   <b>Direktör och personal</b> (verkställande organ).<br/> Institutets juridiska företrädare som ansvarar för det dagliga arbetet och ser till att arbetsprogrammet genomförs</li>             </ul>             <h2>Budget</h2>             <p>52,5 miljoner euro (2007-13).</p>             <h2>Direktör</h2>             <p>Virginija Langbakk</p>             <h2>Politisk bakgrund</h2>             <p>Jämställdhet är en grundläggande rättighet. Det är också viktigt att EU ökar jämställdheten för att kunna uppnå sina mål för <b>ekonomisk tillväxt och social sammanhållning</b>.</p>             <p>Jämställdheten är ännu inget faktum överallt i EU, men det har gjorts <b>stora framsteg de senaste årtiondena</b>. Det beror framför allt på den lagstiftning som har införts och på att jämställdhetsaspekten numera ingår i alla politikområden. EU har också gjort särskilda insatser för kvinnor.</p>"
+      ]
+    },
+    "left_sub_menu": {
+      "und": [
+        true
+      ]
+    }
+  }
+}

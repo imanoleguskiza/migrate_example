@@ -1,0 +1,201 @@
+{
+    "_id": "5280d628894349988a261892f0db0165",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "und",
+        "es",
+        "fr",
+        "ga",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "hr"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2009-06-25 18:15:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                3
+            ]
+        },
+        "parent": {
+            "und": [
+                "9aa172876614e9a2fd4792770fed2481"
+            ]
+        },
+        "level": {
+            "und": [
+                3
+            ]
+        },
+        "title": {
+            "bg": [
+                "Селско стопанство"
+            ],
+            "cs": [
+                "Zemědělství"
+            ],
+            "da": [
+                "Landbrug"
+            ],
+            "de": [
+                "Landwirtschaft"
+            ],
+            "el": [
+                "Γεωργία"
+            ],
+            "und": [
+                "Agriculture"
+            ],
+            "es": [
+                "Agricultura"
+            ],
+            "et": [
+                "Põllumajandus"
+            ],
+            "fi": [
+                "Maatalous"
+            ],
+            "fr": [
+                "Agriculture"
+            ],
+            "ga": [
+                "Talmhaíocht"
+            ],
+            "hr": [
+                "Poljoprivreda"
+            ],
+            "hu": [
+                "Mezőgazdaság"
+            ],
+            "it": [
+                "Agricoltura"
+            ],
+            "lt": [
+                "Žemės ūkis"
+            ],
+            "lv": [
+                "Lauksaimniecība"
+            ],
+            "mt": [
+                "Agrikoltura"
+            ],
+            "nl": [
+                "Landbouw"
+            ],
+            "pl": [
+                "Rolnictwo"
+            ],
+            "pt": [
+                "Agricultura"
+            ],
+            "ro": [
+                "Agricultură"
+            ],
+            "sk": [
+                "Poľnohospodárstvo"
+            ],
+            "sl": [
+                "Kmetijstvo"
+            ],
+            "sv": [
+                "Jordbruk"
+            ]
+        },
+        "link": {
+            "bg": [
+                "pol/agr"
+            ],
+            "cs": [
+                "pol/agr"
+            ],
+            "da": [
+                "pol/agr"
+            ],
+            "de": [
+                "pol/agr"
+            ],
+            "el": [
+                "pol/agr"
+            ],
+            "und": [
+                "pol/agr"
+            ],
+            "es": [
+                "pol/agr"
+            ],
+            "et": [
+                "pol/agr"
+            ],
+            "fi": [
+                "pol/agr"
+            ],
+            "fr": [
+                "pol/agr"
+            ],
+            "ga": [
+                "pol/agr"
+            ],
+            "hr": [
+                "pol/agr"
+            ],
+            "hu": [
+                "pol/agr"
+            ],
+            "it": [
+                "pol/agr"
+            ],
+            "lt": [
+                "pol/agr"
+            ],
+            "lv": [
+                "pol/agr"
+            ],
+            "mt": [
+                "pol/agr"
+            ],
+            "nl": [
+                "pol/agr"
+            ],
+            "pl": [
+                "pol/agr"
+            ],
+            "pt": [
+                "pol/agr"
+            ],
+            "ro": [
+                "pol/agr"
+            ],
+            "sk": [
+                "pol/agr"
+            ],
+            "sl": [
+                "pol/agr"
+            ],
+            "sv": [
+                "pol/agr"
+            ]
+        }
+    }
+}

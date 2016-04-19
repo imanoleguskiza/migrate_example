@@ -1,0 +1,2515 @@
+{
+  "_id": "1cefa7f5e2c2d5eab460573ae4830c1f",
+  "type": "common_page",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "sv"
+  ],
+  "fields": {
+    "meta_title": {
+      "bg": [
+        "EUROPA - Официалният уебсайт на Европейския съюз"
+      ],
+      "cs": [
+        "EUROPA - Oficiální internetové stránky Evropské unie"
+      ],
+      "da": [
+        "EUROPA - EU's officielle websted"
+      ],
+      "de": [
+        "EUROPA - die offizielle Website der Europäischen Union"
+      ],
+      "el": [
+        "EUROPA - O επίσημος δικτυακός τόπος της Ευρωπαϊκής Ένωσης"
+      ],
+      "en": [
+        "EUROPA - European Union website, the official EU website"
+      ],
+      "es": [
+        "EUROPA - La web oficial de la Unión Europea"
+      ],
+      "et": [
+        "EUROPA - Euroopa Liidu ametlik veebisait"
+      ],
+      "fi": [
+        "EUROPA - Euroopan unionin virallinen verkkosivusto"
+      ],
+      "fr": [
+        "EUROPA - Le site web officiel de l'Union européenne"
+      ],
+      "ga": [
+        "EUROPA - Suíomh gréasáin oifigiúil an Aontais Eorpaigh"
+      ],
+      "hr": [
+        "EUROPA - Web-stranica Europske unije, službena stranica EU-a"
+      ],
+      "hu": [
+        "EUROPA - Az Európai Unió hivatalos portálja"
+      ],
+      "it": [
+        "EUROPA - Il sito ufficiale dell'Unione europea"
+      ],
+      "lt": [
+        "EUROPA - oficiali Europos Sąjungos interneto svetainė"
+      ],
+      "lv": [
+        "EUROPA - Eiropas Savienības oficiālā tīmekļa vietne"
+      ],
+      "mt": [
+        "EUROPA - Is-sit web uffiċjali tal-Unjoni Ewropea"
+      ],
+      "nl": [
+        "EUROPA - De officiële website van de Europese Unie"
+      ],
+      "pl": [
+        "EUROPA - Oficjalny portal Unii Europejskiej"
+      ],
+      "pt": [
+        "EUROPA - O portal oficial da União Europeia"
+      ],
+      "ro": [
+        "EUROPA - Site-ul oficial al Uniunii Europene"
+      ],
+      "sk": [
+        "EUROPA - Oficiálne webové stránky Európskej únie"
+      ],
+      "sl": [
+        "EUROPA - Uradni portal Evropske unije"
+      ],
+      "sv": [
+        "EUROPA - EU:s officiella webbplats"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "EUROPA е официалният уебсайт на Европейския съюз и предоставя достъп до информация, публикувана от всички институции, агенции и органи на ЕС"
+      ],
+      "cs": [
+        "Portál EUROPA jsou oficiální internetové stránky Evropské unie, které poskytují přístup k informacím zveřejňovaným všemi orgány, agenturami a institucemi EU."
+      ],
+      "da": [
+        "EUROPA er EU&apos;s officielle websted med information fra alle EU&apos;s institutioner, agenturer og organer."
+      ],
+      "de": [
+        "EUROPA ist die offizielle Website der Europäischen Union. Sie bietet Zugang zu Informationen, die von den Institutionen, Agenturen und Einrichtungen der EU veröffentlicht werden."
+      ],
+      "el": [
+        "Ο EUROPA είναι ο επίσημος δικτυακός τόπος της Ευρωπαϊκής Ένωσης όπου θα βρείτε όλες τις πληροφορίες που δημοσιεύουν τα όργανα και οι οργανισμοί της."
+      ],
+      "en": [
+        "European Union website - EUROPA is the official EU website that provides access to information published by all EU institutions, agencies and bodies."
+      ],
+      "es": [
+        "EUROPA es la web oficial de la Unión Europea y da acceso a la información publicada por todas las instituciones, agencias y organismos de la UE."
+      ],
+      "et": [
+        "EUROPA on Euroopa Liidu ametlik veebisait ja selle kaudu on võimalik ligi pääseda kõikide ELi institutsioonide, ametite ja asutuste poolt avaldatavale teabele."
+      ],
+      "fi": [
+        "Europa on Euroopan unionin virallinen verkkosivusto, jonka kautta voi tutustua EU:n toimielinten, virastojen ja muiden elinten julkaisemiin tietoihin."
+      ],
+      "fr": [
+        "EUROPA est le site web officiel de l&apos;Union européenne. Il donne accès à l&apos;information publiée par les institutions, agences et organes de l&apos;UE."
+      ],
+      "ga": [
+        "Suíomh gréasáin oifigiúil an Aontais Eorpaigh is ea EUROPA, is tugann sé rochtain ar eolas a fhoilsíonn institiúidí, gníomhaireachtasí is comhlachtaí uile an AE."
+      ],
+      "hr": [
+        "Web-stranica Europske unije, službena stranica EU-a koja omogucuje pristup informacijama objavljene od svih institucija, agencije i tijela EU-a"
+      ],
+      "hu": [
+        "Az EUROPA az Európai Unió hivatalos portálja, amely hozzáférést biztosít az uniós intézmények, ügynökségek és szervek által közzétett információkhoz."
+      ],
+      "it": [
+        "EUROPA è il sito ufficiale dell&apos;Unione europea e dà accesso a informazioni pubblicate da tutte le istituzioni, le agenzie e gli organi dell&apos;UE."
+      ],
+      "lt": [
+        "tai oficiali Europos Sąjungos interneto svetainė, kurioje galima susipažinti su visų ES institucijų, agentūrų ir kitų įstaigų skelbiama informacija."
+      ],
+      "lv": [
+        "EUROPA ir Eiropas Savienības oficiālā tīmekļa vietne. Tajā atrodama visu ES iestāžu un aģentūru publicēta informācija."
+      ],
+      "mt": [
+        "EUROPA huwa s-sit web uffiċjali tal-Unjoni Ewropea u jipprovdi aċċess għall-informazzjoni ppubblikata mill-istituzzjonijiet, aġenziji u entitajiet kollha tal-UE."
+      ],
+      "nl": [
+        "EUROPA is de officiële website van de Europese Unie en geeft toegang tot informatie van alle instellingen, bureaus en andere organen van de EU."
+      ],
+      "pl": [
+        "EUROPA jest oficjalną stroną internetową Unii Europejskiej, która umożliwia dostęp do informacji publikowanych przez wszystkie instytucje, agencje i organy UE."
+      ],
+      "pt": [
+        "EUROPA: o sítio Web oficial da União Europeia que dá acesso a informações publicadas por todas as instituições, agências e órgãos da UE."
+      ],
+      "ro": [
+        "EUROPA este site-ul de internet oficial al Uniunii Europene şi oferă acces la informaţiile publicate de instituţiile, agenţiile şi organismele europene."
+      ],
+      "sk": [
+        "EUROPA je portál webových stránok Európskej únie a poskytuje prístup k informáciám zo všetkých inštitúcií, agentúr a orgánov EÚ."
+      ],
+      "sl": [
+        "Na uradnem portalu Evropske unije „Europa“ boste našli informacije vseh institucij, agencij in organov EU."
+      ],
+      "sv": [
+        "Europa.eu är EU:s officiella webbportal med information från EU:s alla institutioner, byråer och organ"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "EUROPA/"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "/INDEX/HP/EN"
+      ],
+      "es": [
+        "EUROPA/"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "/INDEX/HP/EN"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA/"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "EUROPA/"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        null
+      ],
+      "cs": [
+        null
+      ],
+      "da": [
+        null
+      ],
+      "de": [
+        null
+      ],
+      "el": [
+        null
+      ],
+      "en": [
+        "COMM/COMM-C02"
+      ],
+      "es": [
+        null
+      ],
+      "et": [
+        null
+      ],
+      "fi": [
+        null
+      ],
+      "fr": [
+        null
+      ],
+      "ga": [
+        "COMM A5"
+      ],
+      "hr": [
+        "COMM/COMM-C02"
+      ],
+      "hu": [
+        null
+      ],
+      "it": [
+        null
+      ],
+      "lt": [
+        null
+      ],
+      "lv": [
+        null
+      ],
+      "mt": [
+        null
+      ],
+      "nl": [
+        null
+      ],
+      "pl": [
+        null
+      ],
+      "pt": [
+        null
+      ],
+      "ro": [
+        null
+      ],
+      "sk": [
+        null
+      ],
+      "sl": [
+        null
+      ],
+      "sv": [
+        null
+      ]
+    },
+    "meta_classification": {
+      "und": [
+        16000
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "еuropa",
+        "европейски съюз",
+        "новини",
+        "съобщение за медиите",
+        "политики",
+        "институции",
+        "Европейски парламент",
+        "Съвет на Европейския съюз",
+        "комисия",
+        "Съд на Европейските общно",
+        "Сметна палата",
+        "Икономически и социален к",
+        "Комитет на регионите",
+        "Европейска инвестиционна",
+        "Европейска централна банк",
+        "Европейски омбудсман",
+        "гражданство",
+        "граждански права",
+        " права на",
+        "договор",
+        " договори",
+        "селско стопанство",
+        "хуманитарна помощ",
+        "аудиовизуална политика",
+        "бюджет",
+        "търговия",
+        "конкурс",
+        "потребители",
+        "култура",
+        "развитие",
+        "икономически и парични въ",
+        "евро",
+        "образование",
+        "равна възможност",
+        " равни въ",
+        "разширяване",
+        "заетост",
+        "социална политика",
+        "енергия",
+        " енергетика",
+        "предприятия",
+        "околна среда",
+        "вътрешни работи",
+        "вътрешен пазар",
+        "рибарство",
+        "външна",
+        " чуждестранна",
+        "сигурност",
+        "регионален",
+        " регионална",
+        " ре",
+        "научни изследвания",
+        "технологии",
+        "външни отношения",
+        "трансевропейски мрежи",
+        "обществено здраве",
+        " общест",
+        "информационно общество",
+        "телекомуникации",
+        "транспорт",
+        "ЕС"
+      ],
+      "cs": [
+        "europa",
+        "evropská unie",
+        "aktuality",
+        "tisková zpráva",
+        "politiky",
+        "instituce",
+        "evropský parlament",
+        "rada evropské unie",
+        "komise",
+        "soudní dvůr",
+        "účetní dvůr",
+        "hospodářský a sociální výbor",
+        "výbor regionů",
+        "evropská investiční banka",
+        "evropská centrální banka",
+        "evropský veřejný ochránce práv",
+        "občanství",
+        "práva občanů",
+        "smlouva",
+        "zemědělství",
+        "humanitární pomoc",
+        "audiovizuální politika",
+        "rozpočet",
+        "obchod",
+        "hospodářská soutěž",
+        "spotřebitelé",
+        "kultura",
+        "rozvoj",
+        "hospodářské a měnové záležitosti",
+        "euro",
+        "vzdělávání",
+        "rovné příležitosti",
+        "rozšíření",
+        "zaměstnanost",
+        "sociální politika",
+        "energetika",
+        "podnikání",
+        "životní prostředí",
+        "vnitřní věci",
+        "vnitřní trh",
+        "rybolov",
+        "zahraniční",
+        "bezpečnost",
+        "regionální",
+        "výzkum",
+        "technologie",
+        "vnější vztahy",
+        "transevropské sítě",
+        "veřejné zdraví",
+        "informační společnost",
+        "telekomunikace",
+        "doprava",
+        "eu"
+      ],
+      "da": [
+        "europa",
+        "den europæiske union",
+        "nyheder",
+        " nyt",
+        "pressemeddelelse",
+        "politikker",
+        " politikområder",
+        "institutioner",
+        "europa-parlamentet",
+        " eu-parlamentet",
+        " parlamentet",
+        "rådet for den europæiske union",
+        " ministerrådet",
+        "europa-kommissionen",
+        " eu-kommissionen",
+        " kommission",
+        "ef-domstolen",
+        " domstolen",
+        "revisionsretten",
+        "det europæiske økonomiske og sociale udvalg",
+        " e",
+        "regionsudvalget",
+        "den europæiske investeringsbank",
+        " investeringsba",
+        "den europæiske centralbank",
+        " centralbanken",
+        "den europæiske ombudsmand",
+        " ombudsmanden",
+        "medborgerskab",
+        "borgerrettigheder",
+        "traktat",
+        "landbrug",
+        "humanitær bistand",
+        "audiovisuelle medier",
+        " av-medier",
+        " av-politik",
+        " mul",
+        "budget",
+        "handel",
+        " samhandel",
+        "konkurrence",
+        "forbrugere",
+        "kultur",
+        "udvikling",
+        "økonomiske og monetære anliggender",
+        " økonomisk",
+        "euro",
+        "uddannelse",
+        "lige muligheder",
+        " ligestilling",
+        "udvidelse",
+        "beskæftigelse",
+        "socialpolitik",
+        "energi",
+        "virksomhed",
+        " erhverv",
+        "miljø",
+        "indre anliggender",
+        " indenrigsanliggender",
+        " indenri",
+        "det indre marked",
+        "fiskeri",
+        "udenrigspolitik",
+        " udlandet",
+        "sikkerhed",
+        "regional",
+        "forskning",
+        "teknologi",
+        "eksterne forbindelser",
+        " forbindelser udadtil",
+        "transeuropæiske net",
+        "folkesundhed",
+        " sundhed",
+        "informationssamfundet",
+        "telekommunikation",
+        " telekom",
+        " telesektor",
+        "transport",
+        " trafik",
+        "eu"
+      ],
+      "de": [
+        "Europa",
+        "Europäische Union",
+        "Aktuelles",
+        "Pressemitteilung",
+        "Politik",
+        " Strategien",
+        "Institutionen",
+        "Europäisches Parlament",
+        "Rat der Europäischen Union",
+        "Kommission",
+        "Gerichtshof",
+        "Europäischer Rechnungshof",
+        "Wirtschafts- und Sozialausschuss",
+        "Ausschuss der Regionen",
+        "Europäische Investitionsbank",
+        "Europäische Zentralbank",
+        "Europäischer Bürgerbeauftragter",
+        "Staatsangehörigkeit",
+        "Rechte der Bürger",
+        " Bürgerrechte",
+        "Vertrag",
+        "Landwirtschaft",
+        "humanitäre Hilfe",
+        "audiovisuelle Politik",
+        "Haushalt",
+        "Handel",
+        "Wettbewerb",
+        "Verbraucher",
+        "Kultur",
+        "Entwicklung",
+        "Wirtschaft und Währung",
+        " Wirtschaft und Finanzen",
+        "Euro",
+        "Bildung",
+        "Chancengleichheit",
+        "Erweiterung",
+        "Beschäftigung",
+        "Sozialpolitik",
+        "Energie",
+        "Unternehmen",
+        "Umwelt",
+        "Innenpolitik",
+        "Binnenmarkt",
+        "Fischerei",
+        "ausländisch",
+        " Außen-",
+        "Sicherheit",
+        "regional",
+        "Forschung",
+        "Technologie",
+        "Außenbeziehungen",
+        "transeuropäische Netze",
+        "öffentliche Gesundheit",
+        "Informationsgesellschaft",
+        "Telefon",
+        " Telefax",
+        " Telekommunikation",
+        "Verkehr",
+        "EU"
+      ],
+      "el": [
+        "europa",
+        "ευρωπαϊκή ένωση",
+        "ειδήσεις",
+        "δελτίο Τύπου",
+        "πολιτικές",
+        "θεσμικά όργανα",
+        " ευρωπαϊκά",
+        "ευρωπαϊκό κοινοβούλιο",
+        "συμβούλιο της ευρωπαϊκής",
+        "επιτροπή",
+        "δικαστήριο",
+        "ελεγκτικό συνέδριο",
+        "οικονομική και κοινωνική",
+        "επιτροπή των περιφερειών",
+        "ευρωπαϊκή τράπεζα επενδύσ",
+        "ευρωπαϊκή κεντρική τράπεζ",
+        "ευρωπαίος διαμεσολαβητής",
+        "ιθαγένεια",
+        " υπηκοότητα",
+        " συμ",
+        "δικαιώματα των πολιτών",
+        "συνθήκη",
+        "γεωργία",
+        "ανθρωπιστική βοήθεια",
+        "πολιτική οπτικοακουστικο",
+        "προϋπολογισμός",
+        "εμπόριο",
+        "ανταγωνισμός",
+        "καταναλωτές",
+        "πολιτισμός",
+        "ανάπτυξη",
+        "οικονομικές και νομισματι",
+        "ευρώ",
+        "εκπαίδευση",
+        "ίσες ευκαιρίες",
+        "διεύρυνση",
+        "απασχόληση",
+        "κοινωνική πολιτική",
+        "ενέργεια",
+        "επιχείρηση",
+        "περιβάλλον",
+        "εσωτερικές υποθέσεις",
+        "εσωτερική αγορά",
+        "αλιεία",
+        "εξωτερική",
+        "ασφάλεια",
+        "περιφερειακή",
+        "έρευνα",
+        "τεχνολογία",
+        "εξωτερικές σχέσεις",
+        "διευρωπαϊκά δίκτυα",
+        "δημόσια υγεία",
+        "κοινωνία της πληροφορίας",
+        "τηλεπικοινωνίες",
+        "μεταφορές",
+        "εε"
+      ],
+      "en": [
+        "europa",
+        "european union",
+        "EU news",
+        "press release",
+        "EU policies",
+        "EU institutions",
+        "european parliament",
+        "council of the european union",
+        "european commission",
+        "court of justice",
+        "court of auditors",
+        "economic and social committee",
+        "committee of the regions",
+        "european investment bank",
+        "european central bank",
+        "Lisbon treaty",
+        "EU legislation",
+        "agriculture",
+        "humanitarian aid",
+        "audiovisual policy",
+        "EU budget",
+        "trade",
+        "EU competition",
+        "consumers",
+        "culture",
+        "development",
+        "economic and monetary affairs",
+        "euro",
+        "education",
+        "enlargement",
+        "employment",
+        "social policy",
+        "energy",
+        "enterprise",
+        "environment",
+        "justice",
+        "home affairs",
+        "internal market",
+        "fisheries",
+        "external relations",
+        "security",
+        "regional policy",
+        "research",
+        "technology",
+        "trans-european networks",
+        "public health",
+        "information society",
+        "telecommunications",
+        "transports",
+        "eu"
+      ],
+      "es": [
+        "europa",
+        "Unión Europea",
+        "noticias",
+        "comunicado de prensa",
+        "políticas",
+        "instituciones",
+        "Parlamento Europeo ",
+        "Consejo de la Unión Europea",
+        "Comisión",
+        "Tribunal de Justicia",
+        "Tribunal de Cuentas",
+        "Comité Económico y Social",
+        "Comité de las Regiones",
+        "Banco Europeo de Inversiones",
+        "Banco Central Europeo",
+        "Defensor del Pueblo Europeo",
+        "ciudadanía",
+        "derechos de los ciudadanos",
+        "Tratado",
+        "agricultura",
+        "ayuda humanitaria",
+        "política audiovisual",
+        "presupuesto",
+        "comercio exterior",
+        "competencia",
+        "consumidores",
+        "cultura",
+        "desarrollo",
+        "asuntos económicos y monetarios",
+        "euro",
+        "educación",
+        "igualdad de oportunidades",
+        "ampliación",
+        "empleo",
+        "política social",
+        "energía",
+        "empresa",
+        "medio ambiente",
+        "asuntos de interior",
+        "mercado interior",
+        "pesca",
+        "exterior",
+        "seguridad",
+        "regional",
+        "investigación",
+        "tecnología",
+        "relaciones exteriores",
+        "redes transeuropeas",
+        "salud pública",
+        "sociedad de la información",
+        "telecomunicaciones",
+        "transporte",
+        "UE"
+      ],
+      "et": [
+        "europa",
+        "Euroopa Liit",
+        "uudised",
+        "pressiteade",
+        "poliitikavaldkonnad",
+        "institutsioonid",
+        "Euroopa Parlament",
+        "Euroopa Liidu Nõukogu",
+        "Euroopa Komisjon",
+        "Euroopa Kohus",
+        "Euroopa Kontrollikoda",
+        "Majandus- ja Sotsiaalkomitee",
+        "Regioonide Komitee",
+        "Euroopa Investeerimispank",
+        "Euroopa Keskpank",
+        "Euroopa ombudsman",
+        "kodakondsus",
+        "kodanikuõigused",
+        "asutamisleping",
+        "põllumajandus",
+        "humanitaarabi",
+        "audiovisuaalpoliitika",
+        "eelarve",
+        "kaubandus",
+        "konkurents",
+        "tarbijad",
+        "kultuur",
+        "areng",
+        "majandus- ja rahandusküsimused",
+        "euro",
+        "haridus",
+        "võrdsed võimalused",
+        "laienemine",
+        "tööhõive",
+        "sotsiaalpoliitika",
+        "energeetika",
+        "ettevõtlus",
+        "keskkond",
+        "siseküsimused",
+        "siseturg",
+        "kalandus",
+        "välis-",
+        "julgeolek",
+        "piirkondlik",
+        "teadusuuringud",
+        "tehnoloogia",
+        "välissuhted",
+        "üleeuroopalised võrgustikud",
+        "rahvatervis",
+        "infoühiskond",
+        "telekommunikatsioon",
+        "transport",
+        "EL"
+      ],
+      "fi": [
+        "europa",
+        "euroopan unioni",
+        "uutiset",
+        "lehdistötiedote",
+        " lehdistötiedotteet",
+        "politiikat",
+        " politiikan alat",
+        "toimielimet",
+        "euroopan parlamentti",
+        "euroopan unionin neuvosto",
+        "komissio",
+        "euroopan yhteisöjen tuomioistuin",
+        "tilintarkastustuomioistuin",
+        "talous- ja sosiaalikomitea",
+        "alueiden komitea",
+        "euroopan investointipankki",
+        "euroopan keskuspankki",
+        "euroopan oikeusasiamies",
+        "kansalaisuus",
+        "kansalaisten oikeudet",
+        "perussopimus",
+        " perussopimukset",
+        "maatalous",
+        "humanitaarinen apu",
+        "audiovisuaalipolitiikka",
+        "talousarvio",
+        " budjetti",
+        "kauppa",
+        "kilpailu",
+        "kuluttajat",
+        "kulttuuri",
+        "kehitys",
+        "talous- ja rahapolitiikka",
+        "euro",
+        "koulutus",
+        "yhtäläiset mahdollisuudet",
+        " tasa-arvo",
+        "laajentuminen",
+        "työllisyys",
+        "sosiaalipolitiikka",
+        "energia",
+        "yritys",
+        " yritystoiminta",
+        "ympäristö",
+        "sisäasiat",
+        "sisämarkkinat",
+        " yhtenäismarkkinat",
+        "kalatalous",
+        " kalastus",
+        "ulkomaalainen",
+        " ulkomainen",
+        "turvallisuus",
+        "alueellinen",
+        " alue",
+        "tutkimus",
+        "tekniikka",
+        " teknologia",
+        "ulkosuhteet",
+        "euroopan laajuiset verkot",
+        " ten",
+        "kansanterveys",
+        "tietoyhteiskunta",
+        "televiestintä",
+        "liikenne",
+        "eu"
+      ],
+      "fr": [
+        "europa",
+        "Union européenne",
+        "actualité",
+        "communiqué de presse",
+        "politiques",
+        " mesures",
+        "institutions",
+        "Parlement européen",
+        "Conseil de l’Union européenne",
+        "Commission",
+        "Cour de justice",
+        "Cour des comptes",
+        "Comité économique et social",
+        "Comité des régions",
+        "Banque européenne d&apos;investissement",
+        "Banque centrale européenne",
+        "Médiateur européen",
+        "citoyenneté",
+        "droits des citoyens",
+        "traité",
+        "agriculture",
+        "aide humanitaire",
+        "politique audiovisuelle",
+        "budget",
+        "commerce",
+        "concurrence",
+        "consommateurs",
+        "culture",
+        "développement",
+        "affaires économiques et monétaires",
+        "euro",
+        "éducation",
+        " enseignement",
+        "égalité des chances",
+        "élargissement",
+        "emploi",
+        "politique sociale",
+        "énergie",
+        "entreprises",
+        "environnement",
+        "affaires intérieures",
+        "marché intérieur",
+        "pêche",
+        "étranger",
+        " étrangère",
+        "sécurité",
+        "régional",
+        "recherche",
+        "technologie",
+        "relations extérieures",
+        "réseaux transeuropéens",
+        "santé publique",
+        "société de l&apos;information",
+        "télécommunications",
+        "transports",
+        "ue"
+      ],
+      "ga": [
+        "europa",
+        "An t-aontas eorpach",
+        "nuacht",
+        "preaseisiúint",
+        "beartais",
+        "institiúidí",
+        "parlaimint na heorpa",
+        "comhairle an aontais eorpaigh",
+        "Coimisiún",
+        "An chúirt bhreithiúnais",
+        "An chúirt iniúchóirí",
+        "An coiste eacnamaíoch agus sóisialta",
+        "coiste na réigiún",
+        "An banc eorpach infheistíochta",
+        "An banc ceannais eorpach",
+        "An t-ombudsman eorpach",
+        "saoránacht",
+        "cearta na saoránach",
+        "conradh",
+        "talmhaíocht",
+        "cabhair dhaonnúil",
+        "beartas closamhairc",
+        "buiséad",
+        "trádáil",
+        "comórtas",
+        "tomhaltóirí",
+        "cultúr",
+        "forbairt",
+        "gnóthaí geilleagracha agus airgeadaíochta",
+        "an euro",
+        "oideachas",
+        "comhdheiseanna",
+        "méadú",
+        "fostaíocht",
+        "beartas sóisialta",
+        "fuinneamh",
+        "fiontraíocht",
+        "comhshaol",
+        "gnóthaí baile",
+        "margadh inmheánach",
+        "iascach",
+        "eachtrach",
+        "slándáil",
+        "réigiúnach",
+        "taighde",
+        "teicneolaíocht",
+        "caidreamh eachtrach",
+        "gréasáin thras-eorpacha",
+        "sláinte phoiblí",
+        "sochaí na faisnéise",
+        "teileachumarsáid",
+        "iompar",
+        "ae"
+      ],
+      "hr": [
+        "europa",
+        "europska unija",
+        "vijesti",
+        "priopcenje",
+        "EU politike",
+        "EU institucije",
+        "europski parlament",
+        "vijece europske unije",
+        "europska komisija",
+        "sud europske unije",
+        "europski revizorski sud",
+        "europski gospodarski i socijalni odbor",
+        "odbor regija",
+        "europska investicijska banka",
+        "europska središnja banka",
+        "Ugovor iz Lisabona",
+        "Lisabonski ugovor",
+        "EU zakonodavstvo",
+        "poljoprivreda",
+        "humanitarna pomoc",
+        "audiovizualnu politiku",
+        "proracun EU-a",
+        "trgovina",
+        "tržišno natjecanje EU-a",
+        "konkurentnost EU-a",
+        "konkurencija EU-a",
+        "potrošaci",
+        "kultura",
+        "razvoj",
+        "ekonomski i monetarni poslovi",
+        "Euro",
+        "obrazovanje",
+        "proširenje",
+        "zapošljavanje",
+        "socijalna politika",
+        "energija",
+        "poduzeca",
+        "okoliš",
+        "pravda",
+        "unutarnji poslovi",
+        "unutarnje tržište",
+        "potrošači",
+        "vanjski odnosi",
+        "sigurnost",
+        "regionalna politika",
+        "istraživanje",
+        "tehnologija",
+        "trans-europske mreže",
+        "javno zdravstvo",
+        "informacijsko društvo",
+        "telekomunikacije",
+        "promet",
+        "eu"
+      ],
+      "hu": [
+        "EUROPA",
+        "Európai Unió",
+        "hírek",
+        "sajtóközlemény",
+        "szakpolitikák",
+        " politikák",
+        "intézmények",
+        "Európai Parlament",
+        "az Európai Unió Tanácsa",
+        " az EU Tanácsa",
+        " Mini",
+        "bizottság",
+        "Európai Bíróság",
+        " Bíróság",
+        "Európai Számvevőszék",
+        " Számvevőszék",
+        "Gazdasági és Szociális Bizottság",
+        "Régiók Bizottsága",
+        "Európai Beruházási Bank",
+        "Európai Központi Bank",
+        "Európai Ombudsman",
+        "polgárság",
+        " uniós polgárság",
+        "polgári jogok",
+        " állampolgári jogok",
+        " a polgáro",
+        "szerződés",
+        "mezőgazdaság",
+        "humanitárius segély",
+        " humanitárius segítségn",
+        "audiovizuális politika",
+        "költségvetés",
+        "kereskedelem",
+        "verseny",
+        "fogyasztók",
+        "kultúra",
+        " kulturális",
+        "fejlesztés",
+        " fejlődés",
+        "gazdasági ügyek",
+        " pénzügyek",
+        " gazdasági és m",
+        "euró",
+        " EUR",
+        " euro",
+        "oktatás",
+        " képzés",
+        "esélyegyenlőség",
+        "bővítés",
+        "foglalkoztatás",
+        "szociálpolitika",
+        "energia",
+        "vállalkozás",
+        " cég",
+        " vállalat",
+        "környezetvédelem",
+        " környezet",
+        "belügy",
+        " belpolitika",
+        "belső piac",
+        "halászat",
+        "külföld",
+        " külföldi",
+        "biztonság",
+        " védelem",
+        "regionális",
+        "kutatás",
+        "technológia",
+        "külkapcsolatok",
+        "transzeurópai hálózatok",
+        "közegészségügy",
+        " népegészségügy",
+        "információs társadalom",
+        "távközlés",
+        "közlekedés",
+        " szállítás",
+        "eu"
+      ],
+      "it": [
+        "Europa",
+        "Unione europea",
+        "notizie",
+        "comunicato stampa",
+        "politiche",
+        "istituzioni",
+        "Parlamento europeo",
+        "Consiglio dell&apos;Unione europea",
+        "Commissione",
+        "Corte di giustizia",
+        "Corte dei conti",
+        "Comitato economico e sociale",
+        "Comitato delle regioni",
+        "Banca europea per gli investimenti",
+        "Banca centrale europea",
+        "Mediatore europeo",
+        "cittadinanza",
+        "diritti dei cittadini",
+        "trattato",
+        "agricoltura",
+        "aiuti umanitari",
+        "politica audiovisiva",
+        "bilancio",
+        "commercio",
+        " scambi",
+        "concorrenza",
+        "consumatori",
+        "cultura",
+        "sviluppo",
+        "affari economici e monetari",
+        "euro",
+        "istruzione",
+        "pari opportunità",
+        "allargamento",
+        "occupazione",
+        " lavoro",
+        "politica sociale",
+        "energia",
+        "imprese",
+        "ambiente",
+        "interni",
+        " affari interni",
+        "mercato interno",
+        "pesca",
+        "esteri",
+        " affari esteri",
+        "sicurezza",
+        "regioni",
+        " affari regionali",
+        "ricerca",
+        "tecnologia",
+        "relazioni esterne",
+        "reti transeuropee",
+        "sanità",
+        "società dell’informazione",
+        "telecomunicazioni",
+        "trasporti",
+        "UE"
+      ],
+      "lt": [
+        "Europa",
+        "Europos Sąjunga",
+        "naujienos",
+        "pranešimas spaudai",
+        "politika",
+        "institucijos",
+        "Europos Parlamentas",
+        "Europos Sąjungos Taryba",
+        "Komisija",
+        "Teisingumo Teismas",
+        "Audito Rūmai",
+        "Ekonomikos ir socialinių reikalų komitetas",
+        "Regionų komitetas",
+        "Europos investicijų bankas",
+        "Europos centrinis bankas",
+        "Europos ombudsmenas",
+        "pilietiškumas",
+        "piliečių teisės",
+        "sutartis",
+        "žemės ūkis",
+        "humanitarinė pagalba",
+        "garso ir vaizdo politika",
+        "biudžetas",
+        "prekyba",
+        "konkurencija",
+        "vartotojai",
+        "kultūra",
+        "vystymasis",
+        " plėtra",
+        "ekonomikos ir pinigų reikalai",
+        "euras",
+        "švietimas",
+        "lygios galimybės",
+        "ES plėtra",
+        "užimtumas",
+        "socialinė politika",
+        "energetika",
+        " energija",
+        "įmonė",
+        "aplinka",
+        "vidaus reikalai",
+        "vidaus rinka",
+        "žuvininkystė",
+        "užsienio",
+        "saugumas",
+        "regioninis",
+        "moksliniai tyrimai",
+        "technologija",
+        "išorės santykiai",
+        "transeuropiniai tinklai",
+        "visuomenės sveikata",
+        "informacinė visuomenė",
+        "telekomunikacijos",
+        "transportas",
+        "ES"
+      ],
+      "lv": [
+        "Europa",
+        "Eiropas Savienība",
+        "jaunumi",
+        " ziņas",
+        "paziņojums presei",
+        " paziņojumi presei",
+        "politika",
+        " politikas jomas",
+        "iestādes",
+        " institūcijas",
+        "Eiropas Parlaments",
+        "Eiropas Savienības Padome",
+        " Ministru padome",
+        "Komisija",
+        "Eiropas Kopienu Tiesa",
+        " EKT",
+        "Revīzijas palāta",
+        "Eiropas Ekonomikas un sociālo lietu komiteja",
+        "Reģionu komiteja",
+        "Eiropas Investīciju banka",
+        "Eiropas Centrālā banka",
+        "Eiropas Ombuds",
+        " tiesībsargs",
+        "pilsonība",
+        "pilsoņu tiesības",
+        "līgums",
+        "lauksaimniecība",
+        "humānā palīdzība",
+        "audiovizuālā politika",
+        "budžets",
+        "tirdzniecība",
+        "konkurence",
+        "patērētāji",
+        "kultūra",
+        "attīstība",
+        "ekonomikas un monetārie jautājumi",
+        " ekonomikas",
+        "eiro",
+        "izglītība",
+        "vienādas iespējas",
+        " vienlīdzība",
+        " iespēju vie",
+        "paplašināšanās",
+        " paplašināšana",
+        "nodarbinātība",
+        " darbs",
+        "sociālā politika",
+        "enerģija",
+        " enerģētika",
+        "uzņēmums",
+        "vide",
+        "iekšlietas",
+        "iekšējais tirgus",
+        "zivsaimniecība",
+        "ārējais",
+        " ārpolitika",
+        "drošība",
+        "reģionāls",
+        "pētniecība",
+        " izpēte",
+        " zinātne",
+        "tehnoloģija",
+        "ārējās attiecības",
+        "Eiropas komunikāciju tīkli",
+        " Eiropas transporta",
+        "sabiedrības veselība",
+        " veselības aizsardzība",
+        "informācijas sabiedrība",
+        "telekomunikācijas",
+        " tālsakari",
+        "transports",
+        " pārvadājumi",
+        "ES"
+      ],
+      "mt": [
+        "europa",
+        "unjoni ewropea",
+        "aħbarijiet",
+        "stqarrija għall-istampa",
+        "politiki",
+        "istituzzjonijiet",
+        "parlament ewropew",
+        "kunsill tal-unjoni ewropea",
+        "kummissjoni",
+        "qorti tal-ġustizzja",
+        "qorti tal-awdituri",
+        "kumitat ekonomiku u soċjali",
+        "kumitat tar-reġjuni",
+        "bank ewropew tal-investiment",
+        "bank ċentrali ewropew",
+        "ombudsman ewropew",
+        "ċittadinanza",
+        "drittijiet taċ-ċittadin",
+        "trattat",
+        "agrikoltura",
+        "għajnuna umanitarja",
+        "politika awdjoviżiva",
+        "baġit",
+        "kummerċ",
+        "kompetizzjoni",
+        "konsumaturi",
+        "kultura",
+        "żvilupp",
+        "affarijiet ekonomiċi u monetarji",
+        "ewro",
+        "edukazzjoni",
+        "opportunitajiet indaqs",
+        "tkabbir",
+        "impjiegi",
+        "politika soċjali",
+        "enerġija",
+        "impriża",
+        "ambjent",
+        "affarijiet interni",
+        "suq intern",
+        "sajd",
+        "barranin",
+        "sigurtà",
+        "reġjonali",
+        "riċerka",
+        "teknoloġija",
+        "relazzjonijiet barranin",
+        "netwerks trans-ewropej",
+        "saħħa pubblika",
+        "soċjetà tal-informazzjoni",
+        "telekomunikazzjonijiet",
+        "trasport",
+        "ue"
+      ],
+      "nl": [
+        "europa",
+        "Europese Unie",
+        "nieuws",
+        "persbericht",
+        "beleid",
+        "instellingen",
+        "Europees Parlement",
+        "De Raad van de Europese Unie",
+        "Commissie",
+        "Hof van Justitie",
+        "Rekenkamer",
+        "Economisch en Sociaal Comité",
+        "Comité van de Regio&apos;s",
+        "Europese Investeringsbank.",
+        "Europese Centrale Bank",
+        "Europese Ombudsman",
+        "burgerschap",
+        "burgerrechten",
+        "Verdrag",
+        "landbouw",
+        "Humanitaire hulp",
+        "Audiovisueel beleid",
+        "begroting",
+        "handel",
+        "concurrentie",
+        "consumenten",
+        "cultuur",
+        "ontwikkeling",
+        "Economische en monetaire zaken",
+        "euro",
+        "onderwijs",
+        "gelijke kansen",
+        "uitbreiding",
+        "werkgelegenheid",
+        " banen",
+        "sociaal beleid",
+        "energie",
+        "onderneming",
+        "milieu",
+        "binnenlandse zaken",
+        "interne markt",
+        "visserij",
+        "buitenland",
+        "veiligheid",
+        "regionaal",
+        "onderzoek",
+        "technologie",
+        "buitenlandse betrekkingen",
+        "transeuropese netwerken",
+        "volksgezondheid",
+        "de informatiemaatschappij",
+        "telecommunicatie",
+        "vervoer",
+        "EU"
+      ],
+      "pl": [
+        "Europa",
+        "Unia Europejska",
+        "aktualności",
+        "komunikat prasowy",
+        "polityka",
+        "instytucje",
+        "Parlament Europejski",
+        "Rada Unii Europejskiej",
+        "Komisja",
+        "Trybunał Sprawiedliwości",
+        "Trybunał Obrachunkowy",
+        "Komitet Ekonomiczno-Społeczny",
+        "Komitet Regionów",
+        "Europejski Bank Inwestycyjny",
+        "Europejski Bank Centralny",
+        "Europejski Rzecznik Praw Obywatelskich",
+        "obywatelstwo",
+        "prawa obywatelskie",
+        "traktat",
+        "rolnictwo",
+        "pomoc humanitarna",
+        "polityka audiowizualna",
+        "budżet",
+        "handel",
+        "konkurencja",
+        "konsumenci",
+        "kultura",
+        "rozwój",
+        "sprawy gospodarcze i walutowe",
+        "euro",
+        "edukacja",
+        "równość szans",
+        " równe szanse",
+        "rozszerzenie",
+        "zatrudnienie",
+        "polityka społeczna",
+        "energia",
+        "przedsiębiorczość",
+        "ochrona środowiska",
+        "sprawy wewnętrzne",
+        "rynek wewnętrzny",
+        "rybołówstwo",
+        "zagraniczne",
+        "bezpieczeństwo",
+        "regionalna",
+        "badania naukowe",
+        "technologie",
+        "stosunki zewnętrzne",
+        "sieci transeuropejskie",
+        "zdrowie publiczne",
+        "społeczeństwo informacyjne",
+        "telekomunikacja",
+        "transport",
+        "UE"
+      ],
+      "pt": [
+        "europa",
+        "união europeia",
+        "notícias",
+        "comunicado de imprensa",
+        "políticas",
+        "instituições",
+        "parlamento europeu",
+        "conselho da união europeia",
+        "comissão",
+        "tribunal de justiça",
+        "tribunal de contas",
+        "comité económico e social europeu",
+        "comité das regiões",
+        "banco europeu de investimento",
+        "banco central europeu",
+        "provedor de justiça europeu",
+        "cidadania",
+        "direitos dos cidadãos",
+        "tratado",
+        "agricultura",
+        "ajuda humanitária",
+        "política audiovisual",
+        "orçamento",
+        "comércio",
+        "concorrência",
+        "consumidores",
+        "cultura",
+        "desenvolvimento",
+        "assuntos económicos e monetários",
+        "euro",
+        "educação",
+        "igualdade de oportunidades",
+        "alargamento",
+        "emprego",
+        "política social",
+        "energia",
+        "empresa",
+        "ambiente",
+        "assuntos internos",
+        "mercado interno",
+        "pescas",
+        "estrangeiro",
+        "segurança",
+        "regional",
+        "investigação",
+        "tecnologia",
+        "relações externas",
+        "redes transeuropeias",
+        "saúde pública",
+        "sociedade da informação",
+        "telecomunicações",
+        "transportes",
+        "ue"
+      ],
+      "ro": [
+        "Europa",
+        "uniunea europeană",
+        "ştiri",
+        "comunicat de presă",
+        "politici",
+        "instituţii",
+        "parlamentul european",
+        "consiliul uniunii europene",
+        "comisia",
+        "curtea de Justiţie",
+        "curtea de conturi",
+        "comitetul economic şi social",
+        "comitetul regiunilor",
+        "banca europeană de investiţii",
+        "banca centrală europeană",
+        "ombudsmanul european",
+        "cetăţenie",
+        "drepturile cetăţenilor",
+        "tratat",
+        "agricultură",
+        "ajutor umanitar",
+        "politică audiovizuală",
+        "buget",
+        "comerţ",
+        "concurenţă",
+        "consumatori",
+        "cultură",
+        "dezvoltare",
+        "afaceri economice şi monetare",
+        "euro",
+        "educaţie",
+        "egalitate de şanse",
+        "extindere",
+        "ocuparea forţei de muncă",
+        "politica socială",
+        "energie",
+        "întreprindere",
+        "mediu",
+        "afaceri interne",
+        "piaţa internă",
+        "sectorul pescuitului",
+        "extern",
+        "securitate",
+        "regional",
+        "cercetare",
+        "tehnologie",
+        "relaţii externe",
+        "reţele transeuropene",
+        "sănătate publică",
+        "societatea informaţională",
+        "telecomunicaţii",
+        "transport",
+        "ue"
+      ],
+      "sk": [
+        "europa",
+        "Európska únia",
+        "správy",
+        " aktuality",
+        "tlačová správa",
+        "politiky",
+        "inštitúcie",
+        "Európsky parlament",
+        "Rada Európskej únie",
+        "Komisia",
+        "Súdny dvor",
+        "Dvor audítorov",
+        "Hospodársky a sociálny výbor",
+        "Výbor regiónov",
+        "Európska investičná banka",
+        "Európska centrálna banka",
+        "Európsky ombudsman",
+        "občianstvo",
+        "občianske práva",
+        "zmluva",
+        "poľnohospodárstvo",
+        "humanitárna pomoc",
+        "audiovizuálna politika",
+        "rozpočet",
+        "obchod",
+        "hospodárska súťaž",
+        "spotrebitelia",
+        "kultúra",
+        "rozvoj",
+        "hospodárske a menové záležitosti",
+        "euro",
+        "vzdelanie",
+        " vzdelávanie",
+        "rovnosť príležitostí",
+        "rozšírenie",
+        "zamestnanie",
+        " pracovný pomer",
+        " zamestnanosť",
+        "sociálna politika",
+        "energie",
+        " energetika",
+        "podniky",
+        "životné prostredie",
+        "vnútorné záležitosti",
+        "vnútorný trh",
+        "rybolov",
+        "zahraničný",
+        "bezpečnosť",
+        "regionálny",
+        "výskum",
+        "technológia",
+        "vonkajšie vzťahy",
+        "transeurópske siete",
+        "verejné zdravie",
+        "informačná spoločnosť",
+        "telekomunikácie",
+        "doprava",
+        "eú"
+      ],
+      "sl": [
+        "europa",
+        "evropska unija",
+        "novice",
+        "sporočilo za javnost",
+        "politike",
+        "institucije",
+        "Evropski parlament",
+        "Svet Evropske unije",
+        "Komisija",
+        "Sodišče Evropskih skupnosti",
+        "Računsko sodišče",
+        "Evropski ekonomsko-socialni odbor",
+        "Odbor regij",
+        "Evropska investicijska banka",
+        "Evropska centralna banka",
+        "Evropski varuh človekovih pravic",
+        "državljanstvo",
+        "pravice državljanov",
+        "pogodba",
+        "kmetijstvo",
+        "humanitarna pomoč",
+        "avdiovizualna politika",
+        "proračun",
+        "trgovina",
+        "konkurenca",
+        "potrošniki",
+        "kultura",
+        "razvoj",
+        "gospodarske in denarne zadeve",
+        "evro",
+        "izobraževanje",
+        "enake možnosti",
+        "širitev",
+        "zaposlovanje",
+        "socialna politika",
+        "energija",
+        "podjetje",
+        "okolje",
+        "notranje zadeve",
+        "notranji trg",
+        "ribištvo",
+        "zunanja",
+        "varnost",
+        "regionalna",
+        "raziskave",
+        "tehnologija",
+        "zunanji odnosi",
+        "vseevropska omrežja",
+        "javno zdravje",
+        "informacijska družba",
+        "telekomunikacije",
+        "promet",
+        "eu"
+      ],
+      "sv": [
+        "europa",
+        "europeiska unionen",
+        "nyheter",
+        "pressmeddelande",
+        "politikområden",
+        "institutioner",
+        "Europaparlamentet",
+        " eu-parlamentet",
+        "Europeiska unionens råd",
+        " ministerrådet",
+        "kommissionen",
+        " eu-kommissionen",
+        "EG-domstolen",
+        "revisionsrätten",
+        "ekonomiska och sociala kommittén",
+        "regionkommittén",
+        "europeiska investeringsbanken",
+        "europeiska centralbanken",
+        "europeiska ombudsmannen",
+        "medborgarskap",
+        "medborgerliga rättigheter",
+        "fördrag",
+        "jordbruk",
+        "humanitärt bistånd",
+        "audiovisuella medier",
+        "budget",
+        "handel",
+        "konkurrens",
+        "konsumenter",
+        "kultur",
+        "utveckling",
+        "ekonomiska och monetära frågor",
+        "euro",
+        "utbildning",
+        "lika möjligheter",
+        "utvidgning",
+        "sysselsättning",
+        "socialpolitik",
+        "energi",
+        "företag",
+        "miljö",
+        "inrikes frågor",
+        "inre marknaden",
+        "fiske",
+        " fiskerinäring",
+        "utrikespolitik",
+        "säkerhet",
+        "regional",
+        "forskning",
+        "teknologi",
+        " teknik",
+        "yttre förbindelser",
+        "transeuropeiskt nät",
+        "folkhälsa",
+        "informationssamhället",
+        "telekommunikation",
+        "transport",
+        "eu"
+      ]
+    },
+    "original_url": {
+      "bg": [
+        "http://europa.eu/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Официален уебсайт на Европейския съюз"
+      ],
+      "cs": [
+        "Oficiální internetové stránky Evropské unie"
+      ],
+      "da": [
+        "Den Europæiske Unions officielle websted"
+      ],
+      "de": [
+        "Offizielle Website der Europäischen Union"
+      ],
+      "el": [
+        "Επίσημος ιστότοπος της Ευρωπαϊκής Ένωσης"
+      ],
+      "en": [
+        "Official website of the European Union"
+      ],
+      "es": [
+        "Web oficial de la Unión Europea"
+      ],
+      "et": [
+        "Euroopa Liidu ametlik veebisait"
+      ],
+      "fi": [
+        "EU:n virallinen verkkosivusto"
+      ],
+      "fr": [
+        "Site web officiel de l'Union européenne"
+      ],
+      "ga": [
+        "Suíomh gréasáin oifigiúil an Aontais Eorpaigh"
+      ],
+      "hr": [
+        "Službene web-stranice Europske unije"
+      ],
+      "hu": [
+        "Az Európai Unió hivatalos honlapja"
+      ],
+      "it": [
+        "Sito ufficiale dell'Unione europea"
+      ],
+      "lt": [
+        "Oficiali Europos Sąjungos interneto svetainė"
+      ],
+      "lv": [
+        "Eiropas Savienības oficiālā tīmekļa vietne"
+      ],
+      "mt": [
+        "Websajt uffiċjali tal-Unjoni Ewropea"
+      ],
+      "nl": [
+        "Officiële website van de Europese Unie"
+      ],
+      "pl": [
+        "Oficjalny portal Unii Europejskiej"
+      ],
+      "pt": [
+        "Sítio Web oficial da União Europeia"
+      ],
+      "ro": [
+        "Site-ul oficial al Uniunii Europene"
+      ],
+      "sk": [
+        "Oficiálna webová lokalita Európskej únie"
+      ],
+      "sl": [
+        "Uradno spletišče Evropske unije"
+      ],
+      "sv": [
+        "Officiell EU-webbplats"
+      ]
+    },
+    "about_the_eu": {
+      "bg": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_bg.htm\">За ЕС</a>\n            </h2>\n            <p>ЕС накратко, институции и органи, страни, символи, история, факти и цифри</p>"
+      ],
+      "cs": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_cs.htm\">Základní informace o EU</a>\n            </h2>\n            <p>Historie a fungování EU, evropské instituce a orgány, členské země, symboly EU a další fakta</p>"
+      ],
+      "da": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_da.htm\">Om EU</a>\n            </h2>\n            <p>Kort om EU, institutioner og organer, lande, symboler, historie, fakta og tal</p>"
+      ],
+      "de": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_de.htm\">Über die EU</a>\n            </h2>\n            <p>Die EU im Überblick, Institutionen und Einrichtungen, Länder, Symbole, Geschichte, Fakten und Zahlen</p>"
+      ],
+      "el": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_el.htm\">Βασικές πληροφορίες για την ΕΕ</a>\n            </h2>\n            <p>Η ΕΕ με λίγα λόγια, θεσμικά όργανα και οργανισμοί, χώρες, σύμβολα, ιστορία, γεγονότα και αριθμητικά στοιχεία</p>"
+      ],
+      "en": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_en.htm\">About the EU</a>\n            </h2>\n            <p>The EU in brief, institutions and bodies, countries, symbols, history, facts and figures</p>"
+      ],
+      "es": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_es.htm\">Acerca de la UE</a>\n            </h2>\n            <p>Qué es la UE, instituciones y organismos, países, símbolos, historia, hechos y cifras</p>"
+      ],
+      "et": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_et.htm\">ELi tutvustus</a>\n            </h2>\n            <p>EL lühidalt, institutsioonid ja ametid, liikmesriigid, sümbolid, ajalugu, faktid ja arvandmed</p>"
+      ],
+      "fi": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_fi.htm\">Tietoa EU:sta</a>\n            </h2>\n            <p>Perustietoa ja faktoja EU:sta ja sen toiminnasta: EU:n toimielimet, jäsenmaat, symbolit, historia...</p>"
+      ],
+      "fr": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_fr.htm\">À propos de l'UE</a>\n            </h2>\n            <p>L’UE en bref, institutions et organes, pays, symboles, histoire, faits et chiffres</p>"
+      ],
+      "ga": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_ga.htm\">Eolas faoin Aontas</a>\n            </h2>\n            <p>An tAontas Eorpach, institiúidí agus comhlachtaí, tíortha, siombailí, stair, fíorais agus figiúirí</p>"
+      ],
+      "hr": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_hr.htm\">O Europskoj uniji</a>\n            </h2>\n            <p>EU ukratko, institucije i tijela, države, simboli, povijest, činjenice i brojke</p>"
+      ],
+      "hu": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_hu.htm\">Az Európai Unióról</a>\n            </h2>\n            <p>Az EU-ról dióhéjban, intézmények és szervek, tagországok, jelképek, történelmi áttekintés, tények és adatok</p>"
+      ],
+      "it": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_it.htm\">Informazioni essenziali sull'UE</a>\n            </h2>\n            <p>L'UE in sintesi, istituzioni e organi, paesi, simboli, storia, fatti e cifre</p>"
+      ],
+      "lt": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_lt.htm\">Apie ES</a>\n            </h2>\n            <p>Apie ES glaustai, institucijos ir įstaigos, šalys, simboliai, istorija, faktai ir skaičiai</p>"
+      ],
+      "lv": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_lv.htm\">Par ES</a>\n            </h2>\n            <p>Īsumā par ES, tās iestādēm un struktūrām, dalībvalstīm, simboliem, vēsturi, kā arī fakti un skaitļi.</p>"
+      ],
+      "mt": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_mt.htm\">Dwar l-UE</a>\n            </h2>\n            <p>L-UE fil-qosor, l-istituzzjonijiet u l-korpi, il-pajjiżi, is-simboli, l-istorja, fatti u ċifri</p>"
+      ],
+      "nl": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_nl.htm\">Over de EU</a>\n            </h2>\n            <p>De EU in het kort, instellingen en organen, landen, symbolen, geschiedenis, feiten en cijfers</p>"
+      ],
+      "pl": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_pl.htm\">Informacje o UE</a>\n            </h2>\n            <p>UE w skrócie, instytucje i organy, kraje, symbole, historia, fakty i dane liczbowe</p>"
+      ],
+      "pt": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_pt.htm\">Sobre a UE</a>\n            </h2>\n            <p>A União Europeia, instituições e órgãos, países, símbolos, história, factos e números</p>"
+      ],
+      "ro": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_ro.htm\">Despre UE</a>\n            </h2>\n            <p>Informații succinte despre UE: instituții,organisme, țări, simboluri, istorie, fapte și cifre</p>"
+      ],
+      "sk": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_sk.htm\">Informácie o EÚ</a>\n            </h2>\n            <p>EÚ v skratke, inštitúcie a orgány, krajiny, symboly, história, fakty a čísla</p>"
+      ],
+      "sl": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_sl.htm\">Osnovne informacije o EU</a>\n            </h2>\n            <p>Evropska unija, institucije in organi, države, simboli, zgodovina, dejstva in podatki</p>"
+      ],
+      "sv": [
+        "<h2>\n               <a href=\"http://europa.eu/about-eu/index_sv.htm\">Om EU</a>\n            </h2>\n            <p>EU i korthet, institutioner och organ, länder, symboler, historia, fakta och siffror</p>"
+      ]
+    },
+    "eu_by_topic": {
+      "bg": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_bg.htm\">Политики на ЕС</a>\n            </h2>\n            <p>Информация за селско стопанство, бизнес, култура, здравеопазване</p>"
+      ],
+      "cs": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_cs.htm\">EU podle oblastí</a>\n            </h2>\n            <p>Informace o zemědělství, obchodu, kultuře, veřejném zdraví</p>"
+      ],
+      "da": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_da.htm\">EU efter emne</a>\n            </h2>\n            <p>Oplysninger om landbrug, erhvervsliv, kultur og sundhed</p>"
+      ],
+      "de": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_de.htm\">EU nach Thema</a>\n            </h2>\n            <p>Informationen über Landwirtschaft, Unternehmen, Kultur, Gesundheit usw.</p>"
+      ],
+      "el": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_el.htm\">Η ΕΕ ανά θέμα</a>\n            </h2>\n            <p>Πληροφορίες για τη γεωργία, τις επιχειρήσεις, τον πολιτισμό, την υγεία ...</p>"
+      ],
+      "en": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_en.htm\">EU by topic</a>\n            </h2>\n            <p>Information on agriculture, business, culture, health, etc.</p>"
+      ],
+      "es": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_es.htm\">La UE por temas</a>\n            </h2>\n            <p>Información sobre agricultura, empresa, cultura, salud</p>"
+      ],
+      "et": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_et.htm\">ELi teemad</a>\n            </h2>\n            <p>Eri teemasid käsitlev teave: põllumajandus, ettevõtlus, kultuur, tervishoid...</p>"
+      ],
+      "fi": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_fi.htm\">EU aiheittain</a>\n            </h2>\n            <p>EU:n toimet eri politiikan aloilla: maatalous, kauppa, kulttuuri, terveys...</p>"
+      ],
+      "fr": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_fr.htm\">L'UE par thème</a>\n            </h2>\n            <p>Informations sur l’agriculture, les entreprises, la culture, la santé, etc.</p>"
+      ],
+      "ga": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_ga.htm\">AE de réir ábhair</a>\n            </h2>\n            <p>Eolas faoin talmhaíocht, gnó, cultúr, sláinte</p>"
+      ],
+      "hr": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_hr.htm\">EU po temi</a>\n            </h2>\n            <p>Informacije o poljoprivredi, poslovanju, kulturi, zdravlju</p>"
+      ],
+      "hu": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_hu.htm\">Az EU szakpolitikai területei</a>\n            </h2>\n            <p>Információk arról, mit tesz az EU a különböző szakpolitikai területeken, így például a mezőgazdaságban, az üzleti életben, a kultúra vagy az egészségügy terén</p>"
+      ],
+      "it": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_it.htm\">L'UE per tema</a>\n            </h2>\n            <p>Informazioni su agricoltura, imprese, cultura, salute, ecc.</p>"
+      ],
+      "lt": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_lt.htm\">ES pagal temas</a>\n            </h2>\n            <p>Informacija apie žemės ūkį, verslą, kultūrą, sveikatą ir kt.</p>"
+      ],
+      "lv": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_lv.htm\">Temati</a>\n            </h2>\n            <p>Informācija par lauksaimniecību, uzņēmējdarbību, kultūru, veselību u.c.</p>"
+      ],
+      "mt": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_mt.htm\">L-UE skont it-tema</a>\n            </h2>\n            <p>Informazzjoni dwar l-agrikoltura, il-kummerċ, il-kultura, is-saħħa</p>"
+      ],
+      "nl": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_nl.htm\">EU volgens thema</a>\n            </h2>\n            <p>Informatie over landbouw, ondernemen, cultuur, gezondheid enz.</p>"
+      ],
+      "pl": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_pl.htm\">Obszary działalności UE</a>\n            </h2>\n            <p>Informacje na temat rolnictwa, przedsiębiorstw, kultury, zdrowia itp.</p>"
+      ],
+      "pt": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_pt.htm\">A UE por temas</a>\n            </h2>\n            <p>Informações sobre agricultura, comércio, cultura, saúde</p>"
+      ],
+      "ro": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_ro.htm\">UE după temă</a>\n            </h2>\n            <p>Informații despre agricultură, întreprinderi, cultură, sănătate...</p>"
+      ],
+      "sk": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_sk.htm\">EÚ podľa tém</a>\n            </h2>\n            <p>Informácie o poľnohospodárstve, podnikaní, kultúre, zdraví...</p>"
+      ],
+      "sl": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_sl.htm\">Dejavnosti EU</a>\n            </h2>\n            <p>Kmetijstvo, gospodarstvo, kultura, zdravje ...</p>"
+      ],
+      "sv": [
+        "<h2>\n               <a href=\"http://europa.eu/pol/index_sv.htm\">Politikområden</a>\n            </h2>\n            <p>Information om jordbruk, näringsliv, kultur, hälsa och andra områden</p>"
+      ]
+    },
+    "living_working_travelling_in_the_eu": {
+      "bg": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_bg.htm\">Живот, работа, пътуване в ЕС</a>\n            </h2>\n            <p>Информация за правата ви да живеете, работите, пътувате и учите в друга страна от ЕС, достъп до здравеопазване и потребителски права</p>"
+      ],
+      "cs": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_cs.htm\">Život, práce, cestování v EU</a>\n            </h2>\n            <p>Jaká máte práva, když se rozhodnete žít, pracovat, cestovat nebo studovat v jiné zemi EU (včetně přístupu ke zdravotní péči a práv spotřebitelů)</p>"
+      ],
+      "da": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_da.htm\">At bo, arbejde og rejse i EU</a>\n            </h2>\n            <p>Oplysninger om din ret til at bo, arbejde og studere i et andet EU-land, herunder adgang til sundhedspleje og forbrugerrettigheder</p>"
+      ],
+      "de": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_de.htm\">Leben, Arbeiten und Reisen in der EU</a>\n            </h2>\n            <p>Ihre Rechte, wenn Sie in einem anderen EU-Land leben, arbeiten, reisen oder studieren möchten (Gesundheitsversorgung, Verbraucherrechte usw.)</p>"
+      ],
+      "el": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_el.htm\">Ζωή, εργασία, ταξίδια στην ΕΕ</a>\n            </h2>\n            <p>Πληροφορίες σχετικά με το δικαίωμά σας να ζείτε, να εργάζεστε, να ταξιδεύετε και να σπουδάζετε σε άλλη χώρα της ΕΕ, καθώς και το δικαίωμα σε υγειονομική περίθαλψη και τα δικαιώματα των καταναλωτών</p>"
+      ],
+      "en": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_en.htm\">Living, working, travelling in the EU</a>\n            </h2>\n            <p>Information on your rights to live, work, travel and study in another EU country, including access to healthcare and consumer rights</p>"
+      ],
+      "es": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_es.htm\">Vivir, trabajar y viajar en la UE</a>\n            </h2>\n            <p>Información sobre el derecho a vivir, trabajar, viajar y estudiar en otro país de la UE, incluido el acceso a la sanidad y los derechos de los consumidores</p>"
+      ],
+      "et": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_et.htm\">Elamine, töötamine ja reisimine ELis</a>\n            </h2>\n            <p>Teave õiguste kohta elada, töötada, reisida ja õppida teises ELi liikmesriigis, sealhulgas tervishoiuteenustele juurdepääsu ja tarbijaõiguste kohta</p>"
+      ],
+      "fi": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_fi.htm\">Kansalaisen ja kuluttajan oikeudet EU:ssa</a>\n            </h2>\n            <p>Oikeus asua, työskennellä, opiskella, matkustaa, saada terveydenhoitoa toisessa EU-maassa...</p>"
+      ],
+      "fr": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_fr.htm\">Vivre, travailler et voyager dans l’UE</a>\n            </h2>\n            <p>Informations sur le droit de résider, de travailler, de voyager et d’étudier dans un autre pays de l’UE, ainsi que sur l’accès aux soins de santé et les droits des consommateurs</p>"
+      ],
+      "ga": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_ga.htm\">Cúrsaí saoil, oibre agus taistil</a>\n            </h2>\n            <p>Eolas faoi chearta cónaithe, oibre, taistil agus staidéir i mBallstát eile, cúram sláinte agus cearta tomhaltóirí san áireamh</p>"
+      ],
+      "hr": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_hr.htm\">Život, rad i putovanje u EU-u</a>\n            </h2>\n            <p>Informacije o vašim pravima na život, rad, putovanje i studiranje u drugim državama članicama EU-a, uključujući pristup zdravstvenoj skrbi i prava potrošača</p>"
+      ],
+      "hu": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_hu.htm\">Utazás, munkavállalás, letelepedés az EU-ban</a>\n            </h2>\n            <p>Hasznos tudnivalók az EU-n belüli utazásról, letelepedésről, munkavállalásról és tanulásról, valamint az egészségügyi ellátással kapcsolatos és a fogyasztói jogokról</p>"
+      ],
+      "it": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_it.htm\">Vivere, lavorare, viaggiare nell'UE</a>\n            </h2>\n            <p>Informazioni sui tuoi diritti a vivere, lavorare, viaggiare e studiare all'estero, in un altro paese dell'UE, compresi l'accesso all'assistenza sanitaria e i diritti dei consumatori</p>"
+      ],
+      "lt": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_lt.htm\">Gyvenimas, darbas ir keliavimas ES</a>\n            </h2>\n            <p>Jūsų teisės gyventi, dirbti, keliauti ir mokytis kitose ES šalyse (galimybės naudotis sveikatos priežiūros paslaugomis, informacija apie vartotojų teises ir kt.)</p>"
+      ],
+      "lv": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_lv.htm\">Dzīve, darbs un ceļošana ES</a>\n            </h2>\n            <p>Informācija par jūsu tiesībām dzīvot, strādāt, ceļot un mācīties citās ES dalībvalstīs (arī par veselības aprūpes pieejamību un patērētāju tiesībām).</p>"
+      ],
+      "mt": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_mt.htm\">Għajxien, xogħol, ivvjaġġar fl-UE</a>\n            </h2>\n            <p>Informazzjoni dwar id-drittijiet tiegħek li tgħix, taħdem, tivvjaġġa u tistudja barra pajjiżek, inkluż l-aċċess għall-kura tas-saħħa u d-drittijiet tal-konsumatur</p>"
+      ],
+      "nl": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_nl.htm\">Wonen, werken en reizen in de EU</a>\n            </h2>\n            <p>Informatie over uw rechten als u in een ander EU-land gaat wonen, werken, studeren of op reis gaat, waaronder uw rechten als patiënt en consument</p>"
+      ],
+      "pl": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_pl.htm\">Życie, praca i podróże na obszarze UE</a>\n            </h2>\n            <p>Twoje prawa do zamieszkania, podjęcia pracy lub studiów i do podróżowania w innym kraju UE, w tym dostęp do opieki zdrowotnej i prawa konsumenta</p>"
+      ],
+      "pt": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_pt.htm\">Viver, trabalhar e viajar na UE</a>\n            </h2>\n            <p>Informações sobre os direitos de viver, trabalhar, viajar ou estudar noutro país da UE, incluindo o acesso aos cuidados de saúde e os direitos dos consumidores.</p>"
+      ],
+      "ro": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_ro.htm\">A trăi, a lucra, a călători în UE</a>\n            </h2>\n            <p>Informații despre dreptul fiecărui european de a locui, de a munci, de a călători și de a studia în alte țări din UE, inclusiv despre dreptul la servicii de asistență medicală și drepturile consumatorilor</p>"
+      ],
+      "sk": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_sk.htm\">Život, práca a cestovanie v EÚ</a>\n            </h2>\n            <p>Informácie o vašich právach týkajúcich sa pobytu, práce, cestovania a štúdia v inej krajine EÚ vrátane prístupu k zdravotnej starostlivosti a práv spotrebiteľa</p>"
+      ],
+      "sl": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_sl.htm\">Življenje, delo, potovanje v EU</a>\n            </h2>\n            <p>Pravice državljanov do bivanja, dela, potovanja in študija v drugi državi EU, vključno z zdravstvom in pravicami potrošnikov</p>"
+      ],
+      "sv": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_sv.htm\">Bo, arbeta och resa i EU</a>\n            </h2>\n            <p>Information om din rätt att bo, arbeta, resa, studera och söka vård i andra EU-länder och dina rättigheter som konsument</p>"
+      ]
+    },
+    "doing_business": {
+      "bg": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_bg.htm\">Стопанска дейност</a>\n            </h2>\n            <p>Информация за данъци, мита, внос и износ на стоки, финансова подкрепа за предприятия</p>"
+      ],
+      "cs": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_cs.htm\">Podnikání</a>\n            </h2>\n            <p>Daně, cla, dovoz a vývoz zboží a finanční podpora podnikatelů</p>"
+      ],
+      "da": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_da.htm\">Forretninger</a>\n            </h2>\n            <p>Oplysninger om skat, told, import og eksport og økonomisk støtte til virksomheder</p>"
+      ],
+      "de": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_de.htm\">Geschäftstätigkeit</a>\n            </h2>\n            <p>Steuern, Zölle, Ein- und Ausfuhren, finanzielle Unterstützung für Unternehmen</p>"
+      ],
+      "el": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_el.htm\">Επιχειρήσεις</a>\n            </h2>\n            <p>Πληροφορίες για τη φορολογία, τον εκτελωνισμό, τις εισαγωγές και εξαγωγές εμπορευμάτων, τη χρηματοδοτική στήριξη επιχειρήσεων</p>"
+      ],
+      "en": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_en.htm\">Doing business</a>\n            </h2>\n            <p>Information on taxes, customs, importing and exporting goods, financial support for businesses</p>"
+      ],
+      "es": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_es.htm\">Hacer negocios</a>\n            </h2>\n            <p>Información sobre impuestos, importación y exportación de productos y ayudas financieras para las empresas</p>"
+      ],
+      "et": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_et.htm\">Ettevõtlus</a>\n            </h2>\n            <p>Teave maksude, tolli, kaupade impordi ja ekspordi, ettevõtjaile makstavate rahaliste toetuste kohta</p>"
+      ],
+      "fi": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_fi.htm\">Yritystoiminta</a>\n            </h2>\n            <p>Rahoitusmahdollisuudet, verotus, tullit, tavaroiden tuonti ja vienti...</p>"
+      ],
+      "fr": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_fr.htm\">Faire des affaires</a>\n            </h2>\n            <p>Informations sur la fiscalité, les douanes, les importations et les exportations de marchandises, le soutien financier aux entreprises, etc.</p>"
+      ],
+      "ga": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_ga.htm\">I mbun gnó</a>\n            </h2>\n            <p>Eolas faoi chánacha, gnóthaí custaim, iompórtáil agus easpórtáil earraí, maoiniú do ghnólachtaí</p>"
+      ],
+      "hr": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_hr.htm\">Poslovanje</a>\n            </h2>\n            <p>Informacije o porezima, carinama, uvozu i izvozu robe te financijskoj potpori za poduzeća</p>"
+      ],
+      "hu": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_hu.htm\">Vállalkozói tevékenység</a>\n            </h2>\n            <p>Fontos tudnivalók az adózásról, a vámokról, az importról és az exportról, valamint a vállalkozások pénzügyi támogatásáról</p>"
+      ],
+      "it": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_it.htm\">Fare impresa nell'UE</a>\n            </h2>\n            <p>Informazioni su imposte, dogane, importazioni ed esportazioni, sostegno finanziario alle imprese</p>"
+      ],
+      "lt": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_lt.htm\">Verslo veikla</a>\n            </h2>\n            <p>Mokesčiai, muitai, prekių importas ir eksportas, finansinė parama įmonėms</p>"
+      ],
+      "lv": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_lv.htm\">Uzņēmējdarbība</a>\n            </h2>\n            <p>Informācija par nodokļiem, muitu, preču importu un eksportu, finansiālu atbalstu uzņēmumiem.</p>"
+      ],
+      "mt": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_mt.htm\">Twettiq ta’ negozju</a>\n            </h2>\n            <p>Tagħrif dwar it-taxxi, id-dwana, l-importazzjoni u l-esportazzjoni tal-merkanzija, l-appoġġ finanzjarju għan-negozju.</p>"
+      ],
+      "nl": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_nl.htm\">Zaken doen</a>\n            </h2>\n            <p>Informatie over belastingen, douane, in- en uitvoer van goederen, financiële steun voor bedrijven</p>"
+      ],
+      "pl": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_pl.htm\">Prowadzenie firmy</a>\n            </h2>\n            <p>Podatki, cła, import i eksport towarów, wsparcie finansowe dla przedsiębiorstw</p>"
+      ],
+      "pt": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_pt.htm\">Fazer negócios</a>\n            </h2>\n            <p>Informações sobre impostos, questões aduaneiras, importação e exportação de bens, apoio financeiro às empresas</p>"
+      ],
+      "ro": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_ro.htm\">Activități comerciale</a>\n            </h2>\n            <p>Informații despre impozite, vămi, importul și exportul de mărfuri, sprijinul financiar de care pot beneficia întreprinderile</p>"
+      ],
+      "sk": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_sk.htm\">Podnikanie</a>\n            </h2>\n            <p>Informácie o daniach, clách, dovoze a vývoze tovaru, finančnej podpore pre podniky</p>"
+      ],
+      "sl": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_sl.htm\">Poslovanje</a>\n            </h2>\n            <p>Davki, carina, uvoz in izvoz blaga, finančna pomoč podjetjem</p>"
+      ],
+      "sv": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-life/index_sv.htm\">Göra affärer</a>\n            </h2>\n            <p>Information om skatter, tullar, import och export av varor och ekonomiskt stöd till företag</p>"
+      ]
+    },
+    "eu_law": {
+      "bg": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_bg.htm\">Право на ЕС</a>\n            </h2>\n            <p>Договори, законодателство, съдебна практика на ЕС и създаване и прилагане на правото на ЕС</p>"
+      ],
+      "cs": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_cs.htm\">Právo EU</a>\n            </h2>\n            <p>Smlouvy EU, právní předpisy, judikatura a jejich provádění a uplatňování</p>"
+      ],
+      "da": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_da.htm\">EU-lovgivningen</a>\n            </h2>\n            <p>Find EU-traktater, -lovgivning og -retspraksis. Hvordan EU-retten bliver til og anvendt</p>"
+      ],
+      "de": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_de.htm\">EU-Recht</a>\n            </h2>\n            <p>EU-Verträge, Rechtsvorschriften, Rechtsprechung, Gestaltung und Anwendung des EU-Rechts</p>"
+      ],
+      "el": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_el.htm\">Δίκαιο της ΕΕ</a>\n            </h2>\n            <p>Βρείτε τις συνθήκες, τη νομοθεσία και τη νομολογία της ΕΕ, μάθετε πώς καταρτίζεται και εφαρμόζεται το δίκαιο της ΕΕ</p>"
+      ],
+      "en": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_en.htm\">EU law</a>\n            </h2>\n            <p>Find EU treaties, legislation, case-law, how EU law is made and applied</p>"
+      ],
+      "es": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_es.htm\">Derecho de la UE</a>\n            </h2>\n            <p>Buscar tratados, legislación, jurisprudencia o cómo se elabora y aplica la legislación europea</p>"
+      ],
+      "et": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_et.htm\">ELi õigus</a>\n            </h2>\n            <p>Leidke teavet ELi lepingute, õigusaktide, kohtupraktika ning selle kohta, kuidas ELi õigust luuakse ja kohaldatakse</p>"
+      ],
+      "fi": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_fi.htm\">EU:n oikeus</a>\n            </h2>\n            <p>EU:n perussopimukset, säädökset, EU-tuomioistuinten päätökset, lakien laatiminen ja soveltaminen...</p>"
+      ],
+      "fr": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_fr.htm\">Législation de l’UE</a>\n            </h2>\n            <p>Consulter les traités, la législation et la jurisprudence de l’UE, et découvrir comment la législation de l’UE est élaborée et appliquée</p>"
+      ],
+      "ga": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_ga.htm\">Dlí AE</a>\n            </h2>\n            <p>Conarthaí, reachtaíocht, cásdlí, mar a dhéantar dlíthe an Aontais agus mar a chuirtear i bhfeidhm iad</p>"
+      ],
+      "hr": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_hr.htm\">Pravo EU-a</a>\n            </h2>\n            <p>Potražite ugovore, zakonodavstvo i sudsku praksu EU-a te informacije o tome kako se pravo EU-a donosi i primjenjuje</p>"
+      ],
+      "hu": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_hu.htm\">Uniós jog</a>\n            </h2>\n            <p>Uniós alapszerződések, rendelkezések, ítélkezési gyakorlat, az uniós jogalkotás és jogalkalmazás folyamata</p>"
+      ],
+      "it": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_it.htm\">Diritto dell'UE</a>\n            </h2>\n            <p>I trattati, la legislazione e la giurisprudenza. Scopri come il diritto dell'UE viene elaborato e applicato</p>"
+      ],
+      "lt": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_lt.htm\">ES teisė</a>\n            </h2>\n            <p>ES sutartys, teisės aktai, Teismo praktikos dokumentai, ES teisės kūrimas ir taikymas</p>"
+      ],
+      "lv": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_lv.htm\">ES tiesības</a>\n            </h2>\n            <p>ES līgumi un likumdošana, judikatūra, ES tiesību aktu izstrāde un īstenošana.</p>"
+      ],
+      "mt": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_mt.htm\">Liġi tal-UE</a>\n            </h2>\n            <p>Sib trattati tal-UE, leġiżlazzjoni, każistika, kif issir il-liġi tal-UE u kif tiġi applikata</p>"
+      ],
+      "nl": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_nl.htm\">EU-recht</a>\n            </h2>\n            <p>EU-verdragen, wetgeving, rechtspraak enz. en lees hoe EU-wetgeving wordt gemaakt en toegepast</p>"
+      ],
+      "pl": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_pl.htm\">Prawo UE</a>\n            </h2>\n            <p>Unijne traktaty, prawodawstwo, orzecznictwo, tworzenie i stosowanie prawa UE</p>"
+      ],
+      "pt": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_pt.htm\">Direito da UE</a>\n            </h2>\n            <p>Procurar tratados, legislação e jurisprudência da UE, informações sobre como é feito e aplicado o direito europeu</p>"
+      ],
+      "ro": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_ro.htm\">Dreptul UE</a>\n            </h2>\n            <p>Acces la tratatele, legislația și jurisprudența UE și informații despre cum sunt elaborate și aplicate normele UE</p>"
+      ],
+      "sk": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_sk.htm\">Právo EÚ</a>\n            </h2>\n            <p>Informácie o európskych zmluvách, právnych predpisoch, judikatúre a o tom, ako sa tvoria a uplatňujú právne predpisy EÚ</p>"
+      ],
+      "sl": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_sl.htm\">Pravo EU</a>\n            </h2>\n            <p>Pogodbi EU, zakonodaja, sodna praksa, priprava in uporaba predpisov EU</p>"
+      ],
+      "sv": [
+        "<h2>\n               <a href=\"http://europa.eu/eu-law/index_sv.htm\">EU-lagstiftning</a>\n            </h2>\n            <p>Hitta EU:s fördrag, lagar och rättspraxis och läs om hur EU-rätten antas och tillämpas</p>"
+      ]
+    },
+    "documents_and_publications": {
+      "bg": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_bg.htm\">Документи и публикации</a>\n            </h2>\n            <p>Официални документи, публикации, статистически данни, данни със свободен достъп и други ресурси</p>"
+      ],
+      "cs": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_cs.htm\">Dokumenty a publikace</a>\n            </h2>\n            <p>Úřední dokumenty, publikace, statistiky, veřejně přístupné údaje a další materiály</p>"
+      ],
+      "da": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_da.htm\">Dokumenter og publikationer</a>\n            </h2>\n            <p>Find officielle dokumenter, publikationer, statistikker, åbne data og andre ressourcer</p>"
+      ],
+      "de": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_de.htm\">Dokumente und Veröffentlichungen</a>\n            </h2>\n            <p>Offizielle Dokumente, Veröffentlichungen, Statistiken, offene Daten und weitere Ressourcen</p>"
+      ],
+      "el": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_el.htm\">Έγγραφα και εκδόσεις</a>\n            </h2>\n            <p>Βρείτε επίσημα έγγραφα, εκδόσεις, στατιστικές, ανοιχτά δεδομένα και άλλα πολλά</p>"
+      ],
+      "en": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_en.htm\">Documents and publications</a>\n            </h2>\n            <p>Find official documents, publications, statistics, open data and more resources</p>"
+      ],
+      "es": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_es.htm\">Documentos y publicaciones</a>\n            </h2>\n            <p>Buscar documentos oficiales, publicaciones, estadísticas, datos de libre acceso y otros recursos</p>"
+      ],
+      "et": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_et.htm\">Dokumendid ja väljaanded</a>\n            </h2>\n            <p>Leidke ametlikke dokumente, väljaandeid, statistikat, avatud andmeid ja palju muud</p>"
+      ],
+      "fi": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_fi.htm\">Asiakirjat ja julkaisut</a>\n            </h2>\n            <p>EU:n viralliset asiakirjat, julkaisut, tilastot, avoin data, muut tietolähteet...</p>"
+      ],
+      "fr": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_fr.htm\">Documents et publications</a>\n            </h2>\n            <p>Rechercher des documents officiels, des publications, des statistiques, des données ouvertes et d'autres ressources</p>"
+      ],
+      "ga": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_ga.htm\">Doiciméid agus foilseacháin</a>\n            </h2>\n            <p>Doiciméid oifigiúla, foilseacháin, staitisticí, sonraí oscailte agus acmhainní eile</p>"
+      ],
+      "hr": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_hr.htm\">Dokumenti i publikacije</a>\n            </h2>\n            <p>Potražite službene dokumente, publikacije, statističke podatke, otvorene podatke i brojne druge izvore</p>"
+      ],
+      "hu": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_hu.htm\">Dokumentumok</a>\n            </h2>\n            <p>Hivatalos dokumentumok, kiadványok, statisztikák, nyílt hozzáférésű adatok és számos egyéb forrásanyag</p>"
+      ],
+      "it": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_it.htm\">Documenti e pubblicazioni</a>\n            </h2>\n            <p>Documenti ufficiali, pubblicazioni, statistiche, open data e altre risorse</p>"
+      ],
+      "lt": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_lt.htm\">Dokumentai ir leidiniai</a>\n            </h2>\n            <p>Oficialūs dokumentai, leidiniai, statistika, atvirieji duomenys ir kiti ištekliai</p>"
+      ],
+      "lv": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_lv.htm\">Dokumenti un publikācijas</a>\n            </h2>\n            <p>Oficiāli dokumenti, publikācijas, statistika, atklātie dati un citi resursi.</p>"
+      ],
+      "mt": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_mt.htm\">Dokumenti u pubblikazzjonijiet</a>\n            </h2>\n            <p>Sib dokumenti uffiċjali, pubblikazzjonijiet, statistika, dejta miftuħa u aktar riżorsi</p>"
+      ],
+      "nl": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_nl.htm\">Documenten en publicaties</a>\n            </h2>\n            <p>Officiële documenten, publicaties, statistieken, open data enz.</p>"
+      ],
+      "pl": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_pl.htm\">Dokumenty i publikacje</a>\n            </h2>\n            <p>Urzędowe dokumenty, publikacje, statystyki, otwarte dane i inne źródła</p>"
+      ],
+      "pt": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_pt.htm\">Documentos e publicações</a>\n            </h2>\n            <p>Procurar documentos oficiais, publicações, dados estatísticos, dados abertos e outros recursos</p>"
+      ],
+      "ro": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_ro.htm\">Documente și publicații</a>\n            </h2>\n            <p>Acces la documente oficiale, publicații, statistici, date deschise și alte resurse</p>"
+      ],
+      "sk": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_sk.htm\">Dokumenty a publikácie</a>\n            </h2>\n            <p>Úradné dokumenty, publikácie, štatistiky, otvorené údaje a viac zdrojov</p>"
+      ],
+      "sl": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_sl.htm\">Dokumenti in publikacije</a>\n            </h2>\n            <p>Uradni dokumenti, publikacije, statistika, odprti podatki, drugi viri</p>"
+      ],
+      "sv": [
+        "<h2>\n               <a href=\"http://europa.eu/publications/index_sv.htm\">Handlingar och publikationer</a>\n            </h2>\n            <p>Hitta officiella handlingar, publikationer, statistik, öppna data och andra resurser</p>"
+      ]
+    },
+    "kids_corner": {
+      "bg": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_bg.htm\">Детски кът</a>\n            </h2>\n            <p>Участвайте в игри и викторини и научете за Европа</p>"
+      ],
+      "cs": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_cs.htm\">Pro školáky</a>\n            </h2>\n            <p>Hry a kvízy na téma „Evropa“</p>"
+      ],
+      "da": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_da.htm\">Børnehjørnet</a>\n            </h2>\n            <p>Lær noget om Europa ved at spille og quizze</p>"
+      ],
+      "de": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_de.htm\">Kinderecke</a>\n            </h2>\n            <p>Spielen, raten und dabei etwas über Europa lernen</p>"
+      ],
+      "el": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_el.htm\">Η γωνιά του παιδιού</a>\n            </h2>\n            <p>Πάρτε μέρος σε παιχνίδια και κουίζ για να μάθετε περισσότερα για την Ευρώπη</p>"
+      ],
+      "en": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_en.htm\">Kids' Corner</a>\n            </h2>\n            <p>Play games and quizzes and find out about Europe</p>"
+      ],
+      "es": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_es.htm\">Zona infantil</a>\n            </h2>\n            <p>Juegos y pasatiempos para descubrir Europa</p>"
+      ],
+      "et": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_et.htm\">Lastele</a>\n            </h2>\n            <p>Mängi mänge ja võta osa viktoriinidest ning saa Euroopa kohta rohkem teada</p>"
+      ],
+      "fi": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_fi.htm\">Lasten ja\n                              <br/>nuorten sivut</a>\n            </h2>\n            <p>Pelaa EU-aiheisia pelejä ja tietokilpailuja</p>"
+      ],
+      "fr": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_fr.htm\">Le coin des enfants</a>\n            </h2>\n            <p>Jeux et quiz pour en savoir plus sur l'Europe</p>"
+      ],
+      "ga": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_ga.htm\">Cúinne na bPáistí</a>\n            </h2>\n            <p>Imir cluichí agus tráthanna na gceist agus cuir eolas ar an Eoraip</p>"
+      ],
+      "hr": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_hr.htm\">Dječji kutak</a>\n            </h2>\n            <p>Igrajte igrice i rješavajte kvizove kako biste doznali više o Europi</p>"
+      ],
+      "hu": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_hu.htm\">Gyereksarok</a>\n            </h2>\n            <p>Ismeretterjesztő kvízjátékok az Európai Unióról</p>"
+      ],
+      "it": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_it.htm\">L'angolo dei bambini</a>\n            </h2>\n            <p>Giochi e quiz per conoscere l'Europa</p>"
+      ],
+      "lt": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_lt.htm\">Vaikų kampelis</a>\n            </h2>\n            <p>Žaisk žaidimus, atsakyk į viktorinų klausimus ir sužinok daugiau apie Europą</p>"
+      ],
+      "lv": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_lv.htm\">Bērnu stūrītis</a>\n            </h2>\n            <p>Spēlē spēles, pārbaudi sevi viktorīnās un uzzini vairāk par Eiropu</p>"
+      ],
+      "mt": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_mt.htm\">Rokna għat-tfal</a>\n            </h2>\n            <p>Ilgħab logħob u kwiżżis u skopri iktar dwar l-Ewropa</p>"
+      ],
+      "nl": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_nl.htm\">Kids' Corner</a>\n            </h2>\n            <p>Leer spelend en kwissend meer over Europa</p>"
+      ],
+      "pl": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_pl.htm\">Kącik dla dzieci</a>\n            </h2>\n            <p>Graj w gry i rozwiązuj quizy, aby dowiedzieć się więcej o Europie</p>"
+      ],
+      "pt": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_pt.htm\">Espaço dos mais novos</a>\n            </h2>\n            <p>Diverte-te com jogos e passatempos e descobre coisas sobre a Europa</p>"
+      ],
+      "ro": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_ro.htm\">Colţul copiilor</a>\n            </h2>\n            <p>Jocuri şi quiz-uri pentru a afla mai multe despre Europa</p>"
+      ],
+      "sk": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_sk.htm\">Detský kútik</a>\n            </h2>\n            <p>Spoznajte Európu prostredníctvom hier a kvízov</p>"
+      ],
+      "sl": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_sl.htm\">Kotiček za otroke</a>\n            </h2>\n            <p>Z igrami in kvizi spoznaj Evropo</p>"
+      ],
+      "sv": [
+        "<h2>\n               <a href=\"http://europa.eu/kids-corner/index_sv.htm\">Barnhörnan</a>\n            </h2>\n            <p>Lär dig mer om EU med spel och frågesporter.</p>"
+      ]
+    },
+    "teachers_corner": {
+      "bg": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_bg.htm\">Кът на учителя</a>\n            </h2>\n            <p>Учебни материали за ЕС, включително книги и карти</p>"
+      ],
+      "cs": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_cs.htm\">Učitelům</a>\n            </h2>\n            <p>Učební materiály o EU (včetně knih a map)</p>"
+      ],
+      "da": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_da.htm\">Lærerværelset</a>\n            </h2>\n            <p>Undervisningsmateriale om EU, blandt andet bøger og kort</p>"
+      ],
+      "de": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_de.htm\">Die EU für Lehrer/innen</a>\n            </h2>\n            <p>Lehrmaterial zur EU, einschließlich Büchern und Landkarten</p>"
+      ],
+      "el": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_el.htm\">H γωνιά των εκπαιδευτικών</a>\n            </h2>\n            <p>Διδακτικό υλικό για την ΕΕ, όπως βιβλία και χάρτες</p>"
+      ],
+      "en": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_en.htm\">Teachers' Corner</a>\n            </h2>\n            <p>Teaching material about the EU, including books and maps</p>"
+      ],
+      "es": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_es.htm\">El Rincón del Profesor</a>\n            </h2>\n            <p>Libros, mapas y material didáctico sobre la UE</p>"
+      ],
+      "et": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_et.htm\">Õpetajatele</a>\n            </h2>\n            <p>ELi käsitlev õppematerjal, mis sisaldab raamatuid ja kaarte</p>"
+      ],
+      "fi": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_fi.htm\">Opettajainhuone</a>\n            </h2>\n            <p>EU-aiheista oppimateriaalia, kuten verkkosivustoja, kirjoja ja karttoja</p>"
+      ],
+      "fr": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_fr.htm\">Espace Enseignants</a>\n            </h2>\n            <p>Matériel pédagogique sur l'UE (livres et cartes, notamment)</p>"
+      ],
+      "ga": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_ga.htm\">Cúinne na Múinteoirí</a>\n            </h2>\n            <p>Ábhar teagaisc faoin AE, leabhair agus léarscáileanna san áireamh</p>"
+      ],
+      "hr": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_hr.htm\">Kutak za nastavnike</a>\n            </h2>\n            <p>Nastavni materijali o EU, uključujući knjige i karte</p>"
+      ],
+      "hu": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_hu.htm\">Tanár-segéd</a>\n            </h2>\n            <p>Könyvek, térképek és egyéb oktatási segédanyagok az EU-ról</p>"
+      ],
+      "it": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_it.htm\">L’angolo degli insegnanti</a>\n            </h2>\n            <p>Materiale didattico sull'UE, inclusi libri e cartine</p>"
+      ],
+      "lt": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_lt.htm\">Mokytojų kampelis</a>\n            </h2>\n            <p>Mokomoji medžiaga apie ES (knygos, žemėlapiai ir kt.)</p>"
+      ],
+      "lv": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_lv.htm\">Palīgs skolotājiem</a>\n            </h2>\n            <p>Mācību līdzekļi par ES, tostarp grāmatas un kartes</p>"
+      ],
+      "mt": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_mt.htm\">Ir-Rokna tal-Għalliema</a>\n            </h2>\n            <p>Materjal ta' tagħlim dwar l-UE, inklużi kotba u mapep</p>"
+      ],
+      "nl": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_nl.htm\">Voor leerkrachten</a>\n            </h2>\n            <p>Lesmateriaal over de EU, o.a. boeken en kaarten</p>"
+      ],
+      "pl": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_pl.htm\">Kącik dla nauczycieli</a>\n            </h2>\n            <p>Materiały dla nauczycieli na temat UE, w tym książki i mapy</p>"
+      ],
+      "pt": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_pt.htm\">Espaço dos professores</a>\n            </h2>\n            <p>Material didático sobre a UE (livros, mapas, etc.)</p>"
+      ],
+      "ro": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_ro.htm\">Spaţiul profesorului</a>\n            </h2>\n            <p>Materiale didactice despre UE, inclusiv cărţi şi hărţi</p>"
+      ],
+      "sk": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_sk.htm\">Kútik pre učiteľov</a>\n            </h2>\n            <p>Učebný materiál o EÚ, vrátane kníh a máp</p>"
+      ],
+      "sl": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_sl.htm\">Kotiček za učitelje</a>\n            </h2>\n            <p>Gradivo o EU za učitelje, vključno s knjigami in zemljevidi</p>"
+      ],
+      "sv": [
+        "<h2>\n               <a href=\"http://europa.eu/teachers-corner/index_sv.htm\">Lärarrummet</a>\n            </h2>\n            <p>Läromedel om EU, till exempel böcker och kartor.</p>"
+      ]
+    }
+  }
+}

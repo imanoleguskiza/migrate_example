@@ -1,0 +1,47 @@
+{
+    "_id": "84ed3c14c898a2f66a4b71e1c6865e5e",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "und",
+        "hr"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2013-01-31 18:21:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                3
+            ]
+        },
+        "parent": {
+            "und": [
+                "bd24ea227a39b440a2861491af5f056f"
+            ]
+        },
+        "level": {
+            "und": [
+                2
+            ]
+        },
+        "title": {
+            "und": [
+                "Decision-making"
+            ],
+            "hr": [
+                "Odlučivanje"
+            ]
+        },
+        "link": {
+            "und": [
+                "PlaceholderforSectionindexPage"
+            ],
+            "hr": [
+                "PlaceholderforSectionindexPage"
+            ]
+        }
+    }
+}

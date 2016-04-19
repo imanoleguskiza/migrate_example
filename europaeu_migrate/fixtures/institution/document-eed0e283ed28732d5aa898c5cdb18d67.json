@@ -1,0 +1,793 @@
+{
+    "_id": "eed0e283ed28732d5aa898c5cdb18d67",
+    "type": "institution",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/easa/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Европейска агенция за авиационна безопасност"
+            ],
+            "cs": [
+                "Evropská agentura pro bezpečnost letectví"
+            ],
+            "da": [
+                "Det Europæiske Luftfartssikkerhedsagentur"
+            ],
+            "de": [
+                "Europäische Agentur für Flugsicherheit"
+            ],
+            "el": [
+                "Ευρωπαϊκός Οργανισμός Ασφάλειας  της Αεροπορίας"
+            ],
+            "en": [
+                "European Aviation Safety Agency"
+            ],
+            "es": [
+                "Agencia Europea de Seguridad Aérea"
+            ],
+            "et": [
+                "Euroopa Lennundusohutusamet"
+            ],
+            "fi": [
+                "Euroopan lentoturvallisuusvirasto"
+            ],
+            "fr": [
+                "Agence européenne de la sécurité aérienne"
+            ],
+            "ga": [
+                "An Ghníomhaireacht Eorpach um Shábháilteacht Eitlíochta"
+            ],
+            "hr": [
+                "Europska agencija za sigurnost zračnoga prometa"
+            ],
+            "hu": [
+                "Európai Repülésbiztonsági Ügynökség"
+            ],
+            "it": [
+                "Agenzia europea per la sicurezza aerea"
+            ],
+            "lt": [
+                "Europos aviacijos saugos agentūra"
+            ],
+            "lv": [
+                "Eiropas Aviācijas drošības aģentūra"
+            ],
+            "mt": [
+                "l-Aġenzija Ewropea tas-Sigurtà ta' l-Avjazzjoni"
+            ],
+            "nl": [
+                "Europees Agentschap voor de veiligheid van de luchtvaart"
+            ],
+            "pl": [
+                "Europejska Agencja Bezpieczeństwa Lotniczego"
+            ],
+            "pt": [
+                "Agência Europeia para a Segurança da Aviação"
+            ],
+            "ro": [
+                "Agenţia Europeană de Siguranţă a Aviaţiei"
+            ],
+            "sk": [
+                "Európska agentúra pre bezpečnosť letectva"
+            ],
+            "sl": [
+                "Evropska agencija za varnost v letalstvu"
+            ],
+            "sv": [
+                "Europeiska byrån för luftfartssäkerhet"
+            ]
+        },
+        "category": {
+            "und": [
+                "23337c9",
+                "40261c6"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/"
+            ],
+            "cs": [
+                "AGENCIES"
+            ],
+            "da": [
+                "EUROPA/"
+            ],
+            "de": [
+                "EUROPA/"
+            ],
+            "el": [
+                "EUROPA/"
+            ],
+            "en": [
+                "EUROPA/"
+            ],
+            "es": [
+                "EUROPA"
+            ],
+            "et": [
+                "EUROPA/"
+            ],
+            "fi": [
+                "EUROPA/"
+            ],
+            "fr": [
+                "EUROPA/"
+            ],
+            "ga": [
+                "EUROPA/"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "EUROPA/"
+            ],
+            "it": [
+                "EUROPA/"
+            ],
+            "lt": [
+                "EUROPA/"
+            ],
+            "lv": [
+                "EUROPA/"
+            ],
+            "mt": [
+                "EUROPA/"
+            ],
+            "nl": [
+                "EUROPA/"
+            ],
+            "pl": [
+                "EUROPA/"
+            ],
+            "pt": [
+                "EUROPA/"
+            ],
+            "ro": [
+                "EUROPA/"
+            ],
+            "sk": [
+                "EUROPA/"
+            ],
+            "sl": [
+                "EUROPA/"
+            ],
+            "sv": [
+                "EUROPA/"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Достъп и основна информация за Европейската агенция за авиационна безопасност, агенция на Европейския съюз"
+            ],
+            "cs": [
+                " Přístup k Evropské agentuře pro bezpečnost letectví, agentuře Evropské unie, a obecné informace o ní"
+            ],
+            "da": [
+                "Adgang til og baggrundsoplysninger om Det Europæiske Luftfartssikkerhedsagentur, et EU-agentur"
+            ],
+            "de": [
+                "Zugang und Hintergrundinformationen über die Europäische Agentur für Flugsicherheit, einer Einrichtung der Europäischen Union"
+            ],
+            "el": [
+                "Πρόσβαση στην ιστοσελίδα και ενημερωτικό υπόβαθρο σχετικά με τον Ευρωπαϊκό οργανισμό ασφάλειας της αεροπορίας, έναν Οργανισμό (υπηρεσία) της Ευρωπαϊκής Ένωσης"
+            ],
+            "en": [
+                "Access to and background information on the European Aviation Safety Agency, an agency of the European Union"
+            ],
+            "es": [
+                "Acceso a la Agencia Europea de Seguridad Aérea, una agencia de la Unión Europea, e información sobre la misma"
+            ],
+            "et": [
+                "Juurdepääs Euroopa Liidu ametile Euroopa Lennundusohutusamet ja taustteave ameti kohta"
+            ],
+            "fi": [
+                "Tietoa Euroopan lentoturvallisuusvirastosta, joka on Euroopan unionin erillisvirasto"
+            ],
+            "fr": [
+                "Accès au site de l'Agence européenne de la sécurité aérienne, une des agences de l'Union européenne, et informations générales à son sujet."
+            ],
+            "ga": [
+                "Rochtain ar an nGníomhaireacht Eorpach um Shábháilteacht Eitlíochta, ar gníomhaireacht de chuid an Aontais Eorpaigh í, agus faisnéis chúlra maidir léi"
+            ],
+            "hr": [
+                "Pristup Europskoj agenciji za sigurnost zračnoga prometa (agenciji Europske unije) i popratne informacije"
+            ],
+            "hu": [
+                "Hozzáférés az Európai Repülésbiztonsági Ügynökséghez, az Európai Unió egyik ügynökségéhez, és háttérinformáció az ügynökségről"
+            ],
+            "it": [
+                "Informazioni generali e accesso al sito dell'Agenzia europea per la sicurezza aerea, un'agenzia dell'Unione europea."
+            ],
+            "lt": [
+                "Prieiga, pagrindinė informacija apie Europos aviacijos saugos agentūrą, Europos Sąjungos agentūra"
+            ],
+            "lv": [
+                "Pieeja informācijai un vispārēja informācija par Eiropas Aviācijas drošības aģentūru, Eiropas Savienības aģentūru"
+            ],
+            "mt": [
+                "Aċċess għal, u sfond ta’ tagħrif dwar l-Aġenzija Ewropea għas-Sigurtà fl-Avjazzjoni, Aġenzija ta’ l-Unjoni Ewropea"
+            ],
+            "nl": [
+                "Toegang tot en achtergrondinformatie over het Europees agentschap voor de veiligheid van de luchtvaart, een agentschap van de Europese Unie"
+            ],
+            "pl": [
+                "Europa  - dostęp do Agencji oraz podstawowe informacje o Europejskiej Agencji Bezpieczeństwa Transportu Lotniczego, agencji Unii Europejskiej"
+            ],
+            "pt": [
+                "Acesso e informações sobre a Agência Europeia para a Segurança da Aviação, uma Agência da União Europeia"
+            ],
+            "ro": [
+                "Acces şi informaţii generale referitoare la Agenţia Europeană de Siguranţă a Aviaţiei, o agenţie a Uniunii Europene"
+            ],
+            "sk": [
+                "Prístup a podrobnejšie informácie o Európskej agentúre pre bezpečnosť letectva, agentúre Európskej únie"
+            ],
+            "sl": [
+                "Dostop do in ozadje o Evropski agenciji za varnost v letalstvu, agenciji Evropske unije."
+            ],
+            "sv": [
+                "Tillgång till och bakgrundsinformation om Europeiska byrån för luftfartssäkerhet, ett av Europeiska unionens organ"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "europa"
+            ],
+            "cs": [
+                "EUROPA",
+                "agentury",
+                "orgány",
+                "evropská",
+                "unie",
+                "eu"
+            ],
+            "da": [
+                "agenturer",
+                "europa",
+                "institutioner",
+                "den europæiske union",
+                "eu"
+            ],
+            "de": [
+                "europa",
+                "Einrichtungen",
+                "Institutionen",
+                "Europäische Union",
+                "EU"
+            ],
+            "el": [
+                "europa",
+                "Οργανισμοί (υπηρεσίες)",
+                "θεσμικά όργανα",
+                "Ευρωπαϊκή Ένωση",
+                "ΕΕ"
+            ],
+            "en": [
+                "europa"
+            ],
+            "es": [
+                "europa",
+                "organismos",
+                "instituciones",
+                "union europea",
+                "ue"
+            ],
+            "et": [
+                "europa",
+                "Ametid",
+                "institutsioonid",
+                "Euroopa Liit",
+                "EL"
+            ],
+            "fi": [
+                "europa",
+                "erillisvirastot",
+                "toimielimet",
+                "Euroopan unioni",
+                "EU"
+            ],
+            "fr": [
+                "europa",
+                "agences",
+                "institutions",
+                "Union européenne",
+                "UE"
+            ],
+            "ga": [
+                "europa"
+            ],
+            "hr": [
+                "europa"
+            ],
+            "hu": [
+                "europa",
+                "ügynökségek",
+                "intézmények",
+                "európai unió",
+                "eu"
+            ],
+            "it": [
+                "europa",
+                "agenzie",
+                "istituzioni",
+                "Unione europea",
+                "UE"
+            ],
+            "lt": [
+                "europa",
+                "agentūros",
+                "institucijos",
+                "europos sąjunga",
+                "es"
+            ],
+            "lv": [
+                "europa",
+                "aģentūras",
+                "iestādes",
+                "eiropas",
+                "savienība",
+                "es"
+            ],
+            "mt": [
+                "europa",
+                "aġenziji",
+                "istituzzjonijiet",
+                "unjoni ewropea",
+                "ue"
+            ],
+            "nl": [
+                "europa",
+                "agentschappen",
+                "instellingen",
+                "Europese Unie",
+                "EU"
+            ],
+            "pl": [
+                "europa",
+                "agencje",
+                "instytucje",
+                "unia europejska",
+                "UE"
+            ],
+            "pt": [
+                "europa",
+                "agências",
+                "instituições",
+                "União Europeia",
+                "UE"
+            ],
+            "ro": [
+                "europa"
+            ],
+            "sk": [
+                "europa",
+                "agentúry",
+                "inštitúcie",
+                "Európska únia",
+                "EÚ"
+            ],
+            "sl": [
+                "europa",
+                "agencije",
+                "institucije",
+                "evropska unija",
+                "eu"
+            ],
+            "sv": [
+                "europa",
+                "organ",
+                "institutioner",
+                "Europeiska unionen",
+                "EU"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "info1": {
+            "bg": [
+                "<p>Европейската агенция за авиационна безопасност е агенция на Европейския съюз, която изпълнява специфични регулаторни и изпълнителни дейности в областта на авиационната безопасност. Агенцията представлява основен механизъм от стратегията на Европейския съюз за осъществяване и поддържане на единно ниво на авиационна безопасност в Европа. </p>             <p>Дейността на агенцията се изпълнява в две направления. Осигурява техническа експертиза на Европейската комисия чрез съдействие при изготвянето на правилата за въздушна безопасност в различните области, както и дава своя технически принос при обобщаване на международните спогодби. </p>"
+            ],
+            "cs": [
+                "<p>Evropská agentura pro bezpečnost letectví je agentura Evropské unie, která plní specifi cké regulační a výkonné úkoly vztahující se k oblasti bezpečnosti letectví. Agentura představuje klíčovou složku strategie Evropské unie pro vytváření a udržování vysoké stejnoměrné úrovně civilního letectví v Evropě.</p>             <p>Poslání agentury je dvojí. Má poskytovat technické odborné znalosti pro Evropskou komisi, které pomáhá při zpracování pravidel pro bezpečnost letectví v nejrůznějších oblastech, a poskytovat technické podklady pro uzavírání důležitých mezinárodních dohod.</p>"
+            ],
+            "da": [
+                "<p>Det Europæiske Luftfartssikkerhedsagentur er et fællesskabsagentur, som varetager bestemte forvaltnings- og ledelsesopgaver inden for luftfartssikkerhed. Agenturet spiller en nøglerolle i EU’s strategi om at fastsætte og opretholde et højt, ensartet niveau for civil luftfartssikkerhed i Europa.</p>             <p>Agenturet har to opgaver. Den ene er at stille faglig viden til rådighed for Europa-Kommissionen og bistå ved udarbejdelsen af regler for luftfartssikkerhed på forskellige områder, den anden at yde teknisk bistand ved indgåelse af relevante internationale aftaler.</p>"
+            ],
+            "de": [
+                "<p>Die Europäische Agentur für Flugsicherheit ist eine Einrichtung der Europäischen Union zur Wahrnehmung der spezifi schen Regulierungs- und Exekutivaufgaben auf dem Gebiet der Flugsicherheit. Die Agentur stellt ein Schlüsselelement in der Strategie der Europäischen Union für die Einführung und Erhaltung eines einheitlich hohen Niveaus der Flugsicherheit in Europa dar.</p>             <p>Die Agentur hat einen doppelten Auftrag. Sie soll die Europäische Kommission mit ihrem Fachwissen bei der Abfassung von Flugsicherheitsregeln auf verschiedenen Gebieten unterstützen und beim Abschluss der entsprechenden internationalen Abkommen technische Zuarbeit leisten.</p>"
+            ],
+            "el": [
+                "<p>Ο Ευρωπαϊκός Οργανισμός Ασφάλειας της Αεροπορίας είναι όργανο της Ευρωπαϊκής Ένωσης με συγκεκριμένα ρυθμιστικά και εκτελεστικά καθήκοντα στον τομέα της ασφάλειας της αεροπορίας. Ο οργανισμός διαδραματίζει βασικό ρόλο στη χάραξη της στρατηγικής της ΕΕ με στόχο την εγκαθίδρυση και διατήρηση υψηλού και ομοιόμορφου επιπέδου ασφάλειας της πολιτικής αεροπορίας στην Ευρώπη.</p>             <p>Η συμβολή του οργανισμού είναι διπλή. Ο οργανισμός παρέχει τεχνικές γνώσεις στην Ευρωπαϊκή Επιτροπή, με την παροχή βοήθειας για τη θέσπιση κανόνων ασφάλειας της αεροπορίας σε διάφορους τομείς και την παροχή τεχνικής βοήθειας με σκοπό τη σύναψη σχετικών διεθνών συμφωνιών.</p>"
+            ],
+            "en": [
+                "<p>The European Aviation Safety Agency is an agency of the European Union which has been given specific regulatory and executive tasks in the field of aviation safety. The Agency constitutes a key part of the European Union’s strategy to establish and maintain a high uniform level of civil aviation safety in Europe.</p>             <p>The Agency’s mission is twofold. It shall provide technical expertise to the European Commission by assisting in the drafting of rules for aviation safety in various areas and providing technical input to the conclusion of the relevant international agreements.</p>"
+            ],
+            "es": [
+                "<p>La Agencia Europea de Seguridad Aérea (AESA) es un organismo de la Unión Europea al que le han sido asignadas tareas específi cas de reglamentación y ejecución en el ámbito de la seguridad aérea. La Agencia representa una parte esencial de la estrategia de la Unión Europea orientada a garantizar en todo momento un nivel elevado y uniforme de protección de los ciudadanos europeos en el ámbito de la aviación civil.</p>             <p>Este organismo tiene una doble misión: facilitar a la Comisión Europea conocimientos especializados a la hora de elaborar normas de seguridad aérea en diferentes ámbitos y proporcionar información técnica para la celebración de los acuerdos internacionales pertinentes.</p>"
+            ],
+            "et": [
+                "<p>Euroopa Lennundusohutusamet on Euroopa Liidu asutus, millele on antud konkreetsed lennundusohutusalased reguleerimis- ja täitevülesanded. Ametil on tähtis roll Euroopa Liidu strateegias tsiviillennundusohutuse ühtlaselt kõrge taseme saavutamiseks ja hoidmiseks Euroopas.</p>             <p>Ametil on kaks missiooni. See pakub Euroopa Komisjonile tehnilisi eriteadmisi, aidates koostada eri valdkondades lennundusohutusalaseid eeskirju, ja annab tehnilise panuse asjaomaste rahvusvaheliste lepingute sõlmimisse.</p>"
+            ],
+            "fi": [
+                "<p>Euroopan lentoturvallisuusvirasto EASA on Euroopan unionin erillisvirasto, jolle on annettu tehtäväksi hoitaa erityisiä toimeenpano- ja sääntelytehtäviä lentoturvallisuuden alalla. Virastolla on hyvin tärkeä rooli Euroopan unionin strategiassa, jonka tarkoituksena on luoda korkea, yhtenäinen Euroopan siviiliilmailun turvallisuuden taso ja ylläpitää sitä.</p>             <p>Virastolla on kahtalainen tehtävä. Se tarjoaa Euroopan komissiolle teknistä asiantuntemusta auttamalla ilmailusääntöjen laatimisessa monella alueella ja tarjoamalla teknistä apua asiaan liittyvien kansainvälisten sopimusten tekemisessä.</p>"
+            ],
+            "fr": [
+                "<p>L’Agence européenne de la sécurité aérienne est une agence de l’Union européenne qui s’est vu attribuer des tâches d’exécution et en matière de réglementation dans le domaine de la sécurité aérienne. L’agence constitue un élément essentiel de la stratégie de l’Union européenne visant à établir et à maintenir un niveau élevé et uniforme de sécurité dans le domaine de l’aviation civile en Europe.</p>             <p>La mission de l’agence est double. Elle fournit une expertise technique à la Commission européenne en contribuant à la rédaction de règles en matière de sécurité aérienne dans divers domaines et en apportant une collaboration technique à la conclusion des accords internationaux y afférents.</p>"
+            ],
+            "ga": [
+                "<p>Gníomhaireacht de chuid an Aontais Eorpaigh is ea an Ghníomhaireacht Eorpach um Shábháilteacht Eitlíochta ar tugadh sainchúraimí rialacháin agus feidhmiúcháin di i réimse na sábháilteachta eitlíochta.  Tá tábhacht leis an nGníomhaireacht maidir le straitéis an Aontais Eorpaigh chun ardleibhéal aonfhoirmeach de shábháilteacht eitlíochta sibhialta a bhunú agus a choiméad ar bun san Eoraip. </p>             <p>Misean faoi dhó is ea misean na Gníomhaireachta. Soláthróidh sí saineolas teicniúil don Choimisiún Eorpach trí chabhrú chun rialacha a dhréachtú le haghaidh sábháilteachta eitlíochta i réimsí éagsúla agus trí ionchur teicniúil a sholáthar chun comhaontuithe idirnáisiúnta a thabhairt i gcrích.</p>"
+            ],
+            "hr": [
+                "<p>Europska agencija za sigurnost zračnoga prometa agencija je Europske unije koja ima specifične regulatorne i izvršne zadatke u području sigurnosti zračnoga prometa. Agencija predstavlja ključni dio u strategiji Europske unije za uspostavu i održavanje visoke ujednačene razine sigurnosti zračnoga prometa u Europi.</p>             <p>Agencija ima dvostruku zadaću. Pruža stručnu tehničku podršku Europskoj komisiji u izradi nacrta propisa o sigurnosti zračnoga prometa u različitim područjima te daje svoje mišljenje pri sklapanju relevantnih međunarodnih sporazuma.</p>"
+            ],
+            "hu": [
+                "<p>Az Európai Repülésbiztonsági Ügynökség az Európai Unió egyik, a repülésbiztonság területén specifi kus szabályozási és irányítási feladatokkal megbízott ügynöksége. A szervezet kulcsszerepet játszik az Európai Uniónak az Európán belüli polgári repülésbiztonság egyformán magas szintjének létrehozására és fenntartására irányuló stratégiájában.</p>             <p>Az ügynökség küldetése kettős: egyrészt az Európai Bizottság szakmai tanácsadó testületeként működik: segítséget nyújt a repülésbiztonságra vonatkozó szabálytervezetek kidolgozásában különböző területeken, és szakmailag megalapozza a megfelelő nemzetközi megállapodásokat.</p>"
+            ],
+            "it": [
+                "<p>L’Agenzia europea per la sicurezza aerea (AESA) è un’agenzia dell’Unione europea a cui sono stati attribuiti dei compiti specifi ci di carattere normativo ed esecutivo nel campo della sicurezza aerea. L’Agenzia è un protagonista chiave della strategia dell’Unione europea di costituire e mantenere un livello elevato ed uniforme di sicurezza dell’aviazione civile in Europa.</p>             <p>La missione dell’Agenzia è duplice. Essa fornisce innanzitutto un servizio di consulenza tecnica alla Commissione europea, assistendola nella stesura dei regolamenti per la sicurezza aerea in vari settori e fornendo informazioni di carattere tecnico per la conclusione dei relativi accordi internazionali.</p>"
+            ],
+            "lt": [
+                "<p>Europos aviacijos saugos agentūra – Europos Sąjungos agentūra, kuriai buvo nustatyti konkretūs reglamentacinio ir vykdomojo pobūdžio uždaviniai aviacijos saugos srityje. Agentūrai tenka esminė funkcija įgyvendinant Europos Sąjungos strategiją, kuria siekiama palaikyti ir stiprinti vienodai aukštą civilinės aviacijos saugos lygį Europoje.</p>             <p>Agentūra atlieka dvigubą misiją. Ji teikia specializuotas technines žinias Europos Komisijai ir padeda rengti įvairių sričių aviacijos saugos taisykles bei teikia techninę pagalbą sudarant atitinkamus tarptautinius susitarimus.</p>"
+            ],
+            "lv": [
+                "<p>Eiropas Aviācijas drošības aģentūra ir Eiropas Savienības aģentūra, kurai uzticēti īpaši reglamentējoši un izpildes uzdevumi aviācijas drošības jomā. Aģentūra rada Eiropas Savienības stratēģijas pamatdaļu, lai izveidotu un uzturētu augstā vienotā līmeni civilās aviācijas drošību Eiropā.</p>             <p>Aģentūrai ir divējāda misija. Tā Eiropas Komisijai nodrošina tehnisko ekspertīzi, atbalstot noteikumu projektus, kas paredz aviācijas drošību dažādās jomās, un nodrošina tehnisko ieguldījumu būtisku starptautisko nolīgumu slēdzienu izdarīšanā.</p>"
+            ],
+            "mt": [
+                "<p>L-Aġenzija Ewropea tas-Sigurtà ta' l-Avjazzjoni hija aġenzija ta' l-Unjoni Ewropea li ġiet mogħtija kompiti regolatorji u eżekuttivi speċifi ċi fi l-qasam tas-sigurtà ta' l-avjazzjoni. L-Aġenzija tikkostitwixxi parti ewlenija ta' l-istrateġija ta' l-Unjoni Ewropea biex jiġi stabbilit u jinżamm livell għoli ta' uniformità fi s-sigurtà ta' l-avjazzjoni ċivili fl -Ewropa.</p>             <p>Il-missjoni ta' l-Aġenzija għandha żewġ objettivi. Għandha tipprovdi kompetenzi speċjali u ta' natura teknika lill-Kummissjoni Ewropea billi tgħin fl -abbozzar ta' regoli għas-sigurtà ta' l-avjazzjoni f'oqsma diff erenti u tipprovdi wkoll input tekniku sabiex jintlaħqu ftehim internazzjonali rilevanti.</p>"
+            ],
+            "nl": [
+                "<p>Het Europees Agentschap voor de veiligheid van de luchtvaart is een agentschap van de Europese Unie met specifi eke regelgevende en uitvoerende taken op het gebied van de luchtvaartveiligheid. Het Agentschap is de hoeksteen van de EU-strategie om in de burgerluchtvaart in Europa een hoog uniform niveau van veiligheid tot stand te brengen en in stand te houden.</p>             <p>Het Agentschap heeft een dubbele functie. Het ondersteunt de Europese Commissie met technische deskundigheid bij de opstelling van haar voorschriften voor de luchtvaartveiligheid op diverse terreinen en brengt technische knowhow in bij de voorbereiding van de desbetreffende te sluiten internationale overeenkomsten.</p>"
+            ],
+            "pl": [
+                "<p>Europejska Agencja Bezpieczeństwa Lotniczego jest agencją Unii Europejskiej powołaną do realizacji określonych zadań nadzorczych i wykonawczych w zakresie bezpieczeństwa lotniczego. Agencja tworzy kluczową część strategii Unii Europejskiej mającej na celu wprowadzenie i utrzymanie wysokiego jednolitego poziomu bezpieczeństwa lotnictwa cywilnego w Europie.</p>             <p>Misja Agencji zakłada dwa cele. Polegać one będą na dostarczaniu Komisji Europejskiej technicznej wiedzy poprzez pomoc w przygotowywaniu projektów przepisów w zakresie bezpieczeństwa lotniczego oraz na służeniu pomocą przy technicznych aspektach zawieranych odpowiednich umów międzynarodowych.</p>"
+            ],
+            "pt": [
+                "<p>A Agência Europeia para a Segurança da Aviação é uma agência da União Europeia à qual foram conferidas tarefas reguladoras e executivas específicas na área da segurança da aviação. A Agência desempenha um papel fundamental na estratégia comunitária destinada a estabelecer e manter um nível de segurança elevado e uniforme em matéria de segurança da aviação civil na Europa.</p>             <p>A Agência tem uma dupla missão: fornecer competência técnica à Comissão Europeia para a redacção de regras em matéria de segurança da aviação em diversos domínios e prestar o seu contributo técnico para a celebração de acordos internacionais pertinentes.</p>"
+            ],
+            "ro": [
+                "<p>Agenţia Europeană de Siguranţă a Aviaţiei este o agenţie a Uniunii Europene căreia i-au fost atribuite sarcini specifice cu caracter normativ şi executiv în domeniul siguranţei aviaţiei. Agenţia reprezintă un element esenţial al strategiei Uniunii Europene de stabilire şi menţinere a unui nivel ridicat şi uniform de siguranţă a aviaţiei civile în Europa.</p>             <p>Misiunea Agenţiei este dublă. Oferă Comisiei Europene expertiză tehnică prin contribuţia adusă la elaborarea normelor de siguranţă a aviaţiei în diverse domenii şi prin furnizarea de informaţii tehnice în vederea încheierii acordurilor internaţionale corespunzătoare.</p>"
+            ],
+            "sk": [
+                "<p>Európska agentúra pre bezpečnosť letectva je agentúrou Európskej únie, ktorej boli zverené špecifi cké normotvorné a výkonné úlohy v oblasti bezpečnosti letectva. Agentúra tvorí kľúčovú časť stratégie Európskej únie na vytvorenie a udržiavanie vysokej a jednotnej úrovne bezpečnosti civilného letectva v Európe.</p>             <p>Poslanie agentúry je dvojaké. Agentúra bude poskytovať technickú odbornú pomoc Európskej komisii pri navrhovaní predpisov bezpečnosti a poskytovať technické vstupy pre uzatváranie príslušných medzinárodných dohôd.</p>"
+            ],
+            "sl": [
+                "<p>Evropska agencija za varnost v letalstvu je agencija Evropske unije, ki so ji bile dodeljene posebne regulativne in izvedbene naloge na področju varnosti v letalstvu. Agencija je ključni del strategije Evropske unije za vzpostavitev in ohranitev visoke enotne stopnje varnosti v letalstvu v Evropi.</p>             <p>Agencija ima dvojno nalogo. Evropski komisiji zagotavlja strokovne izkušnje in znanje tako, da ji pomaga pri oblikovanju predpisov za letalsko varnost na različnih področjih in zagotavlja strokovni vložek pri sklepanju ustreznih mednarodnih sporazumov.</p>"
+            ],
+            "sv": [
+                "<p>Europeiska byrån för luftfartssäkerhet är ett EU-organ som har till uppgift att utarbeta bestämmelser och verkställa uppdrag inom luftfartssäkerhetsområdet. Byrån utgör en viktig del av Europeiska unionens strategi för att upprätta och bibehålla en hög och enhetlig nivå på civil luftfartssäkerhet i Europa.</p>             <p>Byrån har två uppgifter. Den skall tillhandahålla Europeiska kommissionen med teknisk expertis genom att bistå vid utformning av förslag till bestämmelser för luftfartssäkerhet inom olika områden och ge teknisk input för slutande av relevanta internationella överenskommelser.</p>"
+            ]
+        },
+        "info2": {
+            "bg": [
+                "<p>В допълнение към това, Агенцията има правомощията да изпълнява специфични изпълнителни дейности, свързани с авиационната безопасност, като сертифицирането на въздухоплавателни продукти и организации, занимаващи се с техния дизайн, производство и поддръжка. </p>             <p>Тези дейности по сертификация осигуряват придържане към стандарти за летателна годност и опазване на околната среда. </p>             <p>Европейската агенция за авиационна безопасност сертифицира повсеместно продукти от гражданската авиация, включващи пътническа и бизнес авиация. Важно е да се отбележи,че нейната компетенция не включва авиационна сигурност (предотвратяване на незаконни действия срещу гражданската авиация, като например отвличане). Тази дейност се осъществява чрез общественото право, прилагано от страните членки. </p>             <p>Законодателният съвет на Общността вече е взел решение, че в дългосрочен план, компетенциите на агенцията трябва прогресивно да бъдат разширени във всички сфери на авиационната безопасност, oособено при въздушни операции и лицензиране на авиационен персонал. Първата стъпка към разширяване обхвата на дейностите на агенцията, свързани с въздушни операции, лицензиране на авиационен персонал и трети страни оператори, бе направена чрез Регламент (ЕО) № 216/2008 на Европейския парламент и на Съвета от 20 февруари 2008 г.</p>             <p>Европейската агенция за авиационна безопасност e създадена чрез Регламент (ЕО) № 1592/2002 на Европейския парламент и Съвета от 15 юли 2002 г. ( <span class=\"link-disabled\">OJ L 240, 7.9.2002</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Избор на превод за предходната връзка\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Избор на превод за предходната връзка\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" border=\"0\"                     class=\"alIco\"/> отменен с Регламент (ЕО) № 216 на Европейския парламент и на Съвета от 2008 г.)</p>"
+            ],
+            "cs": [
+                "<p>Kromě toho dostala agentura pravomoc vykonávat některé výkonné funkce ve vztahu k bezpečnosti letectví, jako je osvědčování leteckých výrobků a organizací, které je navrhují, vyrábějí a provádějí jejich údržbu. Tyto osvědčovací činnosti pomáhají zajistit soulad se standardy letové způsobilosti a ochrany životního prostředí.</p>             <p>Evropská agentura pro bezpečnost letectví vydává osvědčení pro výrobky v celé oblasti civilního letectví, zahrnující všeobecné i obchodní letectví. Je důležité připomenout, že její kompetence se netýkají bezpečnosti letu (prevence ilegální činnosti proti civilnímu letectví, jako jsou na příklad únosy letadel). Zde se uplatňuje působnost právního řádu Společenství vykonávaného členskými státy. </p>             <p>Legislativní orgány Společenství rozhodly, že v delším časovém horizontu by pravomoci agentury měly být postupně rozšířeny na všechny další oblasti bezpečnosti civilního letectví, zvláště na letecký provoz a vydávání licencí leteckým posádkám. Oblast působnosti agentury byla rozšířena o letecký provoz, licencování leteckých posádek a vydávání oprávnění pro provozovatele ze třetích zemí nařízením Evropského parlamentu a Rady (ES) č. 216/2008 ze dne 20. února 2008.</p>             <p>Evropská agentura pro bezpečnost letectví byla zřízena nařízením Evropského parlamentu a Rady (ES) č. 1592/2002 ze dne 15. července 2002 (Úř. věst. <span class=\"link-disabled\">L 240, 7.9.2002</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrat překlad k předcházejícímu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrat překlad k předcházejícímu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>, zrušeno nařízením (ES) č. 216/2008).</p>"
+            ],
+            "da": [
+                "<p>Desuden har agenturet fået beføjelser til selv at varetage visse forvaltningsopgaver inden for luftfartssikkerhed, f.eks. certificering af luftfartsprodukter og foretagender, der beskæftiger sig med udformning, fremstilling og vedligeholdelse af disse produkter. Dette certificeringsarbejde hjælper til at sikre, at standarder for luftdygtighed og miljøbeskyttelse overholdes.</p>             <p>Det Europæiske Luftfartssikkerhedsagentur certificerer produkter fra hele den civile luftfart, også almen- og forretningsflyvning. Det er vigtigt at bemærke, at dets opgave ikke indbefatter sikring af luftfarten (forebyggelse af ulovlige aktioner mod den civile luftfart, f.eks. fl ykapring). Dette hører under den del af fællesskabslovgivningen, der anvendes i medlemsstaterne.</p>             <p>EU har allerede besluttet, at agenturets kompetencer på længere sigt skal udvides til også at omfatte alle andre områder af civil luftfartssikkerhed, især luftfartsvirksomhed og tilladelser til flybesætninger. En første udvidelse af agenturets ansvarsområde til at omfatte luftfartøjsoperationer, besætningers kvalifikationer og sikkerheden ved ikke-EU-landes luftfartøjer blev gennemført med Europa-Parlamentets og Rådets forordning (EF) nr. 216/2008 af 20. februar 2008.</p>             <p>Det Europæiske Luftfartssikkerhedsagentur blev oprettet ved Europa-Parlamentets og Rådets forordning (EF) nr. 1592/2002 af 15. juli 2002 (<a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                   title=\"EFT L 240 af 7.9.2002\">EFT L 240 af 7.9.2002</a>, ophævet ved forordning (EF) nr. 216/2008).</p>"
+            ],
+            "de": [
+                "<p>Außerdem wurde die Agentur ermächtigt, gewisse Exekutivaufgaben in Bezug auf die Flugsicherheit, wie z. B. die Zulassung von luftfahrttechnischen Erzeugnissen und der für deren Entwurf, Herstellung und Instandhaltung zuständigen Organisationen, auszuführen. Durch diese Zulassungstätigkeiten trägt sie zur Sicherstellung der Einhaltung der Flugtüchtigkeits- und Umweltschutznormen bei.</p>             <p>Die Europäische Agentur für Flugsicherheit übernimmt die Zulassung sämtlicher Erzeugnisse der Zivilluftfahrt, einschließlich des Geschäftsfl ugverkehrs. Es sei ausdrücklich festgestellt, dass die Luftsicherheit (Prävention von illegalen Handlungen gegen die Zivilluftfahrt wie z. B. Flugzeugentführungen) nicht in ihren Zuständigkeitsbereich fällt. Diese unterliegt vielmehr der Zuständigkeit der Mitgliedstaaten bei der Umsetzung des Gemeinschaftsrechts.</p>             <p>Die Gemeinschaft als Gesetzgeber hat bereits beschlossen, dass die Zuständigkeiten der Agentur auf längere Sicht nach und nach auf alle anderen Gebiete der Flugsicherheit in der Zivilluftfahrt, insbesondere auf den Flugbetrieb und die Zulassung der Flugbesatzung, erweitert werden sollen.Mit der Verordnung (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates vom 20. Februar 2008 wurde die Zuständigkeit der Agentur durch Ausdehnung auf den Flugbetrieb, die Zulassung der Flugbesatzung und die Ausstellung von Genehmigungen an Luftverkehrsgesellschaften aus Ländern außerhalb der EU erstmals erweitert.</p>             <p>Die Europäische Agentur für Flugsicherheit wurde mit der Verordnung (EG) Nr. 1592/2002 des Europäischen Parlaments und des Rates vom 15. Juli 2002 errichtet (<a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\">ABl. L 240 vom 7.9.2002</a>, aufgehoben durch die Verordnung (EG) Nr. 216/2008).</p>"
+            ],
+            "el": [
+                "<p>Επίσης, έχουν ανατεθεί στον οργανισμό ορισμένα εκτελεστικά καθήκοντα σχετικά με την ασφάλεια της αεροπορίας, όπως η πιστοποίηση των αεροναυτικών προϊόντων και των φορέων που ενέχονται στο σχεδιασμό, την παραγωγή και τη συντήρηση των εν λόγω προϊόντων. Οι δραστηριότητες πιστοποίησης συμβάλλουν στην τήρηση των βασικών προτύπων αξιοπλοΐας και περιβαλλοντικής προστασίας.</p>             <p>Ο Ευρωπαϊκός Οργανισμός Ασφάλειας της Αεροπορίας πιστοποιεί προϊόντα στον τομέα της πολιτικής αεροπορίας γενικότερα, ο οποίος περιλαμβάνει τη γενική και ιδιωτική αεροπλοΐα. Πρέπει να τονιστεί ότι στη δικαιοδοσία του οργανισμού δεν εμπίπτει η ασφάλεια των αερομεταφορών (πρόληψη παράνομων πράξεων κατά της πολιτικής αεροπορίας, όπως παραδείγματος χάρη η αεροπειρατεία). Η ασφάλεια των αερομεταφορών διέπεται από την κοινοτική νομοθεσία, η οποία εφαρμόζεται στα κράτη μέλη.</p>             <p>Ο κοινοτικός νομοθέτης έχει ήδη αποφασίσει ότι, μακροπρόθεσμα, οι αρμοδιότητες του οργανισμού θα πρέπει να επεκταθούν σταδιακά σε όλους τους τομείς ασφάλειας της πολιτικής αεροπορίας, και ιδίως στις αεροπορικές δραστηριότητες και στις άδειες άσκησης επαγγέλματος ιπτάμενου πληρώματος. Μια πρώτη επέκταση του πεδίου αρμοδιοτήτων του οργανισμού στις αεροπορικές δραστηριότητες, στις άδειες άσκησης επαγγέλματος ιπτάμενου πληρώματος και στην έγκριση αερομεταφορέων τρίτων χωρών θεσπίστηκε με τον κανονισμό (EΚ) αριθ. 216/2008 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 20ής Φεβρουαρίου 2008.</p>             <p>Ο Ευρωπαϊκός Οργανισμός Ασφάλειας της Αεροπορίας ιδρύθηκε με τον κανονισμό (ΕΚ) αριθ. 1592/2002 του Ευρωπαϊκού Κοινοβουλίου και του Συμβουλίου της 15ης Ιουλίου 2002 (<a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                   title=\"OJ L 240, 7.9.2002\">ΕΕ L 240 της 7.9.2002</a>) που καταργήθηκε με τον κανονισμό (EΚ) αριθ. 216/2008)).</p>"
+            ],
+            "en": [
+                "<p>In addition, the Agency has been given the power to carry out certain executive tasks related to aviation safety, such as the certification of aeronautical products and organisations involved in their design, production and maintenance.</p>             <p>These certification activities help to ensure compliance with airworthiness and environmental protection standards.</p>             <p>The European Aviation Safety Agency certifies products from civil aviation altogether, including general and business aviation. It is important to note that its remit does not cover aviation security (prevention of illegal actions against civil aviation like hijacking, for instance). This comes under the remit of the Community law applied by the Member States.</p>             <p>The Community legislator has already decided that, in the longer term, the Agency's competencies should be progressively enlarged to all other areas of civil aviation safety, notably to air operations and flight crew licensing. A first extension of the Agency’s scope to air operations, flight crew licensing and the authorisation of third-country operators was laid down by Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008.</p>             <p>The European Aviation Safety Agency was established by Council Regulation (EC) No 1592/2002 of the European Parliament and of the Council of 15 July 2002 (<a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                   title=\"OJ L 240, 7.9.2002\">OJ L 240, 7.9.2002</a> repealed by Regulation (EC) No 216/2008).</p>"
+            ],
+            "es": [
+                "<p>Además, la Agencia es competente para el ejercicio de determinadas tareas ejecutivas relacionadas con la seguridad aérea tales como la certifi cación de los productos aeronáuticos y de las organizaciones que participen en su diseño, producción y mantenimiento. Estas actividades de certifi cación contribuyen a garantizar el cumplimiento de las normas de aeronavegabilidad y de protección ambiental.</p>             <p>La Agencia Europea de Seguridad Aérea certifi ca los productos de la aviación civil en conjunto, incluidas la aviación general y comercial. Cabe señalar que no se ocupa de la seguridad aérea (prevención de actos ilegales contra la aviación civil como, por ejemplo, la piratería aérea), ya que ésta compete a la legislación comunitaria que aplican los Estados miembros.</p>             <p>El legislador comunitario ya ha decidido que a largo plazo las competencias de la Agencia se hagan gradualmente extensivas a todos los demás ámbitos de la seguridad operativa, incluidas las operaciones aéreas y la autorización del personal de vuelo. Una primera ampliación a las operaciones aéreas, las licencias de la tripulación de vuelo y la autorización de operadores de terceros países se establece en el Reglamento (CE) nº 216/2008 del Parlamento Europeo y del Consejo, de 20 de febrero de 2008.</p>             <p>La Agencia Europea de Seguridad Aérea se creó en virtud del Reglamento (CE) nº 1592/2002 del Parlamento Europeo y del Consejo, de 15 de julio de 2002 (<a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                   title=\"DO L 240 de 7.9.2002\">DO L 240 de 7.9.2002</a>, derogado por el Reglamento (CE) nº 216/2008).</p>"
+            ],
+            "et": [
+                "<p>Peale selle on ametile antud volitused teatavate lennundusohutusega seotud täitevülesannete täitmiseks, näiteks aeronautikatoodete ning nende konstrueerimise, tootmise ja hooldamisega tegelevate organisatsioonide sertifi tseerimiseks. Need sertifi tseerimistegevused aitavad tagada lennukõlblikkuse ja keskkonnakaitse normide järgimist.</p>             <p>Euroopa Lennundusohutusamet sertifi tseerib kogu tsiviillennunduse, nii üldise kui ka kommertslennunduse tooteid. Tuleb märkida, et selle töövaldkond ei hõlma lennundusjulgestust (tsiviillennunduse vastu suunatud ebaseadusliku tegevuse, näiteks kaaperdamise ennetamist). Seda reguleeritakse liikmesriikide poolt kohaldatava ühenduse õigusega.</p>             <p>Ühenduse seadusandja on juba otsustanud, et pikemas perspektiivis tuleb ameti pädevust järk-järgult laiendada ka tsiviillennundusohutuse kõigile muudele valdkondadele, nimelt lennutegevusele ja lennumeeskondade litsentseerimisele. Ameti reguleerimisala laiendati lennutegevuse, lennumeeskondade litsentseerimise ja kolmandate riikide ettevõtjatele loa andmise valdkonnas esimest korda Euroopa Parlamendi ja nõukogu 20. veebruari määrusega (EÜ) nr 216/2008.</p>             <p>Euroopa Lennundusohutusamet loodi Euroopa Parlamendi ja nõukogu 15. juuli 2002. aasta määrusega (EÜ) nr 1592/2002 (EÜT <span class=\"link-disabled\">L 240, 7.9.2002</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Valige lingiga seotud tõlked\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Valige lingiga seotud tõlked\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" border=\"0\"                     class=\"alIco\"/>, mis on kehtetuks tunnistatud määrusega (EÜ) nr 216/2008).</p>"
+            ],
+            "fi": [
+                "<p>Lisäksi virastolle on annettu valtuudet suorittaa joitakin lentoturvallisuuteen liittyviä toimeenpanotehtäviä, kuten ilmailuun liittyvien tuotteiden ja niitä suunnittelevien, tuottavien ja huoltavien organisaatioiden sertifiointi. Tämä sertifiointitoiminta auttaa varmistamaan lentokelpoisuutta ja ympäristönsuojelua koskevien normien noudattamisen.</p>             <p>Euroopan lentoturvallisuusvirasto sertifioi siviili-ilmailutuotteita yleensä, mukaan lukien yleiseen lentotoimintaan ja liikelentotoimintaan liittyvät tuotteet. On tärkeää huomata, että sen vastuualue ei kata lentojen turvallisuutta (siviiliilmailua vastaan tehtävien laittomien tekojen, kuten kaappausten, ehkäisyä). Tämä kuuluu jäsenvaltioiden soveltaman yhteisön lainsäädännön piiriin.</p>             <p>Yhteisön lainsäätäjä on jo päättänyt, että viraston toimivaltaa laajennetaan pitkällä tähtäyksellä asteittain kaikkiin muihinkin siviili-ilmailun alueisiin, varsinkin lentotoimintaan ja lentohenkilöstön lupien antamiseen. Tämän tavoitteen mukaisesti toimivaltaa on 20. helmikuuta 2008 annetulla Euroopan parlamentin ja neuvoston asetuksella (EY) N:o 216/2008 laajennettu käsittämään lentotoiminnan, lentohenkilöstön lupien antamisen ja kolmansien maiden lentotoiminnan harjoittajien hyväksymisen.</p>             <p>Euroopan lentoturvallisuusvirasto perustettiin 15. heinäkuuta 2002 annetulla Euroopan parlamentin ja neuvoston asetuksella (EY) N:o 1592/2002 (<a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                   title=\"EYVL L 240, 7.9.2002\">EYVL L 240, 7.9.2002</a>; kumottu asetuksella (EY) N:o 216/2008).</p>"
+            ],
+            "fr": [
+                "<p>En outre, l’agence s’est vu octroyer le pouvoir de mettre en oeuvre certaines tâches d’exécution relatives à la sécurité aérienne, telles que la certifi cation de produits et organismes aéronautiques impliqués dans leur conception, leur production et leur maintenance. Ces activités de certifi cation contribuent à garantir le respect des normes en matière de navigabilité et de protection de l’environnement.</p>             <p>L’Agence européenne de la sécurité aérienne certifi e des produits de l’aviation civile dans son ensemble, y compris l’aviation générale et l’aviation d’affaires. Il y a lieu de remarquer que la sécurité aérienne n’entre pas dans son domaine de compétence (prévention d’actes illégaux à l’encontre de l’aviation civile tels que le détournement, par exemple). Celle-ci relève du droit communautaire appliqué par les États membres.</p>             <p>Le législateur communautaire a d’ores et déjà décidé que, à plus long terme, les attributions de l'agence seraient progressivement étendues à tous les autres domaines de la sécurité aérienne civile, notamment à l'exploitation et à l’octroi de licences aux équipages. Le règlement (CE) n° 216/2008 du Parlement européen et du Conseil, du 20 février 2008, prévoit une première extension des attributions de l'agence à l'exploitation, à l'octroi de licences aux équipages et à l'autorisation des exploitants de pays tiers.</p>             <p>L'Agence européenne de la sécurité aérienne a été instituée par le règlement (CE) n° 1592/2002 du Parlement européen et du Conseil, du 15 juillet 2002 (<a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                   title=\"OJ L 240, 7.9.2002\">JO L 240 du 7.9.2002</a>, abrogé par le règlement (CE) n° 216/2008).</p>"
+            ],
+            "ga": [
+                "<p>Lena chois sin, tugadh an chumhacht don Ghníomhaireacht chun cúraimí áirithe feidhmiúcháin a bhaineann le sábháilteacht eitlíochta a chur i gcrích, ar nós deimhniú táirgí aerloingseoireachta agus eagraíochtaí atá bainteach le dearadh, le táirgeadh agus le cothabháil na dtáirgí sin. </p>             <p>Cabhraíonn na gníomhaíochtaí deimhniúcháin seo chun géilleadh do chaighdeáin aeracmhainneachta agus caomhnaithe comhshaoil a áirithiú.</p>             <p>Deimhníonn an Ghníomhaireacht Eorpach um Shábháilteacht Eitlíochta táirgí ó gach roinn den eitlíocht shibhialta, lena n-áirítear eitlíocht ghinearálta agus eitlíocht ghnó. Is den tábhacht é a thabhairt ar aird nach gclúdaíonn a sainordú slándáil eitlíochta (gníomhartha mídhleathacha in aghaidh eitlíochta sibhialta a chosc, forghabháil, mar shampla). Is faoi shainordú an dlí Comhphobail arna chur chun feidhme ag na Ballstáit a thagann sé sin. </p>             <p>Tá cinnte cheana féin ag an reachtóir Comhphobail gur cheart inniúlachtaí na Gníomhaireachta a leathnú de réir a chéile, san fhadtéarma, chuig gach réimse eile de chuid na sábháilteachta eitlíochta sibhialta, go háirithe aeroibríochtaí agus ceadúnú pearsanra eitilte.  Leagadh síos an chéad leathnú ar scóp na Gníomhaireachta chuig aeroibríochtaí, ceadúnú pearsanra eitilte agus údarú oibreoirí tríú tíortha le Rialachán (CE) Uimhir 216/2008 ó Pharlaimint na hEorpa agus ón gComhairle an 20 Feabhra 2008. </p>             <p>Bunaíodh an Ghníomhaireacht Eorpach um Shábháilteacht Eitlíochta le Rialachán na Comhairle (CE) Uimhir 1592/2002 ó Pharlaimint na hEorpa agus ón gComhairle an 15 Iúil 2002 (Iris Oifigiúil <span class=\"link-disabled\">L 240, 7.9.2002</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" border=\"0\"                     class=\"alIco\"/> aisghairthe le Rialachán (CE) Uimhir 216/2008).</p>"
+            ],
+            "hr": [
+                "<p>Povrh toga, Agencija ima ovlasti obavljati određene izvršne zadatke u vezi sa sigurnošću zračnoga prometa, kao što su certificiranje aeronautičkih proizvoda i organizacija uključenih u njihovo projektiranje, proizvodnju i održavanje.</p>             <p>Ta djelatnost certificiranja pridonosi usklađivanju sa standardima plovidbenosti i zaštite okoliša.</p>             <p>Agencija certificira proizvode za ukupni civilni zračni promet, uključujući opći i poslovni zračni promet. Važno je primijetiti da njene odgovornosti i ovlasti ne uključuju zaštitu zračnoga prometa (sprečavanje nezakonitih djelovanja usmjerenih protiv civilnoga zračnog prometa, npr. otmica zrakoplova). To je u nadležnosti država članica koje primjenjuju zakonodavstvo Zajednice.</p>             <p>Zakonodavna tijela Zajednice već su odlučila da će se ovlasti Agencije dugoročno postupno proširivati na sva druga područja sigurnosti zračnoga prometa, a posebno na zrakoplovne operacije i izdavanje dozvola zrakoplovnomu osoblju. Prvo proširenje djelokruga rada Agencije na zrakoplovne operacije, izdavanje dozvola zrakoplovnomu osoblju i ovlaštenje zračnih prijevoznika iz trećih zemalja uređeno je Uredbom (EZ) br. 216/2008 Europskoga parlamenta i Vijeća od 20. veljače 2008.</p>             <p>Europska agencija za sigurnost zračnoga prometa osnovana je Uredbom Vijeća (EZ) br. 1592/2002 Europskoga parlamenta i Vijeća od 15. srpnja 2002. (SL <span class=\"link-disabled\">L 240, 7.9.2002.</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Odaberi prijevod prethodne poveznice\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Odaberi prijevod prethodne poveznice\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     class=\"alIco\"                     height=\"16\"                     width=\"16\"/> koja je stavljena izvan snage Uredbom (EZ) br. 216/2008).</p>"
+            ],
+            "hu": [
+                "<p>Másrészt az ügynökség jogkörébe tartozik bizonyos, a repülésbiztonsággal kapcsolatos irányítási feladatok végrehajtása, mint pl. a repüléstechnikai termékek és a tervezésükben, gyártásukban és karbantartásukban részt vevő szervezetek minősítése. Ezen minősítési tevékenység szavatolhatja, hogy a termékek megfelelnek a repülésbiztonsági és környezetvédelmi szabványoknak.</p>             <p>Az Európai Repülésbiztonsági Ügynökség az egész polgári légi forgalom terén minősíti a termékeket, ideértve az általános és üzleti célú légi forgalmat is. Fontos megjegyezni, hogy hatásköre nem terjed ki a légi forgalom biztonságára (azaz a polgári légi forgalom megelőző védelmére olyan törvénytelen akciók ellen, mint pl. a repülőgép-eltérítés). Ez a hatáskör a tagországok által alkalmazott közösségi szabályozás keretébe tartozik.</p>             <p>A közösségi jogalkotó már döntést hozott arra vonatkozóan, hogy hosszú távon az ügynökség hatáskörét fokozatosan a polgári repülésbiztonság összes többi területére, többek között a légi üzemben tartásra és a repülőszemélyzet engedélyeztetésére is ki kell terjeszteni. Az ügynökség hatáskörének kiterjesztésében az első lépést a 2008. február 20-i 216/2008/EK európai parlamenti és tanácsi rendelet jelenti, amely a repülőszemélyzet engedélyezését, a légi üzemben tartáshoz kapcsolódó hatósági feladatokat és a harmadik országokbeli üzemben tartók engedélyezését az ügynökség feladatai közé emeli.</p>             <p>Az Európai Repülésbiztonsági Ügynökséget a polgári repülés terén a közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról szóló 2002. július 15-i 1592/2002/EK európai parlamenti és tanácsi rendelet hozta létre (<span class=\"link-disabled\">HL L 240., 2002. 09. 07.</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Az előző linken elérhető szöveg fordításai\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Az előző linken elérhető szöveg fordításai\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://ec.europa.eu//wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     height=\"16\"                     width=\"16\"/>; hatályon kívül helyezte a 216/2008/EK rendelet).</p>"
+            ],
+            "it": [
+                "<p>Inoltre, all’Agenzia è stata conferita l’autorità di eseguire certi compiti di carattere esecutivo relativi alla sicurezza aerea, come la certifi cazione dei prodotti aeronautici e delle organizzazioni coinvolte nella loro progettazione, produzione e manutenzione. Queste attività di certifi cazione contribuiscono ad assicurare il rispetto dell’aeronavigabilità e degli standard di protezione ambientale.</p>             <p>L’Agenzia europea per la sicurezza aerea certifica anche prodotti dell’aviazione civile, comprese l’aviazione generale e commerciale. È importante rilevare che la sicurezza aerea (prevenzione di azioni illegali contro l’aviazione civile quali, ad esempio, i dirottamenti) non rientra nel suo ambito di responsabilità, ma rientra nell’ambito del diritto comunitario applicato dagli Stati membri.</p>             <p>L’Agenzia europea per la sicurezza aerea è stata istituita dal regolamento del Consiglio (CE) n. 1592/2002 del Parlamento europeo e del Consiglio del 15 luglio 2002 (<a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                   title=\"OJ L 240, 7.9.2002\">GU L 240 del  7.9.2002</a>), secondo il quale, a più lungo termine, le competenze dell’Agenzia sarebbero state progressivamente allargate ad altri settori della sicurezza dell’aviazione civile, con particolare riguardo alle operazioni di volo ed alla certificazione degli equipaggi. Una prima estensione delle competenze dell’Agenzia in materia di operazioni di volo, di certificazione del personale di bordo e di autorizzazione degli operatori di paesi terzi è stata disposta con il regolamento (CE) n. 216/2008 del Parlamento europeo e del Consiglio, del 20 febbraio 2008, che tra l’altro ha abrogato il già citato regolamento (CE) n. 1592/2002.</p>"
+            ],
+            "lt": [
+                "<p>Be to, agentūrai buvo suteikti įgaliojimai vykdyti tam tikras vykdomąsias funkcijas aviacijos saugos srityje, pavyzdžiui, aeronautikos produktų ir juos projektuojančių, gaminančių ir prižiūrinčių organizacijų sertifi kavimą. Ši sertifi kavimo veikla padeda užtikrinti tinkamumo skraidyti ir aplinkos apsaugos standartų laikymąsi.</p>             <p>Europos aviacijos saugos agentūra sertifi kuoja visus civilinės aviacijos, įskaitant ir bendrąją, ir komercinę, produktus. Tačiau svarbu pažymėti, kad agentūros funkcijos neapima aviacijos saugos užtikrinimo (nelegalios veiklos civilinėje aviacijoje, pavyzdžiui, orlaivių užgrobimo, prevencijos). Šis klausimas priklauso valstybių narių taikomos Bendrijos teisės sričiai.</p>             <p>Bendrijos teisės aktų leidimo institucijos jau nusprendė, kad ilgainiui agentūros galios turėtų būti laipsniškai plečiamos įtraukiant visas kitas civilinės aviacijos saugos sritis, visų pirma skrydžius ir orlaivių įgulų licencijavimą. Šios galios pirmą kartą buvo išplėstos 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 216/2008, įtraukiant skrydžius, orlaivių įgulų licencijavimą ir leidimų išdavimą trečiųjų šalių naudotojams.</p>             <p>Europos aviacijos saugos agentūra įsteigta 2002 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1592/2002 (<span class=\"link-disabled\">OL L 240, 2002 9 7</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Pasirinkti šios nuorodos vertimus\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Pasirinkti šios nuorodos vertimus\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://ec.europa.eu//wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     height=\"16\"                     width=\"16\"/>, panaikintas Reglamentu (EB) Nr. 216/2008).</p>"
+            ],
+            "lv": [
+                "<p>Bez tam aģentūrai dotas pilnvaras realizēt konkrētus izpildes uzdevumus saistībā ar aviācijas drošību, kā, piemēram, aeronavigācijas produktu un tādu organizāciju sertifi kācija, kuras iesaistītas produktu izstrādāšanā, ražošanā un uzturēšanā. Šīs sertifi cēšanas darbības palīdz nodrošināt lidojumderīguma un vides aizsardzības standartu ievērošanu.</p>             <p>Kopumā Eiropas Aviācijas drošības aģentūra sertifi cē arī civilās aviācijas, ieskaitot vispārējās un biznesa aviācijas, izstrādājumus. Būtiski uzsvērt, ka tās uzdevums neattiecas uz aviācijas drošību (piemēram, preventīvie pasākumi, lai aizsargātos no tādas pret civilo aviāciju vērstas nelegālas darbības kā nolaupīšana). Tas ietilpst dalībvalstīs piemērojamo Kopienas tiesību uzdevumos.</p>             <p>Kopienas likumdevējs ir nolēmis, ka ilgākā termiņā aģentūras kompetence pakāpeniski ir paplašināma, aptverot citas civilās aviācijas drošuma jomas, jo īpaši gaisa kuģu ekspluatāciju un gaisa kuģa apkalpes personāla licencēšanu. Pirmo reizi aģentūras darbības jomu paplašināja ar Eiropas Parlamenta un Padomes 2008. gada 20. februāra Regulu (EK) Nr. 216/2008, tās kompetencē iekļaujot gaisa kuģu ekspluatāciju, apkalpes personāla licencēšanu un trešo valstu aviokompāniju apstiprināšanu.</p>             <p>Eiropas Aviācijas drošības aģentūru izveidoja ar Eiropas Parlamenta un Padomes 2002. gada 15. jūlija Regulu (EK) Nr. 1592/2002 (OV L 240, <span class=\"link-disabled\">7.9.2002</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Izvēlieties saites tulkojumu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Izvēlieties saites tulkojumu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://ec.europa.eu//wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     height=\"16\"                     width=\"16\"/>, atsaukta ar Regulu (EK) Nr. 216/2008).</p>"
+            ],
+            "mt": [
+                "<p>Minbarra dan, l-Aġenzija ngħatat is-setgħa li twettaq ċerti kompiti eżekuttivi relatati mas-sigurtà ta' l-avjazzjoni, bħaċ-ċertifi kazzjoni ta' prodotti ajrunawtiċi u ta' l-organizzazzjonijiet involuti fl -iddisinjar, il-produzzjoni u l-manutenzjoni ta' dawn. Dawn l-attivitajiet ta' ċertifi kazzjoni jgħinu li tiġi żgurata l-osservanza ta' l-airworthiness u ta' standards ta' protezzjoni ambjentali.</p>             <p>L-Aġenzija Ewropea tas-Sigurtà ta' l-Avjazzjoni tiċċertifi ka prodotti mis-settur sħiħ ta' l-avjazzjoni ċivili, inkluż l-avjazzjoni ġenerali u dik kummerċjali. Huwa importanti iżda li wieħed jinnota li l-protezzjoni ċivili fl -avjazzjoni ma taqax taħt ir-responsabbiltajiet u l-funzjonijiet ta' l-Aġenzija (per eżempju, il-prevenzjoni ta' azzjonijiet illegali kontra l-avjazzjoni ċivili bħall-piraterija ta' l-ajru). Dan jaqa' taħt il-kompetenza tal-liġi Komunitarja kif applikata mill-Istati Membri.</p>             <p>Il-leġiżlatur Komunitarju diġà ħa d-deċiżjoni li, fit-tul taż-żmien, il-kompetenzi ta' l-Aġenzija għandhom jiġu estiżi progressivament lejn l-oqsma kollha l-oħra tas-sigurtà ta' l-avjazzjoni ċivili, notevolment lejn l-operazzjonijiet fl-ajru u għall-għoti ta' liċenzji ta' l-ekwipaġġ tat-titjira. L-ewwel estensjoni ta' l-għan ta' l-Aġenzija lejn l-operazzjonijiet ta' l-ajru, l-għoti ta' liċenzji lill-ekwipaġġ tat-titjira u l-awtorizzazzjoni ta' operaturi minn pajjiżi terzi ġew stipulati mir-Regolament (KE) Nru 216/2008 tal-Parlament Ewropew u l-Kunsill ta' l-20 ta' Frar 2008.</p>             <p>L-Aġenzija Ewropea tas-Sigurtà fl-Avjazzjoni ġiet stabbilita mir-Regolament tal-Kunsill (KE) Nru 1592/2002 tal-Parlament Ewropew u l-Kunsill tal-15 ta' Lulju 2002 (ĠU <span class=\"link-disabled\">L 240, 7.9.2002</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://ec.europa.eu//wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     height=\"16\"                     width=\"16\"/> kif imħassar mir-Regolament (KE) Nru 216/2008).</p>"
+            ],
+            "nl": [
+                "<p>Daarnaast is het Agentschap belast met bepaalde uitvoerende taken in verband met luchtvaartveiligheid, onder andere de certificering van luchtvaartproducten en van organisaties die betrokken zijn bij het ontwerp, de productie en het onderhoud hiervan. Deze certificeringsactiviteiten zijn een middel om te waarborgen dat wordt voldaan aan de normen voor luchtwaardigheid en milieubescherming.</p>             <p>Het Europees Agentschap voor de veiligheid van de luchtvaart certificeert producten van de gehele burgerluchtvaart, dus ook de algemene en zakenluchtvaart. Het is belangrijk op te merken dat het Agentschap geen verantwoordelijkheid heeft op het gebied van beveiliging (preventie van illegale acties tegen burgervliegtuigen, zoals kapingen). Dit valt onder de Gemeenschapswetgeving zoals die door de lidstaten wordt toegepast.</p>             <p>De EU heeft al besloten het agentschap op langere termijn nog andere taken te geven die relevant zijn voor de veiligheid in de burgerluchtvaart. Zo is al geregeld welke rol het agentschap gaat spelen op het gebied van vluchtuitvoering, brevettering van cockpitpersoneel en de erkenning van maatschappijen uit derde landen (bij Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad van 20 februari 2008).</p>             <p>Het Europees Agentschap voor de veiligheid van de luchtvaart is opgericht bij Verordening (EG) nr. 1592/2002 van het Europees Parlement en de Raad van 15 juli 2002 (<a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\">PB L 240 van 7.9.2002</a>, ingetrokken bij Verordening (EG) nr. 216/2008).</p>"
+            ],
+            "pl": [
+                "<p>Ponadto Agencja została wyposażona w prawo wykonywania pewnych zadań wykonawczych związanych z bezpieczeństwem lotniczym, tj. certyfi kacji produktów lotniczych i organizacji zaangażowanych w ich projektowanie, produkcję i konserwację. Te działania certyfi kacyjne mają na celu zapewnienie zgodności ze zdatnością do lotu i normami ochrony środowiska.</p>             <p>Europejska Agencja Bezpieczeństwa Lotniczego przyznaje certyfi katy produktom z zakresu całego lotnictwa cywilnego, w tym lotnictwa ogólnego i biznesowego. Warto odnotować, że swym zakresem Agencja nie obejmuje środków ochrony i bezpieczeństwa na pokładach (zapobiegania nielegalnym działaniom przeciwko lotnictwu cywilnemu, tj. porwaniom, uprowadzeniom). Kwestię tę reguluje prawo wspólnotowe stosowane przez państwa członkowskie.</p>             <p>Prawo wspólnotowe stanowi, że w przyszłości kompetencje agencji powinny stopniowo być rozszerzane na inne dziedziny bezpieczeństwa lotnictwa cywilnego, w szczególności na operacje lotnicze i udzielanie licencji członkom załóg lotniczych. Po raz pierwszy kompetencje agencji rozszerzono na mocy rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 216/2008 z dnia 20 lutego 2008 r. Rozszerzenie uprawnień dotyczyło użytkowania w powietrzu, licencjonowania załóg lotniczych oraz udzielania zezwoleń użytkownikom z państw trzecich.</p>             <p>Europejska Agencja Bezpieczeństwa Lotniczego została ustanowiona rozporządzeniem (WE) nr 1592/2002 Parlamentu Europejskiego i Rady z dnia 15 lipca 2002 r. (Dz.U. <span class=\"link-disabled\">L 240 z 7.9.2002</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Odaberi prijevod prethodne poveznice\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Odaberi prijevod prethodne poveznice\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     class=\"alIco\"                     height=\"16\"                     width=\"16\"/> uchylone rozporządzeniem (WE) nr 216/2008).</p>"
+            ],
+            "pt": [
+                "<p>Além disso, a Agência foi provida do poder de realizar determinadas tarefas executivas relacionadas com a segurança da aviação, tais como a certificação de produtos aeronáuticos e de organizações envolvidas na sua concepção, fabrico e manutenção. Estas actividades de certificação contribuem para assegurar a conformidade com as normas de aeronavegabilidade e de protecção ambiental vigentes.</p>             <p>A Agência Europeia para a Segurança da Aviação certifica produtos da aviação civil no seu conjunto, incluindo a aviação geral e voos privados de empresas. É importante assinalar que a protecção civil (prevenção de acções ilegais contra a aviação civil, como, por exemplo, desvio de aeronaves) não é competência da Agência, mas sim da legislação comunitária aplicada pelos Estados-Membros.</p>             <p>O legislador comunitário já decidiu que, a longo prazo, as competências da agência deverão progressivamente estender-se a todos os outros domínios da segurança da aviação civil, nomeadamente às operações aéreas e ao licenciamento de tripulações de voo. Uma primeira extensão das competências da agência às operações aéreas, ao licenciamento de tripulações de voo e à autorização de operadores de países terceiros foi estabelecida pelo Regulamento (CE) n.º 216/2008 do Parlamento Europeu e do Conselho de 20 de Fevereiro de 2008.</p>             <p>A Agência Europeia para a Segurança da Aviação foi criada pelo Regulamento (CE) n.º 1592/2002 do Parlamento Europeu e do Conselho de 15 de Julho de 2002 (<span class=\"link-disabled\">OJ L 240, 7.9.2002</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traduções da ligação anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traduções da ligação anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://ec.europa.eu//wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     height=\"16\"                     width=\"16\"/>, revogado pelo Regulamento (CE) n.º 216/2008).</p>"
+            ],
+            "ro": [
+                "<p>În plus, agenţiei i s-a conferit autoritatea de a îndeplini anumite sarcini executive legate de siguranţa aviaţiei, cum ar fi certificarea produselor şi organizaţiilor aeronautice implicate în conceperea, producţia şi întreţinerea lor.</p>             <p>Aceste activităţi de certificare contribuie la garantarea respectării standardelor în materie de aeronavigabilitate şi protecţia mediului înconjurător.</p>             <p>Agenţia Europeană de Siguranţă a Aviaţiei certifică produsele de aviaţie civilă în ansamblu, inclusiv aviaţia generală şi comercială. Este important de semnalat faptul că siguranţa aviaţiei (de exemplu, prevenirea acţiunilor ilegale împotriva aviaţiei civile, cum ar fi deturnarea avioanelor) nu ţine de competenţa sa. Aceasta cade sub incidenţa dreptului comunitar aplicat de către statele membre.</p>             <p>Legislatorul comunitar a decis deja că, pe termen mai lung, competenţele Agenţiei trebuie extinse treptat spre toate celelalte domenii ale siguranţei aviaţiei civile, în special spre operaţiunile aeriene şi acordarea de licenţe echipajelor de zbor. Regulamentul (CE) nr. 216/2008 al Parlamentului European şi al Consiliului din 20 februarie 2008 stipulează o primă extindere a atribuţiilor Agenţiei spre operaţiunile aeriene, acordarea de licenţe echipajelor de zbor şi autorizarea operatorilor din ţările terţe.</p>             <p>Agenţia Europeană de Siguranţă a Aviaţiei a fost înfiinţată prin Regulamentul (CE) nr. 1592/2002 al Parlamentului European şi al Consiliului din 15 iulie 2002 (<span class=\"link-disabled\">JO L 240, 7.9.2002</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Traducerile linkului anterior\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Traducerile linkului anterior\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://ec.europa.eu//wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     height=\"16\"                     width=\"16\"/> abrogat prin Regulamentul (CE) nr. 216/2008)).</p>"
+            ],
+            "sk": [
+                "<p>Okrem toho agentúra dostala právomoc vykonávať niektoré výkonné úlohy súvisiace s bezpečnosťou letectva, ako je certifi kácia výrobkov leteckej techniky a organizácií podieľajúcich sa na vývoji, výrobe a údržbe týchto výrobkov. Tieto činnosti certifi kácie pomáhajú zabezpečovať súlad s normami pre letovú spôsobilosť a ochranu životného prostredia.</p>             <p>Európska agentúra pre bezpečnosť letectva vykonáva certifi káciu výrobkov z civilného letectva celkovo, vrátane všeobecného a obchodného letectva. Je dôležité poznamenať, že táto právomoc nezahŕňa leteckú bezpečnosť (prevenciu proti nezákonným činom proti civilnému letectvu, ako sú napríklad únosy lietadiel). To patrí do právomoci zákonov Spoločenstva uplatňovaných členskými štátmi.</p>             <p>Zákonodarný orgán Spoločenstva už rozhodol, že z dlhodobého hľadiska by sa kompetencie agentúry mali postupne rozšíriť na všetky ostatné oblasti bezpečnosti civilného letectva, najmä na prevádzku lietadiel a poskytovanie licencií posádkam lietadiel. Prvé rozšírenie kompetencií agentúry na prevádzku lietadiel, poskytovanie licencií posádkam lietadiel a povolení pre prevádzkovateľov z tretích krajín bolo ustanovené v nariadení (ES) č. 216/2008 Európskeho parlamentu a Rady z 20. februára 2008.</p>             <p>Európska agentúra pre bezpečnosť letectva bola založená nariadením Rady (ES) č. 1592/2002 Európskeho parlamentu a Rady z 15. júla 2002 (Ú. v. ES <span class=\"link-disabled\">L 240, 7. 9.2002</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Vybrať preklady k predchádzajúcemu odkazu\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://ec.europa.eu//wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     height=\"16\"                     width=\"16\"/>, ktoré bolo zrušené nariadením (ES) č. 216/2008).</p>"
+            ],
+            "sl": [
+                "<p>Poleg tega je bila Agencija pooblaščena, da opravlja nekatere izvedbene naloge, povezane z varnostjo v letalstvu, kot je certifi ciranje letalskih proizvodov in organizacij, vključenih v njihovo projektiranje, izdelavo in vzdrževanje. Te dejavnosti certifi ciranja pomagajo zagotavljati skladnost s plovnostnimi in okoljevarstvenimi standardi.</p>             <p>Evropska agencija za varnost v letalstvu izdaja potrdila za proizvode v vsem civilnem letalstvu, vključno s splošnim in poslovnim letalstvom. Pomembno je omeniti, da njeno poslanstvo ne zajema varnosti letenja (preprečevanje nezakonitih ravnanj proti civilnemu letalstvu, kot je na primer ugrabitev letala). To spada v okvir poslanstva zakonodaje Skupnosti, ki jo uporabljajo države članice.</p>             <p>Zakonodajni organ Skupnosti je odločil, da bi bilo treba pristojnosti Agencije postopno razširiti na vsa druga področja varnosti v civilnem letalstvu, predvsem na letalske operacije in izdajanje licenc letalskemu osebju. Prva razširitev področja dela Agencije na letalske operacije, izdajanje licenc letalskemu osebju in dovoljenja prevoznikom iz tretjih držav je določena v Uredbi (ES) št. 216/2008 Evropskega parlamenta in Sveta z dne 20. februarja 2008.</p>             <p>Evropska agencija za varnost v letalstvu je bila ustanovljena z Uredbo (ES) št. 1592/2002 Evropskega parlamenta in Sveta z dne 15. julija 2002 (UL L 240, 7.9.2002 <span class=\"link-disabled\">$1</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Seznam prevodov predhodne povezave\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Seznam prevodov predhodne povezave\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DA:PDF\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:DE:PDF\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EL:PDF\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:EN:PDF\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:ES:PDF\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FR:PDF\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:IT:PDF\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:NL:PDF\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:PL:PDF\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:FI:PDF\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://ec.europa.eu//wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     height=\"16\"                     width=\"16\"/>, ki jo je razveljavila Uredba (ES) št. 216/2008).</p>"
+            ],
+            "sv": [
+                "<p>Dessutom har byrån befogenhet att verkställa vissa uppgifter avseende luftfartssäkerhet såsom certifiering av luftfartygsprodukter och organisationer som utformar, tillverkar och underhåller dem. Certifieringsverksamheten bidrar till att säkerställa att villkoren för luftvärdighet och miljöskydd uppnås.</p>             <p>Europeiska byrån för luftfartssäkerhet certifierar alla slags produkter inom civilflyget däribland allmänt flyg och företagsfl yg. Det är viktigt att notera att luftfartsskydd (förhindrande av olagliga handlingar mot civilflyg som t.ex. kapningar) inte ligger inom byråns ansvarsområde. Befogenheterna för luftfartsskydd omfattas av den gemenskapslag som tillämpas av medlemsstaterna.</p>             <p>EU har redan beslutat att befogenheterna på lång sikt skall utökas till att omfatta andra områden inom den civila luftfartssäkerheten, särskilt flygtrafik och licensiering av flygbesättningar. Genom Europaparlamentets och rådets förordning (EG) Nr 216/2008 av den 20 februari 2008 utvidgades byråns verksamhetsområde till att omfatta flygtrafik, licensiering av flygbesättningar och auktorisering av operatörer från tredjeland.</p>             <p>Europeiska byrån för luftfartssäkerhet inrättades genom Europaparlamentets och rådets förordning (EG) nr 1592/2002 av den 15 juli 2002 (EGT <a href=\"http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2002:240:0001:0021:SV:PDF\">L 240, 7.9.2002</a>, upphävd genom förordning (EG) nr 216/2008).</p>"
+            ]
+        },
+        "left_sub_menu": {
+            "und": [
+                true
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_eed0e283ed28732d5aa898c5cdb18d67"
+            ]
+        }
+    }
+}

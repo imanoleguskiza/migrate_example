@@ -1,0 +1,423 @@
+{
+  "_id": "080126248a93c9bc",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "en",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-10-23 16:02:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        19
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/int/thumb_int_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/int/thumb_int_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/int/thumb_int_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/int/thumb_int_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/int/thumb_int_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/int/thumb_int_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/int/thumb_int_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/int/thumb_int_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/int/thumb_int_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/int/thumb_int_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/int/thumb_int_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/int/thumb_int_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/int/thumb_int_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/int/thumb_int_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/int/thumb_int_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/int/thumb_int_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/int/thumb_int_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/int/thumb_int_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/int/thumb_int_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/int/thumb_int_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/int/thumb_int_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/int/thumb_int_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/int/thumb_int_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/int/thumb_int_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Вътрешен пазар"
+      ],
+      "cs": [
+        "Vnitřní trh"
+      ],
+      "da": [
+        "Det indre marked"
+      ],
+      "de": [
+        "Binnenmarkt"
+      ],
+      "el": [
+        "Εσωτερική αγορά"
+      ],
+      "en": [
+        "Internal market"
+      ],
+      "es": [
+        "Mercado interior"
+      ],
+      "et": [
+        "Siseturg"
+      ],
+      "fi": [
+        "Sisämarkkinat"
+      ],
+      "fr": [
+        "Marché intérieur"
+      ],
+      "ga": [
+        "An margadh inmheánach"
+      ],
+      "hr": [
+        "Unutarnje tržište"
+      ],
+      "hu": [
+        "Belső piac"
+      ],
+      "it": [
+        "Mercato interno"
+      ],
+      "lt": [
+        "Vidaus rinka"
+      ],
+      "lv": [
+        "Iekšējais tirgus"
+      ],
+      "mt": [
+        "Suq intern"
+      ],
+      "nl": [
+        "Interne markt"
+      ],
+      "pl": [
+        "Rynek wewnętrzny"
+      ],
+      "pt": [
+        "Mercado interno"
+      ],
+      "ro": [
+        "Piața interna"
+      ],
+      "sk": [
+        "Vnútorný trh"
+      ],
+      "sl": [
+        "Notranji trg"
+      ],
+      "sv": [
+        "Inre marknaden"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Вътрешен пазар"
+      ],
+      "cs": [
+        "Vnitřní trh"
+      ],
+      "da": [
+        "Det indre marked"
+      ],
+      "de": [
+        "Binnenmarkt"
+      ],
+      "el": [
+        "Εσωτερική αγορά"
+      ],
+      "en": [
+        "Internal market"
+      ],
+      "es": [
+        "Mercado interior"
+      ],
+      "et": [
+        "Siseturg"
+      ],
+      "fi": [
+        "Sisämarkkinat"
+      ],
+      "fr": [
+        "Marché intérieur"
+      ],
+      "ga": [
+        "An margadh inmheánach"
+      ],
+      "hr": [
+        "Unutarnje tržište"
+      ],
+      "hu": [
+        "Belső piac"
+      ],
+      "it": [
+        "Mercato interno"
+      ],
+      "lt": [
+        "Vidaus rinka"
+      ],
+      "lv": [
+        "Iekšējais tirgus"
+      ],
+      "mt": [
+        "Suq intern"
+      ],
+      "nl": [
+        "Interne markt"
+      ],
+      "pl": [
+        "Rynek wewnętrzny"
+      ],
+      "pt": [
+        "Mercado interno"
+      ],
+      "ro": [
+        "Piața interna"
+      ],
+      "sk": [
+        "Vnútorný trh"
+      ],
+      "sl": [
+        "Notranji trg"
+      ],
+      "sv": [
+        "Inre marknaden"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през ноември 2014 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Rukopis dokonèen v listopadu 2014</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i november 2014</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Letzte Aktualisierung: November 2014</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριο του 2014.</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\"><span>Manuscript updated in November 2014</span></p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto original finalizado en noviembre de 2014</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud novembris 2014.</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty marraskuussa 2014</p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit mis à jour en novembre 2014</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt cothrom le dáta mí na Samhna 2014</p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u studenome 2014.</p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">Kézirat frissítve: 2014 novemberében</p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Ultimo aggiornamento: novembre 2014</p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2014 m. lapkričio mėn.</p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunināts 2014. gada novembrī.</p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Manuskritt aġġornat f'Novembru 2014</p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Manuscript voltooid in november 2014</p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano w listopadzie 2014 r.</p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em novembro de 2014</p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în noiembrie 2014</p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol dokončený v novembri 2014.</p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen novembra 2014.</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterades i november 2014</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c31"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://bookshop.europa.eu/bg/--pbNA0514001/downloads/NA-05-14-001-BG-C/NA0514001BGC_002.pdf?FileName=NA0514001BGC_002.pdf&SKU=NA0514001BGC_PDF&CatalogueNumber=NA-05-14-001-BG-C"
+      ],
+      "cs": [
+        "http://bookshop.europa.eu/cs/vnit-n-trh-pbNA0514001/downloads/NA-05-14-001-CS-C/NA0514001CSC_002.pdf?FileName=NA0514001CSC_002.pdf&SKU=NA0514001CSC_PDF&CatalogueNumber=NA-05-14-001-CS-C"
+      ],
+      "da": [
+        "http://bookshop.europa.eu/da/det-indre-marked-pbNA0514001/downloads/NA-05-14-001-DA-C/NA0514001DAC_002.pdf?FileName=NA0514001DAC_002.pdf&SKU=NA0514001DAC_PDF&CatalogueNumber=NA-05-14-001-DA-C"
+      ],
+      "de": [
+        "http://bookshop.europa.eu/de/binnenmarkt-pbNA0514001/downloads/NA-05-14-001-DE-C/NA0514001DEC_002.pdf?FileName=NA0514001DEC_002.pdf&SKU=NA0514001DEC_PDF&CatalogueNumber=NA-05-14-001-DE-C"
+      ],
+      "el": [
+        "http://bookshop.europa.eu/el/--pbNA0514001/downloads/NA-05-14-001-EL-C/NA0514001ELC_002.pdf?FileName=NA0514001ELC_002.pdf&SKU=NA0514001ELC_PDF&CatalogueNumber=NA-05-14-001-EL-C"
+      ],
+      "en": [
+        "http://bookshop.europa.eu/en/internal-market-pbNA0514001/downloads/NA-05-14-001-EN-C/NA0514001ENC_002.pdf?FileName=NA0514001ENC_002.pdf&SKU=NA0514001ENC_PDF&CatalogueNumber=NA-05-14-001-EN-C"
+      ],
+      "es": [
+        "http://bookshop.europa.eu/es/mercado-interior-pbNA0514001/downloads/NA-05-14-001-ES-C/NA0514001ESC_002.pdf?FileName=NA0514001ESC_002.pdf&SKU=NA0514001ESC_PDF&CatalogueNumber=NA-05-14-001-ES-C"
+      ],
+      "et": [
+        "http://bookshop.europa.eu/et/siseturg-pbNA0514001/downloads/NA-05-14-001-ET-C/NA0514001ETC_002.pdf?FileName=NA0514001ETC_002.pdf&SKU=NA0514001ETC_PDF&CatalogueNumber=NA-05-14-001-ET-C"
+      ],
+      "fi": [
+        "http://bookshop.europa.eu/fi/sisaemarkkinat-pbNA0514001/downloads/NA-05-14-001-FI-C/NA0514001FIC_002.pdf?FileName=NA0514001FIC_002.pdf&SKU=NA0514001FIC_PDF&CatalogueNumber=NA-05-14-001-FI-C"
+      ],
+      "fr": [
+        "http://bookshop.europa.eu/fr/le-march-int-rieur-pbNA0514001/downloads/NA-05-14-001-FR-C/NA0514001FRC_002.pdf?FileName=NA0514001FRC_002.pdf&SKU=NA0514001FRC_PDF&CatalogueNumber=NA-05-14-001-FR-C"
+      ],
+      "ga": [
+        "http://bookshop.europa.eu/ga/an-margadh-inmhe-nach-pbNA0514001/downloads/NA-05-14-001-GA-C/NA0514001GAC_002.pdf?FileName=NA0514001GAC_002.pdf&SKU=NA0514001GAC_PDF&CatalogueNumber=NA-05-14-001-GA-C"
+      ],
+      "hr": [
+        "http://bookshop.europa.eu/hr/unutarnje-tr-i-te-pbNA0514001/downloads/NA-05-14-001-HR-C/NA0514001HRC_002.pdf?FileName=NA0514001HRC_002.pdf&SKU=NA0514001HRC_PDF&CatalogueNumber=NA-05-14-001-HR-C"
+      ],
+      "hu": [
+        "http://bookshop.europa.eu/hu/bels-piac-pbNA0514001/downloads/NA-05-14-001-HU-C/NA0514001HUC_002.pdf?FileName=NA0514001HUC_002.pdf&SKU=NA0514001HUC_PDF&CatalogueNumber=NA-05-14-001-HU-C"
+      ],
+      "it": [
+        "http://bookshop.europa.eu/it/mercato-interno-pbNA0514001/downloads/NA-05-14-001-IT-C/NA0514001ITC_002.pdf?FileName=NA0514001ITC_002.pdf&SKU=NA0514001ITC_PDF&CatalogueNumber=NA-05-14-001-IT-C"
+      ],
+      "lt": [
+        "http://bookshop.europa.eu/lt/vidaus-rinka-pbNA0514001/downloads/NA-05-14-001-LT-C/NA0514001LTC_002.pdf?FileName=NA0514001LTC_002.pdf&SKU=NA0514001LTC_PDF&CatalogueNumber=NA-05-14-001-LT-C"
+      ],
+      "lv": [
+        "http://bookshop.europa.eu/lv/iek-jais-tirgus-pbNA0514001/downloads/NA-05-14-001-LV-C/NA0514001LVC_002.pdf?FileName=NA0514001LVC_002.pdf&SKU=NA0514001LVC_PDF&CatalogueNumber=NA-05-14-001-LV-C"
+      ],
+      "mt": [
+        "http://bookshop.europa.eu/mt/is-suq-intern-pbNA0514001/downloads/NA-05-14-001-MT-C/NA0514001MTC_002.pdf?FileName=NA0514001MTC_002.pdf&SKU=NA0514001MTC_PDF&CatalogueNumber=NA-05-14-001-MT-C"
+      ],
+      "nl": [
+        "http://bookshop.europa.eu/nl/interne-markt-pbNA0514001/downloads/NA-05-14-001-NL-C/NA0514001NLC_002.pdf?FileName=NA0514001NLC_002.pdf&SKU=NA0514001NLC_PDF&CatalogueNumber=NA-05-14-001-NL-C"
+      ],
+      "pl": [
+        "http://bookshop.europa.eu/pl/rynek-wewn-trzny-pbNA0514001/downloads/NA-05-14-001-PL-C/NA0514001PLC_002.pdf?FileName=NA0514001PLC_002.pdf&SKU=NA0514001PLC_PDF&CatalogueNumber=NA-05-14-001-PL-C"
+      ],
+      "pt": [
+        "http://bookshop.europa.eu/pt/mercado-interno-pbNA0514001/downloads/NA-05-14-001-PT-C/NA0514001PTC_002.pdf?FileName=NA0514001PTC_002.pdf&SKU=NA0514001PTC_PDF&CatalogueNumber=NA-05-14-001-PT-C"
+      ],
+      "ro": [
+        "http://bookshop.europa.eu/ro/pia-a-interna-pbNA0514001/downloads/NA-05-14-001-RO-C/NA0514001ROC_002.pdf?FileName=NA0514001ROC_002.pdf&SKU=NA0514001ROC_PDF&CatalogueNumber=NA-05-14-001-RO-C"
+      ],
+      "sk": [
+        "http://bookshop.europa.eu/sk/vn-torn-trh-pbNA0514001/downloads/NA-05-14-001-SK-C/NA0514001SKC_002.pdf?FileName=NA0514001SKC_002.pdf&SKU=NA0514001SKC_PDF&CatalogueNumber=NA-05-14-001-SK-C"
+      ],
+      "sl": [
+        "http://bookshop.europa.eu/sl/notranji-trg-pbNA0514001/downloads/NA-05-14-001-SL-C/NA0514001SLC_002.pdf?FileName=NA0514001SLC_002.pdf&SKU=NA0514001SLC_PDF&CatalogueNumber=NA-05-14-001-SL-C"
+      ],
+      "sv": [
+        "http://bookshop.europa.eu/sv/inre-marknaden-pbNA0514001/downloads/NA-05-14-001-SV-C/NA0514001SVC_002.pdf?FileName=NA0514001SVC_002.pdf&SKU=NA0514001SVC_PDF&CatalogueNumber=NA-05-14-001-SV-C"
+      ]
+    }
+  }
+}

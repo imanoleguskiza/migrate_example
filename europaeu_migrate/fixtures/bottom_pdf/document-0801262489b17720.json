@@ -1,0 +1,423 @@
+{
+  "_id": "0801262489b17720",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-04-30 10:21:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        8
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/socio/thumb_socio_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/socio/thumb_socio_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/socio/thumb_socio_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/socio/thumb_socio_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/socio/thumb_socio_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/socio/thumb_socio_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/socio/thumb_socio_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/socio/thumb_socio_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/socio/thumb_socio_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/socio/thumb_socio_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/socio/thumb_socio_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/socio/thumb_socio_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/socio/thumb_socio_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/socio/thumb_socio_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/socio/thumb_socio_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/socio/thumb_socio_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/socio/thumb_socio_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/socio/thumb_socio_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/socio/thumb_socio_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/socio/thumb_socio_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/socio/thumb_socio_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/socio/thumb_socio_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/socio/thumb_socio_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/socio/thumb_socio_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Трудова заетост и социални въпроси"
+      ],
+      "cs": [
+        "Zaměstnanost a sociální věci"
+      ],
+      "da": [
+        "Beskæftigelse og social- og arbejdsmarkedspolitik"
+      ],
+      "de": [
+        "Beschäftigung und Soziales"
+      ],
+      "el": [
+        "Απασχόληση και κοινωνικές υποθέσεις"
+      ],
+      "en": [
+        "Employment and social affairs"
+      ],
+      "es": [
+        "Empleo y asuntos sociales"
+      ],
+      "et": [
+        "Tööhõive ja sotsiaalküsimused"
+      ],
+      "fi": [
+        "Työllisyys- ja sosiaaliasiat"
+      ],
+      "fr": [
+        "Emploi et affaires sociales"
+      ],
+      "ga": [
+        "Fostaíocht agus gnóthaí sóisialta"
+      ],
+      "hr": [
+        "Zapošljavanje i socijalna pitanja"
+      ],
+      "hu": [
+        "Foglalkoztatási és szociális politika"
+      ],
+      "it": [
+        "Occupazione e affari sociali"
+      ],
+      "lt": [
+        "Užimtumas ir socialiniai reikalai"
+      ],
+      "lv": [
+        "Nodarbinātība un sociālās lietas"
+      ],
+      "mt": [
+        "Impjiegi u affarijiet soċjali"
+      ],
+      "nl": [
+        "Werkgelegenheid en sociale zaken"
+      ],
+      "pl": [
+        "Zatrudnienie i sprawy społeczne"
+      ],
+      "pt": [
+        "Emprego e assuntos sociais"
+      ],
+      "ro": [
+        "Ocuparea forței de muncă și afaceri sociale"
+      ],
+      "sk": [
+        "Zamestnanosť a sociálne záležitosti"
+      ],
+      "sl": [
+        "Zaposlovanje in socialne zadeve"
+      ],
+      "sv": [
+        "Sysselsättning och socialpolitik"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Трудова заетост и социални въпроси"
+      ],
+      "cs": [
+        "Zaměstnanost a sociální věci"
+      ],
+      "da": [
+        "Beskæftigelse og social- og arbejdsmarkedspolitik"
+      ],
+      "de": [
+        "Beschäftigung und Soziales"
+      ],
+      "el": [
+        "Απασχόληση και κοινωνικές υποθέσεις"
+      ],
+      "en": [
+        "Employment and social affairs"
+      ],
+      "es": [
+        "Empleo y asuntos sociales"
+      ],
+      "et": [
+        "Tööhõive ja sotsiaalküsimused"
+      ],
+      "fi": [
+        "Työllisyys- ja sosiaaliasiat"
+      ],
+      "fr": [
+        "Emploi et affaires sociales"
+      ],
+      "ga": [
+        "Fostaíocht agus gnóthaí sóisialta"
+      ],
+      "hr": [
+        "Zapošljavanje i socijalna pitanja"
+      ],
+      "hu": [
+        "Foglalkoztatási és szociális politika"
+      ],
+      "it": [
+        "Occupazione e affari sociali"
+      ],
+      "lt": [
+        "Užimtumas ir socialiniai reikalai"
+      ],
+      "lv": [
+        "Nodarbinātība un sociālās lietas"
+      ],
+      "mt": [
+        "Impjiegi u affarijiet soċjali"
+      ],
+      "nl": [
+        "Werkgelegenheid en sociale zaken"
+      ],
+      "pl": [
+        "Zatrudnienie i sprawy społeczne"
+      ],
+      "pt": [
+        "Emprego e assuntos sociais"
+      ],
+      "ro": [
+        "Ocuparea forței de muncă și afaceri sociale"
+      ],
+      "sk": [
+        "Zamestnanosť a sociálne záležitosti"
+      ],
+      "sl": [
+        "Zaposlovanje in socialne zadeve"
+      ],
+      "sv": [
+        "Sysselsättning och socialpolitik"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Публикувано през ноември 2014 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Rukopis aktualizován v Listopad 2014</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i november 2014</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Manuskript aktualisiert im November 2014</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\"><span>Updated in November 2014</span></p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Texto original actualizado en noviembre de 2014</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p></div>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud november 2014</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\"><span>Teksti on päivitetty marraskuu 2014</span></p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit actualisé en novembre 2014</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt cothrom le dáta mí Tachwedd 2014</p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\"><span>Rukopis ažuriran u studeni 2014.</span></p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\"><span>A kézirat frissítve: 2014. november</span></p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\"><span>Redazione aggiornata ad novembre 2014</span></p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<div class=\"right_content\"><p class=\"readmore_float\"><span>Rankraštis atnaujintas 2014 m. novembris mėn.</span></p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p></div>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\"><span>Manuskripts atjaunināts 2014. gada novembris.</span></p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\"><span>Manuskritt aġġornat f'Novembru 2014</span></p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\"><span>Tekst bijgewerkt in november 2014</span></p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\"><span>Tekst zaktualizowano w listopad 2014 r.</span></p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\"><span>Manuscrito atualizado em novembro de 2014</span></p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\"><span>Manuscris actualizat în noiembrie 2014</span></p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\"><span>Rukopis bol aktualizovaný v november 2014</span></p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\"><span>Rokopis je bil posodobljen november 2014.</span></p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\"><span>Manuskriptet uppdaterat i november 2014</span></p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c32"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://europa.eu/pol/pdf/flipbook/bg/employment_bg.pdf"
+      ],
+      "cs": [
+        "http://europa.eu/pol/pdf/flipbook/cs/employment_cs.pdf"
+      ],
+      "da": [
+        "http://europa.eu/pol/pdf/flipbook/da/employment_da.pdf"
+      ],
+      "de": [
+        "http://europa.eu/pol/pdf/flipbook/de/employment_de.pdf"
+      ],
+      "el": [
+        "http://europa.eu/pol/pdf/flipbook/el/employment_el.pdf"
+      ],
+      "en": [
+        "http://europa.eu/pol/pdf/flipbook/en/employment_en.pdf"
+      ],
+      "es": [
+        "http://europa.eu/pol/pdf/flipbook/es/employment_es.pdf"
+      ],
+      "et": [
+        "http://europa.eu/pol/pdf/flipbook/et/employment_et.pdf"
+      ],
+      "fi": [
+        "http://europa.eu/pol/pdf/flipbook/fi/employment_fi.pdf"
+      ],
+      "fr": [
+        "http://europa.eu/pol/pdf/flipbook/fr/employment_fr.pdf"
+      ],
+      "ga": [
+        "http://europa.eu/pol/pdf/flipbook/ga/employment_ga.pdf"
+      ],
+      "hr": [
+        "http://europa.eu/pol/pdf/flipbook/hr/employment_hr.pdf"
+      ],
+      "hu": [
+        "http://europa.eu/pol/pdf/flipbook/hu/employment_hu.pdf"
+      ],
+      "it": [
+        "http://europa.eu/pol/pdf/flipbook/it/employment_it.pdf"
+      ],
+      "lt": [
+        "http://europa.eu/pol/pdf/flipbook/lt/employment_lt.pdf"
+      ],
+      "lv": [
+        "http://europa.eu/pol/pdf/flipbook/lv/employment_lv.pdf"
+      ],
+      "mt": [
+        "http://europa.eu/pol/pdf/flipbook/mt/employment_mt.pdf"
+      ],
+      "nl": [
+        "http://europa.eu/pol/pdf/flipbook/nl/employment_nl.pdf"
+      ],
+      "pl": [
+        "http://europa.eu/pol/pdf/flipbook/pl/employment_pl.pdf"
+      ],
+      "pt": [
+        "http://europa.eu/pol/pdf/flipbook/pt/employment_pt.pdf"
+      ],
+      "ro": [
+        "http://europa.eu/pol/pdf/flipbook/ro/employment_ro.pdf"
+      ],
+      "sk": [
+        "http://europa.eu/pol/pdf/flipbook/sk/employment_sk.pdf"
+      ],
+      "sl": [
+        "http://europa.eu/pol/pdf/flipbook/sl/employment_sl.pdf"
+      ],
+      "sv": [
+        "http://europa.eu/pol/pdf/flipbook/sv/employment_sv.pdf"
+      ]
+    }
+  }
+}

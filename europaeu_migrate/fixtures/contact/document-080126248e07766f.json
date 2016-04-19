@@ -1,0 +1,276 @@
+{
+  "_id": "080126248e07766f",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e07766f",
+        "080126248e07766f",
+        "080126248e07766f"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "cs": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "da": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "de": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "el": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "en": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "es": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "et": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "fi": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "fr": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "hr": [
+        "Parlamentarium - Centar za posjetitelje Europskog parlamenta"
+      ],
+      "hu": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "it": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "lt": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "lv": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "mt": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "nl": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "pl": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "pt": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "ro": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "sk": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "sl": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ],
+      "sv": [
+        "Parlamentarium - The European Parliament's Visitors' Centre"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/eu_parliament.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 (0)2 283 22 22"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:parlamentarium@europarl.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact"
+      ]
+    },
+    "visit": {
+      "bg": [
+        "<p>Вид посещение: индивидуална обиколка</p> <p>Минимален размер на групата: няма</p> <p>Изискване за предварителна резервация: Групи от повече от 20 души</p> <p>Работни дни: Всеки ден</p> <p>Минимална възраст на посетителите: За всички възрасти. Препоръчва се минимална възраст от 8 години.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/bg/visits/parlamentarium.html\">Посетете Посетителския център на Европейския парламент в Брюксел</a></p>"
+      ],
+      "cs": [
+        "<p>Typ návštěvy: Individuální prohlídky</p> <p>Minimální velikost skupiny: Nespecifikováno</p> <p>Povinná rezervace: Skupiny více než 20 osob</p> <p>Otevírací doba: Každý den</p> <p>Minimální věk návštěvníků: Nespecifikováno Doporučený minimální věk: 8 let</p> <p><a href=\"http://www.europarl.europa.eu/visiting/cs/visits/parlamentarium.html\">Návštěvnické centrum Evropského parlamentu v Bruselu</a></p>"
+      ],
+      "da": [
+        "<p>Former for besøg: Individuel rundvisning</p> <p>Minimumstørrelse på gruppe: Ingen</p> <p>Krav om forudbestilling: Grupper på over 20 personer</p> <p>Åbent hus: Hver dag</p> <p>Minimumsalder på besøgende: Åben for alle aldre. Anbefalet minimumsalder er 8 år.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/da/visits/parlamentarium.html\">Besøg Europa-Parlamentets besøgscenter i Bruxelles</a></p>"
+      ],
+      "de": [
+        "<p>Art des Besuchs: Rundgang</p> <p>Mindestteilnehmerzahl: Keine</p> <p>Anmeldung: Gruppen von mehr als 20 Personen</p> <p>Öffnungstage: Täglich geöffnet</p> <p>Mindestalter der Besucher: Alle Altersgruppen. Empfohlenes Mindestalter: acht Jahre.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/de/visits/parlamentarium.html\">Besuchen Sie das Besucherzentrum des Europäischen Parlaments in Brüssel</a></p>"
+      ],
+      "el": [
+        "<p>Είδη επισκέψεων: Ατομικές ξεναγήσεις</p> <p>Ελάχιστο μέγεθος ομάδας επισκεπτών: δεν προσδιορίζεται</p> <p>Υποχρέωση κράτησης: Ομάδες με πάνω από 20 άτομα</p> <p>Ημέρες λειτουργίας: Όλες οι ημέρες της εβδομάδας</p> <p>Κατώτατο όριο ηλικίας των επισκεπτών: Δεν υπάρχει περιορισμός ηλικίας. Το συνιστώμενο κατώτατο όριο ηλικίας είναι τα 8 έτη.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/el/visits/parlamentarium.html\">Επισκεφθείτε το Κέντρο Επισκεπτών του Ευρωπαϊκού Κοινοβουλίου στις Βρυξέλλες</a></p>"
+      ],
+      "en": [
+        "<p>Type of visit: Individual tour</p> <p>Minimum size of group: None</p> <p>Advance booking requirement: Groups of more than 20 people</p> <p>Opening days: Every day</p> <p>Minimum age of visitors: Open to all ages. Minimum age recommended 8 years old.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/en/visits/parlamentarium.html\">Visit the European Parliament Visitors' Centre in Brussels</a></p>"
+      ],
+      "es": [
+        "<p>Tipo de visita: Visita individual</p> <p>Tamaño mínimo del grupo: -</p> <p>Plazo mínimo para hacer la solicitud: Grupos de más de veinte personas</p> <p>Días de apertura: Todos los días de la semana</p> <p>Edad mínima de los visitantes: Todas las edades (edad mínima recomendada: 8 años)</p> <p><a href=\"http://www.europarl.europa.eu/visiting/es/visits/parlamentarium.html\">Visitas al Parlamentarium (Bruselas)</a></p>"
+      ],
+      "et": [
+        "<p>Külastuste liigid: Eraviisiline ringkäik</p> <p>Minimaalne rühma suurus: -</p> <p>Vajadus eelnevalt registreerida: Rohkem kui 20 inimesest koosnevad rühmad</p> <p>Lahtiolekuaeg: Iga päev</p> <p>Minimaalne külastajate vanus: Piiranguid ei ole. Minimaalne soovituslik vanus on 8 aastat.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/et/visits/parlamentarium.html\">Külastage Euroopa Parlamendi külastuskeskust Brüsselis</a></p>"
+      ],
+      "fi": [
+        "<p>Vierailutyypit: opastamattomat kierrokset</p> <p>Ryhmän vähimmäiskoko: ei ole</p> <p>Pakollinen etukäteisvaraus: Yli 20 hengen ryhmät</p> <p>Aukiolopäivät: joka päivä</p> <p>Vierailijoiden vähimmäisikä: kaikenikäiset, suositeltu vähimmäisikä 8 vuotta</p> <p><a href=\"http://www.europarl.europa.eu/visiting/fi/visits/parlamentarium.html\">Vierailut Euroopan parlamentin vierailukeskuksessa Brysselissä</a></p>"
+      ],
+      "fr": [
+        "<p>Type de visite: Visite individuelle</p> <p>Taille minimale des groupes: Néant</p> <p>Délai de réservation: Groupes de plus de 20 personnes</p> <p>Jours d'ouverture: Tous les jours</p> <p>Âge minimum des visiteurs: Ouvert à tous les âges, mais la visite n'est pas recommandée aux enfants de moins de 8 ans.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/fr/visits/parlamentarium.html\">Visiter le centre des visiteurs du Parlement européen à Bruxelles</a></p>"
+      ],
+      "ga": [
+        "<p>Cineál cuairte: Turas pearsanta</p> <p>Íosmhéid an ghrúpa: Níl teorainn</p> <p>Riachtanas réamháirithinte: Níos mó ná 20 duine</p> <p>Laethanta oscailte: Gach lá</p> <p>Aois íosta na gcuairteoirí: Ar oscailt do gach aois. 8 mbliana d'aois an aois íosta atá molta.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/en/visits/parlamentarium.html\">Tabhair cuairt ar Ionad Cuairteoirí Pharlaimint na hEorpa sa Bhruiséil</a></p>"
+      ],
+      "hr": [
+        "<p>Vrsta posjeta: samostalno razgledavanje</p> <p>Minimalna veličina skupine: ne postoji</p> <p>Obvezna prethodna rezervacija: Grupe s više od 20 osoba</p> <p>Otvoreno: svaki dan</p> <p>Minimalna dob posjetitelja: otvoreno za sve dobne skupine. Preporučena minimalna dob je 8 godina.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/hr/visits/parlamentarium.html\">Posjetite Centar za posjetitelje Europskog parlamenta u Bruxellesu</a></p>"
+      ],
+      "hu": [
+        "<p>Látogatás típusa: Egyéni látogatás</p> <p>Csoport minimális létszáma: –</p> <p>Előzetes bejelentkezés: A 20 főnél nagyobb csoportok esetében</p> <p>Nyitva tartás: A hét minden napján</p> <p>Látogatók alsó korhatára: Nincs korhatár. A látogatás 8 éves kortól ajánlott.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/hu/visits/parlamentarium.html\">Látogatás az Európai Parlamentben, Brüsszelben</a></p>"
+      ],
+      "it": [
+        "<p>Tipo di visita: visita individuale</p> <p>Numero minimo di partecipanti: nessuno</p> <p>Prenotazione: Gruppi di più di 20 persone</p> <p>Giorni di apertura: ogni giorno</p> <p>Età minima dei visitatori: senza limiti di età (età minima consigliata: 8 anni).</p> <p><a href=\"http://www.europarl.europa.eu/visiting/it/visits/parlamentarium.html\">Visitate il centro visitatori del Parlamento europeo a Bruxelles</a></p>"
+      ],
+      "lt": [
+        "<p>Apsilankymo pobūdis: Individuali ekskursija</p> <p>Minimalus grupės dydis: –</p> <p>Kokiu atveju būtina susitarti dėl apsilankymo?: Esant didesnei kaip 20 žmonių grupei</p> <p>Darbo dienos: Dirba kiekvieną dieną</p> <p>Minimalus lankytojų amžius: Amžiaus apribojimų nėra. Rekomenduojama asmenims nuo 8 metų.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/lt/visits/parlamentarium.html\">Apsilankykite Europos Parlamento lankytojų centre Briuselyje</a></p>"
+      ],
+      "lv": [
+        "<p>Apmeklējuma veids: individuāls apmeklējums</p> <p>Minimālais grupas lielums: nav</p> <p>Iepriekšēja pieteikšanās: Grupas, kurās ir vairāk nekā 20 cilvēku</p> <p>Atvērts: katru dienu</p> <p>Apmeklētāju minimālais vecums: jebkurā vecumā, ieteicamais minimālais vecums — 8 gadi</p> <p><a href=\"http://www.europarl.europa.eu/visiting/lv/visits/parlamentarium.html\">Eiropas Parlamenta apmeklētāju centra apmeklējums Briselē</a></p>"
+      ],
+      "mt": [
+        "<p>Tip ta’ żjara: Żjara individwali</p> <p>Daqs minimu ta’ grupp: Ebda</p> <p>Ħtieġa ta' riżervazzjoni bil-quddiem: Gruppi ta' iktar minn 20 persuna</p> <p>Ġranet ta’ xogħol: Kuljum</p> <p>Età minima tal-viżitaturi: Miftuħ għall-etajiet kollha. L-età minima rikkmandata hi ta' tmien snin.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/mt/visits/parlamentarium.html\">Żur iċ-Ċentru tal-Viżitaturi tal-Parlament Ewropew fi Brussell</a></p>"
+      ],
+      "nl": [
+        "<p>Soort bezoek: Individueel bezoek</p> <p>Groepsgrootte: Geen minimum</p> <p>Reservering: Alleen voor groepen van meer dan 20 mensen</p> <p>Openingsdagen: Iedere dag</p> <p>Minimumleeftijd: Toegankelijk voor alle leeftijden, aanbevolen minimumleeftijd 8 jaar.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/nl/visits/parlamentarium.html\">Bezoek Parlamentarium in Brussel</a></p>"
+      ],
+      "pl": [
+        "<p>Rodzaj wizyty: Wizyta indywidualna</p> <p>Minimalna wielkość grupy: Brak</p> <p>Wymóg rezerwacji: Grupy powyżej 20 osób</p> <p>Czynne: Codziennie</p> <p>Minimalny wiek odwiedzających: Bez ograniczeń wiekowych. Zalecany wiek minimalny: 8 lat.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/pl/visits/parlamentarium.html\">Wizyty w Centrum dla Zwiedzających Parlamentu Europejskiego w Brukseli</a></p>"
+      ],
+      "pt": [
+        "<p>Tipo de visita: visita guiada individual</p> <p>Número mínimo de participantes: não especificado</p> <p>Marcação prévia: Grupos de mais de 20 pessoas</p> <p>Dias de abertura: todos os dias</p> <p>Idade mínima dos visitantes: todas as idades (idade mínima recomendada: 8 anos).</p> <p><a href=\"http://www.europarl.europa.eu/visiting/pt/visits/parlamentarium.html\">Visite o Parlamentarium (Centro de Visitas do Parlamento Europeu em Bruxelas)</a></p>"
+      ],
+      "ro": [
+        "<p>Tipul de vizită: vizită individuală</p> <p>Dimensiunea grupului: nu se aplică</p> <p>Rezervare: Grupuri de peste 20 de persoane</p> <p>Program de funcţionare: zilnic</p> <p>Vârsta minimă a vizitatorilor: toate vârstele - vârsta minimă recomandată este de 8 ani</p> <p><a href=\"http://www.europarl.europa.eu/visiting/ro/visits/parlamentarium.html\">Vizitaţi Centrul pentru vizitatori al Parlamentului European din Bruxelles</a></p>"
+      ],
+      "sk": [
+        "<p>Typy návštev: individuálna prehliadka</p> <p>Minimálna veľkosť skupiny: –</p> <p>Povinná rezervácia: skupiny viac ako 20 osôb</p> <p>Návštevné dni: každý deň</p> <p>Minimálny vek návštevníkov: minimálny odporúčaný vek 8 rokov</p> <p><a href=\"http://www.europarl.europa.eu/visiting/sk/visits/parlamentarium.html\">Navštívte Parlamentárium – návštevnícke centrum Európskeho parlamentu</a></p>"
+      ],
+      "sl": [
+        "<p>Vrsta obiska: Individualni ogled</p> <p>Velikost skupine: Ni določeno</p> <p>Vnaprejšnja rezervacija: Skupine z več kot 20 osebami</p> <p>Delovni čas: Vsak dan</p> <p>Starost obiskovalcev: Za vse starosti, priporočena najnižja starost 8 let.</p> <p><a href=\"http://www.europarl.europa.eu/visiting/sl/visits/parlamentarium.html\">Obiščite Center za obiskovalce Evropskega parlamenta v Bruslju</a></p>"
+      ],
+      "sv": [
+        "<p>Typ av besök: Enskilt besök</p> <p>Gruppens storlek: –</p> <p>Förhandsbokning: Grupper på över 20 personer</p> <p>Öppet: Varje dag</p> <p>Åldersgräns: Alla åldrar, men rekommenderad minimiålder är 8 år</p> <p><a href=\"http://www.europarl.europa.eu/visiting/sv/visits/parlamentarium.html\">Besök Parlamentarium i Bryssel</a></p>"
+      ]
+    }
+  }
+}

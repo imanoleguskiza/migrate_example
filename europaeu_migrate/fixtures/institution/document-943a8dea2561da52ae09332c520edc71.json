@@ -1,0 +1,1005 @@
+{
+    "_id": "943a8dea2561da52ae09332c520edc71",
+    "type": "institution",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/cpvo/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Служба на Общността за сортовете растения (CPVO)"
+            ],
+            "cs": [
+                "Odrůdový úřad Společenství (CPVO)"
+            ],
+            "da": [
+                "EF-Sortsmyndigheden (OCVV)"
+            ],
+            "de": [
+                "Gemeinschaftliches Sortenamt (CPVO)"
+            ],
+            "el": [
+                "Κοινοτικό Γραφείο Φυτικών Ποικιλιών (ΚΓΦΠ)"
+            ],
+            "en": [
+                "Community Plant Variety Office (CPVO)"
+            ],
+            "es": [
+                "Oficina Comunitaria de Variedades Vegetales (OCVV)"
+            ],
+            "et": [
+                "Ühenduse Sordiamet (CPVO)"
+            ],
+            "fi": [
+                "Yhteisön kasvilajikevirasto (CPVO)"
+            ],
+            "fr": [
+                "Office communautaire des variétés végétales (OCVV)"
+            ],
+            "ga": [
+                "An Oifig Chomhphobail um Chineálacha Plandaí (CPVO)"
+            ],
+            "hr": [
+                "Ured Zajednice za biljnu raznolikost (CPVO)"
+            ],
+            "hu": [
+                "Közösségi Növényfajta-hivatal (CPVO)"
+            ],
+            "it": [
+                "Ufficio comunitario delle varietà vegetali (UCVV)"
+            ],
+            "lt": [
+                "Bendrijos augalų veislių tarnyba (BAVT)"
+            ],
+            "lv": [
+                "Kopienas Augu šķirņu birojs (CPVO)"
+            ],
+            "mt": [
+                "Uffiċju Komunitarju tal-Varjetajiet tal-Pjanti (CPVO)"
+            ],
+            "nl": [
+                "Communautair Bureau voor plantenrassen (CPVO)"
+            ],
+            "pl": [
+                "Wspólnotowy Urząd Ochrony Odmian Roślin (CPVO)"
+            ],
+            "pt": [
+                "Instituto Comunitário das Variedades Vegetais (ICVV)"
+            ],
+            "ro": [
+                "Oficiul Comunitar pentru Soiuri de Plante (OCSP)"
+            ],
+            "sk": [
+                "Úrad Spoločenstva pre odrody rastlín (CPVO)"
+            ],
+            "sl": [
+                "Urad Skupnosti za rastlinske sorte (CPVO)"
+            ],
+            "sv": [
+                "Gemenskapens växtsortsmyndighet (CPVO)"
+            ]
+        },
+        "category": {
+            "und": [
+                "23337c8",
+                "40261c3"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA"
+            ],
+            "cs": [
+                "EUROPA"
+            ],
+            "da": [
+                "EUROPA"
+            ],
+            "de": [
+                "EUROPA"
+            ],
+            "el": [
+                "EUROPA"
+            ],
+            "en": [
+                "EUROPA"
+            ],
+            "es": [
+                "EUROPA"
+            ],
+            "et": [
+                "EUROPA"
+            ],
+            "fi": [
+                "EUROPA"
+            ],
+            "fr": [
+                "EUROPA"
+            ],
+            "ga": [
+                "EUROPA"
+            ],
+            "hr": [
+                "EUROPA"
+            ],
+            "hu": [
+                "EUROPA"
+            ],
+            "it": [
+                "EUROPA"
+            ],
+            "lt": [
+                "EUROPA"
+            ],
+            "lv": [
+                "EUROPA"
+            ],
+            "mt": [
+                "EUROPA"
+            ],
+            "nl": [
+                "EUROPA"
+            ],
+            "pl": [
+                "EUROPA"
+            ],
+            "pt": [
+                "EUROPA"
+            ],
+            "ro": [
+                "EUROPA"
+            ],
+            "sk": [
+                "EUROPA"
+            ],
+            "sl": [
+                "EUROPA"
+            ],
+            "sv": [
+                "EUROPA"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM/A05"
+            ],
+            "cs": [
+                "COMM/COMM/A05"
+            ],
+            "da": [
+                "COMM/COMM/A05"
+            ],
+            "de": [
+                "COMM/COMM/A05"
+            ],
+            "el": [
+                "COMM/COMM/A05"
+            ],
+            "en": [
+                "COMM/COMM/A05"
+            ],
+            "es": [
+                "COMM/COMM/A05"
+            ],
+            "et": [
+                "COMM/COMM/A05"
+            ],
+            "fi": [
+                "COMM/COMM/A05"
+            ],
+            "fr": [
+                "COMM/COMM/A05"
+            ],
+            "ga": [
+                "COMM/COMM/A05"
+            ],
+            "hr": [
+                "COMM/COMM/A05"
+            ],
+            "hu": [
+                "COMM/COMM/A05"
+            ],
+            "it": [
+                "COMM/COMM/A05"
+            ],
+            "lt": [
+                "COMM/COMM/A05"
+            ],
+            "lv": [
+                "COMM/COMM/A05"
+            ],
+            "mt": [
+                "COMM/COMM/A05"
+            ],
+            "nl": [
+                "COMM/COMM/A05"
+            ],
+            "pl": [
+                "COMM/COMM/A05"
+            ],
+            "pt": [
+                "COMM/COMM/A05"
+            ],
+            "ro": [
+                "COMM/COMM/A05"
+            ],
+            "sk": [
+                "COMM/COMM/A05"
+            ],
+            "sl": [
+                "COMM/COMM/A05"
+            ],
+            "sv": [
+                "COMM/COMM/A05"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "de": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "el": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "en": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "es": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "et": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fi": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hu": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "it": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lv": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "mt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "nl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ro": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sk": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sv": [
+                "58-Document for general distribution (intended for the general public)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Службата за сортовете растения отговаря за управлението на системата на ЕС за закрила на сортовете растения чрез предоставяне на надеждни, икономически ефективни права върху интелектуалната собственост на създателите на нови сортове растения. "
+            ],
+            "cs": [
+                "Odrůdový úřad Společenství CPVO odpovídá za správu systému EU na ochranu odrůd rostlin. . Šlechtitelům uděluje práva duševního vlastnictví na nové odrůdy rostlin za minimální náklady. "
+            ],
+            "da": [
+                "Sortsmyndigheden er ansvarlig for at forvalte EU's system til beskyttelse af sorter ved at give solide, omkostningseffektive intellektuelle ejendomsrettigheder til fremavlere af nye plantesorter. "
+            ],
+            "de": [
+                "Das Gemeinschaftliche Sortenamt verwaltet das Sortenschutzsystem der EU, indem es Züchtern neuer Pflanzensorten langfristig und kostengünstig Schutzrechte erteilt. "
+            ],
+            "el": [
+                "Το ΚΓΦΠ είναι αρμόδιο για τη διαχείριση του συστήματος της ΕΕ σχετικά με την προστασία των φυτικών ποικιλιών μέσω της παροχής αξιόπιστων και αποδοτικών ως προς το κόστος δικαιωμάτων διανοητικής ιδιοκτησίας για παραγωγούς νέων ποικιλιών φυτών. "
+            ],
+            "en": [
+                "The CPVO is responsible for managing the EU system for the protection of plant varieties by granting robust, cost-effective intellectual property rights to breeders of new plant varieties. "
+            ],
+            "es": [
+                "La Oficina es responsable de la gestión del sistema europeo de protección de las obtenciones vegetales, mediante la concesión de derechos de propiedad intelectual sólidos y rentables a los obtentores de nuevas variedades de plantas. "
+            ],
+            "et": [
+                "Ühenduse Sordiameti ülesanne on hallata ELi sordikaitsesüsteemi, andes uute taimesortide aretajatele stabiilsed, kulutõhusad intellektuaalomandi õigused. "
+            ],
+            "fi": [
+                "Yhteisön kasvilajikevirasto (CPVO) vastaa kasvilajikkeiden suojaamista koskevasta EU:n järjestelmästä, jossa se myöntää teollisoikeuksia uusien kasvilajikkeiden jalostajille. "
+            ],
+            "fr": [
+                "L'OCVV gère le régime de l'UE visant à protéger les variétés végétales  en octroyant aux obtenteurs de variétés végétales des droits de propriété intellectuelle à moindre coût. "
+            ],
+            "ga": [
+                "Tá CPVO freagrach as an gcóras Eorpach um chosaint cineálacha plandaí a stiúradh. Déantar sin trí chearta maoine intleachtúla láidre agus costéifeachtúla a bhronnadh ar phóraitheoirí cineálacha nua plandaí. "
+            ],
+            "hr": [
+                "CPVO je nadležan za upravljanje sustavom EU-a za zaštitu biljne raznolikosti odobravanjem stabilnih, troškovno učinkovitih prava intelektualnog vlasništva oplemenjivačima koji stvaraju nove biljne sorte. "
+            ],
+            "hu": [
+                "A Közösségi Növényfajta-hivatal irányítja és működteti a növényfajta-oltalmi jogok európai uniós rendszerét. A növényfajták nemesítőit széles körű szellemitulajdon-jogok illetik meg. Az oltalmi jogi bejelentést a termesztők kedvező díj ellenében nyújthatják be a hivatalnál vagy a nemzeti kirendeltségeknél. "
+            ],
+            "it": [
+                "L’UCVV è l’organismo responsabile della gestione del sistema dell'UE di protezione delle varietà vegetali mediante la concessione di diritti di proprietà intellettuale solidi ed efficaci sotto il profilo dei costi per i costitutori di nuove varietà vegetali. "
+            ],
+            "lt": [
+                "BAVT yra atsakinga už ES augalų veislių apsaugos sistemos valdymą. Pagal minėtą sistemą naujų augalų veislių selekcininkams suteikiamos ilgalaikės ir ekonomiškai veiksmingos intelektinės nuosavybės teisės. "
+            ],
+            "lv": [
+                "         CPVO pārvalda ES augu šķirņu aizsardzību, piešķirot jaunu šķirņu selekcionāriem labi funkcionējošas un izmaksu ziņā efektīvas intelektuālā īpašuma tiesības. "
+            ],
+            "mt": [
+                "Is-CPVO hu responsabbli għall-immaniġġjar tas-sistema tal-UE għall-protezzjoni tal-varjetajiet tal-pjanti billi jagħti d-drittijiet ta’ proprjetà intellettwali, kosteffettivi u robusti għal min inissel varjetajiet ġodda ta’ pjanti. "
+            ],
+            "nl": [
+                "Het Communautair Bureau voor plantenrassen (CPVO) beheert het EU-systeem voor de bescherming van plantenrassen. Het verleent daarvoor degelijke en betaalbare intellectuele-eigendomsrechten aan kwekers van nieuwe plantenrassen. "
+            ],
+            "pl": [
+                "Urząd odpowiada za zarządzanie unijnym systemem ochrony odmian roślin poprzez udzielanie szeroko zakrojonych, a zarazem opłacalnych, praw własności intelektualnej hodowcom nowych odmian roślin. "
+            ],
+            "pt": [
+                "O ICVV é responsável pela gestão do sistema de proteção das variedades vegetais da UE, mediante a concessão aos obtentores dessas variedades de direitos de propriedade intelectual sólidos e com uma boa relação custo-eficácia. "
+            ],
+            "ro": [
+                "OCSP răspunde de gestionarea sistemului UE de protecție a soiurilor de plante, acordându-le amelioratorilor de plante drepturi de proprietate intelectuală cu costuri minime. "
+            ],
+            "sk": [
+                "CPVO je zodpovedný za riadenie systému EÚ na právnu ochranu odrôd rastlín. Pestovateľom nových odrôd rastlín priznáva spoľahlivé, cenovo efektívne práva duševného vlastníctva. "
+            ],
+            "sl": [
+                "Urad Skupnosti za rastlinske sorte upravlja sistem EU za zaščito rastlinskih sort, tako da žlahtniteljem zagotavlja trdne in stroškovno učinkovite pravice intelektualne rastline. "
+            ],
+            "sv": [
+                "Växtsortsmyndigheten sköter EU:s system för växtförädlingsrätt genom att bevilja immateriella rättigheter till förädlare av nya växtsorter "
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "CPVO",
+                "Служба на Общността за сор",
+                "Защита на правата върху но",
+                "интелектуална собственос",
+                "научни изследвания и инов",
+                "селекция на растенията",
+                "селекционери на растения",
+                "Европейска комисия",
+                "Европейски съюз",
+                "Агенция на ЕС"
+            ],
+            "cs": [
+                "CPVO",
+                "Odrůdový úřad Společenství",
+                "Ochrana práv na nové odrůdy rostlin",
+                "duševní vlastnictví",
+                "výzkum a inovace",
+                "odvětví šlechtění rostlin",
+                "šlechtitelé rostlin",
+                "Evropská komise",
+                "Evropská unie",
+                "agentura EU"
+            ],
+            "da": [
+                "OCVV",
+                "EF-Sortsmyndigheden",
+                "Beskytter rettigheder til nye plantesorter",
+                "intellektuel ejendomsret",
+                "forskning og innovation",
+                "planteforædling",
+                "planteforædlere",
+                "Europa-Kommissionen",
+                "Den Europæiske Union",
+                "EU-agentur"
+            ],
+            "de": [
+                "CPVO",
+                "Gemeinschaftliches Sortenamt",
+                "Schutz neuer Pflanzensorten",
+                "Geistiges Eigentum",
+                "Forschung und Innovation",
+                "Pflanzenzuchtindustrie",
+                "Pflanzenzüchter",
+                "Europäische Kommission",
+                "Europäische Union",
+                "EU-Agentur"
+            ],
+            "el": [
+                "ΚΓΦΠ, ΚΓΦΠ",
+                "Κοινοτικό Γραφείο Φυτικών",
+                "Προστασία δικαιωμάτων επί",
+                "διανοητική ιδιοκτησία",
+                "έρευνα και καινοτομία",
+                "κλάδος δημιουργίας νέων φ",
+                "δημιουργοί νέων φυτικών π",
+                "Ευρωπαϊκή Επιτροπή",
+                "Ευρωπαϊκή Ένωση",
+                "Οργανισμός της ΕΕ"
+            ],
+            "en": [
+                "CPVO",
+                "Community Plant Variety Office",
+                "Protecting new plant variety rights",
+                "intellectual property",
+                "research and innovation",
+                "plant breeding industry",
+                "plant breeders",
+                "European Commission",
+                "European Union",
+                "EU agency"
+            ],
+            "es": [
+                "OCVV",
+                "Oficina Comunitaria de Variedades Vegetales",
+                "proteger los derechos relativos a las nuevas var",
+                "propiedad intelectual",
+                "investigación e innovación",
+                "fitotecnia",
+                "obtentores de variedades vegetales",
+                "comisión europea",
+                "unión europea",
+                "agencia de la ue"
+            ],
+            "et": [
+                "Ühenduse Sordiamet",
+                "Ühenduse Sordiamet",
+                "Sordikaitse",
+                "intellektuaalomand",
+                "teadusuuringud ja innovatsioon",
+                "sordiaretussektor",
+                "sordiaretaja",
+                "Euroopa Komisjon",
+                "Euroopa Liit",
+                "ELi amet"
+            ],
+            "fi": [
+                "CPVO",
+                "yhteisön kasvilajikevirasto",
+                "uusien kasvilajikkeiden suojaaminen",
+                "teollisoikeudet, tekijänoikeudet, immateriaalio",
+                "tutkimus ja innovointi",
+                "kasvinjalostus",
+                "kasvinjalostajat",
+                "Euroopan komissio",
+                "Euroopan unioni",
+                "EU:n erillisvirasto"
+            ],
+            "fr": [
+                "OCVV",
+                "Office communautaire des variétés végétales",
+                "protection des droits sur les nouvelles variét",
+                "propriété intellectuelle",
+                "recherche et innovation",
+                "phytogénétique",
+                "phytogénéticien",
+                "Commission européenne",
+                "Union européenne",
+                "Agence de l'UE"
+            ],
+            "ga": [
+                "CPVO",
+                "An Oifig Chomhphobail um Chineálacha Plandaí",
+                "Cearta maidir le cineálacha nua plandaí a chos",
+                "maoin intleachtúil",
+                "taighde agus nuálaíocht",
+                "an tionscal pórúcháin plandaí",
+                "póraitheoirí plandaí",
+                "an Coimisiún Eorpach",
+                "an tAontas Eorpach",
+                "Gníomhaireacht AE"
+            ],
+            "hr": [
+                "CPVO",
+                "Ured Zajednice za biljnu raznolikost",
+                "Pravo na zaštitu nove biljne sorte",
+                "intelektualno vlasništvo",
+                "istraživanje i inovacije",
+                "industrija oplemenjivanja bilja",
+                "oplemenjivači",
+                "Europska komisija",
+                "Europska unija",
+                "Agencija EU-a"
+            ],
+            "hu": [
+                "CPVO",
+                "Közösségi Növényfajta-hivatal",
+                "új növényfajták oltalma",
+                "szellemi tulajdon",
+                "kutatás és innováció",
+                "növénytermesztés, növénynemesítés",
+                "növénytermesztők, növénynemesítők, nemes",
+                "Európai Bizottság",
+                "Európai Unió",
+                "EU-ügynökség"
+            ],
+            "it": [
+                "UCVV",
+                "Ufficio comunitario delle varietà vegetali",
+                "protezione dei diritti delle nuove varietà vege",
+                "proprietà intellettuale",
+                "ricerca e innovazione",
+                "industria della selezione vegetale",
+                "costitutori di varietà vegetali",
+                "Commissione europea",
+                "Unione europea",
+                "Agenzia dell'UE"
+            ],
+            "lt": [
+                "BAVT",
+                "Bendrijos augalų veislių tarnyba",
+                "Naujų augalų veislių teisinė apsauga",
+                "intelektinė nuosavybė",
+                "moksliniai tyrimai ir inovacijos",
+                "augalų selekcijos pramonė",
+                "augalų selekcininkai",
+                "Europos Komisija",
+                "Europos Sąjunga",
+                "ES agentūra"
+            ],
+            "lv": [
+                "CPVO",
+                "Kopienas Augu šķirņu birojs",
+                "tiesību uz jaunām augu šķirnēm aizsardzība",
+                "intelektuālais īpašums",
+                "pētniecība un inovācija",
+                "augu selekcija",
+                "augu selekcionāri",
+                "Eiropas Komisija",
+                "Eiropas Savienība",
+                "ES aģentūra"
+            ],
+            "mt": [
+                "CPVO",
+                "Uffiċċju Komunitarju tal-Varjetajiet ta’ Pja",
+                "Protezzjoni tad-drittijiet tal-varjetajiet ta’",
+                "proprjetà intellettwali",
+                "riċerka u innovazzjoni",
+                "industrija tat-tnissil tal-pjanti",
+                "dawk li jnisslu l-pjanti",
+                "Kummissjoni Ewropea",
+                "Unjoni Ewropea",
+                "Aġenzija tal-UE"
+            ],
+            "nl": [
+                "CPVO, CPVO",
+                "Communautair Bureau voor plantenrassen",
+                "bescherming van nieuwe kwekersrechten",
+                "intellectuele eigendom",
+                "onderzoek en innovatie",
+                "sector, gewasveredeling",
+                "kwekers",
+                "Europese Commissie",
+                "Europese Unie",
+                "EU-agentschap"
+            ],
+            "pl": [
+                "CPVO",
+                "Wspólnotowy Urząd Ochrony Odmian Roślin",
+                "Ochrona praw do nowych odmian roślin",
+                "własność intelektualna",
+                "badania naukowe i innowacje",
+                "hodowla roślin",
+                "hodowcy roślin",
+                "Komisja Europejska",
+                "Unia Europejska",
+                "agencja UE"
+            ],
+            "pt": [
+                "ICVV",
+                "Instituto Comunitário das Variedades Vegetais",
+                "proteção dos direitos sobre as novas variedade",
+                "propriedade intelectual",
+                "investigação e inovação",
+                "seleção vegetal",
+                "obtentores de variedades vegetais",
+                "comissão europeia",
+                "união europeia",
+                "agência da ue"
+            ],
+            "ro": [
+                "OCSP",
+                "Oficiul Comunitar pentru Soiuri de Plante",
+                "drepturi de protecție a noilor soiuri de plante",
+                "proprietate intelectuală",
+                "cercetare și inovare",
+                "industria ameliorării soiurilor de plante",
+                "amelioratori de plante",
+                "Comisia Europeană",
+                "Uniunea Europeană",
+                "agenție UE"
+            ],
+            "sk": [
+                "CPVO",
+                "Úrad Spoločenstva pre odrody rastlín",
+                "Ochrana nových odrôd rastlín",
+                "duševné vlastníctvo",
+                "výskum a inovácie",
+                "šľachtenie rastlín",
+                "šľachtitelia rastlín",
+                "Európska komisia",
+                "Európska únia",
+                "Agentúra EÚ"
+            ],
+            "sl": [
+                "CPVO",
+                "Urad Skupnosti za rastlinske sorte",
+                "zaščita pravic za nove rastlinske sorte",
+                "intelektualna lastnina",
+                "raziskave in inovacije",
+                "sektor žlahtnjenja rastlin",
+                "žlahtnitelji rastlin",
+                "Evropska komisija",
+                "Evropska unija",
+                "Agencija EU"
+            ],
+            "sv": [
+                "CPVO",
+                "Gemenskapens växtsortsmyndighet",
+                "växtförädlarrätt",
+                "immateriella rättigheter",
+                "forskning och innovation",
+                "växtförädling",
+                "växtförädlare, plantskola",
+                "europeiska kommissionen, eu-kommissionen",
+                "europeiska unionen",
+                "EU-byrå"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "info1": {
+            "bg": [
+                "<h2>Накратко</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Роля:</strong> правна закрила на сортовете растения</li>                   <li>                      <strong>Директор:</strong> Martin Ekvad</li>                   <li>                      <strong>Създадена:</strong> 1995 г.</li>                   <li>                      <strong>Брой служители:</strong> 45</li>                   <li>                      <strong>Местоположение:</strong> Анже, Франция</li>                   <li>                      <strong>Уебсайт:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Избор на превод за предходната връзка\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Избор на превод за предходната връзка\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "cs": [
+                "<h2>Přehled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Úloha:</strong> správa systému odrůdových práv EU</li>                   <li>                      <strong>Ředitel:</strong> Martin Ekvad</li>                   <li>                      <strong>Datum zřízení:</strong> 1995</li>                   <li>                      <strong>Počet zaměstnanců:</strong> 45</li>                   <li>                      <strong>Sídlo:</strong> Angers, Francie</li>                   <li>                      <strong>Internetové stránky:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Vybrat překlad k předcházejícímu odkazu\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Vybrat překlad k předcházejícímu odkazu\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "da": [
+                "<h2>Oversigt</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rolle:</strong> at forvalte EU's system for rettigheder til plantesorter</li>                   <li>                      <strong>Direktør:</strong> Martin Ekvad</li>                   <li>                      <strong>Oprettet:</strong> 1995</li>                   <li>                      <strong>Personale:</strong> 45</li>                   <li>                      <strong>Placering:</strong> Angers i Frankrig</li>                   <li>                      <strong>Website:</strong>                      <span class=\"link-disabled\">OCVV</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Vælg oversættelse af det forrige link\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Vælg oversættelse af det forrige link\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "de": [
+                "<h2>Überblick</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Aufgabe:</strong> Verwaltung des Sortenschutzsystems der EU</li>                   <li>                      <strong>Präsident:</strong> Martin Ekvad</li>                   <li>                      <strong>Gründung:</strong> 1995</li>                   <li>                      <strong>Mitarbeiter:</strong> 45</li>                   <li>                      <strong>Standort:</strong> Angers (Frankreich)</li>                   <li>                      <strong>Internet:</strong>                      <a href=\"http://www.cpvo.europa.eu/main/de\">CPVO</a>                   </li>                </ul>             </div>"
+            ],
+            "el": [
+                "<h2>Παρουσίαση</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ρόλος:</strong> διαχείριση του ευρωπαϊκού συστήματος δικαιωμάτων επί φυτικών ποικιλιών</li>                   <li>                      <strong>Διευθυντής:</strong> Martin Ekvad</li>                   <li>                      <strong>Ίδρυση:</strong> 1995</li>                   <li>                      <strong>Προσωπικό:</strong> 45</li>                   <li>                      <strong>Τόπος:</strong> Ανζέρ (Γαλλία)</li>                   <li>                      <strong>Ιστότοπος:</strong>                      <span class=\"link-disabled\">ΚΓΦΠ</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "en": [
+                "<h2>Overview</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Role:</strong> managing the EU plant variety rights system</li>                   <li>                      <strong>Director:</strong> Martin Ekvad</li>                   <li>                      <strong>Set up:</strong> 1995</li>                   <li>                      <strong>Staff:</strong> 45</li>                   <li>                      <strong>Location:</strong> Angers (France)</li>                   <li>                      <strong>Website:</strong>                      <a href=\"http://www.cpvo.europa.eu/main/en/home\">CPVO</a>                   </li>                </ul>             </div>"
+            ],
+            "es": [
+                "<h2>Datos generales</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Función:</strong> gestionar el sistema europeo de derechos relativos a las variedades vegetales</li>                   <li>                      <strong>Director:</strong> Martin Ekvad</li>                   <li>                      <strong>Año de creación:</strong> 1995</li>                   <li>                      <strong>Plantilla:</strong> 45</li>                   <li>                      <strong>Sede:</strong> Angers (Francia)</li>                   <li>                      <strong>Página web:</strong>                      <a href=\"http://www.cpvo.europa.eu/main/es\">OCVV</a>                   </li>                </ul>             </div>"
+            ],
+            "et": [
+                "<h2>Ülevaade</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ülesanded:</strong> ELi sordikaitsesüsteemi haldamine</li>                   <li>                      <strong>Direktor:</strong> Martin Ekvad</li>                   <li>                      <strong>Asutamisaasta:</strong> 1995</li>                   <li>                      <strong>Töötajaid:</strong> 45</li>                   <li>                      <strong>Asukoht:</strong> Angers (Prantsusmaa)</li>                   <li>                      <strong>Veebisait:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Valige lingiga seotud tõlked\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Valige lingiga seotud tõlked\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "fi": [
+                "<h2>Yleiskatsaus</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Tehtävä:</strong> hallinnoi EU:n kasvinjalostajanoikeuksien järjestelmää</li>                   <li>                      <strong>Johtaja:</strong> Martin Ekvad</li>                   <li>                      <strong>Perustettu:</strong> 1995</li>                   <li>                      <strong>Henkilöstömäärä:</strong> 45</li>                   <li>                      <strong>Toimipaikka:</strong> Angers, Ranska</li>                   <li>                      <strong>Verkkosivusto:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Näytä edellisen linkin kieliversiot\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Näytä edellisen linkin kieliversiot\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "fr": [
+                "<h2>Présentation</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Mission:</strong> gérer le régime européen de protection des obtentions végétales</li>                   <li>                      <strong>Directeur:</strong> Martin Ekvad</li>                   <li>                      <strong>Création:</strong> 1995</li>                   <li>                      <strong>Effectifs:</strong> 45</li>                   <li>                      <strong>Siège:</strong> Angers (France)</li>                   <li>                      <strong>Site web:</strong>                      <a href=\"http://www.cpvo.europa.eu/main/fr\">OCVV</a>                   </li>                </ul>             </div>"
+            ],
+            "ga": [
+                "<h2>Achoimre</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ról:</strong> an córas Eorpach um chearta cineálacha plandaí a stiúradh</li>                   <li>                      <strong>Stiúrthóir:</strong> Martin Ekvad</li>                   <li>                      <strong>Bliain a bunaithe:</strong> 1995</li>                   <li>                      <strong>Líon foirne:</strong> 45</li>                   <li>                      <strong>Suíomh:</strong> Angers na Fraince</li>                   <li>                      <strong>Suíomh gréasáin:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "hr": [
+                "<h2>Pregled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uloga:</strong> upravljanje sustavom prava na zaštitu biljnih sorti EU-a</li>                   <li>                      <strong>Direktor:</strong> Martin Ekvad</li>                   <li>                      <strong>Godina osnivanja:</strong> 1995.</li>                   <li>                      <strong>Broj zaposlenih:</strong> 45</li>                   <li>                      <strong>Lokacija:</strong> Angers (Francuska)</li>                   <li>                      <strong>Internetska stranica:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Odaberi prijevod prethodne poveznice\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Odaberi prijevod prethodne poveznice\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "hu": [
+                "<h2>Áttekintés</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Szerep:</strong> az EU által biztosított növényfajta-oltalmi jogok rendszerének irányítása</li>                   <li>                      <strong>Igazgató:</strong> Martin Ekvad</li>                   <li>                      <strong>Alapítás éve:</strong> 1995</li>                   <li>                      <strong>Alkalmazottak száma:</strong> 45</li>                   <li>                      <strong>Székhely:</strong> Angers, Franciaország</li>                   <li>                      <strong>Honlap:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Az előző linken elérhető szöveg fordításai\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Az előző linken elérhető szöveg fordításai\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "it": [
+                "<h2>Sintesi</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Ruolo:</strong> gestione del sistema dell’UE di privativa per i ritrovati vegetali</li>                   <li>                      <strong>Direttore:</strong> Martin Ekvad</li>                   <li>                      <strong>Anno di costituzione:</strong> 1995</li>                   <li>                      <strong>Numero di dipendenti:</strong> 45</li>                   <li>                      <strong>Sede:</strong> Angers (Francia)</li>                   <li>                      <strong>Sito web:</strong>                      <span class=\"link-disabled\">UCVV</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Scegli le traduzioni del link precedente\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Scegli le traduzioni del link precedente\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "lt": [
+                "<h2>Apžvalga</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Vaidmuo:</strong> ES augalų veislių teisinės apsaugos sistemos valdymas</li>                   <li>                      <strong>Direktorius:</strong> Martin Ekvad</li>                   <li>                      <strong>Įsteigta:</strong> 1995 m.</li>                   <li>                      <strong>Darbuotojai:</strong> 45</li>                   <li>                      <strong>Vieta:</strong> Anžė (Prancūzija)</li>                   <li>                      <strong>Interneto svetainė:</strong>                      <span class=\"link-disabled\">BAVT</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Pasirinkti šios nuorodos vertimus\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Pasirinkti šios nuorodos vertimus\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "lv": [
+                "<h2>Īsumā</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uzdevums:</strong> pārvaldīt ES augu šķirņu tiesību sistēmu</li>                   <li>                      <strong>Direktors:</strong> Martins Ekvads</li>                   <li>                      <strong>Dibināšana gads:</strong> 1995</li>                   <li>                      <strong>Darbinieki:</strong> 45</li>                   <li>                      <strong>Atrašanās vieta:</strong> Anžē (Francija)</li>                   <li>                      <strong>Tīmekļa vietne:</strong>                      <span class=\"link-disabled\">                         <i>CPVO</i>                      </span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Izvēlieties saites tulkojumu\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Izvēlieties saites tulkojumu\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "mt": [
+                "<h2>Ħarsa ġenerali</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rwol:</strong> immaniġġjar tas-sistema tad-drittijiet tal-varjetajiet tal-pjanti tal-UE</li>                   <li>                      <strong>Direttur:</strong> Martin Ekvad</li>                   <li>                      <strong>Stabbilit:</strong> 1995</li>                   <li>                      <strong>Persunal:</strong> 45</li>                   <li>                      <strong>Lokalità:</strong> Angers (Franza)</li>                   <li>                      <strong>Sit web:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "nl": [
+                "<h2>Overzicht</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rol:</strong> Beheer van de communautaire beschermingsregeling voor kweekproducten </li>                   <li>                      <strong>Directeur:</strong> Martin Ekvad</li>                   <li>                      <strong>Opgericht:</strong> 1995</li>                   <li>                      <strong>Medewerkers:</strong> 45</li>                   <li>                      <strong>Locatie:</strong> Angers, Frankrijk</li>                   <li>                      <strong>Website:</strong>                      <a href=\"http://www.cpvo.europa.eu/main/nl\">CPVO</a>                   </li>                </ul>             </div>"
+            ],
+            "pl": [
+                "<h2>Informacje ogólne</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Funkcja:</strong> zarządzanie unijnym systemem praw do odmian roślin</li>                   <li>                      <strong>Dyrektor:</strong> Martin Ekvad</li>                   <li>                      <strong>Rok utworzenia:</strong> 1995</li>                   <li>                      <strong>Personel:</strong> 45</li>                   <li>                      <strong>Siedziba:</strong> Angers (Francja)</li>                   <li>                      <strong>Strona internetowa:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Wybierz wersję językową tego linka\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Wybierz wersję językową tego linka\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "pt": [
+                "<h2>Apresentação</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Missão:</strong> gestão do regime de proteção das variedades vegetais da UE</li>                   <li>                      <strong>Diretor:</strong> Martin Ekvad</li>                   <li>                      <strong>Criado em </strong> 1995</li>                   <li>                      <strong>Efetivos:</strong> 45</li>                   <li>                      <strong>Sede:</strong> Angers, França</li>                   <li>                      <strong>Sítio Web:</strong>                      <span class=\"link-disabled\">ICVV</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Traduções da ligação anterior\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Traduções da ligação anterior\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "ro": [
+                "<h2>Prezentare</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Rol:</strong> gestionarea sistemului UE de protecție a soiurilor de plante</li>                   <li>                      <strong>Director:</strong> Martin Ekvad</li>                   <li>                      <strong>Înființare:</strong> 1995</li>                   <li>                      <strong>Angajați:</strong> 45</li>                   <li>                      <strong>Sediu:</strong> Angers (Franța)</li>                   <li>                      <strong>Site:</strong>                      <span class=\"link-disabled\">OCSP</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Traducerile linkului anterior\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Traducerile linkului anterior\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "sk": [
+                "<h2>Prehľad</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Úloha:</strong> správa systému právnej ochrany odrôd v EÚ</li>                   <li>                      <strong>Riaditeľ:</strong> Martin Ekvad</li>                   <li>                      <strong>Rok založenia:</strong> 1995</li>                   <li>                      <strong>Zamestnanci:</strong> 45</li>                   <li>                      <strong>Miesto:</strong> Angers, Francúzsko</li>                   <li>                      <strong>Webové sídlo:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Vybrať preklady k predchádzajúcemu odkazu\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "sl": [
+                "<h2>Pregled</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Naloga:</strong> upravljanje sistema žlahtniteljskih pravic EU</li>                   <li>                      <strong>Direktor:</strong> Martin Ekvad</li>                   <li>                      <strong>Ustanovitev:</strong> 1995</li>                   <li>                      <strong>Število zaposlenih:</strong> 45</li>                   <li>                      <strong>Sedež:</strong> Angers (Francija)</li>                   <li>                      <strong>Spletišče:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Seznam prevodov predhodne povezave\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Seznam prevodov predhodne povezave\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ],
+            "sv": [
+                "<h2>Översikt</h2>             <div class=\"gray-box no-margin-top\">                <ul>                   <li>                      <strong>Uppgift:</strong> Förvalta växtförädlarrätten i EU</li>                   <li>                      <strong>Direktör:</strong> Martin Ekvad</li>                   <li>                      <strong>Inrättad:</strong> 1995</li>                   <li>                      <strong>Antal anställda:</strong> 45</li>                   <li>                      <strong>Plats:</strong> Angers (Frankrike)</li>                   <li>                      <strong>Webbplats:</strong>                      <span class=\"link-disabled\">CPVO</span>                      <span class=\"ws-popup ws-modal\">                         <a href=\"javascript:void(o)\" class=\"ws-ico\"                            onclick=\"return webservice.popup(this,'')\"                            title=\"Visa översättning av föregående länk\">                            <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                                 alt=\"Visa översättning av föregående länk\"                                 height=\"13\"                                 width=\"16\"/>                            <span class=\"s\"/>                         </a>                         <span class=\"ws-links\">                            <span class=\"ws-popup-layout\">                               <a href=\"http://www.cpvo.europa.eu/main/de\" class=\"lang\" hreflang=\"de\" lang=\"de\"                                  title=\"Deutsch (de)\">                                  <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/en\" class=\"lang\" hreflang=\"en\" lang=\"en\"                                  title=\"English (en)\">                                  <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/es\" class=\"lang\" hreflang=\"es\" lang=\"es\"                                  title=\"español (es)\">                                  <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/fr\" class=\"lang\" hreflang=\"fr\" lang=\"fr\"                                  title=\"français (fr)\">                                  <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                               </a>                               <a href=\"http://www.cpvo.europa.eu/main/nl\" class=\"lang\" hreflang=\"nl\" lang=\"nl\"                                  title=\"Nederlands (nl)\">                                  <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                               </a>                            </span>                         </span>                      </span>                   </li>                </ul>             </div>"
+            ]
+        },
+        "info2": {
+            "bg": [
+                "<p>Службата на Общността за сортовете растения (CPVO) насърчава иновациите при сортовете растения чрез прецизна обработка на заявленията за права върху сортове растения в ЕС на достъпни цени, като същевременно предоставя на заинтересованите лица насоки и помощ при упражняването на тези права. Защитата на новите сортове растения в целия ЕС помага да се защитават интересите на селекционерите и гарантира, че техните инвестиции в научни изследвания и иновации са рентабилни.</p>             <h2>Какво прави CPVO?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Предоставя права на интелектуална собственост върху нови растителни сортове, валидни в държавите от ЕС за период от 25 години (30 години за видове картофи, лози и дървета).</li>                <li>Предоставя насоки и помощ на заинтересованите лица при упражняване на тези права.</li>             </ul>             <h2>Структура</h2>             <p>Председателят на Службата докладва пред Административен съвет, съставен от:</p>             <ul>                <li>представители на 28-те страни от ЕС,</li>                <li>представители на Европейската комисия,</li>                <li>наблюдатели.</li>             </ul>             <p>Службата е самофинансираща се агенция на ЕС, а Административният съвет отговаря за нейния бюджет. Неговите задължения включват:</p>             <ul>                <li>заседаване поне веднъж годишно за обсъждане и приемане на работната програма и годишния бюджет;</li>                <li>мониторинг на дейността на Службата;</li>                <li>делегиране на отговорност за технически проверки на национални служби за проверка от името на Службата;</li>                <li>одобряване на техническите протоколи за изпитване на сортове растения.</li>             </ul>             <p>Службата се състои от 3 отдела (административен, технически и юридически) и помощни служби.</p>             <h2>Как функционира Службата?</h2>             <p>Системата на ЕС за закрила на сортовете растения е най-широкообхватната по рода си в света. От 1995 г. насам са обработени над 53 000 заявления и е предоставена правна закрила за 41 000 сорта растения. Това показва колко привлекателна е системата за селекционерите, желаещи да продават своите сортове в цяла Европа.</p>             <p>Службата поддържа тесни връзки с:</p>             <ul style=\"padding-bottom: 15px;\">                <li>Генерална дирекция „Здравеопазване и безопасност на храните“ на Европейската комисия;</li>                <li>правителствата на страните от ЕС;</li>                <li>националните служби за проверка в цяла Европа;</li>                <li>сдружения на селекционерите: ESA, CIOPORA, Plantum;</li>                <li>Международния съюз за закрила на новите сортове растения (UPOV);</li>                <li>Службата за хармонизация във вътрешния пазар (марки и дизайни);</li>                <li>Европейското патентно ведомство;</li>                <li>юристи в областта на интелектуалната собственост и университети.</li>             </ul>             <h2>Кой има полза от работата на Службата?</h2>             <p>Основните целеви групи са:</p>             <ul>                <li>селекционерите на растения;</li>                <li>производителите;</li>                <li>широката общественост.</li>             </ul>"
+            ],
+            "cs": [
+                "<p>Odrůdový úřad Společenství (CPVO) podporuje inovace v oblasti odrůd rostlin tím, že pečlivě a za přiměřené náklady zpracovává žádostí o odrůdová práva Společenství a zároveň poskytuje zúčastněným stranám pokyny a pomoc při výkonu těchto práv. Ochranou nových odrůd rostlin v celé EU se přispívá k prosazování zájmů šlechtitelů a zajišťuje se, aby jejich investice do výzkumu a inovací byly ziskové.</p>             <h2>Úkoly úřadu CPVO</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Udělovat práva duševního vlastnictví pro nové odrůdy rostlin, která jsou platná v zemích EU po dobu 25 let (v případě určitých druhů brambor, vinné révy a stromů 30 let).</li>                <li>Poskytovat zúčastněným stranám pokyny a pomoc při výkonu těchto práv.</li>             </ul>             <h2>Struktura</h2>             <p>Ředitel úřadu se zodpovídá Správní radě, v níž zasedají:</p>             <ul>                <li>zástupci 28 zemí EU</li>                <li>zástupci Evropské komise</li>                <li>pozorovatelé.</li>             </ul>             <p>Úřad je finančně nezávislou agenturou EU a jejím rozpočtovým orgánem je Správní rada. Ta má povinnost:</p>             <ul>                <li>zasedat alespoň jednou ročně k projednání a přijetí pracovního programu a ročního rozpočtu</li>                <li>sledovat fungování úřadu</li>                <li>delegovat jménem CPVO odpovědnost za odborné posouzení na příslušné státní zkušební úřady</li>                <li>schvalovat technické protokoly pro testování odrůd rostlin.</li>             </ul>             <p>Úřad tvoří tři oddělení (správní, odborné a právní) a oddělení podpora.</p>             <h2>Činnost odrůdového úřadu Společenství</h2>             <p>Systém odrůdových práv Evropské unie je nejrozsáhlejším a nejpropracovanějším systémem svého druhu na světě. Od roku 1995 zpracoval přes 53 000 žádostí a udělil 41 000 odrůdových práv Společenství. To dokazuje, jak šlechtitelé, kteří chtějí nabízet své odrůdy v celé Evropě, mají o tento systém zájem a využívají ho.</p>             <p>Úřad úzce spolupracuje s:</p>             <ul style=\"padding-bottom: 15px;\">                <li>Generálním ředitelstvím Evropské komise pro zdraví a bezpečnost potravin (GŘ Santé)</li>                <li>členskými státy EU</li>                <li>státními zkušebními úřady v celé Evropě</li>                <li>sdruženími pěstitelů: ESA, CIOPORA, Plantum</li>                <li>Mezinárodní unií pro ochranu nových odrůd rostlin (UPOV)</li>                <li>Úřadem pro harmonizaci ve vnitřním trhu (ochranné známky a vzory) (OHIM)</li>                <li>Evropským patentovým úřadem (EPO)</li>                <li>právníky a univerzitami, jež se specializují na práva duševního vlastnictví.</li>             </ul>             <h2>Pro koho je tato činnost prospěšná?</h2>             <p>Hlavními cílovými skupinami jsou:</p>             <ul>                <li>šlechtitelé rostlin</li>                <li>pěstitelé</li>                <li>široká veřejnost</li>             </ul>"
+            ],
+            "da": [
+                "<p>EF-Sortsmyndigheden (OCVV) tilskynder til innovation inden for plantesorter ved omhyggeligt at behandle ansøgninger om rettigheder til EF-sortsbeskyttelse til en overkommelig pris og giver samtidig interesserede parter vejledning i og hjælp med at håndhæve disse rettigheder. Beskyttelse af nye plantesorter i hele EU forsvarer forædlernes interesser og sikrer, at deres investeringer i forskning og innovation er rentable.</p>             <h2>Hvad gør Sortsmyndigheden?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Giver intellektuel ejendomsret til nye plantesorter, der gælder i EU-landene i 25 år (30 år for sorter af kartofler, vinplanter og træer).</li>                <li>Giver interesserede parter vejledning i og hjælp med at håndhæve disse rettigheder.</li>             </ul>             <h2>Struktur</h2>             <p>Sortsmyndighedens præsident rapporterer til et administrationsråd, der består af:</p>             <ul>                <li>repræsentanter for de 28 EU-lande</li>                <li>repræsentanter for Europa-Kommissionen</li>                <li>observatører.</li>             </ul>             <p>Sortsmyndigheden er et selvfinansierende EU-agentur, og administrationsrådet er dens budgetmyndighed. Dets opgaver er:</p>             <ul>                <li>at mødes mindst én gang om året for at drøfte og vedtage arbejdsprogrammet og årsbudgettet</li>                <li>at overvåge Sortsmyndighedens arbejde</li>                <li>at uddelegere ansvaret for tekniske undersøgelser til de nationale myndigheder på Sortsmyndighedens vegne</li>                <li>at godkende tekniske protokoller for test af plantesorter.</li>             </ul>             <p>Sortsmyndigheden består af 3 enheder (administrativ, teknisk og juridisk) samt støttetjenester.</p>             <h2>Hvordan arbejder EF-Sortsmyndigheden?</h2>             <p>Systemet for EF-sortsbeskyttelse er det mest omfattende af sin art i verden. Siden 1995 har det behandlet over 53 000 ansøgninger og givet EF-sortsbeskyttelse over 41 000 gange. Det viser, hvor attraktivt systemet er for forædlere, der vil afsætte deres sorter i hele Europa.</p>             <p>Sortsmyndigheden har tætte forbindelser med:</p>             <ul style=\"padding-bottom: 15px;\">                <li>Kommissionens Generaldirektorat for Sundhed og Fødevaresikkerhed (DG SANTE)</li>                <li>medlemslandenes regeringer</li>                <li>de nationale sortsmyndigheder i hele Europa</li>                <li>forædlersammenslutninger: ESA, CIOPORA, Plantum</li>                <li>International Union for the Protection of New Varieties of Plants (UPOV)</li>                <li>Kontoret for Harmonisering på Det Indre Marked (Varemærker og Design)</li>                <li>Den Europæiske Patentmyndighed (EPO)</li>                <li>jurister og universiteter, der beskæftiger sig med intellektuel ejendomsret.</li>             </ul>             <h2>Hvem nyder godt af ordningen?</h2>             <p>De vigtigste målgrupper er:</p>             <ul>                <li>planteforædlere</li>                <li>avlere</li>                <li>den brede befolkning.</li>             </ul>"
+            ],
+            "de": [
+                "<p>Das Gemeinschaftliche Sortenamt (CPVO) fördert durch sorgfältige und kostengünstige Bearbeitung von Anträgen auf gemeinschaftlichen Sortenschutz die Züchtung neuer Pflanzensorten. Gleichzeitig unterstützt es Interessenträger bei der Ausübung der Schutzrechte. Auf diese Weise wird das Interesse von Pflanzenzüchtern aufrechterhalten und die Rentabilität ihrer Investitionen in Forschung und Innovation sichergestellt.</p>             <h2>Aufgaben des CPVO</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Es erteilt Schutzrechte für neue Pflanzensorten, die in den EU-Mitgliedstaaten 25 Jahre gültig sind (30 Jahre bei Tomaten, Weinen und Bäumen).</li>                <li>Es unterstützt Interessenträger bei der Ausübung der Schutzrechte.</li>             </ul>             <h2>Struktur</h2>             <p>Der Präsident des Amtes erstattet einem Verwaltungsrat Bericht, der wie folgt aufgebaut ist:</p>             <ul>                <li>Vertreter aus allen 28 EU-Mitgliedstaaten</li>                <li>Vertreter der Europäischen Kommission</li>                <li>Beobachter</li>             </ul>             <p>Das Amt finanziert sich selbst, und der Verwaltungsrat bildet seine Haushaltsbehörde. Aufgaben des Verwaltungsrats:</p>             <ul>                <li>mindestens ein Treffen pro Jahr zur Anpassung des Arbeitsprogramms und des jährlichen Haushaltsplans</li>                <li>Kontrolle der Arbeitsweise des Amtes</li>                <li>Übertragung der Verantwortung für technische Überprüfungen an die nationalen Prüfungsämter im Auftrag des Amtes</li>                <li>Genehmigung technischer Protokolle zum Testen von Pflanzensorten</li>             </ul>             <p>Das Amt besteht aus drei Abteilungen (Verwaltungs-, Technik- und Rechtsabteilung) sowie Unterstützungsdiensten.</p>             <h2>Arbeitsweise des Gemeinschaftlichen Sortenamtes</h2>             <p>Das Sortenschutzsystem der EU ist weltweit das umfangreichste seiner Art. Seit 1995 sind über 53 000 Anträge bearbeitet und 41 000 gemeinschaftliche Sortenschutzrechte erteilt worden. Das zeigt, wie attraktiv das System für Pflanzenzüchter ist, die ihre Züchtungen europaweit verkaufen wollen.</p>             <p>Das Amt unterhält enge Beziehungen mit</p>             <ul style=\"padding-bottom: 15px;\">                <li>der Generaldirektion für Gesundheit und Lebensmittelsicherheit der Europäischen Kommission (DG SANTE)</li>                <li>den Regierungen der EU-Länder</li>                <li>nationalen Prüfungsämtern</li>                <li>Züchterverbänden: ESA, CIOPORA, Plantum</li>                <li>dem Internationalen Verband zum Schutz von Pflanzenzüchtungen (UPOV)</li>                <li>dem Harmonisierungsamt für den Binnenmarkt (Marken, Muster und Modelle)</li>                <li>dem Europäischen Patentamt (EPO)</li>                <li>Patentanwälten und Universitäten.</li>             </ul>             <h2>Nutznießer</h2>             <p>Die Hauptzielgruppen sind:</p>             <ul>                <li>Pflanzenzüchter</li>                <li>Erzeuger</li>                <li>die breite Öffentlichkeit</li>             </ul>"
+            ],
+            "el": [
+                "<p>Το Κοινοτικό Γραφείο Φυτικών Ποικιλιών (ΚΓΦΠ) ενθαρρύνει την καινοτομία στις φυτικές ποικιλίες με τη διεξοδική εξέταση των αιτήσεων για παραχώρηση κοινοτικών δικαιωμάτων επί φυτικών ποικιλιών σε προσιτό κόστος, παρέχοντας παράλληλα στα ενδιαφερόμενα μέρη καθοδήγηση σε θέματα πολιτικής και βοήθεια για την άσκηση των εν λόγω δικαιωμάτων. Η προστασία των νέων ποικιλιών φυτών σε όλη την ΕΕ συμβάλλει στην προάσπιση των συμφερόντων των δημιουργών νέων ποικιλιών και διασφαλίζει ότι οι επενδύσεις τους στην έρευνα και την καινοτομία είναι επικερδείς.</p>             <h2>Αποστολή του ΚΓΦΠ</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Χορήγηση δικαιωμάτων διανοητικής ιδιοκτησίας για νέες φυτικές ποικιλίες, τα οποία ισχύουν στις χώρες της ΕΕ για 25 έτη (30 έτη για ορισμένα είδη γεωμήλων, αμπελιών και δένδρων).</li>                <li>Παροχή στους ενδιαφερομένους καθοδήγησης σε θέματα πολιτικής και βοήθειας κατά την άσκηση αυτών των δικαιωμάτων.</li>             </ul>             <h2>Δομή</h2>             <p>Ο πρόεδρος του Γραφείου λογοδοτεί σε διοικητικό συμβούλιο αποτελούμενο από:</p>             <ul>                <li>εκπροσώπους των 28 χωρών της ΕΕ</li>                <li>εκπροσώπους της Ευρωπαϊκής Επιτροπής</li>                <li>παρατηρητές.</li>             </ul>             <p>Το ΚΓΦΠ είναι αυτοχρηματοδοτούμενος οργανισμός και το διοικητικό του συμβούλιο είναι αρμόδιο για τον προϋπολογισμό του. Τα καθήκοντά του περιλαμβάνουν:</p>             <ul>                <li>συνεδριάσεις τουλάχιστον μία φορά ετησίως για συζήτηση και έγκριση του προγράμματος εργασίας και του ετήσιου προϋπολογισμού</li>                <li>παρακολούθηση των εργασιών του Γραφείου</li>                <li>ανάθεση της αρμοδιότητας των τεχνικών ελέγχων σε εθνικά γραφεία ελέγχων</li>                <li>έγκριση τεχνικών πρωτοκόλλων για τη δοκιμή φυτικών ποικιλιών.</li>             </ul>             <p>Το Γραφείο αποτελείται από 3 μονάδες (διοικητική, τεχνική και νομική) και από υπηρεσίες υποστήριξης.</p>             <h2>Πώς λειτουργεί το Κοινοτικό Γραφείο Φυτικών Ποικιλιών;</h2>             <p>Το σύστημα της ΕΕ για τα δικαιώματα επί φυτικών ποικιλιών είναι το πλέον εξελιγμένο στο είδος του παγκοσμίως. Από το 1995 έχει διεκπεραιώσει περισσότερες από 53.000 αιτήσεις και έχει χορηγήσει περισσότερα από 41.000 κοινοτικά δικαιώματα επί φυτικών ποικιλιών. Τα στοιχεία αυτά δείχνουν πόσο ελκυστικό είναι το σύστημα για τους δημιουργούς νέων ποικιλιών, οι οποίοι επιθυμούν να διαθέσουν τις ποικιλίες τους στις αγορές της Ευρώπης.</p>             <p>Το Γραφείο συνεργάζεται στενά με:</p>             <ul style=\"padding-bottom: 15px;\">                <li>τη Γενική Διεύθυνση της Ευρωπαϊκής Επιτροπής για την Υγεία και την Ασφάλεια των Τροφίμων (ΓΔ SANTE)</li>                <li>τις κυβερνήσεις των κρατών μελών της ΕΕ</li>                <li>τα εθνικά γραφεία ελέγχων σε όλη την Ευρώπη</li>                <li>τις ενώσεις δημιουργών νέων ποικιλιών: ESA, CIOPORA, Plantum</li>                <li>τη Διεθνή Ένωση για την Προστασία των Νέων Ποικιλιών Φυτών (UPOV)</li>                <li>το Γραφείο Εναρμόνισης στην Εσωτερική Αγορά (σήματα, σχέδια και πρότυπα)</li>                <li>το Ευρωπαϊκό Γραφείο Διπλωμάτων Ευρεσιτεχνίας (ΕΓΔΕ)</li>                <li>δικηγόρους και πανεπιστήμια που ασχολούνται με τη διανοητική ιδιοκτησία.</li>             </ul>             <h2>Σε ποιους απευθύνεται;</h2>             <p>Οι κυριότερες ομάδες στις οποίες απευθύνεται είναι:</p>             <ul>                <li>οι δημιουργοί νέων φυτικών ποικιλιών</li>                <li>οι καλλιεργητές</li>                <li>το ευρύ κοινό.</li>             </ul>"
+            ],
+            "en": [
+                "<p>The Community Plant Variety Office (CPVO) encourages innovation in plant varieties by meticulously processing applications for Community plant variety rights at affordable costs, while giving its stakeholders policy guidance on and assistance with exercising these rights. Protecting new plant varieties throughout the EU helps uphold breeders' interests and ensures that their investments in research and innovation are profitable.</p>             <h2>What does CPVO do?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Grant intellectual property rights to new plant varieties, valid in the EU countries for 25 years (30 years for species of potatoes, vines and trees).</li>                <li>Provide its stakeholders with policy guidance on and assistance with exercising these rights.</li>             </ul>             <h2>Structure</h2>             <p>The Office's President reports to an Administrative Council comprising:</p>             <ul>                <li>representatives of the 28 EU countries</li>                <li>European Commission representatives</li>                <li>observers.</li>             </ul>             <p>The Office is a self-financing EU agency and the Administrative Council is its budget authority. Its duties include:</p>             <ul>                <li>meeting at least once yearly to discuss and adopt the work programme and the annual budget</li>                <li>monitoring the workings of the Office</li>                <li>delegating responsibility for technical examinations to the national examination offices, on behalf of the Office</li>                <li>approving technical protocols for testing plant varieties.</li>             </ul>             <p>The Office comprises 3 units (administrative, technical and legal) and support services.</p>             <h2>How does CPVO work?</h2>             <p>The EU plant variety rights system is the most extensive of its kind worldwide. Since 1995 it has processed over 53,000 applications and granted over 41,000 Community plant variety rights. This shows how attractive the system is to breeders keen to market their varieties throughout Europe.</p>             <p>The Office has close links with:</p>             <ul style=\"padding-bottom: 15px;\">                <li>the European Commission's Directorate-General for Health &amp; Food Safety (DG SANTE)</li>                <li>EU national governments</li>                <li>the national examination offices throughout Europe</li>                <li>breeders’ associations: ESA, CIOPORA, Plantum</li>                <li>the International Union for the Protection of New Varieties of Plants (UPOV)</li>                <li>the Office for Harmonization in the Internal Market (trade marks &amp; designs)</li>                <li>the European Patent Office (EPO)</li>                <li>intellectual property lawyers &amp; universities.</li>             </ul>             <h2>Who benefits?</h2>             <p>The main target groups are:</p>             <ul>                <li>plant breeders</li>                <li>growers</li>                <li>the general public.</li>             </ul>"
+            ],
+            "es": [
+                "<p>La Oficina Comunitaria de Variedades Vegetales (OCVV) fomenta la innovación mediante un tratamiento meticuloso de las solicitudes de protección comunitaria de las variedades vegetales, a precios accesibles. Además, proporciona asesoramiento y asistencia a las partes interesadas para ejercer sus derechos. La protección de nuevas variedades vegetales en toda la UE contribuye a defender los intereses de los obtentores y garantiza la rentabilidad de sus inversiones en investigación e innovación.</p>             <h2>¿Qué hace la OCVV?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Otorga derechos de propiedad intelectual a las nuevas variedades vegetales, válidos en los países de la UE durante 25 años (30 años para las especies de patata, viña y árboles).</li>                <li>Proporciona asesoramiento y asistencia a las partes interesadas para ejercer sus derechos.</li>             </ul>             <h2>Estructura</h2>             <p>El Presidente responde ante un Consejo de Administración integrado por:</p>             <ul>                <li>representantes de los 28 países de la UE</li>                <li>representantes de la Comisión Europea</li>                <li>observadores.</li>             </ul>             <p>La Oficina es una agencia de la UE que se autofinancia y en la que el Consejo de Administración constituye la autoridad presupuestaria. Entre su cometidos están:</p>             <ul>                <li>reunirse al menos una vez al año para debatir y aprobar el programa de trabajo y el presupuesto anual</li>                <li>hacer un seguimiento de los trabajos de la Oficina</li>                <li>delegar la responsabilidad de los exámenes técnicos a las oficinas de examen nacionales, en nombre de la OCVV</li>                <li>aprobar protocolos técnicos para el ensayo de variedades vegetales.</li>             </ul>             <p>La Oficina está compuesta de tres unidades (administrativa, técnica y jurídica) y servicios de apoyo.</p>             <h2>¿Cómo funciona la OCVV?</h2>             <p>La UE mantiene el sistema de protección de variedades vegetales más extenso del mundo. Desde 1995, se han tramitado más de 53.000 solicitudes y se ha concedido la protección comunitaria a más de 41.000 variedades. Esas cifras demuestran que el sistema resulta atractivo para los obtentores interesados en comercializar sus variedades en toda Europa.</p>             <p>La Oficina mantiene vínculos estrechos con:</p>             <ul style=\"padding-bottom: 15px;\">                <li>la Dirección General de Salud y Seguridad Alimentaria de la Comisión Europea (DG SANTE)</li>                <li>los gobiernos nacionales de la UE</li>                <li>las oficinas de examen nacionales de toda Europa</li>                <li>las asociaciones de obtentores (ESA, CIOPORA, Plantum)</li>                <li>la Unión Internacional para la Protección de las Obtenciones Vegetales (UPOV)</li>                <li>la Oficina de Armonización del Mercado Interior (Marcas, Dibujos y Modelos)</li>                <li>la Oficina Europea de Patentes</li>                <li>los juristas y las universidades especializados en propiedad intelectual.</li>             </ul>             <h2>¿A quién beneficia?</h2>             <p>Los principales grupos destinatarios son los siguientes:</p>             <ul>                <li>obtentores de variedades vegetales</li>                <li>cultivadores</li>                <li>público en general.</li>             </ul>"
+            ],
+            "et": [
+                "<p>Ühenduse Sordiamet julgustab innovatsiooni sordikaitse alal, menetledes ühenduse sordikaitse taotlusi mõistliku hinna eest, andes samal ajal oma sidusrühmadele tegevusalaseid juhiseid ja abi nende õiguste kasutamisel. Uute taimesortide kaitse kogu ELis aitab seista sordiaretajate huvide eest ning tagada, et nende investeeringud teadustegevusse ja innovatsiooni on kasumlikud.</p>             <h2>Mida Ühenduse Sordiamet teeb?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Annab intellektuaalomandi õigusi uutele taimeliikidele, mis kehtivad ELi liikmesriikides 25 aastat (30 aastat kartuli-, viinapuu ja puuliikide puhul).</li>                <li>Annab oma sidusrühmadele tegevusalaseid juhiseid ja abi nende õiguste kasutamisel.</li>             </ul>             <h2>Struktuur</h2>             <p>Ameti juhataja annab aru haldusnõukogule, mis koosneb:</p>             <ul>                <li>28 ELi liikmesriigi esindajatest;</li>                <li>Euroopa Komisjoni esindajatest;</li>                <li>vaatlejatest.</li>             </ul>             <p>Amet on isemajandav ELi asutus ning haldusnõukogu on selle eelarvepädev organ. Haldusõukogu ülesanneteks on muu hulgas:</p>             <ul>                <li>kohtuda vähemalt kord aastas, et arutada ja võtta vastu tööprogramm ja aastaeelarve;</li>                <li>teostada järelevalvet ameti tegevuse üle;</li>                <li>delegeerida vajalike registreerimiskatsete läbiviimine liikmesriigi kontrolliasutustele (ameti nimel);</li>                <li>taimesortide testimist käsitlevate tehniliste protokollide heakskiitmine.</li>             </ul>             <p>Amet koosneb 3 üksusest (haldus-, tehniline ja õiguslik) ja tugitalitustest.</p>             <h2>Kuidas Ühenduse Sordiamet toimib?</h2>             <p>EL sordikaitsesüsteem on kõige ulatuslikum omataoline maailmas. Alates 1995. aastast on selle raames menetletud üle 53 000 taotluse ja antud üle 41 000 ühenduse sordikaitse õiguse. See näitab, kui populaarne on süsteem sordiaretajate hulgas, kes soovivad turustada oma sorte kogu Euroopas.</p>             <p>Amet on tihedalt seotud:</p>             <ul style=\"padding-bottom: 15px;\">                <li>Euroopa Komisjoni tervise ja toiduohutuse peadirektoraadiga;</li>                <li>ELi liikmesriikide valitsuste;</li>                <li>riiklike kontrolliasutustega kogu Euroopas;</li>                <li>sordiaretajate ühenduste; ESA, CIOPORA, Plantumi;</li>                <li>Rahvusvaheline Uute Taimesortide Kaitse Liidu;</li>                <li>Siseturu Ühtlustamise Ameti (kaubamärgid ja tööstusdisainilahendused);</li>                <li>Euroopa Patendiameti (EPO);</li>                <li>intellektuaalomandile spetsialiseerunud juristide ja ülikoolidega.</li>             </ul>             <h2>Kes on see kasusaajad?</h2>             <p>Peamised sihtrühmad on järgmised:</p>             <ul>                <li>sordiaretajad;</li>                <li>taimekasvatajad;</li>                <li>üldsus.</li>             </ul>"
+            ],
+            "fi": [
+                "<p>Yhteisön kasvilajikevirasto edistää innovaatioita kasvilajikkeiden alalla. Se käsittelee yhteisön kasvinjalostajanoikeuksia koskevia hakemuksia ja antaa sidosryhmille toimintaohjeita ja tukea kyseisten oikeuksien käytössä. Se tavoitteena on tarjota laadukkaita palveluja edulliseen hintaan. Uusien kasvilajikkeiden suojaaminen EU:n laajuisesti auttaa ylläpitämään jalostajien etuja ja varmistaa, että niiden investoinnit tutkimukseen ja innovointiin ovat kannattavia.</p>             <h2>Viraston tehtävät</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Myöntää uusien kasvilajikkeiden jalostajille teollisoikeuksia, jotka ovat voimassa EU-maissa 25 vuotta (peruna-, viiniköynnös- ja puulajit: 30 vuotta).</li>                <li>Antaa sidosryhmille toimintaohjeita ja tukea kyseisten oikeuksien käytössä.</li>             </ul>             <h2>Rakenne</h2>             <p>Viraston pääjohtaja on vastuussa toimistaan hallintoneuvostolle, jonka kokouksissa ovat edustettuina:</p>             <ul>                <li>28 EU-maan edustajat</li>                <li>Euroopan komission edustaja</li>                <li>tarkkailijat.</li>             </ul>             <p>Kasvilajikevirasto on omarahoitteinen EU:n erillisvirasto. Sen budjettivallan käyttäjä on hallintoneuvosto, joka</p>             <ul>                <li>kokoontuu vähintään kerran vuodessa hyväksymään viraston työohjelman ja vuotuisen talousarvion</li>                <li>valvoo viraston toimintaa</li>                <li>delegoi vastuun teknisistä tutkimuksista kansallisille tutkintavirastoille kasvilajikeviraston puolesta</li>                <li>hyväksyy tekniset protokollat kasvilajikkeiden testaukselle.</li>             </ul>             <p>Virastoon kuuluu 3 yksikköä (hallinnollinen, tekninen ja oikeudellinen) sekä tukipalvelut.</p>             <h2>Kasvilajikeviraston toiminta</h2>             <p>EU:n kasvinjalostajanoikeuksien järjestelmä on maailman laajin. Virasto aloitti toimintansa vuonna 1995 ja on käsitellyt yli 53 000 hakemusta ja myöntänyt yli 41 000 yhteisön kasvinjalostajanoikeutta. Tämä osoittaa, miten houkutteleva kyseinen järjestelmä on jalostajille, jotka haluavat markkinoida kasvilajikkeitaan kaikkialla Euroopassa.</p>             <p>Viraston läheisiä yhteistyökumppaneita ovat</p>             <ul style=\"padding-bottom: 15px;\">                <li>Euroopan komission terveyden ja elintarviketurvallisuuden pääosasto (DG SANTE)</li>                <li>EU-maiden hallitukset</li>                <li>EU-maiden kansalliset tutkintavirastot</li>                <li>jalostajien yhdistykset: ESA, CIOPORA, Plantum</li>                <li>kasvilajikkeiden kansainvälinen suojeluliitto UPOV</li>                <li>sisämarkkinoiden harmonisointivirasto (tavaramerkit ja mallit)</li>                <li>Euroopan patenttivirasto EPO</li>                <li>teollisoikeuksien alan juristit ja tutkijat.</li>             </ul>             <h2>Hyötyjät</h2>             <p>Viraston toiminnan tärkeimmät kohderyhmät ovat</p>             <ul>                <li>kasvinjalostajat</li>                <li>viljelijät</li>                <li>kansalaiset.</li>             </ul>"
+            ],
+            "fr": [
+                "<p>L'Office communautaire des variétés végétales (OCVV) soutient la création d'espèces végétales en examinant avec rigueur et à moindre coût les demandes de droits de propriété intellectuelle sur les variétés végétales, tout en fournissant conseil et assistance sur la manière d'exercer ces droits. La protection des obtentions végétales dans l'UE contribue à garantir les intérêts des obtenteurs et assure la rentabilité de leurs investissements dans la recherche et l'innovation.</p>             <h2>Que fait l'OCVV?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Octroyer des droits de propriété intellectuelle sur les nouvelles variétés végétales. Ces droits sont valables dans les pays de l'UE pendant 25 ans (30 ans pour les variétés de pommes de terre, de vignes et d'arbres).</li>                <li>Fournir conseil et assistance sur la manière d'exercer ces droits.</li>             </ul>             <h2>Structure</h2>             <p>Le président de l'Office est rattaché à un conseil d'administration composé de:</p>             <ul>                <li>représentants des 28 pays de l'UE;</li>                <li>représentants de la Commission européenne;</li>                <li>observateurs.</li>             </ul>             <p>L'Office est une agence de l'UE auto-financée dont l'autorité budgétaire est le conseil d'administration. Il est notamment chargé de: </p>             <ul>                <li>se réunir au moins une fois par an pour discuter et adopter le programme de travail et le budget annuel;</li>                <li>piloter les travaux;</li>                <li>déléguer la responsabilité des examens techniques aux offices nationaux d’examen;</li>                <li>valider les protocoles techniques de test sur les variétés végétales.</li>             </ul>             <p>L'Office est composé de trois unités (administrative, technique et juridique) et d'un service d'assistance.</p>             <h2>Comment travaille l'OCVV?</h2>             <p>Le régime européen de protection des obtentions végétales est le système du genre le plus élaboré au monde. Depuis 1995, 53 000 demandes ont été traitées et des droits de propriété ont été octroyés sur plus de 41 000 variétés végétales. Ces chiffres montrent combien les obtenteurs apprécient ce système, qui leur permet de commercialiser leurs variétés partout en Europe.</p>             <p>L'Office entretient des liens privilégiés avec:</p>             <ul style=\"padding-bottom: 15px;\">                <li>la direction générale de la santé et de la sécurité alimentaire de la Commission européenne (DG SANTE);</li>                <li>les pouvoirs publics des pays membres de l'UE;</li>                <li>les offices nationaux d’examen partout en Europe;</li>                <li>les associations d'obtenteurs: ESA, CIOPORA, Plantum;</li>                <li>l'Union internationale pour la protection des obtentions végétales (UPOV)</li>                <li>l'Office de l'harmonisation dans le marché intérieur (marques, dessins et modèles);</li>                <li>l'Office européen des brevets (OEB);</li>                <li>des juristes spécialistes de la propriété intellectuelle et des universités.</li>             </ul>             <h2>À qui s'adressent ces services?</h2>             <p>Les principaux groupes destinataires sont:</p>             <ul>                <li>les obtenteurs;</li>                <li>les cultivateurs;</li>                <li>le grand public.</li>             </ul>"
+            ],
+            "ga": [
+                "<p>Is é a dhéanann an Oifig Chomhphobail um Chineálacha Plandaí (CPVO) an nuálaíocht i gcineálacha plandaí a spreagadh trí iarratais ar chearta Comhphobail i ndáil le cineálacha plandaí a phróiseáil go cúramach ar chostas réasúnta, agus tugann baill foirne na hOifige treoir maidir le cúrsaí beartais agus cúnamh do pháirtithe leasmhara maidir leis na cearta sin a fheidhmiú. Trí chineálacha nua plandaí a chosaint ar fud an Aontais Eorpaigh, caomhnaítear leasanna na bpóraitheoirí agus féachtar chuige go mbeidh brabús le fáil acu ar a gcuid infheistíochta i dtaighde agus i nuálaíocht.</p>             <h2>Cad é go díreach a dhéanann CPVO?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Bronnann CPVO cearta maoine intleachtúla i leith cineálacha nua plandaí. Bíonn na cearta sin bailí ar feadh tréimhse 25 bliana (nó ar feadh 30 bliain i gcás cineálacha áirithe prátaí, fíniúnacha agus crann) i mBallstáit uile an Aontais Eorpaigh.</li>                <li>Treoir maidir le cúrsaí beartais agus cúnamh a thabhairt do pháirtithe leasmhara maidir leis na cearta sin a fheidhmiú.</li>             </ul>             <h2>Struchtúr</h2>             <p>Tá Oifig an Uachtaráin cuntasach do Chomhairle Riaracháin ar a bhfuil:</p>             <ul>                <li>ionadaithe as na 28 mBallstát</li>                <li>ionadaithe ón gCoimisiún Eorpach</li>                <li>breathnadóirí.</li>             </ul>             <p>Is gníomhaireacht féinmhaoinithe de chuid an Aontais Eorpaigh í an Oifig agus is í an Chomhairle Riaracháin an t-údarás buiséadach atá aici. Seo roinnt de na cúraimí atá uirthi:</p>             <ul>                <li>teacht le chéile uair sa bhliain ar a laghad chun an clár oibre agus an buiséad bliantúil a phlé agus a ghlacadh</li>                <li>faireachán a dhéanamh ar obair na hOifige</li>                <li>cúram na scrúduithe teicniúla a tharmligean chuig na hoifigí náisiúnta scrúdaithe, thar cheann na hOifige</li>                <li>prótacail theicniúla a cheadú maidir le cineálacha plandaí a thástáil.</li>             </ul>             <p>Tá trí aonad (aonad riaracháin, aonad teicniúil agus aonad dlí) agus seirbhísí tacaíochta san Oifig.</p>             <h2>Cén chaoi a n-oibríonn an Oifig Chomhphobail um Chineálacha Plandaí?</h2>             <p>Tá an córas Eorpach um chearta cineálacha plandaí ar an gcóras is forleithne dá leithéid atá ann ar domhan. Ó 1995 i leith, tá os cionn 53,000 iarratas próiseáilte aige agus os cionn 41,000 ceart Comhphobail bronnta aige i leith cineálacha plandaí. Léiríonn an méid sin an tóir atá ag póraitheoirí plandaí ar an gcóras, póraitheoirí atá ag iarraidh a gcineálacha plandaí a chur ar an margadh ar fud na hEorpa.</p>             <p>Bíonn dlúthchaidreamh idir an Oifig agus:</p>             <ul style=\"padding-bottom: 15px;\">                <li>an Ard-Stiúrthóireacht um Shláinte agus Sábháilteacht Bia sa Choimisiún Eorpach (DG SANTE)</li>                <li>rialtais náisiúnta na mBallstát</li>                <li>na hoifigí náisiúnta scrúdaithe ar fud na hEorpa</li>                <li>cumainn póraitheoirí: ESA, CIOPORA, Plantum</li>                <li>an tAontas Idirnáisiúnta um Chosaint Cineálacha Nua Plandaí (UPOV)</li>                <li>an Oifig um Chomhchuibhiú sa Mhargadh Inmheánach (Trádmharcanna agus Dearaí)</li>                <li>Oifig Eorpach na bPaitinní (OEP)</li>                <li>dlíodóirí maoine intleachtúla agus ollscoileanna.</li>             </ul>             <h2>Cé a bhainfidh leas as?</h2>             <p>Seo na príomhghrúpaí:</p>             <ul>                <li>póraitheoirí plandaí</li>                <li>saothróirí</li>                <li>an pobal i gcoitinne.</li>             </ul>"
+            ],
+            "hr": [
+                "<p>Ured Zajednice za biljnu raznolikost (CPVO) potiče inovacije u području biljnih sorti detaljnom obradom zahtjeva za prava na zaštitu biljne sorte Zajednice uz prihvatljive troškove, istovremeno dajući dionicima političke smjernice i pomoć za ostvarivanje tih prava. Zaštitom novih biljnih sorti na razini cijelog EU-a pomaže se zadržati interes oplemenjivača i osigurava se profitabilnost njihovih ulaganja u istraživanja i inovacije.</p>             <h2>Što čini CPVO?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Dodjeljuje prava intelektualnog vlasništva za nove biljne sorte, koja vrijede 25 godina u državama članicama EU-a (30 godina za sorte krumpira, vinove loze i drveća).</li>                <li>Svojim dionicima daje političke smjernice i pomoć za ostvarivanje tih prava.</li>             </ul>             <h2>Struktura</h2>             <p>Predsjednik Ureda podnosi izvješća Upravnom vijeću, koje se sastoji od:</p>             <ul>                <li>predstavnika 28 država članica,</li>                <li>predstavnika Europske komisije,</li>                <li>promatrača.</li>             </ul>             <p>CPVO je agencija EU-a koja se samostalno financira, a Upravno vijeće tijelo je nadležno za njegov proračun. Njegova zaduženja uključuju:</p>             <ul>                <li>održavanje sastanaka najmanje jednom godišnje kako bi se raspravilo i donijelo program rada i godišnji proračun,</li>                <li>praćenje rada Ureda,</li>                <li>prijenos nadležnosti za tehnička ispitivanja na nacionalne urede za ispitivanje, u ime Ureda,</li>                <li>odobravanje tehničkih protokola za ispitivanje biljnih sorti.</li>             </ul>             <p>CPVO sastoji se od tri jedinice (administrativne, tehničke i pravne) i pomoćnih službi.</p>             <h2>Kako funkcionira Ured Zajednice za biljnu raznolikost?</h2>             <p>Sustav prava na zaštitu biljnih sorti EU-a najveći je sustav takve vrste na svijetu. Od 1995. u okviru njega obrađeno je više od 53 000 zahtjeva, a odobreno je više od 41 000 prava na zaštitu biljne sorte Zajednice. Iz toga je vidljivo koliko je taj sustav atraktivan oplemenjivačima koji žele svoje sorte postaviti na tržište u cijeloj Europi.</p>             <p>Ured je usko povezan s:</p>             <ul style=\"padding-bottom: 15px;\">                <li>Glavnom upravom Europske Komisije za zdravlje i sigurnost hrane (DG SANTE),</li>                <li>vladama država članica EU-a,</li>                <li>nacionalnim uredima za ispitivanje u cijeloj Europi,</li>                <li>udruženjima oplemenjivača: ESA-om, CIOPORA-om, Plantumom,</li>                <li>Međunarodnom unijom za zaštitu novih biljnih sorti (UPOV),</li>                <li>Uredom za usklađivanje na unutarnjem tržištu (žigovi i dizajn),</li>                <li>Europskim uredom za patente,</li>                <li>odvjetnicima za intelektualno vlasništvo i sveučilištima.</li>             </ul>             <h2>Tko ima koristi od CPVO-a?</h2>             <p>Glavne su ciljne skupine sljedeće:</p>             <ul>                <li>oplemenjivači,</li>                <li>uzgajivači,</li>                <li>javnost.</li>             </ul>"
+            ],
+            "hu": [
+                "<p>A Közösségi Növényfajta-hivatal (CPVO) előmozdítja az innovációt a növényfajták nemesítése terén azáltal, hogy szakszerű és alapos eljárás keretében, megfizethető díjszabás mellett feldolgozza a közösségi növényfajta-oltalom iránti kérelmeket, valamint segítséget és szakpolitikai iránymutatást nyújt az érdekelteknek abban, hogyan tudják érvényesíteni oltalmi jogaikat. Az EU Európa-szerte védelemben részesíti az újonnan kifejlesztett növényfajták tulajdonosainak jogait, és biztosítja, hogy a növénynemesítők kutatásra és innovációra fordított beruházásai megtérüljenek.</p>             <h2>Milyen feladatokat lát el a CPVO?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Az új növényfajták előállítóinak szellemi tulajdonhoz fűződő jogokat biztosít, melyek az EU minden országában érvényesek, és 25 évre szólnak (30 évre bizonyos burgonyafélék, illetve szőlő- és fafajták esetében).</li>                <li>Szakpolitikai útmutatást és segítséget nyújt az érdekelteknek abban, hogyan tudják érvényesíteni az őket megillető oltalmi jogokat.</li>             </ul>             <h2>A hivatal felépítése</h2>             <p>A hivatal elnöke az igazgatási tanácsnak tartozik beszámolási kötelezettséggel. Az igazgatási tanács tagjai:</p>             <ul>                <li>a 28 EU-ország képviselői,</li>                <li>az Európai Bizottság képviselői,</li>                <li>megfigyelők.</li>             </ul>             <p>A hivatal önfinanszírozó EU-ügynökség. Költségvetési hatósága az igazgatási tanács, mely a következő feladatokat látja el:</p>             <ul>                <li>évente legalább egyszer összeül, hogy megvitassa és elfogadja a hivatal munkaprogramját és éves költségvetését;</li>                <li>figyelemmel kíséri a hivatal tevékenységét;</li>                <li>a hivatal nevében szakmai szempontok szerinti vizsgálatra irányuló megbízást ad a nemzeti vizsgáló hivataloknak;</li>                <li>technikai jegyzőkönyveket fogad el a növényfajták ellenőrzésére.</li>             </ul>             <p>A hivatalt három (egy adminisztratív, egy technikai és egy jogi) egység, valamint támogató szolgálatok alkotják.</p>             <h2>Hogyan működik a CPVO?</h2>             <p>Az EU rendelkezik a legkiterjedtebb növényfajta-oltalmi rendszerrel a világon. A hivatal 1995 óta több mint 53 ezer bejelentést dolgozott fel, és több mint 41 ezer oltalmi jog odaítéléséről döntött. Ezek a számok jól szemléltetik, mennyire népszerű a rendszer a növényfajtáikat EU-szerte forgalmazni kívánó növénynemesítők körében.</p>             <p>A hivatal szoros kapcsolatokat ápol:</p>             <ul style=\"padding-bottom: 15px;\">                <li>az Európai Bizottság Egészségügyi és Élelmiszerbiztonsági Főigazgatóságával (DG SANTE),</li>                <li>az EU-országok kormányaival,</li>                <li>a nemzeti vizsgáló hivatalokkal Európa-szerte,</li>                <li>a növénynemesítők szervezeteivel (ESA, CIOPORA, Plantum),</li>                <li>az új növényfajták oltalmára létrehozott nemzetközi unióval (UPOV),</li>                <li>a Belső Piaci Harmonizációs Hivatallal (védjegyek és formatervezési minták),</li>                <li>az Európai Szabadalmi Hivatallal,</li>                <li>a szellemi tulajdonhoz fűződő jogokkal foglalkozó jogászokkal és egyetemekkel.</li>             </ul>             <h2>Kik látják hasznát a CPVO tevékenységének?</h2>             <p>A hivatal tevékenységének fő kedvezményezettjei:</p>             <ul>                <li>a növénynemesítők,</li>                <li>a növénytermesztők,</li>                <li>a társadalom egésze.</li>             </ul>"
+            ],
+            "it": [
+                "<p>L’Ufficio comunitario delle varietà vegetali (UCVV) incoraggia l’innovazione nelle varietà vegetali trattando scrupolosamente le domande di privativa comunitaria per ritrovati vegetali, a costi accessibili. Inoltre fornisce alle parti interessate orientamenti e assistenza per l’esercizio dei loro diritti. Proteggere le nuove varietà vegetali in tutta l’UE contribuisce a difendere gli interessi dei costitutori e garantisce la redditività dei loro investimenti nella ricerca e innovazione.</p>             <h2>Cosa fa l'UCVV?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Concede diritti di proprietà intellettuale alle nuove varietà vegetali, validi in tutti i paesi dell’UE per 25 anni (30 anni per le specie di patate, viti e alberi).</li>                <li>Fornisce alle parti interessate orientamenti e assistenza per esercitare i loro diritti.</li>             </ul>             <h2>Struttura</h2>             <p>Il presidente dell’Ufficio riferisce a un consiglio di amministrazione costituito da:</p>             <ul>                <li>rappresentanti dei 28 paesi dell’UE</li>                <li>rappresentanti della Commissione europea</li>                <li>osservatori.</li>             </ul>             <p>L’Ufficio è un'agenzia dell’UE che si autofinanzia e il consiglio di amministrazione è l’autorità di bilancio. Fra i suoi compiti rientrano:</p>             <ul>                <li>riunirsi almeno una volta all’anno per discutere e adottare il programma di lavoro e il bilancio annuale</li>                <li>monitorare il funzionamento dell’Ufficio</li>                <li>delegare la responsabilità degli esami tecnici agli uffici nazionali d’esame, per conto dell’Ufficio</li>                <li>approvare i protocolli tecnici per le prove sulle varietà vegetali.</li>             </ul>             <p>L’Ufficio comprende 3 unità (amministrativa, tecnica e legale) e servizi di supporto.</p>             <h2>Come lavora l'Ufficio comunitario delle varietà vegetali?</h2>             <p>Il sistema dell’UE di privative per le varietà vegetali è il più ampio al mondo. Dal 1995 ha trattato più di 53 000 domande e concesso oltre 41 000 privative comunitarie per varietà vegetali. Queste cifre dimostrano quanto il sistema sia attraente per i costitutori interessati a commercializzare le loro varietà in tutta Europa.</p>             <p>L’Ufficio ha stretti legami con:</p>             <ul style=\"padding-bottom: 15px;\">                <li>la Direzione generale della Commissione europea per la Salute e la sicurezza alimentare (DG SANTE)</li>                <li>i governi nazionali</li>                <li>gli uffici nazionali di esame di tutta Europa</li>                <li>le associazioni di costitutori: ESA, CIOPORA, Plantum</li>                <li>l'Unione internazionale per la protezione delle nuove varietà vegetali (UPOV)</li>                <li>l'Ufficio per l'armonizzazione nel mercato interno (marchi, disegni e modelli)</li>                <li>l’Ufficio europeo dei brevetti (UEB)</li>                <li>i giuristi e le università specializzati nel settore della proprietà intellettuale.</li>             </ul>             <h2>Chi ne beneficia?</h2>             <p>I principali gruppi interessati sono:</p>             <ul>                <li>i costitutori di varietà vegetali</li>                <li>i coltivatori</li>                <li>il pubblico in generale.</li>             </ul>"
+            ],
+            "lt": [
+                "<p>Bendrijos augalų veislių tarnyba (BAVT) skatina naujoves augalų veislių srityje, kruopščiai ir kuo ekonomiškiau nagrinėja Bendrijos augalų veislių teisių prašymus, teikia suinteresuotiesiems subjektams politikos gaires ir paramą jiems naudojantis tomis teisėmis. Suteikiant apsaugą naujų augalų veislėms visoje Europoje ginami augalų selekcininkų interesai ir užtikrinama, kad jų investicijos į mokslinius tyrimus ir inovacijas būtų pelningos.</p>             <h2>Ką BAVT veikia?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>BAVT suteikia naujų augalų veislių intelektinės nuosavybės teises, galiojančias ES šalyse 25 metus (30 metų bulvių, vynuogių ir medžių rūšims);</li>                <li>teikia suinteresuotiesiems subjektams politikos gaires ir paramą jiems naudojantis tomis teisėmis.</li>             </ul>             <h2>Struktūra</h2>             <p>Tarnybos pirmininkas teikia ataskaitas Administracinei tarybai, kurią sudaro </p>             <ul>                <li>28 ES šalių atstovai,</li>                <li>Europos Komisijos atstovai ir</li>                <li>stebėtojai.</li>             </ul>             <p>Tarnyba yra ES agentūra, kuri savo veiklą finansuoja pati, o Administracinė taryba yra jos biudžeto valdymo institucija. Administracinės tarybos pareigos:</p>             <ul>                <li>surengti bent vieną posėdį kasmet, siekiant aptarti ir patvirtinti darbo programą ir metinį biudžetą;</li>                <li>stebėti Tarnybos veiklą;</li>                <li>deleguoti techninės ekspertizės funkciją nacionalinėms ekspertizės tarnyboms Tarnybos vardu;</li>                <li>patvirtinti augalų veislių tyrimų techninius protokolus.</li>             </ul>             <p>Tarnybą sudaro 3 skyriai (administracinių reikalų, techninis ir teisinis) ir paramos padaliniai.</p>             <h2>Kaip Bendrijos augalų veislių tarnyba dirba?</h2>             <p>ES augalų veislių teisinės apsaugos sistema yra visapusiškiausia tokio pobūdžio sistema pasaulyje. Nuo 1995 m. ji išnagrinėjo daugiau nei 53 000 prašymų ir suteikė augalų veislių teisinę apsaugą Bendrijoje daugiau nei 41 000 augalų veislių. Tai rodo šios sistemos reikalingumą augalų selekcininkams, siekiantiems prekiauti savo veislėmis visoje Europoje.</p>             <p>Tarnyba glaudžiai bendradarbiauja su:</p>             <ul style=\"padding-bottom: 15px;\">                <li>Sveikatos ir maisto saugos generaliniu direktoratu (SANTE);</li>                <li>ES šalių vyriausybėmis;</li>                <li>nacionalinėmis ekspertizės tarnybomis visoje Europoje;</li>                <li>augalų selekcininkų asociacijomis (ESA, CIOPORA, „Plantum“);</li>                <li>Tarptautine naujų augalų veislių apsaugos sąjunga (UPOV);</li>                <li>Vidaus rinkos derinimo tarnyba (prekių ženklai ir dizainas);</li>                <li>Europos patentų tarnyba (EPT);</li>                <li>intelektinės nuosavybės teisės specialistais ir universitetais.</li>             </ul>             <h2>Kam naudinga tarnybos veikla?</h2>             <p>Pagrindinės tikslinės grupės:</p>             <ul>                <li>augalų selekcininkai,</li>                <li>augintojai,</li>                <li>visuomenė.</li>             </ul>"
+            ],
+            "lv": [
+                "<p>Kopienas Augu šķirņu birojs (<i>CPVO</i>) rosina inovāciju augu šķirņu jomā, ļoti rūpīgi un par pieejamu cenu izskatot lūgumus piešķirt ES garantētas intelektuālā īpašuma tiesības uz augu šķirnēm. Birojs ieinteresētajām personām arī sniedz ar regulējumu saistītus padomus un palīdz īstenot šīs tiesības. Tas, ka jaunas augu šķirnes tiek aizsargātas visā ES, palīdz uzturēt selekcionāru interesi un nodrošina to, ka viņu ieguldījumi pētniecībā un inovācijā nes peļņu.</p>             <h2>Ko <i>CPVO</i> dara?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Uz 25 gadiem (uz 30 gadiem kartupeļu, vīnogulāju un koku šķirnēm) piešķir visās ES dalībvalstīs spēkā esošas intelektuālā īpašuma tiesības uz jaunām augu šķirnēm.</li>                <li>Sniedz ieinteresētajām personām ar regulējumu saistītus padomus un palīdz īstenot šīs tiesības.</li>             </ul>             <h2>Struktūra</h2>             <p>Biroja vadītājs atskaitās administratīvajai padomei, kurā ir:</p>             <ul>                <li>28 ES dalībvalstu pārstāvji,</li>                <li>Eiropas Komisijas pārstāvji,</li>                <li>novērotāji.</li>             </ul>             <p>Birojs ir sevi pašu finansējoša ES aģentūra, un tās budžetu pārzina administratīvā padome, kuras pienākumi ir šādi:</p>             <ul>                <li>tikties vismaz reizi gadā, lai apspriestu un pieņemtu darba programmu un gada budžetu;</li>                <li>uzraudzīt biroja darbu;</li>                <li>biroja vārdā deleģēt atbildību par tehniskajām pārbaudēm valstu iestādēm, kuru pārziņā ir pārbaude;</li>                <li>apstiprināt augu šķirņu pārbaužu tehniskos protokolus.</li>             </ul>             <p>Birojam ir 3 nodaļas (administratīvā, tehniskā un juridiskā), ka arī palīdzības dienesti.</p>             <h2>Kā Kopienas Augu šķirņu birojs strādā?</h2>             <p>ES augu šķirņu tiesību sistēma ir visplašākā šāda veida sistēma pasaulē. Kopš 1995. gada tā ir izskatījusi 53 000 iesniegumu un piešķīrusi tiesības uz vairāk nekā 41 000 augu šķirņu. Tas liecina, ka sistēma ir pievilcīga selekcionāriem, kuri vēlas pārdot savas šķirnes visā Eiropā.</p>             <p>Birojs cieši sadarbojas ar:</p>             <ul style=\"padding-bottom: 15px;\">                <li>Eiropas Komisijas Veselības un pārtikas nekaitīguma ģenerāldirektorātu,</li>                <li>ES valstu valdībām,</li>                <li>valstu pārbaudes iestādēm visā Eiropā,</li>                <li>selekcionāru apvienībām (ESA, CIOPORA, Plantum),</li>                <li>Starptautisko Jaunu augu šķirņu aizsardzības savienību (<i>UPOV</i>),</li>                <li>Iekšējā tirgus saskaņošanas biroju (preču zīmes, paraugi un modeļi),</li>                <li>Eiropas Patentu iestādi (<i>EPO</i>),</li>                <li>intelektuālā īpašuma juristiem un augstskolām.</li>             </ul>             <h2>Kas no tā iegūst?</h2>             <p>Galvenās mērķgrupas ir:</p>             <ul>                <li>augu selekcionāri,</li>                <li>audzētāji,</li>                <li>visa sabiedrība kopumā.</li>             </ul>"
+            ],
+            "mt": [
+                "<p>L-Uffiċċju Komunitarju tal-Varjetajiet tal-Pjanti (CPVO) jinkoraġġixxi l-innovazzjoni fil-varjetajiet ta’ pjanti permezz tal-ipproċessar bir-reqqa tal-applikazzjonijiet għal drittijiet tal-varjetajiet ta’ pjanti tal-Komunità bi prezzijiet raġonevoli, filwaqt li jagħti gwida politika u għajnuna lill-partijiet interessati tiegħu biex jeżerċitaw dawn id-drittijiet. Il-protezzjoni tal-varjetajiet ta’ pjanti ġodda fl-UE kollha tgħin biex tħares l-interessi ta’ dawk li jnissluhom u tiżgura li l-investimenti tagħhom fir-riċerka u l-innovazzjoni huma profittabbli.</p>             <h2>X’jagħmel is-CPVO?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Jagħti drittijiet tal-proprjetà intellettwali għal varjetajiet ġodda ta’ pjanti, validi fil-pajjiżi tal-UE għal 25 snin (30 snin għal speċijiet ta’ patata, dwieli u siġar).</li>                <li>Jipprovdi lill-partijiet interessati bi gwida politika u għajnuna biex jeżerċitaw dawn id-drittijiet.</li>             </ul>             <h2>Struttura</h2>             <p>Il-President tal-Uffiċċju jirrapporta lill-Kunsill Amministrattiv li jinkludi:</p>             <ul>                <li>rappreżentanti minn 28 pajjiż tal-UE</li>                <li>rappreżentanti tal-Kummissjoni Ewropea</li>                <li>osservaturi.</li>             </ul>             <p>L-Uffiċċju hu aġenzija tal-UE li tiffinanzja lilha nfisha u l-Kunsill Amministrattiv hu l-awtorità tal-baġit tiegħu. Id-dmirijiet tiegħu jinkludu:</p>             <ul>                <li>laqgħa mill-anqas darba fis-sena biex jiddiskuti u jadotta l-programm ta’ ħidma u l-baġit annwali</li>                <li>monitoraġġ tal-ħidma tal-Uffiċċju</li>                <li>delega tar-responsabbiltà tal-eżaminazzjonijiet tekniċi lill-uffiċċji nazzjonali tal-eżaminazzjoni, f’isem l-Uffiċċju</li>                <li>approvazzjoni tal-protokolli tekniċi għall-ittestjar tal-varjetajiet tal-pjanti.</li>             </ul>             <p>L-Uffiċċju jinkludi 3 unitajiet (amministrattiva, teknika u legali) u servizzi ta’ appoġġ.</p>             <h2>Kif jaħdem l-Uffiċċju Komunitarju tal-Varjetajiet tal-Pjanti?</h2>             <p>Is-sistema tad-drittijiet tal-varjetajiet tal-pjanti tal-UE hi l-akbar waħda tax-xorta tagħha fid-dinja kollha. Mill-1995 'l hawn hi pproċessat aktar minn 53,000 applikazzjoni u tat aktar minn 41,000 dritt ta’ varjetajiet ta’ pjanti fil-Komunità. Dan juri kemm is-sistema hi attraenti għal dawk li jnisslu l-pjanti li huma ħerqanin li jikkummerċjalizzaw il-varjetajiet tagħhom fl-Ewropa kollha.</p>             <p>L-Uffiċċju għandu rabtiet mill-qrib:</p>             <ul style=\"padding-bottom: 15px;\">                <li>mad-Direttorat Ġenerali tal-Kummissjoni Ewropea għas-Saħħa u s-Sikurezza tal-Ikel (DĠ SANTE)</li>                <li>mal-gvernijiet nazzjonali</li>                <li>mal-uffiċċji nazzjonali tal-eżaminazzjoni fl-Ewropa kollha</li>                <li>mal-assoċjazzjonijiet ta’ dawk li jnisslu l-pjanti: ESA, CIOPORA, Plantum</li>                <li>mal-Unjoni Internazzjonali għall-Protezzjoni ta' Varjetajiet Ġodda ta' Pjanti (UPOV).</li>                <li>mal-Uffiċċju tal-Armonizzazzjoni fis-Suq Intern (marki kummerċjali u disinji)</li>                <li>mal-Uffiċju Ewropew tal-Privattivi (EPO)</li>                <li>mal-avukati tal-proprjetà intellettwali u l-universitajiet.</li>             </ul>             <h2>Min jibbenefika?</h2>             <p>Il-gruppi mira prinċipali huma:</p>             <ul>                <li>dawk li jnisslu l-pjanti</li>                <li>dawk li jkabbru l-pjanti</li>                <li>il-pubbliku inġenerali.</li>             </ul>"
+            ],
+            "nl": [
+                "<p>Het Communautair Bureau voor plantenrassen (CPVO) stimuleert innovatie op het gebied van plantenrassen door aanvragen voor Europese bescherming zorgvuldig en voor een betaalbare prijs te verwerken, en door de belanghebbenden begeleiding en advies over de uitoefening van intellectuele-eigendomsrechten te geven. Door nieuwe plantenrassen in de hele EU te beschermen, behartigt het CPVO de belangen van de kwekers. Zo kunnen zij erop vertrouwen dat hun investeringen in onderzoek en innovatie winstgevend zijn.</p>             <h2>Wat doet het CPVO?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Intellectuele-eigendomsrechten toekennen aan nieuwe plantenrassen in de EU-landen, die 25 jaar (30 jaar in het geval van soorten van aardappelen, wijnstokken en bomen) geldig zijn.</li>                <li>De belanghebbenden beleidsrichtsnoeren en steun bij de uitoefening van deze rechten geven.</li>             </ul>             <h2>Opzet</h2>             <p>De directeur rapporteert aan een raad van bestuur bestaande uit:</p>             <ul>                <li>vertegenwoordigers van de 28 EU-landen</li>                <li>vertegenwoordigers van de Europese Commissie</li>                <li>waarnemers</li>             </ul>             <p>Het CPVO is een zelfbedruipend agentschap van de EU en de Raad van bestuur is verantwoordelijk voor de begroting. De taken van de Raad van bestuur omvatten:</p>             <ul>                <li>ten minste eenmaal per jaar bijeenkomen om het werkprogramma en de jaarlijkse begroting te bespreken en goed te keuren</li>                <li>toezicht houden op de werkzaamheden van het Bureau </li>                <li>namens het Bureau de verantwoordelijkheid voor technische onderzoeken aan de nationale onderzoeksbureaus delegeren</li>                <li>technische protocollen voor het testen van plantenvariëteiten goedkeuren</li>             </ul>             <p>Het CPVO bestaat uit 3 eenheden (een administratieve, een technische en een juridische) en ondersteunende diensten.</p>             <h2>Hoe werkt het Communautair Bureau voor plantenrassen?</h2>             <p>De EU-beschermingsregeling voor kweekproducten is de meest uitgebreide in zijn soort ter wereld. Sinds 1995 heeft het CPVO meer dan 53 000 verzoeken behandeld en meer dan 41 000 communautaire kwekersrechten verleend. Dit toont aan hoe aantrekkelijk de regeling is voor kwekers die hun rassen in heel Europa op de markt willen brengen.</p>             <p>Het CPVO werkt nauw samen met:</p>             <ul style=\"padding-bottom: 15px;\">                <li>directoraat-generaal Gezondheid en Voedselveiligheid van de Europese Commissie (DG SANTE)</li>                <li>de regeringen van de EU-landen</li>                <li>de nationale onderzoeksbureaus in heel Europa</li>                <li>kwekersorganisaties: ESA, CIOPORA, Plantum</li>                <li>de Internationale Unie tot bescherming van kweekprodukten (UPOV)</li>                <li>het Harmonisatiebureau voor de interne markt (merken, tekeningen en modellen)</li>                <li>het Europees Octrooibureau (EPO)</li>                <li>advocaten en universiteiten die zich bezighouden met intellectuele eigendom </li>             </ul>             <h2>Wie is erbij gebaat?</h2>             <p>De belangrijkste doelgroepen zijn:</p>             <ul>                <li>kwekers</li>                <li>landbouwers</li>                <li>het algemene publiek</li>             </ul>"
+            ],
+            "pl": [
+                "<p>Wspólnotowy Urząd Ochrony Odmian Roślin (CPVO) wspiera innowacje w dziedzinie odmian roślin poprzez skrupulatne przetwarzanie wniosków o przyznanie unijnych praw do odmian roślin po przystępnych cenach, zapewniając zainteresowanym podmiotom wskazówki i pomoc w zakresie korzystania z tych praw. Ochrona nowych odmian roślin w całej UE sprzyja interesom hodowców i gwarantuje, że ich inwestycje w badania i innowacje będą opłacalne.</p>             <h2>Czym zajmuje się CPVO?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Udziela praw własności intelektualnej do nowych odmian roślin, które są ważne w państwach członkowskich UE przez okres 25 lat (30 lat w przypadku gatunków ziemniaków, winorośli oraz drzew).</li>                <li>Zapewnia zainteresowanym stronom wytyczne polityczne dotyczące wykonywania tych praw oraz pomoc w ich wykonywaniu.</li>             </ul>             <h2>Struktura</h2>             <p>Prezes Urzędu podlega radzie administracyjnej, w której skład wchodzą:</p>             <ul>                <li>przedstawiciele 28 krajów UE</li>                <li>przedstawiciele Komisji Europejskiej</li>                <li>obserwatorzy.</li>             </ul>             <p>Urząd jest samofinansującą się agencją UE, a jego władzą budżetową jest rada administracyjna. Jego zadania obejmują:</p>             <ul>                <li>posiedzenie przynajmniej raz w roku, aby przedyskutować i przyjąć program prac i budżet roczny</li>                <li>monitorowanie funkcjonowania Urzędu</li>                <li>przekazywanie odpowiedzialności za badania techniczne krajowym organom realizującym badania w imieniu Urzędu</li>                <li>zatwierdzanie protokołów badań technicznych odmian roślin.</li>             </ul>             <p>W skład Urzędu wchodzą trzy działy (administracyjny, techniczny i prawny), a także służby wspierające.</p>             <h2>Jak działa Wspólnotowy Urząd Ochrony Odmian Roślin?</h2>             <p>Unijny system ochrony odmian roślin należy do najbardziej kompleksowych na świecie. Od 1995 r. Urząd przeanalizował ponad 53 tys. wniosków i wydał ponad 41 tys. wspólnotowych praw do ochrony odmian roślin. Dowodzi to, że system ten jest atrakcyjny z punktu widzenia hodowców zainteresowanych sprzedawaniem swoich odmian roślin w całej Europie.</p>             <p>Urząd ściśle współpracuje z:</p>             <ul style=\"padding-bottom: 15px;\">                <li>Dyrekcją Generalną Komisji Europejskiej ds. Zdrowia i Bezpieczeństwa Żywności (DG SANTE)</li>                <li>rządami krajów UE</li>                <li>krajowymi instytutami badawczymi w całej Europie</li>                <li>stowarzyszeniami hodowców: ESA, CIOPORA, Plantum</li>                <li>Międzynarodowym Związkiem Ochrony Nowych Odmian Roślin (UPOV)</li>                <li>Urzędem Harmonizacji Rynku Wewnętrznego (znaki towarowe i wzory)</li>                <li>Europejskim Urzędem Patentowym (EPO)</li>                <li>prawnikami i uczelniami specjalizującymi się w prawach własności intelektualnej.</li>             </ul>             <h2>Komu przynosi korzyści działalność Urzędu?</h2>             <p>Głównymi grupami docelowymi są:</p>             <ul>                <li>hodowcy roślin</li>                <li>plantatorzy</li>                <li>konsumenci.</li>             </ul>"
+            ],
+            "pt": [
+                "<p>O Instituto Comunitário das Variedades Vegetais (ICVV) apoia a inovação no domínio das variedades vegetais, cabendo-lhe fazer uma apreciação criteriosa dos pedidos de registo de direitos de propriedade sobre essas variedades, bem como desempenhar funções de consultoria e assistência no exercício de tais direitos. A proteção das novas variedades vegetais na UE contribui para a salvaguarda dos interesses dos obtentores dessas variedades e para a rentabilidade dos seus investimentos na investigação e na inovação.</p>             <h2>O que faz o ICVV?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Concede direitos de propriedade intelectual sobre novas variedades vegetais,  válidos nos países da UE durante 25 anos (30 anos para variedades de batata, vinha e árvores).</li>                <li>Presta serviços de consultoria e apoio relacionados com o exercício desses direitos. </li>             </ul>             <h2>Estrutura</h2>             <p>A presidência do Instituto presta contas da sua atividade a um Conselho de Administração composto por </p>             <ul>                <li>representantes dos 28 países da UE</li>                <li>representantes da Comissão Europeia</li>                <li>observadores</li>             </ul>             <p>O Instituto é uma agência da UE autofinanciada, cuja autoridade orçamental é exercida pelo Conselho de Administração. Compete-lhe:</p>             <ul>                <li>reunir pelo menos uma vez por ano para debater e aprovar o programa de trabalho e o orçamento anual</li>                <li>acompanhar os trabalhos do Instituto</li>                <li>delegar nos organismos nacionais a responsabilidade pelos exames técnicos</li>                <li>aprovar os protocolos técnicos para testar variedades vegetais</li>             </ul>             <p>O Instituto comporta três unidades (administração, serviços técnicos e serviço jurídico) e serviços de apoio.</p>             <h2>Como funciona o  Instituto Comunitário das Variedades Vegetais?</h2>             <p>O regime europeu de proteção das variedades vegetais é um dos mais evoluídos do mundo. Desde 1995, foram tratados mais de 53 mil pedidos e concedidos direitos de propriedade sobre mais de 41 mil variedades vegetais. Estes números dizem bem até que ponto os obtentores de variedades vegetais interessados em comercializar os seus produtos em toda a Europa apreciam o sistema.</p>             <p>O Instituto trabalha em estreita cooperação com:</p>             <ul style=\"padding-bottom: 15px;\">                <li>a Direção-Geral da Saúde e Segurança Alimentar (SG SANTE) da Comissão Europeia</li>                <li>os governos nacionais dos países da UE</li>                <li>as entidades nacionais competentes em toda a Europa</li>                <li>as associações de obtentores de variedades vegetais  ESA, CIOPORA e Plantum</li>                <li>a UPOV (União Internacional para a Proteção das Obtenções Vegetais)</li>                <li>o Instituto de Harmonização no Mercado Interno (marcas, desenhos e modelos)</li>                <li>o Instituto Europeu de Patentes </li>                <li>juristas especializados em direitos de propriedade intelectual e universidades</li>             </ul>             <h2>Quem beneficia?</h2>             <p>Principais beneficiários:</p>             <ul>                <li>obtentores de variedades vegetais</li>                <li>produtores</li>                <li>público em geral</li>             </ul>"
+            ],
+            "ro": [
+                "<p>Oficiul Comunitar pentru Soiuri de Plante (OCSP) încurajează inovarea în domeniul soiurilor de plante, analizând riguros, la prețuri accesibile, cererile de drepturi de proprietate intelectuală asupra soiurilor de plante. În același timp, oferă consiliere și asistență cu privire la exercitarea acestor drepturi. Protejarea noilor soiuri de plante în întreaga UE contribuie la promovarea intereselor amelioratorilor și garantează că investițiile lor în cercetare și inovare sunt profitabile.</p>             <h2>Ce face OCSP?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Acordă drepturi de proprietate intelectuală asupra noilor soiuri de plante, valabile în țările UE timp de 25 de ani (30 de ani în cazul varietăților de cartofi, viță-de-vie și arbori).</li>                <li>Le oferă părților interesate consultanță în materie de politici și asistență cu privire la exercitarea acestor drepturi.</li>             </ul>             <h2>Structură</h2>             <p>Președintele Oficiului raportează în fața unui Consiliul de administrație format din:</p>             <ul>                <li>reprezentanți ai celor 28 de state membre ale UE</li>                <li>reprezentanți ai Comisiei Europene</li>                <li>observatori.</li>             </ul>             <p>OCSP este o agenție a UE care se autofinanțează, iar Consiliul de administrație este autoritatea sa bugetară. Printre altele, Consiliul de administrație al OCSP:</p>             <ul>                <li>se reunește cel puțin o dată pe an pentru a discuta și adopta programul de lucru și bugetul anual</li>                <li>monitorizează activitățile Oficiului</li>                <li>deleagă responsabilitatea examinărilor tehnice oficiilor naționale de examinare</li>                <li>aprobă protocoalele tehnice pentru testarea soiurilor de plante.</li>             </ul>             <p>Oficiul este format din 3 unități (administrativă, tehnică și juridică) și serviciile de sprijin.</p>             <h2>Cum lucrează Oficiul Comunitar pentru Soiuri de Plante?</h2>             <p>Sistemul UE de protecție a drepturilor de proprietate intelectuală asupra soiurilor de plante este unul dintre cele mai vaste din lume.  De la înființarea sa, în 1995, Oficiul a procesat mai mult de 53 000 de cereri și a acordat drepturi de proprietate asupra unui număr de peste 41 000 de soiuri de plante. Acest lucru dovedește cât de atrăgător este sistemul pentru amelioratorii de soiuri care doresc să își promoveze produsele pe piețele din Europa.</p>             <p>Oficiul menține legături strânse cu:</p>             <ul style=\"padding-bottom: 15px;\">                <li>Direcția Generală Sănătate și Siguranță Alimentară (DG SANTE) a Comisiei Europene</li>                <li>guvernele statelor membre</li>                <li>oficiile naționale de examinare din Europa</li>                <li>asociații ale amelioratorilor: ESA, CIOPORA, Plantum</li>                <li>Uniunea Internațională pentru Protecția Noilor Soiuri de Plante (UPOV)</li>                <li>Oficiul pentru Armonizare în cadrul Pieței Interne (mărci, desene și modele industriale)</li>                <li>Oficiul European de Brevete</li>                <li>universități și juriști specializați în domeniul proprietății intelectuale.</li>             </ul>             <h2>Cine sunt beneficiarii?</h2>             <p>Principalii destinatari ai serviciilor OCSP sunt:</p>             <ul>                <li>amelioratorii de soiuri</li>                <li>cultivatorii</li>                <li>publicul larg.</li>             </ul>"
+            ],
+            "sk": [
+                "<p>Úrad Spoločenstva pre odrody rastlín (CPVO) podporuje inovácie v oblasti odrôd rastlín riadnym spracovaním žiadostí o práva Spoločenstva k odrodám rastlín za primerané poplatky. Navyše poskytuje zúčastneným stranám politické usmernenia týkajúce sa týchto práv a pomoc pri ich vykonávaní. Celoeurópska právna ochrana nových odrôd rastlín pomáha motivovať šľachtiteľov a zabezpečuje, že ich investície do výskumu a inovácií sú ziskové.</p>             <h2>Čo CPVO robí?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>CPVO priznáva práva duševného vlastníctva k novým rastlinným odrodám, ktoré sú v krajinách EÚ uplatniteľné počas 25 rokov (30 rokov v prípade druhov viniča a stromov a zemiakov).</li>                <li>Úrad navyše poskytuje zainteresovaným stranám politické usmernenia týkajúce sa týchto práv a pomoc pri ich vykonávaní.</li>             </ul>             <h2>Štruktúra</h2>             <p>Kancelária riaditeľa úradu podáva správy správnej rade, ktorá zahŕňa:</p>             <ul>                <li>predstaviteľov z 28 krajín EÚ,</li>                <li>predstaviteľov Európskej komisie,</li>                <li>pozorovateľov.</li>             </ul>             <p>Úrad je samofinancovanou agentúrou EÚ a správna rada je jej rozpočtovým orgánom. Správna rada:</p>             <ul>                <li>zasadá aspoň raz ročne, aby prediskutovala a schválila pracovný program a ročný rozpočet,</li>                <li>monitoruje fungovanie úradu,</li>                <li>deleguje v mene úradu zodpovednosť za technické preskúmania národným kontrolným úradom,</li>                <li>schvaľuje technické protokoly pre skúšanie odrôd rastlín.</li>             </ul>             <p>Úrad pozostáva z 3 jednotiek (administratívnej, technickej a právnej) a podporných služieb.</p>             <h2>Ako Úrad Spoločenstva pre odrody rastlín funguje?</h2>             <p>Systém EÚ slúžiaci na právnu ochranu odrôd rastlín je najväčší svojho druhu na svete. Od roku 1995 bolo spracovaných viac ako 53 000 žiadostí a udelených vyše 41 000 práv Spoločenstva k odrodám rastlín. To dokazuje atraktívnosť systému pre šľachtiteľov, ktorí chcú svoje odrody umiestniť na trh EÚ.</p>             <p>Úrad má úzke vzťahy s:</p>             <ul style=\"padding-bottom: 15px;\">                <li>Generálnym riaditeľstvom Európskej komisie pre zdravie a bezpečnosť potravín (GR SANCO),</li>                <li>národnými vládami,</li>                <li>vnútroštátnymi úradmi skúšobníctva v celej Európe,</li>                <li>združeniami šľachtiteľov: ESA, CIOPORA, Plantum,</li>                <li>Medzinárodnou úniou pre ochranu nových odrôd rastlín,</li>                <li>Úradom pre harmonizáciu vnútorného trhu, (ochranné známky a vzory),</li>                <li>Európskym patentovým úradom,</li>                <li>právnikmi a univerzitami špecializujúcimi sa na právo duševného vlastníctva.</li>             </ul>             <h2>Kto má z činnosti úradu osoh?</h2>             <p>Hlavnými cieľovými skupinami sú:</p>             <ul>                <li>šľachtitelia rastlín,</li>                <li>pestovatelia,</li>                <li>široká verejnosť.</li>             </ul>"
+            ],
+            "sl": [
+                "<p>Urad Skupnosti za rastlinske sorte (CPVO) spodbuja inovacije v gojenju rastlinskih sort s skrbnim reševanjem vlog za podelitev žlahtniteljskih pravic Skupnosti po zmernih cenah, deležnikom pa daje navodila in pomoč pri uveljavljanju teh pravic. Z zaščito novih rastlinskih sort v Evropski uniji varuje interese žlahtniteljev in zagotavlja donosnost njihovih naložb v raziskave in inovacije.</p>             <h2>Naloge</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Podeljevanje pravic intelektualne lastnine za nove rastlinske sorte, ki v državah EU veljajo 25 let (30 let za nove sorte krompirja, vinske trte in dreves).</li>                <li>Smernice in pomoč žlahtniteljem pri uveljavljanju teh pravic.</li>             </ul>             <h2>Struktura</h2>             <p>Predsednik urada poroča upravnemu svetu, ki ga sestavljajo:</p>             <ul>                <li>predstavniki 28 držav EU,</li>                <li>predstavniki Evropske komisije,</li>                <li>opazovalci.</li>             </ul>             <p>Urad je agencija EU, ki se financira iz lastnih prihodkov. Proračunski organ urada je upravni svet. Naloge sveta vključujejo:</p>             <ul>                <li>vsaj en letni sestanek za razpravo in sprejetje delovnega programa in letnega proračuna,</li>                <li>spremljanje delovanja urada,</li>                <li>pooblastitev nacionalnih uradov za izvedbo preskušanja rastlinskih sort v imenu urada,</li>                <li>odobritev smernic za preskušanje rastlinskih sort.</li>             </ul>             <p>Urad sestavljajo tri enote (upravna, tehnična in pravna) ter podporne službe.</p>             <h2>Delovanje</h2>             <p>Sistem žlahtniteljskih pravic EU je najbolj obsežen na svetu. V okviru sistema so od leta 1995 obdelali več kot 53 000 prijav in podelili več kot 41 000 žlahtniteljskih pravic Skupnosti. Ti podatki kažejo na pomen sistema za žlahtnitelje, ki želijo svoje rastlinske sorte tržiti v Evropi.</p>             <p>Urad tesno sodeluje z:</p>             <ul style=\"padding-bottom: 15px;\">                <li>Generalnim direktoratom za zdravje in varnost hrane (GD SANTE) pri Evropski komisiji,</li>                <li>državami članicami EU,</li>                <li>nacionalnimi uradi za preskušanje v Evropi,</li>                <li>organizacijami žlahtniteljev: ESA, CIOPORA, Plantum,</li>                <li>Mednarodno zvezo za varstvo novih sort rastlin,</li>                <li>Uradom za harmonizacijo na notranjem trgu (blagovne znamke in modeli),</li>                <li>Evropskim patentnim uradom,</li>                <li>pravniki in univerzami, ki delujejo na področju prava intelektualne lastnine.</li>             </ul>             <h2>Koristi</h2>             <p>Koristi od dela urada imajo:</p>             <ul>                <li>žlahtnitelji rastlin,</li>                <li>pridelovalci,</li>                <li>splošna javnost.</li>             </ul>"
+            ],
+            "sv": [
+                "<p>Växtsortsmyndigheten uppmuntrar innovation av nya växtsorter genom att till en rimlig kostnad bedöma förädlarnas ansökningar om växtförädlarrätt, ge dem riktlinjer och hjälpa dem att utöva sina rättigheter.  Genom att skydda nya växtsorter i hela EU värnar man förädlarnas intressen och ser till att deras investeringar i forskning och innovation lönar sig.</p>             <h2>Vad gör växtsortsmyndigheten?</h2>             <ul style=\"padding-bottom: 15px;\">                <li>Beviljar immateriella rättigheter för nya växtsorter. De gäller i alla EU-länder i 25 år (30 år för sorter av potatis, vinstockar och träd).</li>                <li>Utfärdar riktlinjer och hjälper aktörerna att utöva sina rättigheter.</li>             </ul>             <h2>Organisation</h2>             <p>Myndighetens ordförande rapporterar till ett förvaltningsråd som består av</p>             <ul>                <li>företrädare för de 28 EU-länderna</li>                <li>EU-kommissionens företrädare</li>                <li>observatörer.</li>             </ul>             <p>Växtsortsmyndigheten är en självfinansierad EU-byrå. Förvaltningsrådet är den budgetansvariga myndigheten. Den har till uppgift att</p>             <ul>                <li>diskutera och anta arbetsprogrammet och årsbudgeten</li>                <li>övervaka myndighetens arbete</li>                <li>delegera ansvaret för den tekniska provningen till de nationella provningsmyndigheterna</li>                <li>godkänna tekniska protokoll för undersökning av växtsorter.</li>             </ul>             <p>Myndigheten består av tre enheter (för administrativa, tekniska och juridiska frågor) och stödtjänster.</p>             <h2>Hur arbetar växtsortsmyndigheten?</h2>             <p>EU:s växtförädlarrätt är den mest omfattande i sitt slag i världen. Sedan 1995 har man behandlat över 53 000 ansökningar och beviljat över 41 000 växtförädlarrätter i EU. Det visar hur attraktivt systemet är för de växtförädlare som vill sälja sina sorter i hela Europa.</p>             <p>Myndigheten samarbetar med</p>             <ul style=\"padding-bottom: 15px;\">                <li>EU-kommissionens generaldirektorat för hälsa och livsmedelssäkerhet</li>                <li>EU-ländernas regeringar</li>                <li>nationella provningsmyndigheter i Europa</li>                <li>branschorganisationer: ESA, Ciopora och Plantum</li>                <li>Internationella unionen för skydd av nya sorter</li>                <li>Kontoret för harmonisering i den inre marknaden (varumärken och mönster)</li>                <li>Europeiska patentverket</li>                <li>jurister och universitet som sysslar med immaterialrätt.</li>             </ul>             <h2>Vem gynnas?</h2>             <p>De viktigaste målgrupperna är</p>             <ul>                <li>växtförädlare</li>                <li>odlare</li>                <li>allmänheten.</li>             </ul>"
+            ]
+        },
+        "left_sub_menu": {
+            "und": [
+                true
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_943a8dea2561da52ae09332c520edc71"
+            ]
+        }
+    }
+}

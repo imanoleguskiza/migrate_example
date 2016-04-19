@@ -1,0 +1,423 @@
+{
+  "_id": "08012624894fd9eb",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "fr",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "ga",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv",
+    "hr"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-01-31 14:14:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        3
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/ener/thumb_ener_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/ener/thumb_ener_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/ener/thumb_ener_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/ener/thumb_ener_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/ener/thumb_ener_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/thumb_ener.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/ener/thumb_ener_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/ener/thumb_ener_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/ener/thumb_ener_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/ener/thumb_ener_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/ener/thumb_ener_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/ener/thumb_ener_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/ener/thumb_ener_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/ener/thumb_ener_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/ener/thumb_ener_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/ener/thumb_ener_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/ener/thumb_ener_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/ener/thumb_ener_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/ener/thumb_ener_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/ener/thumb_ener_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/ener/thumb_ener_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/ener/thumb_ener_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/ener/thumb_ener_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/ener/thumb_ener_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Енергетика"
+      ],
+      "cs": [
+        "Energetika"
+      ],
+      "da": [
+        "Energi"
+      ],
+      "de": [
+        "Energie"
+      ],
+      "el": [
+        "Ενέργεια"
+      ],
+      "en": [
+        "Energy"
+      ],
+      "es": [
+        "Energía"
+      ],
+      "et": [
+        "Energeetika"
+      ],
+      "fi": [
+        "Energia"
+      ],
+      "fr": [
+        "Énergie"
+      ],
+      "ga": [
+        "Fuinneamh"
+      ],
+      "hr": [
+        "Energija"
+      ],
+      "hu": [
+        "Energiapolitika"
+      ],
+      "it": [
+        "Energia"
+      ],
+      "lt": [
+        "Energetika"
+      ],
+      "lv": [
+        "Enerģētika"
+      ],
+      "mt": [
+        "Enerġija"
+      ],
+      "nl": [
+        "Energie"
+      ],
+      "pl": [
+        "Energia"
+      ],
+      "pt": [
+        "Energia"
+      ],
+      "ro": [
+        "Energia"
+      ],
+      "sk": [
+        "Energetika"
+      ],
+      "sl": [
+        "Energija"
+      ],
+      "sv": [
+        "Energi"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Енергетика"
+      ],
+      "cs": [
+        "Energetika"
+      ],
+      "da": [
+        "Energi"
+      ],
+      "de": [
+        "Energie"
+      ],
+      "el": [
+        "Ενέργεια"
+      ],
+      "en": [
+        "Energy"
+      ],
+      "es": [
+        "Energía"
+      ],
+      "et": [
+        "Energeetika"
+      ],
+      "fi": [
+        "Energia"
+      ],
+      "fr": [
+        "Énergie"
+      ],
+      "ga": [
+        "Fuinneamh"
+      ],
+      "hr": [
+        "Energija"
+      ],
+      "hu": [
+        "Energiapolitika"
+      ],
+      "it": [
+        "Energia"
+      ],
+      "lt": [
+        "Energetika"
+      ],
+      "lv": [
+        "Enerģētika"
+      ],
+      "mt": [
+        "Enerġija"
+      ],
+      "nl": [
+        "Energie"
+      ],
+      "pl": [
+        "Energia"
+      ],
+      "pt": [
+        "Energia"
+      ],
+      "ro": [
+        "Energia"
+      ],
+      "sk": [
+        "Energetika"
+      ],
+      "sl": [
+        "Energija"
+      ],
+      "sv": [
+        "Energi"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Текстът е актуализиран през ноември 2014 г.</span></p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Rukopis aktualizován v Listopad 2014</span></p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuskript ajourført i november 2014</span></p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuskript aktualisiert im November 2014</span></p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</span></p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Texto original actualizado en noviembre de 2014</span></p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Käsikiri on ajakohastatud november 2014</span></p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Teksti on päivitetty marraskuu 2014</span></p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuscrit actualisé en novembre 2014</span></p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\"><span>Arna thabhairt cothrom le dáta mí na Samhna 2014</span></span></p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Rukopis ažuriran u studeni 2014.</span></p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">A kézirat frissítve: 2014. november</span></p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Redazione aggiornata ad novembre 2014</span></p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Rankraštis atnaujintas 2014 m. novembris mėn.</span></p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuskripts atjaunināts 2014. gada novembris.</span></p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuskritt aġġornat f'Novembru 2014</span></p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Tekst bijgewerkt in november 2014</span></p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Tekst zaktualizowano w listopad 2014 r.</span></p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuscrito atualizado em novembro de 2014</span></p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuscris actualizat în noiembrie 2014</span></p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Rukopis bol aktualizovaný v november 2014</span></p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Rokopis je bil posodobljen november 2014.</span></p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuskriptet uppdaterat i november 2014</span></p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c14"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-BG-C/NA0614043BGC_002.pdf?FileName=NA0614043BGC_002.pdf&SKU=NA0614043BGC_PDF&CatalogueNumber=NA-06-0614043-043-BG-C"
+      ],
+      "cs": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-CS-C/NA0614043CSC_002.pdf?FileName=NA0614043CSC_002.pdf&SKU=NA0614043CSC_PDF&CatalogueNumber=NA-06-0614043-043-CS-C"
+      ],
+      "da": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-DA-C/NA0614043DAC_002.pdf?FileName=NA0614043DAC_002.pdf&SKU=NA0614043DAC_PDF&CatalogueNumber=NA-06-0614043-043-DA-C"
+      ],
+      "de": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-DE-C/NA0614043DEC_002.pdf?FileName=NA0614043DEC_002.pdf&SKU=NA0614043DEC_PDF&CatalogueNumber=NA-06-0614043-043-DE-C"
+      ],
+      "el": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-EL-C/NA0614043ELC_002.pdf?FileName=NA0614043ELC_002.pdf&SKU=NA0614043ELC_PDF&CatalogueNumber=NA-06-0614043-043-EL-C"
+      ],
+      "en": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-EN-C/NA0614043ENC_002.pdf?FileName=NA0614043ENC_002.pdf&SKU=NA0614043ENC_PDF&CatalogueNumber=NA-06-0614043-043-EN-C"
+      ],
+      "es": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-ES-C/NA0614043ESC_002.pdf?FileName=NA0614043ESC_002.pdf&SKU=NA0614043ESC_PDF&CatalogueNumber=NA-06-0614043-043-ES-C"
+      ],
+      "et": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-ET-C/NA0614043ETC_002.pdf?FileName=NA0614043ETC_002.pdf&SKU=NA0614043ETC_PDF&CatalogueNumber=NA-06-0614043-043-ET-C"
+      ],
+      "fi": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-FI-C/NA0614043FIC_002.pdf?FileName=NA0614043FIC_002.pdf&SKU=NA0614043FIC_PDF&CatalogueNumber=NA-06-0614043-043-FI-C"
+      ],
+      "fr": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-FR-C/NA0614043FRC_002.pdf?FileName=NA0614043FRC_002.pdf&SKU=NA0614043FRC_PDF&CatalogueNumber=NA-06-0614043-043-FR-C"
+      ],
+      "ga": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-GA-C/NA0614043GAC_002.pdf?FileName=NA0614043GAC_002.pdf&SKU=NA0614043GAC_PDF&CatalogueNumber=NA-06-0614043-043-GA-C"
+      ],
+      "hr": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-HR-C/NA0614043HRC_002.pdf?FileName=NA0614043HRC_002.pdf&SKU=NA0614043HRC_PDF&CatalogueNumber=NA-06-0614043-043-HR-C"
+      ],
+      "hu": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-HU-C/NA0614043HUC_002.pdf?FileName=NA0614043HUC_002.pdf&SKU=NA0614043HUC_PDF&CatalogueNumber=NA-06-0614043-043-HU-C"
+      ],
+      "it": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-IT-C/NA0614043ITC_002.pdf?FileName=NA0614043ITC_002.pdf&SKU=NA0614043ITC_PDF&CatalogueNumber=NA-06-0614043-043-IT-C"
+      ],
+      "lt": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-LT-C/NA0614043LTC_002.pdf?FileName=NA0614043LTC_002.pdf&SKU=NA0614043LTC_PDF&CatalogueNumber=NA-06-0614043-043-LT-C"
+      ],
+      "lv": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-LV-C/NA0614043LVC_002.pdf?FileName=NA0614043LVC_002.pdf&SKU=NA0614043LVC_PDF&CatalogueNumber=NA-06-0614043-043-LV-C"
+      ],
+      "mt": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-MT-C/NA0614043MTC_002.pdf?FileName=NA0614043MTC_002.pdf&SKU=NA0614043MTC_PDF&CatalogueNumber=NA-06-0614043-043-MT-C"
+      ],
+      "nl": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-NL-C/NA0614043NLC_002.pdf?FileName=NA0614043NLC_002.pdf&SKU=NA0614043NLC_PDF&CatalogueNumber=NA-06-0614043-043-NL-C"
+      ],
+      "pl": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-PL-C/NA0614043PLC_002.pdf?FileName=NA0614043PLC_002.pdf&SKU=NA0614043PLC_PDF&CatalogueNumber=NA-06-0614043-043-PL-C"
+      ],
+      "pt": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-PT-C/NA0614043PTC_002.pdf?FileName=NA0614043PTC_002.pdf&SKU=NA0614043PTC_PDF&CatalogueNumber=NA-06-0614043-043-PT-C"
+      ],
+      "ro": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-RO-C/NA0614043ROC_002.pdf?FileName=NA0614043ROC_002.pdf&SKU=NA0614043ROC_PDF&CatalogueNumber=NA-06-0614043-043-RO-C"
+      ],
+      "sk": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-SK-C/NA0614043SKC_002.pdf?FileName=NA0614043SKC_002.pdf&SKU=NA0614043SKC_PDF&CatalogueNumber=NA-06-0614043-043-SK-C"
+      ],
+      "sl": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-SL-C/NA0614043SLC_002.pdf?FileName=NA0614043SLC_002.pdf&SKU=NA0614043SLC_PDF&CatalogueNumber=NA-06-0614043-043-SL-C"
+      ],
+      "sv": [
+        "http://bookshop.europa.eu/en/energy-pbNA0614043/downloads/NA-06-0614043-043-SV-C/NA0614043SVC_002.pdf?FileName=NA0614043SVC_002.pdf&SKU=NA0614043SVC_PDF&CatalogueNumber=NA-06-0614043-043-SV-C"
+      ]
+    }
+  }
+}

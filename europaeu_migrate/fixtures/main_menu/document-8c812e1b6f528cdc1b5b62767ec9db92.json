@@ -1,0 +1,201 @@
+{
+    "_id": "8c812e1b6f528cdc1b5b62767ec9db92",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "und",
+        "es",
+        "fr",
+        "ga",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "hr"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2012-06-06 15:42:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                54
+            ]
+        },
+        "parent": {
+            "und": [
+                "d8680a84c023b16bcb6e08d171c13d24"
+            ]
+        },
+        "level": {
+            "und": [
+                5
+            ]
+        },
+        "title": {
+            "bg": [
+                "Формуляр за разширено търсене"
+            ],
+            "cs": [
+                "Formulář pro pokročilé vyhledávání"
+            ],
+            "da": [
+                "Avanceret søgning"
+            ],
+            "de": [
+                "Formular für erweiterte Suche"
+            ],
+            "el": [
+                "Δελτίο σύνθετης αναζήτησης"
+            ],
+            "und": [
+                "Advanced search form "
+            ],
+            "es": [
+                "Formulario de búsqueda avanzada"
+            ],
+            "et": [
+                "Täppisotsingu vorm"
+            ],
+            "fi": [
+                "Tarkennetun haun lomake"
+            ],
+            "fr": [
+                "Formulaire de recherche avancée"
+            ],
+            "ga": [
+                "Foirm do chuardach casta"
+            ],
+            "hr": [
+                "Obrazac za napredno pretraživanje"
+            ],
+            "hu": [
+                "Részletes kereső"
+            ],
+            "it": [
+                "Formulario di ricerca avanzata"
+            ],
+            "lt": [
+                "Išplėstinės paieškos forma"
+            ],
+            "lv": [
+                "Paplašinātās meklēšanas veidlapa"
+            ],
+            "mt": [
+                "Formola tat-tiftixa avvanzata"
+            ],
+            "nl": [
+                "Formulier geavanceerd zoeken"
+            ],
+            "pl": [
+                "Wyszukiwanie zaawansowane − formularz"
+            ],
+            "pt": [
+                "Formulário de pesquisa avançada"
+            ],
+            "ro": [
+                "Formular de căutare avansată"
+            ],
+            "sk": [
+                "Formulár rozšíreného vyhľadávania"
+            ],
+            "sl": [
+                "Napredno iskanje"
+            ],
+            "sv": [
+                "Avancerad sökning"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=bg"
+            ],
+            "cs": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=cs"
+            ],
+            "da": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=da"
+            ],
+            "de": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=de"
+            ],
+            "el": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=el"
+            ],
+            "und": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=en"
+            ],
+            "es": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=es"
+            ],
+            "et": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=et"
+            ],
+            "fi": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=fi"
+            ],
+            "fr": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=fr"
+            ],
+            "ga": [
+                "nolink"
+            ],
+            "hr": [
+                "empty"
+            ],
+            "hu": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=hu"
+            ],
+            "it": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=it"
+            ],
+            "lt": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=lt"
+            ],
+            "lv": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=lv"
+            ],
+            "mt": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=mt"
+            ],
+            "nl": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=nl"
+            ],
+            "pl": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=pl"
+            ],
+            "pt": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=pt"
+            ],
+            "ro": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=ro"
+            ],
+            "sk": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=sk"
+            ],
+            "sl": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=sl"
+            ],
+            "sv": [
+                "http://curia.europa.eu/juris/recherche.jsf?language=sv"
+            ]
+        }
+    }
+}

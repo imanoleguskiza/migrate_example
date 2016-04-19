@@ -1,0 +1,710 @@
+{
+    "_id": "b04fadb3e0e6c19ea0275069e96eaaa6",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/publications/resources-teachers/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/publications/resources-teachers/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/publications/resources-teachers/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/publications/resources-teachers/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/publications/resources-teachers/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/publications/resources-teachers/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/publications/resources-teachers/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/publications/resources-teachers/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/publications/resources-teachers/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/publications/resources-teachers/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/publications/resources-teachers/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/publications/resources-teachers/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/publications/resources-teachers/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/publications/resources-teachers/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/publications/resources-teachers/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/publications/resources-teachers/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/publications/resources-teachers/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/publications/resources-teachers/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/publications/resources-teachers/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/publications/resources-teachers/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/publications/resources-teachers/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/publications/resources-teachers/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/publications/resources-teachers/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/publications/resources-teachers/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Преподаватели"
+            ],
+            "cs": [
+                "Materiály pro učitele"
+            ],
+            "da": [
+                "Lærere"
+            ],
+            "de": [
+                "Lehrkräfte"
+            ],
+            "el": [
+                "Πηγές για εκπαιδευτικούς"
+            ],
+            "en": [
+                "Resources for teachers"
+            ],
+            "es": [
+                "Profesores"
+            ],
+            "et": [
+                "Kasulik materjal õpetajatele"
+            ],
+            "fi": [
+                "Opettajille"
+            ],
+            "fr": [
+                "Enseignants"
+            ],
+            "ga": [
+                "Múinteoirí"
+            ],
+            "hr": [
+                "EUROPA – Izvori informacija za nastavnike"
+            ],
+            "hu": [
+                "Tanárok"
+            ],
+            "it": [
+                "Insegnanti"
+            ],
+            "lt": [
+                "Mokytojams"
+            ],
+            "lv": [
+                "Skolotājiem"
+            ],
+            "mt": [
+                "Għalliema"
+            ],
+            "nl": [
+                "Leerkrachten"
+            ],
+            "pl": [
+                "Materiały dla nauczycieli"
+            ],
+            "pt": [
+                "Material para professores"
+            ],
+            "ro": [
+                "Resurse pentru profesori"
+            ],
+            "sk": [
+                "Podkladové materiály pre pedagogov"
+            ],
+            "sl": [
+                "Gradivo za učitelje"
+            ],
+            "sv": [
+                "Lärare"
+            ]
+        },
+        "category": {
+            "und": [
+                "56720c2",
+                "94333c7"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/"
+            ],
+            "cs": [
+                "EUROPA/"
+            ],
+            "da": [
+                "EUROPA/"
+            ],
+            "de": [
+                "EUROPA/"
+            ],
+            "el": [
+                "EUROPA/"
+            ],
+            "en": [
+                "EUROPA/"
+            ],
+            "es": [
+                "EUROPA/"
+            ],
+            "et": [
+                "EUROPA/"
+            ],
+            "fi": [
+                "EUROPA/"
+            ],
+            "fr": [
+                "EUROPA/"
+            ],
+            "ga": [
+                "EUROPA/"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "EUROPA/"
+            ],
+            "it": [
+                "EUROPA/"
+            ],
+            "lt": [
+                "EUROPA/"
+            ],
+            "lv": [
+                "EUROPA/"
+            ],
+            "mt": [
+                "EUROPA/"
+            ],
+            "nl": [
+                "EUROPA/"
+            ],
+            "pl": [
+                "EUROPA/"
+            ],
+            "pt": [
+                "EUROPA/"
+            ],
+            "ro": [
+                "EUROPA/"
+            ],
+            "sk": [
+                "EUROPA/"
+            ],
+            "sl": [
+                "EUROPA/"
+            ],
+            "sv": [
+                "EUROPA/"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "ipg"
+            ],
+            "cs": [
+                "ipg"
+            ],
+            "da": [
+                "ipg"
+            ],
+            "de": [
+                "ipg"
+            ],
+            "el": [
+                "ipg"
+            ],
+            "en": [
+                "ipg"
+            ],
+            "es": [
+                "ipg"
+            ],
+            "et": [
+                "ipg"
+            ],
+            "fi": [
+                "ipg"
+            ],
+            "fr": [
+                "ipg"
+            ],
+            "ga": [
+                "ipg"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "ipg"
+            ],
+            "it": [
+                "ipg"
+            ],
+            "lt": [
+                "ipg"
+            ],
+            "lv": [
+                "ipg"
+            ],
+            "mt": [
+                "ipg"
+            ],
+            "nl": [
+                "ipg"
+            ],
+            "pl": [
+                "ipg"
+            ],
+            "pt": [
+                "ipg"
+            ],
+            "ro": [
+                "ipg"
+            ],
+            "sk": [
+                "ipg"
+            ],
+            "sl": [
+                "ipg"
+            ],
+            "sv": [
+                "ipg"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Учебни материали за Европейския съюз, включително книги и карти "
+            ],
+            "cs": [
+                "Výukové materially o Evropské unii – brožury a mapy "
+            ],
+            "da": [
+                "Undervisningsmateriale om EU, herunder bøger og kort "
+            ],
+            "de": [
+                "Lehrmaterial zur Europäischen Union, z. B. Bücher und Landkarten "
+            ],
+            "el": [
+                "Διδακτικό υλικό για την Ευρωπαϊκή Ένωση, όπως βιβλία και χάρτες "
+            ],
+            "en": [
+                "Teaching material about the European Union, including books and maps "
+            ],
+            "es": [
+                "Material didáctico sobre la Unión Europea, incluidos los libros y mapas "
+            ],
+            "et": [
+                "Õppematerjal Euroopa Liidu kohta, sealhulgas raamatud ja kaardid "
+            ],
+            "fi": [
+                "Oppimateriaalia Euroopan unionista, mm. kirjoja ja karttoja "
+            ],
+            "fr": [
+                "Matériel pédagogique sur l'Union européenne (livres et cartes, notamment) "
+            ],
+            "ga": [
+                "Ábhar teagaisc faoin Aontas Eorpach, leabhair agus léarscáileanna san áireamh "
+            ],
+            "hr": [
+                "Nastavni materijal o Europskoj uniji, uključujući knjige i zemljopisne karte "
+            ],
+            "hu": [
+                "Oktatási segédanyagok, pl. könyvek és térképek az Európai Unióról "
+            ],
+            "it": [
+                "Materiale didattico sull'Unione europea, inclusi libri e mappe "
+            ],
+            "lt": [
+                "Mokomosios priemonės apie Europos Sąjungą (knygos, žemėlapiai ir kt.) "
+            ],
+            "lv": [
+                "Mācību materiāli par Eiropas Savienību (tostarp grāmatas un kartes) "
+            ],
+            "mt": [
+                "Materjal ta' tagħlim dwar l-Unjoni Ewropea, inklużi kotba u mapep "
+            ],
+            "nl": [
+                "Lesmateriaal over de Europese Unie, onder meer boeken en landkaarten "
+            ],
+            "pl": [
+                "Pomoce dydaktyczne dotyczące Unii Europejskiej, w tym książki i mapy "
+            ],
+            "pt": [
+                "Material didático sobre a União Europeia, nomeadamente livros e mapas "
+            ],
+            "ro": [
+                "Material didactic despre Uniunea Europeană, inclusiv cărţi şi hărţi "
+            ],
+            "sk": [
+                "Učebný materiál o Európskej únii vrátane kníh a máp "
+            ],
+            "sl": [
+                "Učno gradivo o Evropski uniji, vključno s knjigami in zemljevidi "
+            ],
+            "sv": [
+                "Undervisningsmaterial om EU, t.ex. böcker och kartor "
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "европейска интеграция, ев"
+            ],
+            "cs": [
+                "Evropská intergace, evropské instituce, výuko"
+            ],
+            "da": [
+                "Europæisk integration, EU-institutioner, læsep"
+            ],
+            "de": [
+                "Europäische Integration, Europäische Organe, E"
+            ],
+            "el": [
+                "Ευρωπαϊκή ολοκλήρωση, ευρ"
+            ],
+            "en": [
+                "European integration, European institutions, les"
+            ],
+            "es": [
+                "Integración europea, instituciones europeas, ma"
+            ],
+            "et": [
+                "Euroopa integratsioon, Euroopa institutsioonid,"
+            ],
+            "fi": [
+                "Euroopan integraatio, yhdentyminen, EU-toimielim"
+            ],
+            "fr": [
+                "intégration européenne, institutions européen"
+            ],
+            "ga": [
+                "Lánpháirtíocht Eorpach, institiúidí Eorpach"
+            ],
+            "hr": [
+                "europska integracija, europske institucije"
+            ],
+            "hu": [
+                "európai integráció, uniós intézmények, ór"
+            ],
+            "it": [
+                "Integrazione europea, istituzioni europee, piano"
+            ],
+            "lt": [
+                "Europos integracija, Europos institucijos, pamok"
+            ],
+            "lv": [
+                "Eiropas integrācija, ES iestādes, Eiropas iest"
+            ],
+            "mt": [
+                "Integrazzjoni Ewropea, istituzzjonijiet Ewropej,"
+            ],
+            "nl": [
+                "Europese integratie, Europese instellingen, leer"
+            ],
+            "pl": [
+                "integracja europejska, instytucje europejskie, s"
+            ],
+            "pt": [
+                "Integração europeia, instituições europeias,"
+            ],
+            "ro": [
+                "integrare europeană, instituţii europene, plan"
+            ],
+            "sk": [
+                "Európska integrácia, európske inštitúcie, u"
+            ],
+            "sl": [
+                "Evropsko povezovanje, evropske institucije, prip"
+            ],
+            "sv": [
+                "europeisk integration, eu-institutioner, lektion"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<p>Независимо дали търсите вдъхновение за вашите уроци или определена информация за европейската история или гражданство, или нещо съвсем конкретно, като например, намаляването на индивидуалното потребление на енергия, тук ще откриете полезен материал, съобразен с възрастта на вашите ученици.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_bg.htm\" lang=\"bg\">До 9 години</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_bg.htm\" lang=\"bg\">9 – 12 години</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_bg.htm\" lang=\"bg\">12 – 15 години</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_bg.htm\" lang=\"bg\">Над 15 години</a>                </li>             </ul>"
+            ],
+            "cs": [
+                "<p>Ať už hledáte inspiraci do výuky nebo konkrétní informace o evropské historii, občanství nebo detailnější otázky, např. snížení individuální spotřeby energie, nabízíme vám užitečné materiály přizpůsobené věkové kategorii vašich žáků nebo studentů.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_cs.htm\" lang=\"cs\">Do 9 let</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_cs.htm\" lang=\"cs\">9–12 let</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_cs.htm\" lang=\"cs\">12–15 let</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_cs.htm\" lang=\"cs\">15 let a více</a>                </li>             </ul>"
+            ],
+            "da": [
+                "<p>Søger du inspiration til din undervisning? Eller konkret information om Europas historie, unionsborgerskab eller energibesparelser? Her finder du helt sikkert nogle materialer, du kan bruge – til alle klassetrin.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_da.htm\" lang=\"da\">Op til 9 år</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_da.htm\" lang=\"da\">9-12 år</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_da.htm\" lang=\"da\">12-15 år</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_da.htm\" lang=\"da\">15 år og derover</a>                </li>             </ul>"
+            ],
+            "de": [
+                "<p>Ob Sie nun gute Ideen für Ihren Unterricht oder konkrete Informationen über die Geschichte Europas, die EU-Bürger oder Dokumentation zu speziellen Fragen suchen, beispielsweise über die Möglichkeiten des Einzelnen, Energie zu sparen: Hier finden Sie zweifellos nützliche und gezielte Angaben und Hinweise für die Altersgruppe Ihrer Schüler.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_de.htm\" lang=\"de\">Bis zu 9 Jahren</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_de.htm\" lang=\"de\">9 – 12 Jahre</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_de.htm\" lang=\"de\">12 – 15 Jahre</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_de.htm\" lang=\"de\">15 Jahre und älter</a>                </li>             </ul>"
+            ],
+            "el": [
+                "<p>Είτε ψάχνετε έμπνευση για τα μαθήματα που παραδίνετε, είτε συγκεκριμένα στοιχεία σχετικά με την ευρωπαϊκή ιστορία, την ιθαγένεια, ή άλλες περισσότερο εξειδικευμένες πληροφορίες, όπως, πώς μπορούμε να μειώσουμε την κατανάλωση ενέργειας, εδώ θα βρείτε σίγουρα χρήσιμο υλικό, που θα ταιριάζει και στην ηλικία των μαθητών σας.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_el.htm\" lang=\"el\">Έως 9 ετών</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_el.htm\" lang=\"el\">9-12 ετών</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_el.htm\" lang=\"el\">12-15 ετών</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_el.htm\" lang=\"el\">15 ετών και πάνω</a>                </li>             </ul>"
+            ],
+            "en": [
+                "<p>Whether you’re looking for inspiration for your lessons or concrete information on European history, citizenship, or something as specific as reducing individual energy consumption, you should find useful material here, tailored to the age-group of your students.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_en.htm\" lang=\"en\">Up to 9 years</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_en.htm\" lang=\"en\">9-12 years</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_en.htm\" lang=\"en\">12-15 years</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_en.htm\" lang=\"en\">15+ years</a>                </li>             </ul>"
+            ],
+            "es": [
+                "<p>Estamos convencidos de que encontrará recursos útiles para estudiantes de todas las edades: materiales que le pueden servir de inspiración para sus clases, información concreta sobre la historia de Europa y sus ciudadanos, consejos prácticos para reducir el consumo individual de energía, etc.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_es.htm\" lang=\"es\">Hasta 9 años</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_es.htm\" lang=\"es\">9-12 años</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_es.htm\" lang=\"es\">12-15 años</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_es.htm\" lang=\"es\">Mayores de 15 años</a>                </li>             </ul>"
+            ],
+            "et": [
+                "<p>Siit võite leida inspiratsiooni oma tundideks ja ka konkreetset teavet Euroopa ajaloo, kodakondsuse või mõne spetsiifilisema teema kohta (näiteks isikliku energiatarbimise vähendamisest). Teave on liigitatud vastavalt erinevatele vanuserühmadele.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_et.htm\" lang=\"et\">Kuni 9-aastased õpilased</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_et.htm\" lang=\"et\">9-12-aastased õpilased</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_et.htm\" lang=\"et\">12-15-aastased õpilased</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_et.htm\" lang=\"et\">15-aastased ning vanemad õpilased</a>                </li>             </ul>"
+            ],
+            "fi": [
+                "<p>Sivustolta löytyy aineistoa oppituntien suunnitteluun ja konkreettista perustietoa esimerkiksi Euroopan historiasta tai energiansäästöstä. Aineisto on jaoteltu ikäryhmittäin.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_fi.htm\" lang=\"fi\">Alle 9-vuotiaat</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_fi.htm\" lang=\"fi\">9–12-vuotiaat</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_fi.htm\" lang=\"fi\">12–15-vuotiaat</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_fi.htm\" lang=\"fi\">Yli 15-vuotiaat</a>                </li>             </ul>"
+            ],
+            "fr": [
+                "<p>Vous cherchez des idées pour une leçon, des informations concrètes sur l'histoire de l'Europe et ses habitants ou des renseignements plus spécifiques sur la diminution de la consommation d'énergie? Vous trouverez ici du matériel pédagogique utile et adapté à l'âge de vos élèves.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_fr.htm\" lang=\"fr\">Jusqu'à 9 ans</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_fr.htm\" lang=\"fr\">9-12 ans</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_fr.htm\" lang=\"fr\">12-15 ans</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_fr.htm\" lang=\"fr\">15 ans et plus</a>                </li>             </ul>"
+            ],
+            "ga": [
+                "<p>Bíodh tinfeadh uait do do chuid ceachtanna nó fírící ar stair nó ar shaoránacht na hEorpa, nó ar rud éigin chomh sainiúil le tomhailt fuinnimh an duine aonair a laghdú, ba cheart go bhfaighfeá ábhar úsáideach anseo, agus é oiriúnaithe d'aoisghrúpa do chuid daltaí.   </p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_en.htm\" lang=\"en\">Up to 9 years</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_en.htm\" lang=\"en\">9-12 years</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_en.htm\" lang=\"en\">12-15 years</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_en.htm\" lang=\"en\">15+ years</a>                </li>             </ul>"
+            ],
+            "hr": [
+                "<p>Ako vam je potrebno nadahnuće za nastavu ili konkretne informacije o europskoj povijesti, građanstvu ili određenim područjima kao što je smanjenje pojedinačne potrošnje energije, ovdje ćete pronaći korisne sadržaje prilagođene starosnim skupinama učenika:</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_hr.htm\" lang=\"hr\">mlađi od 9 godina</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_hr.htm\" lang=\"hr\">od 9 do 12 godina</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_hr.htm\" lang=\"hr\">od 12 do 15 godina</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_hr.htm\" lang=\"hr\">stariji od 15 godina.</a>                </li>             </ul>"
+            ],
+            "hu": [
+                "<p>Ön tanár, aki ötletet szeretne kapni a tanításhoz? Konkrét adatok után kutat az európai történelem, illetve az uniós polgárság témakörében? Esetleg azt szeretné megtudni, egyéni szinten hogyan csökkenthetjük az életmódunkból eredő energiafogyasztást? Webhelyünkön rengeteg hasznos segédanyagot kínálunk Önnek, melyeket a diákok életkora szerinti csoportosításban adunk közre. </p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_hu.htm\" lang=\"hu\">9 éven aluliak</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_hu.htm\" lang=\"hu\">9–12 évesek</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_hu.htm\" lang=\"hu\">12–15 évesek</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_hu.htm\" lang=\"hu\">15 éven felüliek</a>                </li>             </ul>"
+            ],
+            "it": [
+                "<p>Se cercate ispirazione per preparare le lezioni oppure informazioni concrete sulla storia o la cittadinanza europea, o ancora su argomenti più specifici, come la riduzione del consumo energetico di ciascuno, questo è il posto giusto in cui trovare utile materiale organizzato in base all’età degli allievi.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_it.htm\" lang=\"it\">Fino a 9 anni</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_it.htm\" lang=\"it\">9-12 anni</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_it.htm\" lang=\"it\">12-15 anni</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_it.htm\" lang=\"it\">Dai 15 anni in su</a>                </li>             </ul>"
+            ],
+            "lt": [
+                "<p>Čia rasite ne tik įdomios ir pagal amžiaus grupes parengtos mokymo medžiagos ar konkrečios informacijos apie Europos istoriją ar pilietiškumą, bet ir atsakymų į praktinius klausimus, pvz., kaip sumažinti energijos suvartojimą.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_lt.htm\" lang=\"lt\">Iki 9 metų</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_lt.htm\" lang=\"lt\">9–12 metų</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_lt.htm\" lang=\"lt\">12–15 metų</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_lt.htm\" lang=\"lt\">15 metų ir vyresni</a>                </li>             </ul>"
+            ],
+            "lv": [
+                "<p>Ja meklējat iedvesmas avotu, gatavojoties stundai, vai konkrētu informāciju par Eiropas vēsturi, tās iedzīvotājiem vai pat kaut ko tik specifisku kā individuālā energopatēriņa samazināšanu, jūs šeit noteikti atradīsiet noderīgus un attiecīgai skolēnu vecuma grupai piemērotus materiālus.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_lv.htm\" lang=\"lv\">Līdz 9 gadiem</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_lv.htm\" lang=\"lv\">9-12 gadi</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_lv.htm\" lang=\"lv\">12-15 gadi</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_lv.htm\" lang=\"lv\">15 gadi</a>                </li>             </ul>"
+            ],
+            "mt": [
+                "<p>Kemm jekk qed tfittex ispirazzjoni għal-lezzjonijiet tiegħek u kemm jekk trid tagħrif dwar l-istorja tal-Ewropa, iċ-ċittadinanza jew xi ħaġa speċifika bħal kif tista' tnaqqas il-konsum individwali tal-enerġija, għandek issib xi ħaġa utli apposta skont il-grupp ta’ età tal-istudenti tiegħek.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_mt.htm\" lang=\"mt\">Sa 9 snin</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_mt.htm\" lang=\"mt\">9 sa 12-il sena</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_mt.htm\" lang=\"mt\">12 sa 15-il sena</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_mt.htm\" lang=\"mt\">'Il fuq minn 15-il sena</a>                </li>             </ul>"
+            ],
+            "nl": [
+                "<p>Of u nu inspiratie voor lessen zoekt of concrete informatie over de Europese geschiedenis, burgerschap of een specifiek onderwerp als energiebesparing, u zult altijd iets vinden dat aansluit bij de leeftijdsgroep van uw leerlingen.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_nl.htm\" lang=\"nl\">Tot 9 jaar</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_nl.htm\" lang=\"nl\">9-12 jaar</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_nl.htm\" lang=\"nl\">12-15 jaar</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_nl.htm\" lang=\"nl\">15 jaar en ouder</a>                </li>             </ul>"
+            ],
+            "pl": [
+                "<p>Bez względu na to, czy szukają Państwo pomysłu na lekcję czy też wybranych informacji na temat historii Europy lub obywatelstwa europejskiego bądź wyjaśnień na temat tak konkretnych zagadnień, jak na przykład ograniczenie indywidualnego zużycia energii, powinni Państwo znaleźć tutaj przydatne materiały dostosowane do potrzeb danej grupy wiekowej uczniów.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_pl.htm\" lang=\"pl\">Do 9 lat</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_pl.htm\" lang=\"pl\">9–12 lat</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_pl.htm\" lang=\"pl\">12–15 lat</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_pl.htm\" lang=\"pl\">Od 15 lat</a>                </li>             </ul>"
+            ],
+            "pt": [
+                "<p>Se procura inspiração para as suas aulas, informações concretas sobre a história e a cidadania europeias ou sobre algo tão específico como a redução do consumo individual de energia, encontrará material útil e adaptado à faixa etária dos seus alunos.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_pt.htm\" lang=\"pt\">Até 9 anos</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_pt.htm\" lang=\"pt\">9-12 anos</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_pt.htm\" lang=\"pt\">12-15 anos</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_pt.htm\" lang=\"pt\">15 anos ou mais</a>                </li>             </ul>"
+            ],
+            "ro": [
+                "<p>Materialele, structurate pe grupe de vârstă, vă pot fi utile atât ca sursă de inspiraţie pentru orele de curs, cât şi ca sursă de informaţii despre istoria Europei, despre cetăţenie sau chiar despre un domeniu punctual precum modalităţile de reducere a consumului de energie.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_ro.htm\" lang=\"ro\">Până la 9 ani</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_ro.htm\" lang=\"ro\">9-12 ani</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_ro.htm\" lang=\"ro\">12-15 ani</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_ro.htm\" lang=\"ro\">Peste 15 ani</a>                </li>             </ul>"
+            ],
+            "sk": [
+                "<p>Kútik ponúka užitočné informácie šité na mieru rôznym vekovým skupinám žiakov a študentov, či už hľadáte inšpiráciu na vyučovanie alebo konkrétne informácie o európskych dejinách, občianstve alebo možnostiach individuálneho zníženia spotreby energie.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_sk.htm\" lang=\"sk\">Do 9 rokov</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_sk.htm\" lang=\"sk\">9 – 12 rokov</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_sk.htm\" lang=\"sk\">12 – 15 rokov</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_sk.htm\" lang=\"sk\">Viac ako 15 rokov</a>                </li>             </ul>"
+            ],
+            "sl": [
+                "<p>Gradivo je prirejeno za otroke različnih starostnih skupin, vsebuje pa konkretne informacije, denimo o zgodovini Evropske unije, državljanstvu EU ali bolj specifičnih področjih, kot je zmanjšanje porabe energije, ter pripomočke za popestritev pouka.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_sl.htm\" lang=\"sl\">Do 9 let</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_sl.htm\" lang=\"sl\">9-12 let</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_sl.htm\" lang=\"sl\">12-15 let</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_sl.htm\" lang=\"sl\">15 let in več</a>                </li>             </ul>"
+            ],
+            "sv": [
+                "<p>Behöver du inspiration och idéer för dina lektioner? Eller konkret information om europeisk historia? Vill du kanske ta reda på något mer specifikt, t.ex. hur man kan minska sin energiförbrukning? Vi hoppas att du hittar användbart material här.</p>             <ul>                <li>                   <a href=\"http://europa.eu/teachers-corner/0_9/index_sv.htm\" lang=\"sv\">Upp till 9 år</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/9_12/index_sv.htm\" lang=\"sv\">9–12 år</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/12_15/index_sv.htm\" lang=\"sv\">12–15 år</a>                </li>                <li>                   <a href=\"http://europa.eu/teachers-corner/15/index_sv.htm\" lang=\"sv\">Äldre än 15 år</a>                </li>             </ul>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_b04fadb3e0e6c19ea0275069e96eaaa6"
+            ]
+        }
+    }
+}

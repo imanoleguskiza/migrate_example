@@ -1,0 +1,513 @@
+{
+  "_id": "080126248e077380",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e077380",
+        "080126248e077380",
+        "080126248e077380",
+        "080126248e077380",
+        "080126248e077380",
+        "080126248e077380",
+        "080126248e077380"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски съвет"
+      ],
+      "cs": [
+        "Evropská rada"
+      ],
+      "da": [
+        "Det Europæiske Råd"
+      ],
+      "de": [
+        "Europäischer Rat"
+      ],
+      "el": [
+        "Ευρωπαϊκό Συμβούλιο"
+      ],
+      "en": [
+        "European Council"
+      ],
+      "es": [
+        "Consejo Europeo"
+      ],
+      "et": [
+        "Euroopa Ülemkogu"
+      ],
+      "fi": [
+        "Eurooppa-neuvosto"
+      ],
+      "fr": [
+        "Conseil européen"
+      ],
+      "ga": [
+        "An Chomhairle Eorpach"
+      ],
+      "hr": [
+        "Europsko vijeće"
+      ],
+      "hu": [
+        "Európai Tanács"
+      ],
+      "it": [
+        "Consiglio europeo"
+      ],
+      "lt": [
+        "Europos Vadovų Taryba"
+      ],
+      "lv": [
+        "Eiropadome"
+      ],
+      "mt": [
+        "il-Kunsill Ewropew"
+      ],
+      "nl": [
+        "Europese Raad"
+      ],
+      "pl": [
+        "Rada Europejska"
+      ],
+      "pt": [
+        "Conselho Europeu"
+      ],
+      "ro": [
+        "Consiliul European"
+      ],
+      "sk": [
+        "Európska rada"
+      ],
+      "sl": [
+        "Evropski svet"
+      ],
+      "sv": [
+        "Europeiska rådet"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Rue de la Loi/Wetstraat 175</p> <p>B-1048 Bruxelles/Brussel</p> <p>Belgique/België</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 281 61 11"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+32 2 281 69 34"
+      ]
+    },
+    "link_url": {
+      "bg": [
+        "http://www.consilium.europa.eu/bg/contact/"
+      ],
+      "cs": [
+        "http://www.consilium.europa.eu/cs/contact/"
+      ],
+      "da": [
+        "http://www.consilium.europa.eu/da/contact/"
+      ],
+      "de": [
+        "http://www.consilium.europa.eu/de/contact/"
+      ],
+      "el": [
+        "http://www.consilium.europa.eu/el/contact/"
+      ],
+      "en": [
+        "http://www.consilium.europa.eu/en/contact/"
+      ],
+      "es": [
+        "http://www.consilium.europa.eu/es/contact/"
+      ],
+      "et": [
+        "http://www.consilium.europa.eu/et/contact/"
+      ],
+      "fi": [
+        "http://www.consilium.europa.eu/fi/contact/"
+      ],
+      "fr": [
+        "http://www.consilium.europa.eu/fr/contact/"
+      ],
+      "ga": [
+        "http://www.consilium.europa.eu/ga/contact/"
+      ],
+      "hr": [
+        "http://www.consilium.europa.eu/hr/contact/"
+      ],
+      "hu": [
+        "http://www.consilium.europa.eu/hu/contact/"
+      ],
+      "it": [
+        "http://www.consilium.europa.eu/it/contact/"
+      ],
+      "lt": [
+        "http://www.consilium.europa.eu/lt/contact/"
+      ],
+      "lv": [
+        "http://www.consilium.europa.eu/lv/contact/"
+      ],
+      "mt": [
+        "http://www.consilium.europa.eu/mt/contact/"
+      ],
+      "nl": [
+        "http://www.consilium.europa.eu/nl/contact/"
+      ],
+      "pl": [
+        "http://www.consilium.europa.eu/pl/contact/"
+      ],
+      "pt": [
+        "http://www.consilium.europa.eu/pt/contact/"
+      ],
+      "ro": [
+        "http://www.consilium.europa.eu/ro/contact/"
+      ],
+      "sk": [
+        "http://www.consilium.europa.eu/sk/contact/"
+      ],
+      "sl": [
+        "http://www.consilium.europa.eu/sl/contact/"
+      ],
+      "sv": [
+        "http://www.consilium.europa.eu/sv/contact/"
+      ]
+    },
+    "link_label": {
+      "bg": [
+        "За контакти"
+      ],
+      "cs": [
+        "Kontakt"
+      ],
+      "da": [
+        "Kontakt"
+      ],
+      "de": [
+        "Kontakt"
+      ],
+      "el": [
+        "Επικοινωνία"
+      ],
+      "en": [
+        "Contact"
+      ],
+      "es": [
+        "Dirección de contacto"
+      ],
+      "et": [
+        "Kontakt"
+      ],
+      "fi": [
+        "Yhteydenotot"
+      ],
+      "fr": [
+        "Contact"
+      ],
+      "ga": [
+        "Teagmháil"
+      ],
+      "hr": [
+        "Kontakt"
+      ],
+      "hu": [
+        "Kapcsolat"
+      ],
+      "it": [
+        "Per contattarci"
+      ],
+      "lt": [
+        "Kontaktai"
+      ],
+      "lv": [
+        "Kontakti"
+      ],
+      "mt": [
+        "Kuntatt"
+      ],
+      "nl": [
+        "Contact"
+      ],
+      "pl": [
+        "Kontakt"
+      ],
+      "pt": [
+        "Contacto"
+      ],
+      "ro": [
+        "Contact"
+      ],
+      "sk": [
+        "Kontakt"
+      ],
+      "sl": [
+        "Kontakt"
+      ],
+      "sv": [
+        "Kontakt"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "https://twitter.com/EUCouncilPress",
+        "https://www.flickr.com/photos/europeancouncil_meetings/",
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Twitter",
+        "Flickr",
+        "Social networks"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    }
+  }
+}

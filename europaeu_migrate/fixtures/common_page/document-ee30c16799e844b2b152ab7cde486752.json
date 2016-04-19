@@ -1,0 +1,921 @@
+{
+    "_id": "ee30c16799e844b2b152ab7cde486752",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/eu-law/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/eu-law/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/eu-law/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/eu-law/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/eu-law/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/eu-law/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/eu-law/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/eu-law/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/eu-law/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/eu-law/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/eu-law/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/eu-law/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/eu-law/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/eu-law/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/eu-law/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/eu-law/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/eu-law/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/eu-law/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/eu-law/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/eu-law/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/eu-law/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/eu-law/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/eu-law/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/eu-law/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Право на ЕС"
+            ],
+            "cs": [
+                "Právo EU"
+            ],
+            "da": [
+                "EU-lovgivningen"
+            ],
+            "de": [
+                "EU-Recht"
+            ],
+            "el": [
+                "Δίκαιο της ΕΕ"
+            ],
+            "en": [
+                "EU law"
+            ],
+            "es": [
+                "Derecho de la UE"
+            ],
+            "et": [
+                "ELi õigus"
+            ],
+            "fi": [
+                "EU:n oikeus"
+            ],
+            "fr": [
+                "Législation de l’UE"
+            ],
+            "ga": [
+                "Dlí AE"
+            ],
+            "hr": [
+                "Pravo EU-a"
+            ],
+            "hu": [
+                "Uniós jog"
+            ],
+            "it": [
+                "Diritto dell'UE"
+            ],
+            "lt": [
+                "ES teisė"
+            ],
+            "lv": [
+                "ES tiesības"
+            ],
+            "mt": [
+                "Liġi tal-UE"
+            ],
+            "nl": [
+                "EU-recht"
+            ],
+            "pl": [
+                "Prawo UE"
+            ],
+            "pt": [
+                "Direito da UE"
+            ],
+            "ro": [
+                "Dreptul UE"
+            ],
+            "sk": [
+                "Právo EÚ"
+            ],
+            "sl": [
+                "Pravo EU"
+            ],
+            "sv": [
+                "EU-lagstiftning"
+            ]
+        },
+        "category": {
+            "und": [
+                "33755c64"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "cs": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "da": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "de": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "el": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "en": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "es": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "et": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fi": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fr": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ga": [
+                "EUROPA/ABOUT-EU/"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "it": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lv": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "mt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "nl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ro": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sk": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sv": [
+                "EUROPA/ABOUT-EU/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM"
+            ],
+            "cs": [
+                "COMM"
+            ],
+            "da": [
+                "COMM"
+            ],
+            "de": [
+                "COMM"
+            ],
+            "el": [
+                "COMM"
+            ],
+            "en": [
+                "COMM"
+            ],
+            "es": [
+                "COMM"
+            ],
+            "et": [
+                "COMM/COMM/C2"
+            ],
+            "fi": [
+                "COMM"
+            ],
+            "fr": [
+                "COMM/COMM/C2"
+            ],
+            "ga": [
+                "COMM/COMM/C2"
+            ],
+            "hr": [
+                "COMM/COMM/C2"
+            ],
+            "hu": [
+                "COMM/COMM/C2"
+            ],
+            "it": [
+                "COMM/COMM/C2"
+            ],
+            "lt": [
+                "COMM/COMM/C2"
+            ],
+            "lv": [
+                "COMM/COMM/C2"
+            ],
+            "mt": [
+                "COMM/COMM/C2"
+            ],
+            "nl": [
+                "COMM/COMM/C2"
+            ],
+            "pl": [
+                "COMM/COMM/C2"
+            ],
+            "pt": [
+                "COMM/COMM/C2"
+            ],
+            "ro": [
+                "COMM/COMM/C2"
+            ],
+            "sk": [
+                "COMM/COMM/C2"
+            ],
+            "sl": [
+                "COMM/COMM/C2"
+            ],
+            "sv": [
+                "COMM/COMM/C2"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Увод в политиката на ЕС: процедури за вземане на решения и баланс на властта между институциите"
+            ],
+            "cs": [
+                "Základní informace o politikách EU – rozhodovací proces a rozdělení moci mezi orgány EU"
+            ],
+            "da": [
+                "Introduktion til EU-politikker: beslutningsprocessen og magtbalancen mellem institutionerne"
+            ],
+            "de": [
+                "Einführung in die EU-Politik: Entscheidungsverfahren und interinstitutionelles Gleichgewicht"
+            ],
+            "el": [
+                "Εισαγωγή στη λειτουργία της ΕΕ: οι διαδικασίες λήψης αποφάσεων και ο καταμερισμός των εξουσιών μεταξύ των θεσμικών οργάνων"
+            ],
+            "en": [
+                "Introduction to EU politics: decision-making procedures and the balance of power between the institutions"
+            ],
+            "es": [
+                "Introducción a la política de la UE: procedimientos de toma de decisiones y reparto de poder entre las instituciones"
+            ],
+            "et": [
+                "Sissejuhatus ELi poliitikasse: otsustamismenetlused ja jõudude tasakaal institutsioonide vahel"
+            ],
+            "fi": [
+                "Katsaus EU:n politiikkaan: päätöksentekomenettelyt ja vallanjako toimielinten välillä"
+            ],
+            "fr": [
+                "Fonctionnement de l'UE: comment se prennent les décisions et quel est l'équilibre des pouvoirs entre les institutions?"
+            ],
+            "ga": [
+                "Buneolas ar pholaitíocht an AE: cumhachtaí cinnteoireachta agus cothromaíocht na cumhachta idir na hinstitiúidí"
+            ],
+            "hr": [
+                "Uvod u politiku EU-a: postupci odlučivanja i raspodjela ovlasti među institucijama"
+            ],
+            "hu": [
+                "Alapismeretek az uniós szakpolitikákról: döntéshozatali eljárások és az intézmények közötti erőegyensúly"
+            ],
+            "it": [
+                "Introduzione alle politiche dell'UE: le procedure decisionali e l'equilibrio dei poteri tra le istituzioni"
+            ],
+            "lt": [
+                "Trumpai apie ES politiką. Sprendimų priėmimo procedūros ir institucijų galios pusiausvyra"
+            ],
+            "lv": [
+                "Ievads ES politikā: lēmumu pieņemšanas procedūras un varas sadalījums starp iestādēm"
+            ],
+            "mt": [
+                "Introduzzjoni għall-politiki tal-UE: il-proċeduri tat-teħid tad-deċiżjonijiet u l-bilanċ tas-setgħat bejn l-istituzzjonijiet"
+            ],
+            "nl": [
+                "Inleiding in de EU-politiek: besluitvormingsprocedures en machtsevenwicht tussen de instellingen"
+            ],
+            "pl": [
+                "Wprowadzenie do polityki UE: procesy decyzyjne i równowaga uprawnień między instytucjami"
+            ],
+            "pt": [
+                "Introdução às políticas da UE: processo de decisão e equilíbrio de poderes entre as instituições"
+            ],
+            "ro": [
+                "Introducere în politica UE: procedurile decizonale şi repartizarea puterii între instituţii"
+            ],
+            "sk": [
+                "Úvod do politického pozadia EÚ: postupy prijímania rozhodnutí a rovnováha právomocí medzi inštitúciami EÚ"
+            ],
+            "sl": [
+                "Snovanje politik v EU: postopki odločanja in ravnotežje moči med institucijami"
+            ],
+            "sv": [
+                "En introduktion till EU:s politik: beslutsförfaranden och maktfördelningen mellan EU-institutionerna"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "ЕС",
+                "Европейски съюз",
+                "държава-членка",
+                "институция",
+                "институции",
+                "Европейски парламент",
+                "Европейски съвет",
+                "Съвет на Европейския съюз",
+                "Европейска комисия",
+                "вземане на решения"
+            ],
+            "cs": [
+                "EU",
+                "Evropská unie",
+                "členský stát",
+                "instituce",
+                "Parlament",
+                "Evropský",
+                "Evropská rada",
+                "Rada Evropské unie",
+                "Evropská komise",
+                "rozhodování"
+            ],
+            "da": [
+                "eu",
+                "den europæiske union",
+                "unionen",
+                "Den Europæiske Union",
+                "Medlemsstat",
+                "institution",
+                "Europa-Parlamentet",
+                "Det Europæiske Råd",
+                "Rådet for Den Europæiske Union",
+                "Europa-Kommissionen",
+                "beslutningstagning"
+            ],
+            "de": [
+                "EU",
+                "Europäische Union",
+                "Mitgliedstaat",
+                "Institution",
+                "Einrichtung",
+                "Organ",
+                "Europäisches Parlament",
+                "Europäischer Rat",
+                "Rat der Europäischen Union",
+                "Europäische Kommission",
+                "Beschlussfassung",
+                "Entscheidungsfindung"
+            ],
+            "el": [
+                "ΕΕ",
+                "Ευρωπαϊκή Ένωση",
+                "Κράτος Μέλος",
+                "θεσμικό όργανο",
+                "Ευρωπαϊκό Κοινοβούλιο",
+                "Ευρωπαϊκό Συμβούλιο",
+                "Συμβούλιο της Ευρωπαϊκής",
+                "Ευρωπαϊκή Επιτροπή",
+                "λήψη αποφάσεων"
+            ],
+            "en": [
+                "EU",
+                "European Union",
+                "Member State",
+                "institution",
+                "European Parliament",
+                "European Council",
+                "Council of the European Union",
+                "European Commission",
+                "decision-making"
+            ],
+            "es": [
+                "UE",
+                "Unión Europea",
+                "Estado miembro",
+                "institución",
+                "Parlamento Europeo",
+                "Consejo Europeo",
+                "Consejo de la Unión Europea",
+                "Comisión Europea",
+                "toma de decisiones"
+            ],
+            "et": [
+                "EL",
+                "Euroopa Liit",
+                "liikmesriik",
+                "institutsioon",
+                "Euroopa Parlament",
+                "Euroopa Ülemkogu",
+                "Euroopa Liidu Nõukogu",
+                "Euroopa Komisjon",
+                "otsuste tegemine"
+            ],
+            "fi": [
+                "EU",
+                "Euroopan unioni",
+                "Jäsenvaltio",
+                "jäsenmaa",
+                "EU-maa",
+                "toimielin",
+                "toimielimet",
+                "Euroopan parlamentti",
+                "Eurooppa-neuvosto",
+                "Euroopan unionin neuvosto",
+                "EU:n neuvosto",
+                "Euroopan komissio",
+                "päätöksenteko"
+            ],
+            "fr": [
+                "UE",
+                "Union européenne",
+                "État membre",
+                "pays membre",
+                "institution",
+                "Parlement européen",
+                "Conseil européen",
+                "Conseil de l'Union européenne",
+                "Commission européenne",
+                "processus législatif",
+                "élaboration de la légis"
+            ],
+            "ga": [
+                "AE",
+                "An tAontas Eorpach",
+                "Ballstát",
+                "institiúid",
+                "Parlaimint na hEorpa",
+                "An Comhairle Eorpach",
+                "Comhairle an Aontais Eorpaigh",
+                "An Coimisiún Eorpach",
+                "cinnteoireacht"
+            ],
+            "hr": [
+                "EU",
+                "Europska unija",
+                "država članica",
+                "institucija",
+                "Europski parlament",
+                "Europsko vijeće",
+                "Vijeće Europske unije",
+                "Europska komisija",
+                "odlučivanje"
+            ],
+            "hu": [
+                "EU",
+                "Európai Unió",
+                "tagállam",
+                "intézmény",
+                "Európai Parlament",
+                "Európai Tanács",
+                "az Európai Unió Tanácsa",
+                "Európai Bizottság",
+                "döntéshozatal"
+            ],
+            "it": [
+                "UE",
+                "Unione europea",
+                "Stato membro",
+                "paese membro",
+                "istituzione",
+                "Parlamento europeo",
+                "Consiglio europeo",
+                "Consiglio dell'Unione europea",
+                "Commissione europea",
+                "processo decisionale"
+            ],
+            "lt": [
+                "ES",
+                "Europos Sąjunga",
+                "valstybė narė",
+                "institucija",
+                "Europos Parlamentas",
+                "Europos Vadovų Taryba",
+                "Europos Sąjungos Taryba",
+                "Europos Komisija",
+                "sprendimų priėmimas"
+            ],
+            "lv": [
+                "ES",
+                "Eiropas Savienība",
+                "Eiropas Savienības",
+                "dalībvalsts",
+                "institūcija",
+                "iestāde",
+                "Eiropas Parlaments",
+                "Eiropadome",
+                "Eiropas Savienības Padome",
+                "Eiropas Komisija",
+                "lēmumu pieņemšana"
+            ],
+            "mt": [
+                "UE",
+                "Unjoni Ewropea",
+                "Stat Membru",
+                "istituzzjoni",
+                "Parlament Ewropew",
+                "Kunsill Ewropew",
+                "Kunsill tal-Unjoni Ewropea",
+                "Kummissjoni Ewropea",
+                "teħid ta' deċiżjonijiet"
+            ],
+            "nl": [
+                "EU",
+                "Europese Unie",
+                "lidstaat",
+                "instelling",
+                "Europees Parlement",
+                "Europese Raad",
+                "Raad van de Europese Unie",
+                "Europese Commissie",
+                "besluitvorming"
+            ],
+            "pl": [
+                "UE",
+                "Unia Europejska",
+                "państwo członkowskie",
+                "instytucja",
+                "instytucje",
+                "Parlament Europejski",
+                "Rada Europejska",
+                "Rada Unii Europejskiej",
+                "Komisja Europejska",
+                "proces decyzyjny"
+            ],
+            "pt": [
+                "UE",
+                "União Europeia",
+                "Estado-Membro",
+                "instituição",
+                "Parlamento Europeu",
+                "Conselho Europeu",
+                "Conselho da União Europeia",
+                "Comissão Europeia",
+                "processo de decisão"
+            ],
+            "ro": [
+                "ue",
+                "Uniunea Europeană",
+                "stat membru",
+                "instituţie",
+                "Parlamentul European",
+                "Consiliul European",
+                "Consiliul Uniunii Europene",
+                "Comisia Europeană",
+                "procesul decizional"
+            ],
+            "sk": [
+                "EÚ",
+                "Európska únia",
+                "členský štát",
+                "inštitúcie",
+                "Európsky parlament",
+                "Európska rada",
+                "Rada Európskej únie",
+                "Európska komisia",
+                "rozhodovanie"
+            ],
+            "sl": [
+                "EU",
+                "Evropska unija",
+                "Država članica",
+                "institucija",
+                "Evropski parlament",
+                "Evropski svet",
+                "Svet Evropske unije",
+                "Evropska komisija",
+                "odločanje"
+            ],
+            "sv": [
+                "EU",
+                "europeiska unionen",
+                "medlemsland",
+                "medlemsstat",
+                "institution",
+                "europaparlamentet",
+                "europeiska rådet",
+                "ministerrådet",
+                "rådet",
+                "EU-kommissionen",
+                "beslutsprocess",
+                "beslutsfattande"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<p>Правото на ЕС се състои от „първично“ и „вторично“ законодателство. Договорите (първично законодателство) са основата на всички действия на ЕС. </p>             <p>Вторичното законодателство – регламенти, директиви и решения – се изготвя на базата на принципите и целите, залегнали в договорите.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_bg.htm\"                   lang=\"bg\">Как се вземат решенията в ЕС</a>             </h2>             <p>Стандартната процедура за вземане на решения в ЕС се нарича <a href=\"http://www.europarl.europa.eu/aboutparliament/bg/20150201PVL00004/Законодателни-правомощия\">„обикновена законодателна процедура“</a> (бивша „процедура за съвместно вземане на решение“). В нейните рамки пряко избраният Европейски парламент трябва да одобрява законодателството на ЕС заедно със Съвета (правителствата на 28-те държави от ЕС). Комисията изготвя законодателни предложения и прилага законодателството на Съюза.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_bg.htm\" lang=\"bg\">Договори на ЕС</a>             </h2>             <p>Европейският съюз се основава на принципите на правовата държава. Това означава, че ЕС предприема всяко действие въз основа на договори, които са одобрени доброволно и демократично от всички страни членки на Съюза.</p>             <p>С Договора от Лисабон се увеличи броят на областите на политиката, в които се използва „обикновената законодателна процедура“. Освен това Европейският парламент има повече правомощия да блокира дадено предложение, ако не постигне съгласие със Съвета.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_bg.htm\"                   lang=\"bg\">Регламенти, директиви и други актове</a>             </h2>             <p>Целите, определени с договорите за ЕС, се постигат чрез няколко вида правни актове. Тези правни актове могат да бъдат регламенти, директиви, препоръки и становища. Някои са задължителни, а други не. Едни се отнасят до всички страни от ЕС, а други само до някои от тях.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_bg.htm\" lang=\"bg\"> Прилагане на правото на ЕС </a>             </h2>             <p>Европейското законодателство предоставя права и налага задължения не само на държавите-членки, но и на гражданите и предприятията, спрямо които известен брой правила се прилагат пряко. Европейското право е неразделна част от правната система на държавите-членки, които отговарят преди всичко за въвеждането и правилното прилагане на неговите разпоредби. Ето защо вие сте в правото си да очаквате от националните органи в целия Европейски съюз да прилагат правилно вашите права на европейски граждани.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_bg.htm\" lang=\"bg\">Намерете правен акт</a>             </h2>             <p>Законодателството на ЕС е под формата на:</p>             <ul>                <li>договори за създаване на Европейския съюз и определяне на начина му на работа</li>                <li>регламенти, директиви и решения на ЕС – с пряко или косвено отражение върху държавите от Съюза.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_bg.htm\" lang=\"bg\">Търсене на съдебна практика</a>             </h2>             <p>Съдебната практика на ЕС се състои от решения на Съда на Европейския съюз, с които се тълкува законодателството на Съюза</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_bg.htm\" lang=\"bg\">Участвайте в изготвянето на европейските политики</a>             </h2>             <p>Искате да участвате в изготвянето на европейските политики? Има няколко начина да го направите: европейска гражданска инициатива, обществени консултации, петиции до европейския парламент, регистър за прозрачност, известия и регистър за прозрачност, официални жалби.</p>"
+            ],
+            "cs": [
+                "<p>Evropský právní systém se dělí na právo primární a sekundární. Primární právo představuje několik smluv, které tvoří právní základ pro veškerou činnost Evropské unie. </p>             <p>Sekundární právo (nařízení, směrnice a rozhodnutí) vychází z principů a cílů zakotvených ve zmíněných smlouvách.</p>             <h2>                <a href=\"http://europa.eu/about-eu/basic-information/decision-making/procedures/index_en.htm\"                   lang=\"en\">Jak orgány EU přijímají rozhodnutí</a>             </h2>             <p>Standardní rozhodovací proces, podle kterého orgány EU postupují, se nazývá <a href=\"http://www.europarl.europa.eu/aboutparliament/cs/20150201PVL00004/Legislativní-pravomoci\">řádný legislativní postup</a> (dříve známý pod názvem spolurozhodování). Ten spočívá v tom, že přímo volení poslanci Evropského parlamentu schvalují navrhované předpisy spolu s Radou (tj. zástupci vlád všech 27 zemí EU). Návrhy předpisů předkládá Evropská komise a ta také odpovídá za jejich provádění v členských státech.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_cs.htm\" lang=\"cs\">Smlouvy EU</a>             </h2>             <p>Evropská unie používá vlastní soubor právních norem. Veškerá její činnost podléhá pravidlům stanoveným ve smlouvách, které byly dobrovolně a demokraticky ratifikovány všemi členskými státy Unie.</p>             <p>Počet politických oblastí, ve kterých se rozhodnutí přijímají postupem spolurozhodování, se zvýšil přijetím Lisabonské smlouvy. Evropský parlament má také nyní větší pravomoci v případě, kdy se neshodne s Radou a chce přijetí navrhovaného předpisu zablokovat.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_cs.htm\"                   lang=\"cs\">Nařízení, směrnice a další právní akty</a>             </h2>             <p>Cíle stanovené ve svých Smlouvách naplňuje Evropská unie pomocí několika druhů právních aktů. Konkrétně jde o nařízení, směrnice, doporučení a stanoviska. Některé z nich mají právní závaznost, jiné nikoli. Některé z nich platí ve všech zemích EU, jiné jen v několika.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_cs.htm\" lang=\"cs\"> Uplatňování práva EU </a>             </h2>             <p>Právo EU ukládá práva a povinnosti nejen členským státům, ale i občanům a podnikům, na něž se přímo vztahuje velké množství předpisů. Je nedílnou součástí právního systému členských států, které nesou zodpovědnost především za provádění a správné používání těchto předpisů. Vašim právem je tedy od vnitrostátních orgánů v celé Evropské unii očekávat, že budou evropské předpisy používat správně.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_cs.htm\" lang=\"cs\">Vyhledávání právních předpisů</a>             </h2>             <p>Právní předpisy EU zahrnují:</p>             <ul>                <li>smlouvy o založení Evropské unie a o jejím fungování</li>                <li>nařízení, směrnice a rozhodnutí EU, které mají přímý nebo nepřímý dopad na členské státy EU.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_cs.htm\" lang=\"cs\">Vyhledávat v judikatuře</a>             </h2>             <p>Judikaturu EU tvoří rozsudky Soudního dvora Evropské unie, které právní předpisy EU vykládají.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_cs.htm\" lang=\"cs\">Zapojit se do tvorby evropské politiky</a>             </h2>             <p>Chcete se zapojit do tvorby evropské politiky? Máte několik možností: evropská občanská iniciativa, veřejné konzultace, petice evropskému parlamentu, rejstřík transparentnosti, oznámení a rejstřík transparentnosti, formální stížnosti.</p>"
+            ],
+            "da": [
+                "<p>EU-retten er delt op i \"primær\" og \"sekundær\" lovgivning. Traktaterne (primær lovgivning) ligger til grund for alle EU-tiltag. </p>             <p>Den sekundære lovgivning, som omfatter forordninger, direktiver og afgørelser, bygger på traktaternes principper og mål.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_da.htm\"                   lang=\"da\">Sådan tages beslutningerne i EU</a>             </h2>             <p>EU's almindelige beslutningsproces kaldes <a href=\"http://www.europarl.europa.eu/aboutparliament/da/20150201PVL00004/Lovgivningsbeføjelser\">\"den almindelige lovgivningsprocedure\"</a> (tidligere \"den fælles beslutningsprocedure\"). Det betyder, at det direkte valgte Europa-Parlament skal godkende EU-lovgivningen sammen med Rådet (de 28 EU-landes regeringer). Kommissionen udarbejder forslag til og gennemfører EU-lovgivningen.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_da.htm\" lang=\"da\">EU-traktater</a>             </h2>             <p>Den Europæiske Union bygger på retsstatsprincippet. Det betyder, at ethvert tiltag fra EU er baseret på traktater, der er blevet godkendt frivilligt og på demokratisk vis i alle medlemslandene.</p>             <p>Med Lissabontraktaten steg antallet af politikområder, hvor \"den almindelige lovgivningsprocedure\" anvendes. Europa-Parlamentet har også flere beføjelser til at blokere et forslag, hvis det er uenigt med Rådet.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_da.htm\"                   lang=\"da\">Forordninger, direktiver og andre retsakter</a>             </h2>             <p>De mål, der er fastsat i traktaterne, nås gennem forskellige typer retsakter. Det drejer sig bl.a. om forordninger, direktiver, henstillinger og udtalelser. Nogle er bindende, andre er ikke. Nogle angår alle EU-lande, mens andre kun angår nogle stykker.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_da.htm\" lang=\"da\">Anvendelse af EU-retten</a>             </h2>             <p>EU-retten giver ikke blot EU-landene rettigheder og pålægger dem forpligtelser. Det gælder også borgerne og virksomhederne, for hvem en række regler finder direkte anvendelse. EU-retten er en del af EU-landenes retssystem. Det er EU-landene, der har det primære ansvar for at gennemføre EU-reglerne i national ret og anvende dem korrekt. Du har derfor ret til at forvente, at de nationale myndigheder overalt i EU værner om dine rettigheder som EU-borger.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_da.htm\" lang=\"da\">Find lovgivning</a>             </h2>             <p>EU-lovgivning kan have form af:</p>             <ul>                <li>Traktater om oprettelse af Den Europæiske Union, og om hvordan EU fungerer</li>                <li>EU-forordninger, -direktiver og -afgørelser – med en direkte eller indirekte virkning for EU-landene.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_da.htm\" lang=\"da\">Find retspraksis</a>             </h2>             <p>EU's retspraksis består af domme afsagt af EU-Domstolen, som fortolker EU-lovgivningen.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_da.htm\" lang=\"da\">Vær med til at udforme EU's politik</a>             </h2>             <p>Vil du gerne være med til at udforme EU's politik? Det kan du gøre på mange måder: det europæiske borgerinitiativ, offentlige høringer, andragender til europa-parlamentet, åbenhedsregistret, meddelelser og åbenhedsregistret, vil du indgive en formel klage.</p>"
+            ],
+            "de": [
+                "<p>Das EU-Recht gliedert sich in Primärrecht und Sekundärrecht. Die Verträge, d. h. die primären Rechtsvorschriften, sind die Grundlage für das Tätigwerden der EU ganz allgemein. </p>             <p>Die sekundären Rechtsvorschriften, also Verordnungen, Richtlinien, Entscheidungen und Beschlüsse, leiten sich von den in den Verträgen festgelegten Grundsätzen und Zielen ab.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_de.htm\"                   lang=\"de\">EU-Entscheidungsprozess</a>             </h2>             <p>Das übliche Entscheidungsverfahren ist das <a href=\"http://www.europarl.europa.eu/aboutparliament/de/20150201PVL00004/Legislativbefugnis\">ordentliche Gesetzgebungsverfahren</a> (früher „Mitentscheidungsverfahren“), nach dem EU-Rechtsvorschriften vom direkt gewählten Europäischen Parlament und vom Rat (Regierungen der 28 EU-Länder) gebilligt werden müssen. Für die Ausarbeitung und Durchsetzung der EU-Rechtsvorschriften ist die Kommission zuständig.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_de.htm\" lang=\"de\">EU-Verträge</a>             </h2>             <p>Die Europäische Union basiert auf dem Prinzip der Rechtsstaatlichkeit. Das bedeutet, dass jede Tätigkeit der EU auf Verträgen beruht, die von allen EU-Mitgliedstaaten auf freiwilliger und demokratischer Basis angenommen wurden.</p>             <p>Mit dem Vertrag von Lissabon wurde die Anzahl der Politikbereiche, in denen das ordentliche Gesetzgebungsverfahren zur Anwendung gelangt, erweitert. Auch die Befugnisse des Europäischen Parlaments, einen Vorschlag zurückzuweisen, wenn es den Standpunkt des Rates nicht teilt, wurden ausgedehnt.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_de.htm\"                   lang=\"de\">Verordnungen, Richtlinien und andere Rechtsakte</a>             </h2>             <p>Die in den EU-Verträgen niedergelegten Ziele werden mit Hilfe unterschiedlicher Rechtsakte verwirklicht. Zu diesen Rechtsakten gehören Verordnungen, Richtlinien, Empfehlungen und Stellungnahmen. Einige dieser Rechtsakte sind verbindlich, andere nicht. Des Weiteren gelten manche für alle und andere nur für bestimmte EU-Länder.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_de.htm\" lang=\"de\"> Anwendung des EU-Rechts </a>             </h2>             <p>Aus den europäischen Gesetzen ergeben sich nicht nur für die Mitgliedstaaten, sondern auch für die Bürger und Unternehmen Rechte und Pflichten, die teilweise unmittelbar gelten. Das europäische Recht ist untrennbarer Teil des Rechtssystems der Mitgliedstaaten, die vor allem für die Umsetzung und die ordnungsgemäße Anwendung der gemeinschaftlichen Vorschriften Verantwortung tragen. Sie können also mit Recht von den Behörden aller Mitgliedstaaten erwarten, dass sie Ihre europäischen Rechte in der gesamten EU korrekt anwenden.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_de.htm\" lang=\"de\">Suche nach Rechtstexten</a>             </h2>             <p>Bei den EU-Rechtsvorschriften handelt es sich entweder um</p>             <ul>                <li>Verträge zur Gründung der Europäischen Union und zur Regelung ihrer Arbeitsweise oder</li>                <li>Verordnungen, Richtlinien und Beschlüsse der EU mit direkten oder indirekten Auswirkungen auf die EU-Mitgliedstaaten.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_de.htm\" lang=\"de\">Rechtssachen finden</a>             </h2>             <p>Die EU-Rechtsprechung besteht aus Urteilen in Rechtssachen des Europäischen Gerichtshofs, in denen die EU-Rechtsvorschriften ausgelegt werden.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_de.htm\" lang=\"de\">Europapolitik mitgestalten</a>             </h2>             <p>Sie möchten am europäischen Entscheidungsprozess teilhaben? Dazu haben Sie mehrere Möglichkeiten: europäische bürgerinitiative, öffentliche konsultationen, petitionen an das europäische parlament, transparenzregister, benachrichtigungen und transparenzregister, beschwerden.</p>"
+            ],
+            "el": [
+                "<p>Το δίκαιο της ΕΕ διακρίνεται σε πρωτογενές και παράγωγο. Οι Συνθήκες (πρωτογενές δίκαιο) αποτελούν τη νομική βάση για όλες τις μορφές δράσης που αναπτύσσει η ΕΕ. </p>             <p>Το παράγωγο δίκαιο, το οποίο περιλαμβάνει τους κανονισμούς, τις οδηγίες και τις αποφάσεις, απορρέει από τις αρχές και τους στόχους που καθορίζονται στις Συνθήκες.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_el.htm\"                   lang=\"el\">Πώς λαμβάνονται οι αποφάσεις στην ΕΕ</a>             </h2>             <p>Για τη λήψη αποφάσεων στην ΕΕ κατά κανόνα ακολουθείται η λεγόμενη <a href=\"http://www.europarl.europa.eu/aboutparliament/el/20150201PVL00004/Νομοθετικές-αρμοδιότητες\">'συνήθης νομοθετική διαδικασία’</a> (πρώην \"διαδικασία συναπόφασης\"). Αυτό σημαίνει ότι οι προτεινόμενοι νόμοι πρέπει να εγκριθούν τόσο από το άμεσα εκλεγμένο Ευρωπαϊκό Κοινοβούλιο όσο και από το Συμβούλιο (που εκπροσωπεί τις κυβερνήσεις των 28 χωρών μελών της ΕΕ). Η Επιτροπή εκπονεί τη νομοθεσία της ΕΕ και μεριμνά για την εφαρμογή της.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_el.htm\" lang=\"el\">Οι Συνθήκες της ΕΕ</a>             </h2>             <p>Θεμέλιο της Ευρωπαϊκής Ένωσης είναι το κράτος δικαίου. Αυτό σημαίνει ότι όλες οι ενέργειες της ΕΕ βασίζονται στις Συνθήκες, τις οποίες όλα τα κράτη μέλη της Ένωσης ενέκριναν εκούσια και δημοκρατικά.</p>             <p>Με τη Συνθήκη της Λισαβόνας αυξήθηκε ο αριθμός των τομέων πολιτικής στους οποίους χρησιμοποιείται η \"συνήθης νομοθετική διαδικασία\". Το Ευρωπαϊκό Κοινοβούλιο απέκτησε επίσης μεγαλύτερη εξουσία, ώστε να μπορεί να εμποδίσει την έγκριση μιας πρότασης εάν διαφωνεί με το Συμβούλιο.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_el.htm\"                   lang=\"el\">Κανονισμοί, οδηγίες και άλλες νομοθετικές πράξεις</a>             </h2>             <p>Οι στόχοι που ορίζονται στις συνθήκες της ΕΕ επιτυγχάνονται μέσω διαφόρων νομοθετικών πράξεων. Οι νομοθετικές αυτές πράξεις περιλαμβάνουν κανονισμούς, οδηγίες, συστάσεις και γνώμες. Μερικές έχουν δεσμευτικό χαρακτήρα, άλλες όχι. Ορισμένες ισχύουν για όλες τις χώρες της ΕΕ, άλλες για μερικές μόνον από αυτές.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_el.htm\" lang=\"el\"> Εφαρμογή του δικαίου της ΕΕ </a>             </h2>             <p>Το ευρωπαϊκό δίκαιο παρέχει δικαιώματα και επιβάλλει υποχρεώσεις όχι μόνο στα κράτη μέλη αλλά και στους πολίτες και τις επιχειρήσεις, για τους οποίους ισχύουν άμεσα ορισμένοι κανόνες. Αποτελεί αναπόσπαστο μέρος του νομικού συστήματος των κρατών μελών, τα οποία είναι πρωτίστως υπεύθυνα για την ενσωμάτωση των εν λόγω κανόνων στο εθνικό σύστημα και για την ορθή εφαρμογή τους. Δικαιούστε λοιπόν να απαιτείτε από τις εθνικές αρχές ολόκληρης της επικράτειας της Ευρωπαϊκής Ένωσης να σέβονται τα ευρωπαϊκά δικαιώματά σας.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_el.htm\" lang=\"el\">Αναζήτηση νομοθεσίας</a>             </h2>             <p>Η νομοθεσία της ΕΕ περιλαμβάνει:</p>             <ul>                <li>Συνθήκες για την ίδρυση της Ευρωπαϊκής Ένωσης και τον τρόπο λειτουργίας της</li>                <li>κανονισμούς, οδηγίες και αποφάσεις της ΕΕ, που επηρεάζουν άμεσα ή έμμεσα τα κράτη μέλη της.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_el.htm\" lang=\"el\">Αναζήτηση νομολογίας</a>             </h2>             <p>Η νομολογία της ΕΕ αποτελείται από αποφάσεις του Δικαστηρίου της Ευρωπαϊκής Ένωσης, οι οποίες ερμηνεύουν τη νομοθεσία της ΕΕ.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_el.htm\" lang=\"el\">Λάβετε μέρος στη χάραξη των ευρωπαϊκών πολιτικών</a>             </h2>             <p>Θέλετε να συμμετάσχετε στη χάραξη των ευρωπαϊκών πολιτικών; Υπάρχουν πολλοί τρόποι γι' αυτό: ευρωπαϊκή πρωτοβουλία πολιτών, δημόσιες διαβουλεύσεις, αναφορές προς το ευρωπαϊκό κοινοβούλιο, μητρώο διαφάνειας, κοινοποιήσεις και μητρώο διαφάνειας, επίσημες καταγγελίες.</p>"
+            ],
+            "en": [
+                "<p>EU law is divided into 'primary' and 'secondary' legislation. The treaties (primary legislation) are the basis or ground rules for all EU action. </p>             <p>Secondary legislation – which includes regulations, directives and decisions – are derived from the principles and objectives set out in the treaties.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_en.htm\"                   lang=\"en\">How EU decisions are made</a>             </h2>             <p>The EU’s standard decision-making procedure is known as <a href=\"http://www.europarl.europa.eu/aboutparliament/en/20150201PVL00004/Legislative-powers\">'Ordinary Legislative Procedure’</a> (ex \"codecision\"). This means that the directly elected European Parliament has to approve EU legislation together with the Council (the governments of the 28 EU countries). The Commission drafts and implements EU legislation.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_en.htm\" lang=\"en\">EU treaties</a>             </h2>             <p>The European Union is based on the rule of law. This means that every action taken by the EU is founded on treaties that have been approved voluntarily and democratically by all EU member countries.</p>             <p>The Treaty of Lisbon increased the number of policy areas where 'Ordinary Legislative Procedure' is used. The European Parliament also has more power to block a proposal if it disagrees with the Council.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_en.htm\"                   lang=\"en\">Regulations, Directives and other acts</a>             </h2>             <p>The aims set out in the EU treaties are achieved by several types of legal act. These legislative acts include regulations, directives, recommendations and opinions. Some are binding, others are not. Some apply to all EU countries, others to just a few.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_en.htm\" lang=\"en\">Application of EU law</a>             </h2>             <p>EU law - which has equal force with national law - confers rights and obligations on the authorities in each member country, as well as individuals and businesses. The authorities in each member country are responsible for implementing EU legislation in national law and enforcing it correctly, and they must guarantee citizens’ rights under these laws.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_en.htm\" lang=\"en\">Find legislation</a>             </h2>             <p>EU legislation takes the form of:</p>             <ul>                <li>Treaties establishing the European Union and governing the way it works</li>                <li>EU regulations, directives and decisions - with a direct or indirect effect on EU member states.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_en.htm\" lang=\"en\">Find case-law</a>             </h2>             <p>EU case-law is made up of judgments from the European Union's Court of Justice, which interpret EU legislation.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_en.htm\" lang=\"en\">Get involved in European policy making</a>             </h2>             <p>Want to get involved in European policy making? There are a number of ways of doing just that: European Citizens' Initiative, public consultations, petitions to the European Parliament, notifications and transparency register, formal complaints.</p>"
+            ],
+            "es": [
+                "<p>El Derecho de la UE es de dos tipos: “primario” y “derivado”. Los tratados (Derecho primario) constituyen la base o las reglas fundamentales de toda la actuación de la UE. </p>             <p>El Derecho derivado, compuesto por los reglamentos, las directivas y las decisiones, nace de los principios y objetivos establecidos en los tratados.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_es.htm\"                   lang=\"es\">Cómo se toman las decisiones en la UE</a>             </h2>             <p>El principal método de toma de decisiones en la UE se conoce como <a href=\"http://www.europarl.europa.eu/aboutparliament/es/20150201PVL00004/Poderes-legislativos\">procedimiento legislativo ordinario</a> (antes denominado “codecisión”). En virtud de este procedimiento, el Parlamento Europeo, elegido directamente, debe aprobar la legislación de la UE junto con el Consejo, formado por los gobiernos de los 28 países miembros. La Comisión elabora y aplica la legislación europea.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_es.htm\" lang=\"es\">Tratados de la UE</a>             </h2>             <p>La Unión Europea se basa en el Estado de Derecho. Esto significa que todas las acciones que emprende se basan en los tratados, que han sido aprobados voluntaria y democráticamente por todos sus países miembros.</p>             <p>El Tratado de Lisboa amplía los ámbitos en que se utiliza el procedimiento legislativo ordinario. El Parlamento Europeo también tiene más capacidad de bloquear una propuesta si no está de acuerdo con el Consejo.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_es.htm\"                   lang=\"es\">Reglamentos, directivas y otros actos legislativos</a>             </h2>             <p>Los objetivos de los Tratados de la UE se materializan mediante varios tipos de actos legislativos. Entre estos actos legislativos se incluyen los reglamentos, las directivas, las recomendaciones y los dictámenes. Algunos son vinculantes y otros no. Algunos se aplican a todos los países de la UE y otros sólo a unos pocos.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_es.htm\" lang=\"es\"> Aplicación del Derecho de la UE </a>             </h2>             <p>Los derechos y obligaciones previstos en la legislación europea no sólo incumben a los Estados miembros: algunas normas se aplican directamente a los ciudadanos y las empresas. El Derecho europeo forma parte integrante del ordenamiento jurídico de los Estados miembros, que son los primeros responsables de transponerlo y aplicarlo correctamente. Por tanto, todo ciudadano tiene derecho a exigir a las autoridades de cualquier país miembro que observen correctamente sus derechos europeos.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_es.htm\" lang=\"es\">Buscar legislación</a>             </h2>             <p>La legislación de la UE adopta la forma de:</p>             <ul>                <li>Tratados constitutivos de la Unión Europea y que regulan su funcionamiento.</li>                <li>Reglamentos, directivas y decisiiones de la UE, con efecto directo o indirecto en los Estados miembros.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_es.htm\" lang=\"es\">Buscar jurisprudencia</a>             </h2>             <p>La jurisprudencia de la UE se compone de las sentencias del Tribunal de Justicia de la Unión Europea, que interpreta la legislación de la UE.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_es.htm\" lang=\"es\">Participe en la elaboración de políticas europeas</a>             </h2>             <p>¿Le gustaría participar en la elaboración de las políticas europeas? Puede hacerlo de diversas maneras: iniciativa ciudadana europea, consultas públicas, peticiones al parlamento europeo, registro de transparencia, notificaciones y registro de transparencia, denuncias.</p>"
+            ],
+            "et": [
+                "<p>ELi õigus on jaotatud esmasteks ja teisesteks õigusaktideks. Aluslepingud (esmased õigusaktid) on aluseks kogu ELi tegevusele. </p>             <p>Teisesed õigusaktid (määrused, direktiivid ja otsused) tulenevad aluslepingutes sätestatud põhimõtetest ja eesmärkidest.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_et.htm\"                   lang=\"et\">Kuidas ELi otsuseid vastu võetakse</a>             </h2>             <p>ELi tavapärast otsuste tegemise protsessi nimetatakse <a href=\"http://www.europarl.europa.eu/aboutparliament/et/20150201PVL00004/Seadusandlikud-volitused\">seadusandlikuks tavamenetluseks</a> (endine kaasotsustamismenetlus). See tähendab, et ELi õigusaktid peab heaks kiitma otse valitud Euroopa Parlament koos nõukoguga (28 ELi liikmesriigi valitsuse esindajad). Komisjon koostab ja rakendab ELi õigusakte.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_et.htm\" lang=\"et\">ELi aluslepingud</a>             </h2>             <p>Euroopa Liidu aluseks on õigusriigi põhimõte. See tähendab seda, et iga ELi tasandil võetav meede põhineb aluslepingutel, mille kõik ELi liikmesriigid on vabatahtlikult ja demokraatlikult heaks kiitnud.</p>             <p>Lissaboni leping suurendas selliste poliitikavaldkondade arvu, mille puhul kasutatakse seadusandlikku tavamenetlust. Euroopa Parlamendil on ka rohkem võimalusi blokeerida ettepanekuid juhul, kui ollakse nõukoguga eri arvamusel.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_et.htm\"                   lang=\"et\">Määrused, direktiivid ja muud õigusaktid</a>             </h2>             <p>ELi aluslepingutes sätestatud eesmärke on võimalik saavutada erinevat liiki õigusaktide abil. Nende seadusandlike aktide hulka kuuluvad näiteks määrused, direktiivid, soovitused ja arvamused. Mõned on siduvad ja mõned mitte. Mõnda kohaldatakse kõigi ELi liikmesriikide ning mõnda vaid mõne üksiku liikmesriigi suhtes.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_et.htm\" lang=\"et\">ELi õiguse kohaldamine</a>             </h2>             <p>Euroopa õigusaktidega antakse õigusi ja kehtestatakse kohustusi liikmesriikidele, kuid paljud selle sätted on seotud kodanike ja ettevõtetega, kelle suhtes teatavad õigusaktid on vahetult kohaldatavad. Euroopa õigus moodustab osa liikmesriikide õigusraamistikust ning selle sätete rakendamise ja nõuetekohase kohaldamise eest vastutavad eelkõige liikmesriigid. Seepärast on igaühel õigus eeldada, et kõigi Euroopa Liidu liikmesriikide asutused tagavad teie õiguste nõuetekohase rakendamise.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_et.htm\" lang=\"et\">Õigusaktide otsing</a>             </h2>             <p>ELi õigusaktid esinevad järgmisel kujul:</p>             <ul>                <li>Euroopa Liidu asutamislepingud, mis reguleerivad selle toimimist;</li>                <li>ELi määrused, direktiivid ja otsused, millel on otsene või kaudne mõju ELi liikmesriikidele.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_et.htm\" lang=\"et\">Kohtupraktika otsing</a>             </h2>             <p>ELi kohtupraktika koosneb Euroopa Liidu Kohtu lahenditest, mis tõlgendavad ELi õigusakte.</p>"
+            ],
+            "fi": [
+                "<p>EU:n lainsäädäntö jakaantuu primaarilainsäädäntöön ja sekundaarilainsäädäntöön. Primaarilainsäädäntö eli perussopimukset ovat EU:n kaiken toiminnan perussääntöjä. </p>             <p>Sekundaarilainsäädäntöön kuuluu mm. asetuksia, direktiivejä ja päätöksiä. Ne on johdettu perussopimuksissa määritellyistä periaatteista ja tavoitteista.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_fi.htm\"                   lang=\"fi\">EU:n päätöksenteon eteneminen</a>             </h2>             <p>EU:n päätöksenteossa käytetään yleisimmin ns. <a href=\"http://www.europarl.europa.eu/aboutparliament/fi/20150201PVL00004/Lainsäädäntövalta\">tavallista lainsäätämisjärjestystä</a> (aiemmin \"yhteispäätösmenettely\"). Tämä tarkoittaa sitä, että Euroopan parlamentti, jonka kansa on valinnut suorilla vaaleilla, hyväksyy EU:n säädökset yhdessä neuvoston kanssa, jonka muodostavat kaikkien EU-maiden hallitusten edustajat. Komissio laatii lakiehdotukset ja huolehtii niiden täytäntöönpanosta.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_fi.htm\" lang=\"fi\">EU:n perussopimukset</a>             </h2>             <p>Euroopan unionin perustana ovat oikeusvaltion periaatteet. Tämä tarkoittaa, että kaikki EU:n toiminta perustuu EU:n jäsenmaiden vapaaehtoisesti ja demokraattisesti hyväksymille perussopimuksille.</p>             <p>Lissabonin sopimuksen myötä tavallista lainsäätämisjärjestystä sovelletaan entistä useammilla politiikan aloilla. Nyt myös Euroopan parlamentilla on aiempaa enemmän valtaa estää lakiehdotuksen läpimeno, jos se ei ole yhtä mieltä neuvoston kanssa.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_fi.htm\"                   lang=\"fi\">Asetukset, direktiivit ja muut säädökset</a>             </h2>             <p>EU:n perussopimuksissa määriteltyihin tavoitteisiin pyritään erityyppisillä oikeudellisilla säädöksillä. Tällaisia säädöksiä ovat muun muassa asetukset, direktiivit, suositukset ja lausunnot. Niistä toiset ovat sitovia, toiset eivät. Joitakin säädöksiä sovelletaan kaikissa EU-maissa, toisia vain osassa maita.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_fi.htm\" lang=\"fi\"> EU:n oikeuden soveltaminen </a>             </h2>             <p>EU:n lainsäädännössä annetaan oikeuksia ja asetetaan velvoitteita jäsenvaltioille, mutta lisäksi useat säännöt koskevat suoraan myös yksittäisiä kansalaisia ja yrityksiä. EU:n lainsäädännöstä on tullut keskeinen osa jäsenvaltioiden oikeudellista järjestelmää, sillä jäsenvaltiot ovat päävastuussa näiden sääntöjen täytäntöönpanosta ja moitteettomasta soveltamisesta. Kansalaisilla onkin oikeus odottaa, että jäsenvaltioiden viranomaiset kaikkialla EU:ssa panevat oikeudet täytäntöön moitteettomasti.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_fi.htm\" lang=\"fi\">Tietoa EU-lainsäädännöstä</a>             </h2>             <p>EU:n lainsäädäntöön kuuluvat</p>             <ul>                <li>Euroopan unionin perussopimukset, joilla säännellään unionin toimintaa</li>                <li>EU:n asetukset, direktiivit ja päätökset, joita sovelletaan suoraan tai välillisesti EU:n jäsenvaltioihin.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_fi.htm\" lang=\"fi\">Haku oikeuskäytännöstä</a>             </h2>             <p>EU:n oikeuskäytäntö koostuu Euroopan unionin tuomioistuimen tuomioista, joissa tulkitaan EU:n lainsäädäntöä.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_fi.htm\" lang=\"fi\">Vaikuta EU:n politiikkaan</a>             </h2>             <p>Haluatko osallistua EU:n päätöksentekoon? Siihen on useita keinoja: eurooppalainen kansalaisaloite, julkiset kuulemiset, vetoomukset euroopan parlamentille, avoimuusrekisteri, syötteet ja avoimuusrekisteri, viralliset kantelut.</p>"
+            ],
+            "fr": [
+                "<p>Le droit européen est constitué du droit «primaire» et du droit «dérivé». Les traités forment le droit primaire: ils définissent les règles fondamentales sur lesquelles l'Union européenne fonde toute son action. </p>             <p>Le droit dérivé est composé de l'ensemble des actes législatifs de l'UE (les directives, les règlements et les décisions), qui découlent des principes et des objectifs définis dans les traités.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_fr.htm\"                   lang=\"fr\">Comment la législation européenne est-elle adoptée?</a>             </h2>             <p>La «<a href=\"http://www.europarl.europa.eu/aboutparliament/fr/20150201PVL00004/Pouvoir-législatif\">procédure législative ordinaire</a>» (anciennement «codécision») est la procédure la plus courante pour adopter la législation de l'UE. Les propositions législatives doivent être approuvées à la fois par le Parlement européen, qui est directement élu par les citoyens, et par le Conseil, qui réunit les gouvernements des 28 États membres. La Commission est chargée à la fois d'élaborer les propositions de législation et de les mettre en œuvre.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_fr.htm\" lang=\"fr\">Traités européens</a>             </h2>             <p>Les traités européens sont le fondement de l'Union européenne: toute action entreprise par l'UE découle de ces traités, qui ont été approuvés librement et démocratiquement par tous les États membres.</p>             <p>Avec le traité de Lisbonne, la procédure législative ordinaire a été étendue à de nouveaux domaines. En outre, le Parlement européen a plus de pouvoir pour bloquer une proposition s'il est en désaccord avec le Conseil.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_fr.htm\"                   lang=\"fr\">Règlements, directives et autres actes législatifs</a>             </h2>             <p>L'Union européenne adopte différents types d'actes législatifs, qui visent à remplir les objectifs fixés dans les traités. Il s'agit d'actes tels que les règlements, les directives, les recommandations et les avis. Tous ne sont pas contraignants. Certains s'appliquent à tous les pays de l'UE, d'autres uniquement à quelques-uns.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_fr.htm\" lang=\"fr\"> Application de la législation européenne </a>             </h2>             <p>Le droit européen concède des droits et impose des obligations non seulement aux États membres, mais aussi aux citoyens et aux entreprises auxquels un nombre de règles s’appliquent directement. Il fait partie intégrante du système juridique des États membres qui sont avant tout responsables de la mise en œuvre de ces règles et de leur application correcte. Vous êtes donc en droit d’attendre des autorités nationales sur l’ensemble du territoire de l’Union européenne qu’elles appliquent correctement vos droits européens.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_fr.htm\" lang=\"fr\">Consulter la législation</a>             </h2>             <p>La législation de l'Union européenne (UE) est composée:</p>             <ul>                <li>des traités fondateurs, qui ont institué l'Union européenne et régissent son fonctionnement;</li>                <li>des règlements, directives et décisions, qui ont un effet direct ou indirect sur les États membres de l'UE.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_fr.htm\" lang=\"fr\">Consulter la jurisprudence</a>             </h2>             <p>La jurisprudence de l'UE est constituée des arrêts de la Cour de justice de l'Union européenne, qui interprète la législation européenne.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_fr.htm\" lang=\"fr\">Participez à l'élaboration des politiques européennes</a>             </h2>             <p>Comment participer à l'élaboration des politiques de l'UE? Mode d'emploi : initiative citoyenne européenne, consultations publiques, présenter une pétition au parlement européen, registre de transparence, notifications et registre de transparence, introduire une plainte.</p>"
+            ],
+            "ga": [
+                "<p>Tá dlí an AE roinnte idir reachtaíocht ‘phríomhúil' agus reachtaíocht ‘thánaisteach’. Is iad na conarthaí (reachtaíocht phríomhúil) an bonn nó na bunrialacha le haghaidh gach gníomh de chuid an AE.</p>             <p>Tagann reachtaíocht thánaisteach – ar a n-áirítear rialacháin, treoracha agus cinntí – ó phrionsabail agus ó chuspóirí atá leagtha amach sna conarthaí.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_ga.htm\"                   lang=\"ga\">An tslí a ndéantar cinntí an AE </a>             </h2>             <div>                <a href=\"http://www.europarl.europa.eu/aboutparliament/ga/20150201PVL00004/Cumhachtaí-reachtacha\">'Gnáthnós Imeachta Reachtach</a> ’ (\"comhchinnteoireacht\" roimhe seo) a thugtar ar nós imeachta caighdeánach na cinnteoireachta de chuid an AE. Ciallaíonn sin nach mór do reachtaíocht an AE a bheith formheasta ag Parlaimint na hEorpa, a thoghtar go díreach, agus ag an gComhairle (rialtais 28 dtír an AE). Dréachtaíonn an Coimisiún reachtaíocht an AE agus cuireann sé chun feidhme í.</div>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_ga.htm\" lang=\"ga\">Conarthaí an AE </a>             </h2>             <p>Tá an tAontas Eorpach bunaithe ar riail an dlí. Ciallaíonn sin go bhfuil gach beart a dhéanann an AE bunaithe ar chonarthaí atá formheasta go deonach agus go daonlathach ag gach ceann de bhalltíortha an AE.</p>             <p>Mhéadaigh Conradh Liospóin líon na réimsí beartais ina n-úsáidtear ‘Gnáthnós Imeachta Reachtach’ Lena chois sin, tá níos mó cumhachta ag Parlaimint na hEorpa chun bac a chur le togra má easaontaíonn sí leis an gComhairle.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_ga.htm\"                   lang=\"ga\">Rialacháin, Treoracha agus ionstraimí eile </a>             </h2>             <p>Is trí chineálacha éagsúla ionstraimí dlí a bhaintear amach na haidhmeanna atá leagtha amach i gconarthaí an AE. Sna gníomhartha reachtacha seo tá rialacháin, treoracha, moltaí agus tuairimí. Ní bhíonn ach cuid de na hionstraimí sin ina gceangal. Tá feidhm ag cuid díobh maidir le gach tír de chuid an AE, agus ag cuid eile maidir le beagán tíortha.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_ga.htm\" lang=\"ga\"> Dlí AE a fheidhmiú </a>             </h2>             <p>EU law - which has equal force with national law - confers rights and obligations on the authorities in each Member State, as well as individuals and businesses. The authorities in each Member State are responsible for implementing EU legislation in national law and enforcing it correctly, and they must guarantee citizens’ rights under these laws.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_ga.htm\" lang=\"ga\">Reachtaíocht AE</a>             </h2>             <p>Bíonn reachtaíocht an AE ar fáil mar:</p>             <ul>                <li>Conarthaí lena mbunaítear an tAontas Eorpach agus lena rialaítear an tslí a oibríonn sé</li>                <li>Rialacháin, treoracha agus cinntí an AE – agus a dtionchar díreach nó indíreach ar Bhallstáit an AE.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_ga.htm\" lang=\"ga\">Aimsigh cásdlí</a>             </h2>             <p>I gcásdlí an AE bíonn breithiúnais ó Chúirt Bhreithiúnais an Aontais Eorpaigh, a dhéanann léirmhíniú ar reachtaíocht an AE.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_ga.htm\" lang=\"ga\">Bí gafa le beartais Eorpacha a dhéanamh</a>             </h2>             <p>Fonn ort a bheith páirteach i gceapadh an bheartais Eorpaigh? Tá go leor slite ann le déanamh amhlaidh: Tionscnamh Eorpach na Saoránach, Comhairliúcháin phoiblí, Achainíocha ar Pharlaimint na hEorpa, Clár na Trédhearcachta, Fógraí agus an Clár Trédhearcachta, Gearáin fhoirmiúla.</p>"
+            ],
+            "hr": [
+                "<h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_hr.htm\"                   lang=\"hr\">Kako EU odlučuje</a>             </h2>             <p>                <a href=\"http://www.europarl.europa.eu/aboutparliament/hr/20150201PVL00004/Zakonodavne-ovlasti\">Standardni postupak odlučivanja u EU-u takozvani je redovni zakonodavni postupak</a> (stari naziv „suodlučivanje”). To znači da izravno izabran Europski parlament mora odobriti zakonodavstvo EU-a zajedno s Vijećem (vlade 28 država članica EU-a). Europska komisija izrađuje nacrte zakonodavstva EU-a i provodi ga.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_hr.htm\" lang=\"hr\">Ugovori EU-a</a>             </h2>             <p>Europska unija temelji se na vladavini prava. To znači da se svako njezino djelovanje temelji na ugovorima koje su dobrovoljno i demokratski odobrile sve države članice EU-a.</p>             <p>Ugovorom iz Lisabona povećao se broj područja politike u kojima se primjenjuje redovni zakonodavni postupak. Europski parlament ima i veće ovlasti blokirati prijedlog ako se ne slaže s Vijećem.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_hr.htm\"                   lang=\"hr\">Uredbe, direktive i ostali akti</a>             </h2>             <p>Ciljevi utvrđeni ugovorima EU-a ostvaruju se različitim pravnim aktima. Ti zakonodavni akti uključuju uredbe, direktive, preporuke i mišljenja. Određeni su obvezujući, drugi nisu. Neki vrijede za sve države članice, a neki samo za pojedine.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_hr.htm\" lang=\"hr\">Primjena prava EU-a</a>             </h2>             <p>Pravo EU-a ima jednaku snagu kao i nacionalno pravo te se njime dodjeljuju prava i obveze nadležnim tijelima u svakoj državi članici, osobama i poduzećima. Nadležna tijela u svakoj državi članici odgovorna su za prijenos zakonodavstva EU-a u svoje nacionalno zakonodavstvo, njegovu ispravnu provedbu te moraju jamčiti prava građana u okviru tog zakonodavstva.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_hr.htm\" lang=\"hr\">Pretraživanje zakonodavstva</a>             </h2>             <p>Zakonodavstvo EU-a čine:</p>             <ul>                <li>Ugovori o osnivanju Europske unije i njezinom funkcioniranju</li>                <li>Uredbe, direktive i odluke EU-a - koje imaju izravan i neizravan učinak na države članice EU-a.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_hr.htm\" lang=\"hr\">Pretraživanje sudske prakse</a>             </h2>             <p>Sudska praksa EU-a sastoji se od presuda Suda Europske unije koje tumače zakonodavstvo EU-a.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_hr.htm\" lang=\"hr\">Sudjelujte u kreiranju politika EU-a</a>             </h2>             <p>Želite li se uključiti u stvaranje europskih politika? Postoji više načina za to: europska građanska inicijativa, javne konzultacije, podnošenje molbe europskom parlamentu, registar transparentnosti, obavijesti i registar transparentnosti, službene pritužbe.</p>"
+            ],
+            "hu": [
+                "<p>Az uniós jog „elsődleges” és „másodlagos” joganyagból áll. A szerződések (elsődleges jog) képezik az összes uniós intézkedés alapját. </p>             <p>A másodlagos jog (pl. rendeletek, irányelvek és határozatok) a szerződésekben megfogalmazott elvekre és célkitűzésekre épül.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_hu.htm\"                   lang=\"hu\">Az uniós döntéshozatal</a>             </h2>             <p>Az EU általános szabály szerint a <a href=\"http://www.europarl.europa.eu/aboutparliament/hu/20150201PVL00004/Jogalkotási-jogkör\">rendes jogalkotási</a> (korábban az együttdöntési) eljárással hozza meg döntéseit. Ez azt jelenti, hogy a közvetlenül választott Európai Parlament a (28 uniós tagállam kormányait képviselő) Tanáccsal együtt hagyja jóvá az uniós jogszabályokat. Az uniós jogszabályokat a Bizottság szövegezi és hajtja végre.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_hu.htm\" lang=\"hu\">EU-szerződések</a>             </h2>             <p>Az Európai Unió alapja a jogállamiság. Ez azt jelenti, hogy valamennyi uniós intézkedés mögött olyan szerződések állnak, amelyeket minden uniós tagállam - önkéntesen és demokratikus módon - jóváhagyott.</p>             <p>A Lisszaboni Szerződés kibővítette a „rendes jogalkotási” eljárás alá eső szakpolitikai területek körét. Az Európai Parlament emellett pedig nagyob hatáskörrel rendelkezik ahhoz, hogy megakadályozza a javaslatok elfogadását, ha nem ért egyet a Tanáccsal.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_hu.htm\"                   lang=\"hu\">Rendeletek, irányelvek és egyéb dokumentumok</a>             </h2>             <p>Az uniós szerződésekben meghatározott célkitűzések különféle típusú jogi aktusok útján teljesülhetnek. A jogi aktusok közé tartoznak többek között a rendeletek, az irányelvek, az ajánlások és a vélemények. Egyes ilyen célkitűzések kötelezőek, mások nem. Egyes célkitűzések valamennyi uniós országra alkalmazandóak, mások csak néhányra ezek közül.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_hu.htm\" lang=\"hu\"> Az uniós jog alkalmazása </a>             </h2>             <p>Az európai jogszabályok nem csupán a tagállamok számára biztosítanak jogokat, és írnak elő kötelességeket: számos rendelkezés vonatkozik közvetlenül az Unió területén élő polgárokra, valamint a tagállamokban működő vállalkozásokra. Az uniós jogszabályok szervesen beépülnek a tagállamok nemzeti jogrendszerébe. A közös szabályok végrehajtásáért és helyes alkalmazásáért elsősorban az EU-tagállamok felelnek. Minden polgárnak jogában áll tehát elvárni a nemzeti hatóságoktól, hogy az őt megillető európai jogok érvényesítését az EU egész területén biztosítsák számára.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_hu.htm\" lang=\"hu\">Jogszabálykeresés</a>             </h2>             <p>Az uniós jogszabályok típusai:</p>             <ul>                <li>az Európai Uniót létrehozó és működését szabályozó szerződések</li>                <li>az EU-tagállamokra közvetlen vagy közvetett hatást gyakorló uniós rendeletek, irányelvek és határozatok</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_hu.htm\" lang=\"hu\">Az ítélkezési gyakorlathoz tartozó dokumentum keresése</a>             </h2>             <p>Az uniós ítélkezési gyakorlathoz tartozó dokumentumokat az Európai Unió Bíróságának az uniós jogszabályokat értelmező ítéletei alkotják.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_hu.htm\" lang=\"hu\">Vegyen részt az uniós szakpolitikák alakításában!</a>             </h2>             <p>Részt szeretne venni az európai szakpolitikák kidolgozásában? Ezt többféleképpen is megteheti: európai polgári kezdeményezés, nyilvános konzultációk, az európai parlamenthez címzett petíciók, átláthatósági nyilvántartás, értesítések és átláthatósági nyilvántartás, hivatalos panaszok.</p>"
+            ],
+            "it": [
+                "<p>Il diritto dell'UE si divide in primario e derivato. I trattati (diritto primario) costituiscono le basi e contengono le norme fondamentali per tutte le azioni dell'UE. </p>             <p>Il diritto derivato, che comprende i regolamenti, le direttive e le decisioni, è fondato sui principi e sugli obiettivi fissati nei trattati.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_it.htm\"                   lang=\"it\">Come vengono prese le decisioni dell'UE</a>             </h2>             <p>Il processo decisionale dell'UE è la cosiddetta <a href=\"http://www.europarl.europa.eu/aboutparliament/it/20150201PVL00004/Potere-legislativi\">\"procedura legislativa ordinaria\"</a> (ex \"procedura di codecisione\"). Il Parlamento europeo, eletto direttamente, approva cioè la legislazione dell'UE congiuntamente al Consiglio (formato dai governi dei 28 Stati membri). La Commissione propone la legislazione e la attua dopo che è stata approvata.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_it.htm\" lang=\"it\">Trattati dell'UE</a>             </h2>             <p>L'Unione europea si fonda sul principio dello stato di diritto. Ciò significa che tutte le azioni intraprese dall'UE si fondano su trattati approvati liberamente e democraticamente da tutti i paesi membri dell'UE.</p>             <p>Il trattato di Lisbona ha esteso l'ambito delle politiche in cui viene applicata la \"procedura legislativa ordinaria\". Il Parlamento europeo ha anche più possibilità di bloccare una proposta se non è d'accordo con il Consiglio.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_it.htm\"                   lang=\"it\">Regolamenti, direttive e altri atti</a>             </h2>             <p>Per realizzare gli obiettivi stabiliti nei trattati, l'UE adotta diversi tipi di atti legislativi. Questi ultimi comprendono regolamenti, direttive, raccomandazioni e pareri. Alcuni sono vincolanti, altri no. Alcuni si applicano in tutti i paesi dell'UE, altri solo in alcuni di essi.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_it.htm\" lang=\"it\"> Applicazione del diritto dell'UE </a>             </h2>             <p>Il diritto europeo attribuisce dei diritti e impone dei doveri non soltanto agli Stati membri, ma anche ai cittadini e alle imprese: diverse norme si applicano infatti direttamente ai soggetti di diritto privato. Il diritto dell'Unione europea costituisce parte integrante dell'ordinamento giuridico degli Stati membri: è ad essi che spetta in primo luogo attuare e applicare concretamente le norme europee. Ogni cittadino ha quindi il diritto di attendersi dalle autorità nazionali di tutti i paesi dell'Unione europea il pieno rispetto dei diritti conferitigli dal diritto europeo.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_it.htm\" lang=\"it\">Accesso alla legislazione</a>             </h2>             <p>La legislazione dell'UE comprende:</p>             <ul>                <li>i trattati che istituiscono l'Unione europea e ne disciplinano il funzionamento</li>                <li>i regolamenti, le direttive e le decisioni dell'UE – con un effetto diretto o indiretto sugli Stati membri.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_it.htm\" lang=\"it\">Accesso alla giurisprudenza</a>             </h2>             <p>La giurisprudenza dell'UE è composta dalle sentenze della Corte di giustizia dell'Unione europea, la quale interpreta la legislazione dell'UE.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_it.htm\" lang=\"it\">Partecipa all'elaborazione delle politiche europee</a>             </h2>             <p>Vuoi contribuire a decidere le politiche europee? Puoi farlo in vari modi: iniziativa dei cittadini europei, consultazioni pubbliche, petizioni al parlamento europeo, registro per la trasparenza, notifiche e registro per la trasparenza, denunce formali.</p>"
+            ],
+            "lt": [
+                "<p>ES teisę sudaro pirminės ir antrinės teisės aktai. Pirminės teisės aktai – Sutartys – yra taisyklės, kuriomis grindžiama visa ES veikla. </p>             <p>Antrinės teisės aktai – reglamentai, direktyvos ir sprendimai – yra parengti remiantis Sutarčių principais ir tikslais.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_lt.htm\"                   lang=\"lt\">Kaip priimami ES sprendimai</a>             </h2>             <p>Standartinė ES sprendimų priėmimo procedūra vadinama <a href=\"http://www.europarl.europa.eu/aboutparliament/lt/20150201PVL00004/Teisėkūros-galios\">įprasta teisėkūros procedūra</a> (anksčiau vadinta bendro sprendimo procedūra). Tai reiškia, kad ES teisės aktams turi pritarti tiesiogiai išrinktas Europos Parlamentas ir Taryba (28 ES šalių vyriausybės). ES teisės aktus rengia ir įgyvendina Komisija.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_lt.htm\" lang=\"lt\">ES Sutartys</a>             </h2>             <p>Europos Sąjunga grindžiama teisinės valstybės principu. Tai reiškia, kad kiekvienas veiksmas, kurio imasi ES, yra grindžiamas Sutartimis, kurias savanoriškai ir demokratiškai patvirtino visos ES valstybės narės.</p>             <p>Įsigaliojus Lisabonos sutarčiai įprasta teisėkūros procedūra imta taikyti daugiau politikos sričių. Be to, Europos Parlamentas turi daugiau galios blokuoti pasiūlymą, jei jis nesutinka su Taryba.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_lt.htm\"                   lang=\"lt\">Reglamentai, direktyvos ir kiti teisės aktai</a>             </h2>             <p>ES sutartyse nustatytų tikslų siekiama kelių rūšių teisės aktais. Tarp jų – reglamentai, direktyvos, rekomendacijos ir nuomonės. Vieni yra teisiškai privalomi, kiti – ne. Vieni iš jų taikomi visoms ES valstybėms narėms, kiti – tik kelioms.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_lt.htm\" lang=\"lt\"> ES teisės taikymas </a>             </h2>             <p>Europos Sąjungos teise, kuri yra sudėtinė valstybių narių teisės dalis, suteikiama teisių ir pareigų ne tik valstybėms narėms, bet ir piliečiams bei įmonėms, kuriems tam tikros taisyklės taikomos tiesiogiai. Valstybės narės turi perkelti Europos teisės nuostatas į savo nacionalinę teisę ir tinkamai jas taikyti.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_lt.htm\" lang=\"lt\">Teisės aktų paieška</a>             </h2>             <p>ES teisės aktai yra:</p>             <ul>                <li>Europos Sąjungos steigimo ir veikimo sutartys;</li>                <li>ES reglamentai, direktyvos ir sprendimai, tiesiogiai ar netiesiogiai taikomi ES valstybėse narėse.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_lt.htm\" lang=\"lt\">Tesimo praktikos dokumentų paieška</a>             </h2>             <p>ES Teismo praktika – tai Europos Sąjungos Teisingumo Teismo sprendimai, kuriais aiškinami ES teisės aktai.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_lt.htm\" lang=\"lt\">Dalyvaukite formuojant ES politiką</a>             </h2>             <p>Norite prisidėti prie Europos politikos formavimo? Tai galima padaryti įvairiais būdais: europos piliečių iniciatyva, viešos konsultacijos, peticijos europos parlamentui, skaidrumo registras, pranešimai ir skaidrumo registras, oficialūs skundai.</p>"
+            ],
+            "lv": [
+                "<p>ES tiesību aktus iedala primārajos un sekundārajos. Visa ES darbība pamatojas uz līgumiem, proti, primārajiem tiesību aktiem. Tie ir svarīgākie noteikumi. </p>             <p>Savukārt sekundārie tiesību akti, tostarp regulas, direktīvas un lēmumi, ir izstrādāti atbilstīgi līgumos noteiktajiem principiem un mērķiem.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_lv.htm\"                   lang=\"lv\">Kā pieņem ES lēmumus</a>             </h2>             <p>Visbiežāk izmantotā ES lēmumu pieņemšanas metode ir tā sauktā <a href=\"http://www.europarl.europa.eu/aboutparliament/lv/20150201PVL00004/Likumdošanas-pilnvaras\">parastā likumdošanas procedūra</a> (agrāk to sauca par koplēmuma procedūru). Tā izpaužas tādējādi, ka tieši ievēlētais Eiropas Parlaments kopīgi ar Padomi (tā pārstāv 28 ES dalībvalstu valdības) pieņem ES tiesību aktus. Komisija izstrādā ES tiesību aktus un uzrauga to izpildi.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_lv.htm\" lang=\"lv\">ES līgumi</a>             </h2>             <p>Eiropas Savienības pamatā ir tiesiskums. Tas nozīmē, ka it viss, ko ES dara, pamatojas uz līgumiem, kurus brīvprātīgi un demokrātiski parakstījušas visas ES dalībvalstis.</p>             <p>Ar Lisabonas līgumu tika palielināts to politikas jomu skaits, kurām izmanto parasto likumdošanas procedūru. Eiropas Parlamentam tagad ir arī lielākas iespējas bloķēt priekšlikumus, ja tas nepiekrīt Padomei.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_lv.htm\"                   lang=\"lv\">Regulas, direktīvas un citi tiesību akti</a>             </h2>             <p>Eiropas Savienības mērķi ir izklāstīti ES līgumos, un tos sasniedz ar dažādu tiesību aktu palīdzību. Pie šiem tiesību aktiem pieder regulas, direktīvas, ieteikumi un atzinumi. Daži no tiesību aktu veidiem ir juridiski saistoši, bet citi ne. Daži attiecas uz visām ES dalībvalstīm, bet citi tikai uz atsevišķām.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_lv.htm\" lang=\"lv\"> ES likumdošanas piemērošana </a>             </h2>             <p>ES likumi piešķir tiesības un uzliek pienākumus ne tikai dalībvalstīm, bet arī pilsoņiem un uzņēmumiem, kuriem daudzas tiesību normas ir piemērojamas tieši. Tie ir dalībvalstu tiesību sistēmas neatņemama sastāvdaļa, un dalībvalstis ir tieši atbildīgas par šo likumu iestrādāšanu savos tiesību aktos un par to pareizu piemērošanu.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_lv.htm\" lang=\"lv\">Tiesību aktu meklēšana</a>             </h2>             <p>ES tiesību akti ir:</p>             <ul>                <li>Līgumi par Eiropas Savienības dibināšanu un darbību,</li>                <li>ES regulas, direktīvas un lēmumi, kas tiešā vai netiešā veidā ir spēkā visās ES dalībvalstīs.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_lv.htm\" lang=\"lv\">Meklēt judikatūrā</a>             </h2>             <p>ES judikatūru veido Eiropas Savienības Tiesas spriedumi, kuros tā interpretē ES tiesību aktus.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_lv.htm\" lang=\"lv\">Piedalieties ES politikas veidošanā</a>             </h2>             <p>Vai vēlaties iesaistīties Eiropas politikas veidošanā? Jums ir vairākas iespējas, kā to darīt: eiropas pilsoņu iniciatīva, sabiedriskās apspriešanas, lūgumraksti eiropas parlamentam, pārredzamības reģistrs, paziņojumi un pārredzamības reģistrs, oficiālas sūdzības.</p>"
+            ],
+            "mt": [
+                "<p>Il-liġi tal-UE hi maqsuma f'leġiżlazzjoni \"primarja\" u \"sekondarja\". It-Trattati (leġiżlazzjoni primarja) huma l-bażi jew ir-regoli bażiċi għall-azzjoni kollha tal-UE. </p>             <p>Il-leġiżlazzjoni sekondarja – li tinkludi r-regolamenti, id-direttivi u d-deċiżjonijiet – ġejja mill-prinċipji u l-għanijiet stabbiliti fit-trattati.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_mt.htm\"                   lang=\"mt\">Kif jittieħdu d-deċiżjonijiet tal-UE</a>             </h2>             <p>Il-proċedura standard għat-teħid tad-deċiżjonijiet tal-UE hi magħrufa bħala l-<a href=\"http://www.europarl.europa.eu/aboutparliament/mt/20150201PVL00004/Setgħat-leġiżlattivi\">'Proċedura Leġiżlattiva Ordinarja'</a> (dik li qabel kienet \"il-kodeċiżjoni\"). Dan ifisser li l-Parlament Ewropew elett b'mod dirett irid japprova l-leġiżlazzjoni tal-UE flimkien mal-Kunsill (il-gvernijiet ta' 28 pajjiż tal-UE). Min-naħa tagħha l-Kummissjoni tabbozza u timplimenta l-leġiżlazzjoni tal-UE.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_mt.htm\" lang=\"mt\">It-Trattati tal-UE</a>             </h2>             <p>L-Unjoni Ewropea hija bbażata fuq l-Istat tad-dritt. Dan ifisser li kull azzjoni li tieħu l-UE hi msejsa fuq it-trattati li ġew approvati b'mod volontarju u demokratiku mill-pajjiżi membri kollha tal-UE.</p>             <p>It-Trattat ta' Lisbona żied l-għadd ta' oqsma ta' politika fejn tintuża l-'Proċedura Leġiżlattiva Ordinarja'. Il-Parlament Ewropew għandu wkoll aktar setgħa biex iwaqqaf proposta jekk hu ma jaqbilx mal-Kunsill.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_mt.htm\"                   lang=\"mt\">Ir-Regolamenti, id-Direttivi u atti oħra</a>             </h2>             <p>L-għanijiet stabbiliti fit-trattati tal-UE jinkisbu permezz ta' tipi differenti ta' atti legali. L-atti leġiżlattivi jinkludu r-regolamenti, id-direttivi, ir-rakkomandazzjonijiet u l-opinjonijiet. Wħud minnhom huma vinkolanti, u oħrajn mhumiex. Wħud minnhom japplikaw fil-pajjiżi kollha tal-UE, oħrajn għal ftit minnhom biss.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_mt.htm\" lang=\"mt\"> Applikazzjoni tal-Liġi tal-UE </a>             </h2>             <p>Il-liġi Ewropea tikkonċedi drittijiet u timponi obbligi mhux biss lill-Istati Membri, iżda wkoll liċ-ċittadini u lill-intrapriżi li japplikaw għalihom għadd ta' regoli b'mod dirett. Hi tagħmel parti integrali mis-sistema legali tal-Istati Membri li qabel kollox huma responsabbli mill-implimentazzjoni tar-regoli u tal-applikazzjoni korretta tagħhom.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_mt.htm\" lang=\"mt\">Sib il-Leġiżlazzjoni</a>             </h2>             <p>Il-leġiżlazzjoni tal-UE tieħu l-forma ta’:</p>             <ul>                <li>Trattati li jistabbilixxu l-Unjoni Ewropea u jirregolaw il-mod kif taħdem</li>                <li>Regolamenti, direttivi u deċiżjonijiet tal-UE - b’effettt dirett jew indirett fuq l-Istati Membri tal-UE.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_mt.htm\" lang=\"mt\">Sib il-każistika</a>             </h2>             <p>Il-każistika tal-UE hija magħmula minn sentenzi tal-Qorti tal-Ġustizzja tal-Unjoni Ewropea, li jinterpretaw il-leġiżlazzjoni tal-UE.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_mt.htm\" lang=\"mt\">Involvi ruħek fit-tfassil tal-politika Ewropea</a>             </h2>             <p>Trid tieħu sehem fit-tfassil tal-politiki Ewropej? Hemm diversi modi kif tista' tagħmel dan: inizjattiva ewropea taċ-ċittadini, konsultazzjonijiet pubbliċi, petizzjonijiet lill-parlament ewropew, reġistru għat-trasparenza, notifiki u reġistru tat-trasparenza, ilmenti formali.</p>"
+            ],
+            "nl": [
+                "<p>In de EU-wetgeving is er een verschil tussen \"primaire\" en \"secundaire\" wetgeving. De verdragen (primaire wetgeving) bevatten de basis- of grondregels voor alle EU-activiteiten. </p>             <p>De secundaire wetgeving – verordeningen, richtlijnen en besluiten – is gebaseerd op de uitgangspunten en doelstellingen van de verdragen.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_nl.htm\"                   lang=\"nl\">Hoe de EU besluiten neemt</a>             </h2>             <p>De meeste besluiten van de EU worden volgens de \"<a href=\"http://www.europarl.europa.eu/aboutparliament/nl/20150201PVL00004/Wetgevende-bevoegdheden\">gewone wetgevingsprocedure</a>\" (voorheen de \"medebeslissingsprocedure\") genomen. Die bepaalt dat het rechtstreeks verkozen Europees Parlement samen met de Raad (de regeringen van de 28 EU-landen) een EU-wetsvoorstel moet goedkeuren. Die laatste zorgt voor de uitvoering van de EU-wetgeving.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_nl.htm\" lang=\"nl\">EU-verdragen</a>             </h2>             <p>De Europese Unie is gebaseerd op het beginsel van de rechtsstaat. Dat betekent dat alle activiteiten van de EU moeten berusten op de verdragen, die vrijwillig en op democratische wijze door alle EU-landen zijn aanvaard.</p>             <p>Dankzij het Verdrag van Lissabon zijn er nu meer beleidsgebieden waar de gewone wetgevingsprocedure wordt gebruikt. Het Europees Parlement heeft nu ook meer macht om een voorstel tegen te houden als er geen overeenstemming met de Raad wordt bereikt.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_nl.htm\"                   lang=\"nl\">Verordeningen, richtlijnen en andere besluiten</a>             </h2>             <p>Om de doelstellingen van de verdragen te bereiken, kan de EU verschillende soorten besluiten nemen. Deze wetgeving omvat verordeningen, richtlijnen, aanbevelingen en adviezen. Sommige daarvan zijn bindend, andere niet. Sommige gelden voor alle EU-landen, andere maar voor een paar.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_nl.htm\" lang=\"nl\"> Toepassing van EU-wetgeving </a>             </h2>             <p>Het EU-recht brengt niet alleen voor de EU-landen rechten en plichten mee, maar ook voor burgers en bedrijven. Ook op hun is een aantal voorschriften rechtstreeks van toepassing. Het EU-recht maakt deel uit van het rechtstelsel van de EU-landen, die de hoofdverantwoordelijkheid dragen voor de goede toepassing van deze regels.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_nl.htm\" lang=\"nl\">Wetgeving vinden</a>             </h2>             <p>De EU-wetgeving omvat:</p>             <ul>                <li>de verdragen waarbij de Europese Unie is opgericht en waarin de werking van de EU is geregeld</li>                <li>alle verordeningen, richtlijnen en besluiten die (rechtstreeks of onrechtstreeks) toepasselijk zijn in de lidstaten van de EU</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_nl.htm\" lang=\"nl\">Jurisprudentie zoeken</a>             </h2>             <p>De EU-jurisprudentie omvat alle beslissingen van het Hof van Justitie van de Europese Unie, waarbij de EU-wetgeving wordt toegepast.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_nl.htm\" lang=\"nl\">Zet u mee in voor het Europees beleid</a>             </h2>             <p>Wilt u inspraak in het EU-beleid? Dat kan, op verschillende manieren zelfs: europees burgerinitiatief, openbare raadplegingen, verzoekschriften aan het europees parlement, transparantieregister, aankondigingen en transparantieregister, formele klachten.</p>"
+            ],
+            "pl": [
+                "<p>Prawo UE dzieli się na prawo „pierwotne” i „wtórne”. Traktaty (prawo pierwotne) stanowią podstawę lub główne zasady wszystkich działań UE. </p>             <p>Prawo wtórne – które obejmuje rozporządzenia, dyrektywy i decyzje – ma charakter pochodny w stosunku do zasad i celów wyznaczonych w traktatach.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_pl.htm\"                   lang=\"pl\">Zasady podejmowania decyzji w UE</a>             </h2>             <p>Standardową procedurę decyzyjną UE określa się mianem <a href=\"http://www.europarl.europa.eu/aboutparliament/pl/20150201PVL00004/Uprawnienia-legislacyjne\">zwykłej procedury ustawodawczej</a> (dawniej: współdecyzji). Oznacza to, że wybierany w wyborach bezpośrednich Parlament Europejski musi wraz z Radą (rządami 28 państw członkowskich UE) zatwierdzać akty prawne UE. Komisja natomiast przygotowuje projekty aktów prawnych UE i odpowiada za ich wdrażanie.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_pl.htm\" lang=\"pl\">Traktaty UE</a>             </h2>             <p>Unia Europejska opiera się na zasadach praworządności. Oznacza to, że podstawą wszystkich jej działań są traktaty, przyjęte dobrowolnie i demokratycznie przez wszystkie państwa członkowskie.</p>             <p>W traktacie lizbońskim zwiększono liczbę obszarów polityki, w których stosuje się tę procedurę. Parlament Europejski zyskał również więcej uprawnień do blokowania wniosków, jeżeli nie zgadza się z Radą.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_pl.htm\"                   lang=\"pl\">Rozporządzenia, dyrektywy i inne akty</a>             </h2>             <p>Cele wyznaczone w traktatach UE są osiągane za pomocą różnego rodzaju aktów prawnych. Są to rozporządzenia, dyrektywy, zalecenia i opinie. Niektóre z nich są wiążące, inne nie. Niektóre stosuje się do wszystkich państw UE, inne tylko do niektórych.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_pl.htm\" lang=\"pl\"> Stosowanie prawa UE </a>             </h2>             <p>Z prawa europejskiego wynikają prawa i obowiązki, zarówno dla państw członkowskich, jak i dla obywateli oraz firm, w stosunku do których pewne przepisy są stosowane bezpośrednio. Stanowią one integralną część systemu prawnego danego państwa członkowskiego, które odpowiada za wprowadzenie tych przepisów w życie i ich prawidłowe stosowanie.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_pl.htm\" lang=\"pl\">Wyszukiwanie aktów prawnych</a>             </h2>             <p>Prawodawstwo unijne obejmuje:</p>             <ul>                <li>traktaty ustanawiające Unię Europejską i określające sposób jej funkcjonowania</li>                <li>rozporządzenia, dyrektywy i decyzje UE, które bezpośrednio lub pośrednio obowiązują w państwach członkowskich UE.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_pl.htm\" lang=\"pl\">Szukaj orzecznictwa</a>             </h2>             <p>Orzecznictwo UE składa się z orzeczeń Trybunału Sprawiedliwości Unii Europejskiej, w których Trybunał interpretuje prawodawstwo UE.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_pl.htm\" lang=\"pl\">Zaangażuj się w kształtowanie polityki europejskiej</a>             </h2>             <p>Chcesz mieć wpływ na kształtowanie europejskiej polityki? Oto niektóre z możliwości: europejska inicjatywa obywatelska, konsultacje społeczne, petycje do parlamentu europejskiego, rejestr służący przejrzystości, i rejestr służący przejrzystości, formalne skargi.</p>"
+            ],
+            "pt": [
+                "<p>O direito da UE divide-se em direito primário e direito derivado. Os tratados (direito primário) constituem as regras fundamentais que estão na base de todas as medidas tomadas pela UE. </p>             <p>O direito derivado, constituído por regulamentos, directivas e decisões, decorre dos princípios e objectivos estabelecidos nos tratados.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_pt.htm\"                   lang=\"pt\">Como são tomadas as decisões</a>             </h2>             <p>O processo de decisão habitual da UE é o chamado \"<a href=\"http://www.europarl.europa.eu/aboutparliament/pt/20150201PVL00004/Poderes-legislativos\">processo legislativo ordinário</a>\" (a antiga \"co-decisão\"). De acordo com esse processo, a legislação da UE tem de ser conjuntamente adoptada pelo Parlamento Europeu, directamente eleito pelos cidadãos europeus, e pelo Conselho (ou seja, pelos governos dos 28 países da UE). A Comissão elabora e executa a legislação da UE.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_pt.htm\" lang=\"pt\">Tratados da UE</a>             </h2>             <p>A União Europeia baseia-se nos princípios do Estado de Direito, ou seja, todas as medidas tomadas pela UE assentam nos tratados que foram aprovados voluntária e democraticamente por todos os países da UE.</p>             <p>O número de domínios de intervenção abrangidos pelo processo legislativo ordinário aumentou com a entrada em vigor do Tratado de Lisboa. O Parlamento Europeu tem também mais poder para bloquear a adopção de uma proposta se não estiver de acordo com o Conselho.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_pt.htm\"                   lang=\"pt\">Regulamentos, directivas e outros actos legislativos</a>             </h2>             <p>Para alcançar os objectivos estabelecidos nos Tratados, a UE adopta diferentes tipos de actos legislativos. Estes últimos compreendem regulamentos, directivas, recomendações e pareceres. Alguns desses actos são vinculativos outros não. Alguns são aplicáveis a todos os países da UE, outros apenas a alguns deles.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_pt.htm\" lang=\"pt\"> Aplicação do direito da UE </a>             </h2>             <p>O direito europeu concede direitos e impõe obrigações não apenas aos Estados-Membros, mas também aos cidadãos e às empresas, aos quais um certo número de regras é de aplicação directa. Faz parte integrante do sistema jurídico dos Estados-Membros, que são os principais responsáveis pela execução destas regras e pela sua correcta aplicação.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_pt.htm\" lang=\"pt\">Consultar a legislação da UE</a>             </h2>             <p>A legislação da UE assume a forma de:</p>             <ul>                <li>Tratados que instituem a União Europeia e regem o seu funcionamento</li>                <li>Regulamentos, diretivas e decisões da UE direta ou indiretamente aplicáveis nos Estados Membros</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_pt.htm\" lang=\"pt\">Procurar textos da jurisprudência</a>             </h2>             <p>A jurisprudência da UE é composta por decisões do Tribunal de Justiça da União Europeia, que interpreta a legislação da UE.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_pt.htm\" lang=\"pt\">Participe na definição das políticas da União Europeia</a>             </h2>             <p>Está interessado em participar na definição das políticas da União Europeia? Pode fazê-lo de várias maneiras: iniciativa de cidadania europeia, consultas públicas, petições ao parlamento europeu, registo de transparência, notificações e registo de transparência, apresentação de denúncias.</p>"
+            ],
+            "ro": [
+                "<p>Dreptul european este format din legislaţia primară şi cea secundară. Tratatele (legislaţia primară) reprezintă normele care stau la baza tuturor acţiunilor Uniunii. </p>             <p>Legislaţia secundară, care include regulamentele, directivele şi deciziile, derivă din principiile şi obiectivele stabilite prin tratate.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_ro.htm\"                   lang=\"ro\">Cum se iau deciziile la nivel european</a>             </h2>             <p>Procedura standard de luare a deciziilor la nivelul UE este cunoscută sub numele de <a href=\"http://www.europarl.europa.eu/aboutparliament/ro/20150201PVL00004/Competenţe-legislative\">procedură legislativă ordinară</a> (denumită anterior codecizie). Aceasta înseamnă că Parlamentul European, ai cărui membri sunt aleşi prin vot direct, trebuie să aprobe legislaţia UE împreună cu Consiliul (care reprezintă guvernele celor 28 de state membre). Comisia elaborează şi implementează legislaţia europeană.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_ro.htm\" lang=\"ro\">Tratatele UE</a>             </h2>             <p>Uniunea Europeană se bazează pe norme de drept. Aceasta înseamnă că orice măsură luată de UE derivă din tratatele care au fost aprobate în mod voluntar şi democratic de toate ţările membre.</p>             <p>Tratatul de la Lisabona a extins numărul domeniilor politice cărora li se aplică procedura legislativă ordinară. De asemenea, Parlamentul European poate bloca mai uşor o propunere legislativă dacă nu este de acord cu poziţia adoptată de Consiliu.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_ro.htm\"                   lang=\"ro\">Regulamente, directive şi alte acte legislative</a>             </h2>             <p>Obiectivele stabilite în tratate sunt realizate prin intermediul mai multor tipuri de acte legislative. Aceste acte legislative includ regulamente, directive, recomandări şi avize. Unele au caracter obligatoriu, altele nu. Unele li se aplică tuturor ţărilor, altele doar unora dintre ele.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_ro.htm\" lang=\"ro\"> Aplicarea dreptului UE </a>             </h2>             <p>Dreptul european acordă drepturi şi impune obligaţii nu doar statelor membre, ci şi cetăţenilor şi întreprinderilor care sunt vizaţi direct de anumite norme. Face parte integrantă din sistemul juridic al statelor membre care răspund, în primul rând, de aplicarea corectă a acestor reglementări. Prin urmare, sunteţi îndreptăţit să vă aşteptaţi ca autorităţile naţionale de pe tot teritoriul Uniunii Europene să aplice corect drepturile care vă revin în calitate de cetăţeni europeni.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_ro.htm\" lang=\"ro\">Legislaţie</a>             </h2>             <p>Legislaţia UE este formată din:</p>             <ul>                <li>Tratatele fondatoare, care au instituit Uniunea Europeană şi reglementează modul de funcţionare a acesteia</li>                <li>Regulamentele, directivele şi deciziile UE, care au efect direct sau indirect asupra statelor membre.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_ro.htm\" lang=\"ro\">Consultare jurisprudenţă</a>             </h2>             <p>Jurisprudenţa UE este formată din hotărârile Curţii de Justiţie a Uniunii Europene, care interpretează legislaţia UE.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_ro.htm\" lang=\"ro\">Implicaţi-vă în elaborarea politicilor europene</a>             </h2>             <p>Doriţi să contribuiţi la elaborarea politicilor europene? Aveţi mai multe opţiuni: iniţiativa cetăţenească europeană, consultări publice, petiţii către parlamentul european, registrul de transparenţă, notificări și registrul de transparență, plângeri oficiale.</p>"
+            ],
+            "sk": [
+                "<p>Právne predpisy EÚ sa delia na primárne a sekundárne právo. Zmluvy (primárne právo) predstavujú základné pravidlá pre všetky činnosti EÚ. </p>             <p>Sekundárne právo – kam patria nariadenia, smernice a rozhodnutia, je založené na zásadách a cieľoch ustanovených v zmluvách.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_sk.htm\"                   lang=\"sk\">Ako sa prijímajú rozhodnutia EÚ</a>             </h2>             <p>Riadny legislatívny postup EÚ sa označuje ako <a href=\"http://www.europarl.europa.eu/aboutparliament/sk/20150201PVL00004/Legislatívne-právomoci\">„riadny legislatívny postup“</a> (predtým postup spolurozhodovania). Vyjadruje sa tým, že Európsky parlament priamo volený občanmi schvaľuje legislatívu EÚ spoločne s Radou, ktorú tvoria zástupcovia všetkých 28 vlád členských štátov EÚ. Komisia legislatívu EÚ navrhuje a vykonáva.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_sk.htm\" lang=\"sk\">Zmluvy EÚ</a>             </h2>             <p>Fungovanie Európskej únie sa opiera o princípy právneho štátu. Znamená to, že každé opatrenie EÚ má oporu v zmluvách, ktoré dobrovoľne a demokraticky schválili všetky členské štáty EÚ.</p>             <p>Lisabonská zmluva zvýšila počet oblastí politiky, v ktorých sa používa riadny legislatívny postup. Európsky parlament získal takisto viac právomocí, pokiaľ ide o možnosť zablokovať legislatívny návrh v prípade, keď nesúhlasí s Radou.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_sk.htm\"                   lang=\"sk\">Nariadenia, smernice a ďalšie akty</a>             </h2>             <p>Ciele zakotvené v zmluvách EÚ sa dosahujú prostredníctvom niekoľkých typov právnych aktov. Medzi tieto právne akty patria nariadenia, smernice, odporúčania a stanoviská. Niektoré z nich sú záväzné, iné nie. Niektoré sa vzťahujú na všetky členské štáty, iné iba na niekoľko z nich.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_sk.htm\" lang=\"sk\"> Uplatňovanie práva EÚ </a>             </h2>             <p>Európsky právny poriadok poskytuje práva a stanovuje povinnosti nielen členským štátom, ale aj občanom a podnikom, na ktorých sa priamo vzťahuje množstvo pravidiel. Je integrálnou súčasťou právneho systému členských štátov, ktoré nesú prvoradú zodpovednosť za zavedenie týchto pravidiel a ich správne uplatňovanie. Preto máte právo očakávať od vnútroštátnych orgánov na celom území Európskej únie, že budú správne uplatňovať vaše európske práva.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_sk.htm\" lang=\"sk\">Vyhľadávanie právnych predpisov</a>             </h2>             <p>Právne predpisy EÚ zahŕňajú:</p>             <ul>                <li>zmluvy o založení Európskej únie a o jej fungovaní;</li>                <li>nariadenia, smernice a rozhodnutia EÚ s priamymi alebo nepriamymi účinkami v členských štátoch.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_sk.htm\" lang=\"sk\">Vyhľadať judikatúru</a>             </h2>             <p>Judikatúru EÚ tvoria rozsudky Súdneho dvora Európskej únie, ktoré poskytujú výklad právnych predpisov EÚ.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_sk.htm\" lang=\"sk\">Zapojte sa do tvorby európskych politík</a>             </h2>             <p>Radi by ste sa zapojili do tvorby európskych politík? Môžete tak urobiť viacerými spôsobmi: európska iniciatíva občanov, verejné konzultácie, európsky parlament – petície, register transparentnosti, notifikácie a register transparentnosti, formálna sťažnosť.</p>"
+            ],
+            "sl": [
+                "<p>Pravni red EU zajema primarno in sekundarno zakonodajo. Vsi ukrepi EU temeljijo na pogodbah (primarni zakonodaji). </p>             <p>Sekundarna zakonodaja, ki vključuje uredbe, direktive in sklepe, izhaja iz načel in ciljev, zapisanih v pogodbah.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_sl.htm\"                   lang=\"sl\">Sprejemanje odločitev</a>             </h2>             <p>Odločitve se običajno sprejemajo v <a href=\"http://www.europarl.europa.eu/aboutparliament/sl/20150201PVL00004/Zakonodajne-pristojnosti\">rednem zakonodajnem postopku</a> (nekdanji postopek soodločanja). V tem postopku mora Evropski parlament, ki je neposredno izvoljen, predlagane zakone odobriti skupaj s Svetom (vlade 28 držav EU). Evropska komisija pripravi predloge predpisov in izvaja zakonodajo EU.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_sl.htm\" lang=\"sl\">Pogodbe EU</a>             </h2>             <p>Evropska unija temelji na načelih pravne države. To pomeni, da vsak ukrep EU temelji na pogodbah, ki so jih po demokratičnem postopku potrdile vse države članice EU.</p>             <p>Z Lizbonsko pogodbo se je povečalo število področij, kjer se uporablja redni zakonodajni postopek. Evropski parlament ima tudi večjo moč, da zavrne predlog, kadar ne soglaša s Svetom.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_sl.htm\"                   lang=\"sl\">Uredbe, direktive in drugi akti</a>             </h2>             <p>Cilji iz pogodb EU se uresničujejo z različnimi pravnimi akti. Nekateri so zavezujoči, drugi ne. Med temi so uredbe, direktive, priporočila in mnenja. Nekateri se uporabljajo za vse države EU, drugi samo za nekatere.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_sl.htm\" lang=\"sl\"> Uporaba prava EU </a>             </h2>             <p>Po evropski zakonodaji imajo pravice in obveznosti ne samo države članice, ampak tudi državljani in podjetja. Zanje se neposredno uporabljajo nekatera pravila. Evropska zakonodaja je sestavni del pravnega sistema držav članic, ki so zlasti odgovorne za izvajanje in pravilno uporabo teh pravil. Zato lahko upravičeno pričakujete, da bodo nacionalni organi po vsem ozemlju Evropske unije pravilno uresničevali vaše pravice iz evropske zakonodaje.</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_sl.htm\" lang=\"sl\">Iskanje zakonodaje</a>             </h2>             <p>Zakonodaja EU zajema:</p>             <ul>                <li>pogodbe o ustanovitvi Evropske unije, ki urejajo delovanje EU,</li>                <li>uredbe, direktive in sklepe EU, ki imajo neposredni ali posredni učinek na države članice EU.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_sl.htm\" lang=\"sl\">Iskanje po sodni praksi</a>             </h2>             <p>Sodna praksa EU obsega sodbe Sodišča Evropske unije, ki razlagajo zakonodajo EU.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_sl.htm\" lang=\"sl\">Vaš prispevek k politikam EU</a>             </h2>             <p>Želite sodelovati pri pripravi politik EU? Možnosti je več: evropska državljanska pobuda, javno posvetovanje, peticija evropskemu parlamentu, register za preglednost, obvestila in register za preglednost, uradne pritožbe.</p>"
+            ],
+            "sv": [
+                "<p>EU:s lagstiftning är indelad i primärrätt och sekundärrätt. Fördragen (primärrätten) utgör grunden för all EU:s verksamhet. </p>             <p>Sekundärrätten omfattar förordningar, direktiv och beslut och bygger på fördragens mål och principer.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/procedures/index_sv.htm\"                   lang=\"sv\">Så fattar EU sina beslut</a>             </h2>             <p>EU fattar främst sina beslut enligt det <a href=\"http://www.europarl.europa.eu/aboutparliament/sv/20150201PVL00004/Lagstiftningsbefogenheter\">ordinarie lagstiftningsförfarandet</a> (tidigare ”medbeslutandeförfarandet”). Det betyder att det folkvalda EU-parlamentet måste godkänna EU:s lagstiftning tillsammans med ministerrådet (de 28 EU-ländernas regeringar). Kommissionen föreslår nya lagar och ser till att EU-lagstiftningen följs.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/treaties/index_sv.htm\" lang=\"sv\">EU-fördragen</a>             </h2>             <p>EU vilar på rättstatsprincipen. Det betyder att allt som EU gör bygger på de fördrag som frivilligt och demokratiskt har godkänts av alla EU-länderna.</p>             <p>Med Lissabonfördraget utökades antalet politikområden där beslut fattas enligt det ordinarie lagstiftningsförfarandet. Europaparlamentet har också fått större makt att stoppa lagförslag om det inte är överens med ministerrådet.</p>             <h2>                <a href=\"http://europa.eu/eu-law/decision-making/legal-acts/index_sv.htm\"                   lang=\"sv\">Förordningar, direktiv och andra rättsakter</a>             </h2>             <p>Det finns flera olika rättsakter som kan användas för att uppnå målen i EU-fördragen. Exempel på sådana rättsakter är förordningar, direktiv, rekommendationer och yttranden. En del är bindande, andra inte. Vissa gäller för samtliga EU-länder, andra bara för ett fåtal.</p>             <h2>                <a href=\"http://europa.eu/eu-law/application-eu-law/index_sv.htm\" lang=\"sv\"> Tillämpning av EU-lagstiftningen </a>             </h2>             <p>Tillämpning av EU-lagstiftningen</p>             <h2>                <a href=\"http://europa.eu/eu-law/legislation/index_sv.htm\" lang=\"sv\">Hitta lagstiftning</a>             </h2>             <p>EU-lagstiftningen omfattar följande:</p>             <ul>                <li>Fördragen som upprättar Europeiska unionen och styr hur EU fungerar.</li>                <li>Förordningar, direktiv och beslut – som antingen direkt eller indirekt påverkar EU-länderna.</li>             </ul>             <h2>                <a href=\"http://europa.eu/eu-law/case-law/index_sv.htm\" lang=\"sv\">Sök i rättspraxis</a>             </h2>             <p>EU:s rättspraxis består av EU-domstolens domar där EU-lagstiftningen tolkas.</p>             <h2>                <a href=\"http://europa.eu/eu-law/have-your-say/index_sv.htm\" lang=\"sv\">Engagera dig i EU-politiken</a>             </h2>             <p>Vill du engagera dig i EU-politiken? Det finns olika sätt du kan göra det på: medborgarinitiativ, samråd, framställningar till europaparlamentet, öppenhetsregistret, meddelanden och öppenhetsregister, formella klagomål.</p>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_ee30c16799e844b2b152ab7cde486752"
+            ]
+        }
+    }
+}

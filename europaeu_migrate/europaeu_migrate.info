@@ -1,0 +1,27 @@
+name = EuropaEu Migrate
+description = Migrate classes for the EuropaEu migration
+core = 7.x
+package = EuropaEu Migration
+version = 7.x-1.0
+project = europaeu_migrate
+multisite_version = 2.1
+php = 5.6
+dependencies[] = migrate
+dependencies[] = integration
+dependencies[] = integration_consumer
+dependencies[] = integration_migrate
+
+files[] = handlers/europaeu_migrate.bean.inc
+files[] = includes/europaeu_migrate.attachment.inc
+files[] = includes/europaeu_migrate.abstract.inc
+files[] = includes/europaeu_migrate.menu.inc
+files[] = includes/europaeu_migrate.common_page.inc
+files[] = includes/europaeu_migrate.contact_details.inc
+files[] = includes/europaeu_migrate.see_also.inc
+files[] = includes/europaeu_migrate.downloads.inc
+files[] = includes/europaeu_migrate.video_gallery.inc
+files[] = includes/europaeu_migrate.country.inc
+files[] = includes/europaeu_migrate.institution.inc
+files[] = includes/europaeu_migrate.institution_type.inc
+files[] = includes/europaeu_migrate.topic.inc
+files[] = includes/europaeu_migrate.bean.inc

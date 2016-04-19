@@ -1,0 +1,456 @@
+{
+  "_id": "080126248e077247",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e077247",
+        "080126248e077247",
+        "080126248e077247",
+        "080126248e077247",
+        "080126248e077247",
+        "080126248e077247",
+        "080126248e077247",
+        "080126248e077247",
+        "080126248e077247",
+        "080126248e077247"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Комитет на регионите"
+      ],
+      "cs": [
+        "Výbor regionů"
+      ],
+      "da": [
+        "Regionsudvalget"
+      ],
+      "de": [
+        "Ausschuss der Regionen der Europäischen Union"
+      ],
+      "el": [
+        "Επιτροπή των Περιφερειών"
+      ],
+      "en": [
+        "Committee of the Regions"
+      ],
+      "es": [
+        "Comité de las Regiones"
+      ],
+      "et": [
+        "Regioonide Komitee"
+      ],
+      "fi": [
+        "Alueiden komitea"
+      ],
+      "fr": [
+        "Comité des régions"
+      ],
+      "ga": [
+        "Coiste na Réigiún"
+      ],
+      "hr": [
+        "Odbor regija"
+      ],
+      "hu": [
+        "Régiók Bizottsága"
+      ],
+      "it": [
+        "Comitato delle regioni"
+      ],
+      "lt": [
+        "Regionų komitetas"
+      ],
+      "lv": [
+        "Reģionu komiteja"
+      ],
+      "mt": [
+        "Kumitat tar-Reġjuni"
+      ],
+      "nl": [
+        "Comité van de Regio's"
+      ],
+      "pl": [
+        "Komitet Regionów"
+      ],
+      "pt": [
+        "Comité das Regiões"
+      ],
+      "ro": [
+        "Comitetul Regiunilor"
+      ],
+      "sk": [
+        "Výbor regiónov"
+      ],
+      "sl": [
+        "Odbor regij"
+      ],
+      "sv": [
+        "Regionkommittén"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/logo_cor.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Bâtiment Jacques Delors/Jacques Delors Gebouw</p> <p>Rue Belliard/Belliardstraat 99-101</p> <p>B - 1040 Bruxelles/Brussel</p> <p>Belgique/België</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 282 22 11"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+32 2 282 23 25"
+      ]
+    },
+    "link_url": {
+      "bg": [
+        "http://cor.europa.eu/bg/contacts/Pages/contact.aspx"
+      ],
+      "cs": [
+        "http://cor.europa.eu/cs/contacts/Pages/contact.aspx"
+      ],
+      "da": [
+        "http://cor.europa.eu/da/contacts/Pages/contact.aspx"
+      ],
+      "de": [
+        "http://cor.europa.eu/de/contacts/Pages/contact.aspx"
+      ],
+      "el": [
+        "http://cor.europa.eu/el/contacts/Pages/contact.aspx"
+      ],
+      "en": [
+        "http://cor.europa.eu/en/contacts/Pages/contact.aspx"
+      ],
+      "es": [
+        "http://cor.europa.eu/es/contacts/Pages/contact.aspx"
+      ],
+      "et": [
+        "http://cor.europa.eu/et/contacts/Pages/contact.aspx"
+      ],
+      "fi": [
+        "http://cor.europa.eu/fi/contacts/Pages/contact.aspx"
+      ],
+      "fr": [
+        "http://cor.europa.eu/fr/contacts/Pages/contact.aspx"
+      ],
+      "ga": [
+        "http://cor.europa.eu/ga/contacts/Pages/contact.aspx"
+      ],
+      "hr": [
+        "http://cor.europa.eu/hr/contacts/Pages/contact.aspx"
+      ],
+      "hu": [
+        "http://cor.europa.eu/hu/contacts/Pages/contact.aspx"
+      ],
+      "it": [
+        "http://cor.europa.eu/it/contacts/Pages/contact.aspx"
+      ],
+      "lt": [
+        "http://cor.europa.eu/lt/contacts/Pages/contact.aspx"
+      ],
+      "lv": [
+        "http://cor.europa.eu/lv/contacts/Pages/contact.aspx"
+      ],
+      "mt": [
+        "http://cor.europa.eu/mt/contacts/Pages/contact.aspx"
+      ],
+      "nl": [
+        "http://cor.europa.eu/nl/contacts/Pages/contact.aspx"
+      ],
+      "pl": [
+        "http://cor.europa.eu/pl/contacts/Pages/contact.aspx"
+      ],
+      "pt": [
+        "http://cor.europa.eu/pt/contacts/Pages/contact.aspx"
+      ],
+      "ro": [
+        "http://cor.europa.eu/ro/contacts/Pages/contact.aspx"
+      ],
+      "sk": [
+        "http://cor.europa.eu/sk/contacts/Pages/contact.aspx"
+      ],
+      "sl": [
+        "http://cor.europa.eu/sl/contacts/Pages/contact.aspx"
+      ],
+      "sv": [
+        "http://cor.europa.eu/sv/contacts/Pages/contact.aspx"
+      ]
+    },
+    "link_label": {
+      "bg": [
+        "Contact"
+      ],
+      "cs": [
+        "Contact"
+      ],
+      "da": [
+        "Contact"
+      ],
+      "de": [
+        "Contact"
+      ],
+      "el": [
+        "Contact"
+      ],
+      "en": [
+        "Contact"
+      ],
+      "es": [
+        "Contact"
+      ],
+      "et": [
+        "Contact"
+      ],
+      "fi": [
+        "Contact"
+      ],
+      "fr": [
+        "Contact"
+      ],
+      "ga": [
+        "Contact"
+      ],
+      "hr": [
+        "Kontakt"
+      ],
+      "hu": [
+        "Contact"
+      ],
+      "it": [
+        "Contact"
+      ],
+      "lt": [
+        "Contact"
+      ],
+      "lv": [
+        "Contact"
+      ],
+      "mt": [
+        "Contact"
+      ],
+      "nl": [
+        "Contact"
+      ],
+      "pl": [
+        "Contact"
+      ],
+      "pt": [
+        "Contact"
+      ],
+      "ro": [
+        "Contact"
+      ],
+      "sk": [
+        "Contact"
+      ],
+      "sl": [
+        "Contact"
+      ],
+      "sv": [
+        "Contact"
+      ]
+    },
+    "visit": {
+      "bg": [
+        "<p>Вид посещение: информационна сесия</p> <p>Минимален размер на групата: 15 души</p> <p>Изискване за предварителна резервация: 2 месеца</p> <p>Минимална възраст на посетителите: 14 години</p> <p><a href=\"http://cor.europa.eu/bg/takepart/Pages/book-your-visit.aspx\">Посетете Комитета на регионите</a></p>"
+      ],
+      "cs": [
+        "<p>Typ návštěvy: informační prohlídka</p> <p>Minimální velikost skupiny: 15 osob</p> <p>Povinná rezervace: 2 měsíce předem</p> <p>Minimální věk návštěvníků: 14 let</p> <p><a href=\"http://cor.europa.eu/cs/takepart/Pages/book-your-visit.aspx\">Výbor regionů – návštěvy pro veřejnost</a></p>"
+      ],
+      "da": [
+        "<p>Former for besøg: Informationsbesøg</p> <p>Minimumstørrelse på gruppe: 15 personer</p> <p>Krav om forudbestilling: 2 måneder</p> <p>Minimumsalder på besøgende: 14 år</p> <p><a href=\"http://cor.europa.eu/da/takepart/Pages/book-your-visit.aspx\">Besøg Regionsudvalget</a></p>"
+      ],
+      "de": [
+        "<p>Art des Besuchs: Informationsbesuch</p> <p>Mindestteilnehmerzahl: 15 Personen</p> <p>Anmeldung: Zwei Monate im Voraus</p> <p>Mindestalter der Besucher: 14 Jahre</p> <p><a href=\"http://cor.europa.eu/de/takepart/Pages/book-your-visit.aspx\">Besuchen Sie den Ausschuss der Regionen</a></p>"
+      ],
+      "el": [
+        "<p>Είδη επισκέψεων: ενημερωτικές επισκέψεις</p> <p>Ελάχιστο μέγεθος ομάδας επισκεπτών: 15 άτομα</p> <p>Υποχρέωση κράτησης: 2 μήνες νωρίτερα</p> <p>Κατώτατο όριο ηλικίας επισκεπτών: 14 ετών</p> <p><a href=\"http://cor.europa.eu/el/takepart/Pages/book-your-visit.aspx\">Επισκεφθείτε την Επιτροπή των Περιφερειών</a></p>"
+      ],
+      "en": [
+        "<p>Type of visit: Information session</p> <p>Minimum size of group: 15 people</p> <p>Advance booking requirement: 2 months</p> <p>Minimum age of visitors: 14 years old</p> <p><a href=\"http://cor.europa.eu/en/takepart/Pages/book-your-visit.aspx\">Visit the Committee of the Regions</a></p>"
+      ],
+      "es": [
+        "<p>Tipo de visita: Visita de información</p> <p>Tamaño mínimo del grupo: 15 personas</p> <p>Plazo mínimo para hacer la solicitud: 2 meses</p> <p>Edad mínima de los visitantes: 14 años</p> <p><a href=\"http://cor.europa.eu/es/takepart/Pages/book-your-visit.aspx\">Visitas al Comité de las Regiones</a></p>"
+      ],
+      "et": [
+        "<p>&lt;pKülastuste liigid: Teabekülastus</p> <p>Minimaalne rühma suurus: 15 inimest</p> <p>Kohustus eelnevalt registreerida: 2 kuud ette</p> <p>Minimaalne külastajate vanus: 14 aastat</p> <p><a href=\"http://cor.europa.eu/et/takepart/Pages/book-your-visit.aspx\">Külastage Regioonide Komiteed</a></p>"
+      ],
+      "fi": [
+        "<p>Vierailutyypit: esittelytilaisuus</p> <p>Ryhmän vähimmäiskoko: 15 henkeä</p> <p>Pakollinen etukäteisvaraus: 2 kuukautta etukäteen</p> <p>Vierailijoiden vähimmäisikä: 14 vuotta</p> <p><a href=\"http://cor.europa.eu/fi/takepart/Pages/book-your-visit.aspx\">Vierailut alueiden komiteassa</a></p>"
+      ],
+      "fr": [
+        "<p>Type de visite: Séance d’information</p> <p>Taille minimale des groupes: 15 personnes</p> <p>Délai de réservation: 2 mois</p> <p>Âge minimum des visiteurs: 14 ans</p> <p><a href=\"http://cor.europa.eu/fr/takepart/Pages/book-your-visit.aspx\">Visiter le Comité des régions</a></p>"
+      ],
+      "ga": [
+        "<p>Cineál cuairte: seisiún eolais</p> <p>Íosmhéid an ghrúpa: 15 duine</p> <p>Riachtanas réamháirithinte: 2 mhí</p> <p>Aois íosta na gcuairteoirí: 14 bliana d'aois</p> <p><a href=\"http://cor.europa.eu/ga/takepart/Pages/book-your-visit.aspx\">Tabhair cuairt ar Choiste na Réigiún</a></p>"
+      ],
+      "hr": [
+        "<p>Vrsta posjeta: informativni sastanak</p> <p>Minimalna veličina skupine: 15 osoba</p> <p>Obvezna prethodna rezervacija: 2 mjeseca</p> <p>Minimalna dob posjetitelja: 14 godina</p> <p><a href=\"http://cor.europa.eu/hr/takepart/Pages/book-your-visit.aspx\">Posjetite Odbor regija</a></p>"
+      ],
+      "hu": [
+        "<p>Látogatás típusa: Információs látogatás</p> <p>Csoport minimális létszáma: 15 fő</p> <p>Előzetes bejelentkezés: 2 hónappal a látogatás tervezett időpontja előtt</p> <p>Látogatók alsó korhatára: 14 év</p> <p><a href=\"http://cor.europa.eu/hu/takepart/Pages/book-your-visit.aspx\">Látogatás a Régiók Bizottságánál</a></p>"
+      ],
+      "it": [
+        "<p>Tipo di visita: sessione informativa</p> <p>Numero minimo di partecipanti: 15 persone</p> <p>Prenotazione: 2 mesi prima</p> <p>Età minima dei visitatori: 14 anni</p> <p><a href=\"http://cor.europa.eu/it/takepart/Pages/book-your-visit.aspx\">Visitate il Comitato delle regioni</a></p>"
+      ],
+      "lt": [
+        "<p>Apsilankymo pobūdis: Informacinė paskaita</p> <p>Minimalus grupės dydis: 15 asmenų</p> <p>Prieš kiek laiko būtina susitarti dėl apsilankymo?: Prieš 2 mėnesius</p> <p>Minimalus lankytojų amžius: 14 metų</p> <p><a href=\"http://cor.europa.eu/lt/takepart/Pages/book-your-visit.aspx\">Apsilankykite Regionų komitete</a></p>"
+      ],
+      "lv": [
+        "<p>Apmeklējuma veids: informatīvs apmeklējums</p> <p>Minimālais grupas lielums: 15 personas</p> <p>Iepriekšēja pieteikšanās: 2 mēnešus iepriekš</p> <p>Apmeklētāju minimālais vecums: 14 gadi</p> <p><a href=\"http://cor.europa.eu/lv/takepart/Pages/book-your-visit.aspx\">Reģionu komitejas apmeklējums</a></p>"
+      ],
+      "mt": [
+        "<p>Tip ta’ żjara: sessjoni ta' informazzjoni</p> <p>Daqs minimu tal-grupp: 15-il persuna</p> <p>Rekwiżit tar-Riżervazzjoni bil-quddiem: Ħmistax-il (2-il) xahar</p> <p>L-età minima tal-viżitaturi: 14-il sena</p> <p><a href=\"http://cor.europa.eu/mt/takepart/Pages/book-your-visit.aspx\">Żur il-Kumitat tar-Reġjuni</a></p>"
+      ],
+      "nl": [
+        "<p>Soort bezoek: Voorlichtingsbezoek</p> <p>Groepsgrootte: Minimaal 15 personen</p> <p>Reservering: Minimaal 2 maanden van tevoren</p> <p>Minimumleeftijd: 14 jaar</p> <p><a href=\"http://cor.europa.eu/nl/takepart/Pages/book-your-visit.aspx\">Bezoek het Comité van de Regio's</a></p>"
+      ],
+      "pl": [
+        "<p>Rodzaj wizyty: Sesja informacyjna</p> <p>Minimalna wielkość grupy: 15 osób</p> <p>Wymóg rezerwacji: 2 miesiące wcześniej</p> <p>Minimalny wiek odwiedzających: 14 lat</p> <p><a href=\"http://cor.europa.eu/pl/takepart/Pages/book-your-visit.aspx\">Wizyty w Komitecie Regionów</a></p>"
+      ],
+      "pt": [
+        "<p>Tipo de visita: sessão de informação</p> <p>Número mínimo de participantes: 15 pessoas</p> <p>Marcação prévia obrigatória: 2 meses</p> <p>Idade mínima dos visitantes: 14 anos</p> <p><a href=\"http://cor.europa.eu/pt/takepart/Pages/book-your-visit.aspx\">Visite o Comité das Regiões</a></p>"
+      ],
+      "ro": [
+        "<p>Tipul de vizită: sesiune de informare</p> <p>Dimensiunea minimă a grupului: 15 persoane</p> <p>Rezervare: cu 2 luni înainte de data vizitei</p> <p>Vârsta minimă a vizitatorilor: 14 ani</p> <p><a href=\"http://cor.europa.eu/ro/takepart/Pages/book-your-visit.aspx\">Vizitaţi Comitetul Regiunilor</a></p>"
+      ],
+      "sk": [
+        "<p>Typy návštev: informatívne stretnutia</p> <p>Minimálna veľkosť skupiny: 15 osôb</p> <p>Povinná rezervácia: 2 mesiace pred návštevou</p> <p>Minimálny vek návštevníkov: 14 rokov</p> <p><a href=\"http://cor.europa.eu/sk/takepart/Pages/book-your-visit.aspx\">Navštívte Výbor regiónov</a></p>"
+      ],
+      "sl": [
+        "<p>Vrsta obiska: Informativna predstavitev</p> <p>Velikost skupine: Najmanj 15 oseb</p> <p>Vnaprejšnja rezervacija: 2 meseca</p> <p>Starost obiskovalcev: Najmanj 14 let</p> <p><a href=\"http://cor.europa.eu/sl/takepart/Pages/book-your-visit.aspx\">Obiščite Odbor regij</a></p>"
+      ],
+      "sv": [
+        "<p>Typ av besök: Föredrag</p> <p>Gruppens storlek: Minst 15 personer</p> <p>Förhandsbokning: 2 månader</p> <p>Åldersgräns: 14 år</p> <p><a href=\"http://cor.europa.eu/sv/takepart/Pages/book-your-visit.aspx\">Besök Regionkommittén</a></p>"
+      ]
+    },
+    "social_url": {
+      "en": [
+        "https://www.facebook.com/committee.of.the.regions",
+        "https://twitter.com/EU_CoR",
+        "https://www.youtube.com/user/pressecdr",
+        "https://www.flickr.com/photos/cor-photos/",
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "en": [
+        "Facebook",
+        "Twitter",
+        "YouTube",
+        "Flickr",
+        "more_social"
+      ]
+    }
+  }
+}

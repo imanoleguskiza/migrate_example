@@ -1,0 +1,424 @@
+{
+  "_id": "080126248bc1864c",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "en",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2014-04-22 16:55:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        21
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/educ/thumb_educ_en.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Образование, обучение, младеж и спорт"
+      ],
+      "cs": [
+        "Vzdělávání, odborná příprava, mládež a sport"
+      ],
+      "da": [
+        "Uddannelse, erhvervsuddan‑ nelse, ungdom og sport"
+      ],
+      "de": [
+        "Allgemeine und berufliche Bildung, Jugend und Sport"
+      ],
+      "el": [
+        "Εκπαίδευση, κατάρτιση, νεολαία και αθλητισμός"
+      ],
+      "en": [
+        "Education, training, youth and sport"
+      ],
+      "es": [
+        "Educación, formación, juventud y deporte"
+      ],
+      "et": [
+        "Haridus, koolitus, noored ja sport"
+      ],
+      "fi": [
+        "Koulutus, nuoriso ja urheilu"
+      ],
+      "fr": [
+        "Éducation, formation, jeunesse et sport"
+      ],
+      "ga": [
+        "Oideachas, oiliúint, an óige agus spórt"
+      ],
+      "hr": [
+        "Obrazovanje, osposobljavanje, mladi i sport"
+      ],
+      "hu": [
+        "Oktatási, képzési, ifjúsági és sportpolitika"
+      ],
+      "it": [
+        "Istruzione, formazione, gioventù e sport"
+      ],
+      "lt": [
+        "Švietimas, mokymas, jaunimas ir sportas"
+      ],
+      "lv": [
+        "Izglītība, apmācība, jaunatne un sports"
+      ],
+      "mt": [
+        "L‑edukazzjoni, it‑taħriġ, iż‑żgħażagħ u l‑isport"
+      ],
+      "nl": [
+        "Onderwijs, opleiding, jeugd en sport"
+      ],
+      "pl": [
+        "Kształcenie, szkolenie, młodzież i sport"
+      ],
+      "pt": [
+        "Educação, formação, juventude e desporto"
+      ],
+      "ro": [
+        "Educație, formare, tineret și sport"
+      ],
+      "sk": [
+        "Vzdelávanie, odborná príprava, mládež a šport"
+      ],
+      "sl": [
+        "Izobraževanje, usposabljanje, mladi in šport"
+      ],
+      "sv": [
+        "Utbildning, ungdomsfrågor och idrott"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Образование, обучение, младеж и спорт"
+      ],
+      "cs": [
+        "Vzdělávání, odborná příprava, mládež a sport"
+      ],
+      "da": [
+        "Uddannelse, erhvervsuddan‑ nelse, ungdom og sport"
+      ],
+      "de": [
+        "Allgemeine und berufliche Bildung, Jugend und Sport"
+      ],
+      "el": [
+        "Εκπαίδευση, κατάρτιση, νεολαία και αθλητισμός"
+      ],
+      "en": [
+        "Education, training, youth and sport"
+      ],
+      "es": [
+        "Educación, formación, juventud y deporte"
+      ],
+      "et": [
+        "Haridus, koolitus, noored ja sport"
+      ],
+      "fi": [
+        "Koulutus, nuoriso ja urheilu"
+      ],
+      "fr": [
+        "Éducation, formation, jeunesse et sport"
+      ],
+      "ga": [
+        "Oideachas, oiliúint, an óige agus spórt"
+      ],
+      "hr": [
+        "Obrazovanje, osposobljavanje, mladi i sport"
+      ],
+      "hu": [
+        "Oktatási, képzési, ifjúsági és sportpolitika"
+      ],
+      "it": [
+        "Istruzione, formazione, gioventù e sport"
+      ],
+      "lt": [
+        "Švietimas, mokymas, jaunimas ir sportas"
+      ],
+      "lv": [
+        "Izglītība, apmācība, jaunatne un sports"
+      ],
+      "mt": [
+        "L‑edukazzjoni, it‑taħriġ, iż‑żgħażagħ u l‑isport"
+      ],
+      "nl": [
+        "Onderwijs, opleiding, jeugd en sport"
+      ],
+      "pl": [
+        "Kształcenie, szkolenie, młodzież i sport"
+      ],
+      "pt": [
+        "Educação, formação, juventude e desporto"
+      ],
+      "ro": [
+        "Educație, formare, tineret și sport"
+      ],
+      "sk": [
+        "Vzdelávanie, odborná príprava, mládež a šport"
+      ],
+      "sl": [
+        "Izobraževanje, usposabljanje, mladi in šport"
+      ],
+      "sv": [
+        "Utbildning, ungdomsfrågor och idrott"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\"><span>Текстът е актуализиран през ноември 2014 г.</span></p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\"><span>Rukopis aktualizován v Listopad 2014</span></p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\"><span>Manuskript ajourført i november 2014</span></p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\"><span>Manuskript aktualisiert im November 2014</span></p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\"><span>Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</span></p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\"><span>Texto original actualizado en noviembre de 2014</span></p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\"><span>Käsikiri on ajakohastatud novembris 2014</span></p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\"><span>Teksti on päivitetty <span>marraskuussa</span> 2014</span></p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\"><span>Manuscrit actualisé en novembre 2014</span></p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt cothrom le dáta mí na Samhna 2014</p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u Studenome 2014.</p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\"><span>A kézirat frissítve: 2014. <span>Novemberében</span></span></p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\"><span>Redazione aggiornata ad novembre 2014</span></p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\"><span>Rankraštis atnaujintas 2014 m. <span>lapkričio</span> mėn.</span></p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\"><span>Manuskripts atjaunināts 2014. gada <span>novembrī</span>.</span></p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\"><span>Manuskritt aġġornat f'Novembru 2014</span></p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\"><span>Tekst bijgewerkt in november 2014</span></p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\"><span>Tekst zaktualizowano w <span>listopadzie</span> 2014 r.</span></p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\"><span>Manuscrito atualizado em novembro de 2014</span></p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<div class=\"right_content\"><p class=\"readmore_float\"><span>Manuscris actualizat în noiembrie 2014</span></p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p></div>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\"><span>Rukopis bol aktualizovaný v <span>novembri</span> 2014</span></p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\"><span>Rokopis je bil posodobljen novembra 2014.</span></p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\"><span>Manuskriptet uppdaterades i november 2014</span></p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c13",
+        "27698c35"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://europa.eu/pol/pdf/flipbook/bg/education_training_youth_and_sport_bg.pdf"
+      ],
+      "cs": [
+        "http://europa.eu/pol/pdf/flipbook/cs/education_training_youth_and_sport_cs.pdf"
+      ],
+      "da": [
+        "http://europa.eu/pol/pdf/flipbook/da/education_training_youth_and_sport_da.pdf"
+      ],
+      "de": [
+        "http://europa.eu/pol/pdf/flipbook/de/education_training_youth_and_sport_de.pdf"
+      ],
+      "el": [
+        "http://europa.eu/pol/pdf/flipbook/el/education_training_youth_and_sport_el.pdf"
+      ],
+      "en": [
+        "http://europa.eu/pol/pdf/flipbook/en/education_training_youth_and_sport_en.pdf"
+      ],
+      "es": [
+        "http://europa.eu/pol/pdf/flipbook/es/education_training_youth_and_sport_es.pdf"
+      ],
+      "et": [
+        "http://europa.eu/pol/pdf/flipbook/et/education_training_youth_and_sport_et.pdf"
+      ],
+      "fi": [
+        "http://europa.eu/pol/pdf/flipbook/fi/education_training_youth_and_sport_fi.pdf"
+      ],
+      "fr": [
+        "http://europa.eu/pol/pdf/flipbook/fr/education_training_youth_and_sport_fr.pdf"
+      ],
+      "ga": [
+        "http://europa.eu/pol/pdf/flipbook/ga/education_training_youth_and_sport_ga.pdf"
+      ],
+      "hr": [
+        "http://europa.eu/pol/pdf/flipbook/hr/education_training_youth_and_sport_hr.pdf"
+      ],
+      "hu": [
+        "http://europa.eu/pol/pdf/flipbook/hu/education_training_youth_and_sport_hu.pdf"
+      ],
+      "it": [
+        "http://europa.eu/pol/pdf/flipbook/it/education_training_youth_and_sport_it.pdf"
+      ],
+      "lt": [
+        "http://europa.eu/pol/pdf/flipbook/lt/education_training_youth_and_sport_lt.pdf"
+      ],
+      "lv": [
+        "http://europa.eu/pol/pdf/flipbook/lv/education_training_youth_and_sport_lv.pdf"
+      ],
+      "mt": [
+        "http://europa.eu/pol/pdf/flipbook/mt/education_training_youth_and_sport_mt.pdf"
+      ],
+      "nl": [
+        "http://europa.eu/pol/pdf/flipbook/nl/education_training_youth_and_sport_nl.pdf"
+      ],
+      "pl": [
+        "http://europa.eu/pol/pdf/flipbook/pl/education_training_youth_and_sport_pl.pdf"
+      ],
+      "pt": [
+        "http://europa.eu/pol/pdf/flipbook/pt/education_training_youth_and_sport_pt.pdf"
+      ],
+      "ro": [
+        "http://europa.eu/pol/pdf/flipbook/ro/education_training_youth_and_sport_ro.pdf"
+      ],
+      "sk": [
+        "http://europa.eu/pol/pdf/flipbook/sk/education_training_youth_and_sport_sk.pdf"
+      ],
+      "sl": [
+        "http://europa.eu/pol/pdf/flipbook/sl/education_training_youth_and_sport_sl.pdf"
+      ],
+      "sv": [
+        "http://europa.eu/pol/pdf/flipbook/sv/education_training_youth_and_sport_sv.pdf"
+      ]
+    }
+  }
+}

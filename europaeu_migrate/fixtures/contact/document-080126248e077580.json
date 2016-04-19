@@ -1,0 +1,507 @@
+{
+  "_id": "080126248e077580",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e077580",
+        "080126248e077580",
+        "080126248e077580",
+        "080126248e077580",
+        "080126248e077580"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска служба за подбор на персонал"
+      ],
+      "cs": [
+        "Evropský úřad pro výběr personálu"
+      ],
+      "da": [
+        "EU's Personaleudvælgelseskontor"
+      ],
+      "de": [
+        "Europäisches Amt für Personalauswahl"
+      ],
+      "el": [
+        "Ευρωπαϊκή Υπηρεσία Επιλογής Προσωπικού"
+      ],
+      "en": [
+        "European Personnel Selection Office(EPSO)"
+      ],
+      "es": [
+        "Oficina Europea de Selección de Personal"
+      ],
+      "et": [
+        "Euroopa Personalivaliku Amet"
+      ],
+      "fi": [
+        "Euroopan unionin henkilöstövalintatoimisto"
+      ],
+      "fr": [
+        "Office européen de sélection du personnel"
+      ],
+      "ga": [
+        "An Oifig Eorpach um Roghnú Foirne"
+      ],
+      "hr": [
+        "Europski ured za odabir osoblja(EPSO)"
+      ],
+      "hu": [
+        "Európai Személyzeti Felvételi Hivatal"
+      ],
+      "it": [
+        "Ufficio europeo di selezione del personale"
+      ],
+      "lt": [
+        "Europos personalo atrankos tarnyba"
+      ],
+      "lv": [
+        "Eiropas Personāla atlases birojs"
+      ],
+      "mt": [
+        "l-Uffiċċju Ewropew għall-Għażla tal-Persunal"
+      ],
+      "nl": [
+        "Europees Bureau voor personeelsselectie"
+      ],
+      "pl": [
+        "Europejski Urząd Doboru Kadr"
+      ],
+      "pt": [
+        "Serviço de Selecção de Pessoal das Comunidades Europeias"
+      ],
+      "ro": [
+        "Oficiul European pentru Selecţia Personalului"
+      ],
+      "sk": [
+        "Európsky úrad pre výber pracovníkov"
+      ],
+      "sl": [
+        "Evropski urad za izbor osebja"
+      ],
+      "sv": [
+        "Europeiska rekryteringsbyrån"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/epso_logo.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Avenue de Cortenbergh/Kortenberglaan 25</p> <p>B-1049 Bruxelles/Brussel</p> <p>Belgique/België</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 299 31 31"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+32 2 295 74 88"
+      ]
+    },
+    "link_url": {
+      "bg": [
+        "http://europa.eu/epso/about/contact/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/epso/about/contact/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/epso/about/contact/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/epso/about/contact/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/epso/about/contact/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/epso/about/contact/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/epso/about/contact/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/epso/about/contact/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/epso/about/contact/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/epso/about/contact/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/epso/about/contact/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/epso/about/contact/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/epso/about/contact/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/epso/about/contact/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/epso/about/contact/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/epso/about/contact/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/epso/about/contact/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/epso/about/contact/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/epso/about/contact/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/epso/about/contact/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/epso/about/contact/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/epso/about/contact/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/epso/about/contact/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/epso/about/contact/index_sv.htm"
+      ]
+    },
+    "link_label": {
+      "bg": [
+        "Contact the EPSO"
+      ],
+      "cs": [
+        "Contact the EPSO"
+      ],
+      "da": [
+        "Contact the EPSO"
+      ],
+      "de": [
+        "Contact the EPSO"
+      ],
+      "el": [
+        "Contact the EPSO"
+      ],
+      "en": [
+        "Contact the EPSO"
+      ],
+      "es": [
+        "Contact the EPSO"
+      ],
+      "et": [
+        "Contact the EPSO"
+      ],
+      "fi": [
+        "Contact the EPSO"
+      ],
+      "fr": [
+        "Contact the EPSO"
+      ],
+      "ga": [
+        "Contact the EPSO"
+      ],
+      "hr": [
+        "Kontaktirajte EPSO"
+      ],
+      "hu": [
+        "Contact the EPSO"
+      ],
+      "it": [
+        "Contact the EPSO"
+      ],
+      "lt": [
+        "Contact the EPSO"
+      ],
+      "lv": [
+        "Contact the EPSO"
+      ],
+      "mt": [
+        "Contact the EPSO"
+      ],
+      "nl": [
+        "Contact the EPSO"
+      ],
+      "pl": [
+        "Contact the EPSO"
+      ],
+      "pt": [
+        "Contact the EPSO"
+      ],
+      "ro": [
+        "Contact the EPSO"
+      ],
+      "sk": [
+        "Contact the EPSO"
+      ],
+      "sl": [
+        "Contact the EPSO"
+      ],
+      "sv": [
+        "Contact the EPSO"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Social networks"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    }
+  }
+}

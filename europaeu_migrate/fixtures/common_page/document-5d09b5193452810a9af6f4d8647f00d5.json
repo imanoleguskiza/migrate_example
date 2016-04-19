@@ -1,0 +1,853 @@
+{
+    "_id": "5d09b5193452810a9af6f4d8647f00d5",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/business/eu-standards/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/business/eu-standards/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/business/eu-standards/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/business/eu-standards/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/business/eu-standards/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/business/eu-standards/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/business/eu-standards/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/business/eu-standards/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/business/eu-standards/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/business/eu-standards/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/business/eu-standards/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/business/eu-standards/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/business/eu-standards/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/business/eu-standards/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/business/eu-standards/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/business/eu-standards/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/business/eu-standards/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/business/eu-standards/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/business/eu-standards/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/business/eu-standards/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/business/eu-standards/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/business/eu-standards/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/business/eu-standards/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/business/eu-standards/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Европейски стандарти"
+            ],
+            "cs": [
+                "Evropské normy"
+            ],
+            "da": [
+                "Europæiske standarder"
+            ],
+            "de": [
+                "Europäische Normen"
+            ],
+            "el": [
+                "Ευρωπαϊκά πρότυπα"
+            ],
+            "en": [
+                "European standards"
+            ],
+            "es": [
+                "Normas europeas"
+            ],
+            "et": [
+                "Euroopa standardid"
+            ],
+            "fi": [
+                "Eurooppalaiset standardit"
+            ],
+            "fr": [
+                "Normes européennes"
+            ],
+            "ga": [
+                "Caighdeáin Eorpacha"
+            ],
+            "hr": [
+                "Europske norme"
+            ],
+            "hu": [
+                "Európai szabványok"
+            ],
+            "it": [
+                "Norme europee"
+            ],
+            "lt": [
+                "Europos standartai"
+            ],
+            "lv": [
+                "Eiropas standarti"
+            ],
+            "mt": [
+                "Standards Ewropej"
+            ],
+            "nl": [
+                "Europese normen"
+            ],
+            "pl": [
+                "Normy europejskie"
+            ],
+            "pt": [
+                "Normas europeias"
+            ],
+            "ro": [
+                "Standarde europene"
+            ],
+            "sk": [
+                "Európske normy"
+            ],
+            "sl": [
+                "Evropski standardi"
+            ],
+            "sv": [
+                "Europeiska standarder"
+            ]
+        },
+        "category": {
+            "und": [
+                "60623c3"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "/INDEX/HP/EN"
+            ],
+            "cs": [
+                "/INDEX/HP/EN"
+            ],
+            "da": [
+                "/INDEX/HP/EN"
+            ],
+            "de": [
+                "/INDEX/HP/EN"
+            ],
+            "el": [
+                "/INDEX/HP/EN"
+            ],
+            "en": [
+                "/INDEX/HP/EN"
+            ],
+            "es": [
+                "/INDEX/HP/EN"
+            ],
+            "et": [
+                "/INDEX/HP/EN"
+            ],
+            "fi": [
+                "/INDEX/HP/EN"
+            ],
+            "fr": [
+                "/INDEX/HP/EN"
+            ],
+            "ga": [
+                "/INDEX/HP/EN"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "/INDEX/HP/EN"
+            ],
+            "it": [
+                "/INDEX/HP/EN"
+            ],
+            "lt": [
+                "/INDEX/HP/EN"
+            ],
+            "lv": [
+                "/INDEX/HP/EN"
+            ],
+            "mt": [
+                "/INDEX/HP/EN"
+            ],
+            "nl": [
+                "/INDEX/HP/EN"
+            ],
+            "pl": [
+                "/INDEX/HP/EN"
+            ],
+            "pt": [
+                "/INDEX/HP/EN"
+            ],
+            "ro": [
+                "/INDEX/HP/EN"
+            ],
+            "sk": [
+                "/INDEX/HP/EN"
+            ],
+            "sl": [
+                "/INDEX/HP/EN"
+            ],
+            "sv": [
+                "/INDEX/HP/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM-C02"
+            ],
+            "cs": [
+                "COMM/COMM-C02"
+            ],
+            "da": [
+                "COMM/COMM-C02"
+            ],
+            "de": [
+                "COMM/COMM-C02"
+            ],
+            "el": [
+                "COMM/COMM-C02"
+            ],
+            "en": [
+                "COMM/COMM/A5"
+            ],
+            "es": [
+                "COMM/COMM-C02"
+            ],
+            "et": [
+                "COMM/COMM-C02"
+            ],
+            "fi": [
+                "COMM/COMM-C02"
+            ],
+            "fr": [
+                "COMM/COMM-C02"
+            ],
+            "ga": [
+                "COMM/COMM-C02"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "COMM/COMM-C02"
+            ],
+            "it": [
+                "COMM/COMM-C02"
+            ],
+            "lt": [
+                "COMM/COMM-C02"
+            ],
+            "lv": [
+                "COMM/COMM-C02"
+            ],
+            "mt": [
+                "COMM/COMM-C02"
+            ],
+            "nl": [
+                "COMM/COMM-C02"
+            ],
+            "pl": [
+                "COMM/COMM-C02"
+            ],
+            "pt": [
+                "COMM/COMM-C02"
+            ],
+            "ro": [
+                "COMM/COMM-C02"
+            ],
+            "sk": [
+                "COMM/COMM-C02"
+            ],
+            "sl": [
+                "COMM/COMM-C02"
+            ],
+            "sv": [
+                "COMM/COMM-C02"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Информация за свободното движение на стоки и хармонизираните стандарти на ЕС"
+            ],
+            "cs": [
+                "Informace o volném pohybu zboží a harmonizované normy v EU"
+            ],
+            "da": [
+                "Information om varers frie bevægelighed og harmoniserede standarder i EU"
+            ],
+            "de": [
+                "Informationen über den freien Warenverkehr und harmonisierte Normen in der EU"
+            ],
+            "el": [
+                "Πληροφορίες για την ελεύθερη κυκλοφορία των εμπορευμάτων και τα εναρμονισμένα πρότυπα στην ΕΕ"
+            ],
+            "en": [
+                "Information on free movement of goods and harmonised standards in the EU"
+            ],
+            "es": [
+                "Información sobre la libre circulación de mercancías y las normas europeas armonizadas"
+            ],
+            "et": [
+                "Teave kaupade vaba liikumise ja ühtlustatud standardite kohta ELis"
+            ],
+            "fi": [
+                "Tietoa tavaroiden vapaasta liikkuvuudesta ja yhdenmukaistetuista standardeista EU:ssa"
+            ],
+            "fr": [
+                "Informations sur la libre circulation des marchandises et les normes harmonisées dans l'UE"
+            ],
+            "ga": [
+                "Eolas ar shaorghluaiseacht earraí agus ar chaighdeáin chomhchuibhithe san AE "
+            ],
+            "hr": [
+                "Informacije o slobodnom kretanju robe i usklađenim normama u EU-u"
+            ],
+            "hu": [
+                "Tudnivalók az áruk szabad mozgásáról az EU-ban és a harmonizált szabványokról"
+            ],
+            "it": [
+                "Informazioni sulla libera circolazione delle merci e sulle norme armonizzate nell'UE"
+            ],
+            "lt": [
+                "Informacija apie laisvą prekių judėjimą ir darniuosius standartus ES"
+            ],
+            "lv": [
+                "Ziņas par preču brīvu apriti un saskaņotie standarti Eiropas Savienībā."
+            ],
+            "mt": [
+                "Tagħrif dwar il-moviment ħieles tal-prodotti u l-istandards armonizzati fl-UE"
+            ],
+            "nl": [
+                "Informatie over vrij verkeer van goederen en geharmoniseerde normen in de EU"
+            ],
+            "pl": [
+                "Swobodny przepływ towarów i zharmonizowane normy w UE"
+            ],
+            "pt": [
+                "Informações sobre a livre circulação de mercadorias e as normas harmonizadas na UE"
+            ],
+            "ro": [
+                "Informaţii despre libera circulaţie a mărfurilor şi standardele europene armonizate"
+            ],
+            "sk": [
+                "Informácie o voľnom pohybe tovarov a harmonizovaných normách v EÚ"
+            ],
+            "sl": [
+                "Informacije o prostem pretoku blaga in usklajenih standardih v EU"
+            ],
+            "sv": [
+                "Information om fri rörlighet för varor och harmoniserade standarder i EU"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "стандарти",
+                "купувам, покупка",
+                "продавам, продажба",
+                "свободно движение на сток",
+                "Европейски институции",
+                "EUROPA",
+                "ЕС"
+            ],
+            "cs": [
+                "normy",
+                "koupit",
+                "prodat",
+                "volný pohyb zboží",
+                "evropské orgány",
+                "EUROPA",
+                "EU"
+            ],
+            "da": [
+                "standarder",
+                "køb",
+                "salg",
+                "frie varebevægelser",
+                "EU-institutionerne",
+                "EUROPA",
+                "EU"
+            ],
+            "de": [
+                "Normen, Standards",
+                "kaufen",
+                "verkaufen",
+                "freier Warenverkehr",
+                "europäische Institutionen",
+                "EUROPA",
+                "EU"
+            ],
+            "el": [
+                "πρότυπα",
+                "αγορά, αγοράζω",
+                "πουλώ",
+                "ελεύθερη κυκλοφορία εμπορ",
+                "Ευρωπαϊκά θεσμικά όργανα",
+                "EUROPA",
+                "ΕΕ"
+            ],
+            "en": [
+                "standards",
+                "buy",
+                "sell",
+                "free movement of goods",
+                "European Institutions",
+                "EUROPA",
+                "EU"
+            ],
+            "es": [
+                "normas",
+                "comprar",
+                "vender",
+                "libre circulación de mercancías",
+                "instituciones europeas",
+                "EUROPA",
+                "UE"
+            ],
+            "et": [
+                "standardid",
+                "ost",
+                "müük",
+                "kaupade vaba liikumine",
+                "Euroopa institutsioonid",
+                "EUROPA",
+                "EL"
+            ],
+            "fi": [
+                "vaatimukset, normit, standardit",
+                "ostaminen",
+                "myyminen",
+                "tavaroiden vapaa liikkuvuus",
+                "EU:n toimielimet",
+                "EUROPA",
+                "EU"
+            ],
+            "fr": [
+                "normes",
+                "achat, acheter",
+                "vendre",
+                "libre circulation des marchandises, des biens",
+                "Institutions européennes",
+                "EUROPA",
+                "UE"
+            ],
+            "ga": [
+                "caighdeáin",
+                "ceannaigh",
+                "díol",
+                "saorghluaiseacht earraí",
+                "Institiúidí Eorpacha",
+                "EUROPA",
+                "AE"
+            ],
+            "hr": [
+                "norme",
+                "kupiti",
+                "prodati",
+                "slobodno kretanje robe",
+                "europske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "hu": [
+                "normák, szabványok, előírások",
+                "vásárolni, venni, vásárol, vesz",
+                "eladni, értékesíteni, elad, értékesít",
+                "áruk szabad mozgása",
+                "Az európai intézmények",
+                "EUROPA",
+                "EU"
+            ],
+            "it": [
+                "norme",
+                "acquistare",
+                "vendere",
+                "libera circolazione delle merci",
+                "istituzioni europee",
+                "EUROPA",
+                "UE"
+            ],
+            "lt": [
+                "standartai",
+                "pirkti",
+                "parduoti",
+                "laisvas prekių judėjimas",
+                "Europos institucijos",
+                "EUROPA",
+                "ES"
+            ],
+            "lv": [
+                "standarti, normas",
+                "pirkt",
+                "pārdot",
+                "brīva preču aprite",
+                "Eiropas Savienības iestādes",
+                "Portāls “EUROPA”",
+                "ES"
+            ],
+            "mt": [
+                "standards",
+                "ixtri",
+                "biegħ",
+                "moviment ħieles tal-prodotti",
+                "L-Istituzzjonijiet Ewropej",
+                "Fittex fuq EUROPA",
+                "UE"
+            ],
+            "nl": [
+                "normen",
+                "kopen",
+                "verkopen",
+                "vrij verkeer van goederen",
+                "Europese instellingen",
+                "EUROPA",
+                "EU"
+            ],
+            "pl": [
+                "normy",
+                "kupno",
+                "sprzedaż",
+                "swobodny przepływ towarów",
+                "instytucje europejskie",
+                "EUROPA",
+                "UE"
+            ],
+            "pt": [
+                "normas",
+                "comprar",
+                "vender",
+                "livre circulação de mercadorias",
+                "instituições europeias",
+                "europa",
+                "ue"
+            ],
+            "ro": [
+                "standarde",
+                "cumpăra",
+                "vinde",
+                "libera circulaţie a mărfurilor",
+                "instituţii europene",
+                "europa",
+                "ue"
+            ],
+            "sk": [
+                "normy",
+                "nákup",
+                "predaj",
+                "voľný pohyb tovarov",
+                "Európske inštitúcie",
+                "EUROPA",
+                "EÚ"
+            ],
+            "sl": [
+                "standardi",
+                "nakup",
+                "prodaja",
+                "prosti pretok blaga",
+                "Evropske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "sv": [
+                "standarder",
+                "köpa",
+                "sälja",
+                "fri rörlighet för varor",
+                "europeiska institutioner",
+                "europa, europa.eu",
+                "eu"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Европейски стандарти</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Спазване на европейските стандарти</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_bg.htm\">                                              <span>Маркировка „CE“</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_bg.htm\">                                              <span>Класифициране, етикетиране и опаковане на химични вещества</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_bg.htm\">                                              <span>Регистриране на химични вещества — Регламентът REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_bg.htm\">                                              <span>Взаимно признаване на стандарти в ЕС</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_bg.htm\">                                              <span>Стандартизация в Европа</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "cs": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Evropské normy</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Dodržování evropských norem</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_cs.htm\">                                              <span>Označení CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_cs.htm\">                                              <span>Klasifikace chemických látek, označování a balení výrobků</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_cs.htm\">                                              <span>Registrace chemických látek – nařízení REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_cs.htm\">                                              <span>Vzájemné uznávání norem EU</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_cs.htm\">                                              <span>Standardizace v Evropě</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "da": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Europæiske standarder</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Overholdelse af europæiske standarder</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_da.htm\">                                              <span>CE-mærkning</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_da.htm\">                                              <span>Kemisk klassificering, mærkning og emballering</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_da.htm\">                                              <span>Registrering af kemikalier – REACH-forordningen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_da.htm\">                                              <span>Gensidig anerkendelse af EU-standarder</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_da.htm\">                                              <span>Standardisering i Europa</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "de": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Europäische Normen</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Einhaltung europäischer Normen</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_de.htm\">                                              <span>CE-Kennzeichnung</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_de.htm\">                                              <span>Einstufung, Kennzeichnung und Verpackung chemischer Stoffe</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_de.htm\">                                              <span>Registrierung chemischer Stoffe – REACH-Verordnung</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_de.htm\">                                              <span>Gegenseitige Anerkennung von EU-Normen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_de.htm\">                                              <span>Normung in Europa</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "el": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Ευρωπαϊκά πρότυπα</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Συμμόρφωση με τα ευρωπαϊκά πρότυπα</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_el.htm\">                                              <span>Σήμανση CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_el.htm\">                                              <span>Ταξινόμηση, επισήμανση και συσκευασία χημικών προϊόντων</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_el.htm\">                                              <span>Καταχώριση χημικών ουσιών — Κανονισμός REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_el.htm\">                                              <span>Αμοιβαία αναγνώριση των προτύπων της ΕΕ</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_el.htm\">                                              <span>Η τυποποίηση στην Ευρώπη</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "en": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">European standards</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Complying with European standards</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_en.htm\">                                              <span>CE marking</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_en.htm\">                                              <span>Chemical classification, labelling &amp; packaging</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_en.htm\">                                              <span>Registering chemicals – REACH regulation</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_en.htm\">                                              <span>Mutual recognition of EU standards</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_en.htm\">                                              <span>Standardisation in the EU</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "es": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Normas europeas</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Cumplir las normas europeas</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_es.htm\">                                              <span>Marcado CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_es.htm\">                                              <span>Clasificación, etiquetado y envasado de productos químicos</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_es.htm\">                                              <span>Registro de productos químicos: Reglamento REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_es.htm\">                                              <span>Reconocimiento mutuo de las normas de la UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_es.htm\">                                              <span>La normalización en Europa</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "et": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Euroopa standardid</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Vastavus Euroopa standarditele</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_et.htm\">                                              <span>CE-märgis</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_et.htm\">                                              <span>Kemikaalide klassifitseerimine, märgistamine ja pakendamine</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_et.htm\">                                              <span>Kemikaalide registreerimine – määrus REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_et.htm\">                                              <span>ELi standardite vastastikune tunnustamine</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_et.htm\">                                              <span>Standardimine Euroopas</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fi": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Eurooppalaiset standardit</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Eurooppalaisten standardien noudattaminen</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_fi.htm\">                                              <span>CE-merkintä</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_fi.htm\">                                              <span>Kemikaalien luokittelu, merkinnät ja pakkaaminen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_fi.htm\">                                              <span>Kemikaalien rekisteröinti – REACH-asetus</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_fi.htm\">                                              <span>EU-standardien vastavuoroinen tunnustaminen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_fi.htm\">                                              <span>Standardointi Euroopassa</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Normes européennes</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Respecter les normes européennes</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_fr.htm\">                                              <span>Marquage CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_fr.htm\">                                              <span>Classification, étiquetage et emballage des produits chimiques</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_fr.htm\">                                              <span>Enregistrement des substances chimiques – Règlement REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_fr.htm\">                                              <span>Reconnaissance mutuelle des normes de l'UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_fr.htm\">                                              <span>La normalisation en Europe</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ga": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Caighdeáin Eorpacha</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Na caighdeáin Eorpacha a chomhlíonadh</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_ga.htm\">                                              <span>Comhartha CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_ga.htm\">                                              <span>Ceimiceáin a aicmiú, a lipéadú agus a phacáistiú</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_ga.htm\">                                              <span>Ceimiceáin a chlárú – Rialachán REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_ga.htm\">                                              <span>Caighdeáin an Aontais Eorpaigh a aithint go frithpháirteach</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_ga.htm\">                                              <span>Caighdeánú san Aontas Eorpach</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Europske norme</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Pridržavanje europskih normi</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_hr.htm\">                                              <span>Oznaka CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_hr.htm\">                                              <span>Razvrstavanje, označivanje i pakiranje kemikalija</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_hr.htm\">                                              <span>Registracija kemikalija – Uredba REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_hr.htm\">                                              <span>Uzajamno priznavanje normi EU-a</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_hr.htm\">                                              <span>Normizacija u Europi</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hu": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Európai szabványok</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Az európai szabványoknak való megfelelés</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_hu.htm\">                                              <span>CE-jelölés</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_hu.htm\">                                              <span>A vegyi anyagok osztályozása, címkézése és csomagolása</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_hu.htm\">                                              <span>A vegyi anyagok regisztrálása – REACH-rendelet</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_hu.htm\">                                              <span>Az uniós szabványok kölcsönös elismerése</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_hu.htm\">                                              <span>Szabványosítás Európában</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "it": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Norme europee</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Rispettare le norme europee</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_it.htm\">                                              <span>Marchio CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_it.htm\">                                              <span>Classificazione, etichettatura, imballaggio</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_it.htm\">                                              <span>Sostanze chimiche – regolamento REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_it.htm\">                                              <span>Riconoscimento reciproco delle norme</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_it.htm\">                                              <span>La normazione in Europa</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Europos standartai</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Europos standartų atitiktis</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_lt.htm\">                                              <span>CE ženklas</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_lt.htm\">                                              <span>Cheminių medžiagų klasifikavimas, ženklinimas ir pakuotės</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_lt.htm\">                                              <span>Cheminių medžiagų registravimas. REACH reglamentas</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_lt.htm\">                                              <span>Abipusis ES standartų pripažinimas</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_lt.htm\">                                              <span>Standartizacija Europoje</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Eiropas standarti</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Atbilstība ES standartiem</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_lv.htm\">                                              <span>CE zīme</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_lv.htm\">                                              <span>Klasificēšana, marķēšana, iepakošana</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_lv.htm\">                                              <span>Ķīmisko vielu reģistrēšana — regula REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_lv.htm\">                                              <span>ES standartu savstarpēja atzīšana</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_lv.htm\">                                              <span>Standartizācija Eiropā</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "mt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Standards Ewropej</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Konformità mal-istandards Ewropej</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_mt.htm\">                                              <span>Il-Marka CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_mt.htm\">                                              <span>Il-klassifikazzjoni, l-ippakkjar u t-tikkettar tas-sustanzi kimiċi</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_mt.htm\">                                              <span>Ir-reġistrazzjoni tas-sustanzi kimiċi – ir-regolament REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_mt.htm\">                                              <span>Ir-rikonoxximent reċiproku tal-istandards tal-UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_mt.htm\">                                              <span>L-istandardizzazzjoni fl-Ewropa</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "nl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Europese normen</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Waar moet u aan voldoen?</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_nl.htm\">                                              <span>CE-markering</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_nl.htm\">                                              <span>Indeling, etikettering en verpakking van chemicaliën</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_nl.htm\">                                              <span>Registratie van chemicaliën (REACH)</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_nl.htm\">                                              <span>Wederzijdse erkenning van EU-normen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_nl.htm\">                                              <span>Normalisatie in Europa</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Normy europejskie</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Zgodność ze zharmonizowanymi normami europejskimi</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_pl.htm\">                                              <span>Oznakowanie CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_pl.htm\">                                              <span>Klasyfikacja, oznakowanie i pakowanie substancji chemicznych</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_pl.htm\">                                              <span>Rejestracja substancji chemicznych – rozporządzenie REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_pl.htm\">                                              <span>Wzajemne uznawanie norm UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_pl.htm\">                                              <span>Normalizacja w Europie</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Normas europeias</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Cumprimento das normas europeias</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_pt.htm\">                                              <span>Marcação CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_pt.htm\">                                              <span>Classificação, rotulagem e embalagem dos produtos químicos</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_pt.htm\">                                              <span>Registo de substâncias químicas - Regulamento REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_pt.htm\">                                              <span>Reconhecimento mútuo de normas da UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_pt.htm\">                                              <span>A normalização na Europa</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ro": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Standarde europene</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Respectarea standardelor europene</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_ro.htm\">                                              <span>Marcajul CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_ro.htm\">                                              <span>Clasificarea, etichetarea și ambalarea produselor chimice</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_ro.htm\">                                              <span>Înregistrarea substanțelor chimice - Regulamentul REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_ro.htm\">                                              <span>Recunoaștere reciprocă</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_ro.htm\">                                              <span>Standardizarea în Europa</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sk": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Európske normy</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Dodržiavanie európskych noriem</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_sk.htm\">                                              <span>Označenie CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_sk.htm\">                                              <span>Chemická klasifikácia, označovanie a balenie</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_sk.htm\">                                              <span>Registrácia chemických látok – nariadenie REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_sk.htm\">                                              <span>Vzájomné uznávanie noriem EÚ</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_sk.htm\">                                              <span>Normalizácia v Európe</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Evropski standardi</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Izpolnjevanje evropskih standardov</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_sl.htm\">                                              <span>Oznaka CE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_sl.htm\">                                              <span>Klasifikacija, označevanje in pakiranje kemikalij</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_sl.htm\">                                              <span>Registracija kemikalij – uredba REACH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_sl.htm\">                                              <span>Vzajemno priznavanje standardov EU</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_sl.htm\">                                              <span>Standardizacija v Evropi</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Europeiska standarder</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Europeiska standarder</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/ce-mark/index_sv.htm\">                                              <span>CE-märkning</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-packaging-labelling-classification/index_sv.htm\">                                              <span>Kemikalier – klassificering, märkning och förpackning</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/chemicals-reach/index_sv.htm\">                                              <span>Registrera kemikalier – Reachförordningen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/technical-standards/index_sv.htm\">                                              <span>Ömsesidigt erkännande av EU-standarder</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/product/standardisation-in-europe/index_sv.htm\">                                              <span>Standardisering i Europa</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_5d09b5193452810a9af6f4d8647f00d5"
+            ]
+        }
+    }
+}

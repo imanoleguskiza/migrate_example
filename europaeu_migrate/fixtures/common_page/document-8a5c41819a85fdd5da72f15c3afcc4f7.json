@@ -1,0 +1,974 @@
+{
+    "_id": "8a5c41819a85fdd5da72f15c3afcc4f7",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/business/recruitment-staff-welfare/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Наемане на работа и благосъстояние на персонала"
+            ],
+            "cs": [
+                "Přijímání nových pracovníků a dobré pracovní podmínky"
+            ],
+            "da": [
+                "Ansættelse og personalevelfærd"
+            ],
+            "de": [
+                "Einstellung und Personalfürsorge"
+            ],
+            "el": [
+                "Πρόσληψη και κοινωνική προστασία του προσωπικού"
+            ],
+            "en": [
+                "Recruitment and staff welfare"
+            ],
+            "es": [
+                "Contratación y bienestar del personal"
+            ],
+            "et": [
+                "Värbamine ja töötajate heaolu"
+            ],
+            "fi": [
+                "Rekrytointi ja työhyvinvointi"
+            ],
+            "fr": [
+                "Recrutement et bien-être du personnel"
+            ],
+            "ga": [
+                "Earcaíocht agus leas foirne"
+            ],
+            "hr": [
+                "Zapošljavanje i skrb o osoblju"
+            ],
+            "hu": [
+                "Munkaerő-felvétel és a munkavállalók jóléte"
+            ],
+            "it": [
+                "Assunzioni e benessere del personale"
+            ],
+            "lt": [
+                "Įdarbinimas ir darbuotojų gerovė"
+            ],
+            "lv": [
+                "Darbā pieņemšana un darbinieku labklājība"
+            ],
+            "mt": [
+                "Reklutaġġ u benesseri tal-istaff"
+            ],
+            "nl": [
+                "Aanwerving en welzijn van personeel"
+            ],
+            "pl": [
+                "Zatrudnianie i sprawy socjalne pracowników"
+            ],
+            "pt": [
+                "Recrutamento e política de pessoal"
+            ],
+            "ro": [
+                "Angajare şi bunăstarea salariaţilor"
+            ],
+            "sk": [
+                "Nábor a sociálne istoty zamestnancov"
+            ],
+            "sl": [
+                "Zaposlovanje in delovno okolje"
+            ],
+            "sv": [
+                "Rekrytering och arbetsregler"
+            ]
+        },
+        "category": {
+            "und": [
+                "60623c7"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "/INDEX/HP/EN"
+            ],
+            "cs": [
+                "/INDEX/HP/EN"
+            ],
+            "da": [
+                "/INDEX/HP/EN"
+            ],
+            "de": [
+                "/INDEX/HP/EN"
+            ],
+            "el": [
+                "/INDEX/HP/EN"
+            ],
+            "en": [
+                "/INDEX/HP/EN"
+            ],
+            "es": [
+                "/INDEX/HP/EN"
+            ],
+            "et": [
+                "/INDEX/HP/EN"
+            ],
+            "fi": [
+                "/INDEX/HP/EN"
+            ],
+            "fr": [
+                "/INDEX/HP/EN"
+            ],
+            "ga": [
+                "/INDEX/HP/EN"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "/INDEX/HP/EN"
+            ],
+            "it": [
+                "/INDEX/HP/EN"
+            ],
+            "lt": [
+                "/INDEX/HP/EN"
+            ],
+            "lv": [
+                "/INDEX/HP/EN"
+            ],
+            "mt": [
+                "/INDEX/HP/EN"
+            ],
+            "nl": [
+                "/INDEX/HP/EN"
+            ],
+            "pl": [
+                "/INDEX/HP/EN"
+            ],
+            "pt": [
+                "/INDEX/HP/EN"
+            ],
+            "ro": [
+                "/INDEX/HP/EN"
+            ],
+            "sk": [
+                "/INDEX/HP/EN"
+            ],
+            "sl": [
+                "/INDEX/HP/EN"
+            ],
+            "sv": [
+                "/INDEX/HP/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM-C02"
+            ],
+            "cs": [
+                "COMM/COMM-C02"
+            ],
+            "da": [
+                "COMM/COMM-C02"
+            ],
+            "de": [
+                "COMM/COMM-C02"
+            ],
+            "el": [
+                "COMM/COMM-C02"
+            ],
+            "en": [
+                "COMM/COMM/A5"
+            ],
+            "es": [
+                "COMM/COMM-C02"
+            ],
+            "et": [
+                "COMM/COMM-C02"
+            ],
+            "fi": [
+                "COMM/COMM-C02"
+            ],
+            "fr": [
+                "COMM/COMM-C02"
+            ],
+            "ga": [
+                "COMM/COMM-C02"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "COMM/COMM-C02"
+            ],
+            "it": [
+                "COMM/COMM-C02"
+            ],
+            "lt": [
+                "COMM/COMM-C02"
+            ],
+            "lv": [
+                "COMM/COMM-C02"
+            ],
+            "mt": [
+                "COMM/COMM-C02"
+            ],
+            "nl": [
+                "COMM/COMM-C02"
+            ],
+            "pl": [
+                "COMM/COMM-C02"
+            ],
+            "pt": [
+                "COMM/COMM-C02"
+            ],
+            "ro": [
+                "COMM/COMM-C02"
+            ],
+            "sk": [
+                "COMM/COMM-C02"
+            ],
+            "sl": [
+                "COMM/COMM-C02"
+            ],
+            "sv": [
+                "COMM/COMM-C02"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Намерете информация за временните ограничения върху достъпа до пазара на труда и потърсете работа чрез базата данни EURES"
+            ],
+            "cs": [
+                "Informace o dočasných omezeních v oblasti zaměstnanosti, pracovní příležitosti v databázi EURES"
+            ],
+            "da": [
+                "Find information om midlertidige ansættelsesrestriktioner og søg efter job i EURES-databasen"
+            ],
+            "de": [
+                "Informationen über vorübergehende Beschäftigungsbeschränkungen und die EU-weite Arbeitssuche über die EURES-Datenbank"
+            ],
+            "el": [
+                "Βρείτε πληροφορίες για τους προσωρινούς περιορισμούς στην απασχόληση και αναζητήστε εργασία μέσω της βάσης δεδομένων EURES"
+            ],
+            "en": [
+                "Find information on temporary employment restrictions and look for jobs through the EURES database"
+            ],
+            "es": [
+                "Información sobre restricciones temporales al empleo y ofertas de empleo en la base de datos EURES"
+            ],
+            "et": [
+                "Leidke teavet ajutiste tööhõivepiirangute kohta ning otsige töökohti EURESe andmebaasi vahendusel"
+            ],
+            "fi": [
+                "Tietoa työntekoa koskevista väliaikaisista rajoituksista ja linkki Eures-työnhakutietokantaan"
+            ],
+            "fr": [
+                "Trouver des informations sur les restrictions temporaires en matière d'emploi et utiliser la base de données EURES pour chercher un emploi"
+            ],
+            "ga": [
+                "Faigh eolas ar shrianta sealadacha fostaíochta agus aimsigh poist i mbunachar sonraí EURES  "
+            ],
+            "hr": [
+                "Pronađite informacije o privremenim ograničenjima zapošljavanja i potražite posao uz pomoć baze podataka EURES"
+            ],
+            "hu": [
+                "Tudnivalók a munkavállalásra vonatkozó átmeneti korlátozásokról és online állásajánlatok az EURES adatbázisában"
+            ],
+            "it": [
+                "Informazioni sulle restrizioni temporanee per i lavoratori e ricerca di un lavoro attraverso la banca dati EURES"
+            ],
+            "lt": [
+                "Sužinokite apie laikinus įsidarbinimo apribojimus ir ieškokite darbo naudodamiesi duomenų baze EURES"
+            ],
+            "lv": [
+                "Ziņas par īslaicīgiem darba ierobežojumiem un darba piedāvājumi “EURES” datubāzē."
+            ],
+            "mt": [
+                "Sib tagħrif dwar restrizzjonijiet tal-impjieg temporanju u fittex għax-xogħol peremzz tal-bażi tad-dejta EURES"
+            ],
+            "nl": [
+                "Informatie zoeken over tijdelijke arbeidsbeperkingen en EURES, de Europese vacaturebank, raadplegen"
+            ],
+            "pl": [
+                "Tymczasowe ograniczenia w dostępie do zatrudnienia i szukanie pracy za pośrednictwem bazy danych EURES"
+            ],
+            "pt": [
+                "Informações sobre restrições temporárias no mercado de trabalho e sobre como procurar emprego na base de dados EURES"
+            ],
+            "ro": [
+                "Găsiţi informaţii despre restricţiile temporare privind accesul pe piaţa muncii şi căutaţi locuri de muncă în baza de date EURES"
+            ],
+            "sk": [
+                "Informácie o dočasných pracovných obmedzeniach a ponuka voľných pracovných miest v databáze EURES"
+            ],
+            "sl": [
+                "Informacije o začasnih omejitvah zaposlovanja v EU in iskanju zaposlitve v podatkovni zbirki EURES"
+            ],
+            "sv": [
+                "Information om platsförmedling via Eures-portalen och tillfälliga anställningsbegränsningar"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "наемане на работа, назнача",
+                "благосъстояние на персона",
+                "работни места",
+                "временни ограничения",
+                "EURES",
+                "работодатели",
+                "заетост",
+                "търсещи работа",
+                "равно третиране",
+                "европейски институции",
+                "EUROPA",
+                "ЕС"
+            ],
+            "cs": [
+                "nábor",
+                "zajišťování dobrých pracovních podmínek",
+                "pracovní místa, práce",
+                "dočasná omezení",
+                "EURES",
+                "zaměstnavatelé",
+                "zaměstnanost",
+                "uchazeči o zaměstnání",
+                "rovné zacházení",
+                "evropské orgány a instituce",
+                "EUROPA",
+                "EU"
+            ],
+            "da": [
+                "ansættelse",
+                "personalevelfærd",
+                "job",
+                "midlertidige restriktioner",
+                "EURES, jobportal",
+                "arbejdsgivere",
+                "beskæftigelse",
+                "jobsøgende",
+                "ligebehandling",
+                "EU-institutioner",
+                "EUROPA",
+                "EU"
+            ],
+            "de": [
+                "Einstellung",
+                "Personalfürsorge",
+                "Arbeitsplätze, Jobs",
+                "vorübergehende Beschränkungen, Übergangsbesti",
+                "EURES",
+                "Arbeitgeber",
+                "Beschäftigung",
+                "Arbeitssuchende",
+                "Gleichbehandlung",
+                "europäische Institutionen",
+                "EUROPA",
+                "EU"
+            ],
+            "el": [
+                "προσλήψεις",
+                "κοινωνική προστασία του π",
+                "θέσεις εργασίας",
+                "προσωρινούς περιορισμούς",
+                "EURES",
+                "εργοδότες",
+                "απασχόληση",
+                "ζητούντες εργασία, αναζητ",
+                "ίση μεταχείριση",
+                "ευρωπαϊκά θεσμικά όργανα",
+                "EUROPA",
+                "ΕΕ"
+            ],
+            "en": [
+                "recruitment",
+                "staff welfare",
+                "jobs",
+                "temporary restrictions",
+                "EURES",
+                "employers",
+                "employment",
+                "jobseekers",
+                "equal treatment",
+                "European institutions",
+                "EUROPA",
+                "EU"
+            ],
+            "es": [
+                "contratación",
+                "bienestar del personal",
+                "empleo, puestos de trabajo",
+                "restricciones temporales",
+                "EURES",
+                "empresarios",
+                "empleo",
+                "demandantes de empleo",
+                "igualdad de trato",
+                "instituciones europeas",
+                "EUROPA",
+                "UE"
+            ],
+            "et": [
+                "värbamine",
+                "töötajate heaolu",
+                "töökohad",
+                "ajutised piirangud",
+                "EURES",
+                "tööandjad",
+                "tööhõive",
+                "tööotsijad",
+                "võrdne kohtlemine",
+                "Euroopa Liidu institutsioonid",
+                "EUROPA",
+                "EL"
+            ],
+            "fi": [
+                "rekrytointi",
+                "henkilöstön hyvinvointi, työhyvinvointi",
+                "työpaikat",
+                "tilapäiset rajoitukset, väliaikaiset rajoituks",
+                "EURES-työnvälitysverkosto",
+                "työnantajat",
+                "työllisyys",
+                "työnhakijat",
+                "yhtäläinen kohtelu, tasa-arvo",
+                "EU:n toimielimet",
+                "EUROPA",
+                "EU"
+            ],
+            "fr": [
+                "recrutement",
+                "Bien-être du personnel",
+                "emplois",
+                "restrictions temporaires",
+                "EURES, portail européen sur la mobilité de l'e",
+                "employeurs",
+                "emploi",
+                "demandeurs d'emploi, chômeurs",
+                "égalité de traitement",
+                "institutions européennes",
+                "EUROPA",
+                "UE"
+            ],
+            "ga": [
+                "earcú",
+                "leas foirne",
+                "poist",
+                "srianta sealadacha",
+                "EURES",
+                "fostóirí",
+                "fostaíocht",
+                "cuardaitheoirí poist",
+                "cóir chothrom",
+                "Institiúidí Eorpacha",
+                "EUROPA",
+                "AE"
+            ],
+            "hr": [
+                "zapošljavanje",
+                "skrb o osoblju",
+                "poslovi",
+                "privremena ograničenja",
+                "EURES",
+                "poslodavci",
+                "zaposlenje",
+                "tražitelji zaposlenja",
+                "jednako postupanje",
+                "europske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "hu": [
+                "személyzeti felvétel",
+                "a munkavállalók jóléte",
+                "munkahelyek, állások",
+                "ideiglenes korlátozások, átmeneti korlátozá",
+                "EURES, Európai Foglalkoztatási Szolgálat",
+                "foglalkoztatók, munkáltatók",
+                "foglalkoztatás",
+                "munkakeresők, álláskeresők",
+                "egyenlő elbánás, egyenlő bánásmód",
+                "európai intézmények, uniós intézmények",
+                "EUROPA",
+                "EU"
+            ],
+            "it": [
+                "assunzioni",
+                "benessere del personale",
+                "mercato del lavoro, posti di lavoro",
+                "restrizioni temporanee",
+                "EURES",
+                "domanda di lavoro, datori di lavoro",
+                "occupazione",
+                "offerta di lavoro, persone alla ricerca di un la",
+                "parità di trattamento",
+                "istituzioni europee",
+                "EUROPA",
+                "UE"
+            ],
+            "lt": [
+                "įdarbinimas, personalo atranka",
+                "darbuotojų gerovė",
+                "darbo vietos",
+                "laikini apribojimai",
+                "EURES",
+                "darbdaviai",
+                "užimtumas",
+                "darbo ieškantys asmenys",
+                "vienodų sąlygų taikymas",
+                "Europos institucijos",
+                "EUROPA",
+                "ES"
+            ],
+            "lv": [
+                "darbā pieņemšana",
+                "personāla labklājība",
+                "darbavietas",
+                "īslaicīgi ierobežojumi",
+                "EURES",
+                "darba devēji",
+                "nodarbinātība, darbs",
+                "darba meklētāji",
+                "vienāda attieksme",
+                "Eiropas Savienības iestādes, institūcijas",
+                "Portāls “EUROPA”",
+                "ES"
+            ],
+            "mt": [
+                "reklutaġġ",
+                "benesseri tal-istaff",
+                "impjiegi",
+                "restrizzjonijiet temporanji",
+                "EURES",
+                "min iħaddem",
+                "impjieg",
+                "persuni li qed ifittxu x-xogħol",
+                "trattament ugwali",
+                "Istituzzjonijiet Ewropej",
+                "Fittex fuq EUROPA",
+                "UE"
+            ],
+            "nl": [
+                "aanwerving, werving",
+                "arbeidsomstandigheden",
+                "banen",
+                "tijdelijke beperkingen",
+                "EURES",
+                "werkgevers",
+                "werkgelegenheid",
+                "werkzoekenden",
+                "gelijke behandeling",
+                "Europese instellingen",
+                "EUROPA",
+                "EU"
+            ],
+            "pl": [
+                "rekrutacja",
+                "nabór",
+                "sprawy socjalne",
+                "miejsca pracy",
+                "tymczasowe ograniczenia",
+                "EURES",
+                "pracodawcy",
+                "zatrudnienie",
+                "kandydaci",
+                "równe traktowanie",
+                "instytucje europejskie",
+                "EUROPA",
+                "UE"
+            ],
+            "pt": [
+                "recrutamento",
+                "política de pessoal",
+                "empregos, postos de trabalho",
+                "restrições temporárias",
+                "eures",
+                "entidades patronais; empregadores",
+                "emprego",
+                "candidatos a emprego",
+                "igualdade de tratamento",
+                "instituições europeias",
+                "europa",
+                "ue"
+            ],
+            "ro": [
+                "angajare, recrutare",
+                "bunăstarea salariaţilor",
+                "slujbe, posturi, locuri de muncă",
+                "restricţii temporare",
+                "EURES",
+                "angajatori",
+                "ocuparea forţei de muncă",
+                "persoane aflate în căutarea unui loc de muncă",
+                "tratament egal",
+                "instituţii europene",
+                "EUROPA",
+                "UE"
+            ],
+            "sk": [
+                "nábor",
+                "podmienky zamestnancov",
+                "pracovné miesta",
+                "dočasné obmedzenia",
+                "EURES",
+                "zamestnávatelia",
+                "zamestnanosť",
+                "uchádzači o zamestnanie",
+                "rovnaké zaobchádzanie",
+                "Európske inštitúcie",
+                "EUROPA",
+                "EÚ"
+            ],
+            "sl": [
+                "zaposlovanje",
+                "socialne pravice zaposlenih",
+                "delovna mesta",
+                "začasne omejitve",
+                "EURES",
+                "delodajalci",
+                "zaposlovanje",
+                "iskalci zaposlitve",
+                "enaka obravnava",
+                "evropske institucije",
+                "EUROPA",
+                "EU"
+            ],
+            "sv": [
+                "rekrytering",
+                "arbetsregler, arbetsmiljö",
+                "jobb",
+                "tillfälliga begränsningar",
+                "eures",
+                "arbetsgivare",
+                "anställning",
+                "arbetstagare",
+                "jämställdhet",
+                "europeiska institutioner",
+                "europa, europa.eu",
+                "eu"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Наемане на работа и благосъстояние на персонала</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Наемане на персонал</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_bg.htm\">                                              <span>Условия за наемане на работа</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/bg/homepage\">                                              <span>База данни за работни места EURES — за работодатели и търсещи работа</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Грижи за персонала</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_bg.htm\">                                              <span>Социална сигурност</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_bg.htm\">                                              <span>Командироване в чужбина</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_bg.htm\">                                              <span>Права и задължения на работодателите</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_bg.htm\">                                              <span>Колективни уволнения</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_bg.htm\">                                              <span>Здравословни и безопасни условия на труд</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "cs": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Přijímání nových pracovníků a dobré pracovní podmínky</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Přijímání nových pracovníků</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_cs.htm\">                                              <span>Podmínky zaměstnávání</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/cs/homepage\">                                              <span>Databáze pracovních příležitostí EURES – usnadňující kontakt zaměstnavatelů s uchazeči o práci z 31 zemí</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Péče o zaměstnance</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_cs.htm\">                                              <span>Sociální zabezpečení</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_cs.htm\">                                              <span>Vysílání pracovníků do zahraničí</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_cs.htm\">                                              <span>Práva a povinnosti zaměstnavatele</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_cs.htm\">                                              <span>Hromadné propouštění</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_cs.htm\">                                              <span>Bezpečnost a ochrana zdraví při práci</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "da": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Ansættelse og personalevelfærd</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Ansættelse af personale</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_da.htm\">                                              <span>Ansættelsesvilkår</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/da/homepage\">                                              <span>Databáze pracovních příležitostí EURES – pro zaměstnavatele i uchazeče o zaměstnání</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Plej dit personale</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_da.htm\">                                              <span>Socialsikring</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_da.htm\">                                              <span>Udstationering i udlandet</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_da.htm\">                                              <span>Arbejdsgiveres rettigheder og forpligtelser</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_da.htm\">                                              <span>Kollektive afskedigelser</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_da.htm\">                                              <span>Arbejdsmiljø</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "de": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Einstellung und Personalfürsorge</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Einstellung von Mitarbeitern</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_de.htm\">                                              <span>Beschäftigungsbedingungen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/de/homepage\">                                              <span>EURES-Jobdatenbank – für Arbeitgeber und Arbeitssuchende • Personalbetreuung</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Mitarbeiterbetreuung</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_de.htm\">                                              <span>Sozialversicherung</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_de.htm\">                                              <span>Entsendung ins Ausland</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_de.htm\">                                              <span>Rechte und Pflichten von Arbeitgebern</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_de.htm\">                                              <span>Massenentlassungen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_de.htm\">                                              <span>Sicherheit und Gesundheitsschutz am Arbeitsplatz</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "el": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Πρόσληψη και κοινωνική προστασία του προσωπικού</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Πρόσληψη υπαλλήλων</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_el.htm\">                                              <span>Όροι απασχόλησης</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/el/homepage\">                                              <span>Βάση δεδομένων EURES για θέσεις εργασίας – Εργοδότες και άτομα που αναζητούν εργασία</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Φροντίδα για το προσωπικό σας</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_el.htm\">                                              <span>Kοινωνική ασφάλιση</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_el.htm\">                                              <span>Απόσπαση στο εξωτερικό</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_el.htm\">                                              <span>Δικαιώματα και υποχρεώσεις εργοδοτών</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_el.htm\">                                              <span>Ομαδικές απολύσεις</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_el.htm\">                                              <span>Υγεία και ασφάλεια στην εργασία</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "en": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Recruitment and staff welfare</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Recruiting staff</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_en.htm\">                                              <span>Employment terms &amp; conditions</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/en/homepage\">                                              <span>EURES jobs database – for employers &amp; jobseekers</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Staff welfare</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_en.htm\">                                              <span>Social security</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_en.htm\">                                              <span>Employees working abroad</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_en.htm\">                                              <span>Employer's rights &amp; duties</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_en.htm\">                                              <span>Collective redundancies</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_en.htm\">                                              <span>Health &amp; safety at work</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "es": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Contratación y bienestar del personal</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Contratación de personal</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_es.htm\">                                              <span>Condiciones de empleo</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/es/homepage\">                                              <span>Base de datos EURES: ofertas y demandas de empleo</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">El bienestar de su personal</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_es.htm\">                                              <span>Seguridad social</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_es.htm\">                                              <span>Desplazamiento temporal de trabajadores</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_es.htm\">                                              <span>Derechos y deberes de los empresarios</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_es.htm\">                                              <span>Despidos colectivos</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_es.htm\">                                              <span>Salud y seguridad en el trabajo</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "et": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Värbamine ja töötajate heaolu</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Töötajate värbamine</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_et.htm\">                                              <span>Värbamistingimused</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/et/homepage\">                                              <span>EURESi töökohtade andmebaas tööandjatele ja tööotsijatele</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Hoolitsemine töötajate heaolu eest</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_et.htm\">                                              <span>Sotsiaalkindlustus</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_et.htm\">                                              <span>Lähetamine teise riiki</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_et.htm\">                                              <span>Tööandja õigused ja kohustused</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_et.htm\">                                              <span>Kollektiivsed koondamised</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_et.htm\">                                              <span>Töötervishoid ja -ohutus</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fi": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Rekrytointi ja työhyvinvointi</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Rekrytointi</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_fi.htm\">                                              <span>Työsuhteen ehdot</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/fi/homepage\">                                              <span>EURES-työpaikkatietokanta – Työnantajat ja työntekijät</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Työhyvinvointi</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_fi.htm\">                                              <span>Sosiaaliturva</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_fi.htm\">                                              <span>Ulkomaankomennukselle lähetetyt työntekijät</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_fi.htm\">                                              <span>Työnantajan oikeudet ja velvollisuudet</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_fi.htm\">                                              <span>Työntekijöiden joukkovähentäminen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_fi.htm\">                                              <span>Työterveys ja -turvallisuus</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Recrutement et bien-être du personnel</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Recruter du personnel</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_fr.htm\">                                              <span>Conditions d'emploi</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/fr/homepage\">                                              <span>Base de données d’offres d’emploi EURES, pour les demandeurs d’emploi et les employeurs</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Prendre soin de son personnel</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_fr.htm\">                                              <span>Sécurité sociale</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_fr.htm\">                                              <span>Détachement à l'étranger</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_fr.htm\">                                              <span>Droits et obligations de l'employeur</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_fr.htm\">                                              <span>Licenciements collectifs</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_fr.htm\">                                              <span>Sécurité et santé au travail</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ga": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Earcaíocht agus leas foirne</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Foireann a earcú</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_ga.htm\">                                              <span>Coinníollacha fostaíochta</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/ga/homepage\">                                              <span>Bunachar fostaíochta EURES – d'fhostóirí agus do chuardaitheoirí poist</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Aire a thabhairt don fhoireann</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_ga.htm\">                                              <span>Slándáil shóisialta</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_ga.htm\">                                              <span>Fostaithe atá ag obair ar an gcoigríoch</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_ga.htm\">                                              <span>Cearta agus dualgais an fhostóra</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_ga.htm\">                                              <span>Iomarcaíocht chomhchoiteann</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_ga.htm\">                                              <span>Sláinte agus sábháilteacht sa láthair oibre</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Zapošljavanje i skrb o osoblju</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Zapošljavanje osoblja</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_hr.htm\">                                              <span>Uvjeti zapošljavanja</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/hr/homepage\">                                              <span>Baza poslova EURES – za poslodavce i tražitelje posla</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Briga o osoblju</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_hr.htm\">                                              <span>Socijalno osiguranje</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_hr.htm\">                                              <span>Upućivanje radnika u inozemstvo</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_hr.htm\">                                              <span>Prava i obveze poslodavaca</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_hr.htm\">                                              <span>Kolektivno otpuštanje</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_hr.htm\">                                              <span>Zdravlje i sigurnost na radu</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hu": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Munkaerő-felvétel és a munkavállalók jóléte</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Munkaerő-felvétel</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_hu.htm\">                                              <span>Foglalkoztatási feltételek</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/hu/homepage\">                                              <span>EURES: az európai állások adatbázisa munkáltatóknak és álláskeresőknek</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Gondoskodás a munkavállalókról</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_hu.htm\">                                              <span>Szociális biztonság</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_hu.htm\">                                              <span>Külföldi kiküldetés</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_hu.htm\">                                              <span>A munkáltatók jogai és kötelezettségei</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_hu.htm\">                                              <span>Csoportos létszámcsökkentés</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_hu.htm\">                                              <span>Munkahelyi egészség és biztonság</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "it": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Assunzioni e benessere del personale</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Assumere personale</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_it.htm\">                                              <span>Condizioni di lavoro</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/it/homepage\">                                              <span>Banca dati EURES – favorire l'incontro tra offerta e domanda di lavoro</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Occuparsi del benessere del personale</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_it.htm\">                                              <span>Sicurezza sociale</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_it.htm\">                                              <span>Distacco di lavoratori all'estero</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_it.htm\">                                              <span>Diritti e doveri dei datori di lavoro</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_it.htm\">                                              <span>Licenziamenti collettivi</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_it.htm\">                                              <span>Salute e sicurezza sul lavoro</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Įdarbinimas ir darbuotojų gerovė</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Įdarbinimas</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_lt.htm\">                                              <span>Darbo sąlygos</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/lt/homepage\">                                              <span>EURES darbo vietų duomenų bazė darbo ieškantiems asmenims ir darbdaviams</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Rūpinimasis darbuotojais</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_lt.htm\">                                              <span>Socialinė apsauga</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_lt.htm\">                                              <span>Darbuotojų komandiravimas į kitą valstybę</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_lt.htm\">                                              <span>Darbdavio teisės ir pareigoss</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_lt.htm\">                                              <span>Kolektyvinis atleidimas iš darbo</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_lt.htm\">                                              <span>Darbuotojų sveikata ir sauga</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Darbā pieņemšana un darbinieku labklājība</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Darbinieku pieņemšana darbā</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_lv.htm\">                                              <span>Darba līguma noteikumi</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/lv/homepage\">                                              <span>Darba piedāvājumu datubāze EURES — darba devējiem un darba meklētājiem</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Rūpes par darbiniekiem</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_lv.htm\">                                              <span>Sociālā aizsardzība</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_lv.htm\">                                              <span>Norīkojums darbā uz ārzemēm</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_lv.htm\">                                              <span>Darba devēja tiesības un pienākumi</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_lv.htm\">                                              <span>Kolektīvā atlaišana</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_lv.htm\">                                              <span>Veselības aizsardzība un drošība darbā</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "mt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Reklutaġġ u benesseri tal-istaff</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Reklutaġġ tal-istaff</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_mt.htm\">                                              <span>Termini ta’ impjieg</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/mt/homepage\">                                              <span>Il-bażi tad-dejta tal-impjiegi EURES – għal min iħaddem u għal dawk li qed ifittxu xogħol</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Tieħu ħsieb l-istaff tiegħek</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_mt.htm\">                                              <span>Is-sigurtà soċjali</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_mt.htm\">                                              <span>Kollokament f'pajjiż ieħor</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_mt.htm\">                                              <span>Id-drittijiet u d-dmirijiet ta' min iħaddem</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_mt.htm\">                                              <span>Is-sensji kollettivi</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_mt.htm\">                                              <span>Is-saħħa u s-sikurezza fuq il-post tax-xoghol</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "nl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Aanwerving en welzijn van personeel</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Aanwerving van personeel</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_nl.htm\">                                              <span>Arbeidsvoorwaarden</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/nl/homepage\">                                              <span>EURES-vacaturebank voor werkgevers en werkzoekenden</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Voor het welzijn van uw personeel zorgen</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_nl.htm\">                                              <span>Sociale zekerheid</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_nl.htm\">                                              <span>Detachering in het buitenland</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_nl.htm\">                                              <span>Rechten en plichten van werkgevers</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_nl.htm\">                                              <span>Collectief ontslag</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_nl.htm\">                                              <span>Gezondheid en veiligheid op het werk</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Zatrudnianie i sprawy socjalne pracowników</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Nabór pracowników</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_pl.htm\">                                              <span>Warunki zatrudnienia</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/pl/homepage\">                                              <span>Baza ofert pracy EURES – dla pracodawców i osób szukających pracy</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Dbanie o prawa pracowników</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_pl.htm\">                                              <span>Zabezpieczenie społeczne</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_pl.htm\">                                              <span>Oddelegowanie za granicę</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_pl.htm\">                                              <span>Prawa i obowiązki pracodawców</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_pl.htm\">                                              <span>Zwolnienia grupowe</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_pl.htm\">                                              <span>Bezpieczeństwo i higiena pracy</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Recrutamento e política de pessoal</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Recrutamento de pessoal</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_pt.htm\">                                              <span>Condições de trabalho</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/pt/homepage\">                                              <span>Base de dados de emprego EURES - para candidatos a emprego e empregadores</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Estar atento às necessidades do seu pessoal</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_pt.htm\">                                              <span>Segurança social</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_pt.htm\">                                              <span>Destacamentos no estrangeiro</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_pt.htm\">                                              <span>Direitos e deveres do empregador</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_pt.htm\">                                              <span>Despedimentos coletivos</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_pt.htm\">                                              <span>Saúde e segurança no trabalho</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ro": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Angajare şi bunăstarea salariaţilor</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Angajarea de personal</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_ro.htm\">                                              <span>Condiții aplicabile contractelor de muncă</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/ro/homepage\">                                              <span>Baza de date EURES - cereri și oferte de locuri de muncă</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Condiţii de muncă optime pentru angajaţii dumneavoastră</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_ro.htm\">                                              <span>Securitate socială</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_ro.htm\">                                              <span>Detașarea în străinătate</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_ro.htm\">                                              <span>Drepturile și obligațiile angajatorilor</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_ro.htm\">                                              <span>Concedieri colective</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_ro.htm\">                                              <span>Sănătatea și siguranța la locul de muncă</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sk": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Nábor a sociálne istoty zamestnancov</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Prijímanie zamestnancov</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_sk.htm\">                                              <span>Pracovné podmienky</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/sk/homepage\">                                              <span>Databáza pracovných miest služby EURES – pre zamestnávateľov a uchádzačov o zamestnanie</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Starostlivosť o vašich zamestnancov</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_sk.htm\">                                              <span>Sociálne zabezpečenie</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_sk.htm\">                                              <span>Vyslanie do zahraničia</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_sk.htm\">                                              <span>Práva a povinnosti zamestnávateľov</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_sk.htm\">                                              <span>Hromadné prepúšťanie</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_sk.htm\">                                              <span>Zdravie a bezpečnosť na pracovisku</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Zaposlovanje in delovno okolje</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Zaposlovanje osebja</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_sl.htm\">                                              <span>Pogoji zaposlitve</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/sl/homepage\">                                              <span>Portal EURES – stičišče delodajalcev in iskalcev dela</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Skrb za zaposlene</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_sl.htm\">                                              <span>Socialna varnost</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_sl.htm\">                                              <span>Napotitev v tujino</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_sl.htm\">                                              <span>Pravice in obveznosti delodajalcev</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_sl.htm\">                                              <span>Kolektivno odpuščanje</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_sl.htm\">                                              <span>Zdravje in varnost pri delu</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Rekrytering och arbetsregler</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Rekrytering av personal</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/employment/index_sv.htm\">                                              <span>Anställningsformer</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"https://ec.europa.eu/eures/public/sv/homepage\">                                              <span>Euresportalen – för arbetsgivare och arbetssökande</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Personalvård</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/social-security/index_sv.htm\">                                              <span>Social trygghet</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/posting-abroad/index_sv.htm\">                                              <span>Utstationering</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/mobility-non-discrimination/index_sv.htm\">                                              <span>Arbetsgivarnas rättigheter och skyldigheter</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/redundancy/index_sv.htm\">                                              <span>Kollektiva uppsägningar</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/staff/health-safety/index_sv.htm\">                                              <span>Arbetsmiljö</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_8a5c41819a85fdd5da72f15c3afcc4f7"
+            ]
+        }
+    }
+}

@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e077038",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e077038",
+        "080126248e077038",
+        "080126248e077038",
+        "080126248e077038"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски полицейски колеж(СЕПОЛ)"
+      ],
+      "cs": [
+        "Evropská policejní akademie(CEPOL)"
+      ],
+      "da": [
+        "Det Europæiske Politiakademi(CEPOL)"
+      ],
+      "de": [
+        "Europäische Polizeiakademie(CEPOL)"
+      ],
+      "el": [
+        "Eυρωπαϊκή Αστυνομική Ακαδημία(CEPOL)"
+      ],
+      "en": [
+        "European Police College(CEPOL)"
+      ],
+      "es": [
+        "Escuela Europea de Policía(CEPOL)"
+      ],
+      "et": [
+        "Euroopa Politseikolledž(CEPOL)"
+      ],
+      "fi": [
+        "Euroopan poliisiakatemia(CEPOL)"
+      ],
+      "fr": [
+        "Collège européen de police(CEPOL)"
+      ],
+      "ga": [
+        "Coláiste Póilíneachta na hEorpa(CEPOL)"
+      ],
+      "hr": [
+        "Europska visoka policijska škola(CEPOL)"
+      ],
+      "hu": [
+        "Európai Rendőrakadémia(CEPOL)"
+      ],
+      "it": [
+        "Accademia europea di polizia(CEPOL)"
+      ],
+      "lt": [
+        "Europos policijos koledžas(CEPOL)"
+      ],
+      "lv": [
+        "Eiropas Policijas akadēmija(CEPOL)"
+      ],
+      "mt": [
+        "il-Kulleġġ Ewropew tal-Pulizija(CEPOL)"
+      ],
+      "nl": [
+        "Europese Politieacademie(CEPOL)"
+      ],
+      "pl": [
+        "Europejskie Kolegium Policyjne(CEPOL)"
+      ],
+      "pt": [
+        "Academia Europeia de Polícia(CEPOL)"
+      ],
+      "ro": [
+        "Colegiul European de Poliţie(CEPOL)"
+      ],
+      "sk": [
+        "Európska policajná akadémia(CEPOL)"
+      ],
+      "sl": [
+        "Evropska policijska akademija(CEPOL)"
+      ],
+      "sv": [
+        "Europeiska polisakademin(CEPOL)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/cepol-logo.gif"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p><span>European Police College</span><br /><span>1903 Budapest</span><br /><span>Pf.314</span><br /><span>Hungary</span></p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+36 1 803 8030/8031"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+36 1 803 8032"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:info@cepol.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact CEPOL"
+      ]
+    }
+  }
+}

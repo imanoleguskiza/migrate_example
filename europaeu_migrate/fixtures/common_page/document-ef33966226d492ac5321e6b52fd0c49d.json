@@ -1,0 +1,882 @@
+{
+    "_id": "ef33966226d492ac5321e6b52fd0c49d",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/business/vat-customs/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/business/vat-customs/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/business/vat-customs/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/business/vat-customs/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/business/vat-customs/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/business/vat-customs/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/business/vat-customs/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/business/vat-customs/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/business/vat-customs/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/business/vat-customs/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/business/vat-customs/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/business/vat-customs/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/business/vat-customs/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/business/vat-customs/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/business/vat-customs/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/business/vat-customs/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/business/vat-customs/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/business/vat-customs/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/business/vat-customs/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/business/vat-customs/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/business/vat-customs/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/business/vat-customs/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/business/vat-customs/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/business/vat-customs/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "ДДС и митници"
+            ],
+            "cs": [
+                "DPH a cla"
+            ],
+            "da": [
+                "Moms og toldafgifter"
+            ],
+            "de": [
+                "MwSt. und Zoll"
+            ],
+            "el": [
+                "ΦΠΑ & φόροι"
+            ],
+            "en": [
+                "VAT & customs"
+            ],
+            "es": [
+                "IVA y aduanas"
+            ],
+            "et": [
+                "Käibemaks ja toll"
+            ],
+            "fi": [
+                "ALV ja tulliasiat"
+            ],
+            "fr": [
+                "TVA et douanes"
+            ],
+            "ga": [
+                "Cáin bhreisluacha agus Custaim"
+            ],
+            "hr": [
+                "PDV i carina"
+            ],
+            "hu": [
+                "Héa, vámok"
+            ],
+            "it": [
+                "IVA e dogane"
+            ],
+            "lt": [
+                "PVM ir muitinė"
+            ],
+            "lv": [
+                "PVN un muita"
+            ],
+            "mt": [
+                "VAT u Dwani"
+            ],
+            "nl": [
+                "Btw en douane"
+            ],
+            "pl": [
+                "VAT i cła"
+            ],
+            "pt": [
+                "IVA e outros impostos"
+            ],
+            "ro": [
+                "TVA și drepturi vamale"
+            ],
+            "sk": [
+                "DPH a clá"
+            ],
+            "sl": [
+                "DDV in carina"
+            ],
+            "sv": [
+                "Moms och tullar"
+            ]
+        },
+        "category": {
+            "und": [
+                "60623c9"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "/INDEX/HP/EN"
+            ],
+            "cs": [
+                "/INDEX/HP/EN"
+            ],
+            "da": [
+                "/INDEX/HP/EN"
+            ],
+            "de": [
+                "/INDEX/HP/EN"
+            ],
+            "el": [
+                "/INDEX/HP/EN"
+            ],
+            "en": [
+                "/INDEX/HP/EN"
+            ],
+            "es": [
+                "/INDEX/HP/EN"
+            ],
+            "et": [
+                "/INDEX/HP/EN"
+            ],
+            "fi": [
+                "/INDEX/HP/EN"
+            ],
+            "fr": [
+                "/INDEX/HP/EN"
+            ],
+            "ga": [
+                "/INDEX/HP/EN"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "/INDEX/HP/EN"
+            ],
+            "it": [
+                "/INDEX/HP/EN"
+            ],
+            "lt": [
+                "/INDEX/HP/EN"
+            ],
+            "lv": [
+                "/INDEX/HP/EN"
+            ],
+            "mt": [
+                "/INDEX/HP/EN"
+            ],
+            "nl": [
+                "/INDEX/HP/EN"
+            ],
+            "pl": [
+                "/INDEX/HP/EN"
+            ],
+            "pt": [
+                "/INDEX/HP/EN"
+            ],
+            "ro": [
+                "/INDEX/HP/EN"
+            ],
+            "sk": [
+                "/INDEX/HP/EN"
+            ],
+            "sl": [
+                "/INDEX/HP/EN"
+            ],
+            "sv": [
+                "/INDEX/HP/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM-C02"
+            ],
+            "cs": [
+                "COMM/COMM-C02"
+            ],
+            "da": [
+                "COMM/COMM-C02"
+            ],
+            "de": [
+                "COMM/COMM-C02"
+            ],
+            "el": [
+                "COMM/COMM-C02"
+            ],
+            "en": [
+                "COMM/COMM/A5"
+            ],
+            "es": [
+                "COMM/COMM-C02"
+            ],
+            "et": [
+                "COMM/COMM-C02"
+            ],
+            "fi": [
+                "COMM/COMM-C02"
+            ],
+            "fr": [
+                "COMM/COMM-C02"
+            ],
+            "ga": [
+                "COMM/COMM-C02"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "COMM/COMM-C02"
+            ],
+            "it": [
+                "COMM/COMM-C02"
+            ],
+            "lt": [
+                "COMM/COMM-C02"
+            ],
+            "lv": [
+                "COMM/COMM-C02"
+            ],
+            "mt": [
+                "COMM/COMM-C02"
+            ],
+            "nl": [
+                "COMM/COMM-C02"
+            ],
+            "pl": [
+                "COMM/COMM-C02"
+            ],
+            "pt": [
+                "COMM/COMM-C02"
+            ],
+            "ro": [
+                "COMM/COMM-C02"
+            ],
+            "sk": [
+                "COMM/COMM-C02"
+            ],
+            "sl": [
+                "COMM/COMM-C02"
+            ],
+            "sv": [
+                "COMM/COMM-C02"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Проверете номер по ДДС и потърсете правила на ЕС и национални данъчни системи"
+            ],
+            "cs": [
+                "Ověřte si číslo DIČ a seznamte se s pravidly EU a vnitrostátními daňovými systémy"
+            ],
+            "da": [
+                "Tjek et momsnummer og søg efter EU-regler og nationale afgiftssystemer"
+            ],
+            "de": [
+                "Hier können Sie MwSt.-Nummern prüfen und mehr über EU-Vorschriften und die nationalen Steuersysteme erfahren"
+            ],
+            "el": [
+                "Ψάξτε έναν αριθμό ΦΠΑ και αναζητήστε κανόνες της ΕΕ και τα εθνικά συστήματα φορολόγησης"
+            ],
+            "en": [
+                "Check a VAT number and search for EU rules and national tax systems"
+            ],
+            "es": [
+                "Información sobre los números de IVA, la normativa europea y los sistemas impositivos nacionales"
+            ],
+            "et": [
+                "Uurige käibemaksukohustuslasena registreerimise numbreid ning tutvuge ELi eeskirjade ja liikmesriikide maksusüsteemidega"
+            ],
+            "fi": [
+                "Tarkista alv-numero ja hae tietoa EU-määräyksistä ja kansallisista verojärjestelmistä"
+            ],
+            "fr": [
+                "Vérifier un numéro de TVA et rechercher une réglementation européenne ou un régime fiscal national"
+            ],
+            "ga": [
+                "Seiceáil uimhir CBL nó cuardaigh rialacha an AE agus córais chánach náisiúnta "
+            ],
+            "hr": [
+                "Informacije o PDV broju, pravilima EU-a i nacionalnim poreznim sustavima"
+            ],
+            "hu": [
+                "Keresés héaszám szerint, valamint tallózás az uniós és a tagállami adószabályok között"
+            ],
+            "it": [
+                "Indicazioni per la verifica di una partita IVA e informazioni sulle norme europee e sui regimi fiscali nazionali"
+            ],
+            "lt": [
+                "Pasitikrinkite PVM kodą ir sužinokite apie ES taisykles bei nacionalines mokesčių sistemas"
+            ],
+            "lv": [
+                "Šeit var noskaidrot PVN reģistrācijas numuru un atrast ES noteikumus un ziņas par valstu nodokļu sistēmām."
+            ],
+            "mt": [
+                "Iċċekkja numru tal-VAT u fittex għar-regoli tal-UE u s-sistemi tat-taxxa nazzjonali"
+            ],
+            "nl": [
+                "U kunt btw-nummers controleren en EU-regels en nationale belastingvoorschriften opzoeken"
+            ],
+            "pl": [
+                "Sprawdź numer VAT oraz wyszukaj odpowiednie przepisy UE i informacje o krajowych systemach podatkowych"
+            ],
+            "pt": [
+                "Verifique a validade de um número IVA de outro país da UE e informe-se sobre as regras da UE e os sistemas fiscais nacionais"
+            ],
+            "ro": [
+                "Verificaţi un cod de înregistrare în scopuri de TVA şi consultaţi normele UE şi sistemele fiscale naţionale"
+            ],
+            "sk": [
+                "Preverte si daňové registračné číslo k DPH a oboznámte sa s pravidlami EÚ a vnútroštátnymi daňovými systémami"
+            ],
+            "sl": [
+                "Informacije o preverjanju številke DDV, predpisih EU in nacionalnih davčnih sistemih"
+            ],
+            "sv": [
+                "Kontrollera momsregistreringsnummer och informera dig om EU-regler och nationella skattesystem"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "номер по ДДС",
+                "данъци",
+                "правила на ЕС",
+                "нацинални данъчни системи",
+                "държави",
+                "Европейски съюз",
+                "EUROPA",
+                "ЕС"
+            ],
+            "cs": [
+                "DIČ",
+                "daně",
+                "pravidla EU",
+                "daňové systémy jednotlivých zemí",
+                "všechny země",
+                "Evropská unie",
+                "EUROPA",
+                "EU"
+            ],
+            "da": [
+                "Momsnummer",
+                "afgifter, skat",
+                "EU-regler",
+                "nationale afgiftssystemer",
+                "lande",
+                "Den Europæiske Union",
+                "EUROPA",
+                "EU"
+            ],
+            "de": [
+                "MwSt.-Nummer",
+                "Steuern",
+                "EU-Vorschriften",
+                "nationale Steuersysteme",
+                "Länder",
+                "Europäische Union",
+                "EUROPA",
+                "EU"
+            ],
+            "el": [
+                "Αριθμός ΦΠΑ",
+                "φόροι",
+                "κανόνες της ΕΕ",
+                "εθνικά συστήματα φορολόγη",
+                "χώρες",
+                "Ευρωπαϊκή Ένωση",
+                "EUROPA",
+                "ΕΕ"
+            ],
+            "en": [
+                "VAT number",
+                "taxes",
+                "EU rules",
+                "national tax systems",
+                "countries",
+                "European Union",
+                "EUROPA",
+                "EU"
+            ],
+            "es": [
+                "número de IVA",
+                "impuestos",
+                "normas de la UE",
+                "sistemas impositivos nacionales",
+                "países",
+                "Unión Europea",
+                "EUROPA",
+                "UE"
+            ],
+            "et": [
+                "käibemaksukohustuslasena registreerimise number",
+                "maksud",
+                "ELi eeskirjad",
+                "liikmesriikide maksusüsteemid",
+                "riigid",
+                "Euroopa Liit",
+                "EUROPA",
+                "EL"
+            ],
+            "fi": [
+                "Alv-numero",
+                "verot",
+                "EU-määräykset, EU-säännöt",
+                "kansalliset verojärjestelmät",
+                "maat",
+                "Euroopan unioni",
+                "EUROPA",
+                "EU"
+            ],
+            "fr": [
+                "Numéro de TVA",
+                "impôts, taxes",
+                "réglementation européenne",
+                "régimes fiscaux nationaux",
+                "pays",
+                "Union européenne",
+                "EUROPA",
+                "UE"
+            ],
+            "ga": [
+                "Uimhir CBL",
+                "cánacha",
+                "Rialacha an AE",
+                "córais chánach náisiúnta",
+                "tíortha",
+                "Aontas Eorpach",
+                "EUROPA",
+                "AE"
+            ],
+            "hr": [
+                "PDV broj",
+                "porezi",
+                "pravila EU-a",
+                "nacionalni porezni sustavi",
+                "zemlje",
+                "Europska unija",
+                "EUROPA",
+                "EU"
+            ],
+            "hu": [
+                "Héa-szám",
+                "adók",
+                "uniós szabályok",
+                "nemzeti adórendszerek",
+                "ország",
+                "Európai Unió",
+                "EUROPA",
+                "EU"
+            ],
+            "it": [
+                "partita IVA",
+                "imposte",
+                "norme europee",
+                "regimi fiscali nazionali",
+                "paesi",
+                "Unione europea",
+                "EUROPA",
+                "UE"
+            ],
+            "lt": [
+                "PVM mokėtojo kodas",
+                "mokesčiai",
+                "ES taisyklės",
+                "nacionalinės mokesčių sistemos",
+                "šalys",
+                "Europos Sąjunga",
+                "EUROPA",
+                "ES"
+            ],
+            "lv": [
+                "PVN reģistrācijas numurs",
+                "nodokļi",
+                "ES noteikumi",
+                "valstu nodokļu sistēmas",
+                "valstis",
+                "Eiropas Savienība",
+                "Portāls “EUROPA”",
+                "ES"
+            ],
+            "mt": [
+                "Numru tal-VAT",
+                "taxxi",
+                "regoli tal-UE",
+                "sistemi tat-taxxa nazzjonali",
+                "pajjiżi",
+                "Unjoni Ewropea",
+                "Fittex fuq EUROPA",
+                "UE"
+            ],
+            "nl": [
+                "Btw-nummer",
+                "belastingen",
+                "EU-voorschriften",
+                "nationale belastingstelsels",
+                "landen",
+                "Europese Unie",
+                "EUROPA",
+                "EU"
+            ],
+            "pl": [
+                "numer VAT",
+                "podatki",
+                "przepisy UE",
+                "krajowe systemy podatkowe",
+                "kraje",
+                "Unia Europejska",
+                "EUROPA",
+                "UE"
+            ],
+            "pt": [
+                "número iva",
+                "impostos",
+                "regras da ue",
+                "sistemas fiscais nacionais",
+                "países",
+                "união europeia",
+                "europa",
+                "ue"
+            ],
+            "ro": [
+                "Cod de identificare fiscală",
+                "impozite",
+                "norme europene",
+                "sisteme fiscale naţionale",
+                "ţări",
+                "Uniunea Europeană",
+                "EUROPA",
+                "UE"
+            ],
+            "sk": [
+                "DRČ, číslo DPH",
+                "dane",
+                "pravidlá EÚ",
+                "vnútroštátne systémy daní",
+                "krajiny",
+                "Európska únia",
+                "EUROPA",
+                "EÚ"
+            ],
+            "sl": [
+                "Številka DDV",
+                "davki",
+                "pravila EU",
+                "nacionalni davčni sistemi",
+                "države",
+                "Evropska unija",
+                "EUROPA",
+                "EU"
+            ],
+            "sv": [
+                "momsregistreringsnummer, vat-nummer",
+                "skatter",
+                "eu-regler",
+                "nationella skattesystem",
+                "eu-länder",
+                "europeiska unionen",
+                "europa, europa.eu",
+                "eu"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">ДДС и митници</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">ДДС и акцизи</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=bg\">                                              <span>Проверка на номер по ДДС в ЕС</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_bg.htm\">                                              <span>ДДС — основни правила</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_bg.htm\">                                              <span>Трансграничен ДДС</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_bg.htm\">                                              <span>Възстановяване на ДДС</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_bg.htm\">                                              <span>Акцизи</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_bg.htm\">                                              <span>Отчитане на внос/износ</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "cs": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">DPH a cla</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Základní informace</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=cs\">                                              <span>Ověřte si DIČ pro účely DPH přidělené v EU</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_cs.htm\">                                              <span>DPH − základní pravidla</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_cs.htm\">                                              <span>DPH v mezinárodním kontextu</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_cs.htm\">                                              <span>Vrácení DPH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_cs.htm\">                                              <span>Spotřební daně</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_cs.htm\">                                              <span>Vykazování dovozu a vývozu</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "da": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Moms og toldafgifter</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Moms og punktafgifter</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=da\">                                              <span>Kontrollér et momsregistreringsnummer</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_da.htm\">                                              <span>Moms – grundlæggende regler</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_da.htm\">                                              <span>Moms på tværs af grænserne</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_da.htm\">                                              <span>Momsrefusion</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_da.htm\">                                              <span>Punktafgifter</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_da.htm\">                                              <span>Angivelse af import/eksport</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "de": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">MwSt. und Zoll</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">MwSt. und Verbrauchsteuern</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=de\">                                              <span>Überprüfung einer EU-MwSt.-Nummer</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_de.htm\">                                              <span>Mehrwertsteuer – Grundregeln</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_de.htm\">                                              <span>Mehrwertsteuer im internationalen Geschäftsverkehr</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_de.htm\">                                              <span>Mehrwertsteuererstattung</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_de.htm\">                                              <span>Verbrauchsteuern</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_de.htm\">                                              <span>Meldung von Ein-/Ausfuhren</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "el": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">ΦΠΑ &amp; φόροι</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">ΦΠΑ &amp; ειδικοί φόροι κατανάλωσης</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=el\">                                              <span>Έλεγχος αριθμού ΦΠΑ της ΕΕ</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_el.htm\">                                              <span>Βασικοί κανόνες ΦΠΑ</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_el.htm\">                                              <span>Διασυνοριακός ΦΠΑ</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_el.htm\">                                              <span>Επιστροφές ΦΠΑ</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_el.htm\">                                              <span>Ειδικοί φόροι κατανάλωσης</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_el.htm\">                                              <span>Δήλωση εισαγωγών/εξαγωγών</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "en": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">VAT &amp; customs</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">VAT &amp; excise duties</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=en\">                                              <span>Check an EU VAT number</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_en.htm\">                                              <span>VAT – basic rules</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_en.htm\">                                              <span>Cross-border VAT</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_en.htm\">                                              <span>VAT refunds</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_en.htm\">                                              <span>Excise duties</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_en.htm\">                                              <span>Reporting import &amp; export flows</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "es": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">IVA y aduanas</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">IVA e impuestos sobre consumos específicos</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=es\">                                              <span>Comprobar un número de IVA de un país de la UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_es.htm\">                                              <span>IVA: normas básicas</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_es.htm\">                                              <span>IVA transfronterizo</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_es.htm\">                                              <span>Devoluciones del IVA</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_es.htm\">                                              <span>Impuestos especiales</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_es.htm\">                                              <span>Declaración de importaciones/exportaciones</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "et": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Käibemaks ja toll</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Käibemaks ja aktsiisimaksud</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=et\">                                              <span>Kontrollige ELis välja antud käibemaksukohustuslasena registreerimise numbrit</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_et.htm\">                                              <span>Käibemaks – põhieeskirjad</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_et.htm\">                                              <span>Piiriülene käibemaks</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_et.htm\">                                              <span>Käibemaksu tagastamine</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_et.htm\">                                              <span>Aktsiis</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_et.htm\">                                              <span>Impordi/ekspordi aruandlus</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fi": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">ALV ja tulliasiat</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Arvonlisävero ja valmisteverot</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=fi\">                                              <span>Tarkista EU-maassa rekisteröity alv-tunniste</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_fi.htm\">                                              <span>Arvonlisävero – Perustietoa</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_fi.htm\">                                              <span>Rajat ylittävät alv-asiat</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_fi.htm\">                                              <span>Alv-palautukset</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_fi.htm\">                                              <span>Valmisteverot</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_fi.htm\">                                              <span>Viennistä ja tuonnista ilmoittaminen</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">TVA et douanes</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">TVA et droits d'accises</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=fr\">                                              <span>Vérifier un numéro de TVA européen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_fr.htm\">                                              <span>TVA – Règles de base</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_fr.htm\">                                              <span>TVA transfrontalière</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_fr.htm\">                                              <span>Remboursements de TVA</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_fr.htm\">                                              <span>Droits d'accises</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_fr.htm\">                                              <span>Déclarer des importations/exportations</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ga": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Cáin bhreisluacha agus Custaim</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">CBL agus dleachtanna máil</h2>                                     <ul>                                        <li>                                           <span class=\"link-disabled\">                                              <span>Uimhir CBL san Aontas Eorpach a sheiceáil</span>                                           </span>                                           <span class=\"ws-popup ws-modal\">                                              <a class=\"ws-ico\" href=\"javascript:void(0)\"                                                 onclick=\"return webservice.popup(this,'')\"                                                 title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                                                 <img alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                                                      src=\"http://europa.eu/wel/images/languages/ws.gif\"                                                      height=\"13\"                                                      width=\"16\"/>                                                 <span class=\"s\"> </span>                                              </a>                                              <span class=\"ws-links\">                                                 <span class=\"ws-popup-layout\">                                                    <a hreflang=\"bg\" lang=\"bg\" title=\"български (bg)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=bg\">                                                       <span>български (</span>bg                           <span>)</span>                                                    </a>                                                    <a hreflang=\"cs\" lang=\"cs\" title=\"čeština (cs)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=cs\">                                                       <span>čeština (</span>cs                           <span>)</span>                                                    </a>                                                    <a hreflang=\"da\" lang=\"da\" title=\"dansk (da)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=da\">                                                       <span>dansk (</span>da                           <span>)</span>                                                    </a>                                                    <a hreflang=\"de\" lang=\"de\" title=\"Deutsch (de)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=de\">                                                       <span>Deutsch (</span>de                           <span>)</span>                                                    </a>                                                    <a hreflang=\"el\" lang=\"el\" title=\"ελληνικά (el)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=el\">                                                       <span>ελληνικά (</span>el                           <span>)</span>                                                    </a>                                                    <a hreflang=\"en\" lang=\"en\" title=\"English (en)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=en\">                                                       <span>English (</span>en                           <span>)</span>                                                    </a>                                                    <a hreflang=\"es\" lang=\"es\" title=\"español (es)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=es\">                                                       <span>español (</span>es                           <span>)</span>                                                    </a>                                                    <a hreflang=\"et\" lang=\"et\" title=\"eesti keel (et)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=et\">                                                       <span>eesti keel (</span>et                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fi\" lang=\"fi\" title=\"suomi (fi)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=fi\">                                                       <span>suomi (</span>fi                           <span>)</span>                                                    </a>                                                    <a hreflang=\"fr\" lang=\"fr\" title=\"français (fr)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=fr\">                                                       <span>français (</span>fr                           <span>)</span>                                                    </a>                                                    <a hreflang=\"hr\" lang=\"hr\" title=\"hrvatski (hr)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=hr\">                                                       <span>hrvatski (</span>hr                           <span>)</span>                                                    </a>                                                    <a hreflang=\"hu\" lang=\"hu\" title=\"magyar (hu)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=hu\">                                                       <span>magyar (</span>hu                           <span>)</span>                                                    </a>                                                    <a hreflang=\"it\" lang=\"it\" title=\"italiano (it)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=it\">                                                       <span>italiano (</span>it                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lt\" lang=\"lt\" title=\"lietuvių kalba (lt)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=lt\">                                                       <span>lietuvių kalba (</span>lt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"lv\" lang=\"lv\" title=\"latviešu valoda (lv)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=lv\">                                                       <span>latviešu valoda (</span>lv                           <span>)</span>                                                    </a>                                                    <a hreflang=\"mt\" lang=\"mt\" title=\"Malti (mt)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=mt\">                                                       <span>Malti (</span>mt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"nl\" lang=\"nl\" title=\"Nederlands (nl)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=nl\">                                                       <span>Nederlands (</span>nl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pl\" lang=\"pl\" title=\"polski (pl)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=pl\">                                                       <span>polski (</span>pl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"pt\" lang=\"pt\" title=\"português (pt)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=pt\">                                                       <span>português (</span>pt                           <span>)</span>                                                    </a>                                                    <a hreflang=\"ro\" lang=\"ro\" title=\"română (ro)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=ro\">                                                       <span>română (</span>ro                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sk\" lang=\"sk\" title=\"slovenčina (sk)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=sk\">                                                       <span>slovenčina (</span>sk                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sl\" lang=\"sl\" title=\"slovenščina (sl)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=sl\">                                                       <span>slovenščina (</span>sl                           <span>)</span>                                                    </a>                                                    <a hreflang=\"sv\" lang=\"sv\" title=\"svenska (sv)\"                                                       href=\"http://ec.europa.eu/taxation_customs/vies/?locale=sv\">                                                       <span>svenska (</span>sv                           <span>)</span>                                                    </a>                                                 </span>                                              </span>                                           </span>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_ga.htm\">                                              <span>CBL – bunrialacha</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_ga.htm\">                                              <span>CBL trasteorann</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_ga.htm\">                                              <span>Aisíocaíochtaí CBL</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_ga.htm\">                                              <span>Dleachtanna máil</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_ga.htm\">                                              <span>Sreafaí iompórtála agus easpórtála a thuairisciú</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">PDV i carina</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">PDV i trošarine</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=hr\">                                              <span>Provjerite PDV id. broj iz EU-a</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_hr.htm\">                                              <span>PDV – osnovna pravila</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_hr.htm\">                                              <span>Prekogranično plaćanje PDV-a</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_hr.htm\">                                              <span>Povrat PDV-a</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_hr.htm\">                                              <span>Trošarine</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_hr.htm\">                                              <span>Izvještavanje o uvozu/izvozu</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hu": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Héa, vámok</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Héa és jövedéki adó</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=hu\">                                              <span>A héaazonosító szám (uniós adószám) ellenőrzése</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_hu.htm\">                                              <span>Héa (áfa) – alapszabályok</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_hu.htm\">                                              <span>Héakötelezettség: több országot érintő ügyek</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_hu.htm\">                                              <span>Héa-visszatérítés</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_hu.htm\">                                              <span>Jövedéki adó</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_hu.htm\">                                              <span>Import/Export bejelentése</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "it": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">IVA e dogane</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">IVA e accise</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=it\">                                              <span>Verificare una partita IVA di un paese dell'UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_it.htm\">                                              <span>IVA − norme fondamentali</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_it.htm\">                                              <span>IVA transfrontaliera</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_it.htm\">                                              <span>Rimborsi IVA</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_it.htm\">                                              <span>Accise</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_it.htm\">                                              <span>Informazioni sulle importazioni/esportazioni</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">PVM ir muitinė</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Apie PVM ir akcizus</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=lt\">                                              <span>Patikrinkite ES PVM numerį</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_lt.htm\">                                              <span>Pagrindinės PVM taisyklės</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_lt.htm\">                                              <span>Tarpvalstybinis PVM</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_lt.htm\">                                              <span>PVM grąžinimas</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_lt.htm\">                                              <span>Akcizai</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_lt.htm\">                                              <span>Importo ir eksporto ataskaitos</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">PVN un muita</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">PVN un akcīzes nodokļi</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=lv\">                                              <span>PVN numura pārbaude ES</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_lv.htm\">                                              <span>Pamatnoteikumi par PVN</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_lv.htm\">                                              <span>PVN pārrobežu situācijās</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_lv.htm\">                                              <span>PVN atgūšana</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_lv.htm\">                                              <span>Akcīzes nodoklis</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_lv.htm\">                                              <span>Importa un eksporta paziņošana</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "mt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">VAT u Dwani</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">VAT u dazji tas-sisa</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=mt\">                                              <span>Iċċekkja numru tal-VAT tal-UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_mt.htm\">                                              <span>Il-VAT − regoli bażiċi</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_mt.htm\">                                              <span>VAT bejn il-fruntieri</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_mt.htm\">                                              <span>Rifużjonijiet tal-VAT</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_mt.htm\">                                              <span>Dazji tas-sisa</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_mt.htm\">                                              <span>Rapportar dwar l-importazzjonijiet/l-esportazzjonijiet</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "nl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Btw en douane</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">BTW en accijnzen</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=nl\">                                              <span>Een BTW-nummer uit een ander EU-land controleren</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_nl.htm\">                                              <span>BTW: algemene regels</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_nl.htm\">                                              <span>Btw bij verkoop en inkoop in het buitenland</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_nl.htm\">                                              <span>BTW-teruggave</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_nl.htm\">                                              <span>Accijnzen</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_nl.htm\">                                              <span>Invoer/uitvoer aangeven</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">VAT i cła</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">VAT i akcyza</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=pl\">                                              <span>Sprawdź numer VAT wydany przez państwo członkowskie UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_pl.htm\">                                              <span>Podstawowe zasady dotyczące VAT-u</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_pl.htm\">                                              <span>VAT w transakcjach międzynarodowych</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_pl.htm\">                                              <span>Zwrot VAT-u</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_pl.htm\">                                              <span>Akcyza</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_pl.htm\">                                              <span>Zgłaszanie importu i eksportu</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">IVA e outros impostos</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">IVA e impostos especiais de consumo</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=pt\">                                              <span>Verificar um número de IVA</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_pt.htm\">                                              <span>Regras gerais em matéria de IVA</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_pt.htm\">                                              <span>O IVA nas transações transfronteiras</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_pt.htm\">                                              <span>Reembolsos do IVA</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_pt.htm\">                                              <span>Impostos especiais de consumo</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_pt.htm\">                                              <span>Comunicação de importações/exportações</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ro": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">TVA și drepturi vamale</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">TVA și accize</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=ro\">                                              <span>Verificați un număr de înregistrare pentru TVA din UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_ro.htm\">                                              <span>TVA - reguli de bază</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_ro.htm\">                                              <span>TVA transfrontalier</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_ro.htm\">                                              <span>Rambursările de TVA</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_ro.htm\">                                              <span>Accize</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_ro.htm\">                                              <span>Declararea importurilor/exporturilor</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sk": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">DPH a clá</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">DPH a spotrebné dane</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=sk\">                                              <span>Skontrolujte si identifikačné číslo pre DPH (IČ DPH) pridelené v EÚ</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_sk.htm\">                                              <span>DPH – základné pravidlá</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_sk.htm\">                                              <span>Cezhraničná DPH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_sk.htm\">                                              <span>Vrátenie DPH</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_sk.htm\">                                              <span>Spotrebné dane</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_sk.htm\">                                              <span>Nahlasovanie dovozov a vývozov</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">DDV in carina</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Splošno</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=sl\">                                              <span>Preverite številko DDV iz EU</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_sl.htm\">                                              <span>DDV – osnovna pravila</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_sl.htm\">                                              <span>DDV pri čezmejnem poslovanju</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_sl.htm\">                                              <span>Vračilo DDV</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_sl.htm\">                                              <span>Trošarine</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_sl.htm\">                                              <span>Poročanje o uvozu/izvozu</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Moms och tullar</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Moms och punktskatt</h2>                                     <ul>                                        <li>                                           <a href=\"http://ec.europa.eu/taxation_customs/vies/?locale=sv\">                                              <span>Kontrollera momsregistreringsnummer i EU</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/buy-sell/index_sv.htm\">                                              <span>Moms – grundregler</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/cross-border/index_sv.htm\">                                              <span>Moms vid handel med andra länder</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/refund/index_sv.htm\">                                              <span>Återbetalning av moms</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/excise-duty/index_sv.htm\">                                              <span>Punktskatter</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/vat-customs/report-imports-exports/index_sv.htm\">                                              <span>Statistik - import- och exportrapportering</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_ef33966226d492ac5321e6b52fd0c49d"
+            ]
+        },
+        "download_item": {
+            "und": [
+                "download_item_ef33966226d492ac5321e6b52fd0c49d"
+            ]
+        }
+    }
+}

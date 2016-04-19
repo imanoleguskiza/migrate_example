@@ -1,0 +1,423 @@
+{
+  "_id": "0801262489d5cb42",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-06-03 14:44:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        13
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/justice/thumb_border_en.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Граници и сигурност "
+      ],
+      "cs": [
+        "Hranice a bezpečnost"
+      ],
+      "da": [
+        "Grænser og sikkerhed "
+      ],
+      "de": [
+        "Grenzen und Sicherheit"
+      ],
+      "el": [
+        "Σύνορα και ασφάλεια "
+      ],
+      "en": [
+        "Borders and security"
+      ],
+      "es": [
+        "Fronteras y seguridad "
+      ],
+      "et": [
+        "Piirid ja julgeolek "
+      ],
+      "fi": [
+        "Rajavalvonta ja turvallisuus"
+      ],
+      "fr": [
+        "Frontières et sécurité"
+      ],
+      "ga": [
+        "Teorainneacha agus slándáil "
+      ],
+      "hr": [
+        "Granice i sigurnost"
+      ],
+      "hu": [
+        "Határok és biztonság "
+      ],
+      "it": [
+        "Frontiere e sicurezza"
+      ],
+      "lt": [
+        "Sienos ir saugumas "
+      ],
+      "lv": [
+        "Robežas un drošība"
+      ],
+      "mt": [
+        "Fruntieri u sigurtà"
+      ],
+      "nl": [
+        "Grenzen en veiligheid"
+      ],
+      "pl": [
+        "Granice i bezpieczeństwo"
+      ],
+      "pt": [
+        "Fronteiras e segurança "
+      ],
+      "ro": [
+        "Securitatea la frontiere"
+      ],
+      "sk": [
+        "Hranice a bezpečnosť"
+      ],
+      "sl": [
+        "Meje in varnost"
+      ],
+      "sv": [
+        "Gränser och säkerhet"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Граници и сигурност "
+      ],
+      "cs": [
+        "Hranice a bezpečnost"
+      ],
+      "da": [
+        "Grænser og sikkerhed "
+      ],
+      "de": [
+        "Grenzen und Sicherheit"
+      ],
+      "el": [
+        "Σύνορα και ασφάλεια "
+      ],
+      "en": [
+        "Borders and security"
+      ],
+      "es": [
+        "Fronteras y seguridad "
+      ],
+      "et": [
+        "Piirid ja julgeolek "
+      ],
+      "fi": [
+        "Rajavalvonta ja turvallisuus"
+      ],
+      "fr": [
+        "Frontières et sécurité"
+      ],
+      "ga": [
+        "Teorainneacha agus slándáil "
+      ],
+      "hr": [
+        "Granice i sigurnost"
+      ],
+      "hu": [
+        "Határok és biztonság "
+      ],
+      "it": [
+        "Frontiere e sicurezza"
+      ],
+      "lt": [
+        "Sienos ir saugumas "
+      ],
+      "lv": [
+        "Robežas un drošība"
+      ],
+      "mt": [
+        "Fruntieri u sigurtà"
+      ],
+      "nl": [
+        "Grenzen en veiligheid"
+      ],
+      "pl": [
+        "Granice i bezpieczeństwo"
+      ],
+      "pt": [
+        "Fronteiras e segurança "
+      ],
+      "ro": [
+        "Securitatea la frontiere"
+      ],
+      "sk": [
+        "Hranice a bezpečnosť"
+      ],
+      "sl": [
+        "Meje in varnost"
+      ],
+      "sv": [
+        "Gränser och säkerhet"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Текстът е актуализиран през ноември 2014 г.</span></p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Rukopis aktualizován v Listopad 2014</span></p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuskript ajourført i november 2014</span></p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuskript aktualisiert im November 2014</span></p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<div class=\"right_content\"><p class=\"readmore_float\"><span class=\"displayedIn\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</span></p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p></div>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<div class=\"right_content\"><p class=\"readmore_float\"><span class=\"displayedIn\">Texto original actualizado en noviembre de 2014</span></p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p></div>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Käsikiri on ajakohastatud november 2014</span></p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Teksti on päivitetty marraskuu 2014</span></p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<div class=\"right_content\"><p class=\"readmore_float\"><span class=\"displayedIn\">Manuscrit actualisé en novembre 2014</span></p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p></div>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">rna thabhairt cothrom le dáta mí na Samhna 2014</span></p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Rukopis ažuriran u studeni 2014.</span></p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p><p> </p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">A kézirat frissítve: 2014. november</span></p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Redazione aggiornata ad novembre 2014</span></p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Rankraštis atnaujintas 2014 m. novembris mėn.</span></p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuskripts atjaunināts 2014. gada novembris.</span></p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuskritt aġġornat f'Novembru 2014</span></p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Tekst bijgewerkt in november 2014</span></p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Tekst zaktualizowano w listopad 2014 r.</span></p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Manuscrito atualizado em novembro de 2014</span></p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<div class=\"right_content\"><p class=\"readmore_float\"><span class=\"displayedIn\">Manuscris actualizat în noiembrie 2014</span></p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p></div>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\"><span class=\"displayedIn\">Rukopis bol aktualizovaný v november 2014</span></p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen november 2014.</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Manuskriptet uppdaterat i november 2014</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p></div>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c27"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://europa.eu/pol/pdf/flipbook/bg/borders_and_security_bg.pdf"
+      ],
+      "cs": [
+        "http://europa.eu/pol/pdf/flipbook/cs/borders_and_security_cs.pdf"
+      ],
+      "da": [
+        "http://europa.eu/pol/pdf/flipbook/da/borders_and_security_da.pdf"
+      ],
+      "de": [
+        "http://europa.eu/pol/pdf/flipbook/de/borders_and_security_de.pdf"
+      ],
+      "el": [
+        "http://europa.eu/pol/pdf/flipbook/el/borders_and_security_el.pdf"
+      ],
+      "en": [
+        "http://europa.eu/pol/pdf/flipbook/en/borders_and_security_en.pdf"
+      ],
+      "es": [
+        "http://europa.eu/pol/pdf/flipbook/es/borders_and_security_es.pdf"
+      ],
+      "et": [
+        "http://europa.eu/pol/pdf/flipbook/et/borders_and_security_et.pdf"
+      ],
+      "fi": [
+        "http://europa.eu/pol/pdf/flipbook/fi/borders_and_security_fi.pdf"
+      ],
+      "fr": [
+        "http://europa.eu/pol/pdf/flipbook/fr/borders_and_security_fr.pdf"
+      ],
+      "ga": [
+        "http://europa.eu/pol/pdf/flipbook/ga/borders_and_security_ga.pdf"
+      ],
+      "hr": [
+        "http://europa.eu/pol/pdf/flipbook/hr/borders_and_security_hr.pdf"
+      ],
+      "hu": [
+        "http://europa.eu/pol/pdf/flipbook/hu/borders_and_security_hu.pdf"
+      ],
+      "it": [
+        "http://europa.eu/pol/pdf/flipbook/it/borders_and_security_it.pdf"
+      ],
+      "lt": [
+        "http://europa.eu/pol/pdf/flipbook/lt/borders_and_security_lt.pdf"
+      ],
+      "lv": [
+        "http://europa.eu/pol/pdf/flipbook/lv/borders_and_security_lv.pdf"
+      ],
+      "mt": [
+        "http://europa.eu/pol/pdf/flipbook/mt/borders_and_security_mt.pdf"
+      ],
+      "nl": [
+        "http://europa.eu/pol/pdf/flipbook/nl/borders_and_security_nl.pdf"
+      ],
+      "pl": [
+        "http://europa.eu/pol/pdf/flipbook/pl/borders_and_security_pl.pdf"
+      ],
+      "pt": [
+        "http://europa.eu/pol/pdf/flipbook/pt/borders_and_security_pt.pdf"
+      ],
+      "ro": [
+        "http://europa.eu/pol/pdf/flipbook/ro/borders_and_security_ro.pdf"
+      ],
+      "sk": [
+        "http://europa.eu/pol/pdf/flipbook/sk/borders_and_security_sk.pdf"
+      ],
+      "sl": [
+        "http://europa.eu/pol/pdf/flipbook/sl/borders_and_security_sl.pdf"
+      ],
+      "sv": [
+        "http://europa.eu/pol/pdf/flipbook/sv/borders_and_security_sv.pdf"
+      ]
+    }
+  }
+}

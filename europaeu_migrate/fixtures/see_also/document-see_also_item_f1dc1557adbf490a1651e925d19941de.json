@@ -1,0 +1,543 @@
+{
+    "_id": "see_also_item_f1dc1557adbf490a1651e925d19941de",
+    "type": "see_also_item",
+    "default_language": "en",
+    "languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "es",
+        "fr",
+        "ga",
+        "hr",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "en",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Публикации и ресурси",
+                "Изследователски проекти",
+                "Годишна работна програма",
+                "Многогодишна рамка за 2013-2017 г.",
+                "Стратегически план на агенцията за 2013-2017 г.",
+                "Предизвикателства и постижения",
+                "Последни новини и прояви"
+            ],
+            "cs": [
+                "Publikace a zdroje",
+                "Výzkumné projekty",
+                "Roční pracovní program",
+                "Víceletý rámec (2013–2017)",
+                "Strategický plán (2013–2017)",
+                "Základní práva – úkoly a výsledky",
+                "Aktuality, akce"
+            ],
+            "da": [
+                "Publikationer og ressourcer",
+                "Forskningsprojekter",
+                "Årligt arbejdsprogram",
+                "Flerårig ramme for 2013-2017",
+                "FRA's strategiske plan 2013-2017",
+                "Grundlæggende rettigheder – udfordringer og resultater",
+                "Seneste nyt og arrangementer"
+            ],
+            "de": [
+                "Veröffentlichungen  und anderes Material",
+                "Forschungsprojekte",
+                "Jahresarbeitsprogramm",
+                "Mehrjahresrahmen 2013–2017",
+                "FRA-Strategieplan 2013–2017",
+                "Grundrechte – Herausforderungen und Erfolge",
+                "Aktuelles und Veranstaltungen"
+            ],
+            "el": [
+                "Εκδόσεις & πηγές",
+                "Ερευνητικά σχέδια",
+                "Ετήσιο πρόγραμμα εργασίας",
+                "Πολυετές πλαίσιο για την περίοδο 2013-2017",
+                "Στρατηγικό σχέδιο του FRA για την περίοδο 2013-2017",
+                "Προκλήσεις & επιτυχίες στον τομέα των θεμελιωδών δικαιωμάτων",
+                "Πρόσφατες ειδήσεις & εκδηλώσεις"
+            ],
+            "en": [
+                "Publications & resources",
+                "Research projects",
+                "Annual work programme",
+                "Multiannual framework for 2013-2017",
+                "FRA Strategic Plan 2013-2017",
+                "Fundamental rights challenges & achievements",
+                "Latest news & events"
+            ],
+            "es": [
+                "Publicaciones y recursos",
+                "Proyectos de investigación",
+                "Programa de trabajo anual",
+                "Marco plurianual 2013-2017",
+                "Plan estratégico 2013-2017",
+                "Logros y retos en materia de derechos fundamentales",
+                "Noticias y actividades"
+            ],
+            "et": [
+                "Väljaanded ja allikad",
+                "Teadusprojektid",
+                "Iga-aastane tööprogramm ",
+                "Mitmeaastane raamistik (2013–2017)",
+                "Euroopa Liidu Põhiõiguste Ameti strateegiline kava (2013–2017)",
+                "Põhiõigustega seotud väljakutsed ja saavutused",
+                "Viimased uudised ja sündmused"
+            ],
+            "fi": [
+                "Julkaisut ja tietoaineisto",
+                "Tutkimushankkeet",
+                "Vuotuinen työohjelma",
+                "Monivuotinen toimintakehys 2013–2017",
+                "Perusoikeusviraston strategiasuunnitelma 2013–2017",
+                "Perusoikeusviraston vuosikertomus 2014",
+                "Uutiset ja tapahtumat"
+            ],
+            "fr": [
+                "Publications et ressources",
+                "Recherche et projets",
+                "Programme de travail annuel",
+                "Cadre pluriannuel pour 2013-2017",
+                "Programme stratégique pour 2013-2017",
+                "Droits fondamentaux: défis et réussites",
+                "Actualité et événements"
+            ],
+            "ga": [
+                "Foilseacháin agus acmhainní",
+                "Tionscadail taighde",
+                "Clár oibre bliantúil",
+                "Creat ilbhliantúil le haghaidh 2013-2017",
+                "Plean straitéiseach FRA 2013-2017",
+                "Cearta bunúsacha: na dúshláin agus a bhfuil bainte amach",
+                "An nuacht is déanaí agus imeachtaí"
+            ],
+            "hr": [
+                "Publikacije i resursi",
+                "Istraživački projekti",
+                "Godišnji program rada",
+                "Višegodišnji okvir za 2013.-2017.",
+                "Strateški plan FRA-a 2013.-2017.",
+                "Temeljna prava: izazovi i postignuća",
+                "Najnovije vijesti i događanja"
+            ],
+            "hu": [
+                "Kiadványok és háttéranyagok",
+                "Kutatási projektek",
+                "Éves munkaprogram",
+                "Többéves keret (2013–2017)",
+                "Az FRA stratégiai terve (2013–2017)",
+                "Kihívások és eredmények az alapjogok terén",
+                "Hírek és események"
+            ],
+            "it": [
+                "Pubblicazioni e risorse",
+                "Progetti di ricerca",
+                "Programma di lavoro annuale",
+                "Quadro pluriennale per il 2013-2017",
+                "Piano strategico dell'Agenzia per il 2013-2017",
+                "Sfide e risultati nel campo dei diritti fondamentali",
+                "Ultime notizie ed eventi"
+            ],
+            "lt": [
+                "Leidiniai ir ištekliai",
+                "Mokslinių tyrimų projektai",
+                "Metinė darbo programa",
+                "2013–2017 m. daugiametė programa",
+                "FRA 2013–2017 m. strateginis planas",
+                "Pagrindinės teisės. Uždaviniai ir laimėjimai",
+                "Naujienos ir renginiai"
+            ],
+            "lv": [
+                "Publikācijas un resursi",
+                "Pētniecības projekti",
+                "Gada darba programma",
+                "Daudzgadu pamatprogramma 2013.–2017. gadam",
+                "Pamattiesību aģentūras stratēģiskais plāns 2013.–2017. gadam",
+                "Problēmas un sasniegumi pamattiesību aizsardzībā",
+                "Jaunākās ziņas un pasākumi"
+            ],
+            "mt": [
+                "Pubblikazzjonijiet u riżorsi",
+                "Proġetti ta' riċerka",
+                "Programm annwali ta' ħidma",
+                "Qafas multiannwali għall-2013-2017",
+                "Pjan Strateġiku tal-FRA 2013-2017",
+                "Sfidi u kisbiet tad-drittijiet fundamentali",
+                "L-aħħar aħbarijiet u avvenimenti"
+            ],
+            "nl": [
+                "Publicaties, video's etc.",
+                "Onderzoeksprojecten",
+                "Jaarlijks werkprogramma",
+                "Meerjarig kader 2013-2017",
+                "Strategisch plan 2013-2017",
+                "Grondrechten: problemen en resultaten",
+                "Nieuws en evenementen"
+            ],
+            "pl": [
+                "Publikacje i materiały",
+                "Projekty badawcze",
+                "Roczny program prac",
+                "Wieloletnie ramy na lata 2013-2017",
+                "Plan strategiczny FRA na lata 2013-2017",
+                "Prawa podstawowe: wyzwania i osiągnięcia",
+                "Aktualności i wydarzenia"
+            ],
+            "pt": [
+                "Publicações e recursos",
+                "Projetos de investigação",
+                "Programa de trabalho anual",
+                "Quadro plurianual 2013-2017",
+                "Plano estratégico 2013-2017",
+                "Direitos fundamentais: desafios e resultados",
+                "Notícias e atividades"
+            ],
+            "ro": [
+                "Publicații și resurse",
+                "Proiecte de cercetare",
+                "Programul anual de lucru",
+                "Cadrul multianual pentru perioada 2013-2017",
+                "Planul strategic al FRA pentru  perioada 2013-2017",
+                "Drepturi fundamentale, provocări și realizări",
+                "Ultimele știri și evenimente"
+            ],
+            "sk": [
+                "Publikácie a zdroje",
+                "Výskumné projekty",
+                "Ročný pracovný program",
+                "Viacročný rámec na obdobie rokov 2013 – 2017",
+                "Strategický plán FRA na roky 2013 – 2017",
+                "Výzvy a úspechy v oblasti základných práv",
+                "Aktuality a podujatia"
+            ],
+            "sl": [
+                "Publikacije in viri",
+                "Raziskovalni projekti",
+                "Letni delovni program",
+                "Večletni okvir 2013–2017",
+                "Strateški načrt Agencije 2013–2017",
+                "Temeljne pravice – izzivi in dosežki",
+                "Zadnje novice in dogodki"
+            ],
+            "sv": [
+                "Publikationer och informationsmaterial",
+                "Forskningsprojekt",
+                "Årligt arbetsprogram",
+                "Ramprogram för 2013–2017",
+                "Strategisk plan för 2013–2017",
+                "Grundläggande rättigheter – årsrapport 2014",
+                "Nyheter och evenemang"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "cs": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "da": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "de": [
+                "http://fra.europa.eu/de/publications-and-resources",
+                "http://fra.europa.eu/de/research",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://fra.europa.eu/de/news-and-events"
+            ],
+            "el": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "en": [
+                "http://fra.europa.eu/en/publications-and-resources",
+                "http://fra.europa.eu/en/research",
+                "http://fra.europa.eu/en/about-fra/what-we-do/annual-work-programme",
+                "http://fra.europa.eu/en/about-fra/what-we-do/areas-of-work/multi-annual-framework-2013-2017",
+                "http://fra.europa.eu/sites/default/files/fra_strategic_plan_en.pdf",
+                "http://fra.europa.eu/en/publication/2015/fundamental-rights-challenges-and-achievements-2014",
+                "http://fra.europa.eu/en/news-and-events"
+            ],
+            "es": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "et": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "fi": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "fr": [
+                "http://fra.europa.eu/fr/publications-and-resources",
+                "http://fra.europa.eu/fr/research",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://fra.europa.eu/fr/news-and-events"
+            ],
+            "ga": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "hr": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "hu": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "it": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "lt": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "lv": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "mt": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "nl": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "pl": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "pt": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "ro": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "sk": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "sl": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ],
+            "sv": [
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink",
+                "http://europa.eu/nolink"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Агенция на Европейския съюз за основните права (FRA)"
+            ],
+            "cs": [
+                "Agentura Evropské unie pro základní práva (FRA)"
+            ],
+            "da": [
+                "Den Europæiske Unions Agentur for Grundlæggende Rettigheder (FRA)"
+            ],
+            "de": [
+                "Agentur der Europäischen Union für Grundrechte (FRA)"
+            ],
+            "el": [
+                "Οργανισμός Θεμελιωδών Δικαιωμάτων της Ευρωπαϊκής Ένωσης (FRA)"
+            ],
+            "en": [
+                "European Union Agency for Fundamental Rights (FRA)"
+            ],
+            "es": [
+                "Agencia de los Derechos Fundamentales de la Unión Europea (FRA)"
+            ],
+            "et": [
+                "Euroopa Liidu Põhiõiguste Amet"
+            ],
+            "fi": [
+                "Euroopan unionin perusoikeusvirasto (FRA)"
+            ],
+            "fr": [
+                "Agence des droits fondamentaux de l’Union européenne (FRA)"
+            ],
+            "ga": [
+                "Gníomhaireacht an Aontais Eorpaigh um Chearta Bunúsacha (FRA)"
+            ],
+            "hr": [
+                "Agencija Europske unije za temeljna prava (FRA)"
+            ],
+            "hu": [
+                "Az Európai Unió Alapjogi Ügynöksége (FRA)"
+            ],
+            "it": [
+                "Agenzia dell’Unione europea per i diritti fondamentali (FRA)"
+            ],
+            "lt": [
+                "Europos Sąjungos pagrindinių teisių agentūra (FRA)"
+            ],
+            "lv": [
+                "Eiropas Savienības Pamattiesību aģentūra (FRA)"
+            ],
+            "mt": [
+                "L-Aġenzija tal-Unjoni Ewropea għad-Drittijiet Fundamentali (FRA)"
+            ],
+            "nl": [
+                "Bureau van de Europese Unie voor de grondrechten (FRA)"
+            ],
+            "pl": [
+                "Agencja Praw Podstawowych Unii Europejskiej"
+            ],
+            "pt": [
+                "Agência dos Direitos Fundamentais da União Europeia (FRA)"
+            ],
+            "ro": [
+                "Agenția pentru Drepturi Fundamentale a Uniunii Europene (FRA)"
+            ],
+            "sk": [
+                "Agentúra Európskej únie pre základné práva (FRA)"
+            ],
+            "sl": [
+                "Agencija Evropske unije za temeljne pravice (FRA)"
+            ],
+            "sv": [
+                "EU:s byrå för grundläggande rättigheter (FRA)"
+            ]
+        }
+    }
+}

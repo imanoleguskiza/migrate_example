@@ -1,0 +1,403 @@
+{
+    "_id": "video_gallery_item_f827d58f70173985d038fac7ea2ae640",
+    "type": "video_gallery_item",
+    "default_language": "en",
+    "languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "en",
+        "es",
+        "fr",
+        "ga",
+        "hr",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "sk",
+        "pl",
+        "pt",
+        "ro",
+        "sl",
+        "fi",
+        "sv"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Объркващ ли е бюджетът на ЕС?"
+            ],
+            "cs": [
+                "Nerozumíte rozpočtu EU?"
+            ],
+            "da": [
+                "Forbløffet over EU-budgettet?"
+            ],
+            "de": [
+                "Verwirrt angesichts des EU-Haushalts?"
+            ],
+            "el": [
+                "Μπερδευτήκατε με τον προϋπολογισμό της ΕΕ;"
+            ],
+            "en": [
+                "Baffled by the EU budget?"
+            ],
+            "es": [
+                "¿Entendemos el presupuesto de la UE?"
+            ],
+            "et": [
+                "Hämmeldunud ELi eelarvest?"
+            ],
+            "fi": [
+                "Hämmentääkö EU:n budjetti?"
+            ],
+            "fr": [
+                "Dérouté par le budget européen ?"
+            ],
+            "ga": [
+                "An gcuireann buiséad an Aontais mearbhall ort?"
+            ],
+            "hr": [
+                "Zbunjuje vas proračun EU-a?"
+            ],
+            "hu": [
+                "Nem érti, hogyan működik az uniós költségvetés?"
+            ],
+            "it": [
+                "Confusi sul bilancio UE?"
+            ],
+            "lt": [
+                "Neaiškus ES biudžetas?"
+            ],
+            "lv": [
+                "Neizprotat ES budžetu?"
+            ],
+            "mt": [
+                "Il-baġit tal-UE jħawdek?"
+            ],
+            "nl": [
+                "Snap je de begroting?"
+            ],
+            "pl": [
+                "Nie rozumiecie unijnego budżetu?"
+            ],
+            "pt": [
+                "Assoberbado com o orçamento da UE?"
+            ],
+            "ro": [
+                "Aveţi nelămuriri în privinţa bugetului UE?"
+            ],
+            "sk": [
+                "Je pre vás európsky rozpočet záhadou?"
+            ],
+            "sl": [
+                "Zmedeni zaradi proračuna EU?"
+            ],
+            "sv": [
+                "Förvirrar EU-budgeten dig?"
+            ]
+        },
+        "media": {
+            "bg": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/bg/mpeg4/501/b005-0009-bg-yuv-512k.mp4"
+            ],
+            "cs": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/cs/mpeg4/501/b005-0009-cs-yuv-512k.mp4"
+            ],
+            "da": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/da/mpeg4/501/b005-0009-da-yuv-512k.mp4"
+            ],
+            "de": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/de/mpeg4/501/b005-0009-de-yuv-512k.mp4"
+            ],
+            "el": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/el/mpeg4/501/b005-0009-el-yuv-512k.mp4"
+            ],
+            "en": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/en/mpeg4/501/b005-0009-enx-512k.mp4"
+            ],
+            "es": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/es/mpeg4/501/b005-0009-es-yuv-512k.mp4"
+            ],
+            "et": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/et/mpeg4/501/b005-0009-et-yuv-512k.mp4"
+            ],
+            "fi": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/fi/mpeg4/501/b005-0009-fi-yuv-512k.mp4"
+            ],
+            "fr": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/fr/mpeg4/501/b005-0009-fr-yuv-512k.mp4"
+            ],
+            "ga": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/en/mpeg4/501/b005-0009-enx-512k.mp4"
+            ],
+            "hr": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/hr/mpeg4/501/b005-0009-hr-yuv-512k.mp4"
+            ],
+            "hu": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/hu/mpeg4/501/b005-0009-hu-yuv-512k.mp4"
+            ],
+            "it": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/it/mpeg4/501/b005-0009-it-v2-yuv-512k.mp4"
+            ],
+            "lt": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/lt/mpeg4/501/b005-0009-lt-yuv-512k.mp4"
+            ],
+            "lv": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/lv/mpeg4/501/b005-0009-lv-v1-yuv-512k.mp4"
+            ],
+            "mt": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/mt/mpeg4/501/b005-0009-mt-yuv-512k.mp4"
+            ],
+            "nl": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/nl/mpeg4/501/b005-0009-nl-yuv-512k.mp4"
+            ],
+            "pl": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/pl/mpeg4/501/b005-0009-pl-yuv-512k.mp4"
+            ],
+            "pt": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/pt/mpeg4/501/b005-0009-pt-yuv-512k.mp4"
+            ],
+            "ro": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/ro/mpeg4/501/b005-0009-ro-yuv-512k.mp4"
+            ],
+            "sk": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/sk/mpeg4/501/b005-0009-sk-yuv-512k.mp4"
+            ],
+            "sl": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/sl/mpeg4/501/b005-0009-sl-yuv-512k.mp4"
+            ],
+            "sv": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/753daab1-7c13-44f4-8447-a27d00c811ab/video/sv/mpeg4/501/b005-0009-sv-yuv-512k.mp4"
+            ]
+        },
+        "image": {
+            "bg": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/basic-information/money/images/europarltv_video_baffled_by_the_eu_budget.jpg"
+            ]
+        },
+        "image_alt": {
+            "bg": [
+                "Объркващ ли е бюджетът на ЕС?"
+            ],
+            "cs": [
+                "Nerozumíte rozpočtu EU?"
+            ],
+            "da": [
+                "Forbløffet over EU-budgettet?"
+            ],
+            "de": [
+                "Verwirrt angesichts des EU-Haushalts?"
+            ],
+            "el": [
+                "Μπερδευτήκατε με τον προϋπολογισμό της ΕΕ;"
+            ],
+            "en": [
+                "Baffled by the EU budget?"
+            ],
+            "es": [
+                "¿Entendemos el presupuesto de la UE?"
+            ],
+            "et": [
+                "Hämmeldunud ELi eelarvest?"
+            ],
+            "fi": [
+                "Hämmentääkö EU:n budjetti?"
+            ],
+            "fr": [
+                "Dérouté par le budget européen ?"
+            ],
+            "ga": [
+                "An gcuireann buiséad an Aontais mearbhall ort?"
+            ],
+            "hr": [
+                "Zbunjuje vas proračun EU-a?"
+            ],
+            "hu": [
+                "Nem érti, hogyan működik az uniós költségvetés?"
+            ],
+            "it": [
+                "Confusi sul bilancio UE?"
+            ],
+            "lt": [
+                "Neaiškus ES biudžetas?"
+            ],
+            "lv": [
+                "Neizprotat ES budžetu?"
+            ],
+            "mt": [
+                "Il-baġit tal-UE jħawdek?"
+            ],
+            "nl": [
+                "Snap je de begroting?"
+            ],
+            "pl": [
+                "Nie rozumiecie unijnego budżetu?"
+            ],
+            "pt": [
+                "Assoberbado com o orçamento da UE?"
+            ],
+            "ro": [
+                "Aveţi nelămuriri în privinţa bugetului UE?"
+            ],
+            "sk": [
+                "Je pre vás európsky rozpočet záhadou?"
+            ],
+            "sl": [
+                "Zmedeni zaradi proračuna EU?"
+            ],
+            "sv": [
+                "Förvirrar EU-budgeten dig?"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Как се изразходва бюджетът на ЕС?"
+            ],
+            "cs": [
+                "Jak se využívá rozpočet EU?"
+            ],
+            "da": [
+                "Hvordan bruges EU-budgettet?"
+            ],
+            "de": [
+                "Wie werden die EU-Haushaltsmittel ausgegeben?"
+            ],
+            "el": [
+                "Πώς διατίθεται ο προϋπολογισμός της ΕΕ;"
+            ],
+            "en": [
+                "How is the EU budget spent?"
+            ],
+            "es": [
+                "¿Cómo se gasta el presupuesto de la UE?"
+            ],
+            "et": [
+                "Kuidas ELi eelarvet kasutatakse?"
+            ],
+            "fi": [
+                "EU:n talousarviovarojen käyttö"
+            ],
+            "fr": [
+                "À quoi est consacré le budget de l'UE?"
+            ],
+            "ga": [
+                "Conas a chaitear buiséad an AE?"
+            ],
+            "hr": [
+                "Kako se troši proračun EU-a?"
+            ],
+            "hu": [
+                "Hogyan költi el az EU a pénzt?"
+            ],
+            "it": [
+                "Come viene speso il bilancio dell'UE"
+            ],
+            "lt": [
+                "Kaip naudojamos ES biudžeto lėšos?"
+            ],
+            "lv": [
+                "Kā tiek izlietots ES budžets"
+            ],
+            "mt": [
+                "Kif jintefaq il-baġit tal-UE?"
+            ],
+            "nl": [
+                "Zo wordt het EU-geld besteed"
+            ],
+            "pl": [
+                "Jak wykorzystywane są środki z budżetu UE?"
+            ],
+            "pt": [
+                "Como é gasto o orçamento da UE?"
+            ],
+            "ro": [
+                "Cum este cheltuit bugetul UE?"
+            ],
+            "sk": [
+                "Na čo sa využíva rozpočet EÚ?"
+            ],
+            "sl": [
+                "Poraba proračunskih sredstev EU"
+            ],
+            "sv": [
+                "Hur används EU:s budget?"
+            ]
+        }
+    }
+}

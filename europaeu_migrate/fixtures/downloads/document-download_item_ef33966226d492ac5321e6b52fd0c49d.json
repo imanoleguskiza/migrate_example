@@ -1,0 +1,303 @@
+{
+    "_id": "download_item_ef33966226d492ac5321e6b52fd0c49d",
+    "type": "download_item",
+    "default_language": "en",
+    "languages": [
+        "bg",
+        "da",
+        "de",
+        "cs",
+        "et",
+        "el",
+        "en",
+        "es",
+        "fr",
+        "ga",
+        "hr",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Политиките на Европейския Съюз – Вътрешен пазар",
+                "Политиките на Европейския Съюз – Предприятия"
+            ],
+            "cs": [
+                "Politiky Evropské Unie – Vnitřní trh",
+                "Politiky Evropské Unie – Podniky"
+            ],
+            "da": [
+                "Indblik i EU- Politik – Det indre marked",
+                "Indblik i EU- Politik – Erhvervspolitik"
+            ],
+            "de": [
+                "Die Europäische Union erklärt – Binnenmarkt",
+                "Die Europäische Union erklärt – Unternehmen"
+            ],
+            "el": [
+                "Πώς λειτουργεί η Ευρωπαϊκή Ένωση – Εσωτερική αγορά",
+                "Πώς λειτουργεί η Ευρωπαϊκή Ένωση – Επιχειρήσεις"
+            ],
+            "en": [
+                "The EU explained – Internal market",
+                "The EU explained – Enterprise"
+            ],
+            "es": [
+                "Cómo funciona la Unión Europea – Mercado interio",
+                "Cómo funciona la Unión Europea – Empresa"
+            ],
+            "et": [
+                "Kuidas Euroopa Liit toimib – Siseturg",
+                "Kuidas Euroopa Liit toimib – Ettevõtlus"
+            ],
+            "fi": [
+                "Näin Euroopan unioni toimii – Sisämarkkinat",
+                "Näin Euroopan unioni toimii – Yritystoiminta"
+            ],
+            "fr": [
+                "Comment fonctionne l’Union européenne? –  Marché intérieur",
+                "Comment fonctionne l’Union européenne? –  Entreprise"
+            ],
+            "ga": [
+                "An tAE mínithe – An margadh inmheánach",
+                "An tAE mínithe – Fiontraíocht"
+            ],
+            "hr": [
+                "Kako funkcionira Europska unija – Unutarnje tržište",
+                "Kako funkcionira Europska unija – Poduzetništvo"
+            ],
+            "hu": [
+                "Hogyan működik az Európai Unió? – Belső piac",
+                "Hogyan működik az Európai Unió? –  Vállalkozáspolitika"
+            ],
+            "it": [
+                "Come funziona l’Unione europea – Mercato interno",
+                "Come funziona l’Unione europea – Imprese"
+            ],
+            "lt": [
+                "Kaip funkcionuoja Europos Sąjunga – Vidaus rinka",
+                "Kaip funkcionuoja Europos Sąjunga – Įmonės"
+            ],
+            "lv": [
+                "Kā darbojas Eiropas Savienība – Iekšējais tirgus",
+                "Kā darbojas Eiropas Savienība – Uzņēmējdarbība"
+            ],
+            "mt": [
+                "Kif taħdem l-Unjoni Ewropea – Suq intern",
+                "Kif taħdem l-Unjoni Ewropea – L-intrapriża"
+            ],
+            "nl": [
+                "Hoe werkt de Europese Unie? – Interne markt",
+                "Hoe werkt de Europese Unie? – Ondernemingen"
+            ],
+            "pl": [
+                "Jak działa Unia Europejska – Rynek wewnętrzny",
+                "Jak działa Unia Europejska – Przedsiębiorstwa"
+            ],
+            "pt": [
+                "Como funciona a União Europeia – Mercado interno",
+                "Como funciona a União Europeia – Empresas"
+            ],
+            "ro": [
+                "Cum funcţionează Uniunea Europeană – Piața interna",
+                "Cum funcţionează Uniunea Europeană – Întreprinderi"
+            ],
+            "sk": [
+                "Ako funguje Európska únia – Vnútorný trh",
+                "Ako funguje Európska únia – Podnikanie"
+            ],
+            "sl": [
+                "Kako deluje Evropska unija – Notranji trg",
+                "Kako deluje Evropska unija – Podjetništvo"
+            ],
+            "sv": [
+                "Så fungerar Europeiska unionen – Inre marknaden",
+                "Så fungerar Europeiska unionen – Näringsliv"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://bookshop.europa.eu/bg/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/bg/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "cs": [
+                "http://bookshop.europa.eu/cs/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/cs/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "da": [
+                "http://bookshop.europa.eu/da/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/da/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "de": [
+                "http://bookshop.europa.eu/de/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/de/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "el": [
+                "http://bookshop.europa.eu/el/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/el/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "en": [
+                "http://bookshop.europa.eu/en/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/en/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "es": [
+                "http://bookshop.europa.eu/es/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/es/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "et": [
+                "http://bookshop.europa.eu/et/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/et/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "fi": [
+                "http://bookshop.europa.eu/fi/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/fi/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "fr": [
+                "http://bookshop.europa.eu/fr/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/fr/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "ga": [
+                "http://bookshop.europa.eu/ga/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/ga/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "hr": [
+                "http://bookshop.europa.eu/hr/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/hr/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "hu": [
+                "http://bookshop.europa.eu/hu/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/hu/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "it": [
+                "http://bookshop.europa.eu/it/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/it/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "lt": [
+                "http://bookshop.europa.eu/lt/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/lt/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "lv": [
+                "http://bookshop.europa.eu/lv/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/lv/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "mt": [
+                "http://bookshop.europa.eu/mt/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/mt/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "nl": [
+                "http://bookshop.europa.eu/nl/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/nl/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "pl": [
+                "http://bookshop.europa.eu/pl/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/pl/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "pt": [
+                "http://bookshop.europa.eu/pt/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/pt/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "ro": [
+                "http://bookshop.europa.eu/ro/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/ro/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "sk": [
+                "http://bookshop.europa.eu/sk/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/sk/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "sl": [
+                "http://bookshop.europa.eu/sl/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/sl/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ],
+            "sv": [
+                "http://bookshop.europa.eu/sv/internal-market-pbNA7012012/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz",
+                "http://bookshop.europa.eu/sv/enterprise-pbNA7012030/?CatalogCategoryID=sciep2OwkgkAAAE.xjhtLxJz"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "ДДС и митници"
+            ],
+            "cs": [
+                "DPH a cla"
+            ],
+            "da": [
+                "Moms og toldafgifter"
+            ],
+            "de": [
+                "MwSt. und Zoll"
+            ],
+            "el": [
+                "ΦΠΑ & φόροι"
+            ],
+            "en": [
+                "VAT & customs"
+            ],
+            "es": [
+                "IVA y aduanas"
+            ],
+            "et": [
+                "Käibemaks ja toll"
+            ],
+            "fi": [
+                "ALV ja tulliasiat"
+            ],
+            "fr": [
+                "TVA et douanes"
+            ],
+            "ga": [
+                "Cáin bhreisluacha agus Custaim"
+            ],
+            "hr": [
+                "PDV i carina"
+            ],
+            "hu": [
+                "Héa, vámok"
+            ],
+            "it": [
+                "IVA e dogane"
+            ],
+            "lt": [
+                "PVM ir muitinė"
+            ],
+            "lv": [
+                "PVN un muita"
+            ],
+            "mt": [
+                "VAT u Dwani"
+            ],
+            "nl": [
+                "Btw en douane"
+            ],
+            "pl": [
+                "VAT i cła"
+            ],
+            "pt": [
+                "IVA e outros impostos"
+            ],
+            "ro": [
+                "TVA și drepturi vamale"
+            ],
+            "sk": [
+                "DPH a clá"
+            ],
+            "sl": [
+                "DDV in carina"
+            ],
+            "sv": [
+                "Moms och tullar"
+            ]
+        }
+    }
+}

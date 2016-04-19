@@ -1,0 +1,1005 @@
+{
+    "_id": "e46caa10947416b1a7e163c8dd9c0a82",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/eu-life/work-pensions/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/eu-life/work-pensions/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/eu-life/work-pensions/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/eu-life/work-pensions/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/eu-life/work-pensions/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/eu-life/work-pensions/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/eu-life/work-pensions/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/eu-life/work-pensions/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/eu-life/work-pensions/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/eu-life/work-pensions/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/eu-life/work-pensions/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/eu-life/work-pensions/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/eu-life/work-pensions/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/eu-life/work-pensions/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/eu-life/work-pensions/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/eu-life/work-pensions/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/eu-life/work-pensions/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/eu-life/work-pensions/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/eu-life/work-pensions/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/eu-life/work-pensions/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/eu-life/work-pensions/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/eu-life/work-pensions/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/eu-life/work-pensions/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/eu-life/work-pensions/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Работа и пенсиониране в ЕС"
+            ],
+            "cs": [
+                "Práce a důchod v EU"
+            ],
+            "da": [
+                "Arbejde og pension i EU"
+            ],
+            "de": [
+                "Arbeit und Ruhestand in der EU"
+            ],
+            "el": [
+                "Εργασία και συνταξιοδότηση στην ΕΕ"
+            ],
+            "en": [
+                "Work and retirement in the EU"
+            ],
+            "es": [
+                "Trabajo y jubilación en la UE"
+            ],
+            "et": [
+                "Töötamine ja pensionile jäämine ELis"
+            ],
+            "fi": [
+                "Työskentely ja eläkkeelle jääminen toisessa EU-maassa"
+            ],
+            "fr": [
+                "Travailler et prendre sa retraite dans l'UE"
+            ],
+            "ga": [
+                "Obair agus scor san AE"
+            ],
+            "hr": [
+                "Rad i umirovljenje u EU-u"
+            ],
+            "hu": [
+                "Munkavállalás és nyugdíjba vonulás az EU-ban"
+            ],
+            "it": [
+                "Lavoro e pensionamento nell'UE"
+            ],
+            "lt": [
+                "Darbas ir pensija ES"
+            ],
+            "lv": [
+                "Darbs un pensionēšanās ES"
+            ],
+            "mt": [
+                "Xogħol u rtirar fl-UE"
+            ],
+            "nl": [
+                "Werk en pensioenen in de EU"
+            ],
+            "pl": [
+                "Praca i emerytura w UE"
+            ],
+            "pt": [
+                "Trabalhar e reformar-se na UE"
+            ],
+            "ro": [
+                "Munca și pensionarea în UE"
+            ],
+            "sk": [
+                "Práca a dôchodok v EÚ"
+            ],
+            "sl": [
+                "Zaposlitev in upokojitev v EU"
+            ],
+            "sv": [
+                "Arbeta och pensionera sig i EU"
+            ]
+        },
+        "category": {
+            "und": [
+                "91087c2"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/BG"
+            ],
+            "cs": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/CS"
+            ],
+            "da": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/DA"
+            ],
+            "de": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/DE"
+            ],
+            "el": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/EL"
+            ],
+            "en": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/EN"
+            ],
+            "es": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/ES"
+            ],
+            "et": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/ET"
+            ],
+            "fi": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/FI"
+            ],
+            "fr": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/FR"
+            ],
+            "ga": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/GA"
+            ],
+            "hr": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/HR"
+            ],
+            "hu": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/HU"
+            ],
+            "it": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/IT"
+            ],
+            "lt": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/LT"
+            ],
+            "lv": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/LV"
+            ],
+            "mt": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/MT"
+            ],
+            "nl": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/NL"
+            ],
+            "pl": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/PL"
+            ],
+            "pt": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/PT"
+            ],
+            "ro": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/RO"
+            ],
+            "sk": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/SK"
+            ],
+            "sl": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/SL"
+            ],
+            "sv": [
+                "COMM/EUROPA/EU-LIFE/WORK-PENSIONS/SV"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM/A05"
+            ],
+            "cs": [
+                "COMM/COMM/A05"
+            ],
+            "da": [
+                "COMM/COMM/A05"
+            ],
+            "de": [
+                "COMM/COMM/A05"
+            ],
+            "el": [
+                "COMM/COMM/A05"
+            ],
+            "en": [
+                "COMM/COMM/A05"
+            ],
+            "es": [
+                "COMM/COMM/A05"
+            ],
+            "et": [
+                "COMM/COMM/A05"
+            ],
+            "fi": [
+                "COMM/COMM/A05"
+            ],
+            "fr": [
+                "COMM/COMM/A05"
+            ],
+            "ga": [
+                "COMM/COMM/A05"
+            ],
+            "hr": [
+                "COMM/COMM/A05"
+            ],
+            "hu": [
+                "COMM/COMM/A05"
+            ],
+            "it": [
+                "COMM/COMM/A05"
+            ],
+            "lt": [
+                "COMM/COMM/A05"
+            ],
+            "lv": [
+                "COMM/COMM/A05"
+            ],
+            "mt": [
+                "COMM/COMM/A05"
+            ],
+            "nl": [
+                "COMM/COMM/A05"
+            ],
+            "pl": [
+                "COMM/COMM/A05"
+            ],
+            "pt": [
+                "COMM/COMM/A05"
+            ],
+            "ro": [
+                "COMM/COMM/A05"
+            ],
+            "sk": [
+                "COMM/COMM/A05"
+            ],
+            "sl": [
+                "COMM/COMM/A05"
+            ],
+            "sv": [
+                "COMM/COMM/A05"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "de": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "el": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "en": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "es": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "et": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fi": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hu": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "it": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lv": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "mt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "nl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ro": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sk": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sv": [
+                "58-Document for general distribution (intended for the general public)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Работа и пенсиониране, увреждания, отпуск по майчинство, свободни работни места в ЕС и как да напишем Europass автобиография"
+            ],
+            "cs": [
+                "Práce a důchod, zdravotně postižení, mateřská dovolená, pracovní místa v EU a jak vyplnit Europass-životopis."
+            ],
+            "da": [
+                "Arbejde og pension, handicap, barselsorlov, ledige job i EU, og hvordan du skriver et Europass-CV."
+            ],
+            "de": [
+                "Arbeit und Ruhestand, Menschen mit Behinderungen, Mutterschutz, Stellenangebote in der EU, Erstellen eines Europass-Lebenslaufs"
+            ],
+            "el": [
+                "Εργασία και συνταξιοδότηση, αναπηρία, άδεια μητρότητας, θέσεις εργασίας στην ΕΕ και ευρωπαϊκό CV."
+            ],
+            "en": [
+                "Find out about workers' rights in the EU."
+            ],
+            "es": [
+                "Trabajo y jubilación, discapacidades, permiso de maternidad, vacantes de empleo en la UE y cómo redactar un CV Europass."
+            ],
+            "et": [
+                "Töötamine ja pensionile jäämine, puue, rasedus- ja sünnituspuhkus, vabad töökohad ELis ja juhised Europassi CV koostamiseks."
+            ],
+            "fi": [
+                "Työskentely ja eläkkeelle jääminen, työkyvyttömyys, äitiysloma, avoimet työpaikat EU:ssa, Europass-CV"
+            ],
+            "fr": [
+                "Travail et retraite, handicaps, congé de maternité, offres d'emploi dans l'UE et CV Europass."
+            ],
+            "ga": [
+                "Obair agus scor, míchumais , saoire mháithreachais, folúntais post san AE agus an tslí chun CV Europass a scríobh."
+            ],
+            "hr": [
+                "Rad i umirovljenje, invaliditet, rodiljni dopust, otvorena radna mjesta u EU-u i pisanje životopisa na temelju obrasca Europass"
+            ],
+            "hu": [
+                "Munkavállalás és nyugdíjba vonulás, fogyatékosság, szülési szabadság és álláslehetőségek az Európai Unióban, tanácsok az Europass önéletrajz elkészítéséhez"
+            ],
+            "it": [
+                "Lavoro e pensionamento, disabilità, congedo di maternità, offerte di lavoro nell'UE e come scrivere un CV europeo."
+            ],
+            "lt": [
+                "Darbas ir pensija, neįgalumas, nėštumo ir gimdymo atostogos, laisvos darbo vietos ES ir kaip parengti europinį CV"
+            ],
+            "lv": [
+                "Darbs un pensionēšanās, invaliditāte, grūtniecības un dzemdību atvaļinājums, brīvās darbvietas Eiropā un kā rakstīt ES parauga dzīves aprakstu (CV)"
+            ],
+            "mt": [
+                "Xogħol u rtirar, diżabilitajiet, liv tal-maternità, postijiet tax-xogħol disponibbli fl-UE u kif tikteb CV Europass"
+            ],
+            "nl": [
+                "Werk en pensioenen, handicap, ouderschapsverlof, vacatures in de EU en hoe een Europass-cv te schrijven."
+            ],
+            "pl": [
+                "Praca i emerytura, osoby niepełnosprawne, urlop macierzyński, ogłoszenia o pracy w UE, jak napisać życiorys – Europass CV"
+            ],
+            "pt": [
+                "Trabalhar e reformar-se, deficiência, licença de maternidade, ofertas de emprego na UE e como criar um CV europeu (Europass)."
+            ],
+            "ro": [
+                "Munca și pensionarea, persoane cu handicap, concediu de maternitate, posturi vacante în UE, redactarea unui CV Europass"
+            ],
+            "sk": [
+                "Práca a dôchodok, zdravotné postihnutia, materská dovolenka, ponuky pracovných miest v EÚ a návod na vyplnenie životopisu Europass."
+            ],
+            "sl": [
+                "Delo in upokojitev, invalidnost, porodniški in materinski dopust, prosta delovna mesta v EU, kako napisati evropski življenjepis"
+            ],
+            "sv": [
+                "EU-information om arbete, pension, funktionsnedsättning, föräldraledighet, lediga jobb och europeiskt cv"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "работа в ЕС",
+                "пенсиониране в ЕС",
+                "работни места",
+                "пенсии в ЕС",
+                "права при увреждания",
+                "права при майчинство",
+                "европейска автобиография",
+                "Europass",
+                "Европейски съюз",
+                "ЕС",
+                "трансграничен",
+                "пограничен",
+                "данъци"
+            ],
+            "cs": [
+                "Práce v EU",
+                "důchod v EU",
+                "pracovní místa v zahraničí",
+                "penze v EU",
+                "práva zdravotně postižených osob",
+                "ochrana práv v mateřství",
+                "evropský životopis",
+                "Europass",
+                "Evropský unie",
+                "EU",
+                "přeshraniční",
+                "dojíždění",
+                "daně"
+            ],
+            "da": [
+                "Arbejde i EU",
+                "pension i EU",
+                "job i Europa",
+                "EU-pensioner",
+                "handicappedes rettigheder",
+                "barselsrettigheder",
+                "europæisk CV",
+                "Europass",
+                "Europæiske Union",
+                "EU",
+                "grænseoverskridende",
+                "pendle",
+                "skatter"
+            ],
+            "de": [
+                "Arbeit in der EU",
+                "Ruhestand in der EU",
+                "Stellenangebote in Europa",
+                "EU-Rentenansprüche",
+                "Rechte für Menschen mit Behinderungen",
+                "Mutterschutz",
+                "Mutterschaftsurlaub",
+                "europäischer Lebenslauf",
+                "Europass",
+                "Europäische Union",
+                "EU",
+                "grenzüberschreitend",
+                "Pendler",
+                "Steuern"
+            ],
+            "el": [
+                "Εργασία στην ΕΕ",
+                "συνταξιοδότηση στην ΕΕ",
+                "θέσεις εργασίας στην ΕΕ",
+                "συντάξεις στην ΕΕ",
+                "δικαιώματα αναπηρίας",
+                "δικαιώματα μητρότητας",
+                "ευρωπαϊκό CV",
+                "Europass",
+                "Ευρωπαϊκή Ένωση",
+                "ΕΕ",
+                "διασυνοριακό",
+                "καθημερινή μετακίνηση",
+                "φόροι"
+            ],
+            "en": [
+                "Work in the EU",
+                "retire in the EU",
+                "jobs in Europe",
+                "EU pensions",
+                "disability rights",
+                "maternity rights",
+                "European CV",
+                "Europass",
+                "European Union",
+                "EU",
+                "cross-border",
+                "commute",
+                "taxes"
+            ],
+            "es": [
+                "Trabajar en la UE",
+                "jubilarse en la UE",
+                "empleo en Europa",
+                "pensiones en la UE",
+                "derechos por discapacidad",
+                "derechos por maternidad",
+                "CV europeo",
+                "Europass",
+                "Unión Europea",
+                "UE",
+                "transfronterizo",
+                "desplazamientos pendulares",
+                "impuestos"
+            ],
+            "et": [
+                "Töötamine ELis",
+                "pensionile jäämine ELis",
+                "töökohad Euroopas",
+                "ELi pensionid",
+                "puuetega inimeste õigused",
+                "rasedus- ja sünnituspuhkusega seotud õigused",
+                "Euroopa CV",
+                "Europass",
+                "Euroopa Liit",
+                "EL",
+                "piiriülene",
+                "teise riiki tööle sõitmine",
+                "pendelränne",
+                "maksud"
+            ],
+            "fi": [
+                "Työskentely EU:ssa",
+                "eläkkeelle jääminen EU:ssa",
+                "avoimet työpaikat Euroopassa",
+                "eläkkeet EU:ssa",
+                "työkyvyttömyysoikeudet",
+                "äitiysoikeudet",
+                "eurooppalainen CV",
+                "Europass",
+                "Euroopan unioni",
+                "EU",
+                "työmatkat",
+                "verotus"
+            ],
+            "fr": [
+                "Travailler dans l'UE",
+                "prendre sa retraite dans l'UE",
+                "emplois en Europe",
+                "pensions de retraite dans l'UE",
+                "droits des handicapés",
+                "droits liés à la maternité",
+                "CV européen",
+                "Europass",
+                "Union européenne",
+                "UE",
+                "transfrontalier",
+                "frontalier",
+                "déplacements domicile-travail",
+                "impôts"
+            ],
+            "ga": [
+                "Obair san AE",
+                "ar scor san AE",
+                "poist san Eoraip",
+                "pinsin ón AE",
+                "cearta míchumais",
+                "cearta máithreachais",
+                "CV Eorpach",
+                "Europass",
+                "an Aontas Eorpach",
+                "an AE",
+                "trasteorann",
+                "comaitéireacht a dhéanamh",
+                "cánacha"
+            ],
+            "hr": [
+                "Rad u EU-u",
+                "umirovljenje u EU-u",
+                "radna mjesta u Europi",
+                "mirovine u EU-u",
+                "prava osoba s invaliditetom",
+                "rodiljna prava",
+                "europski životopis",
+                "Europass",
+                "Europska unija EU",
+                "prekogranično",
+                "putovanje na posao",
+                "porezi"
+            ],
+            "hu": [
+                "Munkavállalás",
+                "nyugdíjba vonulás",
+                "álláslehetőségek",
+                "nyugdíjak",
+                "fogyatékosság",
+                "szülési szabadság",
+                "jogok",
+                "uniós",
+                "EU-ban",
+                "Európai Unióban",
+                "európai önéletrajz",
+                "Europass",
+                "Európai Unió",
+                "EU",
+                "határokon átívelő",
+                "határokon átnyúló",
+                "ingázás",
+                "ingázó",
+                "adók"
+            ],
+            "it": [
+                "Lavorare nell'UE",
+                "andare in pensione nell'UE",
+                "offerte di lavoro in Europa",
+                "pensioni nell'UE",
+                "diritti dei disabili",
+                "diritti per la maternità",
+                "CV europeo",
+                "Europass",
+                "Unione europea",
+                "UE",
+                "transfrontaliero",
+                "pendolarismo",
+                "tasse"
+            ],
+            "lt": [
+                "Darbas ES",
+                "pensija ES",
+                "darbo vietos Europoje",
+                "ES pensijos",
+                "neįgaliųjų teisės",
+                "teisė į nėštumo ir gimdymo atostogas",
+                "europinis CV",
+                "Europass",
+                "Europos Sąjunga",
+                "ES",
+                "tarpvalstybinis",
+                "važinėjimas į darbą",
+                "mokesčiai"
+            ],
+            "lv": [
+                "darbs ES",
+                "pensionēšanās ES",
+                "brīvās darbvietas Eiropā",
+                "ES pensijas",
+                "invalīdu tiesības",
+                "ar grūtniecību saistītās tiesības",
+                "Eiropas parauga dzīves apraksts Europass CV",
+                "Eiropas Savienība",
+                "regulāra ES robežšķērsošana",
+                "dodoties uz darbu",
+                "nodokļi"
+            ],
+            "mt": [
+                "Aħdem fl-UE",
+                "irtira fl-UE",
+                "impjiegi fl-Ewropa",
+                "pensjonijiet fl-UE",
+                "drittijiet ta' diżabilità",
+                "drittijiet tal-maternità",
+                "CV Ewropew",
+                "Europass",
+                "Unjoni Ewropea",
+                "UE",
+                "transkonfinali",
+                "tivvjaġġa għall-post tax-xogħol",
+                "taxxi"
+            ],
+            "nl": [
+                "Werken in de EU",
+                "met pensioen gaan in de EU",
+                "EU-pensioenen",
+                "rechten van gehandicapten",
+                "recht op ouderschapsverlof",
+                "Europees cv",
+                "Europass",
+                "Europese Unie",
+                "EU",
+                "grensoverschrijdend",
+                "pendelen",
+                "belastingen"
+            ],
+            "pl": [
+                "Praca w UE",
+                "emerytura w UE",
+                "praca w Europie",
+                "emerytura w Europie",
+                "prawa osób niepełnosprawnych",
+                "prawo do urlopu macierzyńskiego",
+                "prawa przysługujące matkom",
+                "życiorys",
+                "CV",
+                "Europass",
+                "Unia Europejska",
+                "UE",
+                "międzynarodowe",
+                "transgraniczne",
+                "dojeżdżać do pracy",
+                "podatki"
+            ],
+            "pt": [
+                "trabalhar na ue",
+                "reformar-se na ue",
+                "emprego na ue",
+                "pensões",
+                "direitos das pessoas com deficiência",
+                "direitos em matéria de maternidade",
+                "cv europeu",
+                "europass",
+                "união europeia",
+                "ue",
+                "transfronteiriço",
+                "transfronteiras",
+                "atravessar a fronteira diariamente para ir traba",
+                "impostos"
+            ],
+            "ro": [
+                "Munca în UE",
+                "pensionarea în UE",
+                "locuri de muncă în Europa",
+                "pensii UE",
+                "drepturile persoanelor cu handicap",
+                "concedii de maternitate",
+                "CV european",
+                "Europass",
+                "Uniunea Europeană",
+                "lucrători transfrontalieri",
+                "naveta",
+                "impozite",
+                "taxe"
+            ],
+            "sk": [
+                "Práca v EÚ",
+                "odchod do dôchodku v EÚ",
+                "pracovné miesta v Európe",
+                "dôchodky EÚ",
+                "práva osôb so zdravotným postihnutím",
+                "práva žien na materskej dovolenke",
+                "Európsky životopis",
+                "CV",
+                "Europass",
+                "Európska únia",
+                "EÚ",
+                "cezhraničné",
+                "dochádzanie",
+                "dane"
+            ],
+            "sl": [
+                "Zaposlitev v EU",
+                "upokojitev v EU",
+                "delo v Evropi",
+                "pokojnine EU",
+                "pravice do invalidnine",
+                "porodniški in starševski dopust",
+                "evropski življenjepis",
+                "Europass",
+                "Evropska unija",
+                "EU",
+                "čezmejno delo",
+                "obmejno delo",
+                "davki"
+            ],
+            "sv": [
+                "Jobba i EU",
+                "pensionera sig i EU",
+                "pensioner i EU",
+                "handikappbidrag",
+                "mammaledighet",
+                "europeiskt cv",
+                "europass",
+                "Europeiska unionen",
+                "EU",
+                "gränsarbete",
+                "pendla",
+                "skatter"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "10-000-Employment and Work"
+            ],
+            "cs": [
+                "10-000-Employment and Work"
+            ],
+            "da": [
+                "10-000-Employment and Work"
+            ],
+            "de": [
+                "10-000-Employment and Work"
+            ],
+            "el": [
+                "10-000-Employment and Work"
+            ],
+            "en": [
+                "10-000-Employment and Work"
+            ],
+            "es": [
+                "10-000-Employment and Work"
+            ],
+            "et": [
+                "10-000-Employment and Work"
+            ],
+            "fi": [
+                "10-000-Employment and Work"
+            ],
+            "fr": [
+                "10-000-Employment and Work"
+            ],
+            "ga": [
+                "10-000-Employment and Work"
+            ],
+            "hr": [
+                "10-000-Employment and Work"
+            ],
+            "hu": [
+                "10-000-Employment and Work"
+            ],
+            "it": [
+                "10-000-Employment and Work"
+            ],
+            "lt": [
+                "10-000-Employment and Work"
+            ],
+            "lv": [
+                "10-000-Employment and Work"
+            ],
+            "mt": [
+                "10-000-Employment and Work"
+            ],
+            "nl": [
+                "10-000-Employment and Work"
+            ],
+            "pl": [
+                "10-000-Employment and Work"
+            ],
+            "pt": [
+                "10-000-Employment and Work"
+            ],
+            "ro": [
+                "10-000-Employment and Work"
+            ],
+            "sk": [
+                "10-000-Employment and Work"
+            ],
+            "sl": [
+                "10-000-Employment and Work"
+            ],
+            "sv": [
+                "10-000-Employment and Work"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<h2>Работа и пенсии в ЕС</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_bg.htm\"                   lang=\"bg\">Работа в чужбина</a>             </h3>             <h2>Признаване на професионалните квалификации</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_bg.htm\"                   lang=\"bg\">Официално признаване на вашите професионални квалификации</a>             </h3>             <h2>Автобиография</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/bg/documents/curriculum-vitae\">Създаване на европейска автобиография (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/bg/documents/european-skills-passport/language-passport\">Вашите езикови умения (стандартен формуляр)</a>             </h3>             <h2>Работни места</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/bg/homepage\">Свободни работни места в Европа</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_bg.htm\"                   lang=\"bg\">Намиране на работа в чужбина</a>             </h3>             <h2>Увреждания</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=bg\">Права на хората с увреждания</a>             </h3>             <h2>Отпуск по майчинство</h2>             <h3>Отпуск по майчинство и родителски отпуск</h3>             <h2>Обезщетения за безработица</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_bg.htm\"                   lang=\"bg\">Обезщетения за безработица</a>             </h3>             <h2>Данъци</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_bg.htm\" lang=\"bg\">Данък върху доходите и двойно данъчно облагане</a>             </h3>             <h2>Пенсии</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_bg.htm\"                   lang=\"bg\">Пенсиониране в чужбина</a>             </h3>"
+            ],
+            "cs": [
+                "<h2>Práce a důchod v EU</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_cs.htm\"                   lang=\"cs\">Práce v zahraničí</a>             </h3>             <h2>Uznávání odborných kvalifikací</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_cs.htm\"                   lang=\"cs\">Jak postupovat při uznávání odborné kvalifikace</a>             </h3>             <h2>Životopis</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/cs/documents/curriculum-vitae\">Vytvořte si životopis ve formátu Europass</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/cs/documents/european-skills-passport/language-passport\">Vaše jazykové dovednosti (normalizovaný formulář)</a>             </h3>             <h2>Pracovní místa</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/cs/homepage\">Volná pracovní místa v Evropě</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_cs.htm\"                   lang=\"cs\">Hledání práce v zahraničí</a>             </h3>             <h2>Zdravotní postižení</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=cs\">Práva zdravotně postižených osob</a>             </h3>             <h2>Mateřská dovolená</h2>             <h3>Mateřská a rodičovská dovolená</h3>             <h2>Podpora v nezaměstnanosti</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_cs.htm\"                   lang=\"cs\">Podpora v nezaměstnanosti</a>             </h3>             <h2>Daně</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_cs.htm\" lang=\"cs\">Daně z příjmu a dvojí zdanění</a>             </h3>             <h2>Důchody</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_cs.htm\"                   lang=\"cs\">Důchod v zahraničí</a>             </h3>"
+            ],
+            "da": [
+                "<h2>Arbejde og pension i EU</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_da.htm\"                   lang=\"da\">Arbejde i udlandet</a>             </h3>             <h2>Anerkendelse af faglige kvalifikationer</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_da.htm\"                   lang=\"da\">Få dine erhvervsmæssige kvalifikationer anerkendt</a>             </h3>             <h2>Curriculum vitae</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/da/documents/curriculum-vitae\">Lav et europæisk CV (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/da/documents/european-skills-passport/language-passport\">Dine sprogfærdigheder (standardformular)</a>             </h3>             <h2>Job</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/da/homepage\">Ledige job i andre EU-lande</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_da.htm\"                   lang=\"da\">Jobsøgning i udlandet</a>             </h3>             <h2>Handicap</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=da\">Handicappedes rettigheder</a>             </h3>             <h2>Barselsorlov</h2>             <h3>Barsels- og forældreorlov</h3>             <h2>Arbejdsløshedsunderstøttelse</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_da.htm\"                   lang=\"da\">Arbejdsløshedsunderstøttelse</a>             </h3>             <h2>Skat</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_da.htm\" lang=\"da\">Indkomstskat og dobbeltbeskatning</a>             </h3>             <h2>Pension</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_da.htm\"                   lang=\"da\">Pension i udlandet</a>             </h3>"
+            ],
+            "de": [
+                "<h2>Arbeit und Ruhestand in der EU</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_de.htm\"                   lang=\"de\">Arbeiten im Ausland</a>             </h3>             <h2>Anerkennung beruflicher Qualifikationen</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_de.htm\"                   lang=\"de\">Offizielle Anerkennung von Berufsqualifikationen </a>             </h3>             <h2>Lebenslauf</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/de/documents/curriculum-vitae\">Erstellen eines europäischen Lebenslaufs (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/de/documents/european-skills-passport/language-passport\">Ihre Sprachkenntnisse (Standardformular)</a>             </h3>             <h2>Arbeitsplätze</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/de/homepage\">Stellenangebote in Europa</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_de.htm\"                   lang=\"de\">Arbeitssuche im Ausland</a>             </h3>             <h2>Behinderungen</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=de\">Menschen mit Behinderungen</a>             </h3>             <h2>Mutterschaftsurlaub</h2>             <h3>Mutterschafts- und Elternurlaub</h3>             <h2>Leistungen bei Arbeitslosigkeit</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_de.htm\"                   lang=\"de\">Leistungen bei Arbeitslosigkeit</a>             </h3>             <h2>Steuern</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_de.htm\" lang=\"de\">Einkommensteuer und Doppelbesteuerung</a>             </h3>             <h2>Rente</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_de.htm\"                   lang=\"de\">Ruhestand im Ausland</a>             </h3>"
+            ],
+            "el": [
+                "<h2>Εργασία και συνταξιοδότηση στην ΕΕ</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_el.htm\"                   lang=\"el\">Εργασία στο εξωτερικό</a>             </h3>             <h2>Αναγνώριση των επαγγελματικών προσόντων</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_el.htm\"                   lang=\"el\">Επίσημη αναγνώριση των επαγγελματικών σας προσόντων </a>             </h3>             <h2>Βιογραφικό σημείωμα</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/el/documents/curriculum-vitae\">Σύνταξη ευρωπαϊκού βιογραφικού σημειώματος (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/el/documents/european-skills-passport/language-passport\">Οι γλωσσικές σας γνώσεις (τυποποιημένο δελτίο)</a>             </h3>             <h2>Θέσεις εργασίας</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/el/homepage\">Προσφορά θέσεων εργασίας στην Ευρώπη</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_el.htm\"                   lang=\"el\">Εύρεση εργασίας στο εξωτερικό</a>             </h3>             <h2>Αναπηρίες</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=el\">Δικαιώματα ατόμων με αναπηρία</a>             </h3>             <h2>Άδεια μητρότητας</h2>             <h3>Άδεια μητρότητας και γονική άδεια</h3>             <h2>Παροχές ανεργίας</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_el.htm\"                   lang=\"el\">Παροχές ανεργίας</a>             </h3>             <h2>Φόροι</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_el.htm\" lang=\"el\">Φόρος εισοδήματος &amp; διπλή φορολόγηση</a>             </h3>             <h2>Συντάξεις</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_el.htm\"                   lang=\"el\">Συνταξιοδότηση στο εξωτερικό</a>             </h3>"
+            ],
+            "en": [
+                "<h2>Working in the EU</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_en.htm\"                   lang=\"en\">Working abroad</a>             </h3>             <h2>Recognition of professional qualifications</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_en.htm\"                   lang=\"en\">Getting your professional qualifications officially recognised</a>             </h3>             <h2>Curriculum vitae</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/en/documents/curriculum-vitae\">Create a CV (Europass format)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/en/documents/european-skills-passport/language-passport\">Assess your language skills (Language Passport)</a>             </h3>             <h2>Jobs</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/en/homepage\">Job vacancies in the EU</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_en.htm\"                   lang=\"en\">Finding a job in the EU</a>             </h3>             <h2>Disabilities</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=en\">Rights of people with disabilities</a>             </h3>             <h2>Maternity leave</h2>             <h3>                <a href=\"http://ec.europa.eu/justice/gender-equality/rights/work-life-balance/index_en.htm\"                   lang=\"en\">Maternity &amp; parental leave</a>             </h3>             <h2>Unemployment benefits</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_en.htm\"                   lang=\"en\">Unemployment benefits</a>             </h3>             <h2>Taxes</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_en.htm\" lang=\"en\">Income tax &amp; double taxation</a>             </h3>             <h2>Pensions</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_en.htm\"                   lang=\"en\">Pension rights in the EU</a>             </h3>"
+            ],
+            "es": [
+                "<h2>Trabajar y jubilarse en la UE</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_es.htm\"                   lang=\"es\">Trabajar en el extranjero</a>             </h3>             <h2>Reconocimiento de las cualificaciones profesionales</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_es.htm\"                   lang=\"es\">Obtener el reconocimiento oficial de las cualificaciones profesionales</a>             </h3>             <h2>Currículum vítae</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/es/documents/curriculum-vitae\">Crear un CV europeo (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/es/documents/european-skills-passport/language-passport\">Cualificaciones lingüísticas (formulario estándar)</a>             </h3>             <h2>Trabajo</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/es/homepage\">Ofertas de trabajo en Europa</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_es.htm\"                   lang=\"es\">Encontrar trabajo en el extranjero</a>             </h3>             <h2>Discapacidades</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=es\">Derechos de las personas con discapacidad</a>             </h3>             <h2>Permiso de maternidad</h2>             <h3>Permiso por maternidad y parental</h3>             <h2>Prestación por desempleo</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_es.htm\"                   lang=\"es\">Prestación por desempleo</a>             </h3>             <h2>Impuestos</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_es.htm\" lang=\"es\">Impuesto sobre la renta y doble imposición</a>             </h3>             <h2>Pensiones</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_es.htm\"                   lang=\"es\">Jubilarse en el extranjero</a>             </h3>"
+            ],
+            "et": [
+                "<h2>ELis töötamine ja pensionile jäämine</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_et.htm\"                   lang=\"et\">Töötamine välismaal</a>             </h3>             <h2>Kutsekvalifikatsioonide tunnustamine</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_et.htm\"                   lang=\"et\">Kutsekvalifikatsioonide ametlik tunnustamine</a>             </h3>             <h2>Curriculum vitae</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/et/documents/curriculum-vitae\">Koostage oma Euroopa CV (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/et/documents/european-skills-passport/language-passport\">Teie keeleoskus (standardvorm)</a>             </h3>             <h2>Töökohad</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/et/homepage\">Tööpakkumised Euroopas</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_et.htm\"                   lang=\"et\">Töö leidmine välismaal</a>             </h3>             <h2>Puuded</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=et\">Puuetega inimeste õigused</a>             </h3>             <h2>Rasedus- ja sünnituspuhkus</h2>             <h3>Rasedus- ja sünnituspuhkus ning lapsehoolduspuhkus</h3>             <h2>Töötushüvitised</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_et.htm\"                   lang=\"et\">Töötushüvitised</a>             </h3>             <h2>Maksud</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_et.htm\" lang=\"et\">Tulumaks ja topeltmaksustamine</a>             </h3>             <h2>Pensionid</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_et.htm\"                   lang=\"et\">Välismaal pensionile jäämine</a>             </h3>"
+            ],
+            "fi": [
+                "<h2>Työskentely ja eläkkeelle jääminen EU:ssa</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_fi.htm\"                   lang=\"fi\">Työskentely ulkomailla</a>             </h3>             <h2>Ammattipätevyyden tunnustaminen</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_fi.htm\"                   lang=\"fi\">Virallisen tunnustuksen hakeminen</a>             </h3>             <h2>Ansioluettelo</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/fi/documents/curriculum-vitae\">Eurooppalaisen ansioluettelon laatiminen (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/fi/documents/european-skills-passport/language-passport\">Kielipassi</a>             </h3>             <h2>Työpaikat</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/fi/homepage\">Avoimia työpaikkoja Euroopassa</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_fi.htm\"                   lang=\"fi\">Työnhaku ulkomailta</a>             </h3>             <h2>Vammaiset</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=fi\">Vammaisten oikeudet</a>             </h3>             <h2>Äitiysloma</h2>             <h3>Äitiysloma ja vanhempainvapaa</h3>             <h2>Työttömyysetuudet</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_fi.htm\"                   lang=\"fi\">Työttömyysetuudet</a>             </h3>             <h2>Verot</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_fi.htm\" lang=\"fi\">Tulovero ja kaksinkertainen verotus</a>             </h3>             <h2>Eläkkeet</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_fi.htm\"                   lang=\"fi\">Eläkkeellä ulkomailla</a>             </h3>"
+            ],
+            "fr": [
+                "<h2>Travailler et prendre sa retraite dans l'UE</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_fr.htm\"                   lang=\"fr\">Travailler à l’étranger</a>             </h3>             <h2>Reconnaissance des qualifications professionnelles</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_fr.htm\"                   lang=\"fr\">Obtenir la reconnaissance officielle de ses qualifications professionnelles</a>             </h3>             <h2>Curriculum vitæ</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/fr/documents/curriculum-vitae\">Créer un CV européen (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/fr/documents/european-skills-passport/language-passport\">Compétences linguistiques (formulaire standard)</a>             </h3>             <h2>Travail</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/fr/homepage\">Offres d'emploi en Europe</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_fr.htm\"                   lang=\"fr\">Trouver un emploi à l'étranger</a>             </h3>             <h2>Handicaps</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=fr\">Droits des personnes handicapées</a>             </h3>             <h2>Congé de maternité</h2>             <h3>Congé de maternité ou parental</h3>             <h2>Allocations de chômage</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_fr.htm\"                   lang=\"fr\">Allocations de chômage</a>             </h3>             <h2>Fiscalité</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_fr.htm\" lang=\"fr\">Impôt sur le revenu et double imposition</a>             </h3>             <h2>Pensions</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_fr.htm\"                   lang=\"fr\">Prendre sa retraite à l'étranger</a>             </h3>"
+            ],
+            "ga": [
+                "<h2>Obair agus scor san AE</h2>             <h3>Dul ag obair thar lear</h3>             <h2>Aitheantas a thabhairt do cháilíochtaí gairmiúla</h2>             <h3>Aitheantas oifigiúil a fháil do cháilíochtaí gairmiúla</h3>             <h2>Curriculum Vitae</h2>             <h3>                <a href=\"http://europa.eu/eu-life/work-pensions/notrad\">Cruthaigh CV Eorpach (Europass)</a>             </h3>             <h3>Do scileanna teanga (foirm chaighdeánach)</h3>             <h2>Poist</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/ga/homepage\">Folúntais post san Eoraip</a>             </h3>             <h3>Post a aimsiú san Aontas Eorpach</h3>             <h2>Míchumais</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=ga\">Cearta na ndaoine atá faoi mhíchumas</a>             </h3>             <h2>Saoire mháithreachais</h2>             <h3>Saoire mháithreachais agus thuismitheoirí</h3>             <h2>Sochair dífhostaíochta</h2>             <h3>Sochair dífhostaíochta</h3>             <h2>Cánacha</h2>             <h3>Cáin ioncaim agus cánachas dúbailte</h3>             <h2>Pinsin</h2>             <h3>Cearta pinsin san Aontas Eorpach</h3>"
+            ],
+            "hr": [
+                "<h2>Rad i umirovljenje u EU-u</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_hr.htm\"                   lang=\"hr\">Rad u inozemstvu</a>             </h3>             <h2>Priznavanje stručnih kvalifikacija</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_hr.htm\"                   lang=\"hr\">Službeno priznavanje stručnih kvalifikacija</a>             </h3>             <h2>Životopis</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/hr/documents/curriculum-vitae\">Sastavite europski životopis (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/hr/documents/european-skills-passport/language-passport\">Jezične vještine (standardni oblik)</a>             </h3>             <h2>Poslovi</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/hr/homepage\">Slobodna radna mjesta u Europi</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_hr.htm\"                   lang=\"hr\">Pronalaženje posla u inozemstvu</a>             </h3>             <h2>Invaliditet</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=hr\">Prava osoba s invaliditetom</a>             </h3>             <h2>Rodiljni dopust</h2>             <h3>Rodiljni i roditeljski dopust</h3>             <h2>Naknade za nezaposlenost</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_hr.htm\"                   lang=\"hr\">Naknade za nezaposlenost</a>             </h3>             <h2>Porezi</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_hr.htm\" lang=\"hr\">Porez na dohodak i dvostruko oporezivanje</a>             </h3>             <h2>Mirovine</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_hr.htm\"                   lang=\"hr\">Umirovljenje u inozemstvu</a>             </h3>"
+            ],
+            "hu": [
+                "<h2>Munkavállalás és nyugdíjba vonulás az EU-ban</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_hu.htm\"                   lang=\"hu\">Munkavállalás külföldön</a>             </h3>             <h2>Szakmai képesítések elismerése</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_hu.htm\"                   lang=\"hu\">Szakmai képesítések hivatalos elismertetése</a>             </h3>             <h2>Önéletrajz</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/hu/documents/curriculum-vitae\">Készítse el európai (Europass) önéletrajzát</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/hu/documents/european-skills-passport/language-passport\">Készítse el nyelvi útlevelét (űrlap segítségével)</a>             </h3>             <h2>Álláslehetőségek</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/hu/homepage\">Álláslehetőségek Európában</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_hu.htm\"                   lang=\"hu\">Álláskeresés külföldön</a>             </h3>             <h2>Fogyatékosság</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=hu\">Fogyatékossággal élők jogai</a>             </h3>             <h2>Szülési szabadság</h2>             <h3>Szülési és szülői szabadság</h3>             <h2>Álláskeresési járadékok</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_hu.htm\"                   lang=\"hu\">Álláskeresési járadékok</a>             </h3>             <h2>Adók</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_hu.htm\" lang=\"hu\">Jövedelemadó és kettős adóztatás</a>             </h3>             <h2>Nyugdíjak</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_hu.htm\"                   lang=\"hu\">Nyugdíjba vonulás külföldön</a>             </h3>"
+            ],
+            "it": [
+                "<h2>Lavorare e andare in pensione nell'UE</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_it.htm\"                   lang=\"it\">Lavorare all’estero</a>             </h3>             <h2>Riconoscimento delle qualifiche professionali</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_it.htm\"                   lang=\"it\">Ottenere il riconoscimento ufficiale delle qualifiche professionali</a>             </h3>             <h2>Curriculum vitae</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/it/documents/curriculum-vitae\">Crea un CV europeo (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/it/documents/european-skills-passport/language-passport\">Le tue competenze linguistiche (modulo standard)</a>             </h3>             <h2>Posti di lavoro</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/it/homepage\">Opportunità di lavoro in Europa</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_it.htm\"                   lang=\"it\">Trovare un lavoro all'estero</a>             </h3>             <h2>Invalidità</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=it\">Diritti dei disabili</a>             </h3>             <h2>Congedo di maternità</h2>             <h3>Congedo parentale e di maternità</h3>             <h2>Indennità di disoccupazione</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_it.htm\"                   lang=\"it\">Indennità di disoccupazione</a>             </h3>             <h2>Tasse</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_it.htm\" lang=\"it\">Imposta sul reddito e doppia imposizione</a>             </h3>             <h2>Pensioni</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_it.htm\"                   lang=\"it\">Andare in pensione all'estero</a>             </h3>"
+            ],
+            "lt": [
+                "<h2>Darbas ir pensija ES</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_lt.htm\"                   lang=\"lt\">Darbas užsienyje</a>             </h3>             <h2>Profesinių kvalifikacijų pripažinimas</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_lt.htm\"                   lang=\"lt\">Oficialus jūsų profesinės kvalifikacijos pripažinimas</a>             </h3>             <h2>Gyvenimo aprašymas</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/lt/documents/curriculum-vitae\">Parenkite europinį CV („Europass“)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/lt/documents/european-skills-passport/language-passport\">Kalbų žinios (standartinė forma)</a>             </h3>             <h2>Darbo vietos</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/lt/homepage\">Laisvos darbo vietos Europoje</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_lt.htm\"                   lang=\"lt\">Darbo paieškos užsienyje</a>             </h3>             <h2>Neįgalumas</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=lt\">Neįgaliųjų teisės</a>             </h3>             <h2>Nėštumo ir gimdymo atostogos</h2>             <h3>Nėštumo ir gimdymo bei vaiko priežiūros atostogos</h3>             <h2>Bedarbio pašalpos</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_lt.htm\"                   lang=\"lt\">Bedarbio pašalpos</a>             </h3>             <h2>Mokesčiai</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_lt.htm\" lang=\"lt\">Pajamų mokestis ir dvigubas apmokestinimas</a>             </h3>             <h2>Pensijos</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_lt.htm\"                   lang=\"lt\">Gyvenimas užsienyje, išėjus į pensiją</a>             </h3>"
+            ],
+            "lv": [
+                "<h2>Darbs un pensionēšanās ES</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_lv.htm\"                   lang=\"lv\">Darbs ārzemēs</a>             </h3>             <h2>Profesionālās kvalifikācijas atzīšana</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_lv.htm\"                   lang=\"lv\">Kā panākt, lai tiktu oficiāli atzīta jūsu profesionālā kvalifikācija</a>             </h3>             <h2>Dzīves apraksts (CV)</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/lv/documents/curriculum-vitae\">Izveidojiet ES parauga dzīves aprakstu (CV)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/lv/documents/european-skills-passport/language-passport\">Jūsu valodu prasmes (veidlapa)</a>             </h3>             <h2>Darbavietas</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/lv/homepage\">Brīvās darbavietas Eiropā</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_lv.htm\"                   lang=\"lv\">Darba meklēšana ārzemēs</a>             </h3>             <h2>Invaliditāte</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=lv\">Invalīdu tiesības</a>             </h3>             <h2>Grūtniecības un dzemdību atvaļinājums</h2>             <h3>Bērna kopšanas atvaļinājums mātei vai tēvam</h3>             <h2>Bezdarbnieka pabalsti</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_lv.htm\"                   lang=\"lv\">Bezdarbnieka pabalsti</a>             </h3>             <h2>Nodokļi</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_lv.htm\" lang=\"lv\">Ienākuma nodoklis un nodokļu dubultā uzlikšana </a>             </h3>             <h2>Pensijas</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_lv.htm\"                   lang=\"lv\">Pensionēšanās ārzemēs</a>             </h3>"
+            ],
+            "mt": [
+                "<h2>Xogħol u rtirat fl-UE</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_mt.htm\"                   lang=\"mt\">Xogħol barra pajjiżek</a>             </h3>             <h2>Għarfien tal-kwalifiki professjonali</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_mt.htm\"                   lang=\"mt\">Akkwist b'mod uffiċjali tar-rikonoxximent tal-kwalifiki professjonali tiegħek</a>             </h3>             <h2>Curriculum vitae</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/mt/documents/curriculum-vitae\">Oħloq CV Ewropew (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/mt/documents/european-skills-passport/language-passport\">Il-ħiliet tal-lingwa tiegħek (formola standard)</a>             </h3>             <h2>Impjiegi</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/mt/homepage\">Postijiet vakanti fl-Ewropa</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_mt.htm\"                   lang=\"mt\">Sib impjieg barra pajjiżek</a>             </h3>             <h2>Diżabilitajiet</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=mt\">Id-drittijiet tal-persuni b'diżabbiltà</a>             </h3>             <h2>Lif tal-maternità</h2>             <h3>Liv tal-maternità jew tal-ġenituri</h3>             <h2>Benefiċċji tal-qgħad</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_mt.htm\"                   lang=\"mt\">Benefiċċji tal-qgħad</a>             </h3>             <h2>It-taxxi</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_mt.htm\" lang=\"mt\">Taxxa fuq id-dħul u tassazzjoni doppja</a>             </h3>             <h2>Pensjonijiet</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_mt.htm\"                   lang=\"mt\">L-irtirar barra pajjiżek</a>             </h3>"
+            ],
+            "nl": [
+                "<h2>Werk en pensioenen in de EU</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_nl.htm\"                   lang=\"nl\">Werken in het buitenland</a>             </h3>             <h2>Erkenning van beroepskwalificaties</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_nl.htm\"                   lang=\"nl\">Erkenning van beroepskwalificaties</a>             </h3>             <h2>Curriculum vitae</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/nl/documents/curriculum-vitae\">Maak je eigen Europees cv (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/nl/documents/european-skills-passport/language-passport\">Je talenkennis (standaardformulier)</a>             </h3>             <h2>Vacatures</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/nl/homepage\">Vacatures in Europa</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_nl.htm\"                   lang=\"nl\">Werk zoeken in het buitenland</a>             </h3>             <h2>Gehandicapten</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=nl\">Rechten van mensen met een handicap</a>             </h3>             <h2>Zwangerschapsverlof</h2>             <h3>Zwangerschaps- en ouderschapsverlof</h3>             <h2>Werkloosheidsuitkeringen</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_nl.htm\"                   lang=\"nl\">Werkloosheidsuitkeringen</a>             </h3>             <h2>Belastingen</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_nl.htm\" lang=\"nl\">Inkomstenbelasting en dubbele belasting</a>             </h3>             <h2>Pensioenen</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_nl.htm\"                   lang=\"nl\">In het buitenland met pensioen gaan</a>             </h3>"
+            ],
+            "pl": [
+                "<h2>Praca i emerytura w UE</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_pl.htm\"                   lang=\"pl\">Praca za granicą</a>             </h3>             <h2>Uznawanie kwalifikacji zawodowych</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_pl.htm\"                   lang=\"pl\">Oficjalne uznawanie kwalifikacji zawodowych</a>             </h3>             <h2>Życiorys</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/pl/documents/curriculum-vitae\">Zredaguj swoje europejskie CV (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/pl/documents/european-skills-passport/language-passport\">Znajomość języków (formularz standardowy)</a>             </h3>             <h2>Praca</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/pl/homepage\">Ogłoszenia o pracę w Europie</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_pl.htm\"                   lang=\"pl\">Poszukiwanie pracy za granicą</a>             </h3>             <h2>Niepełnosprawność</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=pl\">Prawa osób niepełnosprawnych</a>             </h3>             <h2>Urlop macierzyński</h2>             <h3>Urlop macierzyński i rodzicielski</h3>             <h2>Zasiłki dla bezrobotnych</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_pl.htm\"                   lang=\"pl\">Zasiłki dla bezrobotnych</a>             </h3>             <h2>Podatki</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_pl.htm\" lang=\"pl\">Podatek dochodowy i podwójne opodatkowanie</a>             </h3>             <h2>Emerytury</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_pl.htm\"                   lang=\"pl\">Emerytura za granicą</a>             </h3>"
+            ],
+            "pt": [
+                "<h2>Trabalhar e reformar-se na UE</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_pt.htm\"                   lang=\"pt\">Trabalhar no estrangeiro</a>             </h3>             <h2>Reconhecimento de qualificações profissionais</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_pt.htm\"                   lang=\"pt\">Obter o reconhecimento oficial das qualificações profissionais</a>             </h3>             <h2>Currículo</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/pt/documents/curriculum-vitae\">Criar um CV europeu (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/pt/documents/european-skills-passport/language-passport\">Competências linguísticas (formulário normalizado)</a>             </h3>             <h2>Emprego</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/pt/homepage\">Ofertas de emprego na Europa</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_pt.htm\"                   lang=\"pt\">Encontrar emprego no estrangeiro</a>             </h3>             <h2>Deficiência</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=pt\">Direitos das pessoas com deficiência</a>             </h3>             <h2>Licença de maternidade</h2>             <h3>Licença de maternidade e parental</h3>             <h2>Subsídios de desemprego</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_pt.htm\"                   lang=\"pt\">Subsídios de desemprego</a>             </h3>             <h2>Impostos</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_pt.htm\" lang=\"pt\">Dupla tributação e imposto sobre o rendimento</a>             </h3>             <h2>Pensões</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_pt.htm\"                   lang=\"pt\">Reformar-se no estrangeiro</a>             </h3>"
+            ],
+            "ro": [
+                "<h2>Munca şi pensionarea în UE</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_ro.htm\"                   lang=\"ro\">Munca în străinătate</a>             </h3>             <h2>Recunoașterea calificărilor profesionale</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_ro.htm\"                   lang=\"ro\">Cum să obțineți recunoașterea oficială a calificărilor dvs. profesionale</a>             </h3>             <h2>Curriculum vitae</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/ro/documents/curriculum-vitae\">Crearea unui CV european (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/ro/documents/european-skills-passport/language-passport\">Competenţe lingvistice (formular standard)</a>             </h3>             <h2>Locuri de muncă</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/ro/homepage\">Posturi vacante în Europa</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_ro.htm\"                   lang=\"ro\">Căutarea unui loc de muncă în străinătate</a>             </h3>             <h2>Handicap</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=ro\">Drepturile persoanelor cu handicap</a>             </h3>             <h2>Concediu de maternitate</h2>             <h3>Concediul de maternitate și concediul parental</h3>             <h2>Alocațiile de șomaj</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_ro.htm\"                   lang=\"ro\">Alocațiile de șomaj</a>             </h3>             <h2>Impozite</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_ro.htm\" lang=\"ro\">Impozitul pe venit și dubla impunere</a>             </h3>             <h2>Pensii</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_ro.htm\"                   lang=\"ro\">La pensie, în străinătate</a>             </h3>"
+            ],
+            "sk": [
+                "<h2>Práca a dôchodok v EÚ</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_sk.htm\"                   lang=\"sk\">Práca v zahraničí</a>             </h3>             <h2>Vzájomné uznávanie odborných kvalifikácií</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_sk.htm\"                   lang=\"sk\">Úradné uznanie vašich odborných kvalifikácií</a>             </h3>             <h2>Životopis</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/sk/documents/curriculum-vitae\">Európske CV (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/sk/documents/european-skills-passport/language-passport\">Tvoje jazykové znalosti (štandardný formulár)</a>             </h3>             <h2>Pracovné miesta</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/sk/homepage\">Voľné pracovné miesta v Európe</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_sk.htm\"                   lang=\"sk\">Hľadanie práce v zahraničí</a>             </h3>             <h2>Zdravotné postihnutia</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=sk\">Práva občanov so zdravotným postihnutím</a>             </h3>             <h2>Materská dovolenka</h2>             <h3>Materská a rodičovská dovolenka</h3>             <h2>Dávky v nezamestnanosti</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_sk.htm\"                   lang=\"sk\">Dávky v nezamestnanosti</a>             </h3>             <h2>Dane</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_sk.htm\" lang=\"sk\">Daň z príjmov a dvojité zdanenie</a>             </h3>             <h2>Dôchodky</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_sk.htm\"                   lang=\"sk\">Odchod do dôchodku v zahraničí</a>             </h3>"
+            ],
+            "sl": [
+                "<h2>Zaposlitev in upokojitev v drugi državi EU</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_sl.htm\"                   lang=\"sl\">Delo v tujini</a>             </h3>             <h2>Priznavanje poklicnih kvalifikacij</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_sl.htm\"                   lang=\"sl\">Poklicne kvalifikacije</a>             </h3>             <h2>Življenjepis</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/sl/documents/curriculum-vitae\">Evropski življenjepis (Europass)</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/sl/documents/european-skills-passport/language-passport\">Znanje jezikov (standardni obrazec)</a>             </h3>             <h2>Možnosti zaposlitve</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/sl/homepage\">Prosta delovna mesta v Evropi</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_sl.htm\"                   lang=\"sl\">Iskanje zaposlitve v tujini</a>             </h3>             <h2>Invalidnost</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=sl\">Pravice invalidov</a>             </h3>             <h2>Porodniški dopust</h2>             <h3>Porodniški in starševski dopust</h3>             <h2>Nadomestila za brezposelnost</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_sl.htm\"                   lang=\"sl\">Nadomestila za brezposelnost</a>             </h3>             <h2>Davki</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_sl.htm\" lang=\"sl\">Dohodnina in dvojno obdavčevanje</a>             </h3>             <h2>Pokojnina</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_sl.htm\"                   lang=\"sl\">Upokojitev v tujini</a>             </h3>"
+            ],
+            "sv": [
+                "<h2>Arbeta och pensionera sig i EU</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/work-abroad/index_sv.htm\"                   lang=\"sv\">Jobba utomlands</a>             </h3>             <h2>Erkännande av yrkeskvalifikationer</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/professional-qualifications/index_sv.htm\"                   lang=\"sv\">Få dina yrkeskvalifikationer erkända</a>             </h3>             <h2>Meritförteckning</h2>             <h3>                <a href=\"http://europass.cedefop.europa.eu/sv/documents/curriculum-vitae\">Skriv ditt cv enligt europeisk modell</a>             </h3>             <h3>                <a href=\"http://europass.cedefop.europa.eu/sv/documents/european-skills-passport/language-passport\">Dina språkkunskaper (språkpass)</a>             </h3>             <h2>Jobb</h2>             <h3>                <a href=\"https://ec.europa.eu/eures/public/sv/homepage\">Lediga jobb i Europa</a>             </h3>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/finding-job-abroad/index_sv.htm\"                   lang=\"sv\">Söka jobb utomlands</a>             </h3>             <h2>Funktionsnedsättning</h2>             <h3>                <a href=\"http://ec.europa.eu/social/home.jsp?langId=sv\">Rättigheter för personer med funktionsnedsättning</a>             </h3>             <h2>Föräldraledighet</h2>             <h3>Mamma- och föräldraledighet</h3>             <h2>Arbetslöshetsförmåner</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/unemployment-and-benefits/index_sv.htm\"                   lang=\"sv\">Arbetslöshetsförmåner</a>             </h3>             <h2>Skatter</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/taxes/index_sv.htm\" lang=\"sv\">Inkomstskatt och dubbelbeskattning</a>             </h3>             <h2>Pensioner</h2>             <h3>                <a href=\"http://europa.eu/youreurope/citizens/work/retire-abroad/index_sv.htm\"                   lang=\"sv\">Pensionärer utomlands</a>             </h3>"
+            ]
+        },
+        "video_gallery_item": {
+            "und": [
+                "video_gallery_item_e46caa10947416b1a7e163c8dd9c0a82"
+            ]
+        }
+    }
+}

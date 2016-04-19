@@ -1,0 +1,835 @@
+{
+  "_id": "9068650cd5d3c07cc31c74bc9c5906a8",
+  "type": "institution",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/agencies/executive_agencies/inea/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Изпълнителна агенция за иновации и мрежи"
+      ],
+      "cs": [
+        "Výkonná agentura pro inovace a sítě"
+      ],
+      "da": [
+        "Forvaltningsorganet for Innovation og Netværk"
+      ],
+      "de": [
+        "Exekutivagentur für Innovation und Netze"
+      ],
+      "el": [
+        "Εκτελεστικός Οργανισμός Καινοτομίας και Δικτύων"
+      ],
+      "en": [
+        "Innovation & Networks Executive Agency"
+      ],
+      "es": [
+        "Agencia Ejecutiva de Innovación y Redes"
+      ],
+      "et": [
+        "Innovatsiooni ja Võrkude Rakendusamet"
+      ],
+      "fi": [
+        "Innovoinnin ja verkkojen toimeenpanovirasto"
+      ],
+      "fr": [
+        "Agence exécutive «Innovation et réseaux»"
+      ],
+      "ga": [
+        "Gníomhaireacht Feidhmiúcháin um Nuálaíocht & Gréasáin"
+      ],
+      "hr": [
+        "Izvršna agencija za inovacije i mreže"
+      ],
+      "hu": [
+        "Innovációs és Hálózati Projektek Végrehajtó Ügynökség (INEA)"
+      ],
+      "it": [
+        "Agenzia esecutiva per l'innovazione e le reti"
+      ],
+      "lt": [
+        "Inovacijų ir tinklų programų vykdomoji įstaiga"
+      ],
+      "lv": [
+        "Inovācijas un tīklu izpildaģentūra"
+      ],
+      "mt": [
+        "l-Aġenzija Eżekuttiva għall-Innovazzjoni u n-Netwerks"
+      ],
+      "nl": [
+        "Uitvoerend Agentschap innovatie en netwerken"
+      ],
+      "pl": [
+        "Agencja Wykonawcza ds. Innowacyjności i Sieci"
+      ],
+      "pt": [
+        "Agência de Execução para a Inovação e as Redes"
+      ],
+      "ro": [
+        "Agenția Executivă pentru Inovare și Rețele"
+      ],
+      "sk": [
+        "Výkonná agentúra pre inovácie a siete"
+      ],
+      "sl": [
+        "Izvajalska agencija za inovacije in omrežja"
+      ],
+      "sv": [
+        "Genomförandeorganet för innovation och transportnät"
+      ]
+    },
+    "category": {
+      "und": [
+        "23337c48",
+        "40261c35"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "EUROPA/"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "EUROPA/"
+      ],
+      "es": [
+        "EUROPA/"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "EUROPA/"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA/"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "EUROPA/"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_creator": {
+      "en": [
+        "COMM/A5"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Европейска комисия — Изпълнителна агенция за иновации и мрежи"
+      ],
+      "cs": [
+        "Evropská komise – Výkonná agentura pro inovace a sítě"
+      ],
+      "da": [
+        "Europa-Kommissionen – Forvaltningsorganet for Innovation og Netværk"
+      ],
+      "de": [
+        "Europäische Kommission – Exekutivagentur für Innovation und Netze"
+      ],
+      "el": [
+        "Ευρωπαϊκή Επιτροπή — Εκτελεστικός Οργανισμός Καινοτομίας και Δικτύων"
+      ],
+      "en": [
+        "European Commission – Innovation and Networks Executive Agency"
+      ],
+      "es": [
+        "Comisión Europea - Agencia Ejecutiva de Innovación y Redes"
+      ],
+      "et": [
+        "Euroopa Komisjon – Innovatsiooni ja Võrkude Rakendusamet"
+      ],
+      "fi": [
+        "Euroopan komissio – Innovoinnin ja verkkojen toimeenpanovirasto"
+      ],
+      "fr": [
+        "Commission européenne – Agence exécutive «Innovation et réseaux»"
+      ],
+      "ga": [
+        "An Coimisiún Eorpach – Gníomhaireacht Feidhmiúcháin um Nuálaíocht agus Gréasáin"
+      ],
+      "hr": [
+        "Europska komisija – Izvršna agencija za inovacije i mreže"
+      ],
+      "hu": [
+        "Európai Bizottság – Innovációs és Hálózati Projektek Végrehajtó Ügynökség"
+      ],
+      "it": [
+        "Commissione europea –  Agenzia esecutiva per l'innovazione e le reti"
+      ],
+      "lt": [
+        "Europos Komisija. Inovacijų ir tinklų programų vykdomoji įstaiga"
+      ],
+      "lv": [
+        "Eiropas Komisija — Inovācijas un tīklu izpildaģentūra"
+      ],
+      "mt": [
+        "Il-Kummissjoni Ewropea – Aġenzija Eżekuttiva għall-Innovazzjoni u n-Netwerks"
+      ],
+      "nl": [
+        "Europese Commissie – Uitvoerend Agentschap innovatie en netwerken"
+      ],
+      "pl": [
+        "Komisja Europejska – Agencja Wykonawcza ds. Innowacyjności i Sieci "
+      ],
+      "pt": [
+        "Comissão Europeia — Agência de Execução para a Inovação e as Redes"
+      ],
+      "ro": [
+        "Comisia Europeană - Agenția Executivă pentru Inovare și Rețele"
+      ],
+      "sk": [
+        "Európska komisia – Výkonná agentúra pre inovácie a siete "
+      ],
+      "sl": [
+        "Evropska komisija – Izvajalska agencija za inovacije in omrežja"
+      ],
+      "sv": [
+        "EU-kommissionen – Genomförandeorganet för innovation och transportnät"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "ЕС",
+        "Europa",
+        "Европейски съюз",
+        "Европейска комисия",
+        "Изпълнителна агенция",
+        "иновации"
+      ],
+      "cs": [
+        "EU",
+        "Europa, Evropa",
+        "Evropská unie",
+        "Evropská komise",
+        "výkonná agentura",
+        "inovace"
+      ],
+      "da": [
+        "EU",
+        "Europa",
+        "Den Europæiske Union",
+        "Europa-Kommissionen",
+        "forvaltningsorgan",
+        "innovation"
+      ],
+      "de": [
+        "EU",
+        "Europa",
+        "Europäische Union",
+        "Europäische Kommission",
+        "Exekutivagentur",
+        "Innovation"
+      ],
+      "el": [
+        "ΕΕ",
+        "Europa",
+        "Ευρωπαϊκή Ένωση",
+        "Ευρωπαϊκή Επιτροπή",
+        "Εκτελεστικός Οργανισμός",
+        "καινοτομία"
+      ],
+      "en": [
+        "EU",
+        "Europa",
+        "European Union",
+        "European Commission",
+        "Executive Agency",
+        "innovation"
+      ],
+      "es": [
+        "ue",
+        "portal europa",
+        "unión europea",
+        "comisión europea",
+        "agencia ejecutiva",
+        "innovación"
+      ],
+      "et": [
+        "EL",
+        "Europa",
+        "Euroopa Liit",
+        "Euroopa Komisjon",
+        "Rakendusamet",
+        "innovatsioon"
+      ],
+      "fi": [
+        "EU",
+        "Europa",
+        "Euroopan unioni",
+        "Euroopan komissio",
+        "Toimeenpanovirasto",
+        "innovointi, innovaatio"
+      ],
+      "fr": [
+        "UE",
+        "Europe",
+        "Union européenne",
+        "Commission européenne",
+        "Agence exécutive",
+        "innovation"
+      ],
+      "ga": [
+        "AE",
+        "Europa",
+        "An tAontas Eorpach",
+        "An Coimisiún Eorpach",
+        "Gníomhaireacht Feidhmiúcháin",
+        "nuálaíocht"
+      ],
+      "hr": [
+        "EU",
+        "Europa",
+        "Europska unija",
+        "Europska komisija",
+        "Izvršna agencija",
+        "Inovacije"
+      ],
+      "hu": [
+        "EU",
+        "EUROPA",
+        "Európai Unió",
+        "Európai Bizottság",
+        "végrehajtó ügynökség",
+        "innováció"
+      ],
+      "it": [
+        "UE",
+        "Europa",
+        "Unione europea",
+        "Commissione europea",
+        "Agenzia esecutiva",
+        "innovazione"
+      ],
+      "lt": [
+        "ES",
+        "Europa",
+        "Europos Sąjunga",
+        "Europos Komisija",
+        "Vykdomoji įstaiga",
+        "inovacijos"
+      ],
+      "lv": [
+        "ES",
+        "Europa",
+        "Eiropas Savienība",
+        "Eiropas Komisija",
+        "izpildaģentūra",
+        "inovācija"
+      ],
+      "mt": [
+        "UE",
+        "Europa",
+        "Unjoni Ewropea",
+        "Kummissjoni Ewropea",
+        "Aġenzija Eżekuttiva",
+        "innovazzjoni"
+      ],
+      "nl": [
+        "EU",
+        "Europa",
+        "Europese Unie",
+        "Europese Commissie",
+        "Uitvoerend agentschap",
+        "innovatie"
+      ],
+      "pl": [
+        "UE",
+        "Europa",
+        "Unia Europejska",
+        "Komisja Europejska",
+        "agencja wykonawcza",
+        "innowacje"
+      ],
+      "pt": [
+        "ue",
+        "europa",
+        "união europeia",
+        "comissão europeia",
+        "agência de execução",
+        "inovação"
+      ],
+      "ro": [
+        "UE",
+        "Europa",
+        "Uniunea Europeană",
+        "Comisia Europeană",
+        "Agenția Executivă",
+        "inovare"
+      ],
+      "sk": [
+        "EÚ",
+        "Europa",
+        "Európska únia",
+        "Európska komisia",
+        "Výkonná agentúra",
+        "inovácie"
+      ],
+      "sl": [
+        "EU",
+        "Evropa",
+        "Evropska unija",
+        "Evropska komisija",
+        "Izvajalska agencija",
+        "inovacije"
+      ],
+      "sv": [
+        "EU",
+        "europa.eu, europa",
+        "Europeiska unionen",
+        "Europeiska kommissionen",
+        "Genomförandeorgan",
+        "Innovation"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "info1": {
+      "bg": [
+        "<p>Изпълнителната агенция за иновации и мрежи (INEA) управлява инфраструктурни и научноизследователски проекти в областта на <strong>транспорта, енергетиката и далекосъобщенията</strong>.</p>             <p>По-конкретно, тя се занимава със следните програми на ЕС:</p>             <ul>                <li>                   <span class=\"link-disabled\">Механизъм за свързване на Европа</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"[POPUP_LABEL]\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\" alt=\"[POPUP_LABEL]\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (бюджет от 30 млрд. евро): транспорт, енергетика и цифрови далекосъобщения</li>                <li>2 направления (бюджет от 7 млрд. евро) на основната програма на ЕС за научни изследвания <span class=\"link-disabled\">Хоризонт 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"[POPUP_LABEL]\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\" alt=\"[POPUP_LABEL]\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>:      <ul>                      <li>Интелигентен, екологосъобразен и интегриран транспорт </li>                      <li>Сигурна, чиста и ефективна енергия</li>                   </ul>                </li>             </ul>             <p>INEA е наследник на Изпълнителната агенция за трансевропейска транспортна мрежа (TEN-T EA) и започна дейност на 1 януари 2014 г.</p>"
+      ],
+      "cs": [
+        "<p>Výkonná agentura pro inovace a sítě (INEA) řídí infrastrukturní a výzkumné programy v oblasti <strong>dopravy, energetiky a telekomunikací</strong>.</p>             <p>Jedná se zejména o tyto programy EU:</p>             <ul>                <li>                   <span class=\"link-disabled\">Nástroj pro propojení Evropy</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Vybrat překlad k předcházejícímu odkazu\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Vybrat překlad k předcházejícímu odkazu\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (rozpočet ve výši 30 miliard eur): doprava, energetika a digitální telekomunikace</li>                <li>dvě části (rozpočet ve výši 7 miliard eur) hlavního programu EU na financování výzkumu <span class=\"link-disabled\">Horizont 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Vybrat překlad k předcházejícímu odkazu\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Vybrat překlad k předcházejícímu odkazu\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>:      <ul>                      <li>Inteligentní, ekologická a integrovaná doprava </li>                      <li>Bezpečná, čistá a účinná energie</li>                   </ul>                </li>             </ul>             <p>INEA je nástupkyní Výkonné agentury pro transevropskou dopravní síť (TEN-T EA) a zahájila činnost 1. ledna 2014.</p>"
+      ],
+      "da": [
+        "<p>INEA forvalter infrastruktur- og forskningsprojekter inden for områderne <strong>transport, energi og telekommunikation</strong>.</p>             <p>Der er tale om følgende EU-programmer:</p>             <ul>                <li>                   <span class=\"link-disabled\">Connecting Europe-faciliteten</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Vælg oversættelse af det forrige link\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Vælg oversættelse af det forrige link\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (budget: 30 mia. euro): transport, energi og digital telekommunikation </li>                <li>2 dele af <span class=\"link-disabled\">Horisont 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Vælg oversættelse af det forrige link\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Vælg oversættelse af det forrige link\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>, EU's vigtigste forskningsstøtteprogram (budget: 7 mia. euro):      <ul>                      <li>Intelligent, grøn og integreret transport </li>                      <li>Sikker, ren og effektiv energi</li>                   </ul>                </li>             </ul>             <p>INEA er efterfølgeren til TEN-T EA (Forvaltningsorganet for det Transeuropæiske Transportnet) og indledte sin virksomhed den 1. januar 2014.</p>"
+      ],
+      "de": [
+        "<p>Die INEA verwaltet Infrastruktur- und Forschungsprojekte in den Bereichen <strong>Verkehr, Energie und Telekommunikation</strong>.</p>             <p>Insbesondere ist sie für folgende EU-Programme zuständig:</p>             <ul>                <li>             Die <span class=\"link-disabled\">Fazilität „Connecting Europe“</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Übersetzung für diesen Link wählen\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Übersetzung für diesen Link wählen\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> für Verkehr, Energie und digitale Kommunikation (Mittelausstattung: 30 Milliarden Euro)</li>                <li>Zwei Teile des größten EU-Forschungsförderungsprogramms, <span class=\"link-disabled\">Horizont 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Übersetzung für diesen Link wählen\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Übersetzung für diesen Link wählen\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>, mit einer Ausstattung von 7 Milliarden Euro, und zwar:      <ul>                      <li>Intelligenter, umweltfreundlicher und integrierter Verkehr </li>                      <li>Sichere, saubere und effiziente Energieversorgung</li>                   </ul>                </li>             </ul>             <p>Die INEA ist die Nachfolgerin der Exekutivagentur für das transeuropäische Verkehrsnetz (TEN-V-EA). Sie hat ihre Tätigkeit am 1. Januar 2014 aufgenommen.</p>"
+      ],
+      "el": [
+        "<p>Ο INEA διαχειρίζεται έργα υποδομής και έρευνας στους τομείς <strong>μεταφορών, ενέργειας και τηλεπικοινωνιών</strong>.</p>             <p>Συγκεκριμένα, διαχειρίζεται τα ακόλουθα ευρωπαϊκά προγράμματα:</p>             <ul>                <li>                   <span class=\"link-disabled\">Διευκόλυνση «Συνδέοντας την Ευρώπη»</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (με προϋπολογισμό 30 δισ. ευρώ): μεταφορές, ενέργεια και ψηφιακές τηλεπικοινωνίες</li>                <li>2 άξονες (με προϋπολογισμό 7 δισ. ευρώ) του βασικού ευρωπαϊκού προγράμματος έρευνας <span class=\"link-disabled\">Ορίζοντας 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Επιλέξτε μεταφράσεις του προηγούμενου συνδέσμου\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>: <ul>                      <li>Έξυπνες, πράσινες και ενοποιημένες μεταφορές </li>                      <li>Ασφαλής, καθαρή και αποδοτική ενέργεια</li>                   </ul>                </li>             </ul>             <p>Ο INEA διαδέχεται τον Εκτελεστικό Οργανισμό ΔΕΔ-Μ (Εκτελεστικός Οργανισμός του Διευρωπαϊκού Δικτύου Μεταφορών ) και άρχισε να λειτουργεί την 1<sup>η</sup> Ιανουαρίου 2014.</p>"
+      ],
+      "en": [
+        "<p>INEA manages infrastructure and research projects in the fields of <strong>transport, energy and telecommunications</strong>.</p>             <p>Specifically this means the following EU programmes:</p>             <ul>                <li>                   <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\">Connecting Europe Facility</a> (€30bn in funding): transport, energy and digital telecommunications</li>                <li>2 strands (€7bn in funding) of the EU's main research funding programme, <a href=\"http://ec.europa.eu/programmes/horizon2020/\">Horizon 2020</a>:      <ul>                      <li>Smart green and integrated transport </li>                      <li>Secure, clean and efficient energy</li>                   </ul>                </li>             </ul>             <p>INEA is the successor of the TEN-T EA (Trans-European Transport Network Executive Agency) and started to operate on 1<sup>st</sup> January 2014.</p>"
+      ],
+      "es": [
+        "<p>La INEA gestiona proyectos de infraestructuras e investigación en tres campos: <strong>transporte, energía y telecomunicaciones</strong>.</p>             <p>Concretamente, su actuación se articula en torno a los siguientes programas de la UE:</p>             <ul>                <li>                   <span class=\"link-disabled\">Mecanismo “Conectar Europa”</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Elija traducciones del enlace precedente\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Elija traducciones del enlace precedente\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (dotado de 30.000 millones de euros): transporte, energía y telecomunicaciones digitales</li>                <li>dos capítulos (dotados de 7.000 millones de euros) del principal programa de investigación de la UE, <span class=\"link-disabled\">Horizon 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Elija traducciones del enlace precedente\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Elija traducciones del enlace precedente\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>: <ul>                      <li>Transporte inteligente, ecológico e integrado </li>                      <li>Energía segura, limpia y eficiente.</li>                   </ul>                </li>             </ul>             <p>La INEA entró en funcionamiento el 1 de enero de 2014, como sucesora de la Agencia Ejecutiva de la Red Transeuropea de Transporte.</p>"
+      ],
+      "et": [
+        "<p>Innovatsiooni ja Võrkude Rakendusamet haldab infrastruktuuri- ja teadusprojekte <strong>transpordi, energeetika ja telekommunikatsiooni</strong> valdkondades.</p>             <p>Konkreetselt hõlmab see järgmisi ELi programme:</p>             <ul>                <li>                   <span class=\"link-disabled\">Euroopa ühendamise rahastu</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Valige lingiga seotud tõlked\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Valige lingiga seotud tõlked\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (eelarve 30 miljardit eurot): transport, energeetika ja digitaalne telekommunikatsioon.</li>                <li>ELi peamise teadustöö rahastamise programmi (<span class=\"link-disabled\">Horisont 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Valige lingiga seotud tõlked\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Valige lingiga seotud tõlked\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>) 2 alaprogrammi (eelarve 7 miljardit eurot):      <ul>                      <li>arukas, keskkonnahoidlik ja integreeritud transport; </li>                      <li>turvaline, puhas ja tõhus energia.</li>                   </ul>                </li>             </ul>             <p>Innovatsiooni ja Võrkude Rakendusamet (varem Üleeuroopalise Transpordivõrgu Rakendusamet) alustas oma tegevust 1. jaanuaril 2014.</p>"
+      ],
+      "fi": [
+        "<p>INEA hallinnoi infrastruktuuri- ja tutkimushankkeita <strong>liikenteen, energian ja televiestinnän</strong> aloilla.</p>             <p>Kyseessä ovat seuraavat EU-ohjelmat:</p>             <ul>                <li>                   <span class=\"link-disabled\">Verkkojen Eurooppa -väline</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Näytä edellisen linkin kieliversiot\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Näytä edellisen linkin kieliversiot\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (määrärahat 30 miljardia euroa): liikenne, energia ja digitaalinen televiestintä</li>                <li>                   <span class=\"link-disabled\">Horisontti 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Näytä edellisen linkin kieliversiot\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Näytä edellisen linkin kieliversiot\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> -puiteohjelman, joka on EU:n tärkein tutkimusrahoitusohjelma, kaksi ohjelmalohkoa (määrärahat 7 miljardia euroa): <ul>                      <li>Älykäs, ympäristöystävällinen ja yhdentynyt liikenne </li>                      <li>Turvallinen, puhdas ja tehokas energia</li>                   </ul>                </li>             </ul>             <p>INEA aloitti toimintansa 1.1.2014 aiemman Euroopan laajuisen liikenneverkon toimeenpanoviraston (TEN-T EA) seuraajana.</p>"
+      ],
+      "fr": [
+        "<p>L'INEA gère des projets d’infrastructure et de recherche dans le domaine <strong>des transports, de l'énergie et des télécommunications</strong>.</p>             <p>Concrètement, elle s'occupe des programmes européens suivants:</p>             <ul>                <li>                   <span class=\"link-disabled\">Mécanisme pour l'interconnexion en Europe</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Choisir les traductions du lien précédent\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Choisir les traductions du lien précédent\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (budget: 30 milliards d'euros): transports, énergie et télécommunications numériques;</li>                <li>2 volets (budget: 7 milliards d'euros) du principal programme européen de financement de la recherche, <span class=\"link-disabled\">Horizon 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Choisir les traductions du lien précédent\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Choisir les traductions du lien précédent\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>: <ul>                      <li>Transports intelligents, verts et intégrés </li>                      <li>Énergies sûres, propres et efficaces</li>                   </ul>                </li>             </ul>             <p>L'INEA, qui succède à TEN-T EA (agence exécutive du réseau transeuropéen de transport), est opérationnelle depuis le 1<sup>er</sup> janvier 2014.</p>"
+      ],
+      "ga": [
+        "<p>Bainistíonn INEA tionscadail bonneagair agus taighde i réimsí <strong>an iompair, an fhuinnimh agus na teileachumarsáide</strong>.</p>             <p>Baineann sé go sonrach leis na cláir seo a leanas de chuid an AE:</p>             <ul>                <li>                   <span class=\"link-disabled\">An tSaoráid um Chónasctha na hEorpa</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (maoiniú €30 billiún): iompar, fuinneamh agus teileachumarsáid dhigiteach</li>                <li>2 shraith (maoiniú €7 billiún) de phríomhchlár maoinithe taighde an AE, <span class=\"link-disabled\">Fís 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>:      <ul>                      <li>Iompar atá cliste, glas agus comhtháite </li>                      <li>Fuinneamh atá slán, glan agus éifeachtúil</li>                   </ul>                </li>             </ul>             <p>Is é INEA an comharba ar TEN-T EA (Gníomhaireacht Feidhmiúcháin an Ghréasáin Iompair Thras-Eorpaigh) agus thosaigh sé ag feidhmiú ar an 1<sup/> Eanáir 2014.</p>"
+      ],
+      "hr": [
+        "<p>INEA upravlja infrastrukturnim i istraživačkim projektima u području <strong>transporta, energetike i telekomunikacija</strong>.</p>             <p>To posebice uključuje sljedeće programe EU-a:</p>             <ul>                <li>                   <span class=\"link-disabled\">Instrument za povezivanje Europe</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Odaberi prijevod prethodne poveznice\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Odaberi prijevod prethodne poveznice\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (financiranje u iznosu od 30 milijardi EUR): promet, energetika i digitalne telekomunikacije</li>                <li>dvije komponente (financiranje u iznosu od 7 milijardi EUR) glavnog programa EU-a za financiranje istraživanja, <span class=\"link-disabled\">Obzor 2020.</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Odaberi prijevod prethodne poveznice\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Odaberi prijevod prethodne poveznice\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>:      <ul>                      <li>pametan, zelen i integriran promet </li>                      <li>sigurna, čista i učinkovita energija.</li>                   </ul>                </li>             </ul>             <p>INEA je nasljednica Izvršne agencije za transeuropsku prometnu mrežu (TEN-T) i započela je s djelovanjem 1.<sup/> siječnja 2014.</p>"
+      ],
+      "hu": [
+        "<p>Az INEA infrastrukturális és kutatási projektek megvalósítását irányítja <strong>a közlekedés, az energiaügy és a távközlés</strong> terén.</p>             <p>Konkrétan az alábbi uniós programokért tartozik felelősséggel:</p>             <ul>                <li>                   <span class=\"link-disabled\">Európai Hálózatfinanszírozási Eszköz</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Az előző linken elérhető szöveg fordításai\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Az előző linken elérhető szöveg fordításai\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (30 milliárd eurós költségvetés): közlekedés, energiaügy és digitális távközlés</li>                <li>A legfőbb uniós kutatásfinanszírozási program, a <span class=\"link-disabled\">Horizont 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Az előző linken elérhető szöveg fordításai\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Az előző linken elérhető szöveg fordításai\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> két alterülete (7 milliárd eurós költségvetés):      <ul>                      <li>Intelligens, környezetkímélő és integrált közlekedés </li>                      <li>Biztonságos, tiszta és hatékony energia</li>                   </ul>                </li>             </ul>             <p>Az INEA 2014. január 1-jén kezdte meg működését. Elődje a Transzeurópai Közlekedési Hálózat Végrehajtó Hivatala (TEN-TEA) volt.</p>"
+      ],
+      "it": [
+        "<p>L'INEA gestisce i progetti infrastrutturali e di ricerca nei settori <strong>trasporti, energia e telecomunicazioni</strong>.</p>             <p>In particolare, si occupa delle seguenti iniziative dell’UE:</p>             <ul>                <li>                   <span class=\"link-disabled\">Meccanismo per collegare l'Europa</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Scegli le traduzioni del link precedente\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Scegli le traduzioni del link precedente\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (30 miliardi di euro di finanziamenti): trasporti, energia e telecomunicazioni digitali</li>                <li>2 settori d'intervento (7 miliardi di euro di finanziamenti) del principale programma dell'UE per il finanziamento della ricerca, <span class=\"link-disabled\">Orizzonte 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Scegli le traduzioni del link precedente\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Scegli le traduzioni del link precedente\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>:      <ul>                      <li>trasporti intelligenti, verdi e integrati </li>                      <li>energia sicura, pulita ed efficiente</li>                   </ul>                </li>             </ul>             <p>L'INEA sostituisce l'Agenzia esecutiva per la rete transeuropea di trasporto (TEN-T EA) ed è entrata in funzione il 1<sup>°</sup> gennaio 2014.</p>"
+      ],
+      "lt": [
+        "<p>Inovacijų ir tinklų programų vykdomoji įstaiga valdo <strong>transporto, energetikos ir telekomunikacijų</strong> sričių infrastruktūros ir mokslinių tyrimų projektus.</p>             <p>Konkrečiai tai yra šios ES programos:</p>             <ul>                <li>                   <span class=\"link-disabled\">Europos infrastruktūros tinklų priemonė</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Pasirinkti šios nuorodos vertimus\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Pasirinkti šios nuorodos vertimus\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (30 mlrd. eurų finansavimas): transportas, energetika ir skaitmeninės telekomunikacijos;</li>                <li>ES pagrindinės mokslinių tyrimų finansavimo programos <span class=\"link-disabled\">Horizontas 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Pasirinkti šios nuorodos vertimus\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Pasirinkti šios nuorodos vertimus\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> 2 kryptys (7 mlrd. eurų finansavimas):      <ul>                      <li>išmanios, netaršios ir integruotos transporto sistemos; </li>                      <li>saugi, švari ir efektyviai naudojama energija.</li>                   </ul>                </li>             </ul>             <p>Inovacijų ir tinklų programų vykdomoji įstaiga pakeitė Transeuropinio transporto tinklo vykdomąją įstaigą (TEN-T EA) ir pradėjo veiklą 2014 m. sausio 1 d.</p>"
+      ],
+      "lv": [
+        "<p>INEA vada infrastruktūras un pētniecības projektus <strong>transporta, enerģētikas un telesakaru</strong> nozarē.</p>             <p>Konkrēti tas nozīmē, ka tās ziņā ir šādas ES programmas:</p>             <ul>                <li>                   <span class=\"link-disabled\">Eiropas infrastruktūras savienošanas instruments</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Izvēlieties saites tulkojumu\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Izvēlieties saites tulkojumu\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (ar 30 miljardu eiro finansējumu): transports, enerģētika un digitālie telesakari;</li>                <li>ES galvenās pētniecības finansēšanas programmas “<span class=\"link-disabled\">Apvārsnis 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Izvēlieties saites tulkojumu\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Izvēlieties saites tulkojumu\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>” divas daļas (ar 7 miljardu eiro finansējumu): <ul>                      <li>vieds, videi nekaitīgs un integrēts transports; </li>                      <li>droša, vidi nepiesārņojoša un efektīva enerģija.</li>                   </ul>                </li>             </ul>             <p>INEA turpina Eiropas Transporta tīkla (TEN-T) izpildaģentūras darbu un sāka darboties 2014. gada 1.<sup/> janvārī.</p>"
+      ],
+      "mt": [
+        "<p>L-INEA timmaniġġja l-proġetti ta' infrastruttura u ta' riċerka fl-oqsma <strong>tat-trasport, l-enerġija u t-telekomunikazzjonijiet</strong>.</p>             <p>Speċifikament dan ifisser il-programmi tal-UE li ġejjin:</p>             <ul>                <li>             Il-<span class=\"link-disabled\">Faċilità Nikkollegaw l-Ewropa</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (€30 biljun ta' fondi): trasport, enerġija u telekomunikazzjonijiet diġitali</li>                <li>2 oqsma (€7 biljun ta' fondi) tal-programm ta' riċerka ewlieni ta' finanzjament tal-UE, <span class=\"link-disabled\">Orizzont 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Agħżel it-traduzzjonijiet mil-link ta' qabel\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>:     <ul>                      <li>Trasport intelliġenti, ekoloġiku u integrat </li>                      <li>Enerġija sikura, nadifa u effiċjenti</li>                   </ul>                </li>             </ul>             <p>L-INEA hi s-suċċessur ta' TEN-T EA (l-Aġenzija Eżekuttiva tan-Netwerk Trans-Ewropew tat-Trasport) u bdiet topera fl-1 ta' Jannar 2014.</p>"
+      ],
+      "nl": [
+        "<p>INEA beheert infrastructuur- en onderzoeksprojecten op het gebied van <strong>vervoer, energie en telecommunicatie</strong>.</p>             <p>Dit betekent concreet de volgende communautaire programma’s:</p>             <ul>                <li>                   <span class=\"link-disabled\">Connecting Europe Facility</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Bekijk deze link in een andere taal\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Bekijk deze link in een andere taal\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (budget: 30 miljard euro): transport, energie en digitale telecommunicatie</li>                <li>twee onderdelen (budget: 7 miljard euro) van het belangrijkste EU-onderzoeksprogramma, <span class=\"link-disabled\">Horizon 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Bekijk deze link in een andere taal\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Bekijk deze link in een andere taal\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>:  <ul>                      <li>Slim, groen en geïntegreerd vervoer </li>                      <li>Zekere, schone en efficiënte energie</li>                   </ul>                </li>             </ul>             <p>INEA is de opvolger van het Uitvoerend Agentschap voor het trans-Europees vervoersnetwerk (TEN-T) en begon zijn werkzaamheden op 1 januari 2014.</p>"
+      ],
+      "pl": [
+        "<p>Agencja Wykonawcza ds. Innowacyjności i Sieci odpowiada za zarządzanie infrastrukturą i projektami badawczymi w dziedzinie <strong>transportu, energii i telekomunikacji</strong>.</p>             <p>W szczególności zajmuje się następującymi programami UE:</p>             <ul>                <li>                   <span class=\"link-disabled\">instrument „Łącząc Europę”</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Wybierz wersję językową tego linka\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Wybierz wersję językową tego linka\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (budżet 30 mld euro): transport, energia i telekomunikacja cyfrowa</li>                <li>2 obszary (budżet 7 mld euro) głównego unijnego programu finansowania badań <span class=\"link-disabled\">„Horyzont 2020”</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Wybierz wersję językową tego linka\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Wybierz wersję językową tego linka\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>: <ul>                      <li>Inteligentny, ekologiczny i zintegrowany transport </li>                      <li>Bezpieczna, czysta i efektywna energia</li>                   </ul>                </li>             </ul>             <p>Agencja Wykonawcza ds. Innowacyjności i Sieci zastąpiła Agencję Wykonawczą ds. Transeuropejskiej Sieci Transportowej (TEN-T EA) i rozpoczęła działalność 1 stycznia 2014 r.</p>"
+      ],
+      "pt": [
+        "<p>A INEA assegura a gestão dos projetos de infraestruturas e de investigação nos domínios dos <strong>transportes, energia e telecomunicações</strong>.</p>             <p>É responsável, nomeadamente, pelos seguintes programas da UE:</p>             <ul>                <li>                   <span class=\"link-disabled\">«Mecanismo Interligar a Europa»</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Traduções da ligação anterior\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Traduções da ligação anterior\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>, que dispõe de uma dotação de 30 mil milhões de euros no domínio dos transportes, energia e telecomunicações digitais</li>                <li>duas vertentes do programa principal de incentivo à investigação <span class=\"link-disabled\">Horizonte 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Traduções da ligação anterior\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Traduções da ligação anterior\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> que dispõe de uma dotação de sete mil milhões de euros:      <ul>                      <li>transportes inteligentes, ecológicos e integrados </li>                      <li>energia segura, não poluente e eficiente</li>                   </ul>                </li>             </ul>             <p>A INEA, que é a sucessora da Agência de Execução da Rede Transeuropeia de Transportes (TEN-T EA), entrou em funcionamento em 1 de janeiro de 2014.</p>"
+      ],
+      "ro": [
+        "<p>INEA gestionează proiectele de cercetare și infrastructură din <strong>domeniul transportului, energiei și telecomunicațiilor</strong>.</p>             <p>Concret, este vorba despre următoarele programe:</p>             <ul>                <li>                   <span class=\"link-disabled\">Mecanismul pentru interconectarea Europei</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Traducerile linkului anterior\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Traducerile linkului anterior\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (buget de 30 de miliarde de euro): transport, energie și telecomunicații digitale</li>                <li>două linii de acțiune (cu un buget de 7 miliarde de euro) ale principalului program de cercetare al UE, <span class=\"link-disabled\">Orizont 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Traducerile linkului anterior\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Traducerile linkului anterior\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>:      <ul>                      <li>transporturi inteligente, ecologice și integrate </li>                      <li>surse de energie sigure, ecologice și eficiente.</li>                   </ul>                </li>             </ul>             <p>INEA înlocuiește Agenția Executivă pentru Rețeaua Transeuropeană de Transport (TEN-T EA) și a devenit operațională la data de 1 ianuarie 2014.</p>"
+      ],
+      "sk": [
+        "<p>INEA riadi infraštruktúrne a výskumné projekty v oblasti <strong>dopravy, energetiky a telekomunikácií</strong>.</p>             <p>Konkrétne ide o tieto programy EÚ:</p>             <ul>                <li>                   <span class=\"link-disabled\">Nástroj na prepájanie Európy</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Vybrať preklady k predchádzajúcemu odkazu\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (rozpočet 30 miliárd EUR): doprava, energetika a digitálne telekomunikácie</li>                <li>2 oblasti hlavného programu EÚ na financovanie výskumu <span class=\"link-disabled\">Horizont 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Vybrať preklady k predchádzajúcemu odkazu\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Vybrať preklady k predchádzajúcemu odkazu\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (rozpočet 7 miliárd EUR):      <ul>                      <li>inteligentná, ekologická a integrovaná doprava, </li>                      <li>bezpečná, čistá a efektívne využívaná energia.</li>                   </ul>                </li>             </ul>             <p>INEA, ktorá vystriedala agentúru TEN-T EA (Výkonná agentúra pre transeurópsku dopravnú sieť), začala svoju činnosť 1. januára 2014.</p>"
+      ],
+      "sl": [
+        "<p>INEA upravlja infrastrukturne in raziskovalne projekte na področju <strong>prometa, energetike in telekomunikacij</strong>,</p>             <p>natančneje naslednje programe EU:</p>             <ul>                <li>                   <span class=\"link-disabled\">instrument za povezovanje Evrope</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Seznam prevodov predhodne povezave\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Seznam prevodov predhodne povezave\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (sredstva v višini 30 milijard evrov): promet, energetika in digitalne komunikacije;</li>                <li>dva sklopa (sredstva v višini 7 milijard evrov) osrednjega programa EU za financiranje raziskav z naslovom <span class=\"link-disabled\">Obzorje 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Seznam prevodov predhodne povezave\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Seznam prevodov predhodne povezave\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>:      <ul>                      <li>pametni, okolju prijazen in povezan promet, </li>                      <li>Zanesljiva, čista in učinkovita energija.</li>                   </ul>                </li>             </ul>             <p>INEA je naslednica Izvajalske agencije za vseevropsko prometno omrežje (TEN-T EA). Delovati je začela 1<sup>.</sup> januarja 2014.</p>"
+      ],
+      "sv": [
+        "<p>Inea förvaltar infrastruktur- och forskningsprojekt som rör <strong>transport, energi och telekommunikationer</strong>.</p>             <p>Följande EU-program berörs:</p>             <ul>                <li>                   <span class=\"link-disabled\">Fonden för ett sammanlänkat Europa</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Visa översättning av föregående länk\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Visa översättning av föregående länk\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/digital-agenda/en/connecting-europe-facility\"                               class=\"lang\"                               hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span> (med en budget på 30 miljarder euro): transport, energi och digital telekommunikation.</li>                <li>Två delar (med en budget på 7 miljarder euro) av EU:s viktigaste forskningsprogram, <span class=\"link-disabled\">Horisont 2020</span>                   <span class=\"ws-popup ws-modal\">                      <a href=\"javascript:void(o)\" class=\"ws-ico\"                         onclick=\"return webservice.popup(this,'')\"                         title=\"Visa översättning av föregående länk\">                         <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                              alt=\"Visa översättning av föregående länk\"                              height=\"13\"                              width=\"16\"/>                         <span class=\"s\"/>                      </a>                      <span class=\"ws-links\">                         <span class=\"ws-popup-layout\">                            <a href=\"http://ec.europa.eu/programmes/horizon2020/\" class=\"lang\" hreflang=\"en\"                               lang=\"en\"                               title=\"English (en)\">                               <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                            </a>                         </span>                      </span>                   </span>: <ul>                      <li>Smarta, gröna och integrerade transporter </li>                      <li>Säker, ren och effektiv energi</li>                   </ul>                </li>             </ul>             <p>INEA är efterföljaren till TEN-T EA (Genomförandeorganet för det transeuropeiska transportnätet) och inledde sin verksamhet den 1<sup/> januari 2014.</p>"
+      ]
+    },
+    "info2": {
+      "bg": [
+        "<p>                <strong>Директор:</strong> Dirk Beckers</p>"
+      ],
+      "cs": [
+        "<p>                <strong>Ředitel:</strong> Dirk Beckers</p>"
+      ],
+      "da": [
+        "<p>                <strong>Direktør:</strong> Dirk Beckers</p>"
+      ],
+      "de": [
+        "<p>                <strong>Direktor:</strong> Dirk Beckers</p>"
+      ],
+      "el": [
+        "<p>                <strong>Διευθυντής:</strong> Dirk beckers</p>"
+      ],
+      "en": [
+        "<p>                <strong>Director:</strong> Dirk Beckers</p>"
+      ],
+      "es": [
+        "<p>                <strong>Director:</strong> Dirk Beckers</p>"
+      ],
+      "et": [
+        "<p>                <strong>Direktor:</strong> Dirk Beckers</p>"
+      ],
+      "fi": [
+        "<p>                <strong>Johtaja:</strong> Dirk Beckers</p>"
+      ],
+      "fr": [
+        "<p>                <strong>Directeur:</strong> Dirk Beckers</p>"
+      ],
+      "ga": [
+        "<p>                <strong>Stiúrthóir:</strong> Dirk Beckers</p>"
+      ],
+      "hr": [
+        "<p>                <strong>Direktor:</strong> Dirk Beckers</p>"
+      ],
+      "hu": [
+        "<p>                <strong>Igazgató:</strong> Dirk Beckers</p>"
+      ],
+      "it": [
+        "<p>                <strong>Direttore:</strong> Dirk Beckers</p>"
+      ],
+      "lt": [
+        "<p>                <strong>Direktorius</strong> – Dirk Beckers</p>"
+      ],
+      "lv": [
+        "<p>                <strong>Direktors:</strong> Dirks Bekerss (Dirk Beckers)</p>"
+      ],
+      "mt": [
+        "<p>                <strong>Direttur:</strong> Dirk Beckers</p>"
+      ],
+      "nl": [
+        "<p>                <strong>Directeur:</strong> Dirk Beckers</p>"
+      ],
+      "pl": [
+        "<p>                <strong>Dyrektor:</strong> Dirk Beckers</p>"
+      ],
+      "pt": [
+        "<p>                <strong>Diretor:</strong> Dirk Beckers</p>"
+      ],
+      "ro": [
+        "<p>                <strong>Director:</strong> Dirk Beckers</p>"
+      ],
+      "sk": [
+        "<p>                <strong>Riaditeľ:</strong> Dirk Beckers</p>"
+      ],
+      "sl": [
+        "<p>                <strong>Direktor:</strong> Dirk Beckers</p>"
+      ],
+      "sv": [
+        "<p>                <strong>Direktör:</strong> Dirk Beckers</p>"
+      ]
+    },
+    "left_sub_menu": {
+      "und": [
+        true
+      ]
+    }
+  }
+}

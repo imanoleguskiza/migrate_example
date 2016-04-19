@@ -1,0 +1,423 @@
+{
+  "_id": "080126248a6a77b6",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "da",
+    "cs",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-09-27 16:22:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        18
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/health/thumb_health_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/health/thumb_health_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/health/thumb_health_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/health/thumb_health_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/health/thumb_health_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/health/thumb_health_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/health/thumb_health_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/health/thumb_health_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/health/thumb_health_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/health/thumb_health_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/health/thumb_health_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/health/thumb_health_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/health/thumb_health_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/health/thumb_health_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/health/thumb_health_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/health/thumb_health_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/health/thumb_health_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/health/thumb_health_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/health/thumb_health_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/health/thumb_health_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/health/thumb_health_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/health/thumb_health_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/health/thumb_health_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/health/thumb_health_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Обществено здраве"
+      ],
+      "cs": [
+        "Veřejné zdraví"
+      ],
+      "da": [
+        "Folkesundhed"
+      ],
+      "de": [
+        "Gesundheitswesen"
+      ],
+      "el": [
+        "Δημόσια υγεία"
+      ],
+      "en": [
+        "Public health"
+      ],
+      "es": [
+        "Salud pública"
+      ],
+      "et": [
+        "Rahvatervis"
+      ],
+      "fi": [
+        "Kansanterveys"
+      ],
+      "fr": [
+        "Santé publique"
+      ],
+      "ga": [
+        "Sláinte phoiblí"
+      ],
+      "hr": [
+        "Javno zdravstvo"
+      ],
+      "hu": [
+        "Egészségpolitika"
+      ],
+      "it": [
+        "Salute pubblica"
+      ],
+      "lt": [
+        "Visuomenės sveikata"
+      ],
+      "lv": [
+        "Sabiedrības veselība"
+      ],
+      "mt": [
+        "Is-saħħa pubblika"
+      ],
+      "nl": [
+        "Volksgezondheid"
+      ],
+      "pl": [
+        "Zdrowie publiczne"
+      ],
+      "pt": [
+        "Saúde pública"
+      ],
+      "ro": [
+        "Sănătatea publică"
+      ],
+      "sk": [
+        "Verejné zdravie"
+      ],
+      "sl": [
+        "Javno zdravje"
+      ],
+      "sv": [
+        "Folkhälsa"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Обществено здраве"
+      ],
+      "cs": [
+        "Veřejné zdraví"
+      ],
+      "da": [
+        "Folkesundhed"
+      ],
+      "de": [
+        "Gesundheitswesen"
+      ],
+      "el": [
+        "Δημόσια υγεία"
+      ],
+      "en": [
+        "Public health"
+      ],
+      "es": [
+        "Salud pública"
+      ],
+      "et": [
+        "Rahvatervis"
+      ],
+      "fi": [
+        "Kansanterveys"
+      ],
+      "fr": [
+        "Santé publique"
+      ],
+      "ga": [
+        "Sláinte phoiblí"
+      ],
+      "hr": [
+        "Javno zdravstvo"
+      ],
+      "hu": [
+        "Egészségpolitika"
+      ],
+      "it": [
+        "Salute pubblica"
+      ],
+      "lt": [
+        "Visuomenės sveikata"
+      ],
+      "lv": [
+        "Sabiedrības veselība"
+      ],
+      "mt": [
+        "Is-saħħa pubblika"
+      ],
+      "nl": [
+        "Volksgezondheid"
+      ],
+      "pl": [
+        "Zdrowie publiczne"
+      ],
+      "pt": [
+        "Saúde pública"
+      ],
+      "ro": [
+        "Sănătatea publică"
+      ],
+      "sk": [
+        "Verejné zdravie"
+      ],
+      "sl": [
+        "Javno zdravje"
+      ],
+      "sv": [
+        "Folkhälsa"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през cептември 2015 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p><p class=\"readmore_float\"> </p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Rukopis aktualizován v září 2015</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i september 2015</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Manuskript aktualisiert im September 2015</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Σεπτέμβριο του 2015.</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in September 2015</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto original actualizado en septiembre de 2015</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Käsikiri on ajakohastatud september 2015</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p></div>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty syyskuussa 2015.</p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit actualisé en septembre 2015</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt cothrom le dáta mí Mheán Fómhair 2015</p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u rujnu 2015.</p><p>Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">A kézirat frissítve: 2015 szeptemberében</p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Redazione aggiornata ad settembre 2015</p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2015 m. rugsėjo mėn.</p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunināts 2015. gada septembrī.</p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Manuskritt aġġornat September 2015</p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Tekst bijgewerkt in september 2015</p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano we wrzesniu 2015 r.</p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em Setembro de 2015</p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în septembrie 2015</p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol aktualizovaný v septembri 2015.</p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen septembra 2015.</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterades i september 2015</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c23"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://bookshop.europa.eu/bg/--pbNA0215719/downloads/NA-02-15-719-BG-N/NA0215719BGN_002.pdf?FileName=NA0215719BGN_002.pdf&SKU=NA0215719BGN_PDF&CatalogueNumber=NA-02-15-719-BG-N"
+      ],
+      "cs": [
+        "http://bookshop.europa.eu/cs/ve-ejn-zdrav--pbNA0215719/downloads/NA-02-15-719-CS-N/NA0215719CSN_002.pdf?FileName=NA0215719CSN_002.pdf&SKU=NA0215719CSN_PDF&CatalogueNumber=NA-02-15-719-CS-N"
+      ],
+      "da": [
+        "http://bookshop.europa.eu/da/folkesundhed-pbNA0215719/downloads/NA-02-15-719-DA-N/NA0215719DAN_002.pdf?FileName=NA0215719DAN_002.pdf&SKU=NA0215719DAN_PDF&CatalogueNumber=NA-02-15-719-DA-N"
+      ],
+      "de": [
+        "http://bookshop.europa.eu/de/gesundheitswesen-pbNA0215719/downloads/NA-02-15-719-DE-N/NA0215719DEN_002.pdf?FileName=NA0215719DEN_002.pdf&SKU=NA0215719DEN_PDF&CatalogueNumber=NA-02-15-719-DE-N"
+      ],
+      "el": [
+        "http://bookshop.europa.eu/el/--pbNA0215719/downloads/NA-02-15-719-EL-N/NA0215719ELN_002.pdf?FileName=NA0215719ELN_002.pdf&SKU=NA0215719ELN_PDF&CatalogueNumber=NA-02-15-719-EL-N"
+      ],
+      "en": [
+        "http://bookshop.europa.eu/en/public-health-pbNA0215719/downloads/NA-02-15-719-EN-N/NA0215719ENN_002.pdf?FileName=NA0215719ENN_002.pdf&SKU=NA0215719ENN_PDF&CatalogueNumber=NA-02-15-719-EN-N"
+      ],
+      "es": [
+        "http://bookshop.europa.eu/es/salud-p-blica-pbNA0215719/downloads/NA-02-15-719-ES-N/NA0215719ESN_002.pdf?FileName=NA0215719ESN_002.pdf&SKU=NA0215719ESN_PDF&CatalogueNumber=NA-02-15-719-ES-N"
+      ],
+      "et": [
+        "http://bookshop.europa.eu/et/rahvatervis-pbNA0215719/downloads/NA-02-15-719-ET-N/NA0215719ETN_002.pdf?FileName=NA0215719ETN_002.pdf&SKU=NA0215719ETN_PDF&CatalogueNumber=NA-02-15-719-ET-N"
+      ],
+      "fi": [
+        "http://bookshop.europa.eu/fi/kansanterveys-pbNA0215719/downloads/NA-02-15-719-FI-N/NA0215719FIN_002.pdf?FileName=NA0215719FIN_002.pdf&SKU=NA0215719FIN_PDF&CatalogueNumber=NA-02-15-719-FI-N"
+      ],
+      "fr": [
+        "http://bookshop.europa.eu/fr/sant-publique-pbNA0215719/downloads/NA-02-15-719-FR-N/NA0215719FRN_002.pdf?FileName=NA0215719FRN_002.pdf&SKU=NA0215719FRN_PDF&CatalogueNumber=NA-02-15-719-FR-N"
+      ],
+      "ga": [
+        "http://bookshop.europa.eu/ga/sl-inte-phoibl--pbNA0215719/downloads/NA-02-15-719-GA-N/NA0215719GAN_002.pdf?FileName=NA0215719GAN_002.pdf&SKU=NA0215719GAN_PDF&CatalogueNumber=NA-02-15-719-GA-N"
+      ],
+      "hr": [
+        "http://bookshop.europa.eu/hr/javno-zdravstvo-pbNA0215719/downloads/NA-02-15-719-HR-N/NA0215719HRN_002.pdf?FileName=NA0215719HRN_002.pdf&SKU=NA0215719HRN_PDF&CatalogueNumber=NA-02-15-719-HR-N"
+      ],
+      "hu": [
+        "http://bookshop.europa.eu/hu/eg-szs-gpolitika-pbNA0215719/downloads/NA-02-15-719-HU-N/NA0215719HUN_002.pdf?FileName=NA0215719HUN_002.pdf&SKU=NA0215719HUN_PDF&CatalogueNumber=NA-02-15-719-HU-N"
+      ],
+      "it": [
+        "http://bookshop.europa.eu/it/salute-pubblica-pbNA0215719/downloads/NA-02-15-719-IT-N/NA0215719ITN_002.pdf?FileName=NA0215719ITN_002.pdf&SKU=NA0215719ITN_PDF&CatalogueNumber=NA-02-15-719-IT-N"
+      ],
+      "lt": [
+        "http://bookshop.europa.eu/lt/visuomen-s-sveikata-pbNA0215719/downloads/NA-02-15-719-LT-N/NA0215719LTN_002.pdf?FileName=NA0215719LTN_002.pdf&SKU=NA0215719LTN_PDF&CatalogueNumber=NA-02-15-719-LT-N"
+      ],
+      "lv": [
+        "http://bookshop.europa.eu/lv/sabiedr-bas-vesel-ba-pbNA0215719/downloads/NA-02-15-719-LV-N/NA0215719LVN_002.pdf?FileName=NA0215719LVN_002.pdf&SKU=NA0215719LVN_PDF&CatalogueNumber=NA-02-15-719-LV-N"
+      ],
+      "mt": [
+        "http://bookshop.europa.eu/mt/is-sa-a-pubblika-pbNA0215719/downloads/NA-02-15-719-MT-N/NA0215719MTN_002.pdf?FileName=NA0215719MTN_002.pdf&SKU=NA0215719MTN_PDF&CatalogueNumber=NA-02-15-719-MT-N"
+      ],
+      "nl": [
+        "http://bookshop.europa.eu/nl/volksgezondheid-pbNA0215719/downloads/NA-02-15-719-NL-N/NA0215719NLN_002.pdf?FileName=NA0215719NLN_002.pdf&SKU=NA0215719NLN_PDF&CatalogueNumber=NA-02-15-719-NL-N"
+      ],
+      "pl": [
+        "http://bookshop.europa.eu/pl/zdrowie-publiczne-pbNA0215719/downloads/NA-02-15-719-PL-N/NA0215719PLN_002.pdf?FileName=NA0215719PLN_002.pdf&SKU=NA0215719PLN_PDF&CatalogueNumber=NA-02-15-719-PL-N"
+      ],
+      "pt": [
+        "http://bookshop.europa.eu/pt/sa-de-p-blica-pbNA0215719/downloads/NA-02-15-719-PT-N/NA0215719PTN_002.pdf?FileName=NA0215719PTN_002.pdf&SKU=NA0215719PTN_PDF&CatalogueNumber=NA-02-15-719-PT-N"
+      ],
+      "ro": [
+        "http://bookshop.europa.eu/ro/s-n-tatea-public--pbNA0215719/downloads/NA-02-15-719-RO-N/NA0215719RON_002.pdf?FileName=NA0215719RON_002.pdf&SKU=NA0215719RON_PDF&CatalogueNumber=NA-02-15-719-RO-N"
+      ],
+      "sk": [
+        "http://bookshop.europa.eu/sk/verejn-zdravie-pbNA0215719/downloads/NA-02-15-719-SK-N/NA0215719SKN_002.pdf?FileName=NA0215719SKN_002.pdf&SKU=NA0215719SKN_PDF&CatalogueNumber=NA-02-15-719-SK-N"
+      ],
+      "sl": [
+        "http://bookshop.europa.eu/sl/javno-zdravje-pbNA0215719/downloads/NA-02-15-719-SL-N/NA0215719SLN_002.pdf?FileName=NA0215719SLN_002.pdf&SKU=NA0215719SLN_PDF&CatalogueNumber=NA-02-15-719-SL-N"
+      ],
+      "sv": [
+        "http://bookshop.europa.eu/sv/folkhaelsa-pbNA0215719/downloads/NA-02-15-719-SV-N/NA0215719SVN_002.pdf?FileName=NA0215719SVN_002.pdf&SKU=NA0215719SVN_PDF&CatalogueNumber=NA-02-15-719-SV-N"
+      ]
+    }
+  }
+}

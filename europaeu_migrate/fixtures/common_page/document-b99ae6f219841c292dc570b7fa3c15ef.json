@@ -1,0 +1,974 @@
+{
+    "_id": "b99ae6f219841c292dc570b7fa3c15ef",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/business/finance-support/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/business/finance-support/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/business/finance-support/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/business/finance-support/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/business/finance-support/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/business/finance-support/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/business/finance-support/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/business/finance-support/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/business/finance-support/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/business/finance-support/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/business/finance-support/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/business/finance-support/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/business/finance-support/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/business/finance-support/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/business/finance-support/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/business/finance-support/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/business/finance-support/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/business/finance-support/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/business/finance-support/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/business/finance-support/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/business/finance-support/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/business/finance-support/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/business/finance-support/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/business/finance-support/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Финансиране и подкрепа"
+            ],
+            "cs": [
+                "Financování a podpora"
+            ],
+            "da": [
+                "Finansiering og tilskud"
+            ],
+            "de": [
+                "Finanzierung und Förderung"
+            ],
+            "el": [
+                "Χρηματοδότηση και στήριξη"
+            ],
+            "en": [
+                "Finance and support"
+            ],
+            "es": [
+                "Financiación y ayudas"
+            ],
+            "et": [
+                "Rahastamine ja toetused"
+            ],
+            "fi": [
+                "Rahoitus ja tuet"
+            ],
+            "fr": [
+                "Aides et financements"
+            ],
+            "ga": [
+                "Maoiniú agus tacaíocht"
+            ],
+            "hr": [
+                "Financiranje i potpora"
+            ],
+            "hu": [
+                "Finanszírozás és támogatás"
+            ],
+            "it": [
+                "Finanziamenti e sostegno"
+            ],
+            "lt": [
+                "Finansavimas ir parama"
+            ],
+            "lv": [
+                "Finanses un atbalsts"
+            ],
+            "mt": [
+                "Finanzi u appoġġ"
+            ],
+            "nl": [
+                "Financiering en steun"
+            ],
+            "pl": [
+                "Finansowanie i pomoc"
+            ],
+            "pt": [
+                "Financiamento e apoio"
+            ],
+            "ro": [
+                "Finanţare şi sprijin"
+            ],
+            "sk": [
+                "Financovanie a podpora"
+            ],
+            "sl": [
+                "Financiranje in pomoč"
+            ],
+            "sv": [
+                "Finansiering och hjälp"
+            ]
+        },
+        "category": {
+            "und": [
+                "60623c4"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "/INDEX/HP/EN"
+            ],
+            "cs": [
+                "/INDEX/HP/EN"
+            ],
+            "da": [
+                "/INDEX/HP/EN"
+            ],
+            "de": [
+                "/INDEX/HP/EN"
+            ],
+            "el": [
+                "/INDEX/HP/EN"
+            ],
+            "en": [
+                "/INDEX/HP/EN"
+            ],
+            "es": [
+                "/INDEX/HP/EN"
+            ],
+            "et": [
+                "/INDEX/HP/EN"
+            ],
+            "fi": [
+                "/INDEX/HP/EN"
+            ],
+            "fr": [
+                "/INDEX/HP/EN"
+            ],
+            "ga": [
+                "/INDEX/HP/EN"
+            ],
+            "hr": [
+                "EUROPA/"
+            ],
+            "hu": [
+                "/INDEX/HP/EN"
+            ],
+            "it": [
+                "/INDEX/HP/EN"
+            ],
+            "lt": [
+                "/INDEX/HP/EN"
+            ],
+            "lv": [
+                "/INDEX/HP/EN"
+            ],
+            "mt": [
+                "/INDEX/HP/EN"
+            ],
+            "nl": [
+                "/INDEX/HP/EN"
+            ],
+            "pl": [
+                "/INDEX/HP/EN"
+            ],
+            "pt": [
+                "/INDEX/HP/EN"
+            ],
+            "ro": [
+                "/INDEX/HP/EN"
+            ],
+            "sk": [
+                "/INDEX/HP/EN"
+            ],
+            "sl": [
+                "/INDEX/HP/EN"
+            ],
+            "sv": [
+                "/INDEX/HP/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM/COMM-C02"
+            ],
+            "cs": [
+                "COMM/COMM-C02"
+            ],
+            "da": [
+                "COMM/COMM-C02"
+            ],
+            "de": [
+                "COMM/COMM-C02"
+            ],
+            "el": [
+                "COMM/COMM-C02"
+            ],
+            "en": [
+                "COMM/COMM/A5"
+            ],
+            "es": [
+                "COMM/COMM-C02"
+            ],
+            "et": [
+                "COMM/COMM-C02"
+            ],
+            "fi": [
+                "COMM/COMM-C02"
+            ],
+            "fr": [
+                "COMM/COMM-C02"
+            ],
+            "ga": [
+                "COMM/COMM-C02"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "COMM/COMM-C02"
+            ],
+            "it": [
+                "COMM/COMM-C02"
+            ],
+            "lt": [
+                "COMM/COMM-C02"
+            ],
+            "lv": [
+                "COMM/COMM-C02"
+            ],
+            "mt": [
+                "COMM/COMM-C02"
+            ],
+            "nl": [
+                "COMM/COMM-C02"
+            ],
+            "pl": [
+                "COMM/COMM-C02"
+            ],
+            "pt": [
+                "COMM/COMM-C02"
+            ],
+            "ro": [
+                "COMM/COMM-C02"
+            ],
+            "sk": [
+                "COMM/COMM-C02"
+            ],
+            "sl": [
+                "COMM/COMM-C02"
+            ],
+            "sv": [
+                "COMM/COMM-C02"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Преглед на финансирането на ЕС за малки предприятия и за изследвания"
+            ],
+            "cs": [
+                "Přehled financování EU určeného malým a středním podnikům"
+            ],
+            "da": [
+                "Oversigt over EU-tilskud til små virksomheder og forskning"
+            ],
+            "de": [
+                "Überblick über EU-Förderprogramme für kleine Unternehmen und Forschung"
+            ],
+            "el": [
+                "Χρηματοδοτήσεις της ΕΕ για μικρές επιχειρήσεις και έρευνα"
+            ],
+            "en": [
+                "Overview of EU funding for small businesses and research"
+            ],
+            "es": [
+                "Fondos europeos para la pequeña empresa y la investigación: panorama general"
+            ],
+            "et": [
+                "Ülevaade väikeettevõtete ja teadusuuringute ELi poolsest rahastamisest"
+            ],
+            "fi": [
+                "Tietoa EU:n pk-yrityksille ja tutkimukseen tarjoamista rahoitusmahdollisuuksista"
+            ],
+            "fr": [
+                "Aperçu de l'aide financière de l'UE aux petites entreprises et à la recherche"
+            ],
+            "ga": [
+                "Forléargas ar mhaoiniú AE d'fhiontair bheaga agus mheánmhéide"
+            ],
+            "hr": [
+                "Sredstva EU-a za mala poduzeća i istraživanje"
+            ],
+            "hu": [
+                "A kisvállalkozásoknak és a kutatási célokra nyújtott uniós finanszírozás áttekintése"
+            ],
+            "it": [
+                "Panoramica dei finanziamenti dell'UE per le piccole imprese e la ricerca"
+            ],
+            "lt": [
+                "Mažųjų įmonių ir mokslinių tyrimų ES finansavimo apžvalga"
+            ],
+            "lv": [
+                "Pārskats par ES finansējumu mazajiem uzņēmumiem un pētniecībai."
+            ],
+            "mt": [
+                "Ħarsa lejn il-finanzjament tal-UE għan-negozji żgħar u r-riċerka"
+            ],
+            "nl": [
+                "Overzicht van EU-financiering voor kleine bedrijven en onderzoek"
+            ],
+            "pl": [
+                "Fundusze unijne przeznaczone dla małych przedsiębiorstw i na badania naukowe"
+            ],
+            "pt": [
+                "Financiamento da UE para as PME e a investigação"
+            ],
+            "ro": [
+                "Informaţii utile despre fondurile UE destinate întreprinderilor şi cercetării "
+            ],
+            "sk": [
+                "Prehľad možností financovania zo zdrojov EÚ pre MSP a výskumné projekty"
+            ],
+            "sl": [
+                "Informacije o finančni pomoči EU za mala podjetja in raziskovalne dejavnosti."
+            ],
+            "sv": [
+                "Överblick över EU-finansiering för småföretag och forskning"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "финансиране",
+                "подкрепа",
+                "набиране на средства",
+                "малки предприятия",
+                "изследване",
+                "програми",
+                "политики",
+                "европейски институции",
+                "EUROPA",
+                "ЕС",
+                "МСП",
+                "иновации"
+            ],
+            "cs": [
+                "finance, financování",
+                "podpora, pomoc",
+                "financování",
+                "malé podniky",
+                "výzkum",
+                "programy",
+                "politiky",
+                "evropské orgány a instituce",
+                "EUROPA",
+                "EU",
+                "malé a střední podniky",
+                "inovace"
+            ],
+            "da": [
+                "tilskud",
+                "støtte",
+                "finansiering",
+                "små virksomheder",
+                "forskning",
+                "programmer",
+                "politikker, politikområder, strategier",
+                "EU-institutioner",
+                "EUROPA",
+                "EU",
+                "SMV, små og mellemstore virksomheder",
+                "innovation"
+            ],
+            "de": [
+                "Finanzen",
+                "Förderung",
+                "Finanzierung",
+                "kleine Unternehmen",
+                "Forschung",
+                "Programme",
+                "Politikbereiche, Strategien",
+                "europäische Institutionen, Organe",
+                "EUROPA",
+                "EU",
+                "KMU",
+                "Innovation"
+            ],
+            "el": [
+                "χρηματοδότηση",
+                "στήριξη",
+                "χρηματοδότηση",
+                "μικρές επιχειρήσεις",
+                "έρευνα",
+                "προγράμματα",
+                "πολιτικές",
+                "ευρωπαϊκά θεσμικά όργανα",
+                "EUROPA",
+                "ΕΕ",
+                "ΜΜΕ",
+                "καινοτομία"
+            ],
+            "en": [
+                "finance",
+                "support",
+                "funding",
+                "small businesses",
+                "research",
+                "programmes",
+                "policies",
+                "European institutions",
+                "EUROPA",
+                "EU",
+                "SME",
+                "innovation"
+            ],
+            "es": [
+                "finanzas",
+                "apoyo",
+                "financiación",
+                "pequeña empresa",
+                "investigación",
+                "programas",
+                "políticas",
+                "instituciones europeas",
+                "EUROPA",
+                "UE",
+                "PYME",
+                "innovación"
+            ],
+            "et": [
+                "finants-",
+                "toetus",
+                "rahastamine",
+                "väikeettevõtted",
+                "teadustöö",
+                "programmid",
+                "poliitikavaldkonnad",
+                "Euroopa Liidu institutsioonid",
+                "EUROPA",
+                "EL",
+                "VKE",
+                "innovatsioon"
+            ],
+            "fi": [
+                "finanssi, rahoitus",
+                "tuki",
+                "rahoitus",
+                "pienyritys",
+                "tutkimus",
+                "ohjelmat",
+                "politiikat",
+                "EU:n toimielimet",
+                "EUROPA",
+                "EU",
+                "pk-yritykset",
+                "innovaatio, innovointi"
+            ],
+            "fr": [
+                "Finances",
+                "soutien, aide",
+                "financement",
+                "Petites entreprises",
+                "Recherche",
+                "programmes",
+                "Politiques",
+                "institutions européennes",
+                "EUROPA",
+                "UE",
+                "PME",
+                "innovation"
+            ],
+            "ga": [
+                "airgeadas",
+                "tacaíocht",
+                "maoiniú",
+                "mionghnólachtaí",
+                "taighde",
+                "cláir",
+                "beartais",
+                "Institiúidí Eorpacha",
+                "EUROPA",
+                "AE",
+                "FBM/fiontair bheaga & mheánmhéide",
+                "nuáil"
+            ],
+            "hr": [
+                "financirati",
+                "potpora",
+                "sredstva",
+                "mala poduzeća",
+                "istraživanje",
+                "programi",
+                "politike",
+                "europske institucije",
+                "EUROPA",
+                "EU",
+                "MSP",
+                "inovacije"
+            ],
+            "hu": [
+                "pénzügy",
+                "feltámasztás",
+                "finanszírozás",
+                "kisvállalkozások",
+                "kutatás",
+                "programok",
+                "szakpolitikák, politikák",
+                "európai intézmények, uniós intézmények",
+                "EUROPA",
+                "EU",
+                "Kkv",
+                "innováció, újítás"
+            ],
+            "it": [
+                "finanziamenti",
+                "sostegno",
+                "fondi",
+                "piccole imprese",
+                "ricerca",
+                "programmi",
+                "politiche, settori",
+                "istituzioni europee",
+                "EUROPA",
+                "UE",
+                "PMI",
+                "innovazione"
+            ],
+            "lt": [
+                "finansai, finansuoti",
+                "parama, remti",
+                "finansavimas",
+                "mažosios įmonės",
+                "moksliniai tyrimai",
+                "programos",
+                "politika",
+                "Europos institucijos",
+                "EUROPA",
+                "ES",
+                "MVĮ",
+                "inovacijos, naujovės"
+            ],
+            "lv": [
+                "finanses, finanšu",
+                "atbalsts",
+                "finansējums",
+                "mazie uzņēmumi",
+                "pētniecība",
+                "programmas",
+                "politikas jomas, pasākumi, politika",
+                "Eiropas Savienības iestādes, institūcijas",
+                "Portāls “EUROPA”",
+                "ES",
+                "MVU",
+                "inovācija"
+            ],
+            "mt": [
+                "finanzjarji",
+                "Appoġġ",
+                "finanzjament",
+                "negozji żgħar",
+                "riċerka",
+                "programmi",
+                "politiki",
+                "Istituzzjonijiet Ewropej",
+                "Fittex fuq EUROPA",
+                "UE",
+                "SME",
+                "innovazzjoni"
+            ],
+            "nl": [
+                "investeren",
+                "steun",
+                "financiering",
+                "kleine bedrijven",
+                "onderzoek",
+                "programma's",
+                "beleid",
+                "Europese instellingen",
+                "EUROPA",
+                "EU",
+                "KMO's, mkb",
+                "innovatie"
+            ],
+            "pl": [
+                "finansowanie",
+                "wsparcie",
+                "fundusze",
+                "małe przedsiębiorstwa",
+                "małe firmy",
+                "badania naukowe",
+                "programy",
+                "strategie",
+                "instytucje europejskie",
+                "EUROPA",
+                "UE",
+                "MŚP",
+                "innowacje"
+            ],
+            "pt": [
+                "finanças",
+                "apoio",
+                "financiamento",
+                "pequenas e médias empresas, pme",
+                "investigação",
+                "programas",
+                "políticas",
+                "instituições europeias",
+                "europa",
+                "ue",
+                "pme",
+                "inovação"
+            ],
+            "ro": [
+                "subvenţii",
+                "sprijin",
+                "finanţare",
+                "întreprinderi mici",
+                "cercetare",
+                "programe",
+                "politici",
+                "instituţii europene",
+                "europa",
+                "ue",
+                "IMM",
+                "inovare"
+            ],
+            "sk": [
+                "financie, finančný",
+                "podpora",
+                "financovanie",
+                "Malé a stredné podniky",
+                "výskum",
+                "programy",
+                "politiky",
+                "Európske inštitúcie",
+                "EUROPA",
+                "EÚ",
+                "MSP",
+                "inovácia"
+            ],
+            "sl": [
+                "finance, finančni",
+                "podpora, pomoč",
+                "financiranje",
+                "mala podjetja",
+                "raziskave",
+                "programi",
+                "politike",
+                "evropske institucije",
+                "EUROPA",
+                "EU",
+                "MSP",
+                "inovativnost"
+            ],
+            "sv": [
+                "finansiering",
+                "hjälp, stöd",
+                "pengar",
+                "småföretag",
+                "forskning",
+                "program",
+                "politikområden, strategier",
+                "europeiska institutioner",
+                "europa, europa.eu",
+                "eu",
+                "små och medelstora företag",
+                "innovation"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Финансиране и подкрепа</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Финансиране от ЕС за малки предприятия</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_bg.htm\">                                              <span>Програми на ЕС за финансиране</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_bg.htm\">                                              <span>Кандидатстване за финансиране</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Помощ за млади предприемачи</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_bg.htm\">                                              <span>Схеми за обмен на млади предприемачи („Еразъм“)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "cs": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Financování a podpora</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Finanční prostředky EU pro malé podniky</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_cs.htm\">                                              <span>Finanční prostředky EU</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_cs.htm\">                                              <span>Jak zažádat o finanční prostředky</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Podpora mladých podnikatelů</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_cs.htm\">                                              <span>Výměnný program pro mladé podnikatele (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "da": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Finansiering og tilskud</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">EU-tilskud til små virksomhed</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_da.htm\">                                              <span>EU's finansieringsprogrammer</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_da.htm\">                                              <span>Ansøgning om finansiering</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Støtte til unge iværksættere</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_da.htm\">                                              <span>Udvekslingsordning for unge iværksættere (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "de": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Finanzierung und Förderung</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">EU-Förderung für Kleinunternehmen</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_de.htm\">                                              <span>EU-Förderprogramme</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_de.htm\">                                              <span>Finanzierungsmöglichkeiten</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Unterstützung für Jungunternehmer</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_de.htm\">                                              <span>Austauschprogramm für Jungunternehmer (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "el": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Χρηματοδότηση και στήριξη</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Χρηματοδότηση των μικρών επιχειρήσεων από την ΕΕ</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_el.htm\">                                              <span>Χρηματοδοτικά προγράμματα της ΕΕ</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_el.htm\">                                              <span>Υποβολή αίτησης χρηματοδότησης</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Στήριξη νέων επιχειρηματιών</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_el.htm\">                                              <span>Πρόγραμμα ανταλλαγών για νέους επιχειρηματίες (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "en": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Finance and support</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">EU funding for small businesses</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_en.htm\">                                              <span>Funding programmes</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_en.htm\">                                              <span>Apply for funding</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Support for young entrepreneurs</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_en.htm\">                                              <span>Exchange scheme for young entrepreneurs (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "es": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Financiación y ayudas</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Fondos europeos para la pequeña empresa</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_es.htm\">                                              <span>Programas de financiación de la UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_es.htm\">                                              <span>Solicitar financiación</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Ayuda para jóvenes emprendedores</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_es.htm\">                                              <span>Intercambios para jóvenes emprendedores (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "et": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Rahastamine ja toetused</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">ELi poolsed rahastamisvõimalused väikeettevõtjatele</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_et.htm\">                                              <span>ELi rahastamisprogrammid</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_et.htm\">                                              <span>Taotle rahastamist</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Noorte ettevõtjate toetamine</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_et.htm\">                                              <span>Vahetusprogramm noortele ettevõtjatele (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fi": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Rahoitus ja tuet</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">EU-rahoitusta pienyrityksille</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_fi.htm\">                                              <span>EU:n rahoitusohjelmat</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_fi.htm\">                                              <span>Hae rahoitusta</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Tuki nuorille yrittäjille</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_fi.htm\">                                              <span>Nuorten yrittäjien vaihto-ohjelma (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Aides et financements</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">L'aide financière de l'UE aux PME</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_fr.htm\">                                              <span>Programmes de financement de l'UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_fr.htm\">                                              <span>Demander un financement</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Aide aux jeunes entrepreneurs</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_fr.htm\">                                              <span>Programme d’échange pour jeunes entrepreneurs (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ga": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Maoiniú agus tacaíocht</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Maoiniú AE do ghnólachtaí beaga</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_ga.htm\">                                              <span>Cláir mhaoiniúcháin</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_ga.htm\">                                              <span>Maoiniú a iarraidh</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Tacaíocht d'fhiontraithe óga</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_ga.htm\">                                              <span>Scéim malartaithe d'fhiontraithe óga (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Financiranje i potpora</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Financijska sredstva EU-a za mala poduzeća</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_hr.htm\">                                              <span>Programi financiranja iz EU-a</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_hr.htm\">                                              <span>Prijava za financiranje</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Podrška mladim poduzetnicima</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_hr.htm\">                                              <span>Program razmjena za mlade poduzetnike (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hu": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Finanszírozás és támogatás</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Európai uniós finanszírozás kisvállalkozások számára</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_hu.htm\">                                              <span>Uniós finanszírozási programok</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_hu.htm\">                                              <span>Finanszírozás igénylése</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Fiatal vállalkozóknak nyújtott támogatás</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_hu.htm\">                                              <span>Csereprogram fiatal vállalkozóknak (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "it": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Finanziamenti e sostegno</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Finanziamenti UE per le piccole imprese</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_it.htm\">                                              <span>Programmi di finanziamento dell'UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_it.htm\">                                              <span>Chiedere un finanziamento</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Sostegno per giovani imprenditori</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_it.htm\">                                              <span>Programma di scambi per giovani imprenditori (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Finansavimas ir parama</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Mažųjų įmonių ES finansavimas</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_lt.htm\">                                              <span>ES finansavimo programos</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_lt.htm\">                                              <span>Finansavimo paraiškos</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Parama jauniesiems verslininkams</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_lt.htm\">                                              <span>Jaunųjų verslininkų mainų programa („Erasmus“)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Finanses un atbalsts</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">ES finansējums mazajiem uzņēmumiem</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_lv.htm\">                                              <span>ES finansējuma programmas</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_lv.htm\">                                              <span>Pieteikšanās finansējumam</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Atbalsts jaunajiem uzņēmējiem</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_lv.htm\">                                              <span>Jauno uzņēmēju apmaiņas programma (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "mt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Finanzi u appoġġ</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Finanzjament tal-UE għan-negozji żgħar</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_mt.htm\">                                              <span>Programmi ta’ finanzjament tal-UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_mt.htm\">                                              <span>L-applikazzjoni għall-finanzjament</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">L-appoġġ għall-imprendituri żgħażagħ</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_mt.htm\">                                              <span>L-iskema ta’ skambju għall-imprendituri żgħażagħ (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "nl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Financiering en steun</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">EU-subsidies voor kleine bedrijven</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_nl.htm\">                                              <span>EU-financieringsprogramma's</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_nl.htm\">                                              <span>Financiering aanvragen</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Steun voor jonge ondernemers</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_nl.htm\">                                              <span>Uitwisselingsprogramma voor jonge ondernemers (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Finansowanie i pomoc</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Fundusze unijne dla małych przedsiębiorstw</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_pl.htm\">                                              <span>Fundusze unijne</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_pl.htm\">                                              <span>Jak ubiegać się o finansowanie</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Wsparcie dla młodych przedsiębiorców</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_pl.htm\">                                              <span>Program wymian dla młodych przedsiębiorców (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Financiamento e apoio</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Financiamento da UE para as PME</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_pt.htm\">                                              <span>Programas de financiamento da UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_pt.htm\">                                              <span>Candidatar-se a um financiamento</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Apoio aos jovens empresários</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_pt.htm\">                                              <span>Programa de intercâmbio para jovens empresários (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ro": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Finanţare şi sprijin</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Finanţare europeană pentru întreprinderile mici</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_ro.htm\">                                              <span>Programele de finanțare ale UE</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_ro.htm\">                                              <span>Solicitați finanțare</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Sprijin pentru tinerii antreprenori</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_ro.htm\">                                              <span>Programe de schimb pentru tinerii antreprenori (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sk": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Financovanie a podpora</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Financovanie malých a stredných podnikov zo zdrojov EÚ</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_sk.htm\">                                              <span>Programy financovania EÚ</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_sk.htm\">                                              <span>Požiadajte o finančné prostriedky</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Podpora mladých podnikateľov</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_sk.htm\">                                              <span>Výmenný program pre mladých podnikateľov (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Financiranje in pomoč</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">Sredstva EU za mala podjetja</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_sl.htm\">                                              <span>Programi financiranja EU</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_sl.htm\">                                              <span>Kako do sredstev EU</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Podpora za mlade podjetnike</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_sl.htm\">                                              <span>Program izmenjav za mlade podjetnike (Erasmus)</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Finansiering och hjälp</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <h2 id=\"goto_1\">EU-finansiering för småföretag</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_sv.htm\">                                              <span>EU-bidrag</span>                                           </a>                                        </li>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/access-to-finance/index_sv.htm\">                                              <span>Ansök om finansiering</span>                                           </a>                                        </li>                                     </ul>                                     <h2 id=\"goto_2\">Stöd till unga företagare</h2>                                     <ul>                                        <li>                                           <a href=\"http://europa.eu/youreurope/business/funding-grants/erasmus/index_sv.htm\">                                              <span>Utbytesprogram för nyblivna företagare – Erasmus</span>                                           </a>                                        </li>                                     </ul>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_b99ae6f219841c292dc570b7fa3c15ef"
+            ]
+        }
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "_id": "download_item_b83fb7e3e8150de4a1a42729989b8b88",
+    "type": "download_item",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "es",
+        "fr",
+        "ga",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "hr"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Статистически данни за държавите"
+            ],
+            "cs": [
+                "Statistické profily států"
+            ],
+            "da": [
+                "Landeprofiler (statistik)"
+            ],
+            "de": [
+                "Statistische Länderprofile"
+            ],
+            "el": [
+                "Στατιστικό προφίλ των κρατών μελών"
+            ],
+            "en": [
+                "Country profiles (statistics)"
+            ],
+            "es": [
+                "Perfiles estadísticos de los países"
+            ],
+            "et": [
+                "Riikide statistilised profiilid"
+            ],
+            "fi": [
+                "Maaprofiilit – tilastotietoa"
+            ],
+            "fr": [
+                "Profils statistiques des pays"
+            ],
+            "ga": [
+                "Próifílí staidrimh tíortha"
+            ],
+            "hr": [
+                "Profili zemalja (statistika)"
+            ],
+            "hu": [
+                "Statisztikai jellegű országismertetők"
+            ],
+            "it": [
+                "Profili statistici dei paesi"
+            ],
+            "lt": [
+                "Statistiniai šalių duomenys"
+            ],
+            "lv": [
+                "Statistikas datu kopsavilkums par dažādām valstīm"
+            ],
+            "mt": [
+                "Statistika dwar il-pajjiżi"
+            ],
+            "nl": [
+                "De EU-landen in cijfers"
+            ],
+            "pl": [
+                "Dane statystyczne dotyczące poszczególnych krajów UE"
+            ],
+            "pt": [
+                "Perfis estatísticos dos países"
+            ],
+            "ro": [
+                "Profiluri de ţară (statistici)"
+            ],
+            "sk": [
+                "Štatistické profily krajín"
+            ],
+            "sl": [
+                "Statistični profili držav"
+            ],
+            "sv": [
+                "Statistik om EU-länderna"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://europa.eu/nolink"
+            ],
+            "cs": [
+                "http://europa.eu/nolink"
+            ],
+            "da": [
+                "http://europa.eu/nolink"
+            ],
+            "de": [
+                "http://ec.europa.eu/eurostat/guip/introAction.do?profile=cpro&theme=eurind&lang=de"
+            ],
+            "el": [
+                "http://europa.eu/nolink"
+            ],
+            "en": [
+                "http://ec.europa.eu/eurostat/guip/introAction.do?profile=cpro&theme=eurind&lang=en"
+            ],
+            "es": [
+                "http://europa.eu/nolink"
+            ],
+            "et": [
+                "http://europa.eu/nolink"
+            ],
+            "fi": [
+                "http://europa.eu/nolink"
+            ],
+            "fr": [
+                "http://ec.europa.eu/eurostat/guip/introAction.do?profile=cpro&theme=eurind&lang=fr"
+            ],
+            "ga": [
+                "http://europa.eu/nolink"
+            ],
+            "hr": [
+                "http://europa.eu/nolink"
+            ],
+            "hu": [
+                "http://europa.eu/nolink"
+            ],
+            "it": [
+                "http://europa.eu/nolink"
+            ],
+            "lt": [
+                "http://europa.eu/nolink"
+            ],
+            "lv": [
+                "http://europa.eu/nolink"
+            ],
+            "mt": [
+                "http://europa.eu/nolink"
+            ],
+            "nl": [
+                "http://europa.eu/nolink"
+            ],
+            "pl": [
+                "http://europa.eu/nolink"
+            ],
+            "pt": [
+                "http://europa.eu/nolink"
+            ],
+            "ro": [
+                "http://europa.eu/nolink"
+            ],
+            "sk": [
+                "http://europa.eu/nolink"
+            ],
+            "sl": [
+                "http://europa.eu/nolink"
+            ],
+            "sv": [
+                "http://europa.eu/nolink"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Статистика и проучвания на общественото мнение"
+            ],
+            "cs": [
+                "Statistiky a průzkumy"
+            ],
+            "da": [
+                "Statistikker og meningsmålinger"
+            ],
+            "de": [
+                "Statistiken und Meinungsumfragen"
+            ],
+            "el": [
+                "Στατιστικές και δημοσκοπήσεις"
+            ],
+            "en": [
+                "Statistics and opinion polls"
+            ],
+            "es": [
+                "Estadísticas y sondeos"
+            ],
+            "et": [
+                "Statistika ja arvamusküsitlused"
+            ],
+            "fi": [
+                "Tilastot ja mielipidetutkimukset"
+            ],
+            "fr": [
+                "Statistiques et sondages"
+            ],
+            "ga": [
+                "Staidreamh agus pobalmheasanna"
+            ],
+            "hr": [
+                "EUROPA – Statistike i ispitivanja javnog mnijenja"
+            ],
+            "hu": [
+                "Statisztikák és közvélemény-kutatások"
+            ],
+            "it": [
+                "Statistiche e sondaggi"
+            ],
+            "lt": [
+                "EUROPA. Statistika ir apklausos"
+            ],
+            "lv": [
+                "Statistika un sabiedriskās domas aptaujas"
+            ],
+            "mt": [
+                "Statistika u stħarriġ tal-opinjonijiet"
+            ],
+            "nl": [
+                "Statistieken en opiniepeilingen"
+            ],
+            "pl": [
+                "Statystyki i badania opinii publicznej"
+            ],
+            "pt": [
+                "Estatísticas e sondagens de opinião"
+            ],
+            "ro": [
+                "Statistici şi sondaje de opinie"
+            ],
+            "sk": [
+                "Štatistiky a prieskumy verejnej mienky"
+            ],
+            "sl": [
+                "Statistike in javnomnenjske raziskave"
+            ],
+            "sv": [
+                "Statistik och opinionsundersökningar"
+            ]
+        }
+    }
+}

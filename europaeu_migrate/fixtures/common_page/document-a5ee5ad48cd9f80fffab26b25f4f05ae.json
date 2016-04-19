@@ -1,0 +1,946 @@
+{
+    "_id": "a5ee5ad48cd9f80fffab26b25f4f05ae",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/basic-information/money/revenue-income/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Как се финансира ЕС?"
+            ],
+            "cs": [
+                "Jak je financován chod Evropské unie?"
+            ],
+            "da": [
+                "Hvordan finansieres EU?"
+            ],
+            "de": [
+                "Wie wird die EU finanziert?"
+            ],
+            "el": [
+                "Πώς χρηματοδοτείται η ΕΕ;"
+            ],
+            "en": [
+                "How is the EU funded?"
+            ],
+            "es": [
+                "¿Cómo se financia la UE?"
+            ],
+            "et": [
+                "Kuidas ELi rahastatakse?"
+            ],
+            "fi": [
+                "EU:n talousarvion rahoitus"
+            ],
+            "fr": [
+                "Comment l'UE est-elle financée?"
+            ],
+            "ga": [
+                "Cad as a dtagann airgead an AE?"
+            ],
+            "hr": [
+                "Kako se financira EU?"
+            ],
+            "hu": [
+                "Az EU finanszírozása"
+            ],
+            "it": [
+                "Come viene finanziata l'UE"
+            ],
+            "lt": [
+                "Kaip finansuojama ES?"
+            ],
+            "lv": [
+                "Kur ES iegūst līdzekļus"
+            ],
+            "mt": [
+                "Kif tiġi ffinanzjata l-UE?"
+            ],
+            "nl": [
+                "Zo wordt de EU gefinancierd"
+            ],
+            "pl": [
+                "W jaki sposób finansowana jest Unia Europejska?"
+            ],
+            "pt": [
+                "Como é financiada a UE?"
+            ],
+            "ro": [
+                "Cum este finanțat bugetul UE?"
+            ],
+            "sk": [
+                "Aké sú zdroje príjmov EÚ?"
+            ],
+            "sl": [
+                "Viri financiranja EU"
+            ],
+            "sv": [
+                "Hur finansieras EU:s verksamhet?"
+            ]
+        },
+        "category": {
+            "und": [
+                "33755c56"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "cs": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "da": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "de": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "el": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "en": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "es": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "et": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fi": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fr": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ga": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "hr": [
+                "EUROPA/ABOUT-EU/HR"
+            ],
+            "hu": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "it": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lv": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "mt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "nl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ro": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sk": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sv": [
+                "EUROPA/ABOUT-EU/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM"
+            ],
+            "cs": [
+                "COMM"
+            ],
+            "da": [
+                "COMM"
+            ],
+            "de": [
+                "KOMM"
+            ],
+            "el": [
+                "COMM"
+            ],
+            "en": [
+                "COMM/COMM/A5"
+            ],
+            "es": [
+                "COMM"
+            ],
+            "et": [
+                "COMM"
+            ],
+            "fi": [
+                "COMM"
+            ],
+            "fr": [
+                "COMM"
+            ],
+            "ga": [
+                "COMM"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "COMM"
+            ],
+            "it": [
+                "COMM"
+            ],
+            "lt": [
+                "COMM"
+            ],
+            "lv": [
+                "COMM"
+            ],
+            "mt": [
+                "COMM"
+            ],
+            "nl": [
+                "COMM"
+            ],
+            "pl": [
+                "COMM"
+            ],
+            "pt": [
+                "COMM"
+            ],
+            "ro": [
+                "COMM"
+            ],
+            "sk": [
+                "COMM"
+            ],
+            "sl": [
+                "COMM"
+            ],
+            "sv": [
+                "COMM"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Кои са основните източници на приходи за ЕС? Каква е ползата от бюджета на ЕС за страните членки? Научете повече."
+            ],
+            "cs": [
+                "Jaké jsou hlavní zdroje příjmů EU? Jaký prospěch mají z rozpočtu EU členské země? Info zde."
+            ],
+            "da": [
+                "Hvad er EU's primære indtægtskilder? Hvordan gavner EU-budgettet medlemslandene? Find svaret her."
+            ],
+            "de": [
+                "Welches sind die wichtigsten Einnahmequellen der EU? Wie nützt der EU-Haushalt den Mitgliedstaaten? Hier können Sie es herausfinden. "
+            ],
+            "el": [
+                "Ποιες είναι οι κύριες πηγές εσόδων της ΕΕ; Πώς ο προϋπολογισμός της ΕΕ ωφελεί τα κράτη μέλη; Διαβάστε εδώ."
+            ],
+            "en": [
+                "What are the main sources of EU revenue? How does the EU budget benefit member countries? Find out here."
+            ],
+            "es": [
+                "¿Cuáles son las principales fuentes de ingresos de la UE? ¿Cómo beneficia el presupuesto de la UE a los Estados miembros? Descúbralo aquí."
+            ],
+            "et": [
+                "Millised on ELi tulude peamised allikad? Kuidas saavad liikmesriigid kasu ELi eelarvest? Lisateavet leiate siit."
+            ],
+            "fi": [
+                "Mitkä ovat EU:n tärkeimmät tulonlähteet? Mitä hyötyä EU:n jäsenmaat saavat EU:n talousarviovaroista? Lue tältä sivulta"
+            ],
+            "fr": [
+                "Quelles sont les principales sources de recettes de l'UE? Comment le budget de l'UE profite-t-il aux États membres? En savoir plus."
+            ],
+            "ga": [
+                "Cad iad príomhfhoinsí ioncaim an Aontais Eorpaigh? Conas a théann buiséad an Aontais chun tairbhe do na Ballstáit? Tuilleadh eolais anseo."
+            ],
+            "hr": [
+                "Koji su glavni izvori prihoda EU-a? Kako proračun EU-a koristi državama članicama? Saznajte ovdje."
+            ],
+            "hu": [
+                "Melyek az EU legfőbb bevételi forrásai? Hogyan szolgálja az uniós költségvetés a tagállamok javát? A részleteket lásd itt."
+            ],
+            "it": [
+                "Quali sono le principali entrate dell'UE? In che modo i paesi membri traggono vantaggio dal bilancio dell'UE? Per saperne di più."
+            ],
+            "lt": [
+                "Kokie yra pagrindiniai ES pajamų šaltiniai? Kaip ES biudžetas padeda valstybėms narėms? Skaitykite plačiau čia."
+            ],
+            "lv": [
+                "Kādi ir galveni ES ieņēmumu avoti? Kā dalībvalstis saņem līdzekļus no ES budžeta? Atbildi meklējiet te."
+            ],
+            "mt": [
+                "X'inhuma r-riżorsi ewlenin tad-dħul tal-UE? Kif jibbenefikaw il-pajjiżi membri mill-baġit tal-UE? Skopri hawnhekk."
+            ],
+            "nl": [
+                "Wat zijn de belangrijkste inkomsten van de EU? Hoe profiteren de EU-landen van het geld van de EU? Lees hier meer."
+            ],
+            "pl": [
+                "Jakie są główne źródła dochodów UE? Jak z budżetu UE korzystają państwa członkowskie? Tutaj znajdziesz odpowiedzi na te pytania."
+            ],
+            "pt": [
+                "Quais são as principais fontes de receitas  da UE ? Como beneficiam os Estados-Membros do orçamento da UE? Mais informações aqui."
+            ],
+            "ro": [
+                "Care sunt principalele surse de venituri ale UE? Ce avantaje prezintă bugetul UE pentru statele membre? Aflați aici"
+            ],
+            "sk": [
+                "Aké sú hlavné zdroje príjmov EÚ? Aký prospech majú členské krajiny z rozpočtu EÚ? Viac sa dozviete tu."
+            ],
+            "sl": [
+                "Kateri so glavni viri prihodkov EU? Kako proračun EU koristi državam članicam? Preberite tukaj."
+            ],
+            "sv": [
+                "Vilka är EU:s största inkomstkällor? Hur drar medlemsländerna nytta av EU-budgeten? Läs mer här."
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "ЕС",
+                "бюджет",
+                "приходи",
+                "доход",
+                "БНД",
+                "собствени ресурси",
+                "данък върху добавената ст",
+                "мита",
+                "данък",
+                "глоби"
+            ],
+            "cs": [
+                "EU",
+                "rozpočet",
+                "příjmy",
+                "příjmy",
+                "HND",
+                "vlastní zdroje",
+                "daň z přidané hodnoty",
+                "dovozní clo",
+                "daň",
+                "pokuta"
+            ],
+            "da": [
+                "EU",
+                "budget",
+                "indtægt",
+                "indkomst",
+                "BNI",
+                "egne ressourcer",
+                "moms",
+                "importafgift",
+                "skal",
+                "bøde"
+            ],
+            "de": [
+                "EU",
+                "Haushalt",
+                "Einkommen",
+                "Einnahmen",
+                "BIP",
+                "Eigenmittel",
+                "Mehrwertsteuer",
+                "Einfuhrsteuer",
+                "Steuer",
+                "Sanktion",
+                "Bußgeld"
+            ],
+            "el": [
+                "ΕΕ",
+                "προϋπολογισμός",
+                "έσοδα",
+                "εισόδημα",
+                "AEE",
+                "ίδιοι πόροι",
+                "φόρος προστιθέμενης αξίας",
+                "δασμός",
+                "φόρος",
+                "πρόστιμο"
+            ],
+            "en": [
+                "EU",
+                "budget",
+                "revenue",
+                "income",
+                "GNI",
+                "own resources",
+                "value added tax",
+                "import duty",
+                "tax",
+                "fine"
+            ],
+            "es": [
+                "UE",
+                "presupuesto",
+                "ingresos",
+                "renta",
+                "RNB",
+                "recursos propios",
+                "impuesto sobre el valor añadido",
+                "derecho de importación",
+                "impuesto",
+                "multa"
+            ],
+            "et": [
+                "EL",
+                "eelarve",
+                "tulu",
+                "sissetulek",
+                "kogurahvatulu",
+                "omavahendid",
+                "käibemaks",
+                "imporditollimaks",
+                "maks",
+                "trahv"
+            ],
+            "fi": [
+                "EU",
+                "budjetti",
+                "talousarvio",
+                "tulot",
+                "BKTL",
+                "bruttokansantulo",
+                "omat varat",
+                "arvonlisävero",
+                "alv",
+                "tuontitulli",
+                "verot",
+                "sakko"
+            ],
+            "fr": [
+                "UE",
+                "budget",
+                "revenu",
+                "recettes",
+                "RNB",
+                "ressources propres",
+                "taxe sur la valeur ajoutée",
+                "droit à l'importation",
+                "taxe",
+                "amende"
+            ],
+            "ga": [
+                "AE",
+                "buiséad",
+                "ioncam",
+                "teacht isteach",
+                "OIN",
+                "acmhainní dílse",
+                "cáin bhreisluacha",
+                "dleacht ar allmhairí",
+                "cáin",
+                "fíneáil"
+            ],
+            "hr": [
+                "EU",
+                "proračun",
+                "prihodi",
+                "dohodak",
+                "dobit",
+                "BND",
+                "vlastita sredstva",
+                "porez na dodanu vrijednost",
+                "uvozna carina",
+                "porez",
+                "novčana kazna"
+            ],
+            "hu": [
+                "EU",
+                "költségvetés",
+                "jövedelem",
+                "bevétel",
+                "GNI",
+                "bruttó nemzeti jövedelem",
+                "saját források",
+                "hozzáadottérték-adó",
+                "importteher",
+                "importvámok",
+                "adó",
+                "bírság"
+            ],
+            "it": [
+                "UE",
+                "bilancio",
+                "entrate",
+                "reddito",
+                "PNL",
+                "risorse proprie",
+                "imposta sul valore aggiunto",
+                "dazio all'importazione",
+                "tassa",
+                "multa"
+            ],
+            "lt": [
+                "ES",
+                "biudžetas",
+                "įplaukos",
+                "pajamos",
+                "BNP",
+                "nuosavi ištekliai",
+                "pridėtinės vertės mokestis",
+                "importo muitas",
+                "mokestis",
+                "bauda"
+            ],
+            "lv": [
+                "ES",
+                "budžets",
+                "ieņēmumi",
+                "ienākumi",
+                "nacionālais kopienākums",
+                "GNI",
+                "pašu resursi",
+                "pievienotās vērtības nodoklis",
+                "ievedmuita",
+                "nodoklis",
+                "sodanauda"
+            ],
+            "mt": [
+                "UE",
+                "baġit",
+                "dħul",
+                "introjtu",
+                "ING",
+                "riżorsi proprji",
+                "taxxa fuq il-valur miżjud",
+                "dazju tal-importazzjoni",
+                "taxxa",
+                "multa"
+            ],
+            "nl": [
+                "EU",
+                "begroting",
+                "inkomsten",
+                "inkomen",
+                "bni",
+                "eigen middelen",
+                "btw",
+                "invoerheffingen",
+                "belastingen",
+                "boetes"
+            ],
+            "pl": [
+                "UE",
+                "budżet",
+                "dochody",
+                "przychody",
+                "DNB",
+                "zasoby własne",
+                "podatek od wartości dodanej",
+                "VAT",
+                "należność celna przywozowa",
+                "cła przywozowe",
+                "podatek",
+                "grzywna"
+            ],
+            "pt": [
+                "UE",
+                "orçamento",
+                "receitas",
+                "rendimento",
+                "rendimento nacional bruto",
+                "rnb",
+                "recursos próprios",
+                "imposto sobre o valor acrescentado",
+                "direito de importação",
+                "imposto",
+                "multa",
+                "coima"
+            ],
+            "ro": [
+                "UE",
+                "buget",
+                "venit",
+                "încasări",
+                "VNB",
+                "resurse proprii",
+                "taxă pe valoare adăugată",
+                "taxă la import",
+                "taxă",
+                "amendă"
+            ],
+            "sk": [
+                "EÚ",
+                "rozpočet",
+                "príjmy",
+                "HND",
+                "vlastné zdroje",
+                "daň z pridanej hodnoty",
+                "dovozné clo",
+                "daň",
+                "pokuta"
+            ],
+            "sl": [
+                "EU",
+                "proračun",
+                "prihodki",
+                "dohodek",
+                "BND",
+                "lastna sredstva",
+                "davek na dodano vrednost",
+                "uvozna dajatev",
+                "davki",
+                "kazen",
+                "globa"
+            ],
+            "sv": [
+                "EU",
+                "budget",
+                "intäkt",
+                "inkomst",
+                "BNI",
+                "egna medel",
+                "moms",
+                "importavgift",
+                "skatt",
+                "böter"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<p>Сред източниците на приходи на ЕС са вноски от държавите членки, вносни мита върху стоки от страни извън Съюза и глоби, наложени на предприятия, които не спазват правилата на ЕС. Страните от ЕС се договорят за размера на бюджета и начина за неговото финансиране няколко години предварително. </p>             <p>Със своя бюджет ЕС подкрепя растежа и създаването на работни места. В рамките на <strong>политиката на сближаване</strong> той финансира инвестиции с цел преодоляване на икономическите различия между страните и регионите в Съюза. Той също така подпомага развитието на селските райони в Европа.</p>             <p>Трите основни източника на приходи са:</p>             <ul>                <li>вноски от всички страни в ЕС в размер на малък процент от техния <strong>брутен национален доход</strong> (обикновено около 0,7%) — най-големият източник на приходи в бюджета. Основните принципи тук са солидарност и възможност за плащане, като сумата може да бъде коригирана, за да се избегне прекомерното натоварване на определени страни.</li>                <li>малък процент от приходите на всяка държава членка от хармонизирания <strong>данък върху добавената стойност</strong>, обикновено около 0,3%.</li>                <li>голям дял от <strong>вносните мита</strong> върху стоки от страни извън ЕС (държавите, които събират митата, запазват малък дял от тях).</li>             </ul>             <p>ЕС получава и приходи от данъци върху доходите на своите служители, от вноски на държави извън Съюза в някои програми на ЕС и от глоби, наложени на предприятия за нарушаване на европейските правила и регламенти.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Европейският бюджет през 2011 г.</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_bg.jpg\"                      lang=\"bg\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_bg.jpg\"/>                   </a>                   <p>Средствата, които страните от ЕС внасят в бюджета на Съюза, са само малка част от техните общи разходи.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Бюджетът на ЕС в сравнение с бюджетите на отделни страни от Съюза</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_bg.jpg\"                      lang=\"bg\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_bg.jpg\"/>                   </a>                   <p>Въпреки че бюджетът на ЕС е малък в сравнение с брутния вътрешен продукт на Съюза, той има изключително голямо значение за инвестициите.</p>                </div>             </div>"
+            ],
+            "cs": [
+                "<p>Mezi příjmy, které se odvádějí do rozpočtu EU, patří příspěvky členských zemí, dovozní cla na výrobky ze států mimo Unii a rovněž pokuty uložené podnikům za porušení pravidel EU. Výši rozpočtu a způsob jeho financování členské státy stanoví na několik let dopředu. </p>             <p>Rozpočet EU podporuje hospodářský růst a tvorbu pracovních míst. V rámci <strong>politiky soudržnosti</strong> poskytuje finanční prostředky na investice, které pomáhají zacelovat ekonomické rozdíly mezi státy a regiony Unie. Rovněž napomáhá rozvoji venkovských oblastí v Evropě.</p>             <p>3 hlavními zdroji příjmů jsou:</p>             <ul>                <li>malá procentuální část (většinou okolo 0,7 %) <strong>hrubého národního produktu</strong> každého členského státu EU. Jedná se o největší zdroj příjmů do rozpočtu. Tento příspěvek se opírá o zásadu solidarity a finančních možností jednotlivých států. Částka však může být upravena tak, aby pro žádný ze států neznamenala neúměrnou zátěž.</li>                <li>malá procentuální část (většinou okolo 0,3 %) příjmů členských států pocházejících z harmonizované <strong>daně z přidané hodnoty</strong>                </li>                <li>velká část vybraného <strong>dovozního cla</strong> za výrobky dovezené ze zemí mimo EU (státy, jež toto clo vybírají, si ponechávají pouze jeho malou část).</li>             </ul>             <p>Do rozpočtu EU se odvádějí i daně z příjmu zaměstnanců evropských orgánů, příspěvky nečlenských zemí do některých programů Unie a také pokuty vybrané od podniků, které porušily evropská pravidla a předpisy.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Evropský rozpočet v roce 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_cs.jpg\"                      lang=\"cs\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_cs.jpg\"/>                   </a>                   <p>Příspěvky členských zemí do rozpočtu EU představují jen malou část jejich celkových výdajů.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Rozpočet EU ve srovnání s rozpočty jednotlivých členských států EU</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_cs.jpg\"                      lang=\"cs\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_cs.jpg\"/>                   </a>                   <p>Ačkoli rozpočet EU je ve srovnání s HDP Evropské unie malý, je naprosto nezbytný k provádění investic.</p>                </div>             </div>"
+            ],
+            "da": [
+                "<p>EU's indtægtskilder omfatter bidrag fra medlemslandene, importafgifter på produkter fra lande uden for EU og bøder, som pålægges, når virksomheder ikke overholder EU-reglerne. EU-landene bliver enige om størrelsen på EU-budgettet, og hvordan det skal finansieres flere år forud. </p>             <p>EU-budgettet støtter vækst og jobskabelse. Gennem <strong>samhørighedspolitikken</strong> finansierer det investeringer, som hjælper med at slå økonomisk bro mellem EU-lande og -regioner. Det hjælper også med at udvikle Europas landdistrikter.</p>             <p>De tre vigtigste indtægtskilder er:</p>             <ul>                <li>En lille procentdel af <strong>bruttonationalindkomsten</strong> (normalt omkring 0,7 %) fra alle EU-landene - den største indtægtskilde i budgettet. De underliggende principper er solidaritet og betalingsevne – men beløbet kan tilpasses for at undgå at overbelaste visse lande.</li>                <li>En lille procentdel af hvert EU-lands harmoniserede <strong>merværdiafgifter (moms)</strong>, normalt omkring 0,3 %.</li>                <li>En stor del af <strong>importafgifterne</strong> ved varer fra lande uden for EU (det land, som opkræver afgiften, beholder en lille andel).</li>             </ul>             <p>EU modtager også indkomstskatter fra EU's ansatte, bidrag fra lande uden for EU til EU-programmer og bøder fra virksomheder, der ikke overholder EU's regler.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>EU's budget i 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_da.jpg\"                      lang=\"da\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_da.jpg\"/>                   </a>                   <p>EU-landenes bidrag til EU's budget udgør kun en lille del af deres samlede udgifter.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>EU's budget i forhold til EU-landenes budgetter</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_da.jpg\"                      lang=\"da\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_da.jpg\"/>                   </a>                   <p>EU's budget er småt i forhold til EU's samlede bruttonationalprodukt, men spiller alligevel en vigtig rolle for investeringer.</p>                </div>             </div>"
+            ],
+            "de": [
+                "<p>Die Einnahmen der EU umfassen unter anderem Beiträge der Mitgliedstaaten, Einfuhrzölle auf nicht in der EU hergestellte Erzeugnisse sowie Geldbußen, die Unternehmen auferlegt werden, wenn sie die EU-Vorschriften nicht beachten. Die EU-Länder vereinbaren die Höhe des Haushalts und die Modalitäten seiner Finanzierung mehrere Jahre im Voraus. </p>             <p>Der EU-Haushalt dient Wachstum und Beschäftigung. Die Haushaltsmittel werden im Rahmen der <strong>Kohäsionspolitik</strong> für Investitionen eingesetzt, um wirtschaftliche Ungleichgewichte zwischen den Ländern und Regionen der EU auszugleichen. Ferner wird damit auch die Entwicklung des ländlichen Raums unterstützt.</p>             <p>Die drei Haupteinnahmequellen sind:</p>             <ul>                <li>Ein kleiner Prozentsatz des <strong>Bruttonationaleinkommens</strong> – in der Regel ca. 0,7 % –, den alle EU-Länder beisteuern. Dies ist die größte Einnahmequelle. Der Haushalt wird nach dem Grundsatz der Solidarität und Zahlungsfähigkeit geführt. Allerdings sind Beitragsanpassungen möglich, um zu vermeiden, dass bestimmte Länder zu stark belastet werden.</li>                <li>Ein geringer Prozentsatz der üblichen <strong>Mehrwertsteuereinnahmen</strong> eines Landes, normalerweise ca. 0,3 %;</li>                <li>ein großer Anteil an <strong>Zöllen auf Einfuhren</strong> von nicht in der EU hergestellten Erzeugnissen, wobei das Land, das den Zoll erhebt, einen kleinen Prozentsatz einbehält.</li>             </ul>             <p>Weitere Einnahmequellen sind die Einkommensteuer der EU-Bediensteten, Beiträge von Nicht-EU-Ländern zu bestimmten EU-Programmen sowie Geldbußen von Unternehmen, die sich nicht an die EU-Regelungen und -Verordnungen halten.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>EU-Haushalt 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_de.jpg\"                      lang=\"de\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_de.jpg\"/>                   </a>                   <p>Der Beitrag der EU-Länder zum EU-Haushalt macht nur einen kleinen Teil ihrer Gesamtausgaben aus.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>EU-Haushalt im Vergleich zu den Haushalten einzelner EU-Länder</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_de.jpg\"                      lang=\"de\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_de.jpg\"/>                   </a>                   <p>Der EU-Haushalt ist klein im Vergleich zur Wirtschaftsleistung der EU (Bruttoinlandsprodukt), doch er ist enorm wichtig für Investitionen.</p>                </div>             </div>"
+            ],
+            "el": [
+                "<p>Τα έσοδα της ΕΕ προέρχονται από συνεισφορές των κρατών μελών, εισαγωγικούς δασμούς για προϊόντα από χώρες εκτός ΕΕ και τα πρόστιμα που επιβάλλονται σε επιχειρήσεις που παραβιάζουν τους κανόνες της ΕΕ. Τα κράτη μέλη συμφωνούν εκ των προτέρων για το μέγεθος του ευρωπαϊκού προϋπολογισμού και τους τρόπους χρηματοδότησής του για μια περίοδο αρκετών ετών. </p>             <p>Ο προϋπολογισμός της ΕΕ στηρίζει την ανάπτυξη και τη δημιουργία θέσεων εργασίας. Στο πλαίσιο της <strong>πολιτικής συνοχής</strong>, χρηματοδοτεί επενδύσεις για τη γεφύρωση των οικονομικών διαφορών μεταξύ των χωρών και των περιφερειών της ΕΕ. Βοηθά επίσης στην ανάπτυξη των αγροτικών περιοχών της Ευρώπης.</p>             <p>Οι τρεις κυριότερες πηγές εσόδων είναι οι εξής:</p>             <ul>                <li>ένα μικρό ποσοστό (συνήθως γύρω στο 0,7%) του<strong> ακαθάριστου εθνικού εισοδήματος</strong> κάθε χώρας της ΕΕ.  Πρόκειται για τη μεγαλύτερη πηγή εσόδων του προϋπολογισμού. Ο υπολογισμός της συνεισφοράς κάθε κράτους μέλους της ΕΕ γίνεται με γνώμονα την αλληλεγγύη και την ικανότητα πληρωμής. Ωστόσο, αν η συνεισφορά αυτή δυσχεραίνει υπερβολικά κάποιες χώρες, είναι δυνατό να γίνουν προσαρμογές.</li>                <li>ένα μικρό ποσοστό, συνήθως γύρω στο 0,3%, των εσόδων από τον εναρμονισμένο <strong>φόρο προστιθέμενης αξίας</strong> κάθε χώρας.</li>                <li>ένα μεγάλο ποσοστό των <strong>εισαγωγικών δασμών</strong> που επιβάλλονται σε προϊόντα τρίτων χωρών (η χώρα που συλλέγει τον δασμό παρακρατεί ένα μικρό ποσοστό).</li>             </ul>             <p>Η ΕΕ εισπράττει επίσης φόρους που καταβάλλει το προσωπικό των οργάνων της επί των μισθών, συνεισφορές τρίτων χωρών σε προγράμματα της ΕΕ και πρόστιμα που επιβάλλονται σε εταιρείες που παραβιάζουν τους κανόνες και τους κανονισμούς της ΕΕ.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Ο προϋπολογισμός 2011 της ΕΕ</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_el.jpg\"                      lang=\"el\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_el.jpg\"/>                   </a>                   <p>Η συνεισφορά των κρατών μελών στον προϋπολογισμό της ΕΕ αντιστοιχεί σε μικρό μόνο ποσοστό των συνολικών τους δαπανών.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Ο προϋπολογισμός της ΕΕ σε σύγκριση με τους προϋπολογισμούς των κρατών μελών της ΕΕ</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_el.jpg\"                      lang=\"el\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_el.jpg\"/>                   </a>                   <p>Ο προϋπολογισμός της ΕΕ μπορεί να είναι μικρός σε σχέση με το οικονομικό μέγεθος της ΕΕ (ακαθάριστο εγχώριο προϊόν), είναι όμως πολύτιμος για τις επενδύσεις.</p>                </div>             </div>"
+            ],
+            "en": [
+                "<p>The EU's sources of income include contributions from member countries,  import duties on products from outside the EU and fines imposed when businesses fail to comply with EU rules. The EU countries agree on the size of the budget and how it is to be financed several years in advance. </p>             <p>The EU budget supports growth and job creation. Under the <strong>cohesion policy</strong>, it funds investment to help bridge economic gaps between EU countries and regions. It also helps develop rural areas in Europe.</p>             <p>The 3 main sources of revenue are:</p>             <ul>                <li>a small percentage of<strong> gross national income</strong> (usually around 0.7%) contributed by all EU countries -  the largest source of budget revenue. The underlying principles are solidarity and ability to pay – though the amount may be adjusted to avoid over-burdening particular countries.</li>                <li>a small percentage of each EU country’s standardised <strong>value-added tax</strong> revenue, usually around 0.3%.</li>                <li>a large share of <strong>import duties</strong> on non-EU products (the country that collects the duty retains a small percentage).</li>             </ul>             <p>The EU also receives income tax from EU staff, contributions by non-EU countries to certain EU programmes and fines on companies that breach EU rules and regulations.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>European budget in 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_en.jpg\"                      lang=\"en\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_en.jpg\"/>                   </a>                   <p>What EU countries contribute to the EU budget is just a small share of their overall spending.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>EU budget compared to those of individual EU countries</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_en.jpg\"                      lang=\"en\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_en.jpg\"/>                   </a>                   <p>Small though the EU budget is by comparison with the EU’s economic output (gross domestic product), it is invaluable for investment.</p>                </div>             </div>"
+            ],
+            "es": [
+                "<p>Entre las fuentes de ingresos de la UE se incluyen las contribuciones de los países miembros, los derechos de importación sobre los productos procedentes de países no miembros y las multas que se imponen a las empresas que incumplen las normas de la UE. Los países de la UE se ponen de acuerdo sobre la cuantía del presupuesto y la forma de gestionarlo con varios años de antelación. </p>             <p>El presupuesto de la UE contribuye al crecimiento y la creación de empleo. Conforme a la <strong>política de cohesión</strong>, el presupuesto financia inversiones cuya finalidad es acabar con las diferencias económicas entre sus países y regiones. Asimismo, contribuye al desarrollo de las zonas rurales en Europa.</p>             <p>Las tres fuentes principales de ingresos son:</p>             <ul>                <li>Un pequeño porcentaje de la <strong>renta nacional bruta</strong> (normalmente en torno al 0,7%) de cada uno de los países de la UE, que representa la mayor fuente de ingresos. Los principios subyacentes son la solidaridad y la capacidad de pago, aunque el importe puede ajustarse para evitar que suponga una carga excesiva para determinados países.</li>                <li>Un pequeño porcentaje del <strong>impuesto sobre el valor añadido (IVA)</strong> armonizado que cobra cada país miembro, normalmente en torno al 0,3%.</li>                <li>Una gran parte de los <strong>derechos de importación</strong> sobre los productos procedentes de países no miembros de la UE (el país que recauda el derecho se queda con un pequeño porcentaje).</li>             </ul>             <p>Además, la UE recauda impuestos del personal que trabaja para ella, las contribuciones de países no miembros a algunos de sus programas y el importe de las multas impuestas a las empresas que vulneran la normativa europea.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Presupuesto europeo en 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_es.jpg\"                      lang=\"es\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_es.jpg\"/>                   </a>                   <p>La contribución de los Estados miembros al presupuesto de la UE representa tan solo una pequeña parte de su gasto total.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>El presupuesto de la UE comparado con el de los Estados miembros</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_es.jpg\"                      lang=\"es\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_es.jpg\"/>                   </a>                   <p>El presupuesto de la UE puede parecer pequeño en comparación con el producto interior bruto de la Unión, pero es de gran valor como inversión.</p>                </div>             </div>"
+            ],
+            "et": [
+                "<p>ELi tuluallikateks on liikmesriikide tehtavad maksed, väljastpoolt ELi sisseveetavate kaupade imporditollimaksud  ja trahvid, mida määratakse ettevõtjatele, kes ei täida ELi eeskirju. ELi liikmesriigid lepivad kokku eelarve suuruses ning selle rahastamises mitu aastat ette. </p>             <p>ELi eelarvest toetatakse majanduskasvu ja töökohtade loomist. EL rahastab <strong>ühtekuuluvuspoliitika</strong> raames liikmesriikide ja piirkondade vaheliste majanduslike lõhede ületamiseks tehtavaid investeeringuid. EL aitab ka arendada Euroopa maapiirkondi.</p>             <p>Kolm põhilist tuluallikat on järgmised:</p>             <ul>                <li>suurima osa moodustab kõikide ELi liikmesriikide poolt eraldatav väike osa <strong>kogurahvatulust</strong> (tavaliselt umbes 0,7 %); Aluspõhimõtted on siin solidaarsus ja maksevõime, kuid summat võidakse kohandada, et vältida konkreetsete riikide liigset koormamist.</li>                <li>väike osa iga ELi liikmesriigi ühtlustatud <strong>käibemaksu</strong> tulust (tavaliselt umbes 0,3 %);</li>                <li>suur osa väljastpoolt ELi sisseveetavate toodete <strong>imporditollimaksudest</strong> (maksu koguv riik jätab sellest endale väikese osa).</li>             </ul>             <p>EL saab ka tulumaksu oma töötajate palkadelt, konkreetsetele ELi programmidele kolmandate riikide poolt eraldatud vahendeid ja trahve ELi eeskirju ja määrusi rikkunud ettevõtjatelt.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Euroopa Liidu 2011. aasta eelarve</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_et.jpg\"                      lang=\"et\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_et.jpg\"/>                   </a>                   <p>ELi liikmesriikide panus ELi eelarvesse on üksnes väike osa nende üldistest kulutustest.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>ELi eelarve võrdluses konkreetsete ELi liikmesriikide eelarvetega</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_et.jpg\"                      lang=\"et\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_et.jpg\"/>                   </a>                   <p>Kuigi ELi eelarve on ELi sisemajanduse koguproduktiga (SKP) võrreldes väike, on see investeeringute seisukohast hindamatu väärtusega.</p>                </div>             </div>"
+            ],
+            "fi": [
+                "<p>EU:lla on useita tulonlähteitä. Jäsenmaiden maksamien maksujen lisäksi se saa tuloja esimerkiksi EU:n ulkopuolelta tuotavien tuotteiden tuontitulleista sekä EU:n sääntöjä rikkoneille yrityksille määrätyistä sakoista. Jäsenmaat sopivat EU:n talousarvion suuruudesta ja rahoituksesta useaksi vuodeksi eteenpäin. </p>             <p>EU:n talousarviolla tuetaan kasvua ja työllisyyttä koko EU:ssa. EU rahoittaa <strong>koheesiopolitiikkansa</strong> mukaisesti investointeja, joilla pyritään kaventamaan EU-maiden ja alueiden taloudellisia eroja. Tukea annetaan myös maaseudun kehittämiseen.</p>             <p>Kolme tärkeintä tulonlähdettä ovat seuraavat:</p>             <ul>                <li>Prosenttiosuus (noin 0,7 %) jokaisen jäsenmaan <strong>bruttokansantulosta</strong>. Tämä on EU:n talousarvion suurin tulonlähde.  Maksuosuuden laskennassa noudatetaan yhteisvastuun periaatetta ja arvioidaan kunkin maan maksukykyä. Kohtuutonta rasitusta voidaan lieventää. </li>                <li>Prosenttiosuus (noin 0,3 %) kunkin EU-maan <strong>arvonlisäverolla</strong> (alv) keräämistä tuloista.</li>                <li>EU:n ulkopuolelta tuotavista tavaroista kerättävät <strong>tuontitullit</strong>, joista pääosa tilitetään EU:n kassaan. Tullien kantamisesta vastaava maa pidättää itsellään pienen osuuden.</li>             </ul>             <p>EU saa myös verotuloja EU:n työntekijöiden ansiotuloista, EU:n ulkopuolisten maiden osallistumismaksuja eräiden EU-ohjelmien yhteydessä sekä sakkomaksuja EU:n sääntöjä rikkoneilta yrityksiltä.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>EU:n talousarvio 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_fi.jpg\"                      lang=\"fi\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_fi.jpg\"/>                   </a>                   <p>Jäsenmaiden maksuosuudet EU:n talousarvioon ovat vain pieni osa niiden kokonaismenoista.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>EU:n talousarvio verrattuna jäsenmaiden talousarvioihin</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_fi.jpg\"                      lang=\"fi\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_fi.jpg\"/>                   </a>                   <p>EU:n talousarvio on pieni suhteessa EU:n BKT:hen, mutta se on tärkeä investointien vauhdittaja.</p>                </div>             </div>"
+            ],
+            "fr": [
+                "<p>L'Union européenne (UE) tire ses revenus des contributions de ses pays membres, des droits à l'importation de produits provenant de l'extérieur de l'UE, ainsi que des amendes imposées aux entreprises qui enfreignent la législation européenne. Les pays de l'UE déterminent le montant du budget et ses modalités de financement plusieurs années à l'avance. </p>             <p>Le budget de l'UE soutient la croissance et la création d'emplois. Il finance, au titre de la <strong>politique de cohésion</strong>, des investissements destinés à réduire les écarts économiques entre les différents pays et régions de l'UE. Il contribue également au développement des régions rurales d'Europe.</p>             <p>Les recettes proviennent des trois grandes sources suivantes:</p>             <ul>                <li>une faible part (environ 0,7 % en moyenne) du <strong>revenu national brut</strong> de chaque pays membre de l'UE. Cette ressource assure le gros des recettes du budget européen. Les principes de solidarité et de capacité financière déterminent la contribution de chaque État, mais ce montant peut être ajusté afin de ne pas surcharger un pays donné;</li>                <li>un pourcentage (environ 0,3 % en moyenne)  de l'assiette de la <strong>taxe sur la valeur ajoutée</strong> (TVA) harmonisée de chaque pays;</li>                <li>une grande part des <strong>droits à l'importation</strong> de produits provenant de l'extérieur de l'UE. Le pays percepteur en conserve un petit pourcentage.</li>             </ul>             <p>L'UE perçoit également l'impôt sur le revenu du personnel des institutions européennes, les contributions de pays non membres à certains programmes européens, ainsi que les amendes infligées aux entreprises qui violent la réglementation européenne.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Le budget européen en 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_fr.jpg\"                      lang=\"fr\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_fr.jpg\"/>                   </a>                   <p>La contribution de chaque pays au budget de l'UE ne représente qu'une petite partie de toutes ses dépenses.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Le budget de l'UE comparé à celui des pays de l'UE</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_fr.jpg\"                      lang=\"fr\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_fr.jpg\"/>                   </a>                   <p>Malgré sa taille modeste par rapport à la production économique de l'UE (son produit intérieur bruit), le budget de l'UE est un outil d'investissement précieux.</p>                </div>             </div>"
+            ],
+            "ga": [
+                "<p>Is ó ranníocaíochtaí na mBallstát, ó dhleachtanna iompórtála ar tháirgí a thagann isteach san AE agus ó fhíneálacha a ghearrtar ar ghnólachtaí nach gcomhlíonann rialacha an AE a fhaigheann an AE airgead. Roinnt blianta sula dtagann an buiséad i bhfeidhm, cinneann na Ballstáit méid an bhuiséid agus an áit as a dtiocfaidh an t-airgead. </p>             <p>Úsáidtear buiséad an AE chun fás agus fostaíocht a chothú. Mar chuid den <strong>bheartas comhtháthaithe</strong>, infheistítear cuid den bhuiséad chun na bearnaí eacnamaíocha atá idir tíortha agus réigiúin éagsúla an AE a laghdú. Úsáidtear roinnt den airgead chun ceantair thuaithe na hEorpa a fhorbairt freisin.</p>             <p>Is iad seo na 3 príomhfhoinsí ioncaim:</p>             <ul>                <li>céatadán beag den <strong>ollioncam náisiúnta</strong> (thart ar 0.7% de ghnáth) a fhaightear ó na tíortha ar fad atá san AE. Is é seo an foinse is mó ioncaim. Bunaithe ar phrionsabal na dlúthpháirtíochta agus cumas íocaíochta na dtíortha atá sé seo, agus is féidir an méid a íocann tíortha a athrú ionas nach mbeidh ró-ualach ar aon tír ar leith.</li>                <li>céatadán beag de <strong>cháin bhreisluacha</strong> chaighdeánaithe gach tíre san AE, thart ar 0.3% de ghnáth.</li>                <li>sciar mhór de na <strong>dleachtanna iompórtála</strong> atá ar tháirgí a thagann isteach san AE (coinníonn an tír a bhailíonn an dleacht céatadán beag di).</li>             </ul>             <p>Faigheann an AE cáin ioncaim ón bhfoireann atá fostaithe ag an AE freisin, ó ranníocaíochtaí a dhéanann tíortha nach bhfuil san AE le cláir áirithe de chuid an AE, agus ó fhíneálacha a ghearrtar ar chuideachtaí a sháraíonn rialacha agus rialacháin an AE.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>An buiséad Eorpach in 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_ga.jpg\"                      lang=\"ga\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_ga.jpg\"/>                   </a>                   <p>An méid airgid a chuireann tíortha an AE isteach i mbuiséad an AE, is beag é i dtaca leis an méid iomlán a chaitheann siad.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>An buiséad Eorpach i gcomparáid le buiséid tíortha áirithe den AE</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_ga.jpg\"                      lang=\"ga\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_ga.jpg\"/>                   </a>                   <p>Beag is mar atá buiséad an AE i dtaca le haschur eacnamaíoch an AE (olltáirgeacht intíre), déanann sé difear as cuimse don infheistíocht.</p>                </div>             </div>"
+            ],
+            "hr": [
+                "<p>Izvori prihoda EU-a doprinosi su država članica, uvozne carine na proizvode iz trećih zemalja i novčane kazne određene u slučaju kada poduzeća ne poštuju pravila EU-a. Države članice donose zajedničku odluku o iznosu proračunskih sredstava i načinima njihova financiranja nekoliko godina unaprijed. </p>             <p>Proračunom EU-a potiče se rast i otvaranje radnih mjesta. U okviru <strong>kohezijske politike</strong> iz njega se financiraju ulaganja kako bi se pomoglo uklanjanju gospodarskih nejednakosti između država članica i regija EU-a. Njime se pomaže i razvoju ruralnih područja u Europi.</p>             <p>Tri su osnovna izvora prihoda:</p>             <ul>                <li>mali postotak<strong> bruto nacionalnog dohotka</strong> (uglavnom oko 0,7 %) koji odvajaju sve države članice i koji je najveći izvor proračunskih prihoda; temelji se na načelu solidarnosti i platne sposobnosti, iako se iznos može prilagoditi u cilju izbjegavanja preopterećivanja određenih država</li>                <li>mali postotak standardiziranih prihoda od <strong>poreza na dodanu vrijednost</strong> svake države članice, koji najčešće iznosi otprilike 0,3 %</li>                <li>veliki dio <strong>uvoznih carina</strong> na proizvode iz trećih zemalja (država koja naplaćuje carinu zadržava mali postotak).</li>             </ul>             <p>EU ubire i poreze na dohodak od plaća svojeg osoblja, doprinose trećih zemalja za određene programe EU-a i novčane kazne određene društvima koja krše pravila i propise EU-a.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Proračun EU-a za 2011.</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_hr.jpg\"                      lang=\"hr\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_hr.jpg\"/>                   </a>                   <p>Doprinos država članica proračunu EU-a čini samo mali dio njihovih ukupnih rashoda.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Proračun EU-a u usporedbi s proračunom pojedinačnih država članica</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_hr.jpg\"                      lang=\"hr\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_hr.jpg\"/>                   </a>                   <p>Proračun EU-a možda jest malen u odnosu na ekonomske rezultate EU-a (bruto domaći proizvod), ali za ulaganja je neprocjenjiv.</p>                </div>             </div>"
+            ],
+            "hu": [
+                "<p>Az EU bevételei a tagállami hozzájárulásokból, az Unión kívülről behozott termékekre kivetett importvámokból, valamint az uniós előírásokat nem teljesítő vállalkozásokra kiszabott büntetésekből állnak össze. Ezekre a bevételekre alapozva az uniós tagállamok több évre előre meghatározzák a költségvetés összegét és finanszírozási módját. </p>             <p>Az uniós költségvetés egyik legfőbb célja a növekedés és a munkahelyteremtés elősegítése. A <strong>kohéziós politika</strong> keretében az uniós országok és régiók közötti egyenlőtlenségek felszámolását célzó beruházások jutnak támogatáshoz az EU költségvetéséből. Fontos kiadási terület ezenkívül a vidékfejlesztés is.</p>             <p>A fenti kiadásokat a következő bevételekből finanszírozzák:</p>             <ul>                <li>valamennyi uniós tagállam befizeti <strong>bruttó nemzeti jövedelmének</strong> egy kis hányadát (általában 0,7% körüli részét) az uniós költségvetésbe – ezek a hozzájárulások jelentik a költségvetés legnagyobb forrását. A tagállami hozzájárulások a szolidaritás és a fizetőképesség elvén alapulnak – lehetőség van azonban az összeg kiigazítására, amennyiben az túl nagy terhet jelent valamely tagállam számára;</li>                <li>az uniós tagállamok ezenkívül az egységes <strong>hozzáadottérték-adóból</strong> befolyó bevételeik kis részével, körülbelül 0,3%-ával is támogatják az uniós költségvetést;</li>                <li>a nem uniós termékekre kivetett <strong>importvámok</strong> nagyobb része is az EU-hoz kerül (kisebb részben a vámot beszedő tagállam részesül belőlük).</li>             </ul>             <p>A felsorolt forrásokon túl az uniós kasszába folyik be az uniós intézmények dolgozóinak jövedelemadója, az uniós programokban részt vevő harmadik országok által fizetett hozzájárulás, valamint az uniós jogszabályokat és előírásokat megsértő vállalatokra kiszabott bírság is.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Az EU költségvetése 2011-ben</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_hu.jpg\"                      lang=\"hu\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_hu.jpg\"/>                   </a>                   <p>A tagállamok az összes államháztartási kiadásukhoz képest csak nagyon kis összeget adnak be az uniós „közösbe”.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Az EU költségvetése az egyes tagállamok költségvetéséhez viszonyítva</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_hu.jpg\"                      lang=\"hu\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_hu.jpg\"/>                   </a>                   <p>Noha az uniós költségvetés eltörpül az EU gazdasági teljesítménye (az uniós GDP) mellett, a beruházások szempontjából óriási jelentőséggel bír.</p>                </div>             </div>"
+            ],
+            "it": [
+                "<p>Le fonti di finanziamento dell'UE comprendono i contributi dei paesi membri, i dazi all'importazione sui prodotti provenienti dall'esterno dell'Unione e le multe applicate alle imprese che non rispettano la normativa europea. I paesi dell'UE concordano con diversi anni di anticipo l'entità del bilancio e le modalità di finanziamento. </p>             <p>Il bilancio dell'UE sostiene la crescita e la creazione di posti di lavoro. Con la <strong>politica di coesione</strong> finanzia gli investimenti per aiutare a superare il divario economico che separa i paesi e le regioni dell'UE. Inoltre, contribuisce a sviluppare le zone rurali.</p>             <p>Le tre principali fonti di entrate sono:</p>             <ul>                <li>una piccola percentuale del <strong>reddito nazionale lordo</strong> (di solito attorno allo 0,7%) versato da tutti i paesi membri - è questa la fonte più cospicua. I principi di base sono la solidarietà e la capacità contributiva, ma se ne risulta un onere eccessivo per determinati paesi, si procede ad aggiustamenti </li>                <li>una piccola percentuale della base imponibile armonizzata dell'<strong>imposta sul valore aggiunto (IVA)</strong> di ciascun paese dell'UE, di solito pari allo 0,3% circa</li>                <li>una quota consistente dei <strong>dazi all'importazione</strong> sui prodotti provenienti dall'esterno dell'UE (il paese che riscuote il dazio trattiene una piccola percentuale).</li>             </ul>             <p>Vanno inoltre ad alimentare le casse dell'UE anche le imposte sui redditi del personale delle istituzioni europee, i contributi di paesi extra UE ad alcuni programmi europei e le ammende inflitte alle imprese che hanno violato la normativa europea.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Il bilancio dell'UE nel 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_it.jpg\"                      lang=\"it\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_it.jpg\"/>                   </a>                   <p>Il contributo dei paesi membri al bilancio dell'UE è solo una piccola parte della loro spesa complessiva.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Il bilancio dell'UE rispetto a quello dei singoli paesi membri</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_it.jpg\"                      lang=\"it\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_it.jpg\"/>                   </a>                   <p>Anche se il bilancio dell'UE è modesto rispetto alla produzione economica dell'Unione (il prodotto interno lordo), ha un'importanza inestimabile per gli investimenti.</p>                </div>             </div>"
+            ],
+            "lt": [
+                "<p>ES pajamų šaltiniai – tai valstybių narių įnašai, produktų importo iš ES nepriklausančių šalių muitai, baudos, skiriamos ES taisyklių nesilaikančioms įmonėms, ir kt. ES šalys susitaria dėl biudžeto dydžio ir dėl to, kaip jis bus finansuojamas kelerius ateinančius metus. </p>             <p>ES biudžetu remiamas ekonomikos augimas ir darbo vietų kūrimas. Pagal <strong>sanglaudos politiką</strong> iš jo finansuojamos investicijos siekiant padėti mažinti skirtumus tarp ES šalių ir regionų. Jis taip pat padeda Europos kaimo vietovių plėtrai.</p>             <p>Trys pagrindiniai pajamų šaltiniai:</p>             <ul>                <li>maža <strong>bendrųjų nacionalinių pajamų</strong> dalis (paprastai apie 0,7 %), kurią įneša visos ES šalys. Tai didžiausias biudžeto pajamų šaltinis. Pagrindiniai principai yra solidarumas ir finansinis pajėgumas, nors suma gali būti koreguojama, siekiant išvengti per didelės naštos konkrečioms šalims;</li>                <li>kiekvienos ES šalies standartizuotų <strong>pridėtinės vertės mokesčio</strong> pajamų dalis, paprastai sudaranti apie 0,3 %;</li>                <li>didelė produktų <strong>importo</strong> iš ES nepriklausančių šalių <strong>muitų</strong> dalis (šalis, kurioje imamas muitas, pasilieka nedidelę dalį).</li>             </ul>             <p>Be to, ES gauna ES institucijų darbuotojų pajamų mokesčius, ES nepriklausančių šalių įnašus į tam tikras ES programas ir baudas, kurias moka ES taisykles pažeidusios bendrovės.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>2011 m.Europos biudžetas</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_lt.jpg\"                      lang=\"lt\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_lt.jpg\"/>                   </a>                   <p>ES šalių įnašas į ES biudžetą sudaro tik nedidelę jų bendrųjų išlaidų dalį.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>ES ir atskirų ES šalių biudžeto palyginimas</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_lt.jpg\"                      lang=\"lt\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_lt.jpg\"/>                   </a>                   <p>Palyginti su ES ekonominės veiklos rezultatais (bendruoju vidaus produktu) ES biudžetas yra mažas, bet itin vertingas investicijoms.</p>                </div>             </div>"
+            ],
+            "lv": [
+                "<p>ES ieņēmumu avots ir dalībvalstu iemaksas, importa nodokļi par precēm, kuras ieved no ārpussavienības valstīm, un sodanaudas, ko iekasē no uzņēmumiem, kuri neievēro ES noteikumus. ES dalībvalstis vairākus gadus iepriekš vienojas par budžeta lielumu un to, kā tas tiks finansēts. </p>             <p>Ar ES budžetu tiek veicināta ekonomikas izaugsme un darbvietu radīšana. Ar budžeta līdzekļiem atbilstoši <strong>kohēzijas politikai</strong> tiek finansēti ieguldījumi, kas vajadzīgi, lai mazinātu ekonomiskās atšķirības starp ES valstīm un reģioniem. Ar to arī tiek atbalstīta Eiropas lauku apvidu attīstība.</p>             <p>ES ir 3 lieli ieņēmumu avoti.</p>             <ul>                <li>Neliela procentuālā daļa no katras ES dalībvalsts <strong>nacionālā kopienākuma</strong> (parasti aptuveni 0,7 %). Šis ir vislielākais budžeta ieņēmumu avots. Pamatā tiek ievēroti solidaritātes un maksātspējas principi. Šo summu var koriģēt, lai atsevišķas valstis nepārslogotu.</li>                <li>Neliela procentuālā daļa no katras valsts <strong>pievienotās vērtības nodokļa</strong> ieņēmuma, parasti aptuveni 0,3 %.</li>                <li>Liela daļa no <strong>importa nodokļiem</strong> par ārpussavienības precēm (valsts, kura šos nodokļus iekasē, patur tikai nelielu procentuālo daļu).</li>             </ul>             <p>ES arī iekasē ES iestāžu darbinieku ienākuma nodokli, ārpussavienības valstu iemaksas dažās ES programmās un sodanaudas no uzņēmumiem, kuri pārkāpj ES noteikumus un regulas.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>ES 2011. gada budžets</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_lv.jpg\"                      lang=\"lv\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_lv.jpg\"/>                   </a>                   <p>Dalībvalstis ES budžetā iemaksā vien nelielu daļu savu kopējo tēriņu.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>ES budžets salīdzinājumā ar atsevišķu ES dalībvalstu budžetu</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_lv.jpg\"                      lang=\"lv\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_lv.jpg\"/>                   </a>                   <p>Kaut arī salīdzinājumā ar ES iekšzemes kopproduktu ES budžets ir mazs, tam ir ļoti liela nozīme investīciju jomā.</p>                </div>             </div>"
+            ],
+            "mt": [
+                "<p>Is-sorsi ta’ dħul tal-UE jinkludu l-kontribuzzjonijiet tal-pajjiżi membri, id-dazji ta’ importazzjoni fuq prodotti minn barra l-UE u l-multi imposti meta n-negozji ma jikkonformawx mar-regoli tal-UE. Il-pajjiżi tal-UE jaqblu dwar id-daqs tal-baġit u kif għandu jiġi ffinanzjat fuq diversi snin bil-quddiem. </p>             <p>Il-baġit tal-UE jappoġġa t-tkabbir u l-ħolqien tal-impjiegi. Skont il-<strong>politika ta' koeżjoni</strong>, jiffinanzja l-investiment biex inaqqas id-differenzi ekonomiċi bejn il-pajjiżi u r-reġjuni tal-UE. Jgħin ukoll għall-iżvilupp ta’ żoni rurali fl-Ewropa.</p>             <p>It-tliet sorsi ewlenin ta' dħul huma:</p>             <ul>                <li>perċentwal żgħir tad-<strong>dħul nazzjonali gross</strong> (normalement madwar 0.7%) mill-pajjiżi kollha tal-UE - l-akbar sors tad-dħul tal-baġit. Il-prinċipji bażiċi huma s-solidarjetà u l-kapaċità li jħallas – għalkemm l-ammont jista’ jiġi aġġustat biex jiġi evitat piż żejjed fuq pajjiżi partikolari.</li>                <li>perċentwal żgħir tad-dħul mit-<strong>taxxa fuq il-valur miżjud</strong> standardizzata ta' kull pajjiż tal-UE, normalment madwar 0.3%.</li>                <li>sehem kbir tad-<strong>dazji tal-importazzjonijiet</strong> fuq prodotti li mhumiex tal-UE (il-pajjiż li jiġbor id-dazju jżomm perċentwal żgħir).</li>             </ul>             <p>L-UE tirċievi wkoll taxxi mħallsa mill-uffiċjali tal-UE fuq is-salarji tagħhom, kontribuzzjonijiet minn pajjiżi mhux fl-UE għal ċerti programmi u multi minn kumpaniji li jiksru r-regoli u r-regolamenti tal-UE.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Il-baġit Ewropew fl-2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_mt.jpg\"                      lang=\"mt\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_mt.jpg\"/>                   </a>                   <p>Dak li l-pajjiżi tal-UE jikkontribwixxu għall-baġit tal-UE huwa biss parti żgħira tan-nefqa globali tagħhom.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Il-baġit tal-UE meta mqabbel ma’ dawk ta’ pajjiżi individwali tal-UE</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_mt.jpg\"                      lang=\"mt\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_mt.jpg\"/>                   </a>                   <p>Għalkemm il-baġit tal-UE huwa żgħir meta mqabbel mal-produzzjoni ekonomika tal-UE (il-prodott domestiku gross), huwa imprezzabbli għall-investiment.</p>                </div>             </div>"
+            ],
+            "nl": [
+                "<p>De EU heeft inkomsten door bijdragen van de EU-landen, invoerheffingen op producten van buiten de EU en boetes die worden opgelegd als bedrijven zich niet aan de EU-regels houden. De EU-landen komen al enkele jaren van tevoren samen overeen hoeveel geld de EU mag uitgeven en hoe dat geld wordt opgebracht. </p>             <p>Met het EU-geld wordt de groei van de economie en de werkgelegenheid ondersteund. Op grond van het <strong>cohesiebeleid</strong> financiert de EU investeringen om de economische verschillen tussen de EU-landen en -regio's weg te werken. Ook plattelandsgebieden ontvangen steun.</p>             <p>De drie belangrijkste inkomstenbronnen van de EU zijn:</p>             <ul>                <li>een klein percentage van het <strong>bruto binnenlands product</strong> (meestal zo'n 0,7%) van alle EU-landen. Dit is de grootste inkomstenbron. De onderliggende principes zijn solidariteit en vermogen tot betalen. Het bedrag kan aangepast worden om te voorkomen dat bepaalde landen onevenredig zwaar belast worden.</li>                <li>een klein percentage van de <strong>btw-inkomsten</strong> van elk EU-land, meestal zo'n 0,3%</li>                <li>een groot deel van de <strong>invoerheffingen</strong> op producten van buiten de EU (het land dat de heffing int, behoudt een klein percentage ervan).</li>             </ul>             <p>De EU heft ook belasting over de salarissen van EU-personeel, ontvangt vergoedingen van landen buiten de EU voor hun deelname aan EU-programma's en int boetes van bedrijven die de EU-voorschriften hebben overtreden.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Europese begroting 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_nl.jpg\"                      lang=\"nl\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_nl.jpg\"/>                   </a>                   <p>Slechts een klein deel van wat de EU-landen uitgeven, gaat naar de EU.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>EU-begroting vergeleken met die van individuele EU-landen</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_nl.jpg\"                      lang=\"nl\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_nl.jpg\"/>                   </a>                   <p>De EU-begroting is klein vergeleken met het bbp van de EU, maar is van onschatbare waarde voor het investeringsniveau.</p>                </div>             </div>"
+            ],
+            "pl": [
+                "<p>Źródła dochodu UE obejmują składki państw członkowskich, cła przywozowe nakładane na produkty pochodzące spoza UE oraz grzywny nakładane na przedsiębiorstwa, które nie przestrzegają przepisów unijnych. Państwa członkowskie UE uzgadniają wielkość budżetu i sposób jego finansowania z kilkuletnim wyprzedzeniem. </p>             <p>Budżet UE wspiera wzrost i tworzenie miejsc pracy. W ramach <strong>polityki spójności</strong> środki z budżetu przeznaczane są na inwestycje niwelujące różnice ekonomiczne między państwami i regionami UE. Środki przeznacza się również na rozwój obszarów wiejskich.</p>             <p>Trzy główne źródła dochodów to:</p>             <ul>                <li>niewielka część <strong>dochodu narodowego brutto</strong> (zazwyczaj około 0,7%), przekazywana przez wszystkie państwa UE – największe źródło wpływów do budżetu. Podstawowymi zasadami są tu solidarność i zdolność płatnicza, wysokość składki może być jednak odpowiednio dostosowana, by uniknąć nadmiernego obciążania niektórych krajów;</li>                <li>niewielka część dochodów poszczególnych państw UE z tytułu <strong>podatku od wartości dodanej</strong>, zazwyczaj około 0,3%;</li>                <li>znaczna część <strong>ceł przywozowych</strong> nakładanych na produkty spoza UE (państwo, które pobiera cła, zatrzymuje niewielki odsetek pobranej kwoty).</li>             </ul>             <p>Budżet UE zasila również podatek dochodowy personelu UE, wkład krajów spoza UE na poczet niektórych programów UE oraz grzywny nakładane na przedsiębiorstwa, które łamią unijne przepisy i uregulowania.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Budżet Unii Europejskiej w 2011 r.</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_pl.jpg\"                      lang=\"pl\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_pl.jpg\"/>                   </a>                   <p>Wkład państw członkowskich do budżetu UE stanowi jedynie niewielką część ich całkowitych wydatków.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Budżet UE a budżety państw członkowskich</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_pl.jpg\"                      lang=\"pl\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_pl.jpg\"/>                   </a>                   <p>Budżet UE wydaje się stosunkowo niewielki w porównaniu z unijnym PKB, lecz mimo to odgrywa on ogromną rolę w pobudzaniu wzrostu gospodarczego i inwestycji w Europie.</p>                </div>             </div>"
+            ],
+            "pt": [
+                "<p>Entre as fontes de receitas da UE, incluem-se as contribuições dos Estados-Membros, os direitos de importação aplicáveis aos produtos provenientes do exterior da UE e as coimas impostas às empresas que não cumprem a regulamentação europeia. Os países da UE chegam a acordo sobre o montante total do orçamento e a forma como o mesmo será financiado com vários anos de antecedência. </p>             <p>O orçamento da UE apoia o crescimento e a criação de emprego. Ao abrigo da <strong>política de coesão</strong>, financia investimentos para ajudar a colmatar as disparidades económicas entre os países e as regiões da UE. Além disso, contribui para o desenvolvimento das zonas rurais da Europa.</p>             <p>Existem três principais fontes de receitas:</p>             <ul>                <li>uma pequena percentagem do <strong>produto interno bruto</strong> (regra geral, cerca de 0,7 %) de todos os países da UE, que constitui a maior fonte de receitas do orçamento. Os princípios subjacentes são a solidariedade e a capacidade contributiva, embora o montante possa ser ajustado de modo a evitar sobrecarregar determinados países.</li>                <li>uma pequena percentagem (regra geral 0,3 %) das receitas do <strong>imposto sobre o valor acrescentado</strong> (IVA) harmonizado cobrado por cada país da UE</li>                <li>uma parte significativa dos <strong>direitos de importação</strong> sobre os produtos provenientes de países terceiros (o país que cobra o imposto fica com uma pequena percentagem)</li>             </ul>             <p>A UE também recebe impostos sobre o salário do pessoal das instituições europeias e contribuições de países terceiros para determinados programas da UE, bem como o montante das coimas pagas pelas empresas que violam a legislação e a regulamentação europeias.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Orçamento europeu em 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_pt.jpg\"                      lang=\"pt\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_pt.jpg\"/>                   </a>                   <p>A contribuição dos países da UE para o orçamento europeu representa apenas uma pequena parte da sua despesa total.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Orçamento da UE comparado com o de alguns países europeus</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_pt.jpg\"                      lang=\"pt\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_pt.jpg\"/>                   </a>                   <p>O orçamento europeu pode parecer pequeno em relação ao PIB da União Europeia, mas é fundamental para o investimento.</p>                </div>             </div>"
+            ],
+            "ro": [
+                "<p>Sursele de venit ale UE includ contribuțiile primite de la statele membre, taxele la import aplicate produselor provenind din afara UE și amenzile impuse întreprinderilor care nu respectă normele europene. Țările UE convin asupra dimensiunii bugetului și asupra modului în care va fi finanțat acesta în următorii ani. </p>             <p>Bugetul UE sprijină creșterea economică și crearea de locuri de muncă. În baza <strong>politicii de coeziune</strong>, el finanțează investițiile menite să atenueze diferențele economice majore dintre țările și regiunile UE. De asemenea, contribuie la dezvoltarea zonelor rurale din Europa.</p>             <p>Cele trei surse principale de venit sunt:</p>             <ul>                <li>un mic procent din <strong>venitul național brut</strong> al fiecărui stat membru (în general, în jur de 0,7 %) - cea mai mare sursă de încasări la buget. Principiile de bază sunt solidaritatea și capacitatea de plată, dar valoarea poate fi ajustată pentru a evita suprasolicitarea anumitor țări.</li>                <li>un mic procent din încasările din <strong>taxa pe valoarea adăugată</strong> armonizată ale fiecărui stat membru (în general, în jur de 0,3 %).</li>                <li>o mare parte din <strong>taxele la import</strong> percepute pentru produsele din afara UE (țara care le percepe reține numai un mic procent din acestea).</li>             </ul>             <p>UE încasează, de asemenea, impozitele pe salariile personalului instituțiilor europene, contribuțiile țărilor terțe la anumite programe europene și amenzile aplicate întreprinderilor care încalcă normele și legislația UE.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Bugetul european pe 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_ro.jpg\"                      lang=\"ro\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_ro.jpg\"/>                   </a>                   <p>Contribuţia statelor membre la bugetul UE reprezintă doar o mică parte din cheltuielile lor totale.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Bugetul UE, comparativ cu cel al statelor membre</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_ro.jpg\"                      lang=\"ro\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_ro.jpg\"/>                   </a>                   <p>Bugetul UE poate părea mic în comparaţie cu produsul său intern brut, însă este esenţial pentru investiţii.</p>                </div>             </div>"
+            ],
+            "sk": [
+                "<p>Medzi zdroje príjmov EÚ patria príspevky od členských štátov, dovozné clá na výrobky z krajín mimo EÚ i pokuty od podnikov za neplnenie pravidiel EÚ. Krajiny EÚ sa na niekoľko rokov dopredu dohodli na objeme rozpočtu a jeho príjmovej stránke. </p>             <p>Rozpočet EÚ podporuje rast a vytváranie pracovných miest. V rámci <strong>kohéznej politiky</strong> sa z neho financujú investície zamerané na odstraňovanie ekonomických rozdielov medzi krajinami a regiónmi EÚ. Takisto napomáha rozvoju vidieckych oblastí v Európe.</p>             <p>Medzi 3 hlavné zdroje príjmov rozpočtu EÚ patria:</p>             <ul>                <li>malé percento <strong>hrubého národného dôchodku</strong> (HND – zvyčajne približne 0,7 %), ktorým prispievajú všetky krajiny EÚ. Ide o najvýznamnejší zdroj príjmov rozpočtu. Základnými zásadami v pozadí tohto zdroja sú solidarita a schopnosť platiť, takže výška príspevku sa môže upraviť, aby sa zabránilo neúmernému zaťažovaniu konkrétnych krajín,</li>                <li>malý percentuálny podiel z harmonizovaného vymeriavacieho základu <strong>dane z pridanej hodnoty</strong> (DPH) každého členského štátu (zvyčajne okolo 0,3 %),</li>                <li>veľký podiel <strong>colných poplatkov</strong> za produkty z krajín mimo EÚ (krajina, ktorá tieto poplatky vyberá, si z nich ponecháva len malý percentuálny podiel).</li>             </ul>             <p>Medzi príjmy EÚ patria aj dane z príjmov zamestnancov EÚ, príspevky z krajín mimo EÚ na určité programy Únie a pokuty udelené subjektom, ktoré porušujú právne predpisy EÚ.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Rozpočet EÚ v roku 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_sk.jpg\"                      lang=\"sk\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_sk.jpg\"/>                   </a>                   <p>Príspevky krajín EÚ do rozpočtu EÚ predstavujú len malú časť ich celkových výdavkov.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Rozpočet EÚ v porovnaní s rozpočtami jednotlivých krajín EÚ</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_sk.jpg\"                      lang=\"sk\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_sk.jpg\"/>                   </a>                   <p>Hoci je rozpočet EÚ v porovnaní s jej hospodárskym výkonom (hrubým domácim produktom) malý, jeho význam pre investície je neoceniteľný.</p>                </div>             </div>"
+            ],
+            "sl": [
+                "<p>Viri prihodkov EU vključujejo prispevke iz držav članic, uvozne dajatve za proizvode iz držav zunaj EU in globe, kadar podjetja ne ravnajo v skladu s pravili EU. Države EU soglašajo z obsegom proračuna in z vnaprejšnjim financiranjem proračuna za obdobje več let. </p>             <p>Proračun EU podpira gospodarsko rast in ustvarjanje delovnih mest. V okviru <strong>kohezijske politike</strong> so proračunska sredstva namenjena premostitvi gospodarskih razlik med državami in regijami EU. Namenjena so tudi razvoju podeželskih območij v Evropi.</p>             <p>Tri glavni viri prihodkov so:</p>             <ul>                <li>majhen odstotni delež<strong> bruto nacionalnega dohodka</strong> (običajno okoli 0,7 %), ki ga prispevajo vse države EU – to je tudi najpomembnejši vir proračunskih prihodkov. Proračun temelji na solidarnosti in plačilni sposobnosti – čeprav se znesek lahko prilagodi, da ne bi preveč obremenili posameznih držav.</li>                <li>majhen odstotni delež standardiziranih prihodkov iz <strong>davka na dodano vrednost</strong> vsake države EU, običajno okoli 0,3 %.</li>                <li>večji odstotni delež <strong>uvoznih dajatev</strong> na proizvode iz držav zunaj EU (majhen delež ostane državi, ki pobere dajatev).</li>             </ul>             <p>EU prejema tudi davek od dohodka zaposlenih v institucijah EU, prispevke iz tretjih držav za nekatere programe EU ter denarne kazni, naložene podjetjem, ki so kršila pravila in predpise EU.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>Proračun EU za leto 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_sl.jpg\"                      lang=\"sl\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_sl.jpg\"/>                   </a>                   <p>Prispevek držav EU k proračunu EU je samo majhen delež njihove splošne porabe.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>Proračun EU v primerjavi s proračunom posameznih držav EU</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_sl.jpg\"                      lang=\"sl\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_sl.jpg\"/>                   </a>                   <p>V primerjavi z gospodarsko proizvodnjo (bruto domačim proizvodom) EU je proračun EU sicer majhen, vendar je izredno pomemben za naložbe.</p>                </div>             </div>"
+            ],
+            "sv": [
+                "<p>EU:s inkomstkällor är bl.a. medlemsländernas EU-avgifter, importtullar på varor från länder utanför EU och böter från företag som bryter mot EU:s regler. EU-länderna enas om budgetens storlek och hur den ska finansieras flera år i förväg. </p>             <p>EU:s budget bidrar till tillväxt och nya jobb. Genom <strong>sammanhållningspolitiken</strong> finansieras satsningar för att minska de ekonomiska skillnaderna mellan EU:s länder och regioner. Pengarna går också till att utveckla landsbygden i EU.</p>             <p>Det här är EU:s tre viktigaste inkomstkällor:</p>             <ul>                <li>EU-avgiften är en liten andel av varje medlemslands <strong>bruttonationalinkomst</strong> (cirka 0,7 procent) och är den största inkomstkällan. Avgiften grundas på principerna om solidaritet och betalningsförmåga, men beloppet kan anpassas om ett land får alltför hög avgift.</li>                <li>En liten procentandel av den <strong>moms</strong> som tas ut i varje EU-land, cirka 0,3 procent.</li>                <li>En stor del av <strong>importtullarna</strong> på varor från länder utanför EU (det land där tullen betalas behåller en liten del).</li>             </ul>             <p>EU får också in pengar i form av de EU-anställdas inkomstskatter, bidrag från länder utanför EU till vissa EU-program och böter från företag som bryter mot EU:s regler.</p>             <div class=\"infographic_container\">                <div class=\"infographic_single box-list-links\">                   <h3>EU:s budget 2011</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_sv.jpg\"                      lang=\"sv\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_1_small_sv.jpg\"/>                   </a>                   <p>EU-ländernas bidrag till EU:s budget utgör bara en liten del av deras totala utgifter.</p>                </div>                <div class=\"infographic_single box-list-links\">                   <h3>EU:s budget jämfört med de enskilda EU-ländernas</h3>                   <a href=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_sv.jpg\"                      lang=\"sv\"                      class=\"fancybox infographic\"                      rel=\"infographics\">                      <img src=\"http://europa.eu/about-eu/basic-information/money/images/infographics_2_small_sv.jpg\"/>                   </a>                   <p>EU:s budget är liten i jämförelse med unionens samlade BNP men spelar ändå en viktig roll för investeringar.</p>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_a5ee5ad48cd9f80fffab26b25f4f05ae"
+            ]
+        },
+        "download_item": {
+            "und": [
+                "download_item_a5ee5ad48cd9f80fffab26b25f4f05ae"
+            ]
+        },
+        "video_gallery_item": {
+            "und": [
+                "video_gallery_item_a5ee5ad48cd9f80fffab26b25f4f05ae"
+            ]
+        }
+    }
+}

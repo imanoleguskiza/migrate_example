@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e076e96",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e076e96",
+        "080126248e076e96",
+        "080126248e076e96",
+        "080126248e076e96"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска агенция по лекарствата(EMA)"
+      ],
+      "cs": [
+        "Evropská agentura pro léčiva(EMA)"
+      ],
+      "da": [
+        "Det Europæiske Lægemiddelagentur(EMA)"
+      ],
+      "de": [
+        "Europäische Arzneimittel-Agentur(EMA)"
+      ],
+      "el": [
+        "Ευρωπαϊκός Οργανισμός Φαρμάκων(EMA)"
+      ],
+      "en": [
+        "European Medicines Agency(EMA)"
+      ],
+      "es": [
+        "Agencia Europea de Medicamentos(EMA)"
+      ],
+      "et": [
+        "Euroopa Ravimiamet(EMA)"
+      ],
+      "fi": [
+        "Euroopan lääkevirasto(EMA)"
+      ],
+      "fr": [
+        "Agence européenne des médicaments(EMA)"
+      ],
+      "ga": [
+        "An Ghníomhaireacht Leigheasra Eorpach(EMA)"
+      ],
+      "hr": [
+        "Europska agencija za lijekove(EMA)"
+      ],
+      "hu": [
+        "Európai Gyógyszerügynökség(EMA)"
+      ],
+      "it": [
+        "Agenzia europea per i medicinali(EMA)"
+      ],
+      "lt": [
+        "Europos vaistų agentūra(EMA)"
+      ],
+      "lv": [
+        "Eiropas Zāļu aģentūra(Eiropas Zāļu aģentūra)"
+      ],
+      "mt": [
+        "l-Aġenzija Ewropea tal-Mediċini(EMA)"
+      ],
+      "nl": [
+        "Europees Geneesmiddelenbureau(EMA)"
+      ],
+      "pl": [
+        "Europejska Agencja ds. Leków(EMA)"
+      ],
+      "pt": [
+        "Agência Europeia de Medicamentos(EMA)"
+      ],
+      "ro": [
+        "Agenţia Europeană pentru Medicamente(EMA)"
+      ],
+      "sk": [
+        "Európska agentúra pre lieky(EMA)"
+      ],
+      "sl": [
+        "Evropska agencija za zdravila(EMA)"
+      ],
+      "sv": [
+        "Europeiska läkemedelsmyndigheten(EMA)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/ema.gif"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>30 Churchill Place</p> <p>Canary Wharf</p> <p>London E14 5EU</p> <p>United Kingdom</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+44 20 3660 6000"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+44 20 3660 5555"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "http://www.ema.europa.eu/ema/index.jsp?curl=pages/about_us/landing/ask_ema_landing_page.jsp&mid=WC0b01ac05806499f0"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact EMA"
+      ]
+    }
+  }
+}

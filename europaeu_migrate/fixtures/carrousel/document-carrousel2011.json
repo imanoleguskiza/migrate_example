@@ -1,0 +1,316 @@
+{
+  "_id": "carrousel2011",
+  "type": "europe-carrousel_item",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "en",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "sv"
+  ],
+  "fields": {
+    "title": {
+      "bg": [
+        2011
+      ],
+      "cs": [
+        2011
+      ],
+      "da": [
+        2011
+      ],
+      "de": [
+        2011
+      ],
+      "el": [
+        2011
+      ],
+      "en": [
+        2011
+      ],
+      "es": [
+        2011
+      ],
+      "et": [
+        2011
+      ],
+      "fi": [
+        2011
+      ],
+      "fr": [
+        2011
+      ],
+      "ga": [
+        2011
+      ],
+      "hu": [
+        2011
+      ],
+      "it": [
+        2011
+      ],
+      "lt": [
+        2011
+      ],
+      "lv": [
+        2011
+      ],
+      "mt": [
+        2011
+      ],
+      "nl": [
+        2011
+      ],
+      "pl": [
+        2011
+      ],
+      "pt": [
+        2011
+      ],
+      "ro": [
+        2011
+      ],
+      "sk": [
+        2011
+      ],
+      "sl": [
+        2011
+      ],
+      "sv": [
+        2011
+      ]
+    },
+    "image_thumb": {
+      "bg": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_ga.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_smaller/europe_day_2011_low_sv.jpg"
+      ]
+    },
+    "image": {
+      "bg": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_ga.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/basic-information/symbols/europe-day/images/poster_medium/europe_day_2011_sv.jpg"
+      ]
+    },
+    "image_alt": {
+      "bg": [
+        2011
+      ],
+      "cs": [
+        2011
+      ],
+      "da": [
+        2011
+      ],
+      "de": [
+        2011
+      ],
+      "el": [
+        2011
+      ],
+      "en": [
+        2011
+      ],
+      "es": [
+        2011
+      ],
+      "et": [
+        2011
+      ],
+      "fi": [
+        2011
+      ],
+      "fr": [
+        2011
+      ],
+      "ga": [
+        2011
+      ],
+      "hu": [
+        2011
+      ],
+      "it": [
+        2011
+      ],
+      "lt": [
+        2011
+      ],
+      "lv": [
+        2011
+      ],
+      "mt": [
+        2011
+      ],
+      "nl": [
+        2011
+      ],
+      "pl": [
+        2011
+      ],
+      "pt": [
+        2011
+      ],
+      "ro": [
+        2011
+      ],
+      "sk": [
+        2011
+      ],
+      "sl": [
+        2011
+      ],
+      "sv": [
+        2011
+      ]
+    }
+  }
+}

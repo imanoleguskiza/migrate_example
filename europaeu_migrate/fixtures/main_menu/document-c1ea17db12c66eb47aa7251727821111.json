@@ -1,0 +1,201 @@
+{
+    "_id": "c1ea17db12c66eb47aa7251727821111",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "bg",
+        "cs",
+        "hr",
+        "sl",
+        "et",
+        "ro",
+        "da",
+        "de",
+        "lt",
+        "und",
+        "lv",
+        "nl",
+        "sk",
+        "sv",
+        "es",
+        "ga",
+        "fi",
+        "hu",
+        "pl",
+        "pt",
+        "el",
+        "fr",
+        "it",
+        "mt"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2006-07-13 0:00:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                3
+            ]
+        },
+        "parent": {
+            "und": [
+                "ca12002690bab8dd174a906d8e1aa801"
+            ]
+        },
+        "level": {
+            "und": [
+                3
+            ]
+        },
+        "title": {
+            "bg": [
+                "Телефон"
+            ],
+            "cs": [
+                "Telefon"
+            ],
+            "da": [
+                "Telefon"
+            ],
+            "de": [
+                "Telefon"
+            ],
+            "el": [
+                "Τηλέφωνο"
+            ],
+            "und": [
+                "Telephone"
+            ],
+            "es": [
+                "Teléfono"
+            ],
+            "et": [
+                "Telefon"
+            ],
+            "fi": [
+                "Puhelinpalvelu"
+            ],
+            "fr": [
+                "Téléphone"
+            ],
+            "ga": [
+                "Teileafón"
+            ],
+            "hr": [
+                "Telefon"
+            ],
+            "hu": [
+                "Telefonos kapcsolatfelvétel"
+            ],
+            "it": [
+                "Telefono"
+            ],
+            "lt": [
+                "Skambučiai"
+            ],
+            "lv": [
+                "Tālrunis"
+            ],
+            "mt": [
+                "Telefown"
+            ],
+            "nl": [
+                "Telefoon"
+            ],
+            "pl": [
+                "Telefon"
+            ],
+            "pt": [
+                "Telefone"
+            ],
+            "ro": [
+                "Telefon"
+            ],
+            "sk": [
+                "Telefón"
+            ],
+            "sl": [
+                "Telefon"
+            ],
+            "sv": [
+                "Telefon"
+            ]
+        },
+        "link": {
+            "bg": [
+                "contact/call-us"
+            ],
+            "cs": [
+                "contact/call-us"
+            ],
+            "da": [
+                "contact/call-us"
+            ],
+            "de": [
+                "contact/call-us"
+            ],
+            "el": [
+                "contact/call-us"
+            ],
+            "und": [
+                "contact/call-us"
+            ],
+            "es": [
+                "contact/call-us"
+            ],
+            "et": [
+                "contact/call-us"
+            ],
+            "fi": [
+                "contact/call-us"
+            ],
+            "fr": [
+                "contact/call-us"
+            ],
+            "ga": [
+                "contact/call-us"
+            ],
+            "hr": [
+                "contact/call-us"
+            ],
+            "hu": [
+                "contact/call-us"
+            ],
+            "it": [
+                "contact/call-us"
+            ],
+            "lt": [
+                "contact/call-us"
+            ],
+            "lv": [
+                "contact/call-us"
+            ],
+            "mt": [
+                "contact/call-us"
+            ],
+            "nl": [
+                "contact/call-us"
+            ],
+            "pl": [
+                "contact/call-us"
+            ],
+            "pt": [
+                "contact/call-us"
+            ],
+            "ro": [
+                "contact/call-us"
+            ],
+            "sk": [
+                "contact/call-us"
+            ],
+            "sl": [
+                "contact/call-us"
+            ],
+            "sv": [
+                "contact/call-us"
+            ]
+        }
+    }
+}

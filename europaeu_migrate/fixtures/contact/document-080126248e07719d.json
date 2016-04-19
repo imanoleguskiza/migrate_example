@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e07719d",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e07719d",
+        "080126248e07719d",
+        "080126248e07719d",
+        "080126248e07719d"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Агенция за снабдяване на Европейската общност за атомна енергия"
+      ],
+      "cs": [
+        "Zásobovácí agentura pro EURATOM"
+      ],
+      "da": [
+        "Euratoms Forsyningsagentur"
+      ],
+      "de": [
+        "Euratom-Versorgungsagentur"
+      ],
+      "el": [
+        "Οργανισμός Εφοδιασμού Ευρατόμ"
+      ],
+      "en": [
+        "EURATOM Supply Agency(ESA)"
+      ],
+      "es": [
+        "Agencia de Abastecimiento de Euratom(AAE)"
+      ],
+      "et": [
+        "Euratomi Tarneagentuur"
+      ],
+      "fi": [
+        "Euratomin hankintakeskus"
+      ],
+      "fr": [
+        "Agence d’approvisionnement EURATOM(AAE)"
+      ],
+      "ga": [
+        "Gníomhaireacht Soláthair EURATOM"
+      ],
+      "hr": [
+        "Agencija EURATOM-a za opskrbu(ESA)"
+      ],
+      "hu": [
+        "EURATOM Ellátási Ügynökség"
+      ],
+      "it": [
+        "Agenzia di approvvigionamento di EURATOM"
+      ],
+      "lt": [
+        "„Euratomo“ tiekimo agentūra"
+      ],
+      "lv": [
+        "EURATOM Apgādes aģentūra"
+      ],
+      "mt": [
+        "l-Aġenzija Fornitriċi tal-EURATOM"
+      ],
+      "nl": [
+        "Voorzieningsagentschap van Euratom"
+      ],
+      "pl": [
+        "Agencja Dostaw Euratomu"
+      ],
+      "pt": [
+        "Agência de Aprovisionamento da EURATOM"
+      ],
+      "ro": [
+        "Agenţia de Aprovizionare a EURATOM"
+      ],
+      "sk": [
+        "Agentúra Euratom pre zásobovanie"
+      ],
+      "sl": [
+        "Agencija za oskrbo EURATOM"
+      ],
+      "sv": [
+        "Euratoms försörjningsbyrå"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Complexe Euroforum</p> <p>10 rue Robert Stumper</p> <p>L-2557 Luxembourg</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+352 4301 36738 "
+      ]
+    },
+    "fax": {
+      "und": [
+        "+352 4301 38139 "
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:Esa-AAE@ec.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact ESA"
+      ]
+    }
+  }
+}

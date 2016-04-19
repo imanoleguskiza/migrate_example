@@ -1,0 +1,351 @@
+{
+    "_id": "see_also_item_c1d600264c980fbe86f088235a822622",
+    "type": "see_also_item",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Кой кой е",
+                "             Публикации ",
+                "             Работни места "
+            ],
+            "cs": [
+                "Kdo je kdo",
+                "             Publikace ",
+                "             Pracovní příležitosti "
+            ],
+            "da": [
+                "Hvem er hvem?",
+                "             Publikationer ",
+                "             Job "
+            ],
+            "de": [
+                "Wer ist wer",
+                "Veröffentlichungen",
+                "Stellenangebote "
+            ],
+            "el": [
+                "Επίσημος κατάλογος της ΕΕ",
+                "             Εκδόσεις ",
+                "             Θέσεις εργασίας "
+            ],
+            "en": [
+                "Who's who",
+                "Publications",
+                "Jobs"
+            ],
+            "es": [
+                "Quién es quién",
+                "             Publicaciones ",
+                "             Ofertas de empleo "
+            ],
+            "et": [
+                "Kes on kes?",
+                "             Väljaanded ",
+                "             Töökohad "
+            ],
+            "fi": [
+                "Henkilöhakemisto",
+                "             Julkaisut ",
+                "             Työpaikat "
+            ],
+            "fr": [
+                "Annuaire des institutions",
+                "Publications",
+                "Recrutement"
+            ],
+            "ga": [
+                "Cé hé cé",
+                "             Foilseacháin ",
+                "             Poist "
+            ],
+            "hr": [
+                "Tko je tko",
+                "             Publikacije ",
+                "             Poslovi "
+            ],
+            "hu": [
+                "Whoiswho – az Európai Unió hivatalos név- és címjegyzéke",
+                "             Kiadványok ",
+                "             Munkaerő-felvétel "
+            ],
+            "it": [
+                "Chi è chi",
+                "             Pubblicazioni ",
+                "             Offerte di lavoro "
+            ],
+            "lt": [
+                "Kas yra kas",
+                "             Leidiniai ",
+                "             Galimybės įsidarbinti "
+            ],
+            "lv": [
+                "ES iestāžu kontaktinformācijas katalogs",
+                "             Publikācijas ",
+                "             Vakances "
+            ],
+            "mt": [
+                "Min hu min",
+                "             Il-pubblikazzjonijiet ",
+                "             L-impjiegi "
+            ],
+            "nl": [
+                "Wie is wie bij de EU",
+                "             Publicaties ",
+                "             Vacatures "
+            ],
+            "pl": [
+                "Organizacyjna baza danych UE (Kto jest kim w UE)",
+                "             Publikacje ",
+                "             Oferty zatrudnienia "
+            ],
+            "pt": [
+                "Quem é quem",
+                "             Publicações ",
+                "             Emprego "
+            ],
+            "ro": [
+                "Anuar",
+                "             Publicații ",
+                "             Posturi vacante "
+            ],
+            "sk": [
+                "Kto je kto",
+                "             Publikácie ",
+                "             Pracovné miesta "
+            ],
+            "sl": [
+                "Kdo je kdo",
+                "             Publikacije ",
+                "             Zaposlitev "
+            ],
+            "sv": [
+                "Sök person",
+                "             Publikationer ",
+                "             Lediga jobb "
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=bg",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "cs": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=cs",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "da": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=da",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "de": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=de",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/de/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/de/site/mySite/recruitment"
+            ],
+            "el": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=el",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "en": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=en",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "es": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=es",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "et": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=et",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "fi": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=fi",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "fr": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=fr",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/fr/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/fr/site/mySite/recruitment"
+            ],
+            "ga": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=ga",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "hr": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=hr",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "hu": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=hu",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "it": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=it",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "lt": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=lt",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "lv": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=lv",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "mt": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=mt",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "nl": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=nl",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "pl": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=pl",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "pt": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=pt",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "ro": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=ro",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "sk": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=sk",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "sl": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=sl",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ],
+            "sv": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=187826&lang=sv",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/EDPS/Publications",
+                "https://secure.edps.europa.eu/EDPSWEB/edps/lang/en/site/mySite/recruitment"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Европейски надзорен орган по защита на данните (ЕНОЗД)"
+            ],
+            "cs": [
+                "Evropský inspektor ochrany údajů"
+            ],
+            "da": [
+                "Den Europæiske Tilsynsførende for Databeskyttelse (EDPS)"
+            ],
+            "de": [
+                "Europäischer Datenschutzbeauftragter (EDSB)"
+            ],
+            "el": [
+                "Ευρωπαίος Επόπτης Προστασίας Δεδομένων (ΕΕΠΔ)"
+            ],
+            "en": [
+                "European Data Protection Supervisor (EDPS)"
+            ],
+            "es": [
+                "Supervisor Europeo de Protección de Datos (SEPD)"
+            ],
+            "et": [
+                "Euroopa Andmekaitseinspektor"
+            ],
+            "fi": [
+                "Euroopan tietosuojavaltuutettu"
+            ],
+            "fr": [
+                "Contrôleur européen de la protection des données"
+            ],
+            "ga": [
+                "An Maoirseoir Eorpach ar Chosaint Sonraí (MECS)"
+            ],
+            "hr": [
+                "Europski nadzornik za zaštitu podataka (EDPS)"
+            ],
+            "hu": [
+                "Európai adatvédelmi biztos"
+            ],
+            "it": [
+                "Garante europeo della protezione dei dati (GEPD)"
+            ],
+            "lt": [
+                "Europos duomenų apsaugos priežiūros pareigūnas (EDAPP)"
+            ],
+            "lv": [
+                "Eiropas Datu aizsardzības uzraudzītājs (EDAU)"
+            ],
+            "mt": [
+                "Kontrollur Ewropew għall-Protezzjoni tad-Data (KEPD)"
+            ],
+            "nl": [
+                "Europese Toezichthouder voor gegevensbescherming (EDPS)"
+            ],
+            "pl": [
+                "Europejski Inspektor Ochrony Danych (EIOD)"
+            ],
+            "pt": [
+                "Autoridade Europeia para a Proteção de Dados (AEPD)"
+            ],
+            "ro": [
+                "Autoritatea Europeană pentru Protecția Datelor (AEPD)"
+            ],
+            "sk": [
+                "Európsky dozorný úradník pre ochranu údajov (EDPS)"
+            ],
+            "sl": [
+                "Evropski nadzornik za varstvo podatkov"
+            ],
+            "sv": [
+                "Europeiska datatillsynsmannen"
+            ]
+        }
+    }
+}

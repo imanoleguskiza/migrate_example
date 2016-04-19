@@ -1,0 +1,936 @@
+{
+  "_id": "25850e95705921c08559c636accd0cb0",
+  "type": "institution",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/etf/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска фондация за обучение"
+      ],
+      "cs": [
+        "Evropská nadace odborného vzdělávání"
+      ],
+      "da": [
+        "Det Europæiske Erhvervsuddannelsesinstitut"
+      ],
+      "de": [
+        "Europäische Stiftung für Berufsbildung"
+      ],
+      "el": [
+        "Ευρωπαϊκό Ίδρυμα Επαγγελματικής Εκπαίδευσης"
+      ],
+      "en": [
+        "European Training Foundation"
+      ],
+      "es": [
+        "Fundación Europea de Formación"
+      ],
+      "et": [
+        "Euroopa Koolitusfond"
+      ],
+      "fi": [
+        "Euroopan koulutussäätiö"
+      ],
+      "fr": [
+        "Fondation européenne pour la formation"
+      ],
+      "ga": [
+        "An Fhondúireacht Eorpach Oiliúna"
+      ],
+      "hr": [
+        "Europska zaklada za stručnu izobrazbu"
+      ],
+      "hu": [
+        "Európai Képzési Alapítvány"
+      ],
+      "it": [
+        "Fondazione europea per la formazione"
+      ],
+      "lt": [
+        "Europos mokymo fondas"
+      ],
+      "lv": [
+        "Eiropas Izglītības fonds"
+      ],
+      "mt": [
+        "il-Fondazzjoni Ewropea għat-Taħriġ"
+      ],
+      "nl": [
+        "Europese Stichting voor opleiding"
+      ],
+      "pl": [
+        "Europejska Fundacja Kształcenia"
+      ],
+      "pt": [
+        "Fundação Europeia para a Formação"
+      ],
+      "ro": [
+        "Fundaţia Europeană de Formare"
+      ],
+      "sk": [
+        "Európska nadácia pre odborné vzdelávanie"
+      ],
+      "sl": [
+        "Evropska fundacija za usposabljanje"
+      ],
+      "sv": [
+        "Europeiska yrkesutbildningsstiftelsen"
+      ]
+    },
+    "category": {
+      "und": [
+        "23337c19",
+        "40261c20"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "cs": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "da": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "de": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "el": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "en": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "es": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "et": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "fi": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "fr": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "ga": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "hr": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "hu": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "it": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "lt": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "lv": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "mt": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "nl": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "pl": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "pt": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "ro": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "sk": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "sl": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ],
+      "sv": [
+        "EUROPA.EU/ABOUT-EU/REGULATORY_AGENCIES_BODIES/POLICY_AGENCIES/ETF"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        "DG COMM A5"
+      ],
+      "cs": [
+        "DG COMM A5"
+      ],
+      "da": [
+        "DG COMM A5"
+      ],
+      "de": [
+        "DG COMM A5"
+      ],
+      "el": [
+        "DG COMM A5"
+      ],
+      "en": [
+        "DG COMM A5"
+      ],
+      "es": [
+        "DG COMM A5"
+      ],
+      "et": [
+        "DG COMM A5"
+      ],
+      "fi": [
+        "DG COMM A5"
+      ],
+      "fr": [
+        "DG COMM A5"
+      ],
+      "ga": [
+        "DG COMM A5"
+      ],
+      "hr": [
+        "DG COMM A5"
+      ],
+      "hu": [
+        "DG COMM A5"
+      ],
+      "it": [
+        "DG COMM A5"
+      ],
+      "lt": [
+        "DG COMM A5"
+      ],
+      "lv": [
+        "DG COMM A5"
+      ],
+      "mt": [
+        "DG COMM A5"
+      ],
+      "nl": [
+        "DG COMM A5"
+      ],
+      "pl": [
+        "DG COMM A5"
+      ],
+      "pt": [
+        "DG COMM A5"
+      ],
+      "ro": [
+        "DG COMM A5"
+      ],
+      "sk": [
+        "DG COMM A5"
+      ],
+      "sl": [
+        "DG COMM A5"
+      ],
+      "sv": [
+        "DG COMM A5"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Информация относно Европейската фондация за обучение - една от агенциите на Европейския съюз"
+      ],
+      "cs": [
+        "Informace o Evropské nadaci odborného vzdělávání (agentuře Evropské unie)"
+      ],
+      "da": [
+        "Information om Det Europæiske Erhvervsuddannelsesinstitut, et EU-agentur"
+      ],
+      "de": [
+        "Informationen zur Europäischen Stiftung für Berufsbildung, einer Agentur der Europäischen Union "
+      ],
+      "el": [
+        "Πληροφορίες σχετικά με το Ευρωπαϊκό Ίδρυμα Επαγγελματικής Εκπαίδευσης, έναν από τους οργανισμούς της Ευρωπαϊκής Ένωσης."
+      ],
+      "en": [
+        "Information about the European Training Foundation, an agency of the European Union"
+      ],
+      "es": [
+        "Información sobre la Fundación Europea de Formación, una de las agencias de la Unión Europea"
+      ],
+      "et": [
+        "Teave Euroopa Koolitusfondi kohta, mis on Euroopa Liidu amet"
+      ],
+      "fi": [
+        "Tietoa Euroopan koulutussäätiöstä (ETF), joka on EU:n elin"
+      ],
+      "fr": [
+        "Informations sur la Fondation européenne pour la formation, une agence de l’Union européenne"
+      ],
+      "ga": [
+        "Eolas faoin bhForas Eorpach Oiliúna, gníomhaireacht de chuid an Aontais Eorpaigh"
+      ],
+      "hr": [
+        "Informacije o Europskoj zakladi za stručnu izobrazbu, agenciji Europske unije"
+      ],
+      "hu": [
+        "Információk az Európai Képzési Alapítványról, az EU ügynökségeinek egyikéről"
+      ],
+      "it": [
+        "Informazioni sulla Fondazione europea per la formazione, un'agenzia dell'Unione europea"
+      ],
+      "lt": [
+        "Informacija apie Europos mokymo fondą. Tai viena iš Europos Sąjungos agentūrų."
+      ],
+      "lv": [
+        "Informācija par Eiropas Izglītības fondu (Eiropas Savienības aģentūru)"
+      ],
+      "mt": [
+        "Tagħrif dwar il-Fondazzjoni Ewropea għat-Taħriġ, aġenzija tal-Unjoni Ewropea"
+      ],
+      "nl": [
+        "Informatie over de Europese stichting voor opleiding, een agentschap van de Europese Unie"
+      ],
+      "pl": [
+        "Informacje o Europejskiej Fundacji Kształcenia (agencji UE)"
+      ],
+      "pt": [
+        "Informações sobre a Fundação Europeia para a Formação, uma das agências da União Europeia"
+      ],
+      "ro": [
+        "Informații privind Fundația Europeană de Formare, o agenție a Uniunii Europene"
+      ],
+      "sk": [
+        "Informácie o Európskej nadácii pre odborné vzdelávanie, ktorá je agentúrou Európskej únie"
+      ],
+      "sl": [
+        "Evropska fundacija za usposabljanje, agencija Evropske unije"
+      ],
+      "sv": [
+        "Information om Europeiska yrkesutbildningsstiftelsen, en av EU:s byråer"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "Europa",
+        "ЕС",
+        "Европейски съюз",
+        "агенции",
+        "институции",
+        "обучение",
+        "съседни страни"
+      ],
+      "cs": [
+        "Europa",
+        "EU",
+        "Evropská unie",
+        "agentury",
+        "instituce, orgány",
+        "odborná příprava",
+        "sousední země"
+      ],
+      "da": [
+        "EUROPA",
+        "EU",
+        "Den Europæiske Union",
+        "agenturer",
+        "organer",
+        "institutioner",
+        "træning",
+        "oplæring",
+        "dygtiggørelse",
+        "uddannelse",
+        "nabolandene"
+      ],
+      "de": [
+        "Europa",
+        "EU",
+        "Europäische Union",
+        "Agenturen",
+        "Einrichtungen",
+        "Organe",
+        "Institutionen",
+        "Schulungen",
+        "Nachbarländer"
+      ],
+      "el": [
+        "Europa",
+        "ΕΕ",
+        "Ευρωπαϊκή Ένωση",
+        "οργανισμοί",
+        "θεσμικά όργανα",
+        "εκπαίδευση",
+        "γειτονικές χώρες"
+      ],
+      "en": [
+        "Europa",
+        "EU",
+        "European Union",
+        "agencies",
+        "institutions",
+        "training",
+        "neighbouring countries"
+      ],
+      "es": [
+        "Europa",
+        "UE",
+        "Unión Europea",
+        "agencias",
+        "instituciones",
+        "formación",
+        "países vecinos"
+      ],
+      "et": [
+        "Europa",
+        "EL",
+        "Euroopa Liit",
+        "ametid",
+        "institutsioonid",
+        "koolitus",
+        "naaberriigid"
+      ],
+      "fi": [
+        "Europa",
+        "EU",
+        "Euroopan unioni",
+        "virastot, elimet, laitokset",
+        "toimielimet",
+        "koulutus",
+        "naapurimaat"
+      ],
+      "fr": [
+        "Europa",
+        "UE",
+        "Union européenne",
+        "agences",
+        "Institutions",
+        "formation",
+        "pays voisins"
+      ],
+      "ga": [
+        "Europa",
+        "AE",
+        "An tAontas Eorpach",
+        "gníomhaireachtaí",
+        "institiúidí",
+        "oiliúint",
+        "tíortha comharsanachta"
+      ],
+      "hr": [
+        "Europa",
+        "EU",
+        "Europska unija",
+        "agencije",
+        "institucije",
+        "izobrazba",
+        "susjedne zemlje"
+      ],
+      "hu": [
+        "Europa",
+        "EU",
+        "Európai Unió",
+        "ügynökségek",
+        "intézmények",
+        "képzés",
+        "szomszédos országok"
+      ],
+      "it": [
+        "Europa",
+        "UE",
+        "Unione europea",
+        "agenzie",
+        "istituzioni",
+        "formazione",
+        "paesi vicini, paesi confinanti"
+      ],
+      "lt": [
+        "Europa",
+        "ES",
+        "Europos Sąjunga",
+        "agentūros",
+        "institucijos",
+        "mokymas",
+        "kaimyninės šalys"
+      ],
+      "lv": [
+        "Europa",
+        "ES",
+        "Eiropas Savienība",
+        "aģentūras",
+        "iestādes",
+        "mācības",
+        "kaimiņvalstis"
+      ],
+      "mt": [
+        "Europa",
+        "UE",
+        "Unjoni Ewropea",
+        "aġenziji",
+        "istituzzjonijiet",
+        "taħriġ",
+        "pajjiżi ġirien"
+      ],
+      "nl": [
+        "Europa",
+        "EU",
+        "Europese Unie",
+        "agentschappen",
+        "instellingen",
+        "opleiding",
+        "nabuurschapslanden, buurlanden"
+      ],
+      "pl": [
+        "Europa",
+        "UE",
+        "Unia Europejska",
+        "agencje",
+        "instytucje",
+        "szkolenia",
+        "kształcenie",
+        "kraje sąsiadujące z UE"
+      ],
+      "pt": [
+        "europa",
+        "ue",
+        "união europeia",
+        "agências",
+        "instituições",
+        "formação",
+        "países vizinhos",
+        "países limítrofes"
+      ],
+      "ro": [
+        "Europa",
+        "UE",
+        "Uniunea Europeană",
+        "agenții",
+        "instituții",
+        "formare",
+        "țări vecine"
+      ],
+      "sk": [
+        "Europa",
+        "EÚ",
+        "Európska únia",
+        "agentúry",
+        "inštitúcie",
+        "odborná príprava",
+        "susedné krajiny"
+      ],
+      "sl": [
+        "Europa",
+        "EU",
+        "Evropska unija",
+        "agencije",
+        "institucije",
+        "usposabljanje",
+        "sosednje države"
+      ],
+      "sv": [
+        "europa, europa.eu",
+        "EU",
+        "Europeiska unionen",
+        "organ, byråer",
+        "institutioner",
+        "utbildning",
+        "grannländer"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "info1": {
+      "bg": [
+        "<p>Европейската фондация за обучение помага на партниращите ѝ страни да модернизират своите системи за образование и обучение, за да могат да осигурят на гражданите знанията, уменията и компетенциите, необходими в динамични икономики и общества. Ние разглеждаме образованието и обучението като част от една пълна система за учене.</p>"
+      ],
+      "cs": [
+        "<p>Evropská nadace odborného vzdělávání (ETF) pomáhá partnerským zemím modernizovat systémy vzdělávání a odborné přípravy, aby předávaly znalosti a dovednosti potřebné v dynamické ekonomice a společnosti. Vzdělávání a odborná příprava jsou pro nás součástí jednoho uceleného vzdělávacího systému.</p>"
+      ],
+      "da": [
+        "<p>Det Europæiske Erhvervsuddannelsesinstitut (ETF) hjælper EU's partnerlande med at modernisere deres uddannelsessystemer, så borgerne kan få de kvalifikationer, færdigheder og andre kompetencer, de har brug for i dynamiske økonomier og samfund. Vi betragter almen uddannelse og erhvervsuddannelse som en del af ét samlet læringssystem.</p>"
+      ],
+      "de": [
+        "<p>Die Europäische Stiftung für Berufsbildung (ETF) unterstützt Partnerländer bei der Modernisierung ihrer Bildungs- und Berufsbildungssysteme durch Vermittlung von Fachkenntnissen und anderen Kompetenzen, die dynamische Wirtschaften und Gesellschaften benötigen. Dahinter steht der Grundgedanke, dass Bildung und Berufsbildung Teil eines umfassenden Lernsystems sind.</p>"
+      ],
+      "el": [
+        "<p>Το Ευρωπαϊκό Ίδρυμα Επαγγελματικής Εκπαίδευσης (ΕΙΕΕ) βοηθά τις χώρες-εταίρους να εκσυγχρονίσουν τα συστήματά τους εκπαίδευσης και κατάρτισης. Απώτερος στόχος είναι να αποκτήσουν οι πολίτες τις γνώσεις και τις δεξιότητες που απαιτούνται για ισχυρές οικονομίες και κοινωνίες. Θεωρούμε ότι η εκπαίδευση και η κατάρτιση αποτελούν μέρος ενός ολοκληρωμένου συστήματος μάθησης.</p>"
+      ],
+      "en": [
+        "<p>The European Training Foundation (ETF) helps its partner countries modernise their education and training systems to give their people the knowledge, skills and other competences needed in dynamic economies and societies. We regard education and training as part of one, complete learning system.</p>"
+      ],
+      "es": [
+        "<p>La Fundación Europea de Formación colabora con sus países asociados para modernizar sus sistemas de educación y formación y dar al ciudadano los conocimientos, competencias y cualificaciones necesarios en unas economías y sociedades dinámicas. Para nosotros la educación y la formación forman parte de un sistema único y completo de aprendizaje.</p>"
+      ],
+      "et": [
+        "<p>Euroopa Koolitusfond aitab partnerriikidel oma haridus- ja koolitussüsteeme kaasajastada, et anda sealsetele inimestele teadmised, oskused ning muud pädevused, mis on vajalikud dünaamilises majanduskeskkonnas ja ühiskonnas. Meie käsitame haridust ja koolitust ühe ühtse õppesüsteemi osadena.</p>"
+      ],
+      "fi": [
+        "<p>Euroopan koulutussäätiö (ETF) auttaa EU:n naapuri- ja kumppanimaita uudistamaan koulutusjärjestelmiä, jotta niiden kansalaiset voisivat saavuttaa dynaamisissa talouksissa ja yhteiskunnissa tarvittavat tiedot ja taidot. ETF pitää sekä yleissivistävää että ammatillista koulutusta yhden kokonaisvaltaisen oppimisjärjestelmän osina.</p>"
+      ],
+      "fr": [
+        "<p>La Fondation européenne pour la formation (ETF) aide ses pays partenaires à moderniser leur système éducatif et leur offre de formation afin que leurs habitants disposent des connaissances et des compétences qui font le dynamisme d'une société et de son économie. La Fondation considère l'enseignement et la formation comme les composants indissociables d'un système éducatif complet et cohérent.</p>"
+      ],
+      "ga": [
+        "<p>Cabhraíonn an Foras Eorpach Oiliúna (ETF) lena chuid tíortha comhpháirtíochta a gcuid córas oideachais agus oiliúna a nuachóiriú chun  an t-eolas, na scileanna agus na hinniúlachtaí eile is gá i ngeilleagair agus i sochaithe dinimiciúla a thabhairt dá ndaoine.   Is cuid de chóras foghlama iomlán amháin an t-oideachas agus an oiliúint, dar linn.  </p>"
+      ],
+      "hr": [
+        "<p>Europska zaklada za stručnu izobrazbu (European Training Foundation, ETF) pomaže partnerskim zemljama da moderniziraju svoje sustave ozbrazovanja i izobrazbe kako bi građanima omogućile da steknu znanja, vještine i druge kompetencije koje zahtijevaju dinamična gospodarstva i društva. Obrazovanje i stručna izobrazba smatraju se elementima jedinstvenog i cjelovitog sustava učenja.</p>"
+      ],
+      "hu": [
+        "<p>Az Európai Képzési Alapítvány (ETF) az oktatási és képzési rendszereik korszerűsítésében segíti partnerországait. E közös erőfeszítés célja, hogy az oktatási és képzési rendszerek képesek legyenek felvértezni az embereket olyan szaktudással, készségekkel és egyéb képességekkel, amelyekre a dinamikusan működő gazdaságokban és társadalmakban szükség van. Az oktatást és képzést egyazon átfogó tanulási rendszer részének tekintjük.</p>"
+      ],
+      "it": [
+        "<p>La Fondazione europea per la formazione professionale (ETF) aiuta i paesi partner a modernizzare i rispettivi sistemi di istruzione e formazione affinché possano trasmettere ai loro cittadini le competenze e le capacità necessarie in un'economia e una società dinamica. Consideriamo l'istruzione e la formazione come due elementi di un unico sistema integrale di apprendimento.</p>"
+      ],
+      "lt": [
+        "<p>Europos mokymo fondas padeda šalims partnerėms modernizuoti švietimo ir mokymo sistemas, kad jų piliečiai galėtų įgyti dinamiškame visuomenės ir ekonominiame gyvenime reikalingų žinių, įgūdžių ir kitų gebėjimų. Fondas švietimą ir mokymą laiko išsamia vientisa mokymo sistema.</p>"
+      ],
+      "lv": [
+        "<p>Eiropas Izglītības fonds palīdz partnervalstīm modernizēt savas izglītības un apmācības sistēmas, lai šo valstu iedzīvotāji iegūtu zināšanas un kompetenci, kas ir sabiedrības un dinamiskas ekonomikas pamatā. Pēc fonda ieskatiem izglītība un profesionālā apmācība ir pilnīgas un saskanīgas izglītības sistēmas nenošķirama daļa.</p>"
+      ],
+      "mt": [
+        "<p>Il-Fondazzjoni Ewropea għat-Taħriġ (ETF) tgħin lill-pajjiżi msieħba jimmodernaw is-sistemi tal-edukazzjoni u t-taħriġ sabiex jagħtu lil nieshom l-għarfien, is-snajja' u kapaċitajiet oħra meħtieġa f'ekonomiji u soċjetajiet dinamiċi. Inqisu l-edukazzjoni u t-taħriġ bħala parti minn sistema sħiħa ta' tagħlim.</p>"
+      ],
+      "nl": [
+        "<p>De Europese Stichting voor opleiding (ETF) helpt partnerlanden van de EU bij de modernisering van hun onderwijs- en opleidingsstelsels, zodat zij hun inwoners de kennis en vaardigheden kunnen geven die nodig zijn in de dynamische economie en samenleving van vandaag. Wij beschouwen onderwijs en opleiding als één globaal leersysteem.</p>"
+      ],
+      "pl": [
+        "<p>Europejska Fundacja Kształcenia (EFT) pomaga krajom partnerskim w reformach systemów kształcenia i szkolenia, aby umożliwić ludności zdobywanie wiedzy, umiejętności i innych kompetencji wymaganych w dynamicznie rozwijających się gospodarkach i społeczeństwach. U podstaw tego działania leży przekonanie, że kształcenie i szkolenie zawodowe są integralną częścią obszernego systemu edukacyjnego.</p>"
+      ],
+      "pt": [
+        "<p>A Fundação Europeia para a Formação (FEF) ajuda os países parceiros a modernizar os seus sistemas de educação e de formação, tendo em vista proporcionar aos cidadãos os conhecimentos, as qualificações e as competências necessárias numa economia e sociedade dinâmicas. A FEF considera que a educação e a formação constituem duas componentes de um único sistema integral de aprendizagem.</p>"
+      ],
+      "ro": [
+        "<p>Fundația Europeană de Formare (ETF) ajută țările partenere să își modernizeze sistemele de educație și formare pentru a le oferi cetățenilor lor cunoștințele, aptitudinile și competențele necesare în economii și societăți dinamice. Considerăm că educația și formarea fac parte dintr-un singur sistem complet de învățare.</p>"
+      ],
+      "sk": [
+        "<p>Európska nadácia pre odborné vzdelávanie (ETF) pomáha partnerským krajinám modernizovať systémy vzdelávania a odbornej prípravy, aby poskytovali znalosti a zručnosti potrebné v dynamicky sa rozvíjajúcej ekonomike a spoločnosti. Vzdelávanie a odborná príprava sú pre nás súčasťou jedného uceleného vzdelávacieho systému.</p>"
+      ],
+      "sl": [
+        "<p>Evropska fundacija za usposabljanje (ETF) pomaga državam v tranziciji in razvoju pri posodabljanju njihovih sistemov izobraževanja in usposabljanja. Tako jim pomaga razviti znanje, spretnosti in sposobnosti, ki jih potrebujejo za dinamično gospodarstvo in družbo. Izobraževanje in usposabljanje sta po mnenju agencije namreč del celostnega sistema učenja.</p>"
+      ],
+      "sv": [
+        "<p>Europeiska yrkesutbildningsstiftelsen (ETF) hjälper EU:s partnerländer att modernisera sina utbildningssystem så att folk kan få den kompetens de behöver i dynamiska ekonomier och samhällen. Vi menar att allmän utbildning och yrkesutbildning ingår i ett och samma utbildningssystem.</p>"
+      ]
+    },
+    "info2": {
+      "bg": [
+        "<p>Работим със съседните на ЕС страни в контекста на различни негови програми за външно сътрудничество:</p>             <ul>                <li>процес на разширяване (Албания, Босна и Херцеговина, Исландия, Косово, Бивша югославска република Македония, Черна гора, Сърбия и Турция) </li>                <li>европейска политика за съседство (Алжир, Армения, Азербайджан, Беларус, Египет, Грузия, Израел, Йордания, Ливан, Либия, Молдова, Мароко, Сирия, Тунис, Украйна и Палестина)</li>                <li>партньорство Русия-ЕС</li>                <li>страни в централна Азия (Казахстан, Киргизстан, Таджикистан, Туркменистан и Узбекистан).</li>             </ul>             <p>Работим по проекти в широк кръг области, включително:</p>             <ul>                <li>учене през целия живот;</li>                <li>пригодност за заетост и конкурентоспособност;</li>                <li>обучение на преподаватели;</li>                <li>осигуряване на качеството;</li>                <li>равен достъп за жени и малцинствени групи;</li>                <li>рамки за квалификациите;</li>                <li>обучение по предприемачество;</li>                <li>умения с оглед намаляване на бедността;</li>                <li>технологии в ученето;</li>                <li>управление и прозрачност;</li>                <li>профили на уменията за мигранти.</li>             </ul>             <p>В този контекст ние:</p>             <ul>                <li>предоставяме информация, съвети и помощ на ЕС при разработването на политики за развитие на човешките ресурси в партниращите страни </li>                <li>подкрепяме съответните заинтересовани страни в партниращите държави за изграждането на капацитет за развитие на човешките ресурси</li>                <li>подпомагаме ЕС в оказването на помощ на заинтересовани лица в партниращите страни</li>                <li>насърчаваме създаването на мрежи и обмена на информация, опит и добри практики както между ЕС и партниращите страни, така и между самите партниращи страни.</li>             </ul>             <p>Като международен център на експертен опит, ние работим със съответните заинтересовани групи за насърчаване и улесняване на сътрудничеството, развитието на знания и обмена на опит в нашата област.  Заинтересованите лица са:</p>             <ul>                <li>създатели на политики, специалисти и донори в ЕС, в неговите страни членки и партниращите държави</li>                <li>европейски и международни институции като двустранни донорски организации в страни от ЕС, Световната банка, Организацията за икономическо сътрудничество и развитие (ОИСР) и организации на ООН.</li>             </ul>             <p>                <strong>Създаване:</strong> 1994 г.</p>             <p>                <strong>Ръководител:</strong> Madlen Serban</p>"
+      ],
+      "cs": [
+        "<p>Spolupracujeme se státy v sousedství Evropské unie v rámci řady jejích programů vnější spolupráce:</p>             <ul>                <li>proces rozšiřování (Albánie, Bosna a Hercegovina, Bývalá jugoslávská republika Makedonie, Černá Hora, Island, Kosovo, Srbsko a Turecko)</li>                <li>evropská politika sousedství (Alžírsko, Arménie, Ázerbájdžán, Bělorusko, Egypt, Gruzie, Izrael, Jordánsko, Libanon, Libye, Moldavsko, Maroko, Sýrie, Tunisko, Ukrajina a Palestina)</li>                <li>partnerství EU–Rusko</li>                <li>středoasijské země (Kazachstán, Kyrgyzstán, Tádžikistán, Turkmenistán a Uzbekistán)</li>             </ul>             <p>Pracujeme na projektech v širokém spektru oblastí, k nimž patří zejména:</p>             <ul>                <li>celoživotní učení</li>                <li>zaměstnatelnost a konkurenceschopnost</li>                <li>vzdělávání učitelů</li>                <li>zajišťování kvality</li>                <li>rovný přístup žen a menšinových skupin ke vzdělání</li>                <li>rámce kvalifikací</li>                <li>výuka podnikání</li>                <li>dovednosti pro snižování chudoby</li>                <li>technologie ve vzdělávání</li>                <li>veřejná správa a transparentnost</li>                <li>kvalifikační profily migrujících osob</li>             </ul>             <p>V této souvislosti:</p>             <ul>                <li>poskytujeme informace, poradenství a pomoc Evropské unii pro její politiky rozvoje lidských zdrojů v partnerských zemích</li>                <li>podporujeme příslušné subjekty v partnerských zemích, aby budovaly kapacity v oblasti rozvoje lidských zdrojů</li>                <li>pomáháme doručovat pomoc EU příslušným subjektům v partnerských zemích</li>                <li>podporujeme navazování kontaktů a výměnu informací, zkušeností a osvědčených postupů jak mezi EU a partnerskými zeměmi, tak mezi partnerskými zeměmi navzájem</li>             </ul>             <p>Jako mezinárodní odborné středisko pracujeme s relevantními subjekty s cílem stimulovat a usnadňovat spolupráci, rozvoj znalostí a výměnu zkušeností v oboru. Spolupracujeme například s:</p>             <ul>                <li>tvůrci politiky, odborníky z praxe a dárci z Evropské unie a jejích členských států a z partnerských zemí</li>                <li>evropskými a mezinárodními institucemi jako např. bilaterálními dárcovskými organizacemi v zemích EU, Světovou bankou, Organizací pro hospodářskou spolupráci a rozvoj (OECD) a s OSN</li>             </ul>             <p>                <strong>Vznik:</strong> 1994</p>             <p>                <strong>Vedení:</strong> Madlen Serban</p>"
+      ],
+      "da": [
+        "<p>Vi samarbejder med EU's nabolande som led i forskellige eksterne samarbejdsprogrammer:</p>             <ul>                <li>udvidelsen (Albanien, Bosnien-Hercegovina, Den Tidligere Jugoslaviske Republik Makedonien, Island, Kosovo, Montenegro, Serbien og Tyrkiet)</li>                <li>Den europæiske naboskabspolitik (Algeriet, Armenien, Aserbajdsjan, Belarus, Egypten, Georgien, Israel, Jordan, Libanon, Libyen, Marokko, Moldova, Syrien, Tunesien, Ukraine og Palæstina)</li>                <li>EU's partnerskab med Rusland</li>                <li>landene i Centralasien (Kasakhstan, Kirgisistan, Tadsjikistan, Turkmenistan og Usbekistan).</li>             </ul>             <p>Vi arbejder med projekter på mange forskellige områder, bl.a.:</p>             <ul>                <li>livslang læring</li>                <li>beskæftigelsesegnethed og konkurrenceevne</li>                <li>læreruddannelse</li>                <li>kvalitetssikring</li>                <li>lige muligheder for kvinder og minoritetsgrupper</li>                <li>referencerammer for kvalifikationer</li>                <li>iværksætteruddannelse</li>                <li>kvalifikationer til fattigdomsbekæmpelse</li>                <li>teknologi i en læringsproces</li>                <li>ledelse og åbenhed</li>                <li>kvalifikationsprofiler for migranter.</li>             </ul>             <p>I denne sammenhæng søger vi at:</p>             <ul>                <li>levere oplysninger, rådgivning og bistand til EU til at udvikle personalepolitikker i partnerlandene</li>                <li>hjælpe interessenter i partnerlandene med at opbygge kapacitet inden for personaleudvikling</li>                <li>hjælpe med at yde EU-bistand til interessenter i partnerlandene</li>                <li>tilskynde til netværksdannelse og udveksling af oplysninger, erfaringer og god praksis – både mellem EU og partnerlandene og blandt partnerlandene.</li>             </ul>             <p>Som internationalt ekspertisecenter arbejder vi sammen med de relevante interessentgrupper for at fremme og lette samarbejdet, udviklingen af viden og udvekslingen af erfaringer inden for vores ansvarsområde.  Det omfatter bl.a.:</p>             <ul>                <li>beslutningstagere, fagfolk og donorer i EU, medlemslandene og partnerlandene</li>                <li>europæiske og internationale institutioner som f.eks. bilaterale donororganisationer i EU-landene, Verdensbanken, Organisationen for Økonomisk Samarbejde og Udvikling (OECD) og FN's organisationer.</li>             </ul>             <p>                <strong>Oprettelse:</strong> 1994</p>             <p>                <strong>Ledelse:</strong> Madlen Serban</p>"
+      ],
+      "de": [
+        "<p>Die ETF arbeitet mit den EU-Nachbarländern im Rahmen ihrer verschiedenen Kooperationsprogramme zusammen:</p>             <ul>                <li>EU-Erweiterungsprozess: Albanien, Bosnien und Herzegowina, Island, Kosovo, ehemalige jugoslawische Republik Mazedonien, Montenegro, Serbien, Türkei;</li>                <li>Europäische Nachbarschaftspolitik: Ägypten, Algerien, Armenien, Aserbaidschan, Belarus, Georgien, Israel, Jordanien, Libanon, Libyen, Republik Moldau, Marokko, Syrien, Tunesien, Ukraine, Palästina;</li>                <li>Partnerschaft EU-Russland;</li>                <li>Länder Zentralasiens: Kasachstan, Kirgistan, Tadschikistan, Turkmenistan, Usbekistan.</li>             </ul>             <p>Die ETF führt eine Reihe von Projekten durch, unter anderem in folgenden Bereichen:</p>             <ul>                <li>lebenslanges Lernen</li>                <li>Beschäftigungsfähigkeit und Wettbewerbsfähigkeit</li>                <li>Aus- und Weiterbildung von Lehrkräften</li>                <li>Qualitätssicherung</li>                <li>Chancengleichheit für Frauen und Minderheitsgruppen</li>                <li>Qualifikationsrahmen</li>                <li>unternehmerisches Lernen</li>                <li>Vermittlung von Know-how auf dem Gebiet der Armutsminderung</li>                <li>Lerntechnologien</li>                <li>verantwortungsvolle Verwaltungsführung und Transparenz</li>                <li>Qualifikationsprofile für Migranten.</li>             </ul>             <p>In diesem Zusammenhang</p>             <ul>                <li>stellt die ETF Informationen bereit, fungiert als Beraterin und unterstützt die EU bei der Ausarbeitung von Basiskonzepten für das Management von Humanressourcen in den Partnerländern;</li>                <li>unterstützt die ETF Fachkreise in den Partnerländern beim Aufbau von Kapazitäten zur Entwicklung von Humanressourcen;</li>                <li>leistet die ETF Hilfestellung bei der Durchführung der EU-Hilfe in Partnerländern;</li>                <li>fördert die ETF die Vernetzung und den Austausch von Informationen, Erfahrungen und bewährten Verfahren zwischen der EU und den Partnerländern sowie zwischen den Partnerländern untereinander.</li>             </ul>             <p>Als internationales Fachkompetenzzentrum arbeitet die ETF mit einschlägigen Interessengruppen zusammen, mit dem Ziel, die Zusammenarbeit zu fördern und zu erleichtern, Wissen zu erschließen und Erfahrungen auszutauschen.  Dazu gehören: </p>             <ul>                <li>politische Entscheidungsträger, Angehörige der Bildungs- und Berufsbildungsberufe sowie Geber in der EU, den EU-Mitgliedstaaten und Partnerländern;</li>                <li>europäische und internationale Institutionen und Organisationen wie die Weltbank, die Organisation für wirtschaftliche Zusammenarbeit und Entwicklung (OECD) und Organisationen der Vereinten Nationen.</li>             </ul>             <p>                <strong>Gründung:</strong> 1994</p>             <p>                <strong>Leitung:</strong> Madlen Serban</p>"
+      ],
+      "el": [
+        "<p>Συνεργαζόμαστε με γειτονικές χώρες της ΕΕ στο πλαίσιο διαφόρων προγραμμάτων εξωτερικής συνεργασίας που αφορούν:</p>             <ul>                <li>τη διαδικασία διεύρυνσης (Αλβανία, Βοσνία και Ερζεγοβίνη, Ισλανδία, Κοσσυφοπέδιο, πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας, Μαυροβούνιο, Σερβία και Τουρκία)</li>                <li>την ευρωπαϊκή πολιτική γειτονίας (Αλγερία, Αρμενία, Αζερμπαϊτζάν, Λευκορωσία, Αίγυπτος, Γεωργία, Ισραήλ, Ιορδανία, Λίβανος, Λιβύη, Μολδαβία, Μαρόκο, Συρία, Τυνησία, Ουκρανία και Παλαιστίνη)</li>                <li>την εταιρική σχέση ΕΕ-Ρωσίας</li>                <li>τις χώρες της Κεντρικής Ασίας (Καζαχστάν, Κιργιζία, Τατζικιστάν, Τουρκμενιστάν και Ουζμπεκιστάν).</li>             </ul>             <p>Αναπτύσσουμε σχέδια σε πολλούς τομείς, όπως:</p>             <ul>                <li>διά βίου μάθηση</li>                <li>δυνατότητες απασχόλησης και ανταγωνιστικότητα</li>                <li>κατάρτιση εκπαιδευτικών</li>                <li>διασφάλιση της ποιότητας</li>                <li>ισότιμη πρόσβαση για γυναίκες και μειονότητες</li>                <li>πλαίσια επαγγελματικών προσόντων</li>                <li>επιχειρηματική μάθηση</li>                <li>δεξιότητες που συντελούν στη μείωση της φτώχειας</li>                <li>τεχνολογίες που χρησιμοποιούνται για τη μάθηση</li>                <li>διακυβέρνηση και διαφάνεια</li>                <li>προφίλ δεξιοτήτων για μετανάστες.</li>             </ul>             <p>Στο πλαίσιο αυτό:</p>             <ul>                <li>παρέχουμε πληροφορίες, συμβουλές και βοήθεια στην ΕΕ αναφορικά με τον σχεδιασμό πολιτικών για τους ανθρώπινους πόρους σε χώρες-εταίρους</li>                <li>υποστηρίζουμε τους ενδιαφερόμενους φορείς στις χώρες-εταίρους, έτσι ώστε να ενισχυθεί η ανάπτυξη των ανθρώπινων πόρων</li>                <li>βοηθούμε να φτάσει η βοήθεια της ΕΕ στους ενδιαφερόμενους φορείς στις χώρες-εταίρους</li>                <li>ενθαρρύνουμε τη δικτύωση και την ανταλλαγή πληροφοριών, εμπειριών και ορθών πρακτικών – τόσο μεταξύ της ΕΕ και των χωρών-εταίρων όσο και μεταξύ των ίδιων των χωρών-εταίρων.</li>             </ul>             <p>Ως διεθνές κέντρο εμπειρογνωσίας, συνεργαζόμαστε με ομάδες ενδιαφερομένων. Στόχος μας είναι να προαγάγουμε και να διευκολύνουμε τη συνεργασία, την ανάπτυξη γνώσεων και την ανταλλαγή εμπειριών στον τομέα μας.  Στις ομάδες αυτές περιλαμβάνονται:</p>             <ul>                <li>υπεύθυνοι χάραξης πολιτικής, επαγγελματίες και χορηγοί στην ΕΕ, τα κράτη μέλη της και χώρες-εταίροι</li>                <li>ευρωπαϊκά και διεθνή θεσμικά όργανα, όπως διμερείς οργανισμοί χορηγών σε χώρες της ΕΕ, η Παγκόσμια Τράπεζα, ο Οργανισμός Οικονομικής Συνεργασίας και Ανάπτυξης (ΟΟΣΑ) και οργανισμοί των Ηνωμένων Εθνών.</li>             </ul>             <p>                <strong>Δημιουργία:</strong> 1994</p>             <p>                <strong>Διεύθυνση:</strong> Madlen Serban</p>"
+      ],
+      "en": [
+        "<p>We work with the countries neighbouring the EU in the context of its various external cooperation programmes:</p>             <ul>                <li>the enlargement process (Albania, Bosnia and Herzegovina, Iceland, Kosovo, the former Yugoslav Republic of Macedonia, Montenegro, Serbia and Turkey)</li>                <li>European neighbourhood policy (Algeria, Armenia, Azerbaijan, Belarus, Egypt, Georgia, Israel, Jordan, Lebanon, Libya, Moldova, Morocco, Syria, Tunisia, Ukraine and Palestine)</li>                <li>EU/Russia partnership</li>                <li>countries in Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan and Uzbekistan).</li>             </ul>             <p>We work on projects in a wide range of areas, including:</p>             <ul>                <li>lifelong learning</li>                <li>employability and competitiveness</li>                <li>teacher training</li>                <li>quality assurance</li>                <li>equal access for women and minority groups</li>                <li>qualification frameworks</li>                <li>entrepreneurial learning</li>                <li>skills for poverty reduction</li>                <li>technology in learning</li>                <li>governance and transparency</li>                <li>skills profiles of migrants</li>             </ul>             <p>In this context, we:</p>             <ul>                <li>provide information, advice and help to the EU in developing human resources policies in partner countries</li>                <li>support relevant stakeholders in partner countries to build capacity in human resources development</li>                <li>help deliver EU assistance to stakeholders in partner countries</li>                <li>encourage networking and sharing information, experience and good practice – both between the EU and partner countries, and among partner countries.</li>             </ul>             <p>As an international centre of expertise, we work with relevant stakeholder groups to promote and facilitate cooperation, knowledge development and exchanges of experience in our field.  These include:</p>             <ul>                <li>policy makers, practitioners and donors in the EU, its member countries and partner countries</li>                <li>European and international institutions such as bilateral donor organisations in EU countries, the World Bank, the Organisation for Economic Cooperation Development (OECD) and United Nations organisations.</li>             </ul>             <p>                <strong>Creation:</strong> 1994</p>             <p>                <strong>Direction:</strong> Madlen Serban</p>"
+      ],
+      "es": [
+        "<p>Colaboramos con los países vecinos de la UE en el contexto de los distintos programas de cooperación exterior:</p>             <ul>                <li>Proceso de ampliación (Albania, Bosnia y Herzegovina, Islandia, Kosovo, antigua República Yugoslava de Macedonia, Montenegro, Serbia y Turquía).</li>                <li>Política Europea de Vecindad (Argelia, Armenia, Azerbaiyán, Bielorrusia, Egipto, Georgia, Israel, Jordania, Líbano, Libia, Marruecos, Moldavia, Siria, Túnez, Ucrania y Palestina).</li>                <li>Asociación UE-Rusia.</li>                <li>Países de Asia Central (Kazajistán, Kirguistán, Tayikistán, Turkmenistán y Uzbekistán).</li>             </ul>             <p>Nuestros proyectos abarcan una amplia variedad de ámbitos:</p>             <ul>                <li>formación continua</li>                <li>posibilidades de empleo y competitividad</li>                <li>formación del profesorado</li>                <li>control de calidad</li>                <li>igualdad de acceso para la mujer y las minorías</li>                <li>marcos de cualificación</li>                <li>formación empresarial</li>                <li>aptitudes para la reducción de la pobreza</li>                <li>tecnología en el aprendizaje</li>                <li>gobernanza y transparencia</li>                <li>perfiles de capacitación de inmigrantes.</li>             </ul>             <p>En este contexto:</p>             <ul>                <li>Ofrecemos información, asesoramiento y ayuda a la UE en las políticas de desarrollo de recursos humanos en los países asociados.</li>                <li>Apoyamos a los interesados de los países asociados para potenciar la capacidad de desarrollo de recursos humanos.</li>                <li>Ayudamos a facilitar asistencia de la UE a los interesados de los países asociados.</li>                <li>Fomentamos la formación de redes y el intercambio de información, experiencia y buenas prácticas, tanto entre la UE y los países asociados como en estos últimos entre sí.</li>             </ul>             <p>Somos un centro internacional de asesoramiento y ayudamos a los grupos interesados a fomentar y facilitar la cooperación, la adquisición de conocimientos y el intercambio de experiencia en nuestro ámbito.  Dichos grupos son esencialmente:</p>             <ul>                <li>Responsables, profesionales y donantes de la UE, sus Estados miembros y los países asociados.</li>                <li>Instituciones europeas e internacionales, como las organizaciones bilaterales de donantes de los países de la UE, el Banco Mundial, la Organización de Cooperación y Desarrollo Económicos (OCDE) y las Naciones Unidas.</li>             </ul>             <p>                <strong>Creación:</strong> 1994</p>             <p>                <strong>Dirección:</strong> Madlen Serban</p>"
+      ],
+      "et": [
+        "<p>Teeme koostööd ELi naaberriikidega mitmete väliste koostööprogrammide raames:</p>             <ul>                <li>laienemisprotsess (Albaania, Bosnia ja Hertsegoviina, Island, Kosovo, endine Jugoslaavia Makedoonia Vabariik, Montenegro, Serbia ja Türgi);</li>                <li>Euroopa naabruspoliitika (Alžeeria, Armeenia, Aserbaidžaan, Valgevene, Egiptus, Gruusia, Iisrael, Jordaania, Liibabon, Liibüa, Moldova, Maroko, Süüria, Tuneesia, Ukraina ja Palestiina);</li>                <li>ELi-Venemaa partnerlus;</li>                <li>Kesk-Aasia riigid (Kasahstan, Kõrgõzstan, Tadžikistan, Türkmenistan ja Usbekistan).</li>             </ul>             <p>Tegeleme projektidega väga erinevates valdkondades, mille hulka kuuluvad näiteks:</p>             <ul>                <li>elukestev õpe</li>                <li>tööalane konkurentsivõime</li>                <li>õpetajakoolitus</li>                <li>kvaliteedi tagamine</li>                <li>naistele ja vähemusrühmadele võrdsed võimalused</li>                <li>kvalifikatsiooniraamistikud</li>                <li>ettevõtlusõpe</li>                <li>oskused vaesuse vähendamiseks</li>                <li>tehnoloogia ja õppimine</li>                <li>kontroll ja läbipaistvus</li>                <li>sisserändajate oskuste profiilid</li>             </ul>             <p>Selles kontekstis:</p>             <ul>                <li>jagame ELile teavet, nõuandeid ja abi inimressursside alase poliitika väljatöötamiseks partnerriikides;</li>                <li>toetame partnerriikides sidusrühmi suutlikkuse suurendamisel inimressursside arendamise valdkonnas;</li>                <li>aitame ELi abi suunata sidusrühmadele partnerriikides;</li>                <li>soodustame võrgustike loomist ning teabe, kogemuste ja heade tavade vahetamist nii ELi ja partnerriikide kui ka partnerriikide endi vahel.</li>             </ul>             <p>Rahvusvahelise eksperdikeskusena teeme koostööd asjaomaste sidusrühmadega, et edendada ja hõlbustada koostööd, teadmiste arendamist ning oskusteabe vahetamist meie valdkonnas.  Sidusrühmadeks on:</p>             <ul>                <li>poliitikakujundajad, spetsialistid ja rahastajad ELis, selle liikmesriikides ning partnerriikides;</li>                <li>Euroopa ja rahvusvahelised institutsioonid (nt kahepoolsed rahastamisorganisatsioonid ELi liikmesriikides, Maailmapank, Majanduskoostöö ja Arengu Organisatsioon (OECD) ning ÜRO organisatsioonid).</li>             </ul>             <p>                <strong>Asutatud:</strong> 1994</p>             <p>                <strong>Direktor:</strong> Madlen Serban</p>"
+      ],
+      "fi": [
+        "<p>ETF:n tekemän yhteistyön puitteet vaihtelevat. Yhteistyö voi liittyä </p>             <ul>                <li>laajentumisprosessiin (Albania, Bosnia ja Hertsegovina, Islanti,  Kosovo, entinen Jugoslavian tasavalta Makedonia, Montenegro, Serbia ja Turkki)</li>                <li>Euroopan naapuruuspolitiikkaan (Algeria, Armenia, Azerbaidžan, Egypti, Georgia, Israel, Jordania, Libanon, Libya, Marokko, Moldova, Palestiina, Syyria, Tunisia, Ukraina ja Valko-Venäjä)</li>                <li>EU:n ja Venäjän suhteisiin</li>                <li>Keski-Aasian maihin (Kazakstan, Kirgisistan, Tadžikistan, Turkmenistan ja Uzbekistan).</li>             </ul>             <p>ETF:n hankkeet kattavat useita eri aloja, joita ovat muun muassa</p>             <ul>                <li>elinikäinen oppiminen</li>                <li>työllisyys ja kilpailukyky</li>                <li>opettajien koulutus</li>                <li>laadunvarmistus</li>                <li>naisten ja vähemmistöjen yhdenvertaiset mahdollisuudet</li>                <li>tutkintojen tunnustaminen</li>                <li>yrittäjien koulutus</li>                <li>tiedot ja taidot köyhyyden vähentämiseksi</li>                <li>teknologia opetusvälineenä</li>                <li>hallinto ja avoimuus</li>                <li>maahanmuuttajien tiedot ja taidot.</li>             </ul>             <p>ETF</p>             <ul>                <li>tarjoaa tietoa, neuvoja ja apua EU:lle kumppanimaiden henkilöresurssipolitiikan kehittämiseen</li>                <li>auttaa kumppanimaissa toimivia sidosryhmiä parantamaan henkilöresurssien kehittämiseen liittyviä valmiuksia</li>                <li>auttaa EU-tuen toimittamista kumppanimaissa toimiville sidosryhmille</li>                <li>edistää verkostoitumista sekä tietojen, kokemusten ja hyvien toimintatapojen vaihtoa EU:n ja kumppanimaiden välillä sekä kumppanimaiden välillä.</li>             </ul>             <p>ETF työskentelee kansainvälisen asiantuntijan roolissa yhdessä sidosryhmien kanssa. Tarkoituksena on edistää ja helpottaa yhteistyötä, osaamisen kehittämistä ja kokemusten vaihtoa.  Sidosryhmiä ovat:</p>             <ul>                <li>poliittiset vaikuttajat, eurooppalaiset koulutusalan ammattilaiset ja rahoittajaorganisaatiot, EU-maat ja kumppanimaat</li>                <li>eurooppalaiset ja kansainväliset järjestöt kuten kahdenväliset EU-rahoittajaorganisaatiot, Maailmanpankki, Taloudellisen yhteistyön ja kehityksen järjestö (OECD) ja YK:n alaiset järjestöt.</li>             </ul>             <p>                <strong>Perustettu:</strong> 1994</p>             <p>                <strong>Johtaja:</strong> Madlen Serban</p>"
+      ],
+      "fr": [
+        "<p>Nous travaillons avec les pays voisins de l'Union dans le cadre des différents programmes européens de coopération extérieure:</p>             <ul>                <li>le processus d'élargissement (Albanie, Bosnie-Herzégovine, Islande, Kosovo, ancienne République yougoslave de Macédoine, Monténégro, Serbie et Turquie);</li>                <li>la politique européenne de voisinage (Algérie, Arménie, Azerbaïdjan, Biélorussie, Égypte, Géorgie, Israël, Jordanie, Liban, Libye, Maroc, Moldavie, Syrie, Tunisie, Ukraine et Palestine);</li>                <li>le partenariat entre l'Union européenne et la Russie;</li>                <li>la coopération avec les pays d'Asie centrale (Kazakhstan, Kirghizstan, Ouzbékistan, Tadjikistan et Turkménistan).</li>             </ul>             <p>Nous nous occupons de projets dans un grand nombre de domaines, notamment:</p>             <ul>                <li>l'apprentissage tout au long de la vie;</li>                <li>l'aptitude à l'emploi et la compétitivité;</li>                <li>la formation des enseignants;</li>                <li>l'assurance qualité;</li>                <li>l'égalité d'accès pour les femmes et les minorités;</li>                <li>les cadres de certification professionnelle;</li>                <li>la formation à la création d'entreprises;</li>                <li>les compétences contribuant à la réduction de la pauvreté;</li>                <li>les technologies d'aide à l'apprentissage;</li>                <li>la bonne gouvernance et la transparence;</li>                <li>les profils de compétences des travailleurs migrants.</li>             </ul>             <p>Dans ce contexte:</p>             <ul>                <li>nous fournissons informations, conseils et assistance aux institutions européennes dans le cadre de l'élaboration des politiques en matière de ressources humaines dans les pays partenaires;</li>                <li>nous aidons les parties concernées dans les pays partenaires à améliorer les capacités de développement des ressources humaines;</li>                <li>nous contribuons à apporter l'aide de l'Union européenne dans les pays partenaires;</li>                <li>nous favorisons les contacts et le partage d'informations, d'expériences et de bonnes pratiques, aussi bien entre l'Union européenne et les pays partenaires qu'entre les pays partenaires eux-mêmes.</li>             </ul>             <p>En tant que centre international d'expertise, nous collaborons avec les groupes d'acteurs concernés afin de promouvoir et de faciliter la coopération, le développement des connaissances et les échanges d'expérience dans notre domaine d'activité.  Nos interlocuteurs sont notamment:</p>             <ul>                <li>les décideurs politiques, les spécialistes et les donateurs dans l'Union européenne, dans ses États membres et dans les pays partenaires;</li>                <li>les organismes européens et internationaux tels que les organisations donatrices bilatérales dans les pays de l'Union, la Banque mondiale, l'Organisation de coopération et de développement économiques (OCDE) et les agences des Nations unies.</li>             </ul>             <p>                <strong>Création:</strong> 1994</p>             <p>                <strong>Direction:</strong> Madlen Serban</p>"
+      ],
+      "ga": [
+        "<p>Bímid ag obair le tíortha comharsanacha an AE i gcomhthéacs na gclár éagsúil um chomhar seachtrach atá aige:</p>             <ul>                <li>próiseas an mhéadaithe (an Albáin, an Bhoisnia agus an Heirseagaivéin, an Íoslainn, an Chosaiv, Poblacht Iar-Iúgslavach na Macadóine, Montainéagró, an tSeirbia agus an Tuirc)</li>                <li>beartas comharsanachta na hEorpa (an Ailgéir, an Airméin, an Asarbaiseáin, an Bhealarúis, an Éigipt, an tSeoirsia, Iosrael, an Iordáin, an Liobáin, an Libia, an Mholdóiv, Maracó, an tSiria, an Túinéis, an Úcráin agus an Phalaistín)</li>                <li>comhpháirtíocht an AE/na Rúise</li>                <li>tíortha san Áise Lár (an Chasacstáin, an Chirgeastáin, an Táidsíceastáin, an Tuircméanastáin agus an Úisbéiceastáin).</li>             </ul>             <p>Bímid ag obair ar thionscadail i raon leathan réimsí, tá ina measc:</p>             <ul>                <li>foghlaim ar feadh an tsaoil</li>                <li>infhostaitheacht agus iomaíochas</li>                <li>oiliúint múinteoirí</li>                <li>deimhniú cáilíochta</li>                <li>rochtain chomhionainn do mhná agus do ghrúpaí mionlaigh</li>                <li>creataí cáilíochta</li>                <li>foghlaim fiontraíochta</li>                <li>scileanna chun an bhochtaineacht a laghdú </li>                <li>teicneolaíocht san fhoghlaim</li>                <li>rialachas agus trédhearcacht</li>                <li>próifílí scileanna na n-imirceach</li>             </ul>             <p>Sa chomhthéacs sin, déanaimid an méid a leanas:</p>             <ul>                <li>faisnéis, comhairle agus cúnamh a thabhairt don AE chun beartais maidir le hacmhainní daonna a fhorbairt i dtíortha comhpháirtíochta</li>                <li>tacaíocht a thabhairt do pháirtithe leasmhara ábhartha sna tíortha comhpháirtíochta chun cur lena gcumas le hacmhainní daonna a fhorbairt</li>                <li>cabhrú chun cúnamh ón AE a chur ar fáil do na páirtithe leasmhara sna tíortha comhpháirtíochta</li>                <li>líonrú agus roinnt faisnéise, taithí agus dea-chleachtas a spreagadh - idir an AE agus na tíortha comhpháirtíochta, agus i measc na dtíortha comhpháirtíochta araon.</li>             </ul>             <p>Mar lárionad idirnáisiúnta saineolais, bímid ag obair le grúpaí leasmhara ábhartha chun comhar, forbairt eolais agus malartuithe taithí inár réimse a chur chun cinn agus a éascú.   Mar shampla:</p>             <ul>                <li>lucht déanta beartas, cleachtóirí agus deontóirí san AE, sna ballstáit agus sna tíortha comhpháirtíochta</li>                <li>Institiúidí Eorpacha agus idirnáisiúnta ar nós eagraíochtaí déthaobhacha deontóirí i dtíortha an AE, an Banc Domhanda, an Eagraíocht um Chomhar agus Forbairt Eacnamaíochta (ECFE) agus eagraíochtaí na Náisiún Aontaithe.</li>             </ul>             <p>                <strong>Tús feidhme:</strong> 1994</p>             <p>                <strong>Stiúrthóir:  </strong> Madlen Serban</p>"
+      ],
+      "hr": [
+        "<p>Zaklada surađuje sa susjednim zemljama u okviru EU-ovih programa za vanjsku suradnju, čime su obuhvaćeni:</p>             <ul>                <li>proces proširenja (Albanija, Bosna i Hercegovina, Island, Kosovo, bivša jugoslavenska republika Makedonija, Crna Gora, Srbija i Turska)</li>                <li>Europska politika susjedstva (Alžir, Armenija, Azerbajdžan, Bjelarus, Egipat, Gruzija, Izrael, Jordan, Libanon, Libija, Moldova, Maroko, Sirija, Tunis, Ukrajina i Palestina)</li>                <li>partnerstvo Europske unije i Rusije</li>                <li>zemlje srednje Azije (Kazahstan, Kirgistan, Tadžikistan, Turkmenistan i Uzbekistan).</li>             </ul>             <p>Zaklada radi na projektima u najrazličitijim područjima, uključujući sljedeće:</p>             <ul>                <li>cjeloživotno učenje</li>                <li>zapošljivost i konkurentnost</li>                <li>izobrazba nastavnika</li>                <li>osiguranje kvalitete</li>                <li>jednak pristup za žene i manjinske skupine</li>                <li>definiranje kvalifikacijskih okvira</li>                <li>poduzetničko učenje</li>                <li>prijenos znanja potrebnih za suzbijanje siromaštva</li>                <li>primjena tehnologija u učenju</li>                <li>odgovorno upravljanje i transparentnost</li>                <li>stručni profili za migrante.</li>             </ul>             <p>S time u vezi aktivnosti Zaklade uključuju:</p>             <ul>                <li>informiranje, savjetovanje i pomaganje Europskoj uniji pri razvoju politika povezanih s ljudskim resursima u partnerskim zemljama</li>                <li>podršku mjerodavnim dionicima u parterskim zemljama pri jačanju kapaciteta u području razvoja ljudskih resursa</li>                <li>podršku pri pružanju pomoći Unije dionicima u partnerskim zemljama</li>                <li>promicanje umrežavanja i razmjene informacija, iskustava i primjera dobre prakse ne samo između Europske unije i partnerskih zemalja nego i među partnerskim zemljama.</li>             </ul>             <p>Zaklada, kao međunarodni stručni centar, surađuje s mjerodavnim interesnim skupinama na promicanju i jačanju suradnje, razvoju znanja i razmjeni iskustava u području vlastitog djelovanja.  To uključuje:</p>             <ul>                <li>kreatore politika, profesionalce i donatore u EU-u, državama članicama i partnerskim zemljama</li>                <li>europske i međunarodne institucije, primjerice dvostrane donatorske organizacije u državama članicama EU-a, Svjetsku banku, Organizaciju za gospodarsku suradnju i razvoj (OECD) i organizacije iz sustava Ujedinjenih naroda.</li>             </ul>             <p>                <strong>Osnovana:</strong> 1994.</p>             <p>                <strong>Direktorica:</strong> Madlen Serban</p>"
+      ],
+      "hu": [
+        "<p>Munkánkat az Unióval szomszédos országokkal karöltve végezzük az EU alábbi külső együttműködési programjainak keretében:</p>             <ul>                <li>a bővítési folyamat (Albánia, Bosznia-Hercegovina, Izland, Koszovó, Macedónia Volt Jugoszláv Köztársaság, Montenegró, Szerbia és Törökország),</li>                <li>az európai szomszédságpolitika (Algéria, Azerbajdzsán, Egyiptom, Fehéroroszország, Grúzia, Izrael, Jordánia, Libanon, Líbia, Marokkó, Moldova, Örményország, Szíria, Tunézia, Ukrajna és Palesztina),</li>                <li>az EU és Oroszország közötti partnerség,</li>                <li>a közép-ázsiai országokkal folytatott együttműködés (Kazahsztán, Kirgizisztán, Tádzsikisztán, Türkmenisztán és Üzbegisztán).</li>             </ul>             <p>Számos területen tevékenykedünk, például a következőkön:</p>             <ul>                <li>egész életen át tartó tanulás,</li>                <li>foglalkoztathatóság és versenyképesség,</li>                <li>tanárképzés,</li>                <li>minőségbiztosítás,</li>                <li>az esélyegyenlőség biztosítása a nők és a kisebbségi csoportok számára,</li>                <li>képesítési keretrendszerek,</li>                <li>vállalkozói ismeretek tanítása,</li>                <li>a szegénység visszaszorításához szükséges készségek,</li>                <li>technológia az oktatásban,</li>                <li>irányítás és átláthatóság,</li>                <li>migráns munkavállalók készségprofiljai.</li>             </ul>             <p>Mindezekhez kapcsolódóan:</p>             <ul>                <li>tájékoztatást, tanácsot és segítséget nyújtunk az EU számára a partnerországok humánerőforrás-politikájának fejlesztésével összefüggésben,</li>                <li>támogatjuk a partnerországbeli érdekelt feleket abban, hogy kiépítsék kapacitásaikat az emberi erőforrás fejlesztése területén,</li>                <li>közreműködünk abban, hogy az európai uniós segítség eljusson a partnerországokban működő érdekelt felekhez,</li>                <li>elősegítjük a hálózatépítést és az információk, tapasztalatok és bevált módszerek egymással történő megosztását: az Unió és a partnerországok között csakúgy, mint a partnerországok között.</li>             </ul>             <p>Nemzetközi tudáscentrumként az érdekelt felek csoportjaival közösen munkálkodunk azon, hogy tevékenységi területünkön elősegítsük és megkönnyítsük az együttműködést, az ismeretbővítést és a tapasztalatcserét.  Az érdekelt felek között említhetjük a következőket:</p>             <ul>                <li>az EU, a tagállamok és a partnerállamok döntéshozói, szakemberei és adományozói,</li>                <li>európai uniós és nemzetközi intézmények, például: az uniós tagállamok kétoldalú adományozó szervezetei, a Világbank, a Gazdasági Együttműködési és Fejlesztési Szervezet (OECD) és az Egyesült Nemzetek szervezetei.</li>             </ul>             <p>                <strong>Létrehozás dátuma:</strong> 1994</p>             <p>                <strong>Igazgató:</strong> Madlen Serban</p>"
+      ],
+      "it": [
+        "<p>L'ETF collabora con i paesi confinanti dell'UE nell'ambito dei suoi diversi programmi di cooperazione esterna:</p>             <ul>                <li>processo di allargamento (Albania, Bosnia-Erzegovina, Islanda, Kosovo, ex Repubblica iugoslava di Macedonia, Montenegro, Serbia e Turchia)</li>                <li>politica europea di vicinato (Algeria, Armenia, Azerbaigian, Bielorussia, Egitto, Georgia, Giordania, Israele, Libano, Libia, Marocco, Moldova, Siria, Tunisia, Ucraina e Palestina)</li>                <li>partenariato UE/Russia</li>                <li>paesi dell'Asia centrale (Kazakistan, Kirghizistan, Tagikistan, Turkmenistan e Uzbekistan).</li>             </ul>             <p>Gestiamo progetti in diversi settori, tra cui:</p>             <ul>                <li>apprendimento permanente</li>                <li>prospettive di occupazione e competitività</li>                <li>formazione degli insegnanti</li>                <li>garanzia della qualità</li>                <li>parità di accesso per le donne e le minoranze</li>                <li>riconoscimento delle qualifiche</li>                <li>imprenditorialità</li>                <li>competenze per ridurre la povertà</li>                <li>tecnologie per l'apprendimento</li>                <li>governance e trasparenza</li>                <li>competenze dei lavoratori immigrati</li>             </ul>             <p>In questo ambito, ci impegniamo a:</p>             <ul>                <li>fornire informazioni, consulenze e assistenza all'UE per lo sviluppo delle politiche per le risorse umane nei paesi partner</li>                <li>dare sostegno alle parti interessate nei paesi partner per promuovere lo sviluppo delle risorse umane</li>                <li>aiutare a fornire l'assistenza dell'UE alle parti interessate nei paesi partner</li>                <li>promuovere la creazione di reti e lo scambio di informazioni, esperienze e buone pratiche, sia tra l'UE e i paesi partner che tra questi ultimi.</li>             </ul>             <p>Il nostro è un centro internazionale di competenze che collabora con le categorie interessate per promuovere e favorire la cooperazione, lo sviluppo delle conoscenze e lo scambio di esperienze nel nostro settore.  Tra queste figurano:</p>             <ul>                <li>politici, formatori e donatori nell'UE, negli Stati membri e nei paesi partner</li>                <li>istituzioni europee e internazionali, come le organizzazioni bilaterali di donatori nei paesi dell'UE, la Banca mondiale, l'Organizzazione per la cooperazione e lo sviluppo economico (OCSE) e le organizzazioni delle Nazioni Unite.</li>             </ul>             <p>                <strong>Istituzione:</strong> 1994</p>             <p>                <strong>Direttore:</strong> Madlen Serban</p>"
+      ],
+      "lt": [
+        "<p>Bendradarbiaujame su ES kaimyninėmis šalimis pagal įvairias išorės bendradarbiavimo programas:</p>             <ul>                <li>ES plėtros procesas (Albanija, Bosnija ir Hercegovina, buvusioji Jugoslavijos Respublika Makedonija, Islandija, Juodkalnija, Kosovas, Serbija ir Turkija);</li>                <li>Europos kaimynystės politika (Alžyras, Armėnija, Azerbaidžanas, Baltarusija, Egiptas, Gruzija, Izraelis, Jordanija, Libanas, Libija, Marokas, Moldova, Palestina, Sirija, Tunisas ir Ukraina);</li>                <li>ES ir Rusijos partnerystė;</li>                <li>Vidurinės Azijos šalys (Kazachstanas, Kirgizija, Tadžikija, Turkmėnija ir Uzbekija).</li>             </ul>             <p>Dirbame su įvairių sričių projektais, kaip antai:</p>             <ul>                <li>mokymasis visą gyvenimą;</li>                <li>galimybės įsidarbinti ir konkurencingumas;</li>                <li>mokytojų rengimas;</li>                <li>kokybės užtikrinimas;</li>                <li>lygios moterų ir mažumų grupių teisės;</li>                <li>kvalifikacijų sistemos;</li>                <li>verslumo mokymasis;</li>                <li>mažinti skurdą padedantys gebėjimai;</li>                <li>mokymosi technologijos;</li>                <li>valdymas ir skaidrumas;</li>                <li>migrantų gebėjimų pobūdis.</li>             </ul>             <p>Įgyvendindami šiuos projektus mes:</p>             <ul>                <li>teikiame informaciją, konsultuojame ir padedame ES rengti žmogiškųjų išteklių politiką šalyse partnerėse;</li>                <li>remiame atitinkamas suinteresuotąsias šalis šalyse partnerėse, siekdami padėti joms ugdyti gebėjimus plėtoti žmogiškuosius išteklius;</li>                <li>padedame teikti ES paramą suinteresuotosioms šalims šalyse partnerėse;</li>                <li>skatiname ES ir šalis partneres kurti tinklus ir dalytis informacija bei patirtimi; tai daryti šalys partnerės skatinamos ir tarpusavyje.</li>             </ul>             <p>Kaip tarptautinis kompetencijos centras, Europos mokymo fondas bendradarbiauja su susijusiomis suinteresuotųjų šalių grupėmis siekdamas remti ir lengvinti bendradarbiavimą, žinių plėtrą ir patirties mainus mokymo srityje.  Šios grupės:</p>             <ul>                <li>politikos formuotojai, ES mokymo srities darbuotojai ir pagalbos teikėjai, ES valstybės narės ir šalys partnerės;</li>                <li>Europos ir tarptautinės institucijos, tokios kaip dvišalę pagalbą teikiančios ES šalių organizacijos, Pasaulio bankas, Ekonominio bendradarbiavimo ir plėtros organizacija ir Jungtinių Tautų organizacijos.</li>             </ul>             <p>                <strong>Įsteigtas:</strong> 1994 m.</p>             <p>                <strong>Direktorė:</strong> Madlen Serban</p>"
+      ],
+      "lv": [
+        "<p>Mēs sadarbojamies ar ES kaimiņvalstīm dažādās ES ārējās sadarbības programmās. Tās ir šādas:</p>             <ul>                <li>paplašināšanās process (Albānija, Bosnija un Hercegovina, Islande, Kosova, bijusī Dienvidslāvijas Republika Maķedonija, Melnkalne, Serbija un Turcija),</li>                <li>ES kaimiņattiecību politika (Alžīrija, Armēnija, Baltkrievija, Ēģipte, Gruzija, Izraēla, Jordānija, Libāna, Lībija, Moldova, Maroka, Sīrija, Tunisija, Ukraina un Palestīna),</li>                <li>ES un Krievijas partnerība,</li>                <li>sadarbība ar Vidusāzijas valstīm (Kazahstāna, Kirgizstāna, Tadžikistāna, Turkmenistāna un Uzbekistāna).</li>             </ul>             <p>Mēs īstenojam projektus visdažādākajās jomās:</p>             <ul>                <li>mūžizglītība,</li>                <li>piemērotība darba tirgum un konkurētspēja,</li>                <li>pasniedzēju apmācība,</li>                <li>kvalitātes nodrošināšana,</li>                <li>piekļuves iespēju vienlīdzība sievietēm un mazākumtautību pārstāvjiem,</li>                <li>kvalifikācijas sistēmas,</li>                <li>uzņēmējdarbība izglītībā,</li>                <li>prasmes, kas nepieciešamas darbībai nabadzības mazināšanas jomā,</li>                <li>tehnoloģiju pielietojums izglītībā,</li>                <li>pārvaldība un pārredzamība,</li>                <li>migrantu prasmju profili.</li>             </ul>             <p>Līdz ar to mēs</p>             <ul>                <li>sniedzam informāciju, padomu un palīdzību Eiropas Savienībai cilvēkresursu politikas veidošanā partnervalstīs,</li>                <li>atbalstām attiecīgās ieinteresētās personas partnervalstīs, lai sekmētu to rīcības spējas cilvēkresursu attīstības jomā,</li>                <li>palīdzam nodrošināt ES atbalstu ieinteresētajām personām partnervalstīs,</li>                <li>sekmējam sadarbības tīklu veidošanu, kā arī informācijas, pieredzes un labas prakses apmaiņu tiklab starp ES un partnervalstīm, kā starp partnervalstīm.</li>             </ul>             <p>Mūsu speciālisti, kas ir starptautiska mēroga autoritātes, sadarbojas ar attiecīgajām ieinteresēto personu grupām, lai sekmētu un atvieglinātu sadarbību, zināšanu attīstību un pieredzes apmaiņu mūsu darbības jomā.  Mēs sadarbojamies</p>             <ul>                <li>ar politikas veidotājiem, praktiķiem un finansējuma devējiem no ES, tās dalībvalstīm un partnervalstīm,</li>                <li>ar Eiropas un starptautiskām iestādēm, piemēram, divpusējām finansētājiestādēm ES dalībvalstīs, Pasaules Banku, Ekonomiskās sadarbības un attīstības organizāciju (ESAO) un Apvienoto Nāciju Organizāciju.</li>             </ul>             <p>                <strong>Dibināšanas gads:</strong> 1994</p>             <p>                <strong>Vadība:</strong> Madlēna Serbana</p>"
+      ],
+      "mt": [
+        "<p>Naħdmu mal-pajjiżi li jmissu mal-UE taħt il-programmi ta' kooperazzjoni esterni varji tagħha:</p>             <ul>                <li>il-proċess ta' tkabbir (l-Albanija, il-Bosnja u Ħerzegovina, l-Islanda, il-Kosovo, dik li kienet ir-Repubblika Jugoslava tal-Maċedonja, il-Montenegro, is-Serbja u t-Turkija)</li>                <li>Politika Ewropea tal-Viċinat (l-Alġerija, l-Armenja, l-Ażerbajġan, il-Belarus, l-Eġittu, il-Ġeorġja, l-Iżrael, il-Ġordan, il-Libanu, il-Libja, il-Moldova, il-Marokk, is-Sirja, it-Tuneżija, l-Ukraina, u l-Palestina.</li>                <li>il-partenarjat bejn l-UE u r-Russja</li>                <li>pajjiżi fl-Ażja Ċentrali (Każakstan, Kirgiżistan, Tajikistan, Turkmenistan u l-Uzbekistan).</li>             </ul>             <p>Naħdmu fuq proġetti f'għadd kbir ta' oqsma, inklużi:</p>             <ul>                <li>tagħlim tul il-ħajja</li>                <li>impjegabbilità u kompetittività</li>                <li>taħriġ tal-għalliema</li>                <li>assigurazzjoni tal-kwalità</li>                <li>aċċess ugwali għan-nisa u l-gruppi ta' minoranza</li>                <li>oqfsa ta' kwalifiki</li>                <li>tagħlim dwar l-intraprenditorija</li>                <li>kapaċitajiet għat-tnaqqis tal-faqar</li>                <li>teknoloġija fit-tagħlim</li>                <li>tmexxija u trasparenza</li>                <li>profili ta' kapaċitajiet tal-immigranti</li>             </ul>             <p>F'dan il-kuntest, aħna:</p>             <ul>                <li>nipprovdu tagħrif, parir u għajnuna lill-UE fl-iżvilupp tal-politiki tar-riżorsi umani f'pajjiżi msieħba</li>                <li>nappoġġjaw lill-partijiet interessati rilevanti fil-pajjiżi msieħba biex jibnu l-kapaċità fl-iżvilupp tar-riżorsi umani;</li>                <li>ngħinu biex inwasslu l-għajnuna tal-UE lill-partijiet interessati f'pajjiżi msieħba</li>                <li>inħeġġu n-netwerking u t-tqassim tal-informazzjoni, l-esperjenza u l-prattika tajba - kemm bejn l-UE u l-pajjiżi sħab, kif ukoll fost il-pajjiżi sħab.</li>             </ul>             <p>Bħala ċentru internazzjonali tal-esperjenza, naħdmu mal-gruppi tal-partijiet interessati rilevanti biex nippromwovu u niffaċilitaw il-kooperazzjoni, l-iżvilupp tal-għarfien u l-iskambji ta' esperjenza fil-qasam tagħna.  Dawn jinkludu:</p>             <ul>                <li>dawk responsabbli mill-politika, prattikanti u donaturi fl-UE, il-pajjiżi membri u l-pajjiżi sħab</li>                <li>Istituzzjonijiet Ewropej u internazzjonali bħal organizzazzjonijiet ta' donazzjoni bilaterali fil-pajjiżi tal-UE, il-Bank Dinji, l-Organizzazzjoni għall-Iżvilupp ta' Kooperazzjoni Ekonomika (OECD) u l-organizzazzjonijiet tan-Nazzjonijiet Uniti.</li>             </ul>             <p>                <strong>Ħolqien:</strong> 1994</p>             <p>                <strong>Direzzjoni:</strong> Madlen Serban</p>"
+      ],
+      "nl": [
+        "<p>Met welke landen werken wij samen?</p>             <ul>                <li>Landen die lid willen worden van de EU (Albanië, Bosnië en Herzegovina, IJsland, Kosovo, de Voormalige Joegoslavische Republiek Macedonië, Montenegro, Servië en Turkije)</li>                <li>Landen die onder het Europees nabuurschapsbeleid vallen (Algerije, Armenië, Azerbeidzjan, Egypte, Georgië, Israël, Jordanië, Libanon, Libië, Moldavië, Marokko, Oekraïne, Palestina, Syrië, Tunesië en Wit-Rusland)</li>                <li>Rusland (het partnerschap EU/Rusland)</li>                <li>Landen in Midden-Azië (Kazachstan, Kirgizië, Tadzjikistan, Turkmenistan en Oezbekistan).</li>             </ul>             <p>Waarover gaan de projecten?</p>             <ul>                <li>Een leven lang leren</li>                <li>Inzetbaarheid op de arbeidsmarkt en concurrentievermogen</li>                <li>Lerarenopleiding</li>                <li>Kwaliteitsborging</li>                <li>Gelijke kansen voor vrouwen en minderheden</li>                <li>Kwalificatiekaders</li>                <li>Ondernemerschap</li>                <li>Vaardigheden om armoede te bestrijden</li>                <li>Onderwijstechnologie</li>                <li>Governance en transparantie</li>                <li>Vaardigheidsprofielen van migranten</li>             </ul>             <p>Wat doen wij zoal?</p>             <ul>                <li>We helpen de EU met raad en daad bij de ontwikkeling van hr-beleid in partnerlanden.</li>                <li>Wij versterken de know-how in de partnerlanden op het gebied van human resources.</li>                <li>Wij helpen de EU bij het verlenen van bijstand en subsidies aan stakeholders in de partnerlanden.</li>                <li>Wij stimuleren het netwerken en de uitwisseling van informatie, ervaring en goede methoden, zowel tussen de EU en de partnerlanden als tussen partnerlanden onderling.</li>             </ul>             <p>Als internationaal expertisecentrum zorgen wij samen met organisaties van stakeholders voor meer en betere samenwerking, kennisontwikkeling en de uitwisseling van ervaring binnen ons werkterrein.  Tot die organisaties behoren:</p>             <ul>                <li>beleidsmakers, professionals en donoren uit de EU, de EU-landen en de partnerlanden,</li>                <li>Europese en internationale instellingen zoals bilaterale donorganisaties van EU-landen, de Wereldbank, de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) en de organisaties van de Verenigde Naties.</li>             </ul>             <p>                <strong>Oprichting:</strong> 1994</p>             <p>                <strong>Leiding:</strong> Madlen Serban</p>"
+      ],
+      "pl": [
+        "<p>ETF wspólnie z krajami sąsiadującymi z UE realizuje różne programy współpracy dotyczące m.in.: </p>             <ul>                <li>procesu rozszerzenia UE (Albania, Bośnia i Hercegowina, była jugosłowiańska republika Macedonii, Islandia, Kosowo, Czarnogóra, Serbia i Turcja)</li>                <li>europejskiej polityki sąsiedztwa (Algieria, Armenia, Azerbejdżan, Białoruś, Egipt, Gruzja, Izrael, Jordania, Liban, Libia, Maroko, Mołdawia, Syria, Tunezja, Ukraina i okupowane terytoria palestyńskie)</li>                <li>partnerstwa UE − Rosja</li>                <li>krajów Azji Środkowej (Kazachstan, Kirgistan, Tadżykistan, Turkmenistan i Uzbekistan).</li>             </ul>             <p>ETF realizuje projekty w wielu dziedzinach, takich jak:</p>             <ul>                <li>uczenie się przez całe życie </li>                <li>szanse na zatrudnienie i konkurencyjność </li>                <li>doskonalenie zawodowe nauczycieli </li>                <li>zapewnienie jakości </li>                <li>równość szans kobiet i mężczyzn i grup mniejszościowych </li>                <li>ramy kwalifikacji </li>                <li>uczenie się przedsiębiorczości </li>                <li>umiejętności umożliwiające zmniejszenie ubóstwa </li>                <li>technologie wspierające kształcenie </li>                <li>zasady dobrego zarządzania i przejrzystości </li>                <li>profile kwalifikacji migrantów.</li>             </ul>             <p>W związku z tym ETF: </p>             <ul>                <li>udziela informacji, doradza i pomaga UE w zakresie rozwoju polityki zasobów ludzkich w krajach partnerskich</li>                <li>wspiera zainteresowane podmioty w krajach partnerskich w budowaniu potencjału w zakresie rozwoju zasobów ludzkich</li>                <li>pomaga zapewnić w krajach partnerskich unijną pomoc i wsparcie</li>                <li>wspiera rozwój sieci współpracy i wymiany informacji, doświadczeń oraz dobrych praktyk, zarówno między UE i krajami partnerskimi, jak i między samymi krajami partnerskimi.</li>             </ul>             <p>Jako międzynarodowe centrum ekspertyz ETF współdziała z zainteresowanymi stronami w celu wspierania i ułatwiania współpracy oraz poszerzania wiedzy i wymiany doświadczeń.  Do współpracujących stron zalicza się:</p>             <ul>                <li>decydentów, specjalistów w dziedzinie kształcenia i szkolenia zawodowego oraz darczyńców z UE, jej państw członkowskich UE oraz krajów partnerskich</li>                <li>europejskie i międzynarodowe instytucje, takie jak organizacje darczyńców z krajów UE, Bank Światowy, Organizacja Współpracy Gospodarczej i Rozwoju (OECD) oraz Organizacja Narodów Zjednoczonych.</li>             </ul>             <p>                <strong>Rok utworzenia:</strong> 1994</p>             <p>                <strong>Dyrektor:</strong> Madlen Serban</p>"
+      ],
+      "pt": [
+        "<p>Colaboramos com os países limítrofes da UE no âmbito de vários programas de cooperação externa:</p>             <ul>                <li>processo de alargamento (Albânia, Bósnia e Herzegovina, Islândia, Kosovo, Antiga República Jugoslava da Macedónia, Montenegro, Sérvia e Turquia)</li>                <li>política europeia de vizinhança (Argélia, Arménia, Azerbaijão, Bielorrússia, Egito, Geórgia, Israel, Jordânia, Líbano, Marrocos, Moldávia, Síria, Tunísia, Ucrânia e Palestina)</li>                <li>parceria UE/Rússia</li>                <li>países da Ásia Central (Cazaquistão, Quirguizistão, Tajiquistão, Turquemenistão e Usbequistão)</li>             </ul>             <p>Gerimos projetos em diversas áreas, tais como:</p>             <ul>                <li>aprendizagem ao longo da vida</li>                <li>empregabilidade e competitividade</li>                <li>formação de professores</li>                <li>garantia da qualidade</li>                <li>igualdade de acesso para as mulheres e os grupos minoritários</li>                <li>reconhecimento de qualificações;</li>                <li>aprendizagem empresarial</li>                <li>luta contra a pobreza</li>                <li>tecnologias de auxílio à aprendizagem</li>                <li>boa governação e transparência</li>                <li>competências dos trabalhadores migrantes</li>             </ul>             <p>Neste contexto:</p>             <ul>                <li>facultamos informações, aconselhamento e ajuda à UE tendo em vista o desenvolvimento de políticas de recursos humanos nos países parceiros</li>                <li>apoiamos as partes interessadas nos países parceiros a melhorar as capacidades em matéria de desenvolvimento de recursos humanos</li>                <li>contribuímos para fazer chegar assistência da UE às partes interessadas nos países parceiros</li>                <li>incentivamos a criação de redes e a troca de informações, de experiências e de boas práticas, quer entre a UE e os países parceiros quer entre os próprios países parceiros</li>             </ul>             <p>Enquanto centro internacional especializado, colaboramos com as partes interessadas para promover e facilitar a cooperação, o desenvolvimento de conhecimentos e a troca de experiências no nosso domínio.  Os nossos interlocutores são, nomeadamente:</p>             <ul>                <li>responsáveis políticos, especialistas e doadores da UE, dos seus países membros e de países parceiros</li>                <li>instituições europeias e internacionais como organizações bilaterais dadoras de fundos de países da UE, o Banco Mundial, a Organização para a Cooperação e o Desenvolvimento Económico (OCDE) e os organismos especializados da ONU</li>             </ul>             <p>                <strong>Criação:</strong> 1994</p>             <p>                <strong>Diretora:</strong> Madlen Serban</p>"
+      ],
+      "ro": [
+        "<p>Lucrăm cu țările din vecinătatea UE în cadrul mai multor programe de cooperare externă:</p>             <ul>                <li>procesul de extindere (Albania, Bosnia și Herțegovina, Kosovo, Islanda, Fosta Republică Iugoslavă a Macedoniei, Muntenegru, Serbia și Turcia)</li>                <li>politica europeană de vecinătate (Algeria, Armenia, Azerbaidjan, Belarus, Egipt, Georgia, Israel, Iordania, Liban, Libia, Maroc, Moldova, Siria, Tunisia, Ucraina și Palestina)</li>                <li>parteneriatul UE/Rusia</li>                <li>țări din Asia Centrală (Kazahstan, Kârgâzstan, Tadjikistan, Turkmenistan și Uzbekistan).</li>             </ul>             <p>Avem în lucru proiecte în foarte multe domenii, printre care:</p>             <ul>                <li>învățarea de-a lungul vieții</li>                <li>ocuparea forței de muncă și competitivitate</li>                <li>formarea cadrelor didactice</li>                <li>asigurarea calității</li>                <li>accesul egal al femeilor și grupurilor minoritare</li>                <li>cadrele de acordare a calificărilor</li>                <li>învățarea antreprenorială</li>                <li>competențe pentru reducerea sărăciei</li>                <li>tehnologia în învățare</li>                <li>guvernanță și transparență</li>                <li>profilurile de competențe ale migranților.</li>             </ul>             <p>În acest context:</p>             <ul>                <li>furnizăm UE informații, consultanță și asistență pentru elaborarea politicilor în materie de dezvoltare a resurselor umane în țările partenere</li>                <li>sprijinim părțile interesate din țările partenere pentru a-și dezvolta capacitățile în domeniul dezvoltării resurselor umane</li>                <li>contribuim la furnizarea de ajutor din partea UE pentru părțile interesate din țările partenere</li>                <li>încurajăm crearea de rețele și schimbul de informații, de experiență și de bune practici, atât între țările partenere, cât și între acestea și UE.</li>             </ul>             <p>Ca centru internațional de expertiză, colaborăm cu grupurile relevante de părți interesate pentru a promova și facilita cooperarea, dezvoltarea cunoștințelor și schimburile de experiență în domeniu.  Este vorba, printre altele, de:</p>             <ul>                <li>factori de decizie politică, practicieni și donatori din UE, statele sale membre și țările partenere</li>                <li>instituții europene și internaționale, cum ar fi organizațiile bilaterale de donatori din țările UE, Banca Mondială, Organizația pentru Cooperare Economică și Dezvoltare (OCDE) și organizațiile ONU.</li>             </ul>             <p>                <strong>Anul înființării:</strong> 1994</p>             <p>                <strong>Director:</strong> Madlen Șerban</p>"
+      ],
+      "sk": [
+        "<p>Spolupracujeme s krajinami susediacimi s EÚ v rámci rôznych programov zahraničnej spolupráce:</p>             <ul>                <li>proces rozširovania (Albánsko, Bosna a Hercegovina, bývalá Juhoslovanská republika Macedónsko, Čierna Hora, Island, Kosovo, Srbsko a Turecko),</li>                <li>európska susedská politika (Alžírsko, Arménsko, Azerbajdžan, Bielorusko, Egypt, Gruzínsko, Izrael, Jordánsko, Libanon, Líbya, Maroko, Moldavsko, Sýria, Tunisko, Ukrajina a Palestína),</li>                <li>partnerstvo EÚ – Rusko,</li>                <li>krajiny Strednej Ázie (Kazachstan, Kirgizsko, Tadžikistan, Turkménsko a Uzbekistan).</li>             </ul>             <p>Pracujeme na projektoch v širokom spektre oblastí, medzi ktoré patria:</p>             <ul>                <li>celoživotné vzdelávanie</li>                <li>zamestnateľnosť a konkurencieschopnosť</li>                <li>vzdelávanie učiteľov</li>                <li>zabezpečovanie kvality</li>                <li>rovnaký prístup žien a menšinových skupín k vzdelávaniu</li>                <li>kvalifikačné rámce</li>                <li>podnikateľské vzdelávanie</li>                <li>zručnosti potrebné na zníženie chudoby</li>                <li>technológia vo vzdelávaní</li>                <li>verejná správa a transparentnosť</li>                <li>profily zručností migrujúcich osôb</li>             </ul>             <p>V tejto súvislosti:</p>             <ul>                <li>poskytujeme EÚ informácie, poradenstvo a pomoc v rámci rozvoja politík ľudských zdrojov v partnerských krajinách,</li>                <li>podporujeme príslušné subjekty v partnerských krajinách, aby budovali kapacity v oblasti rozvoja ľudských zdrojov,</li>                <li>pomáhame sprostredkovať pomoc EÚ príslušným subjektom v partnerských krajinách,</li>                <li>podporujeme tvorbu sietí a výmenu informácií, skúseností a osvedčených postupov medzi EÚ a partnerskými krajinami, ako aj medzi partnerskými krajinami navzájom.</li>             </ul>             <p>Ako medzinárodné odborné stredisko pracujeme s relevantnými subjektmi na podpore a zjednodušení spolupráce, rozvoji znalostí a výmeny skúseností v našom odbore.  Patria sem:</p>             <ul>                <li>tvorcovia politiky, odborníci z praxe a darcovia z EÚ, jej členských štátov a partnerských krajín,</li>                <li>európske a medzinárodné inštitúcie ako napr. bilaterálne darcovské organizácie v krajinách EÚ, Svetová banka, Organizácia pre hospodársku spoluprácu a rozvoj (OECD) a organizácie OSN.</li>             </ul>             <p>                <strong>Vytvorenie:</strong> 1994</p>             <p>                <strong>Riaditeľka:</strong> Madlen Serban</p>"
+      ],
+      "sl": [
+        "<p>Sodelovanje z državami v sosedstvu EU poteka v okviru različnih zunanjepolitičnih ukrepov:</p>             <ul>                <li>širitveni proces (Albanija, Bosna in Hercegovina, Črna gora, Islandija, Kosovo, Nekdanja jugoslovanska republika Makedonija, Srbija in Turčija);</li>                <li>evropska sosedska politika (Alžirija, Armenija, Azerbajdžan, Belorusija, Egipt, Gruzija, Izrael, Jordanija, Libanon, Libija, Moldavija, Maroko, Sirija, Tunizija, Ukrajina in Palestina);</li>                <li>partnerstvo EU-Rusija;</li>                <li>sodelovanje z državami osrednje Azije (Kazahstan, Kirgizistan, Tadžikistan, Turkmenistan in Uzbekistan).</li>             </ul>             <p>Delo agencije zajema več področij, med njimi:</p>             <ul>                <li>vseživljenjsko učenje,</li>                <li>zaposljivost in konkurenčnost,</li>                <li>usposabljanje učiteljev,</li>                <li>zagotavljanje kakovosti,</li>                <li>enake možnosti za ženske in manjšine,</li>                <li>oblikovanje okvirov kvalifikacij,</li>                <li>pouk podjetništva,</li>                <li>znanje in spretnosti, ki pomagajo zmanjšati revščino,</li>                <li>tehnologija v izobraževanju,</li>                <li>upravljanje in preglednost,</li>                <li>profil znanja za priseljence.</li>             </ul>             <p>V zvezi s tem:</p>             <ul>                <li>zagotavljamo organom Evropske unije informacije, nasvete in pomoč pri razvoju kadrovske politike v partnerskih državah;</li>                <li>podpiramo deležnike v partnerskih državah pri povečevanju zmogljivosti na področju razvoja človeških virov;</li>                <li>podpiramo EU pri zagotavljanju pomoči vsem deležnikom v partnerskih državah;</li>                <li>spodbujamo mreženje in izmenjavo informacij, izkušenj in dobre prakse med državami EU in partnerskimi državami ter med samimi partnerskimi državami.</li>             </ul>             <p>Kot mednarodni strokovni center sodelujemo s pomembnimi deležniki pri izboljšanju in spodbujanju sodelovanja, razvoju znanja in izmenjavah izkušenj na našem področju delovanja.  Naši sogovorniki so:</p>             <ul>                <li>snovalci politik, izvajalci in donatorji v Evropski uniji, državah članicah in partnerskih državah;</li>                <li>evropske in mednarodne institucije, denimo dvostranske donatorske organizacije v državah EU, Svetovna banka, Organizacija za gospodarsko sodelovanje in razvoj (OECD) ter Organizacija Združenih narodov.</li>             </ul>             <p>                <strong>Leto ustanovitve:</strong> 1994</p>             <p>                <strong>Direktor:</strong> Madlen Serban</p>"
+      ],
+      "sv": [
+        "<p>Vi samarbetar med EU:s grannländer genom olika externa samarbetsprogram:</p>             <ul>                <li>Utvidgningen (Albanien, Bosnien och Hercegovina, Island, Kosovo, Makedonien, Montenegro, Serbien och Turkiet)</li>                <li>Europeiska grannskapspolitiken (Algeriet, Armenien, Azerbajdzjan, Egypten, Georgien, Israel, Jordanien, Libanon, Libyen, Marocko, Moldavien, Palestina, Syrien, Tunisien, Ukraina och Vitryssland)</li>                <li>Partnerskapet EU-Ryssland</li>                <li>Länder i Centralasien (Kazakstan, Kirgizistan, Tadzjikistan, Turkmenistan och Uzbekistan)</li>             </ul>             <p>Vi driver projekt inom en rad olika områden, till exempel</p>             <ul>                <li>livslångt lärande</li>                <li>anställbarhet och konkurrenskraft</li>                <li>lärarutbildning</li>                <li>kvalitetssäkring</li>                <li>lika möjligheter för kvinnor och minoritetsgrupper</li>                <li>referensramar för kvalifikationer</li>                <li>utbildning i företagande</li>                <li>kunskap för att ta sig ur fattigdom</li>                <li>teknik i undervisningen</li>                <li>förvaltning och öppenhet</li>                <li>invandrares kompetens.</li>             </ul>             <p>Vår uppgift är bl.a. att</p>             <ul>                <li>informera, ge råd och hjälpa EU med att utveckla personalpolitiken i partnerländerna</li>                <li>hjälpa aktörer i partnerländerna att bygga upp kapacitet inom personalutveckling</li>                <li>förmedla EU-stöd till aktörer i partnerländerna</li>                <li>främja nätverk och utbyte av information, erfarenheter och bra lösningar – både mellan EU och partnerländerna och bland partnerländerna.</li>             </ul>             <p>ETF är ett internationellt expertcentrum. Vi samarbetar med olika aktörer för att främja och underlätta samarbete, kunskapsutveckling och erfarenhetsutbyte.  Det kan t.ex. vara</p>             <ul>                <li>beslutsfattare, yrkesverksamma och bidragsgivare i EU och partnerländerna</li>                <li>europeiska och internationella institutioner som bilaterala givarorganisationer i EU-länderna, Världsbanken, OECD (Organisationen för ekonomiskt samarbete och utveckling) och olika FN-organisationer.</li>             </ul>             <p>                <strong>Skapat:</strong> 1994</p>             <p>                <strong>Direktör:</strong> Madlen Serban</p>"
+      ]
+    },
+    "left_sub_menu": {
+      "und": [
+        true
+      ]
+    }
+  }
+}

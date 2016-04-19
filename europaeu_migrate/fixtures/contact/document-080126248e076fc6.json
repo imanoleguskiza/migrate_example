@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e076fc6",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e076fc6",
+        "080126248e076fc6",
+        "080126248e076fc6",
+        "080126248e076fc6"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска агенция по отбрана(EDA)"
+      ],
+      "cs": [
+        "Evropská obranná agentura(EDA)"
+      ],
+      "da": [
+        "Det Europæiske Forsvarsagentur(AED)"
+      ],
+      "de": [
+        "Europäische Verteidigungsagentur(EVA)"
+      ],
+      "el": [
+        "Ευρωπαϊκός Οργανισμός Άμυνας(EAD)"
+      ],
+      "en": [
+        "European Defence Agency(EDA)"
+      ],
+      "es": [
+        "Agencia Europea de Defensa(AED)"
+      ],
+      "et": [
+        "Euroopa Kaitseagentuur(EDA)"
+      ],
+      "fi": [
+        "Euroopan puolustusvirasto"
+      ],
+      "fr": [
+        "Agence européenne de défense(AED)"
+      ],
+      "ga": [
+        "An Ghníomhaireacht Eorpach um Chosaint(GEC)"
+      ],
+      "hr": [
+        "Europska agencija za obranu(EDA)"
+      ],
+      "hu": [
+        "Európai Védelmi Ügynökség(EDA)"
+      ],
+      "it": [
+        "Agenzia europea per la difesa(AED)"
+      ],
+      "lt": [
+        "Europos gynybos agentūra(EGA)"
+      ],
+      "lv": [
+        "Eiropas Aizsardzības aģentūra(EAA)"
+      ],
+      "mt": [
+        "Aġenzija Ewropea għad-Difiża(AED)"
+      ],
+      "nl": [
+        "Europees Defensieagentschap(EDA)"
+      ],
+      "pl": [
+        "Europejska Agencja Obrony(EDA)"
+      ],
+      "pt": [
+        "Agência Europeia de Defesa(AED)"
+      ],
+      "ro": [
+        "Agenţia Europeană de Apărare(AEA)"
+      ],
+      "sk": [
+        "Evropská obranná agentura(EDA)"
+      ],
+      "sl": [
+        "Evropska obrambna agencija(EDA)"
+      ],
+      "sv": [
+        "Europeiska försvarsbyrån"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/logo_eda_flag.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Rue des Drapiers/Lakenweversstraat 17-23</p> <p>B-1050 Bruxelles/Brussel</p> <p>Belgique/België</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 504 28 00"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+32 2 504 28 15"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:info@eda.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact EDA"
+      ]
+    }
+  }
+}

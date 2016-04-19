@@ -1,0 +1,447 @@
+{
+    "_id": "see_also_item_e51b658caea92bd17f01d23c836e397d",
+    "type": "see_also_item",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Кой кой е",
+                "             Становища и документи ",
+                "             Публикации ",
+                "Посетете ЕИСК",
+                "             Работни места "
+            ],
+            "cs": [
+                "Kdo je kdo",
+                "             Stanoviska a dokumenty ",
+                "             Publikace ",
+                "Návštěvy pro veřejnost",
+                "             Pracovní místa "
+            ],
+            "da": [
+                "Hvem er hvem?",
+                "             Udtalelser og dokumenter ",
+                "             Publikationer ",
+                "Besøg EØSU",
+                "             Job "
+            ],
+            "de": [
+                "Wer ist wer",
+                "             Stellungnahmen und sonstige Dokumente  ",
+                "             Veröffentlichungen ",
+                "Besuchen Sie den EWSA",
+                "             Stellenangebote  "
+            ],
+            "el": [
+                "Επίσημος κατάλογος της ΕΕ",
+                "             Γνωμοδοτήσεις και έγγραφα ",
+                "             Εκδόσεις ",
+                "Επισκεφθείτε την ΕΟΚΕ",
+                "             Θέσεις εργασίας "
+            ],
+            "en": [
+                "Who's who",
+                "Opinions and documents",
+                "Publications",
+                "Visit the EESC",
+                "Jobs"
+            ],
+            "es": [
+                "Quién es quién",
+                "             Dictámenes y documentos ",
+                "             Publicaciones ",
+                "Visita el CESE",
+                "             Oportunidades de empleo "
+            ],
+            "et": [
+                "Kes on kes?",
+                "             Arvamused ja dokumendid ",
+                "             Väljaanded ",
+                "Külastage Euroopa Majandus- ja Sotsiaalkomiteed",
+                "             Töökohad "
+            ],
+            "fi": [
+                "Henkilöhakemisto",
+                "             Lausunnot ja asiakirjat ",
+                "             Julkaisut ",
+                "Vierailut Euroopan talous- ja sosiaalikomiteaan",
+                "             Työpaikat "
+            ],
+            "fr": [
+                "Annuaire des institutions",
+                "Avis et documents",
+                "Publications",
+                "Visiter le Comité économique et social",
+                "Recrutement"
+            ],
+            "ga": [
+                "Cé hé cé",
+                "             Tuairimí agus doiciméid ",
+                "             Foilseacháin ",
+                "Cuairt a thabhairt ar CESE",
+                "             Poist "
+            ],
+            "hr": [
+                "Tko je tko",
+                "             Mišljenja i dokumenti ",
+                "             Publikacije ",
+                "Posjetite EGSO",
+                "             Poslovi "
+            ],
+            "hu": [
+                "Whoiswho – az Európai Unió hivatalos név- és címjegyzéke",
+                "             Vélemények és dokumentumok ",
+                "             Kiadványok ",
+                "Látogatás az Európai Gazdasági és Szociális Bizottságnál",
+                "             Álláslehetőségek "
+            ],
+            "it": [
+                "Chi è chi",
+                "             Pareri e documenti ",
+                "             Pubblicazioni ",
+                "Visita il Comitato economico e sociale europeo",
+                "             Offerte di lavoro "
+            ],
+            "lt": [
+                "Kas yra kas",
+                "             Nuomonės ir dokumentai ",
+                "             Leidiniai ",
+                "Apsilankymas Europos ekonomikos ir socialinių reikalų komitete",
+                "             Galimybės įsidarbinti "
+            ],
+            "lv": [
+                "ES iestāžu kontaktinformācijas katalogs",
+                "             Atzinumi un dokumenti ",
+                "             Publikācijas ",
+                "Apmeklēt EESK",
+                "             Vakances "
+            ],
+            "mt": [
+                "Min hu min",
+                "             Opinjonijiet u dokumenti ",
+                "             Pubblikazzjonijiet ",
+                "Żur il-KESE",
+                "             Impjiegi "
+            ],
+            "nl": [
+                "Wie is wie bij de EU",
+                "             Adviezen en andere documenten ",
+                "             Publicaties ",
+                "Bezoek het Europees Economisch en Sociaal Comité",
+                "             Vacatures "
+            ],
+            "pl": [
+                "Organizacyjna baza danych UE (Kto jest kim w UE) ",
+                "             Opinie i dokumenty ",
+                "             Publikacje ",
+                "Wizyty w Europejskim Komitecie Ekonomiczno-Społecznym",
+                "             Oferty zatrudnienia "
+            ],
+            "pt": [
+                "Quem é quem",
+                "             Pareceres e documentos ",
+                "             Publicações ",
+                "Visite o Comité Económico e Social Europeu",
+                "             Emprego "
+            ],
+            "ro": [
+                "Anuar",
+                "             Avize și documente ",
+                "             Publicații ",
+                "Vizitați CESE",
+                "             Posturi vacante "
+            ],
+            "sk": [
+                "Kto je kto",
+                "             Stanoviská a dokumenty ",
+                "             Publikácie ",
+                "Navštívte EHSV",
+                "             Pracovné miesta "
+            ],
+            "sl": [
+                "Kdo je kdo",
+                "             Mnenja in dokumenti ",
+                "             Publikacije ",
+                "Obiščite Evropski ekonomsko-socialni odbor",
+                "             Zaposlitev "
+            ],
+            "sv": [
+                "Sök person",
+                "             Yttranden och dokument ",
+                "             Publikationer ",
+                "Besök EESK",
+                "             Lediga jobb "
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=bg",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "cs": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=cs",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "da": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=da",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "de": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=de",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "el": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=el",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "en": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=en",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "es": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=es",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "et": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=et",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "fi": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=fi",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "fr": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=fr",
+                "http://www.eesc.europa.eu/?i=portal.fr.documents",
+                "http://www.eesc.europa.eu/?i=portal.fr.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.fr.jobs"
+            ],
+            "ga": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=ga",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "hr": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=hr",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "hu": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=hu",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "it": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=it",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "lt": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=lt",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "lv": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=lv",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "mt": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=mt",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "nl": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=nl",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "pl": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=pl",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "pt": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=pt",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "ro": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=ro",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "sk": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=sk",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "sl": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=sl",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ],
+            "sv": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50836&lang=sv",
+                "http://www.eesc.europa.eu/?i=portal.en.documents",
+                "http://www.eesc.europa.eu/?i=portal.en.publications",
+                "http://configuration.missing/europa.eu/contact/visit/european-economic-and-social-committee/index_en.xml",
+                "http://www.eesc.europa.eu/?i=portal.en.jobs"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Европейски икономически и социален комитет (ЕИСК)"
+            ],
+            "cs": [
+                "Evropský hospodářský a sociální výbor (EHSV)"
+            ],
+            "da": [
+                "Det Europæiske Økonomiske og Sociale Udvalg (EØSU)"
+            ],
+            "de": [
+                "Europäischer Wirtschafts- und Sozialausschuss (EWSA)"
+            ],
+            "el": [
+                "Ευρωπαϊκή Οικονομική και Κοινωνική Επιτροπή (ΕΟΚΕ)"
+            ],
+            "en": [
+                "European Economic and Social Committee (EESC)"
+            ],
+            "es": [
+                "Comité Económico y Social Europeo (CESE)"
+            ],
+            "et": [
+                "Euroopa Majandus- ja Sotsiaalkomitee"
+            ],
+            "fi": [
+                "Euroopan talous- ja sosiaalikomitea (ETSK)"
+            ],
+            "fr": [
+                "Comité économique et social européen (CESE)"
+            ],
+            "ga": [
+                "Coiste Eacnamaíoch agus Sóisialta na hEorpa (CESE)"
+            ],
+            "hr": [
+                "Europski gospodarski i socijalni odbor (EGSO)"
+            ],
+            "hu": [
+                "Európai Gazdasági és Szociális Bizottság (EGSZB)"
+            ],
+            "it": [
+                "Comitato economico e sociale europeo (CESE)"
+            ],
+            "lt": [
+                "Europos ekonomikos ir socialinių reikalų komitetas (EESRK)"
+            ],
+            "lv": [
+                "Eiropas Ekonomikas un sociālo lietu komiteja (EESK)"
+            ],
+            "mt": [
+                "Il-Kumitat Ekonomiku u Soċjali Ewropew (KESE)"
+            ],
+            "nl": [
+                "Europees Economisch en Sociaal Comité (EESC)"
+            ],
+            "pl": [
+                "Europejski Komitet Ekonomiczno-Społeczny (EKES)"
+            ],
+            "pt": [
+                "Comité Económico e Social Europeu (CESE)"
+            ],
+            "ro": [
+                "Comitetul Economic și Social European (CESE)"
+            ],
+            "sk": [
+                "Európsky hospodársky a sociálny výbor (EHSV)"
+            ],
+            "sl": [
+                "Evropski ekonomsko-socialni odbor"
+            ],
+            "sv": [
+                "Europeiska ekonomiska och sociala kommittén"
+            ]
+        }
+    }
+}

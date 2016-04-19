@@ -1,0 +1,214 @@
+{
+  "_id": "080126248e0770cc",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "lt",
+    "hu",
+    "mt",
+    "ro",
+    "nl",
+    "pl",
+    "pt",
+    "sk",
+    "sl",
+    "fi",
+    "sv",
+    "it",
+    "lv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e0770cc",
+        "080126248e0770cc",
+        "080126248e0770cc"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Изпълнителна агенция на Европейския съвет за научни изследвания(ERCEA)"
+      ],
+      "cs": [
+        "Výkonná agentura Evropské rady pro výzkum(ERCEA)"
+      ],
+      "da": [
+        "Forvaltningsorganet for Det Europæiske Forskningsråd(ERCEA)"
+      ],
+      "de": [
+        "Exekutivagentur des Europäischen Forschungsrates(ERCEA)"
+      ],
+      "el": [
+        "Εκτελεστικός Οργανισμός του Ευρωπαϊκού Συμβουλίου Έρευνας(ERCEA)"
+      ],
+      "en": [
+        "European Research Council Executive Agency(ERCEA)"
+      ],
+      "es": [
+        "Agencia Ejecutiva del Consejo Europeo de Investigación(ERCEA)"
+      ],
+      "et": [
+        "Euroopa Teadusnõukogu Rakendusamet(ERCEA)"
+      ],
+      "fi": [
+        "Euroopan tutkimusneuvoston toimeenpanovirasto(ERCEA)"
+      ],
+      "fr": [
+        "Agence exécutive du Conseil européen de la recherche(ERCEA)"
+      ],
+      "ga": [
+        "Gníomhaireacht Feidhmiúcháin Chomhairle Taighde na hEorpa(ERCEA)"
+      ],
+      "hr": [
+        "Izvršna agencija Europskog istraživačkog vijeća(ERCEA)"
+      ],
+      "hu": [
+        "Az Európai Kutatási Tanács Végrehajtó Ügynöksége(ERCEA)"
+      ],
+      "it": [
+        "Agenzia esecutiva del Consiglio europeo della ricerca(ERCEA)"
+      ],
+      "lt": [
+        "Europos mokslinių tyrimų tarybos vykdomoji įstaiga(ERCEA)"
+      ],
+      "lv": [
+        "Eiropas Pētniecības padomes izpildaģentūra(ERCEA)"
+      ],
+      "mt": [
+        "l-Aġenzija Eżekuttiva tal-Kunsill Ewropew għar-Riċerka(ERCEA)"
+      ],
+      "nl": [
+        "Uitvoerend Agentschap Europese Onderzoeksraad(ERCEA)"
+      ],
+      "pl": [
+        "Agencja Wykonawcza Europejskiej Rady ds. Badań Naukowych(ERCEA)"
+      ],
+      "pt": [
+        "Agência de Execução do Conselho Europeu de Investigação(ERCEA)"
+      ],
+      "ro": [
+        "Agenţia Executivă a Consiliului European pentru Cercetare(ERCEA)"
+      ],
+      "sk": [
+        "Výkonná agentúra Európskej rady pre výskum(ERCEA)"
+      ],
+      "sl": [
+        "Izvajalska agencija Evropskega raziskovalnega sveta(ERCEA)"
+      ],
+      "sv": [
+        "Genomförandeorganet för Europeiska forskningsrådet(ERCEA)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_commission.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Covent Garden</p> <p>Place Charles Rogier/Charles Rogierplein 16</p> <p>B-1210 Bruxelles/Brussel</p> <p>Belgique/België</p>"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+32 2 292 19 75"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "http://erc.europa.eu/send-us-message"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact ERC"
+      ]
+    }
+  }
+}

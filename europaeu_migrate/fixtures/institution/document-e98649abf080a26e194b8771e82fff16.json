@@ -1,0 +1,848 @@
+{
+  "_id": "e98649abf080a26e194b8771e82fff16",
+  "type": "common_page",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/agencies/overhaul/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Децентрализирани агенции — реформа от 2012 г."
+      ],
+      "cs": [
+        "Decentralizované agentury - Reorganizace v roce 2012"
+      ],
+      "da": [
+        "Decentrale organer: Gennemgang 2012"
+      ],
+      "de": [
+        "Dezentrale Agenturen: Reform 2012"
+      ],
+      "el": [
+        "Αποκεντρωμένοι οργανισμοί: αναθεώρηση 2012"
+      ],
+      "en": [
+        "Decentralised agencies: 2012 Overhaul"
+      ],
+      "es": [
+        "Agencias descentralizadas: revisión de 2012"
+      ],
+      "et": [
+        "Detsentraliseeritud asutused: 2012. aasta ümberkorraldused"
+      ],
+      "fi": [
+        "Hajautetut virastot: Vuoden 2012 uudistus"
+      ],
+      "fr": [
+        "Agences décentralisées: remaniement de 2012"
+      ],
+      "ga": [
+        "Gníomhaireachtaí díláraithe: Ollchóiriú 2012"
+      ],
+      "hr": [
+        "Decentralizirane agencije: Reforma iz 2012."
+      ],
+      "hu": [
+        "Decentralizált ügynökségek: a 2012-es reform"
+      ],
+      "it": [
+        "Agenzie decentrate: riforma del 2012"
+      ],
+      "lt": [
+        "Decentralizuotos agentūros. 2012 m. peržiūra"
+      ],
+      "lv": [
+        "Decentralizēto aģentūru 2012. gada reforma"
+      ],
+      "mt": [
+        "L-aġenziji deċentralizzati: Reviżjoni 2012"
+      ],
+      "nl": [
+        "Gedecentraliseerde agentschappen: Nieuwe aanpak 2012"
+      ],
+      "pl": [
+        "Agencje zdecentralizowane: reforma z 2012 r."
+      ],
+      "pt": [
+        "Agências descentralizadas: revisão de 2012"
+      ],
+      "ro": [
+        "Agențiile descentralizate: reforma din 2012"
+      ],
+      "sk": [
+        "Decentralizované agentúry: revízia 2012"
+      ],
+      "sl": [
+        "Decentralizirane agencije: prenova 2012"
+      ],
+      "sv": [
+        "Decentraliserade byråer – översynen 2012"
+      ]
+    },
+    "category": {
+      "und": [
+        "23337c60"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "cs": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "da": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "de": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "el": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "en": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "es": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "et": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "fi": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "fr": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "ga": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "hr": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "hu": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "it": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "lt": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "lv": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "mt": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "nl": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "pl": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "pt": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "ro": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "sk": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "sl": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ],
+      "sv": [
+        "EUROPA/ABOUT-EU/AGENCIES/OVERHAUL"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        "COMM/A5"
+      ],
+      "cs": [
+        "COMM/A5"
+      ],
+      "da": [
+        "COMM/A5"
+      ],
+      "de": [
+        "COMM/A5"
+      ],
+      "el": [
+        "COMM/A5"
+      ],
+      "en": [
+        "COMM/A5"
+      ],
+      "es": [
+        "COMM/A5"
+      ],
+      "et": [
+        "COMM/A5"
+      ],
+      "fi": [
+        "COMM/A5"
+      ],
+      "fr": [
+        "COMM/A5"
+      ],
+      "ga": [
+        "COMM/A5"
+      ],
+      "hr": [
+        "COMM/A5"
+      ],
+      "hu": [
+        "COMM/A5"
+      ],
+      "it": [
+        "COMM/A5"
+      ],
+      "lt": [
+        "COMM/A5"
+      ],
+      "lv": [
+        "COMM/A5"
+      ],
+      "mt": [
+        "COMM/A5"
+      ],
+      "nl": [
+        "COMM/A5"
+      ],
+      "pl": [
+        "COMM/A5"
+      ],
+      "pt": [
+        "COMM/A5"
+      ],
+      "ro": [
+        "COMM/A5"
+      ],
+      "sk": [
+        "COMM/A5"
+      ],
+      "sl": [
+        "COMM/A5"
+      ],
+      "sv": [
+        "COMM/A5"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Ръководни принципи за по-добра последователност, ефективност и отчетност на дейността на децентрализираните агенции"
+      ],
+      "cs": [
+        "Hlavní zásady k zajištění větší soudržnosti, účinnosti a právní odpovědnosti decentralizovaných agentur"
+      ],
+      "da": [
+        "Generelle retningslinjer til at gøre de decentrale organer mere ensartede, effektive og ansvarlige"
+      ],
+      "de": [
+        "Leitprinzipien für die Steigerung der Kohärenz, Effizienz und Verantwortlichkeit der dezentralen Agenturen"
+      ],
+      "el": [
+        "Κατευθυντήριες αρχές με στόχο την συνεκτικότερη, αποτελεσματικότερη και περισσότερο υπεύθυνη λειτουργία των αποκεντρωμένων οργανισμών."
+      ],
+      "en": [
+        "Guiding principles to make the decentralised agencies more coherent, effective and accountable"
+      ],
+      "es": [
+        "Directrices completas para que las agencias sean más coherentes, eficaces y responsables."
+      ],
+      "et": [
+        "Juhtpõhimõtted detsentraliseeritud asutuste sidusamaks, tõhusamaks ja usaldusväärsemaks muutmiseks"
+      ],
+      "fi": [
+        "Suuntaviivat, joilla parannetaan EU:n virastojen yhtenäisyyttä, tehokkuutta ja vastuuvelvollisuutta"
+      ],
+      "fr": [
+        "Principes d'orientation visant à renforcer la cohérence, l'efficacité et la responsabilité des agences décentralisées "
+      ],
+      "ga": [
+        "Treoirphrionsabail chun go mbeidh na gníomhaireachtaí díláraithe níos comhtháite, níos éifeachtaí agus níos cuntasaí."
+      ],
+      "hr": [
+        "Smjernice za postizanje veće dosljednosti, učinkovitosti i odgovornosti agencija"
+      ],
+      "hu": [
+        "A decentralizált ügynökségek következetesebb, hatékonyabb és elszámolhatóbb működését biztosító alapelvek"
+      ],
+      "it": [
+        "Principi guida per rendere le agenzie decentrate più coerenti, efficaci e responsabili"
+      ],
+      "lt": [
+        "Gairės, kaip pasiekti, kad decentralizuotos agentūros veiktų darniau ir veiksmingiau ir taptų atskaitingesnės"
+      ],
+      "lv": [
+        "Pamatprincipi, lai decentralizēto aģentūru darbs kļūtu saskaņotāks, efektīvāks un atbildīgāks"
+      ],
+      "mt": [
+        "Prinċipji ta’ gwida biex l-aġenziji deċentralizzati jsiru aktar koerenti, effettivi u responsabbli"
+      ],
+      "nl": [
+        "Richtsnoeren om de gedecentraliseerde agentschappen coherenter, efficiënter en verantwoordelijker te maken"
+      ],
+      "pl": [
+        "Zasady przewodnie zapewniające większą spójność i efektywność funkcjonowania agencji oraz zwiększające ich odpowiedzialność za podejmowane działania "
+      ],
+      "pt": [
+        "Princípios orientadores para reforçar a coerência, a eficácia e a responsabilização das agências descentralizadas"
+      ],
+      "ro": [
+        "Orientări menite să consolideze coerența, eficiența și responsabilitatea agențiilor descentralizate"
+      ],
+      "sk": [
+        "Hlavné zásady v záujme posilnenia súdržnosti, účinnosti a zodpovednosti decentralizovaných agentúr"
+      ],
+      "sl": [
+        "Vodilna načela, po katerih bi decentralizirane agencije postale bolj medsebojno usklajene, učinkovite in bi za svoje delo odgovarjale."
+      ],
+      "sv": [
+        "Vägledande principer för att göra de decentraliserade byråerna mer enhetliga, effektiva och öppna för insyn"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "europa",
+        "ЕС",
+        "Европейски съюз",
+        "агенции",
+        "децентрализирани агенции",
+        "реформа",
+        "общ подход"
+      ],
+      "cs": [
+        "Evropa, europa",
+        "EU",
+        "evropská unie",
+        "agentura",
+        "decentralizované agentury",
+        "transformace",
+        "společný přístup"
+      ],
+      "da": [
+        "europa",
+        "EU",
+        "Den Europæiske Union",
+        "agenturer",
+        "decentraliserede agenturer, decentrale organer",
+        "gennemgang",
+        "fælles tilgang"
+      ],
+      "de": [
+        "Europa",
+        "EU",
+        "Europäische Union",
+        "Agenturen",
+        "dezentrale Agenturen",
+        "Reform, Erneuerung, Umgestaltung",
+        "Gemeinsamer Ansatz, gemeinsames Konzept"
+      ],
+      "el": [
+        "europa",
+        "ΕΕ",
+        "Ευρωπαϊκή Ένωση",
+        "οργανισμοί",
+        "αποκεντρωμένοι οργανισμο",
+        "αναθεώρηση",
+        "κοινή προσέγγιση."
+      ],
+      "en": [
+        "europa",
+        "EU",
+        "European Union",
+        "agencies",
+        "decentralised agencies",
+        "overhaul",
+        "common approach"
+      ],
+      "es": [
+        "europa",
+        "UE",
+        "Unión Europea",
+        "agencias",
+        "Agencias descentralizadas",
+        "revisión",
+        "planteamiento común"
+      ],
+      "et": [
+        "europa",
+        "EL",
+        "Euroopa Liit",
+        "asutused",
+        "Detsentraliseeritud asutused",
+        "ümberkorraldused",
+        "ühine lähenemisviis"
+      ],
+      "fi": [
+        "europa",
+        "EU",
+        "Euroopan unioni",
+        "virastot, elimet, laitokset",
+        "hajautetut virastot",
+        "uudistaminen, uudistus",
+        "yhteiset periaatteet"
+      ],
+      "fr": [
+        "Europa",
+        "UE",
+        "Union européenne",
+        "agences",
+        "agences décentralisées",
+        "révision, refonte, remaniement",
+        "approche commune"
+      ],
+      "ga": [
+        "europa",
+        "AE",
+        "An tAontas Eorpach",
+        "gníomhaireachtaí",
+        "gníomhaireachtaí díláraithe",
+        "ollchóiriú",
+        "cur chuige coiteann"
+      ],
+      "hr": [
+        "europa",
+        "EU",
+        "Europska unija",
+        "agencije",
+        "decentralizirane agencije",
+        "reforma",
+        "zajednički pristup"
+      ],
+      "hu": [
+        "Európa",
+        "EU",
+        "Európai Unió",
+        "ügynökségek",
+        "decentralizált ügynökségek",
+        "reform, felülvizsgálat",
+        "közös eljárás"
+      ],
+      "it": [
+        "europa",
+        "UE",
+        "Unione europea",
+        "agenzie",
+        "agenzie decentrate",
+        "revisione, riforma",
+        "approccio comune"
+      ],
+      "lt": [
+        "europa",
+        "ES",
+        "Europos Sąjunga",
+        "agentūros",
+        "decentralizuotos agentūros",
+        "peržiūra",
+        "bendras požiūris"
+      ],
+      "lv": [
+        "europa",
+        "ES",
+        "Eiropas Savienība",
+        "aģentūras",
+        "decentralizētās aģentūras",
+        "reforma",
+        "kopēja pieeja"
+      ],
+      "mt": [
+        "europa",
+        "UE",
+        "Unjoni Ewropea",
+        "aġenziji",
+        "aġenziji deċentralizzati",
+        "reviżjoni",
+        "strateġija komuni"
+      ],
+      "nl": [
+        "Europa-website, Europa",
+        "EU",
+        "Europese Unie",
+        "agentschappen",
+        "gedecentraliseerde agentschappen",
+        "revisie, herziening, aanpak",
+        "gemeenschappelijke aanpak."
+      ],
+      "pl": [
+        "europa",
+        "UE",
+        "Unia Europejska",
+        "agencje",
+        "agencje zdecentralizowane",
+        "reorganizacja, przegląd",
+        "wspólne podejście"
+      ],
+      "pt": [
+        "europa",
+        "ue",
+        "união europeia",
+        "agências",
+        "agências descentralizadas",
+        "revisão",
+        "abordagem comum"
+      ],
+      "ro": [
+        "europa",
+        "UE",
+        "Uniunea Europeană",
+        "agenții",
+        "agenții descentralizate",
+        "reformă, revizuire",
+        "abordare comună"
+      ],
+      "sk": [
+        "europa",
+        "eú",
+        "Európska únia",
+        "agentúry",
+        "decentralizované agentúry",
+        "dôkladná, zásadná reforma, revízia",
+        "spoločný prístup"
+      ],
+      "sl": [
+        "Europa",
+        "eu",
+        "Evropska unija",
+        "agencije",
+        "Decentralizirane agencije",
+        "prenova",
+        "Skupni pristop"
+      ],
+      "sv": [
+        "europa, europa.eu",
+        "EU",
+        "Europeiska unionen",
+        "byråer",
+        "decentraliserade byråer",
+        "översyn",
+        "gemensam strategi"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "body": {
+      "bg": [
+        "<p>Тъй като през годините децентрализираните агенции са създавани във връзка с конкретни политики, те работеха при доста различни условия. Поради това през 2012 г. ЕС прие подробен набор от ръководни принципи — „общ подход“, за да се подобри <strong>последователността, ефективността и отчетността</strong> на дейността на агенциите.</p>             <p>Тази нова рамка е резултат от анализ, извършен от работна група на ЕС за <strong>управлението, функционирането и контрола</strong> на агенциите. Той се основава на редица доклади и проучвания, включително цялостна външна оценка.</p>"
+      ],
+      "cs": [
+        "<p>Agentury byly během let zřizovány na individuálním základě, aby bylo možné rychle reagovat na konkrétní politické potřeby. A proto funguje každá z nich o něco jinak. EU v roce 2012 tuto situaci napravila tím, že stanovila hlavní pokyny a zásady (tzv. společný postup), díky nimž mají být agentury <strong>koherentnější, efektivnější a právně odpovědnější</strong>.</p>             <p>Tento nový rámec je výsledkem analýzy pracovní skupiny EU, která se zabývala <strong>řízením, fungováním a dohledem nad agenturami</strong>. Analýza se opírala o řadu zpráv a studií, včetně komplexního externího hodnocení.</p>"
+      ],
+      "da": [
+        "<p>Agenturerne er oprettet enkeltvis gennem årene for at dække nye særskilte politiske behov. Derfor har de været drevet på ret forskellige vilkår. Det rettede EU op på i 2012 ved at vedtage en sæt generelle retningslinjer – en fælles tilgang – for at gøre agenturerne mere <strong>ensartede, effektive og ansvarlige</strong>.</p>             <p>De nye rammer er resultatet af en analyse foretaget af en EU-arbejdsgruppe af agenturernes <strong>styring, funktion og tilsyn</strong>, baseret på en række rapporter og undersøgelser, blandt andet en omfattende ekstern evaluering.</p>"
+      ],
+      "de": [
+        "<p>Da die dezentralen Agenturen im Laufe der Jahre entsprechend den jeweils neu aufkommenden politischen Erfordernissen jede für sich eingerichtet wurden, ist ihre Arbeitsweise recht unterschiedlich. 2012 hat die EU durch die Verabschiedung einer umfassenden Reihe von Leitprinzipien Abhilfe geschaffen. Mit dem so genannten „gemeinsamen Konzept“ sollen <strong>Kohärenz, Effizienz und Verantwortlichkeit</strong> der Agenturen verbessert werden.</p>             <p>Dies stützt sich auf die Ergebnisse einer Untersuchung, in deren Rahmen eine EU-Arbeitsgruppe <strong>Leitung, Arbeitsweise und Beaufsichtigung</strong> der Agenturen anhand von Berichten und Studien sowie einer umfassenden externen Bewertung analysiert hat.</p>"
+      ],
+      "el": [
+        "<p>Λόγω του ότι μέχρι σήμερα οι αποκεντρωμένοι οργανισμοί συγκροτούνταν κατά περίπτωση, με βασικό σκοπό να ικανοποιήσουν νέες, μεμονωμένες ανάγκες, δεν λειτουργούσαν όλοι με τους ίδιους όρους. Το 2012 η ΕΕ διόρθωσε την κατάσταση αυτή, υιοθετώντας μια σειρά κατευθυντήριων αρχών – μια \"κοινή προσέγγιση\" –, έτσι ώστε οι αποκεντρωμένοι οργανισμοί να λειτουργούν <strong>πιο συνεκτικά, αποτελεσματικά και υπεύθυνα</strong>.</p>             <p>Το νέο αυτό πλαίσιο προέκυψε από ανάλυση για τη <strong>διακυβέρνηση, τη λειτουργία και την εποπτεία </strong>των οργανισμών αυτών, που διεξήγαγε μια ομάδα εργασίας της Ένωσης βάσει διαφόρων εκθέσεων και μελετών, καθώς και μιας διεξοδικής εξωτερικής αξιολόγησης.</p>"
+      ],
+      "en": [
+        "<p>Because the decentralised agencies were set up on a case-by-case basis over the years, to respond to emerging individual policy needs, they have been operating in quite diverse conditions. In 2012 the EU rectified this by adopting a comprehensive set of guiding principles – a \"common approach\" – to make the agencies more <strong>coherent, effective and accountable</strong>.</p>             <p>This new framework was the result of analysis by an EU working group of the agencies' <strong>governance, functioning and oversight</strong>, based on a number of reports and studies, including a comprehensive external evaluation.</p>"
+      ],
+      "es": [
+        "<p>Como las agencias descentralizadas se fueron creando de manera individual para responder a las necesidades que iban surgiendo, estuvieron funcionando en condiciones bastante diferentes unas de otras. En 2012 la UE rectificó esta situación adoptando unas directrices completas —\"planteamiento común\"— para que las agencias fueran más <strong>coherentes, eficaces y responsables</strong>.</p>             <p>Este nuevo marco resultó del análisis realizado por un grupo de trabajo de la UE sobre <strong>la gobernanza, el funcionamiento y la supervisión</strong> de las agencias y basado en distintos informes y estudios, entre ellos una evaluación externa completa.</p>"
+      ],
+      "et": [
+        "<p>Kuna detsentraliseeritud asutused on aastate jooksul loodud eraldi, lähtudes üksikute poliitikavaldkondade konkreetsetest vajadustest, on nad tegutsenud väga erinevates tingimustes. 2012. aastal parandas EL olukorda, võttes vastu tervikliku juhtpõhimõtete kogumi, nn ühise lähenemisviisi, et suurendada asutuste <strong>sidusust, tõhusust ja vastutust</strong>.</p>             <p>See raamistik valmis asutuste <strong>juhtimise, toimimise ja järelevalve</strong>ELi töörühma teostatud analüüsi tulemusena. Analüüs põhines mitmel aruandel ja uurimusel, sh põhjalikul välishindamisel.</p>"
+      ],
+      "fi": [
+        "<p>Jäsenmaihin hajautettujen EU:n virastojen toimintaedellytykset ovat poikenneet toisistaan, koska virastot on perustettu vuosien mittaan yksi kerrallaan toimintapolitiikan kulloisiinkin tarpeisiin. Asian korjaamiseksi EU hyväksyi vuonna 2012 suuntaviivat, joilla on määrä parantaa EU:n virastojen <strong>yhtenäisyyttä, tehokkuutta ja vastuuvelvollisuutta</strong>.</p>             <p>Toimintaperiaatteet perustuvat EU:n työryhmän perusteelliseen analyysiin, joka laadittiin virastojen <strong>hallintoa, toimintaa ja valvontaa</strong> koskevien selvitysten ja laajan ulkoisen arvioinnin perusteella.</p>"
+      ],
+      "fr": [
+        "<p>Les agences décentralisées ayant été créées au cas par cas afin de satisfaire les nouveaux besoins politiques apparaissant au fil des années, leurs modes de fonctionnement varient fortement. En 2012, l'Union européenne a remédié à cette situation en adoptant un ensemble de principes d'orientation, une «approche commune», afin de renforcer la <strong>cohérence, l'efficacité et la responsabilité</strong> des agences.</p>             <p>Ce nouveau cadre est le fruit d'une analyse de la <strong>gouvernance, du fonctionnement et de la surveillance</strong> des agences, effectuée par un groupe de travail de l'UE sur la base de rapports et d'études, dont une évaluation externe approfondie.</p>"
+      ],
+      "ga": [
+        "<p>Toisc gur bunaíodh na gníomhaireachtaí díláraithe ar bhonn cás ar chás thar na blianta, mar fhreagairt ar riachtanais beartais aonair a bhí ag teacht chun cinn, bhí siad ag feidhmiú i gcónaí faoi dhálaí éagsúla. In 2012, réitigh an AE sin trí shraith chuimsitheach treoirphrionsabal - \"cur chuige coiteann\" - a ghlacadh chun go mbeadh na gníomhaireachtaí níos <strong>comhtháite, níos éifeachtaí agus níos cuntasaí</strong>.</p>             <p>Is éard atá sa chreat nua sin ná toradh na hanailíse a rinne grúpa oibre an AE ar <strong>rialachas, feidhmiú agus maoirseacht</strong>, bunaithe ar roinnt tionscadal agus staidéar, meastóireacht chuimsitheach sheachtrach ina measc.</p>"
+      ],
+      "hr": [
+        "<p>Budući da su se decentralizirane agencije tijekom godina osnivale pojedinačno, u skladu s potrebama pojedinih novih politika, djelovale su pod bitno različitim uvjetima. Godine 2012. EU je ispravio tu situaciju donošenjem sveobuhvatnog skupa smjernica, takozvanog „zajedničkog pristupa”, za postizanje veće <strong>dosljednosti, učinkovitosti i odgovornosti</strong> agencija.</p>             <p>Taj novi okvir proizašao je iz analize <strong>uprave, funkcioniranja i nadzora</strong> agencija koju je provela radna skupina EU-a na temelju niza izvješća i studija, uključujući sveobuhvatnu vanjsku evaluaciju.</p>"
+      ],
+      "hu": [
+        "<p>A decentralizált ügynökségek működési feltételei egymástól igen eltérőek, ami annak tudható be, hogy nem egyszerre, hanem az évek során külön-külön, konkrét szakpolitikai szükségletekre válaszul hozták őket létre. Ezt orvosolandó az EU 2012-ben átfogó vezérelveket („közös eljárást”) fogadott el, hogy az ügynökségek tevékenysége <strong>következetesebb, hatékonyabb és elszámolhatóbb legyen.</strong>             </p>             <p>Az új keretprogram kidolgozásához egy uniós munkacsoport által készített elemzés eredményei szolgáltak alapul. A munkacsoport az ügynökségek <strong>kormányzási módszerét, működését és felügyeleti rendszerét több jelentés és tanulmány (pl. átfogó külső értékelés) alapján vizsgálta.</strong>             </p>"
+      ],
+      "it": [
+        "<p>Istituite su base individuale nel corso degli anni per rispondere ad esigenze specifiche delle singole politiche, le agenzie hanno operato in condizioni alquanto diverse. Nel 2012 l'UE ha rimediato a questa situazione adottando un insieme di principi guida – un \"approccio comune\" – per rendere le agenzie più <strong>coerenti, efficaci e responsabili</strong>.</p>             <p>Questo nuovo quadro è il risultato dell'analisi condotta da un gruppo di lavoro dell'UE su <strong>governance, funzionamento e controllo</strong> delle agenzie e basata su una serie di rapporti e studi, tra cui un'esauriente valutazione esterna.</p>"
+      ],
+      "lt": [
+        "<p>Kadangi decentralizuotos agentūros daugelį metų steigtos pavieniui, kaskart siekiant patenkinti tam tikrus naujus politinius poreikius, jų veiklos sąlygos gana skirtingos. 2012 m. ES šią padėtį pataisė priimdama išsamų gairių rinkinį – vadinamąjį bendrą požiūrį. Siekta, kad agentūros veiktų <strong>darniau ir veiksmingiau ir taptų atskaitingesnės</strong>.</p>             <p>Ši nauja sistema parengta ES darbo grupei atlikus agentūrų <strong>valdymo, veiklos ir priežiūros</strong> analizę, grindžiamą keliomis ataskaitomis ir tyrimais, įskaitant išsamų išorės vertinimą.</p>"
+      ],
+      "lv": [
+        "<p>Tā kā decentralizētās aģentūras laika gaitā tika izveidotas katra atsevišķi, ņemot vērā katrai situācijai atbilstošo politisko nepieciešamību, tās ir darbojušās ar diezgan atšķirīgiem nosacījumiem. 2012. gadā ES šo situāciju mainīja, pieņemot visaptverošu vadošo principu kopumu jeb “kopēju pieeju”, lai aģentūras varētu strādāt <strong>saskaņotāk, efektīvāk un atbildīgāk</strong>.</p>             <p>Jaunais regulējums tapa, ES darba grupai izanalizējot aģentūru <strong>pārvaldību, darbību un uzraudzību</strong>, pamatojoties uz vairākiem ziņojumiem un pētījumiem, kuru vidū bija visaptverošs ārējais novērtējums.</p>"
+      ],
+      "mt": [
+        "<p>Peress li l-aġenziji deċentralizzati twaqqfu każ b'każ matul is-snin, biex iwieġbu għall-ħtiġijiet ta’ politika emerġenti individwali, joperaw f'kundizzjonijiet differenti sew. Fl-2012 l-UE rranġat dan billi adottat sett komprensiv ta' prinċipji ta' gwida - \"strateġija komuni\" – biex tagħmel l-aġenziji aktar <strong>koerenti, effettivi u responsabbli</strong>.</p>             <p>Dan il-qafas il-ġdid kien ir-riżultat ta' analiżi ta' grupp ta' ħidma tal-UE dwar il-<strong>governanza, il-funzjonament u s-sorveljanza</strong> tal-aġenziji, ibbażat fuq għadd ta’ rapporti u studji, inkluż evalwazzjoni esterna komprensiva.</p>"
+      ],
+      "nl": [
+        "<p>Omdat de gedecentraliseerde agentschappen door de jaren heen apart zijn opgericht om allerlei redenen, hebben zij onder zeer uiteenlopende omstandigheden en volgens verschillende regels moeten werken. In 2012 heeft de EU de regels gestroomlijnd en zo gezorgd voor een \"gemeenschappelijke aanpak\" met meer <strong>coherentie, efficiëntie en verantwoording</strong>.</p>             <p>Dit was het resultaat van een analyse door een EU-werkgroep van de <strong>governance, werking en opzet </strong>van de agentschappen op basis van verslagen en studies, inclusief een uitgebreide externe evaluatie.</p>"
+      ],
+      "pl": [
+        "<p>Ponieważ zdecentralizowane agencje powoływane były osobno, w odpowiedzi na konkretne potrzeby, działają one w dość zróżnicowanych warunkach. W 2012 r. UE zaradziła tej sytuacji poprzez przyjęcie kompleksowych zasad przewodnich opartych na tzw. wspólnym podejściu, aby zapewnić większą <strong>spójność i efektywność funkcjonowania agencji oraz zwiększyć ich odpowiedzialność za podejmowane działania</strong>.</p>             <p>Nowe ramy działalności są wynikiem analizy dokonanej przez grupę roboczą ds. <strong>zarządzania agencjami oraz ich funkcjonowania i nadzorowania</strong> w oparciu o szereg sprawozdań i badań, w tym kompleksową ocenę zewnętrzną.</p>"
+      ],
+      "pt": [
+        "<p>Dado terem sido criadas uma a uma ao longo dos anos, consoante as necessidades políticas do momento, as agências descentralizadas têm funcionado em condições muito diferentes. Em 2012, a UE corrigiu esta situação com a adoção de um conjunto completo de princípios orientadores - uma «abordagem comum» - para reforçar a <strong>coerência, a eficácia e a responsabilização</strong> destas agências.</p>             <p>Este novo enquadramento resultou da análise levada a cabo pelo grupo de trabalho da UE sobre <strong>governação, funcionamento e supervisão</strong> das agências, feita com base em relatórios, estudos e numa avaliação externa exaustiva.</p>"
+      ],
+      "ro": [
+        "<p>Deoarece au fost create de-a lungul anilor, pentru a răspunde nevoilor politice individuale care apăreau la momentele respective, agențiile descentralizate au funcționat în condiții destul de diferite. În 2012, UE a corectat această situație adoptând un set complet de orientări, altfel spus o „abordare comună”, care să le permită agențiilor să își desfășoare activitățile în mod <strong>mai coerent, mai eficient și mai responsabil</strong>.</p>             <p>Acest nou cadru a fost rezultatul analizei efectuate de către un grup de lucru al UE în ceea ce privește <strong>guvernanța, funcționarea și supravegherea</strong> activității agențiilor, pe baza unor rapoarte și studii, inclusiv a unei ample evaluări externe.</p>"
+      ],
+      "sk": [
+        "<p>Keďže decentralizované agentúry boli postupne zriadené na individuálnom základe a podľa potreby reagovať na jednotlivé vznikajúce politické požiadavky, fungovali v rôznych podmienkach. V záujme posilnenia <strong>súdržnosti, účinnosti a zodpovednosti</strong> agentúr Európska únia v roku 2012 prijala komplexný súbor hlavných zásad nazvaný „Spoločný prístup“, aby medzi nimi odstránila najmarkantnejšie rozdiely.</p>             <p>Tento nový rámec bol výsledkom analýzy <strong>riadenia, fungovania a dohľadu</strong> založenej na niekoľkých správach, štúdiách a komplexných externých hodnoteniach, ktorú vypracovala pracovná skupina EÚ.</p>"
+      ],
+      "sl": [
+        "<p>Agencije so ustanavljali po potrebi in postopoma več let, da bi tako izpolnili različne politične potrebe, zato delujejo pod zelo različnimi pogoji. EU je leta 2012 sprejela celovit svežej smernic – poimenovan „skupni pristop“ – da bi odpravila te razlike in dosegla večjo <strong>usklajenost, učinkovitost in odgovornost</strong> agencij.</p>             <p>Novi pristop je posledica analize <strong>upravljanja, delovanja in nadzora</strong> nad agencijami, ki jo je na podlagi številnih poročil in študij, vključno s celovito zunanjo oceno, opravila delovna skupina EU.</p>"
+      ],
+      "sv": [
+        "<p>De decentraliserade byråerna har upprättats undan för undan för att tillgodose enskilda akuta politiska behov. De har därför verkat under skilda förutsättningar. År 2012 antog EU en rad vägledande principer för att göra byråerna mer <strong>enhetliga, effektiva och öppna för insyn</strong>.</p>             <p>De nya principerna bygger på resultaten från en arbetsgrupp som analyserat byråernas <strong>styrelseformer, drift och tillsyn</strong>. Analysen bygger i sin tur på flera rapporter och studier, bland annat en omfattande extern utvärdering.</p>"
+      ]
+    }
+  }
+}

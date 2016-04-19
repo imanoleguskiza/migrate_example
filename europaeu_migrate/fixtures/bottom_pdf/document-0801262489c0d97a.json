@@ -1,0 +1,423 @@
+{
+  "_id": "0801262489c0d97a",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-02-15 11:42:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        9
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/agr/thumb_agr_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/agr/thumb_agr_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/agr/thumb_agr_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/agr/thumb_agr_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/agr/thumb_agr_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/agr/thumb_agri_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/agr/thumb_agr_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/agr/thumb_agr_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/agr/thumb_agr_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/agr/thumb_agr_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/agr/thumb_agr_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/agr/thumb_agr_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/agr/thumb_agr_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/agr/thumb_agr_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/agr/thumb_agr_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/agr/thumb_agr_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/agr/thumb_agr_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/agr/thumb_agr_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/agr/thumb_agr_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/agr/thumb_agr_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/agr/thumb_agr_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/agr/thumb_agr_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/agr/thumb_agr_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/agr/thumb_agr_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Селско стопанство"
+      ],
+      "cs": [
+        "Zemědělství"
+      ],
+      "da": [
+        "Landbrug"
+      ],
+      "de": [
+        "Landwirtschaft "
+      ],
+      "el": [
+        "Γεωργία"
+      ],
+      "en": [
+        "Agriculture"
+      ],
+      "es": [
+        "Agricultura"
+      ],
+      "et": [
+        "Põllumajandus"
+      ],
+      "fi": [
+        "Maatalous"
+      ],
+      "fr": [
+        "Agriculture"
+      ],
+      "ga": [
+        "Talmhaíocht"
+      ],
+      "hr": [
+        "Poljoprivreda"
+      ],
+      "hu": [
+        "Mezőgazdasági politika"
+      ],
+      "it": [
+        "Agricoltura "
+      ],
+      "lt": [
+        "Žemės ūkis"
+      ],
+      "lv": [
+        "Lauksaimniecība"
+      ],
+      "mt": [
+        "Agrikoltura"
+      ],
+      "nl": [
+        "Landbouw"
+      ],
+      "pl": [
+        "Rolnictwo"
+      ],
+      "pt": [
+        "Agricultura"
+      ],
+      "ro": [
+        "Agricultură "
+      ],
+      "sk": [
+        "Poľnohospodárstvo"
+      ],
+      "sl": [
+        "Kmetijstvo"
+      ],
+      "sv": [
+        "Jordbruk"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Селско стопанство"
+      ],
+      "cs": [
+        "Zemědělství"
+      ],
+      "da": [
+        "Landbrug"
+      ],
+      "de": [
+        "Landwirtschaft "
+      ],
+      "el": [
+        "Γεωργία"
+      ],
+      "en": [
+        "Agriculture"
+      ],
+      "es": [
+        "Agricultura"
+      ],
+      "et": [
+        "Põllumajandus"
+      ],
+      "fi": [
+        "Maatalous"
+      ],
+      "fr": [
+        "Agriculture"
+      ],
+      "ga": [
+        "Talmhaíocht"
+      ],
+      "hr": [
+        "Poljoprivreda"
+      ],
+      "hu": [
+        "Mezőgazdasági politika"
+      ],
+      "it": [
+        "Agricoltura "
+      ],
+      "lt": [
+        "Žemės ūkis"
+      ],
+      "lv": [
+        "Lauksaimniecība"
+      ],
+      "mt": [
+        "Agrikoltura"
+      ],
+      "nl": [
+        "Landbouw"
+      ],
+      "pl": [
+        "Rolnictwo"
+      ],
+      "pt": [
+        "Agricultura"
+      ],
+      "ro": [
+        "Agricultură "
+      ],
+      "sk": [
+        "Poľnohospodárstvo"
+      ],
+      "sl": [
+        "Kmetijstvo"
+      ],
+      "sv": [
+        "Jordbruk"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през ноември 2014 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Rukopis aktualizován v Listopad 2014</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i november 2014</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Manuskript aktualisiert im November 2014</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto original actualizado en noviembre de 2014</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud november 2014</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty marraskuu 2014</p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit actualisé en novembre 2014</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\"><span>Arna thabhairt cothrom le dáta mí na Samhna 2014</span></p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u studeni 2014.</p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">A kézirat frissítve: 2014. november</p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Redazione aggiornata ad novembre 2014</p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2014 m. novembris mėn.</p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunināts 2014. gada novembris.</p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Manuskritt aġġornat f'Novembru 2014</p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Tekst bijgewerkt in november 2014</p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano w listopad 2014 r.</p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em novembro de 2014</p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în noiembrie 2014</p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol aktualizovaný v november 2014</p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen november 2014.</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterat i november 2014</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c3"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://europa.eu/pol/pdf/flipbook/bg/agriculture_bg.pdf"
+      ],
+      "cs": [
+        "http://europa.eu/pol/pdf/flipbook/cs/agriculture_cs.pdf"
+      ],
+      "da": [
+        "http://europa.eu/pol/pdf/flipbook/da/agriculture_da.pdf"
+      ],
+      "de": [
+        "http://europa.eu/pol/pdf/flipbook/de/agriculture_de.pdf"
+      ],
+      "el": [
+        "http://europa.eu/pol/pdf/flipbook/el/agriculture_el.pdf"
+      ],
+      "en": [
+        "http://europa.eu/pol/pdf/flipbook/en/agriculture_en.pdf"
+      ],
+      "es": [
+        "http://europa.eu/pol/pdf/flipbook/es/agriculture_es.pdf"
+      ],
+      "et": [
+        "http://europa.eu/pol/pdf/flipbook/et/agriculture_et.pdf"
+      ],
+      "fi": [
+        "http://europa.eu/pol/pdf/flipbook/fi/agriculture_fi.pdf"
+      ],
+      "fr": [
+        "http://europa.eu/pol/pdf/flipbook/fr/agriculture_fr.pdf"
+      ],
+      "ga": [
+        "http://europa.eu/pol/pdf/flipbook/ga/agriculture_ga.pdf"
+      ],
+      "hr": [
+        "http://europa.eu/pol/pdf/flipbook/hr/agriculture_hr.pdf"
+      ],
+      "hu": [
+        "http://europa.eu/pol/pdf/flipbook/hu/agriculture_hu.pdf"
+      ],
+      "it": [
+        "http://europa.eu/pol/pdf/flipbook/it/agriculture_it.pdf"
+      ],
+      "lt": [
+        "http://europa.eu/pol/pdf/flipbook/lt/agriculture_lt.pdf"
+      ],
+      "lv": [
+        "http://europa.eu/pol/pdf/flipbook/lv/agriculture_lv.pdf"
+      ],
+      "mt": [
+        "http://europa.eu/pol/pdf/flipbook/mt/agriculture_mt.pdf"
+      ],
+      "nl": [
+        "http://europa.eu/pol/pdf/flipbook/nl/agriculture_nl.pdf"
+      ],
+      "pl": [
+        "http://europa.eu/pol/pdf/flipbook/pl/agriculture_pl.pdf"
+      ],
+      "pt": [
+        "http://europa.eu/pol/pdf/flipbook/pt/agriculture_pt.pdf"
+      ],
+      "ro": [
+        "http://europa.eu/pol/pdf/flipbook/ro/agriculture_ro.pdf"
+      ],
+      "sk": [
+        "http://europa.eu/pol/pdf/flipbook/sk/agriculture_sk.pdf"
+      ],
+      "sl": [
+        "http://europa.eu/pol/pdf/flipbook/sl/agriculture_sl.pdf"
+      ],
+      "sv": [
+        "http://europa.eu/pol/pdf/flipbook/sv/agriculture_sv.pdf"
+      ]
+    }
+  }
+}

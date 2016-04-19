@@ -1,0 +1,201 @@
+{
+    "_id": "eeb0cbf22b1410c39fa080bd679b832f",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "pl",
+        "lt",
+        "fi",
+        "fr",
+        "et",
+        "sl",
+        "it",
+        "pt",
+        "ro",
+        "de",
+        "hu",
+        "mt",
+        "nl",
+        "ga",
+        "lv",
+        "bg",
+        "da",
+        "sv",
+        "cs",
+        "es",
+        "sk",
+        "el",
+        "hr",
+        "und"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2006-07-13 0:00:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                4
+            ]
+        },
+        "parent": {
+            "und": [
+                "ca12002690bab8dd174a906d8e1aa801"
+            ]
+        },
+        "level": {
+            "und": [
+                3
+            ]
+        },
+        "title": {
+            "bg": [
+                "Електронен адрес"
+            ],
+            "cs": [
+                "E-mail"
+            ],
+            "da": [
+                "E-mail"
+            ],
+            "de": [
+                "E-Mail"
+            ],
+            "el": [
+                "Ηλεκτρονικά μηνύματα"
+            ],
+            "und": [
+                "E-mail"
+            ],
+            "es": [
+                "Correo electrónico"
+            ],
+            "et": [
+                "E-post"
+            ],
+            "fi": [
+                "Sähköposti"
+            ],
+            "fr": [
+                "Courrier électronique"
+            ],
+            "ga": [
+                "Ríomhphost"
+            ],
+            "hr": [
+                "Adresa e-pošte"
+            ],
+            "hu": [
+                "Elektronikus levélváltás"
+            ],
+            "it": [
+                "E-mail"
+            ],
+            "lt": [
+                "E. paštas"
+            ],
+            "lv": [
+                "E-pasts"
+            ],
+            "mt": [
+                "L-email"
+            ],
+            "nl": [
+                "E-mail"
+            ],
+            "pl": [
+                "E-mail"
+            ],
+            "pt": [
+                "Correio eletrónico"
+            ],
+            "ro": [
+                "E-mail"
+            ],
+            "sk": [
+                "E-mailové otázky"
+            ],
+            "sl": [
+                "E-sporočila"
+            ],
+            "sv": [
+                "Mejla oss"
+            ]
+        },
+        "link": {
+            "bg": [
+                "contact/write-to-us"
+            ],
+            "cs": [
+                "contact/write-to-us"
+            ],
+            "da": [
+                "contact/write-to-us"
+            ],
+            "de": [
+                "contact/write-to-us"
+            ],
+            "el": [
+                "contact/write-to-us"
+            ],
+            "und": [
+                "contact/write-to-us"
+            ],
+            "es": [
+                "contact/write-to-us"
+            ],
+            "et": [
+                "contact/write-to-us"
+            ],
+            "fi": [
+                "contact/write-to-us"
+            ],
+            "fr": [
+                "contact/write-to-us"
+            ],
+            "ga": [
+                "contact/write-to-us"
+            ],
+            "hr": [
+                "contact/write-to-us"
+            ],
+            "hu": [
+                "contact/write-to-us"
+            ],
+            "it": [
+                "contact/write-to-us"
+            ],
+            "lt": [
+                "contact/write-to-us"
+            ],
+            "lv": [
+                "contact/write-to-us"
+            ],
+            "mt": [
+                "contact/write-to-us"
+            ],
+            "nl": [
+                "contact/write-to-us"
+            ],
+            "pl": [
+                "contact/write-to-us"
+            ],
+            "pt": [
+                "contact/write-to-us"
+            ],
+            "ro": [
+                "contact/write-to-us"
+            ],
+            "sk": [
+                "contact/write-to-us"
+            ],
+            "sl": [
+                "contact/write-to-us"
+            ],
+            "sv": [
+                "contact/write-to-us"
+            ]
+        }
+    }
+}

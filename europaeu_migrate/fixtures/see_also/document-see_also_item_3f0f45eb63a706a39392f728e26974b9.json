@@ -1,0 +1,495 @@
+{
+    "_id": "see_also_item_3f0f45eb63a706a39392f728e26974b9",
+    "type": "see_also_item",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Кой кой е в ЕИБ",
+                "Кой кой е в ЕИФ",
+                "Публикации на ЕИБ ",
+                "Новини и публикации на ЕИФ ",
+                "Работни места в ЕИБ ",
+                "Работни места в ЕИФ "
+            ],
+            "cs": [
+                "Kdo je kdo v EIB",
+                "Kdo je kdo v EIF",
+                "Publikace EIB ",
+                "Zprávy a publikace EIF ",
+                "Pracovní místa v EIB ",
+                "Pracovní místa v EIF "
+            ],
+            "da": [
+                "Hvem er hvem i EIB",
+                "Hvem er hvem i EIF",
+                "Publikationer fra EIB ",
+                "Nyheder og publikationer fra EIF ",
+                "Job i EIB ",
+                "Job i EIF "
+            ],
+            "de": [
+                "Wer ist wer in der EIB ",
+                "Wer ist wer im EIF ",
+                "EIB-Veröffentlichungen",
+                "EIF-Nachrichten und Veröffentlichungen  ",
+                "Stellenangebote in der EIB ",
+                "Stellenangebote im EIF  "
+            ],
+            "el": [
+                "Ποιος κάνει τι στην Ευρωπαϊκή Τράπεζα Επενδύσεων",
+                "Ποιος κάνει τι στο Ευρωπαϊκό Ταμείο Επενδύσεων",
+                "Εκδόσεις της Ευρωπαϊκής Τράπεζας Επενδύσεων ",
+                "Ειδήσεις και εκδόσεις του Ευρωπαϊκού Ταμείου Επενδύσεων ",
+                "Θέσεις εργασίας στην Ευρωπαϊκή Τράπεζα Επενδύσεων ",
+                "Θέσεις εργασίας στο Ευρωπαϊκό Ταμείο Επενδύσεων "
+            ],
+            "en": [
+                "Who's who in EIB",
+                "Who's who in EIF",
+                "EIB publications",
+                "EIF news and publications",
+                "Jobs in EIB",
+                "Jobs in EIF"
+            ],
+            "es": [
+                "Quién es quién en el BEI",
+                "Quién es quién en el FEI",
+                "Publicaciones del BEI ",
+                "Noticias y publicaciones del FEI ",
+                "Empleo en el BEI ",
+                "Empleo en el FEI "
+            ],
+            "et": [
+                "Kes on kes (EIP)",
+                "Kes on kes (EIF)",
+                "EIP väljaanded ",
+                "EIFi uudised ja väljaanded ",
+                "EIP töökohad ",
+                "EIFi töökohad "
+            ],
+            "fi": [
+                "EIP:n henkilöhakemisto",
+                "EIR:n henkilöhakemisto",
+                "EIP:n julkaisut ",
+                "EIR:n uutiset ja julkaisut ",
+                "Työpaikat EIP:ssä ",
+                "Työpaikat EIR:ssä "
+            ],
+            "fr": [
+                "Annuaire de la BEI",
+                "Annuaire du FEI",
+                "Publications de la BEI",
+                "Actualité et publications du FEI ",
+                "BEI – Recrutement ",
+                "FEI – Recrutement "
+            ],
+            "ga": [
+                "Cé hé cé i BEI",
+                "Cé hé cé sa Chiste Eorpach Infheistíochta (CEI)",
+                "Foilseacháin de chuid BEI ",
+                "Nuacht faoi CEI agus foilseacháin ",
+                "Poist i BEI ",
+                "Poist i CEI "
+            ],
+            "hr": [
+                "Tko je tko u EIB-u",
+                "Tko je tko u EIF-u",
+                "Publikacije EIB-a ",
+                "Novosti i publikacije EIF-a ",
+                "Poslovi u EIB-u ",
+                "Poslovi u EIF-u "
+            ],
+            "hu": [
+                "EBB: Whoiswho – az Európai Unió hivatalos név- és címjegyzéke",
+                "EBA: Whoiswho – az Európai Unió hivatalos név- és címjegyzéke",
+                "EBB: kiadványok ",
+                "EBA: hírek és kiadványok ",
+                "EBB: álláslehetőségek ",
+                "EBA: álláslehetőségek "
+            ],
+            "it": [
+                "Chi è chi nella BEI",
+                "Chi è chi nel FEI",
+                "Pubblicazioni della BEI ",
+                "Notizie e pubblicazioni del FEI  ",
+                "Offerte di lavoro presso la BEI ",
+                "Offerte di lavoro presso il FEI "
+            ],
+            "lt": [
+                "Kas yra kas EIB",
+                "Kas yra kas EIF",
+                "EIB leidiniai ",
+                "EIF naujienos ir leidiniai ",
+                "Galimybės įsidarbinti EIB ",
+                "Galimybės įsidarbinti EIF "
+            ],
+            "lv": [
+                "EIB kontaktinformācijas katalogs",
+                "EIF kontaktinformācijas katalogs",
+                "EIB publikācijas ",
+                "EIF jaunumi un publikācijas ",
+                "EIB vakances ",
+                "EIF vakances "
+            ],
+            "mt": [
+                "Min hu min fil-BEI",
+                "Min hu min fil-FEI",
+                "Pubblikazzjonijiet tal-BEI ",
+                "Aħbarijiet u pubblikazzjonijiet tal-FEI ",
+                "Impjiegi fil-BEI ",
+                "Impjiegi fil-FEI "
+            ],
+            "nl": [
+                "Wie is wie bij de EIB",
+                "Wie is wie bij het EIF",
+                "EU-publicaties ",
+                "EIF-nieuws en -publicaties ",
+                "Vacatures bij de EIB ",
+                "Vacatures bij het EIF "
+            ],
+            "pl": [
+                "Kto jest kim w EBI",
+                "Kto jest kim w EFI",
+                "Publikacje EBI ",
+                "Aktualności i publikacje EFI ",
+                "Praca w EBI ",
+                "Praca w EFI "
+            ],
+            "pt": [
+                "Quem é quem no BEI",
+                "Quem é quem no FEI",
+                "Publicações do BEI ",
+                "Notícias e publicações do FEI ",
+                "Emprego no BEI ",
+                "Emprego no FEI "
+            ],
+            "ro": [
+                "Anuarul BEI",
+                "Anuarul FEI",
+                "Publicațiile BEI ",
+                "Actualități și publicații FEI ",
+                "Posturi vacante - BEI ",
+                "Posturi vacante - FEI "
+            ],
+            "sk": [
+                "Kto je kto v EIB",
+                "Kto je kto v EIF",
+                "Publikácie EIB ",
+                "EIF – správy a publikácie ",
+                "Pracovné miesta v EIB ",
+                "Pracovné miesta v EIF "
+            ],
+            "sl": [
+                "Kdo je kdo (EIB)",
+                "Kdo je kdo (EIS)",
+                "Publikacije (EIB) ",
+                "Novice in publikacije (EIS) ",
+                "Zaposlitev (EIB) ",
+                "Zaposlitev (EIS) "
+            ],
+            "sv": [
+                "Sök person hos EIB",
+                "Sök person hos EIF",
+                "EIB-publikationer ",
+                "EIF-nyheter och publikationer ",
+                "Lediga jobb hos EIB ",
+                "Lediga jobb hos EIF "
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=bg",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=bg",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "cs": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=cs",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=cs",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "da": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=da",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=da",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "de": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=de",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=de",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=de",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=de",
+                "http://www.eif.org/jobs"
+            ],
+            "el": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=el",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=el",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "en": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=en",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=en",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "es": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=es",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=es",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "et": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=et",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=et",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "fi": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=fi",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=fi",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "fr": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=fr",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=fr",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=fr",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=fr",
+                "http://www.eif.org/jobs"
+            ],
+            "ga": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=ga",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=ga",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "hr": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=hr",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=hr",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "hu": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=hu",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=hu",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "it": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=it",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=it",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "lt": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=lt",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=lt",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "lv": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=lv",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=lv",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "mt": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=mt",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=mt",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "nl": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=nl",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=nl",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "pl": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=pl",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=pl",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "pt": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=pt",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=pt",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "ro": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=ro",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=ro",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "sk": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=sk",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=sk",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "sl": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=sl",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=sl",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ],
+            "sv": [
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50865&lang=sv",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50875&lang=sv",
+                "http://www.eib.org/infocentre/publications/index.htm?lang=en",
+                "http://www.eif.europa.eu/news_centre/index.htm",
+                "http://www.eib.org/about/jobs/index.htm?lang=en",
+                "http://www.eif.org/jobs"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Европейска инвестиционна банка (ЕИБ)"
+            ],
+            "cs": [
+                "Evropská investiční banka (EIB)"
+            ],
+            "da": [
+                "Den Europæiske Investeringsbank (EIB)"
+            ],
+            "de": [
+                "Europäische Investitionsbank (EIB)"
+            ],
+            "el": [
+                "Ευρωπαϊκή Τράπεζα Επενδύσεων (ΕΤΕ)"
+            ],
+            "en": [
+                "European Investment Bank (EIB)"
+            ],
+            "es": [
+                "Banco Europeo de Inversiones (BEI)"
+            ],
+            "et": [
+                "Euroopa Investeerimispank"
+            ],
+            "fi": [
+                "Euroopan investointipankki (EIP)"
+            ],
+            "fr": [
+                "Banque européenne d'investissement (BEI)"
+            ],
+            "ga": [
+                "An Banc Eorpach Infheistíochta (BEI)"
+            ],
+            "hr": [
+                "Europska investicijska banka (EIB)"
+            ],
+            "hu": [
+                "Európai Beruházási Bank (EBB)"
+            ],
+            "it": [
+                "Banca europea per gli investimenti (BEI)"
+            ],
+            "lt": [
+                "Europos investicijų bankas (EIB)"
+            ],
+            "lv": [
+                "Eiropas Investīciju banka (EIB)"
+            ],
+            "mt": [
+                "Il-Bank Ewropew tal-Investiment (BEI)"
+            ],
+            "nl": [
+                "Europese Investeringsbank (EIB)"
+            ],
+            "pl": [
+                "Europejski Bank Inwestycyjny (EBI)"
+            ],
+            "pt": [
+                "Banco Europeu de Investimento (BEI)"
+            ],
+            "ro": [
+                "Banca Europeană de Investiții (BEI)"
+            ],
+            "sk": [
+                "Európska investičná banka (EIB)"
+            ],
+            "sl": [
+                "Evropska investicijska banka (EIB)"
+            ],
+            "sv": [
+                "Europeiska investeringsbanken"
+            ]
+        }
+    }
+}

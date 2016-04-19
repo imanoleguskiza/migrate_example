@@ -1,0 +1,220 @@
+{
+  "_id": "080126248e077084",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e077084",
+        "080126248e077084",
+        "080126248e077084",
+        "080126248e077084"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска агенция за задълбочаване на сътрудничеството в областта на правосъдието(Евроюст)"
+      ],
+      "cs": [
+        "Evropská jednotka pro justiční spolupráci(Eurojust)"
+      ],
+      "da": [
+        "EU's Enhed for Retligt Samarbejde(Eurojust)"
+      ],
+      "de": [
+        "Einheit für justizielle Zusammenarbeit der Europäischen Union(Eurojust)"
+      ],
+      "el": [
+        "H Μονάδα Δικαστικής Συνεργασίας της Ευρωπαϊκής Ένωσης(Eurojust)"
+      ],
+      "en": [
+        "The European Union's Judicial Cooperation Unit(Eurojust)"
+      ],
+      "es": [
+        "Unidad de Cooperación Judicial de la Unión Europea(Eurojust)"
+      ],
+      "et": [
+        "Euroopa Liidu õigusalase koostöö üksus(Eurojust)"
+      ],
+      "fi": [
+        "Euroopan oikeudellisen yhteistyön yksikkö(Eurojust)"
+      ],
+      "fr": [
+        "L'unité de coopération judiciaire de l'Union européenne(Eurojust)"
+      ],
+      "ga": [
+        "An tAonad Eorpach um Chomhar Breithiúnach(Eurojust)"
+      ],
+      "hr": [
+        "Jedinica Europske unije za pravosudnu suradnju(Eurojust)"
+      ],
+      "hu": [
+        "Az Európai Unió Igazságügyi Együttműködési Egysége(Eurojust)"
+      ],
+      "it": [
+        "Unità di cooperazione giudiziaria dell'Unione europea(Eurojust)"
+      ],
+      "lt": [
+        "Europos teisinio bendradarbiavimo institucija(Eurojust)"
+      ],
+      "lv": [
+        "Eiropas Savienības Tiesu iestāžu sadarbības struktūrvienība(Eurojust)"
+      ],
+      "mt": [
+        "l-Unità ta' Kooperazzjoni Ġudizzjarja ta' l-Unjoni Ewropea(Eurojust)"
+      ],
+      "nl": [
+        "Eurojust, het EU-agentschap voor justitiële samenwerking(Eurojust)"
+      ],
+      "pl": [
+        "Zespół ds. Współpracy Sądowej w Unii Europejskiej(Eurojust)"
+      ],
+      "pt": [
+        "Unidade Europeia de Cooperação Judiciária(Eurojust)"
+      ],
+      "ro": [
+        "Unitatea Europeană de Cooperare Judiciară(Eurojust)"
+      ],
+      "sk": [
+        "Jednotka pre súdnu spoluprácu Európskej únie(Eurojust)"
+      ],
+      "sl": [
+        "Urad za evropsko pravosodno sodelovanje(Eurojust)"
+      ],
+      "sv": [
+        "EU:s enhet för rättsligt samarbete(Eurojust)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/eurojust_logo.gif"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Maanweg 174</p> <p>NL-2516 AB Den Haag</p> <p>Nederland</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+31 70 412 50 00"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+31 70 412 50 05"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:info@eurojust.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact EUROJUST"
+      ]
+    }
+  }
+}

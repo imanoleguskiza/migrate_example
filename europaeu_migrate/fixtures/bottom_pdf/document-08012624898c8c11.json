@@ -1,0 +1,423 @@
+{
+  "_id": "08012624898c8c11",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "cs",
+    "bg",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-03-26 9:30:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        5
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/cons/thumb_cons_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/cons/thumb_cons_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/cons/thumb_cons_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/cons/thumb_cons_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/cons/thumb_cons_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/thumb_cons.png"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/cons/thumb_cons_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/cons/thumb_cons_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/cons/thumb_cons_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/cons/thumb_cons_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/cons/thumb_cons_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/cons/thumb_cons_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/cons/thumb_cons_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/cons/thumb_cons_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/cons/thumb_cons_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/cons/thumb_cons_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/cons/thumb_cons_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/cons/thumb_cons_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/cons/thumb_cons_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/cons/thumb_cons_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/cons/thumb_cons_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/cons/thumb_cons_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/cons/thumb_cons_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/cons/thumb_cons_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Потребители"
+      ],
+      "cs": [
+        "Spotřebitelé"
+      ],
+      "da": [
+        "Forbrugere"
+      ],
+      "de": [
+        "Verbraucher"
+      ],
+      "el": [
+        "Καταναλωτές"
+      ],
+      "en": [
+        "Consumers"
+      ],
+      "es": [
+        "Consumidores"
+      ],
+      "et": [
+        "Tarbijad"
+      ],
+      "fi": [
+        "Kuluttajat"
+      ],
+      "fr": [
+        "Consommateurs"
+      ],
+      "ga": [
+        "Tomhaltóirí"
+      ],
+      "hr": [
+        "Potrošači"
+      ],
+      "hu": [
+        "Fogyasztói ügyek"
+      ],
+      "it": [
+        "Consumatori"
+      ],
+      "lt": [
+        "Vartotojai"
+      ],
+      "lv": [
+        "Patērētāju aizsardzība"
+      ],
+      "mt": [
+        "Konsumaturi"
+      ],
+      "nl": [
+        "Consumenten"
+      ],
+      "pl": [
+        "Konsumenci"
+      ],
+      "pt": [
+        "Consumidores"
+      ],
+      "ro": [
+        "Consumatori"
+      ],
+      "sk": [
+        "Spotrebitelia"
+      ],
+      "sl": [
+        "Potrošniki"
+      ],
+      "sv": [
+        "Konsumentskydd"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Потребители"
+      ],
+      "cs": [
+        "Spotřebitelé"
+      ],
+      "da": [
+        "Forbrugere"
+      ],
+      "de": [
+        "Verbraucher"
+      ],
+      "el": [
+        "Καταναλωτές"
+      ],
+      "en": [
+        "Consumers"
+      ],
+      "es": [
+        "Consumidores"
+      ],
+      "et": [
+        "Tarbijad"
+      ],
+      "fi": [
+        "Kuluttajat"
+      ],
+      "fr": [
+        "Consommateurs"
+      ],
+      "ga": [
+        "Tomhaltóirí"
+      ],
+      "hr": [
+        "Potrošači"
+      ],
+      "hu": [
+        "Fogyasztói ügyek"
+      ],
+      "it": [
+        "Consumatori"
+      ],
+      "lt": [
+        "Vartotojai"
+      ],
+      "lv": [
+        "Patērētāju aizsardzība"
+      ],
+      "mt": [
+        "Konsumaturi"
+      ],
+      "nl": [
+        "Consumenten"
+      ],
+      "pl": [
+        "Konsumenci"
+      ],
+      "pt": [
+        "Consumidores"
+      ],
+      "ro": [
+        "Consumatori"
+      ],
+      "sk": [
+        "Spotrebitelia"
+      ],
+      "sl": [
+        "Potrošniki"
+      ],
+      "sv": [
+        "Konsumentskydd"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през ноември 2014 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Rukopis dokončen v listopadu 2014</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p></div>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i november 2014</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Letzte Aktualisierung: November 2014</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριο του 2014.</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript updated in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto original actualizado en noviembre de 2014</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud novembris 2014</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty marraskuussa 2014</p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit mis à jour en novembre 2014</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt cothrom le dáta mí na Samhna 2014</p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u studenome 2014.</p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Kézirat frissítve: 2014 novemberében</p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p></div>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Ultimo aggiornamento: novembre 2014</p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2014 m. lapkričio mėn.</p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunināts 2014. gada novembrī.</p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Manuskritt aġġornat f'Novembru 2014</p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Manuscript voltooid in november 2014</p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano w czerwcu 2014 r.</p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em novembro de 2014</p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în noiembrie 2014</p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol dokončený v novembri 2014</p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Rokopis je bil posodobljen novembra 2014.</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p></div>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterades i november 2014</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c8"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://europa.eu/pol/pdf/flipbook/bg/consumer_bg.pdf"
+      ],
+      "cs": [
+        "http://europa.eu/pol/pdf/flipbook/cs/consumer_cs.pdf"
+      ],
+      "da": [
+        "http://europa.eu/pol/pdf/flipbook/da/consumer_da.pdf"
+      ],
+      "de": [
+        "http://europa.eu/pol/pdf/flipbook/de/consumer_de.pdf"
+      ],
+      "el": [
+        "http://europa.eu/pol/pdf/flipbook/el/consumer_el.pdf"
+      ],
+      "en": [
+        "http://europa.eu/pol/pdf/flipbook/en/consumer_en.pdf"
+      ],
+      "es": [
+        "http://europa.eu/pol/pdf/flipbook/es/consumer_es.pdf"
+      ],
+      "et": [
+        "http://europa.eu/pol/pdf/flipbook/et/consumer_et.pdf"
+      ],
+      "fi": [
+        "http://europa.eu/pol/pdf/flipbook/fi/consumer_fi.pdf"
+      ],
+      "fr": [
+        "http://europa.eu/pol/pdf/flipbook/fr/consumer_fr.pdf"
+      ],
+      "ga": [
+        "http://europa.eu/pol/pdf/flipbook/ga/consumer_ga.pdf"
+      ],
+      "hr": [
+        "http://europa.eu/pol/pdf/flipbook/hr/consumer_hr.pdf"
+      ],
+      "hu": [
+        "http://europa.eu/pol/pdf/flipbook/hu/consumer_hu.pdf"
+      ],
+      "it": [
+        "http://europa.eu/pol/pdf/flipbook/it/consumer_it.pdf"
+      ],
+      "lt": [
+        "http://europa.eu/pol/pdf/flipbook/lt/consumer_lt.pdf"
+      ],
+      "lv": [
+        "http://europa.eu/pol/pdf/flipbook/lv/consumer_lv.pdf"
+      ],
+      "mt": [
+        "http://europa.eu/pol/pdf/flipbook/mt/consumer_mt.pdf"
+      ],
+      "nl": [
+        "http://europa.eu/pol/pdf/flipbook/nl/consumer_nl.pdf"
+      ],
+      "pl": [
+        "http://europa.eu/pol/pdf/flipbook/pl/consumer_pl.pdf"
+      ],
+      "pt": [
+        "http://europa.eu/pol/pdf/flipbook/pt/consumer_pt.pdf"
+      ],
+      "ro": [
+        "http://europa.eu/pol/pdf/flipbook/ro/consumer_ro.pdf"
+      ],
+      "sk": [
+        "http://europa.eu/pol/pdf/flipbook/sk/consumer_sk.pdf"
+      ],
+      "sl": [
+        "http://europa.eu/pol/pdf/flipbook/sl/consumer_sl.pdf"
+      ],
+      "sv": [
+        "http://europa.eu/pol/pdf/flipbook/sv/consumer_sv.pdf"
+      ]
+    }
+  }
+}

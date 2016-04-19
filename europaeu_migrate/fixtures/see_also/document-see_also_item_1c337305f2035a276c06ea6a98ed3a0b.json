@@ -1,0 +1,495 @@
+{
+    "_id": "see_also_item_1c337305f2035a276c06ea6a98ed3a0b",
+    "type": "see_also_item",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Може ли да ви помогне омбудсманът?",
+                "Подаване на жалба",
+                "Публикации",
+                "Национални омбудсмани",
+                "Работни места",
+                "Кой кой е"
+            ],
+            "cs": [
+                "Spadá vaše stížnost do kompetence ochránce práv?",
+                "Podat stížnost",
+                "Publikace",
+                "Veřejní ochránci práv v jednotlivých státech EU",
+                "Pracovní místa",
+                "Kdo je kdo"
+            ],
+            "da": [
+                "Kan Ombudsmanden hjælpe dig?",
+                "Indgiv en klage",
+                "Publikationer",
+                "National ombudsmand",
+                "Job",
+                "Hvem er hvem?"
+            ],
+            "de": [
+                "Konnte der/die Bürgerbeauftragte Ihnen helfen? ",
+                "Reichen Sie eine Beschwerde ein‏",
+                "Veröffentlichungen",
+                "Bürgerbeauftragte der EU-Länder ",
+                "Stellenangebote ",
+                "Wer ist wer"
+            ],
+            "el": [
+                "Μπορεί να σας βοηθήσει ο Διαμεσολαβητής;",
+                "Υποβολή καταγγελίας",
+                "Εκδόσεις",
+                "Εθνικοί διαμεσολαβητές",
+                "Θέσεις εργασίας",
+                "Επίσημος κατάλογος της ΕΕ"
+            ],
+            "en": [
+                "Could the Ombudsman help you?",
+                "Lodge a complaint",
+                "Publications",
+                "National ombudsmen",
+                "Jobs",
+                "Who's who"
+            ],
+            "es": [
+                "¿Puede ayudarte el Defensor del Pueblo Europeo?",
+                "Presentar una reclamación",
+                "Publicaciones",
+                "Defensores del Pueblo nacionales",
+                "Ofertas de empleo",
+                "Quién es quién"
+            ],
+            "et": [
+                "Kas ombudsman saab Teid aidata?",
+                "Esitage kaebus",
+                "Väljaanded",
+                "Riiklikud ombudsmanid",
+                "Töökohad",
+                "Kes on kes?"
+            ],
+            "fi": [
+                "Voiko oikeusasiamies auttaa sinua?",
+                "Tee kantelu",
+                "Julkaisut",
+                "Kansalliset oikeusasiamiehet",
+                "Työpaikat",
+                "Henkilöhakemisto"
+            ],
+            "fr": [
+                "Le Médiateur peut-il vous aider?",
+                "Déposer une plainte",
+                "Publications",
+                "Médiateurs nationaux",
+                "Recrutement",
+                "Annuaire des institutions"
+            ],
+            "ga": [
+                "An bhféadfadh an tOmbudsman cuidiú leatsa?",
+                "Gearán a thaisceadh",
+                "Foilseacháin",
+                "Oifigí ombudsman náisiúnta",
+                "Poist",
+                "Cé hé cé"
+            ],
+            "hr": [
+                "Može li vam Ombudsman pomoći?",
+                "Podnesite pritužbu",
+                "Publikacije",
+                "Nacionalni pučki pravobranitelji",
+                "Poslovi",
+                "Tko je tko"
+            ],
+            "hu": [
+                "Segíthet-e Önnek az európai ombudsman?",
+                "Panasz benyújtása",
+                "Kiadványok",
+                "Nemzeti ombudsmanok",
+                "Álláslehetőségek, gyakornoki állások",
+                "Whoiswho – az Európai Unió hivatalos név- és címjegyzéke"
+            ],
+            "it": [
+                "Il Mediatore può aiutarvi?",
+                "Presentare una denuncia",
+                "Pubblicazioni",
+                "Mediatore nazionale (difensore civico)",
+                "Offerte di lavoro",
+                "Chi è chi"
+            ],
+            "lt": [
+                "Ar ombudsmenas gali jums padėti?",
+                "Skundo teikimas",
+                "Leidiniai",
+                "Nacionalinis ombudsmenas",
+                "Galimybės įsidarbinti",
+                "Kas yra kas"
+            ],
+            "lv": [
+                "Kā Eiropas Ombuds var jums palīdzēt",
+                "Iesniedziet sūdzību",
+                "Publikācijas",
+                "Dalībvalstu tiesībsargi",
+                "Vakances",
+                "ES iestāžu kontaktinformācijas katalogs"
+            ],
+            "mt": [
+                "L-Ombudsman jista’ jgħinek?",
+                "Ressaq ilment",
+                "Pubblikazzjonijiet",
+                "Ombudsman nazzjonali",
+                "Impjiegi",
+                "Min hu min"
+            ],
+            "nl": [
+                "Kon de Ombudsman u helpen?",
+                "Een klacht indienen",
+                "Publicaties",
+                "Nationale ombudsman",
+                "Vacatures",
+                "Wie is wie bij de EU"
+            ],
+            "pl": [
+                "Czy Rzecznik Praw Obywatelskich może mi pomóc?",
+                "Złóż skargę",
+                "Publikacje",
+                "Krajowi rzecznicy praw obywatelskich",
+                "Oferty zatrudnienia",
+                "Organizacyjna baza danych UE (Kto jest kim w UE) "
+            ],
+            "pt": [
+                "Será que o Provedor de Justiça Europeu o pode ajudar?",
+                "Apresentar uma queixa",
+                "Publicações",
+                "Provedores de Justiça nos países da UE",
+                "Emprego",
+                "Quem é quem"
+            ],
+            "ro": [
+                "Ombudsmanul vă poate ajuta?",
+                "Înaintarea unei plângeri",
+                "Publicații",
+                "Mediatori naționali",
+                "Posturi vacante",
+                "Anuar"
+            ],
+            "sk": [
+                "Môže vám pomôcť ombudsman?",
+                "Podanie sťažnosti",
+                "Publikácie",
+                "Ombudsmani v jednotlivých krajinách",
+                "Pracovné miesta",
+                "Kto je kto"
+            ],
+            "sl": [
+                "Spletišče evropskega varuha človekovih pravic",
+                "Vložitev pritožbe",
+                "Publikacije",
+                "Nacionalni varuhi človekovih pravic",
+                "Zaposlitev",
+                "Kdo je kdo"
+            ],
+            "sv": [
+                "Kan ombudsmannen hjälpa dig?",
+                "Lämna in ett klagomål",
+                "Publikationer",
+                "Nationella ombudsmän",
+                "Lediga jobb",
+                "Sök person"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://www.ombudsman.europa.eu/bg/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/bg/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/bg/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/bg/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/bg/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=bg"
+            ],
+            "cs": [
+                "http://www.ombudsman.europa.eu/cs/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/cs/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/cs/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/cs/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/cs/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=cs"
+            ],
+            "da": [
+                "http://www.ombudsman.europa.eu/da/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/da/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/da/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/da/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/da/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=da"
+            ],
+            "de": [
+                "http://www.ombudsman.europa.eu/de/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/de/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/de/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/de/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/de/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=de"
+            ],
+            "el": [
+                "http://www.ombudsman.europa.eu/el/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/el/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/el/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/el/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/el/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=el"
+            ],
+            "en": [
+                "http://www.ombudsman.europa.eu/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/en/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/en/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/en/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=en"
+            ],
+            "es": [
+                "http://www.ombudsman.europa.eu/es/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/es/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/es/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/es/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/es/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=es"
+            ],
+            "et": [
+                "http://www.ombudsman.europa.eu/et/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/et/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/et/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/et/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/et/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=et"
+            ],
+            "fi": [
+                "http://www.ombudsman.europa.eu/fi/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/fi/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/fi/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/fi/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/fi/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=fi"
+            ],
+            "fr": [
+                "http://www.ombudsman.europa.eu/fr/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/fr/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/fr/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/fr/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/fr/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=fr"
+            ],
+            "ga": [
+                "http://www.ombudsman.europa.eu/ga/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/ga/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/ga/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/ga/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/ga/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=ga"
+            ],
+            "hr": [
+                "http://www.ombudsman.europa.eu/hr/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/hr/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/hr/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/hr/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/hr/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=hr"
+            ],
+            "hu": [
+                "http://www.ombudsman.europa.eu/hu/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/hu/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/hu/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/hu/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/hu/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=hu"
+            ],
+            "it": [
+                "http://www.ombudsman.europa.eu/it/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/it/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/it/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/it/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/it/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=it"
+            ],
+            "lt": [
+                "http://www.ombudsman.europa.eu/lt/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/lt/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/lt/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/lt/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/lt/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=lt"
+            ],
+            "lv": [
+                "http://www.ombudsman.europa.eu/lv/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/lv/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/lv/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/lv/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/lv/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=lv"
+            ],
+            "mt": [
+                "http://www.ombudsman.europa.eu/mt/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/mt/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/mt/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/mt/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/mt/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=mt"
+            ],
+            "nl": [
+                "http://www.ombudsman.europa.eu/nl/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/nl/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/nl/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/nl/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/nl/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=nl"
+            ],
+            "pl": [
+                "http://www.ombudsman.europa.eu/pl/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/pl/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/pl/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/pl/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/pl/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=pl"
+            ],
+            "pt": [
+                "http://www.ombudsman.europa.eu/pt/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/pt/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/pt/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/pt/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/pt/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=pt"
+            ],
+            "ro": [
+                "http://www.ombudsman.europa.eu/ro/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/ro/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/ro/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/ro/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/ro/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=ro"
+            ],
+            "sk": [
+                "http://www.ombudsman.europa.eu/sk/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/sk/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/sk/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/sk/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/sk/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=sk"
+            ],
+            "sl": [
+                "http://www.ombudsman.europa.eu/sl/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/sl/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/sl/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/sl/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/sl/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=sl"
+            ],
+            "sv": [
+                "http://www.ombudsman.europa.eu/sv/atyourservice/couldhehelpyou.faces",
+                "http://www.ombudsman.europa.eu/sv/atyourservice/interactiveguide.faces",
+                "http://bookshop.europa.eu/sv/the-european-ombudsman-cb.SAKABst2ooAAAEj84cY4e5K/",
+                "http://www.ombudsman.europa.eu/sv/atyourservice/nationalombudsmen.faces",
+                "http://www.ombudsman.europa.eu/sv/atyourservice/recruitment.faces",
+                "http://europa.eu/whoiswho/public/index.cfm?fuseaction=idea.hierarchy&nodeID=50876&lang=sv"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Европейски омбудсман"
+            ],
+            "cs": [
+                "Evropský veřejný ochránce práv"
+            ],
+            "da": [
+                "Den europæiske ombudsmand"
+            ],
+            "de": [
+                "Europäischer Bürgerbeauftragter"
+            ],
+            "el": [
+                "Ευρωπαίος Διαμεσολαβητής"
+            ],
+            "en": [
+                "European Ombudsman"
+            ],
+            "es": [
+                "Defensor del Pueblo Europeo"
+            ],
+            "et": [
+                "Euroopa Ombudsman"
+            ],
+            "fi": [
+                "Euroopan oikeusasiamies"
+            ],
+            "fr": [
+                "Médiateur européen"
+            ],
+            "ga": [
+                "An tOmbudsman Eorpach"
+            ],
+            "hr": [
+                "Europski ombudsman"
+            ],
+            "hu": [
+                "Európai ombudsman"
+            ],
+            "it": [
+                "Mediatore europeo"
+            ],
+            "lt": [
+                "Europos ombudsmenas"
+            ],
+            "lv": [
+                "Eiropas Ombuds"
+            ],
+            "mt": [
+                "L-Ombudsman Ewropew"
+            ],
+            "nl": [
+                "Europese Ombudsman"
+            ],
+            "pl": [
+                "Europejski Rzecznik Praw Obywatelskich"
+            ],
+            "pt": [
+                "Provedor de Justiça Europeu"
+            ],
+            "ro": [
+                "Ombudsmanul European"
+            ],
+            "sk": [
+                "Európsky ombudsman"
+            ],
+            "sl": [
+                "Evropski varuh človekovih pravic"
+            ],
+            "sv": [
+                "Europeiska ombudsmannen"
+            ]
+        }
+    }
+}

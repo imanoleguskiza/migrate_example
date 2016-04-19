@@ -1,0 +1,447 @@
+{
+  "_id": "080126248e0772dd",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e0772dd",
+        "080126248e0772dd",
+        "080126248e0772dd",
+        "080126248e0772dd",
+        "080126248e0772dd",
+        "080126248e0772dd",
+        "080126248e0772dd"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Съд на Европейския съюз"
+      ],
+      "cs": [
+        "Soudní dvůr Evropské unie"
+      ],
+      "da": [
+        "Den Europæiske Unions Domstol"
+      ],
+      "de": [
+        "Gerichtshof der Europäischen Union"
+      ],
+      "el": [
+        "Δικαστήριο της Ευρωπαϊκής Ένωσης"
+      ],
+      "en": [
+        "Court of Justice of the European Union"
+      ],
+      "es": [
+        "Tribunal de Justicia de la Unión Europea"
+      ],
+      "et": [
+        "Euroopa Liidu Kohus"
+      ],
+      "fi": [
+        "Euroopan unionin tuomioistuin"
+      ],
+      "fr": [
+        "Cour de justice de l'Union européenne"
+      ],
+      "ga": [
+        "Cúirt Bhreithiúnais an Aontais Eorpaigh"
+      ],
+      "hr": [
+        "Sud pravde Europske unije"
+      ],
+      "hu": [
+        "az Európai Unió Bírósága"
+      ],
+      "it": [
+        "Corte di giustizia dell'Unione europea"
+      ],
+      "lt": [
+        "Europos Sąjungos Teisingumo Teismas"
+      ],
+      "lv": [
+        "Eiropas Savienības Tiesa"
+      ],
+      "mt": [
+        "il-Qorti tal-Ġustizzja tal-Unjoni Ewropea"
+      ],
+      "nl": [
+        "Hof van Justitie van de Europese Unie"
+      ],
+      "pl": [
+        "Trybunał Sprawiedliwości Unii Europejskiej"
+      ],
+      "pt": [
+        "Tribunal de Justiça da União Europeia"
+      ],
+      "ro": [
+        "Curtea de Justiţie a Uniunii Europene"
+      ],
+      "sk": [
+        "Súdny dvor Európskej únie"
+      ],
+      "sl": [
+        "Sodišče Evropske unije"
+      ],
+      "sv": [
+        "Europeiska unionens domstol"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/court_of_justice.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Palais de la Cour de Justice</p> <p>Boulevard Konrad Adenauer</p> <p>Kirchberg</p> <p>L-2925 Luxembourg</p> <p>Luxembourg</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+352 4303 1"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+352 4303 2600"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "http://curia.europa.eu/jcms/jcms/T5_5133/"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact"
+      ]
+    },
+    "visit": {
+      "bg": [
+        "<p>Вид посещение: учебно посещение, информационна сесия, семинар, открито съдебно заседание</p> <p>Минимален размер на групата: 7 души (с изключение на откритите съдебни заседания)</p> <p>Отделни посетители: Само за открити съдебни заседания</p> <p>Изискване за предварителна резервация: Групи: 6 месеца (с изключение на откритите съдебни заседания). Отделни посетители: 15 минути преди откритото съдебно заседание</p> <p>Минимална възраст на посетителите 18 години</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Посетете Съда на Европейския съюз</a></p>"
+      ],
+      "cs": [
+        "<p>Typ návštěvy: studijní návštěva, informační prohlídka, seminář, účast na veřejném slyšení</p> <p>Minimální velikost skupiny: 7 osob (s výjimkou účasti na veřejném slyšení)</p> <p>Návštěvy pro jednotlivce: Pouze účast na veřejných slyšeních</p> <p>Povinná rezervace: Skupiny: 6 měsíců předem (s výjimkou účasti na veřejném slyšení). Jednotlivci: 15 minut před zahájením veřejného slyšení</p> <p>Minimální věk návštěvníků: 18 let</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Soudní dvůr Evropské unie – návštěvy pro veřejnost</a></p>"
+      ],
+      "da": [
+        "<p>Former for besøg: Studiebesøg, informationsbesøg, seminarer, offentlige retsmøder</p> <p>Minimumstørrelse på gruppe: 7 personer (bortset fra ved offentlige retsmøder)</p> <p>Enkeltpersoner: Kun ved offentlige retsmøder</p> <p>Krav om forudbestilling: Grupper: 6 måneder (bortset fra ved offentlige retsmøder)<span>. </span>Enkeltpersoner: 15 minutter inden det offentlige retsmøde</p> <p>Minimumsalder på besøgende: 18 år</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Besøg Den Europæiske Unions Domstol</a></p>"
+      ],
+      "de": [
+        "<p>Art des Besuchs: Studienbesuch, Informationsbesuch, Seminar, öffentliche Anhörung</p> <p>Mindestteilnehmerzahl: Sieben Personen (außer öffentliche Anhörungen)</p> <p>Einzelbesucher: Nur öffentliche Anhörungen</p> <p>Anmeldung: Gruppen: Sechs Monate im Voraus (außer öffentliche Anhörungen). Einzelbesucher: 15 Minuten vor der öffentlichen Anhörung</p> <p>Mindestalter der Besucher: 18 Jahre</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Besuchen Sie den Gerichtshof der Europäischen Union</a></p>"
+      ],
+      "el": [
+        "<p>Είδη επισκέψεων: επισκέψεις μελέτης, ενημερωτικές επισκέψεις, σεμινάρια, δημόσιες ακροάσεις</p> <p>Ελάχιστο μέγεθος ομάδας επισκεπτών: 7 άτομα (πλην των δημόσιων ακροάσεων)</p> <p>Μεμονωμένοι επισκέπτες: Μόνον για δημόσιες ακροάσεις</p> <p>Υποχρέωση κράτησης: Ομαδικές επισκέψεις: 6 μήνες νωρίτερα (πλην των δημόσιων ακροάσεων). Μεμονωμένοι επισκέπτες: 15 λεπτά πριν από τη δημόσια ακρόαση.</p> <p>Κατώτατο όριο ηλικίας επισκεπτών: 18 ετών</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Επισκεφθείτε το Δικαστήριο της Ευρωπαϊκής Ένωσης</a></p>"
+      ],
+      "en": [
+        "<p>Type of visit: Study visit, information session, seminar, public hearing</p> <p>Minimum size of group: 7 people (except for public hearings)</p> <p>Individual visitors: Only for public hearings</p> <p>Advance booking requirement: Groups: 6 months (except for public hearings)<span>. </span>Individual visitors: 15 minutes prior to public hearing</p> <p>Minimum age of visitors: 18 years old</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Visit the Court of Justice of the European Union</a></p>"
+      ],
+      "es": [
+        "<p>Tipo de visita: Visita de estudio, visita de información, seminario, vista pública</p> <p>Tamaño mínimo del grupo: 7 personas (salvo para vistas públicas)</p> <p>Visitas individuales: Solo para vistas públicas</p> <p>Plazo mínimo para hacer la solicitud: Grupos: 6 meses (salvo para vistas públicas). Visitas individuales: 15 minutos antes de la vista pública</p> <p>Edad mínima de los visitantes: 18 años</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Visitas al Tribunal de Justicia de la Unión Europea</a></p>"
+      ],
+      "et": [
+        "<p>Külastuste liigid: Õppekülastus, teabekülastus, seminar, avalik istung</p> <p>Minimaalne rühma suurus: 7 inimest (välja arvatud avaliku istungi korral)</p> <p>Eraviisiline külastus: Ainult avaliku istungi korral</p> <p>Kohustus eelnevalt registreerida: Rühmad: 6 kuud ette (välja arvatud avaliku istungi korral)<span>. </span>Eraviisiline külastus: 15 minutit enne avalikku istungit</p> <p>Minimaalne külastajate vanus: 18 aastat</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Külastage Euroopa Liidu Kohut</a></p>"
+      ],
+      "fi": [
+        "<p>Vierailutyypit: opintokäynti, esittelytilaisuus, seminaari, julkinen kuuleminen</p> <p>Ryhmän vähimmäiskoko: 7 henkeä (paitsi julkisissa kuulemisissa)</p> <p>Yksittäiset vierailijat: vain julkisiin kuulemisiin</p> <p>Pakollinen etukäteisvaraus: ryhmät: 6 kuukautta etukäteen (paitsi julkisiin kuulemisiin). yksittäiset vierailijat: 15 minuuttia ennen julkisen kuulemisen alkua</p> <p>Vierailijoiden vähimmäisikä: 18 vuotta</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Vierailut Euroopan unionin tuomioistuimessa</a></p>"
+      ],
+      "fr": [
+        "<p>Type de visite: Visite d'étude, séance d'information, séminaire, audience publique</p> <p>Taille minimale des groupes: 7 personnes (sauf pour les audiences publiques)</p> <p>Visites individuelles: Uniquement pour les audiences publiques</p> <p>Délai de réservation: Groupes: 6 mois (sauf pour les audiences publiques). Visites individuelles: 15 minutes avant l'audience publique</p> <p>Âge minimum des visiteurs: 18 ans</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Visiter la Cour de justice de l'Union européenne</a></p>"
+      ],
+      "ga": [
+        "<p>Cineál cuairte: cuairt staidéir, seisiún eolais, seimineár, éisteacht phoiblí</p> <p>Íosmhéid an ghrúpa: seachtar (seachas éisteachtaí poiblí)</p> <p>Daoine aonair: Éisteachtaí poiblí amháin</p> <p>Riachtanas réamháirithinte: Grúpaí: 6 mhí (seachas éisteachtaí poiblí). Daoine aonair: 15 nóiméad roimh éisteacht phoiblí</p> <p>Aois íosta na gcuairteoirí: 18 mbliana d'aois</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Tabhair cuairt ar Chúirt Bhreithiúnais an Aontais Eorpaigh</a></p>"
+      ],
+      "hr": [
+        "<p>Vrsta posjeta: Studijski posjet, informativni sastanci, seminar, rasprava otvorena za javnost</p> <p>Minimalna veličina skupine: 7 osoba (osim za rasprave otvorene za javnost)</p> <p>Individualni posjetitelji: Samo za rasprave otvorene za javnost</p> <p>Obvezna prethodna rezervacija: Skupine: 6 mjeseci (osim za rasprave otvorene za javnost). Individualni posjetitelji: 15 minuta prije rasprave otvorene za javnost</p> <p>Minimalna dob posjetitelja: 18 godina</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Posjet Sudu Europske unije</a></p>"
+      ],
+      "hu": [
+        "<p>Látogatás típusa: Tanulmányi látogatás, tájékoztató előadás, szeminárium, nyilvános ülés</p> <p>Csoport minimális létszáma: 7 fő (kivéve a nyilvános üléseket)</p> <p>Egyéni látogatás: Csak a nyilvános ülések esetében</p> <p>Előzetes bejelentkezés: Csoportok: 6 hónappal a látogatás tervezett időpontja előtt (kivéve a nyilvános üléseket). Egyéni látogatók: 15 perccel a nyilvános ülés kezdete előtt</p> <p>Látogatók alsó korhatára: 18 év</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Látogatás az Európai Unió Bíróságánál</a></p>"
+      ],
+      "it": [
+        "<p>Tipo di visita: visita di studio, sessione informativa, seminario, audizione pubblica</p> <p>Numero minimo di partecipanti: 7 persone (ad eccezione delle audizioni pubbliche)</p> <p>Visitatori individuali: solo per le audienze pubbliche</p> <p>Prenotazione gruppi: 6 mesi (ad eccezione delle audizioni pubbliche). singoli visitatori: 15 minuti prima dell'inizio dell'audizione pubblica</p> <p>Età minima dei visitatori: 18 anni</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Visitate la Corte di giustizia dell'Unione europea</a></p>"
+      ],
+      "lt": [
+        "<p>Apsilankymo pobūdis: Pažintinis vizitas, informacinė paskaita, seminaras, viešas Teismo posėdis</p> <p>Minimalus grupės dydis: 7 asmenys (netaikoma viešiems Teismo posėdžiams)</p> <p>Individualūs lankytojai: Dalyvavimas tik viešuose Teismo posėdžiuose</p> <p>Prieš kiek laiko būtina susitarti dėl apsilankymo?: Grupės: prieš 6 mėnesius (netaikoma viešiems Teismo posėdžiams). Individualūs lankytojai: 15 minučių prieš viešą Teismo posėdį</p> <p>Minimalus lankytojų amžius: 18 metų</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Apsilankykite Europos Sąjungos Teisingumo Teisme</a></p>"
+      ],
+      "lv": [
+        "<p>Apmeklējuma veids: mācību apmeklējums, informatīvs apmeklējums, seminārs, atklāta tiesas sēde</p> <p>Minimālais grupas lielums: 7 personas (izņemot atklātās tiesas sēdēs)</p> <p>Individuāli apmeklētāji: tikai atklātās tiesas sēdēs</p> <p>Iepriekšēja pieteikšanās: grupām 6 mēnešus iepriekš (izņemot atklātas tiesas sēdes). individuāliem apmeklētājiem 15 minūtes pirms atklātās tiesas sēdes sākuma</p> <p>Apmeklētāju minimālais vecums: 18 gadi</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Eiropas Savienības Tiesas apmeklējums</a></p>"
+      ],
+      "mt": [
+        "<p>Tip ta’ żjara: Żjara ta’ studju, sessjoni ta’ informazzjoni, seminar, smigħ pubbliku</p> <p>Daqs minimu ta’ grupp: 7 persuni (ħlief għal seduti pubbliċi)</p> <p>Viżitaturi individwali: Biss għal seduti pubbliċi</p> <p>Ħtieġa ta' riżervazzjoni bil-quddiem: Gruppi: 6 xhur (ħlief għal seduti pubbliċi). Viżitaturi individwali: 15-il minuta qabel is-smigħ pubbliku</p> <p>Età minima tal-viżitaturi: 18-il sena</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Żur il-Qorti tal-Ġustizzja tal-Unjoni Ewropea</a></p>"
+      ],
+      "nl": [
+        "<p>Soort bezoek: Studiebezoek, voorlichtingsbezoek, seminar, openbare hoorzitting</p> <p>Groepsgrootte: Minimaal 7 personen (behalve voor openbare hoorzittingen)</p> <p>Individuele bezoekers: Alleen voor openbare hoorzittingen</p> <p>Reservering: Groepen: minimaal 6 maanden van tevoren (behalve voor openbare hoorzittingen). Individuele bezoekers: 15 minuten voor de openbare hoorzitting</p> <p>Minimumleeftijd: 18 jaar</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Bezoek het Hof van Justitie van de Europese Unie</a></p>"
+      ],
+      "pl": [
+        "<p>Rodzaj wizyty: Wizyta studyjna, sesja informacyjna, szkolenie, udział w posiedzeniu jawnym</p> <p>Minimalna wielkość grupy: 7 osób (nie dotyczy posiedzeń jawnych)</p> <p>Wizyty indywidualne: Tylko w przypadku posiedzeń jawnych</p> <p>Wymóg rezerwacji: Grupy: 6 miesięcy wcześniej (nie dotyczy posiedzeń jawnych). Wizyty indywidualne: 15 minut przed posiedzeniem jawnym</p> <p>Minimalny wiek odwiedzających: 18 lat</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Wizyty w Trybunale Sprawiedliwości Unii Europejskiej</a></p>"
+      ],
+      "pt": [
+        "<p>Tipo de visita: visita de estudo, sessão de informação, seminário, audição pública</p> <p>Número mínimo de participantes: 7 pessoas (exceto para as audições públicas)</p> <p>Visitantes individuais: só para as audições públicas</p> <p>Marcação prévia obrigatória: grupos: 6 meses (exceto para as audições públicas). visitantes individuais: 15 minutos antes da audição pública</p> <p>Idade mínima dos visitantes: 18 anos</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Visite o Tribunal de Justiça da União Europeia</a></p>"
+      ],
+      "ro": [
+        "<p>Tipul de vizită: vizită de studiu, sesiune de informare, seminar, şedinţă publică</p> <p>Dimensiunea minimă a grupului: 7 persoane (cu excepţia şedinţelor publice)</p> <p>Vizitatori individuali: numai pentru şedinţele publice</p> <p>Rezervare: Grupuri: cu 6 luni înainte de data vizitei (cu excepţia şedinţelor publice). Vizitatori individuali: cu 15 minute înainte de şedinţa publică</p> <p>Vârsta minimă a vizitatorilor: 18 ani</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Vizitaţi Curtea de Justiţie a Uniunii Europene</a></p>"
+      ],
+      "sk": [
+        "<p>Typy návštev: študijné návštevy, informačné stretnutia, semináre, verejné vypočutia</p> <p>Minimálna veľkosť skupiny: 7 osôb (s výnimkou verejných vypočutí)</p> <p>Individuálni návštevníci: iba v prípade verejných vypočutí</p> <p>Povinná rezervácia: skupiny: 6 mesiacov (s výnimkou verejných vypočutí). individuálni návštevníci: 15 minút pred verejným vypočutím</p> <p>Minimálny vek návštevníkov: 18 rokov</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Navštívte Súdny dvor Európskej únie</a></p>"
+      ],
+      "sl": [
+        "<p>Vrsta obiska: Študijski obisk, informativna predstavitev, javna obravnava</p> <p>Velikost skupine: Najmanj 7 oseb (razen za javno obravnavo)</p> <p>Obiski posameznikov: Samo za javno obravnavo</p> <p>Vnaprejšnja rezervacija: Skupine: 6 mesecev (razen za javno obravnavo). Obiski posameznikov: 15 minut pred javno obravnavo</p> <p>Starost obiskovalcev: Najmanj 18 let</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Obiščite Sodišče Evropske unije</a></p>"
+      ],
+      "sv": [
+        "<p>Typ av besök: Studiebesök, föredrag, seminarier, offentliga förhandlingar</p> <p>Gruppens storlek: Minst 7 personer (utom för offentliga förhandlingar)</p> <p>Enskilda besökare: Bara för offentliga förhandlingar</p> <p>Förhandsbokning: Grupper: 6 månader (utom för offentliga förhandlingar). Enskilda besökare: 15 minuter före förhandlingen</p> <p>Åldersgräns: 18 år</p> <p><a href=\"http://curia.europa.eu/jcms/jcms/Jo2_7019/\">Besök EU-domstolen</a></p>"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "https://twitter.com/EUCourtPress",
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Twitter",
+        "Social networks"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    }
+  }
+}

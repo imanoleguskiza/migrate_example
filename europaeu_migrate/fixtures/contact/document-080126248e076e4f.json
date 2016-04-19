@@ -1,0 +1,214 @@
+{
+  "_id": "080126248e076e4f",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e075b2f",
+        "080126248e076e4f",
+        "080126248e076e4f",
+        "080126248e076e4f"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейски институт за равенство на половете(EIGE)"
+      ],
+      "cs": [
+        "Evropský institut pro rovnost žen a mužů(EIGE)"
+      ],
+      "da": [
+        "Det Europæiske Ligestillingsinstitut(EIGE)"
+      ],
+      "de": [
+        "Europäisches Institut für Gleichstellungsfragen(EIGE)"
+      ],
+      "el": [
+        "Ευρωπαϊκό Ινστιτούτο για την Ισότητα των Φύλων(EIGE)"
+      ],
+      "en": [
+        "European Institute for Gender Equality(EIGE)"
+      ],
+      "es": [
+        "Instituto Europeo de la Igualdad de Género(EIGE)"
+      ],
+      "et": [
+        "Euroopa Soolise Võrdõiguslikkuse Instituut(EIGE)"
+      ],
+      "fi": [
+        "Euroopan tasa-arvoinstituutti(EIGE)"
+      ],
+      "fr": [
+        "Institut européen pour l’égalité entre les hommes et les femmes(EIGE)"
+      ],
+      "ga": [
+        "An Institiúid Eorpach um Chomhionannas Inscne(EIGE)"
+      ],
+      "hr": [
+        "Europski institut za ravnopravnost spolova(EIGE)"
+      ],
+      "hu": [
+        "Nemek Közötti Egyenlőség Európai Intézete(EIGE)"
+      ],
+      "it": [
+        "Istituto europeo per l'uguaglianza di genere(EIGE)"
+      ],
+      "lt": [
+        "Europos lyčių lygybės institutas(EIGE)"
+      ],
+      "lv": [
+        "Eiropas Dzimumu līdztiesības institūts(EIGE)"
+      ],
+      "mt": [
+        "l-Istitut Ewropew għall-Ugwaljanza bejn is-Sessi(EIGE)"
+      ],
+      "nl": [
+        "Europees Instituut voor gendergelijkheid(EIGE)"
+      ],
+      "pl": [
+        "Europejski Instytut ds. Równości Kobiet i Mężczyzn(EIGE)"
+      ],
+      "pt": [
+        "Instituto Europeu para a Igualdade de Género(EIGE)"
+      ],
+      "ro": [
+        "Institutul European pentru Egalitatea de Şanse între Femei şi Bărbaţi(EIGE)"
+      ],
+      "sk": [
+        "Európsky inštitút pre rodovú rovnosť(EIGE)"
+      ],
+      "sl": [
+        "Evropski inštitut za enakost med spoloma(EIGE)"
+      ],
+      "sv": [
+        "Europeiska jämställdhetsinstitutet(EIGE)"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/agencies/eige-logo.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "agencies"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p><span>Gedimino pr. 16 </span><br /><span>LT-01103 Vilnius</span><br /><span>Lietuva</span></p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+370 5 215 7400"
+      ]
+    },
+    "link_url": {
+      "en": [
+        "mailto:eige.sec@eige.europa.eu"
+      ]
+    },
+    "link_label": {
+      "en": [
+        "Contact EIGE"
+      ]
+    }
+  }
+}

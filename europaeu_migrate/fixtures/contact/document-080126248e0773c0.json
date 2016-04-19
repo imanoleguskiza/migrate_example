@@ -1,0 +1,594 @@
+{
+  "_id": "080126248e0773c0",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e0773c0",
+        "080126248e0773c0",
+        "080126248e0773c0",
+        "080126248e0773c0",
+        "080126248e0773c0",
+        "080126248e0773c0",
+        "080126248e0773c0",
+        "080126248e0773c0",
+        "080126248e0773c0",
+        "080126248e0773c0"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Сметна палата на ЕС"
+      ],
+      "cs": [
+        "Účetní dvůr Evropské unie"
+      ],
+      "da": [
+        "EU's Revisionsret"
+      ],
+      "de": [
+        "Der Europäische Rechnungshof"
+      ],
+      "el": [
+        "Ελεγκτικό Συνέδριο της ΕΕ"
+      ],
+      "en": [
+        "European Court of Auditors"
+      ],
+      "es": [
+        "Tribunal de Cuentas de la UE"
+      ],
+      "et": [
+        "Euroopa Kontrollikoda"
+      ],
+      "fi": [
+        "EU:n tilintarkastustuomioistuin"
+      ],
+      "fr": [
+        "Cour des comptes européenne"
+      ],
+      "ga": [
+        "Cúirt Iniúchóirí an AE"
+      ],
+      "hr": [
+        "Europski revizorski sud"
+      ],
+      "hu": [
+        "Európai Számvevőszék"
+      ],
+      "it": [
+        "Corte dei conti europea"
+      ],
+      "lt": [
+        "ES Audito Rūmai"
+      ],
+      "lv": [
+        "ES Revīzijas palāta"
+      ],
+      "mt": [
+        "Qorti tal-Awdituri tal-UE"
+      ],
+      "nl": [
+        "De Europese Rekenkamer"
+      ],
+      "pl": [
+        "Trybunał Obrachunkowy UE"
+      ],
+      "pt": [
+        "Tribunal de Contas Europeu"
+      ],
+      "ro": [
+        "Curtea Europeană de Conturi"
+      ],
+      "sk": [
+        "Dvor audítorov"
+      ],
+      "sl": [
+        "Računsko sodišče"
+      ],
+      "sv": [
+        "Europeiska revisionsrätten"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/eca_logo_notext.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>12, rue Alcide De Gasperi</p> <p>L-1615 Luxembourg</p> <p>Luxembourg</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+352 4398 1"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+352 4393 42"
+      ]
+    },
+    "link_url": {
+      "bg": [
+        "http://www.eca.europa.eu/bg/Pages/ContactForm.aspx"
+      ],
+      "cs": [
+        "http://www.eca.europa.eu/cs/Pages/ContactForm.aspx"
+      ],
+      "da": [
+        "http://www.eca.europa.eu/da/Pages/ContactForm.aspx"
+      ],
+      "de": [
+        "http://www.eca.europa.eu/de/Pages/ContactForm.aspx"
+      ],
+      "el": [
+        "http://www.eca.europa.eu/el/Pages/ContactForm.aspx"
+      ],
+      "en": [
+        "http://www.eca.europa.eu/en/Pages/ContactForm.aspx"
+      ],
+      "es": [
+        "http://www.eca.europa.eu/es/Pages/ContactForm.aspx"
+      ],
+      "et": [
+        "http://www.eca.europa.eu/et/Pages/ContactForm.aspx"
+      ],
+      "fi": [
+        "http://www.eca.europa.eu/fi/Pages/ContactForm.aspx"
+      ],
+      "fr": [
+        "http://www.eca.europa.eu/fr/Pages/ContactForm.aspx"
+      ],
+      "ga": [
+        "http://www.eca.europa.eu/ga/Pages/ContactForm.aspx"
+      ],
+      "hr": [
+        "http://www.eca.europa.eu/hr/Pages/ContactForm.aspx"
+      ],
+      "hu": [
+        "http://www.eca.europa.eu/hu/Pages/ContactForm.aspx"
+      ],
+      "it": [
+        "http://www.eca.europa.eu/it/Pages/ContactForm.aspx"
+      ],
+      "lt": [
+        "http://www.eca.europa.eu/lt/Pages/ContactForm.aspx"
+      ],
+      "lv": [
+        "http://www.eca.europa.eu/lv/Pages/ContactForm.aspx"
+      ],
+      "mt": [
+        "http://www.eca.europa.eu/mt/Pages/ContactForm.aspx"
+      ],
+      "nl": [
+        "http://www.eca.europa.eu/nl/Pages/ContactForm.aspx"
+      ],
+      "pl": [
+        "http://www.eca.europa.eu/pl/Pages/ContactForm.aspx"
+      ],
+      "pt": [
+        "http://www.eca.europa.eu/pt/Pages/ContactForm.aspx"
+      ],
+      "ro": [
+        "http://www.eca.europa.eu/ro/Pages/ContactForm.aspx"
+      ],
+      "sk": [
+        "http://www.eca.europa.eu/sk/Pages/ContactForm.aspx"
+      ],
+      "sl": [
+        "http://www.eca.europa.eu/sl/Pages/ContactForm.aspx"
+      ],
+      "sv": [
+        "http://www.eca.europa.eu/sv/Pages/ContactForm.aspx"
+      ]
+    },
+    "link_label": {
+      "bg": [
+        "Contact"
+      ],
+      "cs": [
+        "Contact"
+      ],
+      "da": [
+        "Contact"
+      ],
+      "de": [
+        "Contact"
+      ],
+      "el": [
+        "Contact"
+      ],
+      "en": [
+        "Contact"
+      ],
+      "es": [
+        "Contact"
+      ],
+      "et": [
+        "Contact"
+      ],
+      "fi": [
+        "Contact"
+      ],
+      "fr": [
+        "Contact"
+      ],
+      "ga": [
+        "Contact"
+      ],
+      "hr": [
+        "Contact"
+      ],
+      "hu": [
+        "Contact"
+      ],
+      "it": [
+        "Contact"
+      ],
+      "lt": [
+        "Contact"
+      ],
+      "lv": [
+        "Contact"
+      ],
+      "mt": [
+        "Contact"
+      ],
+      "nl": [
+        "Contact"
+      ],
+      "pl": [
+        "Contact"
+      ],
+      "pt": [
+        "Contact"
+      ],
+      "ro": [
+        "Contact"
+      ],
+      "sk": [
+        "Contact"
+      ],
+      "sl": [
+        "Contact"
+      ],
+      "sv": [
+        "Contact"
+      ]
+    },
+    "visit": {
+      "bg": [
+        "<p>Вид посещение: информационна сесия</p> <p>Минимален размер на групата: максимум 50 души</p> <p>Изискване за предварителна резервация: 2 месеца</p> <p>Минимална възраст на посетителите: 14 години</p> <p><a href=\"http://www.eca.europa.eu/bg/Pages/VisitingTheCourt.aspx\">Посетете Европейската сметна палата</a></p>"
+      ],
+      "cs": [
+        "<p>Typ návštěvy: informační prohlídka</p> <p>Maximální velikost skupiny: 50 osob</p> <p>Povinná rezervace: 2 měsíce předem</p> <p>Minimální věk návštěvníků: 14 let</p> <p><a href=\"http://www.eca.europa.eu/cs/Pages/VisitingTheCourt.aspx\">Evropský účetní dvůr – návštěvy pro veřejnost</a></p>"
+      ],
+      "da": [
+        "<p>Former for besøg: Informationsbesøg</p> <p>Minimumstørrelse på gruppe: højst 50 personer</p> <p>Krav om forudbestilling: 2 måneder</p> <p>Minimumsalder på besøgende: 14 år</p> <p><a href=\"http://www.eca.europa.eu/da/Pages/VisitingTheCourt.aspx\">Besøg Den Europæiske Revisionsret</a></p>"
+      ],
+      "de": [
+        "<p>Art des Besuchs: Informationsbesuch</p> <p>Teilnehmerzahl: Höchstens 50 Personen</p> <p>Anmeldung: Zwei Monate im Voraus</p> <p>Mindestalter der Besucher: 14 Jahre</p> <p><a href=\"http://www.eca.europa.eu/de/Pages/VisitingTheCourt.aspx\">Besuchen Sie den Europäischen Rechnungshof</a></p>"
+      ],
+      "el": [
+        "<p>Είδη επισκέψεων: ενημερωτικές επισκέψεις</p> <p>Eλάχιστο μέγεθος ομάδας επισκεπτών: 50 άτομα το πολύ</p> <p>Υποχρέωση κράτησης: 2 μήνες νωρίτερα</p> <p>Κατώτατο όριο ηλικίας επισκεπτών: 14 ετών</p> <p><a href=\"http://www.eca.europa.eu/el/Pages/VisitingTheCourt.aspx\">Επισκεφθείτε το Ευρωπαϊκό Ελεγκτικό Συνέδριο</a></p>"
+      ],
+      "en": [
+        "<p>Type of visit: Information session</p> <p>Minimum size of group: 50 people maximum</p> <p>Advance booking requirement: 2 months</p> <p>Minimum age of visitors: 14 years old</p> <p><a href=\"http://www.eca.europa.eu/en/Pages/VisitingTheCourt.aspx\">Visit the European Court of Auditors</a></p>"
+      ],
+      "es": [
+        "<p>Tipo de visita: Visita de información</p> <p>Tamaño mínimo del grupo: 50 personas como máximo</p> <p>Plazo mínimo para hacer la solicitud: 2 meses</p> <p>Edad mínima de los visitantes: 14 años</p> <p><a href=\"http://www.eca.europa.eu/es/Pages/VisitingTheCourt.aspx\">Visitas al Tribunal de Cuentas Europeo</a></p>"
+      ],
+      "et": [
+        "<p>Külastuste liigid: Teabekülastus</p> <p>Minimaalne rühma suurus: Kuni 50 inimest</p> <p>Kohustus eelnevalt registreerida: 2 kuud ette</p> <p>Minimaalne külastajate vanus: 14 aastat</p> <p><a href=\"http://www.eca.europa.eu/et/Pages/VisitingTheCourt.aspx\">Külastage Euroopa Kontrollikoda</a></p>"
+      ],
+      "fi": [
+        "<p>Vierailutyypit: esittelytilaisuus</p> <p>Ryhmän vähimmäiskoko: enintään 50 henkeä</p> <p>Pakollinen etukäteisvaraus: 2 kuukautta etukäteen</p> <p>Vierailijoiden vähimmäisikä: 14 vuotta</p> <p><a href=\"http://www.eca.europa.eu/fi/Pages/VisitingTheCourt.aspx\">Vierailut Euroopan tilintarkastustuomioistuimessa</a></p>"
+      ],
+      "fr": [
+        "<p>Type de visite: Séance d’information</p> <p>Taille des groupes: 50 personnes maximum</p> <p>Délai de réservation: 2 mois</p> <p>Âge minimum des visiteurs: 14 ans</p> <p><a href=\"http://www.eca.europa.eu/fr/Pages/VisitingTheCourt.aspx\">Visiter la Cour des comptes européenne</a></p>"
+      ],
+      "ga": [
+        "<p>Cineál cuairte: seisiún eolais</p> <p>Íosmhéid an ghrúpa: 50 duine ar a mhéad</p> <p>Riachtanas réamháirithinte: 2 mhí</p> <p>Aois íosta na gcuairteoirí: 14 bliana d'aois</p> <p><a href=\"http://www.eca.europa.eu/ga/Pages/VisitingTheCourt.aspx\">Tabhair cuairt ar Chúirt Iniúchóirí na hEorpa</a></p>"
+      ],
+      "hr": [
+        "<p>Vrsta posjeta: Informativni sastanak</p> <p>Minimalna veličina skupine: 50 osoba maksimalno</p> <p>Individualni posjetitelji: 2 mjeseca</p> <p>Minimalna dob posjetitelja: 14 godina</p> <p><a href=\"http://www.eca.europa.eu/hr/Pages/VisitingTheCourt.aspx\">Posjetite Europski revizorski sud</a></p>"
+      ],
+      "hu": [
+        "<p>Látogatás típusa: Információs látogatás</p> <p>Csoport létszáma: Legfeljebb 50 fő</p> <p>Előzetes bejelentkezés: 2 hónappal a látogatás tervezett időpontja előtt</p> <p>Látogatók alsó korhatára: 14 év</p> <p><a href=\"http://www.eca.europa.eu/hu/Pages/VisitingTheCourt.aspx\">Látogatás az Európai Számvevőszéknél</a></p>"
+      ],
+      "it": [
+        "<p>Tipo di visita: sessione informativa</p> <p>Numero minimo di partecipanti: max 50 persone</p> <p>Prenotazione: 2 mesi prima</p> <p>Età minima dei visitatori: 14 anni</p> <p><a href=\"http://www.eca.europa.eu/it/Pages/VisitingTheCourt.aspx\">Visitate la Corte dei conti europea</a></p>"
+      ],
+      "lt": [
+        "<p>Apsilankymo pobūdis: Informacinė paskaita</p> <p>Maksimalus grupės dydis: Ne daugiau kaip 50 asmenų</p> <p>Prieš kiek laiko būtina susitarti dėl apsilankymo?: Prieš 2 mėnesius</p> <p>Minimalus lankytojų amžius: 14 metų</p> <p><a href=\"http://www.eca.europa.eu/lt/Pages/VisitingTheCourt.aspx\">Apsilankykite Europos Audito Rūmuose</a></p>"
+      ],
+      "lv": [
+        "<p>Apmeklējuma veids: informatīvs apmeklējums</p> <p>Minimālais grupas lielums: ne vairāk par 50 cilvēkiem</p> <p>Iepriekšēja pieteikšanās: 2 mēnešus iepriekš</p> <p>Apmeklētāju minimālais vecums: 14 gadi</p> <p><a href=\"http://www.eca.europa.eu/lv/Pages/VisitingTheCourt.aspx\">Eiropas Savienības Revīzijas palātas apmeklējums</a></p>"
+      ],
+      "mt": [
+        "<p>Tip ta’ żjara: sessjoni ta' informazzjoni</p> <p>Daqs minimu tal-grupp: 50 persuna massimu</p> <p>Rekwiżit tar-Riżervazzjoni bil-quddiem: Ħmistax-il (2-il) xahar</p> <p>L-età minima tal-viżitaturi: 14-il sena</p> <p><a href=\"http://www.eca.europa.eu/mt/Pages/VisitingTheCourt.aspx\">Żur il-Qorti tal-Awdituri tal-UE</a></p>"
+      ],
+      "nl": [
+        "<p>Soort bezoek: Voorlichtingsbezoek</p> <p>Groepsgrootte: Maximaal 50 personen</p> <p>Reservering: Minimaal 2 maanden van tevoren</p> <p>Minimumleeftijd: 14 jaar</p> <p><a href=\"http://www.eca.europa.eu/nl/Pages/VisitingTheCourt.aspx\">Bezoek de Europese Rekenkamer</a></p>"
+      ],
+      "pl": [
+        "<p>Rodzaj wizyty: Sesja informacyjna</p> <p>Maksymalna wielkość grupy: 50 osób</p> <p>Wymóg rezerwacji: 2 miesiące wcześniej</p> <p>Minimalny wiek odwiedzających: 14 lat</p> <p><a href=\"http://www.eca.europa.eu/pl/Pages/VisitingTheCourt.aspx\">Wizyty w Europejskim Trybunale Obrachunkowym</a></p>"
+      ],
+      "pt": [
+        "<p>Tipo de visita: sessão de informação</p> <p>Número máximo de participantes: 50 pessoas</p> <p>Marcação prévia obrigatória: 2 meses</p> <p>Idade mínima dos visitantes: 14 anos</p> <p><a href=\"http://www.eca.europa.eu/pt/Pages/VisitingTheCourt.aspx\">Visite o Tribunal de Contas Europeu</a></p>"
+      ],
+      "ro": [
+        "<p>Tipul de vizită: sesiune de informare</p> <p>Dimensiunea maximă a grupului: 50 de persoane</p> <p>Rezervare: cu 2 luni înainte de data vizitei</p> <p>Vârsta minimă a vizitatorilor: 14 ani</p> <p><a href=\"http://www.eca.europa.eu/ro/Pages/VisitingTheCourt.aspx\">Vizitaţi Curtea de Conturi Europeană</a></p>"
+      ],
+      "sk": [
+        "<p>Typy návštev: informatívne stretnutia</p> <p>Minimálna veľkosť skupiny: max. 50 osôb</p> <p>Povinná rezervácia: 2 mesiace pred návštevou</p> <p>Minimálny vek návštevníkov: 14 rokov</p> <p><a href=\"http://www.eca.europa.eu/ro/Pages/VisitingTheCourt.aspx\">Navštívte Európsky dvor audítorov</a></p>"
+      ],
+      "sl": [
+        "<p>Vrsta obiska: Informativna predstavitev</p> <p>Velikost skupine: Največ 50 oseb</p> <p>Vnaprejšnja rezervacija: 2 meseca</p> <p>Starost obiskovalcev: Najmanj 14 let</p> <p><a href=\"http://www.eca.europa.eu/sl/Pages/VisitingTheCourt.aspx\">Obiščite Evropsko računsko sodišče</a></p>"
+      ],
+      "sv": [
+        "<p>Typ av besök: Föredrag</p> <p>Gruppens storlek: Högst 50 personer</p> <p>Förhandsbokning: 2 månader</p> <p>Åldersgräns: 14 år</p> <p><a href=\"http://www.eca.europa.eu/sv/Pages/VisitingTheCourt.aspx\">Besök Europeiska revisionsrätten</a></p>"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "https://www.facebook.com/EUCourtofAuditors",
+        "https://twitter.com/EUAuditorsECA",
+        "https://www.youtube.com/user/EUAuditorsECA",
+        "https://www.linkedin.com/company/eca?trk=prof-exp-company-name",
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Facebook",
+        "Twitter",
+        "YouTube",
+        "LinkedIn",
+        "Social networks"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    }
+  }
+}

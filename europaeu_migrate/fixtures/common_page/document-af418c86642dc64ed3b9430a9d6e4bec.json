@@ -1,0 +1,1074 @@
+{
+    "_id": "af418c86642dc64ed3b9430a9d6e4bec",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/facts-figures/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/facts-figures/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/facts-figures/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/facts-figures/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/facts-figures/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/facts-figures/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/facts-figures/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/facts-figures/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/facts-figures/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/facts-figures/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/facts-figures/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/facts-figures/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/facts-figures/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/facts-figures/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/facts-figures/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/facts-figures/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/facts-figures/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/facts-figures/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/facts-figures/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/facts-figures/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/facts-figures/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/facts-figures/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/facts-figures/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/facts-figures/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Факти и цифри"
+            ],
+            "cs": [
+                "Fakta a čísla"
+            ],
+            "da": [
+                "Nøgletal og fakta"
+            ],
+            "de": [
+                "Fakten und Zahlen"
+            ],
+            "el": [
+                "Στοιχεία και αριθμοί"
+            ],
+            "en": [
+                "Facts and figures"
+            ],
+            "es": [
+                "Hechos y cifras"
+            ],
+            "et": [
+                "Faktid ja arvandmed"
+            ],
+            "fi": [
+                "Perustietoa"
+            ],
+            "fr": [
+                "L'Europe en quelques chiffres"
+            ],
+            "ga": [
+                "Fíorais agus figiúirí"
+            ],
+            "hr": [
+                "Činjenice i brojke"
+            ],
+            "hu": [
+                "Tények és adatok"
+            ],
+            "it": [
+                "L'Europa in cifre"
+            ],
+            "lt": [
+                "Faktai ir skaičiai"
+            ],
+            "lv": [
+                "Fakti un skaitļi"
+            ],
+            "mt": [
+                "Fatti u figuri"
+            ],
+            "nl": [
+                "Feiten en cijfers"
+            ],
+            "pl": [
+                "Fakty i liczby"
+            ],
+            "pt": [
+                "Factos e números"
+            ],
+            "ro": [
+                "Date şi cifre"
+            ],
+            "sk": [
+                "Fakty a čísla"
+            ],
+            "sl": [
+                "Dejstva in podatki"
+            ],
+            "sv": [
+                "Fakta och siffror"
+            ]
+        },
+        "category": {
+            "und": [
+                "33755c10"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "cs": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "da": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "de": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "el": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "en": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "es": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "et": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fi": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "fr": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ga": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "hr": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "hu": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "it": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "lv": [
+                "EUROPA/ABOUT-EU/LV"
+            ],
+            "mt": [
+                "EUROPA/DWAR L-UE/MT"
+            ],
+            "nl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "pt": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "ro": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sk": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sl": [
+                "EUROPA/ABOUT-EU/EN"
+            ],
+            "sv": [
+                "EUROPA/ABOUT-EU/EN"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM"
+            ],
+            "cs": [
+                "COMM"
+            ],
+            "da": [
+                "COMM"
+            ],
+            "de": [
+                "COMM"
+            ],
+            "el": [
+                "COMM"
+            ],
+            "en": [
+                "COMM"
+            ],
+            "es": [
+                "COMM"
+            ],
+            "et": [
+                "COMM"
+            ],
+            "fi": [
+                "COMM"
+            ],
+            "fr": [
+                "COMM"
+            ],
+            "ga": [
+                "COMM"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "COMM"
+            ],
+            "it": [
+                "COMM"
+            ],
+            "lt": [
+                "COMM"
+            ],
+            "lv": [
+                "COMM"
+            ],
+            "mt": [
+                "COMM"
+            ],
+            "nl": [
+                "COMM"
+            ],
+            "pl": [
+                "COMM"
+            ],
+            "pt": [
+                "COMM"
+            ],
+            "ro": [
+                "COMM"
+            ],
+            "sk": [
+                "COMM"
+            ],
+            "sl": [
+                "COMM"
+            ],
+            "sv": [
+                "COMM"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "de": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "el": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "en": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "es": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "et": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fi": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hu": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "it": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lv": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ro": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sk": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sv": [
+                "58-Document for general distribution (intended for the general public)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Основни факти и цифри относно ЕС: институции, държави-членки и икономика на ЕС."
+            ],
+            "cs": [
+                "Key facts and figures on the EU: institutions, member countries and the EU economy."
+            ],
+            "da": [
+                "Nøgletal og fakta om EU: institutioner, medlemslande og økonomi."
+            ],
+            "de": [
+                "Wichtige Fakten und Zahlen zur EU: Einrichtungen, Mitgliedstaaten und Wirtschaft"
+            ],
+            "el": [
+                "Βασικά στοιχεία σχετικά με την ΕΕ: θεσμικά όργανα, χώρες μέλη και οικονομία της ΕΕ."
+            ],
+            "en": [
+                "Key facts and figures on the EU: institutions, member countries and the EU economy."
+            ],
+            "es": [
+                "Hechos y cifras clave de la UE: instituciones, países miembros y economía."
+            ],
+            "et": [
+                "Peamised faktid ja arvandmed ELi kohta: institutsioonid, liikmesriigid ja ELi majandus"
+            ],
+            "fi": [
+                "Perustietoa EU:sta: toimielimet, jäsenmaat ja EU:n talous"
+            ],
+            "fr": [
+                "L'Europe en quelques chiffres: données concrètes sur les institutions, les pays membres et l'économie de l'UE."
+            ],
+            "ga": [
+                "Na fíorais agus na figiúirí is tábhachtaí maidir leis an AE: institiúidí, balltíortha agus geilleagar an AE."
+            ],
+            "hr": [
+                "Ključne činjenice i brojke o EU-u: institucije, države članice i gospodarstvo EU-a"
+            ],
+            "hu": [
+                "Alapvető tények és adatok az EU intézményeiről, a tagállamokról és az uniós gazdaságról"
+            ],
+            "it": [
+                "Principali informazioni sull'UE: istituzioni, paesi membri ed economia."
+            ],
+            "lt": [
+                "Pagrindiniai ES faktai ir skaičiai. Institucijos, valstybės narės ir ES ekonomika"
+            ],
+            "lv": [
+                "Galvenie fakti un skaitļi par ES iestādēm, dalībvalstīm un ES ekonomiku."
+            ],
+            "mt": [
+                "Fatti u figuri ewlenin dwar l-UE: istituzzjonijiet, stati membri u l-ekonomija tal-UE."
+            ],
+            "nl": [
+                "Feiten en cijfers over de instellingen, landen en economie van de EU."
+            ],
+            "pl": [
+                "Podstawowe fakty i liczby na temat UE: instytucje, państwa członkowskie oraz gospodarka UE"
+            ],
+            "pt": [
+                "Factos e números essenciais sobre a UE: instituições, Estados-Membros e economia."
+            ],
+            "ro": [
+                "UE, fapte şi cifre esenţiale: instituţii, state membre, economia europeană"
+            ],
+            "sk": [
+                "Dôležité fakty a čísla o EÚ: inštitúcie, členské štáty a hospodárstvo EÚ."
+            ],
+            "sl": [
+                "Osnovna dejstva in podatki o EU: institucije, države članice in gospodarstvo EU."
+            ],
+            "sv": [
+                "Fakta och siffror om EU:s institutioner, medlemsländer och ekonomi."
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "ЕС",
+                "Европейски съюз",
+                "факти",
+                "цифри",
+                "данни",
+                "статистика",
+                "проучване",
+                "гледна точка",
+                "гласуване",
+                "население",
+                "размер",
+                "БВП",
+                "продължителност на живота",
+                "институция",
+                "държава-членка",
+                "икономика"
+            ],
+            "cs": [
+                "EU",
+                "Evropská unie",
+                "fakta",
+                "čísla",
+                "údaje",
+                "statistika",
+                "průzkum",
+                "postoje",
+                "průzkum veřejného mínění",
+                "obyvatelstvo",
+                "velikost",
+                "HDP",
+                "střední délka života",
+                "instituce",
+                "členská země",
+                "ekonomika"
+            ],
+            "da": [
+                "EU",
+                "Den Europæiske Union",
+                "fakta",
+                "tal",
+                "data",
+                "statistik",
+                "undersøgelse",
+                "holdning",
+                "meningsmåling, opinionsundersøgelse, undersøg",
+                "befolkning",
+                "størrelse",
+                "bnp",
+                "forventet levealder",
+                "institution",
+                "medlemsland, EU-land",
+                "økonomi"
+            ],
+            "de": [
+                "EU",
+                "Europäische Union",
+                "Fakten",
+                "Zahlen",
+                "Daten",
+                "Statistik",
+                "Erhebung",
+                "Einstellung",
+                "Umfrage",
+                "Bevölkerung",
+                "Größe",
+                "BIP",
+                "Lebenserwartung",
+                "Institution",
+                "Mitgliedstaat",
+                "Wirtschaft"
+            ],
+            "el": [
+                "ΕΕ",
+                "Ευρωπαϊκή Ένωση",
+                "στοιχείο",
+                "αριθμός",
+                "δεδομένα",
+                "στατιστική",
+                "έρευνα",
+                "άποψη, συμπεριφορά",
+                "δημοσκόπηση, σφυγμομέτρησ",
+                "πληθυσμός",
+                "μέγεθος, έκταση",
+                "ΑΕΠ",
+                "προσδόκιμο ζωής",
+                "θεσμικό όργανο",
+                "χώρα μέλος, κράτος μέλος",
+                "οικονομία"
+            ],
+            "en": [
+                "EU",
+                "European Union",
+                "fact",
+                "figure",
+                "data",
+                "statistic",
+                "survey",
+                "attitude",
+                "poll",
+                "population",
+                "size",
+                "GDP",
+                "life expectancy",
+                "institution",
+                "member country",
+                "economy"
+            ],
+            "es": [
+                "UE",
+                "Unión Europea",
+                "hecho",
+                "cifra",
+                "datos",
+                "estadística",
+                "encuesta",
+                "actitud",
+                "sondeo",
+                "población",
+                "tamaño",
+                "PIB",
+                "esperanza de vida",
+                "institución",
+                "país miembro",
+                "economía"
+            ],
+            "et": [
+                "EL",
+                "Euroopa Liit",
+                "fakt",
+                "arvandmed",
+                "andmed",
+                "statistiline",
+                "uuring",
+                "hoiak",
+                "arvamusküsitlus",
+                "elanikkond",
+                "suurus",
+                "SKP",
+                "keskmine eeldatav eluiga",
+                "institutsioon",
+                "liikmesriik",
+                "majandus"
+            ],
+            "fi": [
+                "EU",
+                "Euroopan unioni",
+                "perustieto",
+                "luku",
+                "tieto",
+                "tilasto",
+                "tutkimus",
+                "asenne",
+                "gallup",
+                "väestö",
+                "pinta-ala, koko",
+                "BKT",
+                "elinajanodote",
+                "toimielin",
+                "jäsenmaa",
+                "talous"
+            ],
+            "fr": [
+                "UE",
+                "Union européenne",
+                "faits",
+                "chiffres",
+                "données",
+                "statistique",
+                "enquête, étude",
+                "attitude, perception",
+                "sondage",
+                "population",
+                "taille",
+                "PIB",
+                "espérance de vie",
+                "institution",
+                "pays membre",
+                "économie"
+            ],
+            "ga": [
+                "AE",
+                "An tAontas Eorpach",
+                "fíoras",
+                "figiúr",
+                "sonraí",
+                "staitistic",
+                "suirbhé",
+                "dearcadh",
+                "pobalbhreith",
+                "daonra",
+                "méid",
+                "OTI",
+                "ionchas saoil",
+                "institiúid",
+                "balltír",
+                "geilleagar"
+            ],
+            "hr": [
+                "EU",
+                "Europska unija",
+                "činjenica",
+                "brojka",
+                "podaci",
+                "statistički podatak",
+                "anketa",
+                "mišljenje",
+                "ispitivanje javnog mišljenja",
+                "broj stanovnika",
+                "veličina",
+                "BDP",
+                "životni vijek",
+                "institucija",
+                "država članica",
+                "gospodarstvo"
+            ],
+            "hu": [
+                "EU, Unió",
+                "Európai Unió",
+                "tény",
+                "számadat",
+                "adat",
+                "statisztikai",
+                "felmérés",
+                "magatartás, viselkedés",
+                "közvélemény-kutatás",
+                "népesség",
+                "méret",
+                "GDP",
+                "várható élettartam",
+                "intézmény",
+                "tagállam, tagország",
+                "gazdaság"
+            ],
+            "it": [
+                "UE",
+                "Unione europea",
+                "fatti",
+                "cifre",
+                "dati",
+                "statistica, statistici",
+                "indagine, inchiesta",
+                "atteggiamento",
+                "sondaggio",
+                "popolazione",
+                "dimensioni",
+                "PIL",
+                "speranza di vita",
+                "istituzioni",
+                "paese membro",
+                "economia"
+            ],
+            "lt": [
+                "ES",
+                "Europos Sąjunga",
+                "faktas",
+                "skaičius, statistika",
+                "duomenys",
+                "statistiniai",
+                "tyrimas",
+                "požiūris",
+                "apklausa",
+                "gyventojų skaičius",
+                "dydis, plotas",
+                "BVP",
+                "vidutinė gyvenimo trukmė",
+                "institucija",
+                "valstybė narė",
+                "ekonomika"
+            ],
+            "lv": [
+                "ES",
+                "Eiropas Savienība",
+                "fakti",
+                "skaitļi",
+                "dati",
+                "statistika, statistikas",
+                "apsekojums, aptauja",
+                "attieksme",
+                "aptauja",
+                "sabiedrība",
+                "lielums",
+                "IKP",
+                "paredzamais mūža ilgums",
+                "institūcija, iestāde",
+                "dalībvalsts, dalībvalstis",
+                "ekonomika"
+            ],
+            "mt": [
+                "UE",
+                "Unjoni Ewropea",
+                "fatt",
+                "figura",
+                "dejta",
+                "statistika",
+                "sondaġġ",
+                "attitudni",
+                "opinjoni pubblika",
+                "popolazzjoni",
+                "daqs",
+                "GDP",
+                "stennija tal-ħajja",
+                "istituzzjoni",
+                "pajjiż membru",
+                "ekonomija"
+            ],
+            "nl": [
+                "EU",
+                "Europese Unie",
+                "feit",
+                "cijfer",
+                "gegevens",
+                "statistiek",
+                "enquête, opiniepeiling",
+                "houding, opvatting",
+                "stemming",
+                "bevolking",
+                "grootte",
+                "bbp",
+                "levensverwachting",
+                "instelling",
+                "EU-land",
+                "economie"
+            ],
+            "pl": [
+                "UE",
+                "Unia Europejska",
+                "fakt, fakty",
+                "liczba, liczby",
+                "dane",
+                "statystyki",
+                "badanie, ankieta",
+                "postawa, nastawienie, podejście",
+                "badanie opinii publicznej",
+                "ludność",
+                "rozmiar",
+                "PKB",
+                "średnia długość życia, średnie trwanie ży",
+                "instytucja, instytucje",
+                "państwo członkowskie, państwa członkowskie",
+                "gospodarka"
+            ],
+            "pt": [
+                "UE",
+                "União Europeia",
+                "facto",
+                "número",
+                "dados",
+                "estatística",
+                "inquérito",
+                "atitude",
+                "sondagem",
+                "população",
+                "superfície",
+                "PIB",
+                "esperança de vida",
+                "instituição",
+                "país membro, Estado-Membro",
+                "economia"
+            ],
+            "ro": [
+                "UE",
+                "Uniunea Europeană",
+                "fapte",
+                "cifre",
+                "date",
+                "statistică",
+                "studiu",
+                "atitudine",
+                "sondaj",
+                "populaţie",
+                "mărime",
+                "PIB",
+                "speranţa de viaţă",
+                "instituţie",
+                "stat membru",
+                "economie"
+            ],
+            "sk": [
+                "EÚ",
+                "Európska únia",
+                "fakt",
+                "číslo",
+                "údaje",
+                "štatistiky",
+                "prieskum",
+                "postoj",
+                "anketa",
+                "obyvateľstvo, populácia",
+                "veľkosť, rozloha",
+                "HDP",
+                "priemerná dĺžka života",
+                "inštitúcie",
+                "členské štáty",
+                "hospodárstvo, ekonomika"
+            ],
+            "sl": [
+                "eu",
+                "Evropska unija",
+                "dejstva",
+                "številke",
+                "podatki",
+                "statistični podatki",
+                "anketa",
+                "odnos, raven zadovoljstva",
+                "raziskava",
+                "prebivalstvo",
+                "velikost",
+                "BDP",
+                "pričakovana življenjska doba",
+                "institucija",
+                "država članica",
+                "gospodarstvo"
+            ],
+            "sv": [
+                "eu",
+                "Europeiska unionen",
+                "fakta",
+                "siffror",
+                "uppgifter, data",
+                "statistik",
+                "enkät, undersökning",
+                "inställning, attityd",
+                "opinionsundersökning",
+                "befolkning",
+                "storlek",
+                "bnp",
+                "förväntad livslängd",
+                "institution",
+                "medlemsland",
+                "ekonomi"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<p>Основни факти и цифри относно институциите на ЕС, държавите-членки и икономиката на ЕС.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_bg.htm\" lang=\"bg\">Живот в ЕС</a>             </h2>             <p>Данните за нивата на просперитет, нагласите, разходите за образование и изучаването на езици разкриват някои от сходствата и различията между държавите-членки на ЕС.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_bg.htm\" lang=\"bg\">Икономика</a>             </h2>             <p>Създаването на единен пазар и съответното увеличение на търговията и общата икономическа дейност превръщат ЕС в основна търговска сила. ЕС се стреми да поддържа икономически растеж чрез инвестиции в транспорта, енергията и изследователската дейност, като същевременно цели да сведе до минимум въздействието върху околната среда на по-нататъшното икономическо развитие.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_bg.htm\"                   lang=\"bg\">Администрация на ЕС - персонал, езици и местоположение</a>             </h2>             <p>ЕС изразходва около 6 % от годишния си бюджет за персонал, администрация и поддръжка на сградите си.</p>"
+            ],
+            "cs": [
+                "<p>Základní údaje o orgánech EU, členských zemích a ekonomice Unie.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_cs.htm\" lang=\"cs\">Život v EU</a>             </h2>             <p>Údaje o životní úrovni, postojích, prostředcích vynakládaných na vzdělávání a o studiu jazyků v jednotlivých členských zemích EU odhalují některé podobnosti i kontrasty.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_cs.htm\" lang=\"cs\">Ekonomika EU</a>             </h2>             <p>Díky vytvoření jednotného trhu a s tím souvisejícímu nárůstu obchodu a celkové hospodářské aktivity se z Evropské unie stala světová obchodní velmoc. Svůj hospodářský růst se snaží udržet investováním do dopravy, energetiky a výzkumu, ale zároveň hledá způsob, jak minimalizovat dopad dalšího ekonomického rozvoje na životní prostředí.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_cs.htm\"                   lang=\"cs\">Správa EU – zaměstnanci, jazyky a pracoviště</a>             </h2>             <p>Na výplaty zaměstnanců, správu a řízení budov vynakládá Evropská unie přibližně 6 % svého ročního rozpočtu.</p>"
+            ],
+            "da": [
+                "<p>Nøgletal og fakta om EU's institutioner, medlemslande og økonomi.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_da.htm\" lang=\"da\">At bo og leve i EU</a>             </h2>             <p>Oplysninger om velstandsniveau, holdninger, uddannelsesudgifter og sprogkundskaber viser nogle af lighederne og forskellene mellem EU's medlemslande.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_da.htm\" lang=\"da\">Økonomien</a>             </h2>             <p>Det indre marked har givet øget vækst og økonomisk aktivitet i almindelighed. Det har gjort EU til en vigtig handelsmagt. EU forsøger at opretholde den økonomiske vækst gennem investering i transport, energi og forskning. Samtidig vil man mindske miljøbelastningen af den økonomiske udvikling.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_da.htm\"                   lang=\"da\">EU-administration - personale, sprog og beliggenhed</a>             </h2>             <p>EU anvender omkring 6 % af det årlige budget på personale, administration og vedligeholdelse af sine bygninger.</p>"
+            ],
+            "de": [
+                "<p>Grundlegende Fakten und Zahlen zu Institutionen, Mitgliedstaaten und Wirtschaft der EU</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_de.htm\" lang=\"de\">Leben in der EU</a>             </h2>             <p>Die Zahlen zum Wohlstandsniveau, zu den Einstellungen der Bürger, zu den Ausgaben für die Bildung und zum Fremdsprachenerwerb zeigen, dass zwischen den EU-Mitgliedstaaten sowohl Gemeinsamkeiten als auch Unterschiede bestehen.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_de.htm\" lang=\"de\">Die Wirtschaft</a>             </h2>             <p>Durch die Schaffung des Binnenmarktes und die damit verbundene Zunahme des Handels und der Wirtschaftsaktivität allgemein hat sich die EU zu einer wichtigen Handelsmacht entwickelt. Die EU setzt sich für ein nachhaltiges Wirtschaftswachstum ein, indem sie in die Wirtschaftszweige Verkehr, Energie und Forschung investiert und gleichzeitig versucht, die Auswirkungen der wirtschaftlichen Weiterentwicklung auf die Umwelt zu begrenzen.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_de.htm\"                   lang=\"de\">EU-Verwaltung - Bedienstete, Sprachen und Standorte</a>             </h2>             <p>Die EU gibt etwa 6 % ihres Jahreshaushalts für Personal, Verwaltung und die Instandhaltung ihrer Gebäude aus.</p>"
+            ],
+            "el": [
+                "<p>Βασικά στοιχεία σχετικά με τα θεσμικά όργανα, τις χώρες μέλη και την οικονομία της ΕΕ.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_el.htm\" lang=\"el\">Η ζωή στην ΕΕ</a>             </h2>             <p>Τα αριθμητικά στοιχεία σχετικά με τα επίπεδα ευημερίας, τη συμπεριφορά, τις δαπάνες για την παιδεία και την εκμάθηση γλωσσών αποκαλύπτουν ορισμένες από τις ομοιότητες και τις διαφορές μεταξύ των κρατών μελών της ΕΕ.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_el.htm\" lang=\"el\">Η οικονομία</a>             </h2>             <p>Η δημιουργία της ενιαίας αγοράς και η αντίστοιχη αύξηση των εμπορικών και των γενικών οικονομικών δραστηριοτήτων μεταμόρφωσαν την ΕΕ σε σημαντική εμπορική δύναμη. Η ΕΕ προσπαθεί να επιτύχει βιώσιμη οικονομική ανάπτυξη επενδύοντας στις μεταφορές, την ενέργεια και την έρευνα, επιδιώκοντας όμως ταυτόχρονα να ελαχιστοποιήσει τις περιβαλλοντικές επιπτώσεις της περαιτέρω οικονομικής ανάπτυξης.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_el.htm\"                   lang=\"el\">Διοικητικές υπηρεσίες της ΕΕ - Προσωπικό, γλώσσες και γραφεία</a>             </h2>             <p>Η ΕΕ ξοδεύει το 6% περίπου του ετήσιου προϋπολογισμού της για αμοιβές του προσωπικού της, διοικητικά έξοδα και έξοδα συντήρησης των κτηρίων της.</p>"
+            ],
+            "en": [
+                "<p>Basic facts and figures on the EU institutions, the member countries and the EU economy.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_en.htm\" lang=\"en\">Living in the EU</a>             </h2>             <p>Figures on prosperity levels, attitudes, education spending and language learning reveal some of the similarities and contrasts between EU member countries.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_en.htm\" lang=\"en\">The economy</a>             </h2>             <p>The creation of the single market and the corresponding increase in trade and general economic activity transformed the EU into a major trading power. The EU is trying to sustain economic growth by investing in transport, energy and research, while also seeking to minimise the environmental impact of further economic development.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_en.htm\"                   lang=\"en\">EU administration – staff, languages and location</a>             </h2>             <p>The EU spends around 6% of its annual budget on staff, administration and maintenance of its buildings.</p>"
+            ],
+            "es": [
+                "<p>Datos y cifras básicos de las instituciones de la UE, los países miembros y la economía europea</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_es.htm\" lang=\"es\">Vida en la UE</a>             </h2>             <p>Las cifras de prosperidad, actitudes, gasto en educación y aprendizaje de idiomas revelan algunas de las similitudes y contrastes entre los países de la UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_es.htm\" lang=\"es\">Economía</a>             </h2>             <p>La creación del mercado único y el correspondiente crecimiento del comercio y la actividad económica general han convertido a la UE en una potencia comercial de primer orden. La UE quiere mantener el crecimiento económico invirtiendo en transporte, energía e investigación, a la vez que intenta reducir al mínimo la repercusión del desarrollo económico en el medio ambiente.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_es.htm\"                   lang=\"es\">Administración de la UE: personal, lenguas e instalaciones</a>             </h2>             <p>La UE gasta aproximadamente un 6% de su presupuesto anual en personal, administración y mantenimiento de sus edificios.</p>"
+            ],
+            "et": [
+                "<p>Peamised faktid ja arvandmed ELi institutsioonide, liikmesriikide ja ELi majanduse kohta</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_et.htm\" lang=\"et\">Elu ELis</a>             </h2>             <p>Arvandmed elatustaseme, hoiakute, hariduskulude ja keeleõppe kohta aitavad välja tuua ELi liikmesriikide vahelisi sarnasusi ja kontraste.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_et.htm\" lang=\"et\">Majandus</a>             </h2>             <p>Ühtse turu loomine ning sellega kaasnev kaubanduse ja üldise majandustegevuse kasv muutsid ELi oluliseks kaubanduspartneriks. EL püüab säilitada majanduskasvu, investeerides transporti, energeetikasse ja teadusuuringutesse, soovides samas minimeerida tulevase majandusarengu mõju keskkonnale.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_et.htm\"                   lang=\"et\">ELi haldamine – personal, keeled ja asukoht</a>             </h2>             <p>ELil kulub ligikaudu 6% oma aastaeelarvest personalile, haldusele ja hoonete korrashoiule.</p>"
+            ],
+            "fi": [
+                "<p>Perustietoa EU:n toimielimistä, jäsenmaista ja EU:n taloudesta</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_fi.htm\" lang=\"fi\">Kansalaisena EU:ssa</a>             </h2>             <p>Elintasosta, asenteista, koulutusmenoista ja kieltenopiskelusta kertovat luvut paljastavat yhtäläisyyksiä ja eroavaisuuksia EU-maiden välillä.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_fi.htm\" lang=\"fi\">Talous</a>             </h2>             <p>Yhteismarkkinoiden luominen ja sitä seurannut kaupan kasvu ja yleisen taloudellisuuden toimeliaisuuden lisääntyminen tekivät EU:sta merkittävän kauppamahdin. EU:ssa pyritään pitämään yllä talouskasvua investoimalla liikenteeseen, energiaan ja tutkimukseen, mutta samalla talouskasvun ympäristövaikutukset yritetään pitää mahdollisimman pieninä.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_fi.htm\"                   lang=\"fi\">EU:n hallinto - henkilöstö, toimipaikat ja työkielet</a>             </h2>             <p>Noin 6 % EU:n vuosibudjetista käytetään henkilöstö-, hallinto- ja kiinteistökuluihin.</p>"
+            ],
+            "fr": [
+                "<p>Faits et chiffres sur les institutions, les pays membres et l'économie de l'Union européenne.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_fr.htm\" lang=\"fr\">Vivre dans l'UE</a>             </h2>             <p>Les chiffres concernant les niveaux de prospérité, les attitudes, les dépenses en matière d'éducation ou encore l'apprentissage des langues révèlent des similitudes mais également des contrastes entre les pays membres de l'UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_fr.htm\" lang=\"fr\">L'économie</a>             </h2>             <p>La création du marché unique et l'accroissement du volume des échanges et de l'activité économique qui s'en est suivi a transformé l'UE en une puissance commerciale de premier plan. L'UE s'efforce de soutenir la croissance économique en investissant dans les transports, l'énergie et la recherche, tout en veillant à limiter les effets du développement économique sur l'environnement.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_fr.htm\"                   lang=\"fr\">Administration de l'UE: personnel, langues et lieux d'établissement</a>             </h2>             <p>L'UE consacre environ 6 % de son budget annuel aux dépenses de personnel, d'administration et d'entretien de ses bâtiments.</p>"
+            ],
+            "ga": [
+                "<p>Na fíorais agus na figiúirí bunúsacha maidir le hinstitiúidí an AE, na balltíortha agus geilleagar an AE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_ga.htm\" lang=\"ga\">Maireachtáil san AE</a>             </h2>             <p>Taispeánann figiúirí maidir le leibhéil rathúnais, le dearcthaí, le caiteachas ar oideachas agus le foghlaim teangacha cuid de na cosúlachtaí agus na contrárthachtaí idir tíortha an AE.  </p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_ga.htm\" lang=\"ga\">An geilleagar</a>             </h2>             <p>Bunathrú chun feabhais a rinne mórchumhacht trádála den AE ab ea cruthú an mhargaidh aonair agus an méadú ar thrádáil agus ar ghníomhaíocht eacnamaíoch ginearálta a ghabh leis. Tá an AE ag iarraidh fás eacnamaíoch a chothú trí infheistíocht a dhéanamh in iompar, i bhfuinneamh agus i dtaighde, agus an tionchar a bheidh ar tuilleadh forbartha eacnamaíche ar an gcomhshaol a íoslaghdú ag an am céanna.  </p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_ga.htm\"                   lang=\"ga\">Riarachán an AE - foireann, teangacha agus suíomh</a>             </h2>             <p>Caitheann an AE tuairim is 6% dá bhuiséad bliantúil ar an fhoireann, ar riarachán agus ar chothabháil fhoirgnimh an AE.</p>"
+            ],
+            "hr": [
+                "<p>Osnovne činjenice i brojke o institucijama EU-a, državama članicama i gospodarstvu EU-a</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_hr.htm\" lang=\"hr\">Živjeti u EU-u</a>             </h2>             <p>Pogledom na brojke povezane s razinom blagostanja, mišljenjima, troškovima obrazovanja i učenjem jezika otkrivaju se neke sličnosti i razlike među državama članicama EU-a.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_hr.htm\" lang=\"hr\">Gospodarstvo</a>             </h2>             <p>Stvaranjem jedinstvenog tržišta, a slijedom toga i rastom trgovine i povećanjem opće gospodarske aktivnosti, Europska unija pretvorila se u veliku trgovačku silu. EU nastoji održati gospodarski rast ulažući u promet, energiju i istraživanja, a istovremeno pokušava učinak daljnjeg gospodarskog razvoja na okoliš svesti na minimum.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_hr.htm\"                   lang=\"hr\">Uprava EU-a – osoblje, jezici i lokacije</a>             </h2>             <p>Oko 6 % godišnjeg budžeta Europske unije koristi se za osoblje, upravu i održavanje njezinih zgrada.</p>"
+            ],
+            "hu": [
+                "<p>Alapvető tények és adatok az EU intézményeiről, a tagállamokról és az uniós gazdaságról</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_hu.htm\" lang=\"hu\">Élet az Európai Unióban</a>             </h2>             <p>A jóléttel, az attitűdökkel, az oktatásra fordított összegekkel és a nyelvtanulással kapcsolatos számadatokból fény derül az uniós tagállamok között tapasztalható néhány hasonlóságra és különbségre.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_hu.htm\" lang=\"hu\">A gazdaság</a>             </h2>             <p>Az egységes piac létrehozása, valamint a kereskedelmi és általános gazdasági tevékenység ebből következő fellendülése nyomán az EU kereskedelmi nagyhatalommá vált.  Az Unió a szállításba, energiaiparba és kutatásba fektetett források révén igyekszik fenntartani a gazdasági növekedést, de közben erőfeszítéseket tesz annak érdekében is, hogy a gazdasági növekedés a lehető legkevésbé terhelje meg a környezetet.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_hu.htm\"                   lang=\"hu\">Uniós igazgatás - személyzet, nyelvek és helyszínek</a>             </h2>             <p>Az EU az éves költségvetésének hozzávetőleg 6%-át fordítja személyzeti, igazgatási és az épületei fenntartásával kapcsolatos kiadásokra.</p>"
+            ],
+            "it": [
+                "<p>Principali informazioni sulle istituzioni, i paesi membri e l'economia dell'UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_it.htm\" lang=\"it\">Vivere nell'UE</a>             </h2>             <p>I dati relativi alla qualità di vita, gli atteggiamenti, la spesa per l'istruzione e il grado di apprendimento delle lingue rivelano alcune similitudini, ma anche dei contrasti tra i paesi membri dell'UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_it.htm\" lang=\"it\">L'economia</a>             </h2>             <p>La realizzazione del mercato unico ed il conseguente aumento dei commerci e dell'attività economica in generale hanno fatto dell'UE una grande potenza commerciale. Per sostenere la crescita, l'UE sta investendo nei trasporti, nell'energia e nella ricerca, cercando al tempo stesso di ridurre al minimo l'impatto ambientale dello sviluppo economico.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_it.htm\"                   lang=\"it\">Amministrazione dell'UE: personale, lingue e sedi</a>             </h2>             <p>L'UE destina circa l'6% del suo bilancio annuale alle spese per il personale, l'amministrazione e la manutenzione dei suoi edifici.</p>"
+            ],
+            "lt": [
+                "<p>Pagrindiniai faktai apie ES institucijas, valstybes nares, ES ekonomiką ir jų statistika.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_lt.htm\" lang=\"lt\">Gyvenimas ES</a>             </h2>             <p>Gerovės lygio, požiūrių, švietimo išlaidų ir kalbų mokymosi statistika parodo ES valstybių narių panašumus ir skirtumus.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_lt.htm\" lang=\"lt\">Ekonomika</a>             </h2>             <p>Sukūrus bendrąją rinką ir atitinkamai suintensyvėjus prekybai bei bendrai ekonominei veiklai ES tapo viena iš galingiausių prekybos srityje. ES stengiasi palaikyti ekonomikos augimą investuodama į transportą, energetiką ir mokslinius tyrimus kartu siekdama, kad tolesnio ekonomikos vystymosi poveikis aplinkai būtų kuo mažesnis.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_lt.htm\"                   lang=\"lt\">ES administracija: darbuotojai, kalbos, patalpos</a>             </h2>             <p>ES institucijų darbuotojams, administracijai ir pastatų priežiūrai skiriama apie 6 % metinio ES biudžeto.</p>"
+            ],
+            "lv": [
+                "<p>Galvenie fakti un skaitļi par ES iestādēm, dalībvalstīm un ES ekonomiku.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_lv.htm\" lang=\"lv\">Dzīve Eiropas Savienībā</a>             </h2>             <p>Skaitļi, kas raksturo labklājības līmeni, attieksmi, tēriņus izglītības jomā vai valodu apguvē, norāda uz kopīgajām iezīmēm un arī uz kontrastiem starp ES dalībvalstīm.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_lv.htm\" lang=\"lv\">Ekonomika</a>             </h2>             <p>Līdz ar vienotā tirgus izveidi un ar to saistīto tirdzniecības un ekonomiskās aktivitātes apjoma pieaugumu ES kļuva par vienu no galvenajām tirdzniecības lielvarām. ES tiecas atbalstīt ekonomikas izaugsmi un ieguldījumus transportā, enerģētikā un pētniecībā, tajā pašā laikā gādājot par to, lai mazinātu ekonomikas attīstības ietekmi uz vidi.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_lv.htm\"                   lang=\"lv\">ES pārvalde — personāls, valodas un ēkas</a>             </h2>             <p>Apmēram 6 % sava budžeta ES atvēl personāla, pārvaldes un ēku uzturēšanas izmaksām.</p>"
+            ],
+            "mt": [
+                "<p>Fatti u figuri bażiċi dwar l-istituzzjonijiet tal-UE, il-pajjiżi membri u l-ekonomija tal-UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_mt.htm\" lang=\"mt\">Ħajja fl-UE</a>             </h2>             <p>Il-figuri dwar il-livelli tal-prosperità, l-attitudnijiet, l-infiq fuq l-edukazzjoni u t-tagħlim tal-lingwi jiżvelaw uħud mis-similaritajiet u l-kuntrasti bejn il-pajjiżi membri tal-UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_mt.htm\" lang=\"mt\">Ekonomija</a>             </h2>             <p>Il-ħolqien tas-suq uniku u ż-żieda korrispondenti fil-kummerċ u l-attività ekonomika ġenerali trasformaw l-UE f’forza ewlenija fil-kummerċ. L-UE qed tipprova żżomm it-tkabbir ekonomiku billi tinvesti fit-trasport, l-enerġija u r-riċerka, filwaqt li tipprova timminimizza l-impatt ambjentali ta’ iżjed żvilupp ekonomiku.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_mt.htm\"                   lang=\"mt\">Amministrazzjoni tal-UE - staff, lingwi u lokazzjoni</a>             </h2>             <p>L-UE tonfoq madwar 6% tal-baġit annwali tagħha fuq staff, amministrazzjoni u manutenzjoni tal-bini tagħha.</p>"
+            ],
+            "nl": [
+                "<p>Feiten en cijfers over de instellingen, landen en economie van de EU.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_nl.htm\" lang=\"nl\">Wonen in de EU</a>             </h2>             <p>Cijfers over welvaart, opvattingen, onderwijsuitgaven en talenonderwijs laten zien in hoeverre EU-landen op elkaar lijken of juist van elkaar verschillen.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_nl.htm\" lang=\"nl\">De economie</a>             </h2>             <p>Dankzij de interne markt en de toegenomen handel en algemene economische bedrijvigheid is de EU een grote handelsmacht. De EU wil de economische groei verder ontwikkelen door te investeren in vervoer, energie en onderzoek, en tegelijkertijd de milieueffecten van die groei zoveel mogelijk beperken.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_nl.htm\"                   lang=\"nl\">EU-bestuur: personeel, talen, vestigingsplaatsen</a>             </h2>             <p>De EU besteedt ieder jaar ongeveer 6% van de totale begroting aan personeel, administratie en gebouwen.</p>"
+            ],
+            "pl": [
+                "<p>Podstawowe fakty i liczby na temat instytucji UE, państw członkowskich oraz gospodarki</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_pl.htm\" lang=\"pl\">Życie w UE</a>             </h2>             <p>Dane dotyczące poziomu życia, euroentuzjazmu obywateli oraz wydatków na edukację i naukę języków obcych ujawniają zarówno wiele podobieństw, jak i wiele różnic między państwami członkowskimi UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_pl.htm\" lang=\"pl\">Gospodarka</a>             </h2>             <p>Ustanowienie jednolitego rynku oraz związany z nim wzrost handlu i działalności gospodarczej sprawiły, że UE stała się znaczącą potęgą handlową. UE stara się utrzymać wzrost gospodarczy poprzez inwestycje w transport, energię i badania, a także dąży do zminimalizowania negatywnego wpływu rozwoju gospodarczego na środowisko naturalne.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_pl.htm\"                   lang=\"pl\">Administracja UE - pracownicy, języki i siedziba</a>             </h2>             <p>UE wydaje około 6 proc. swojego rocznego budżetu na personel, administrację i utrzymanie budynków.</p>"
+            ],
+            "pt": [
+                "<p>Principais factos e números sobre as instituições europeias, os Estados-Membros e a economia da UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_pt.htm\" lang=\"pt\">Viver na UE</a>             </h2>             <p>Os dados sobre os níveis de prosperidade, as atitudes, as despesas com a educação e a aprendizagem de línguas revelam algumas das similitudes e contrastes entre os países da UE.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_pt.htm\" lang=\"pt\">A economia</a>             </h2>             <p>A criação do mercado único e a correspondente intensificação do comércio e da actividade económica em geral transformaram a UE numa importante potência comercial. A UE procura que a sua economia se desenvolva de uma forma sustentável através de investimentos nos sectores dos transportes, da energia e da investigação, procurando simultaneamente minimizar o impacto ambiental do desenvolvimento económico.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_pt.htm\"                   lang=\"pt\">A administração da UE: recursos humanos, línguas e instalações</a>             </h2>             <p>A UE gasta cerca de 6% do seu orçamento anual em recursos humanos, administração e manutenção dos seus edifícios.</p>"
+            ],
+            "ro": [
+                "<p>Informaţii şi cifre despre instituţiile UE, statele membre şi economia europeană.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_ro.htm\" lang=\"ro\">Viaţa în UE</a>             </h2>             <p>Statisticile privind nivelul de prosperitate, atitudinile, cheltuielile din domeniul educaţiei şi interesul faţă de învăţarea limbilor străine arată că între statele membre există atât asemănări, cât şi deosebiri.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_ro.htm\" lang=\"ro\">Economia</a>             </h2>             <p>Crearea pieţei unice şi intensificarea schimburilor comerciale şi a activităţii economice în general au transformat UE într-una dintre cele mai mari puteri comerciale. Uniunea depune eforturi pentru a menţine o creştere durabilă investind în transporturi, energie şi cercetare şi încercând, în acelaşi timp, să reducă impactul pe care evoluţiile economice viitoare le-ar putea avea asupra mediului.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_ro.htm\"                   lang=\"ro\">Administrarea UE - personal, limbi şi locaţii</a>             </h2>             <p>UE alocă aproximativ 6% din bugetul său anual cheltuielilor cu personalul, cheltuielilor administrative şi de întreţinere a clădirilor.</p>"
+            ],
+            "sk": [
+                "<p>Základné fakty a čísla o inštitúciách, členských štátoch a hospodárstve EÚ.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_sk.htm\" lang=\"sk\">Život v EÚ</a>             </h2>             <p>Čísla o úrovniach prosperity, o výdavkoch na vzdelávanie či štúdium jazykov a informácie o postojoch odhaľujú isté podobnosti, ale aj odlišnosti medzi členskými štátmi EÚ.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_sk.htm\" lang=\"sk\">Hospodárstvo</a>             </h2>             <p>Vytvorenie jednotného trhu a súvisiaci rozmach obchodu a hospodárskych činností premenil EÚ na významnú obchodnú mocnosť. EÚ sa snaží zabezpečiť udržateľnosť hospodárskeho rastu investíciami do dopravy, energetiky a výskumu. Súčasne sa snaží minimalizovať vplyvy ďalšieho rozvoja hospodárstva na životné prostredie.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_sk.htm\"                   lang=\"sk\">Administratíva EÚ - zamestnanci, jazyky a sídla</a>             </h2>             <p>Výdavky EÚ na zamestnancov, administratívu a správu budov dosahujú približne 6 % jej ročného rozpočtu.</p>"
+            ],
+            "sl": [
+                "<p>Osnovni podatki o institucijah, državah članicah in gospodarstvu EU.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_sl.htm\" lang=\"sl\">Življenje v EU</a>             </h2>             <p>Podatki o blaginji, ravni zadovoljstva, višini sredstev za izobraževanje in učenju jezikov razkrivajo podobnosti in razlike v življenjski ravni med državami članicami EU.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_sl.htm\" lang=\"sl\">Gospodarstvo</a>             </h2>             <p>Z oblikovanjem enotnega trga ter povečanjem obsega trgovanja in višjo gospodarsko rastjo je Evropska unija postala trgovinska velesila. S povečanjem naložb v prometni in energetski sektor ter raziskave si prizadeva za trajno gospodarsko rast, obenem pa želi zmanjšati negativne okoljske vplive gospodarskega razvoja.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_sl.htm\"                   lang=\"sl\">Uprava EU - osebje, jeziki in lokacija institucij</a>             </h2>             <p>Evropska unija porabi približno 6 % svojega letnega proračuna za plače zaposlenih, administrativne stroške in vzdrževanje stavb.</p>"
+            ],
+            "sv": [
+                "<p>Fakta och siffror om EU:s institutioner, medlemsländer och ekonomi.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/living/index_sv.htm\" lang=\"sv\">Att bo i EU</a>             </h2>             <p>Uppgifterna om välstånd, attityder, utgifter för utbildning och språkkunskaper visar på några av likheterna och skillnaderna mellan EU-länderna.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/economy/index_sv.htm\" lang=\"sv\">Ekonomin</a>             </h2>             <p>EU:s inre marknad har lett till en ökad handel och ekonomisk verksamhet i allmänhet, vilket har gjort EU till en viktig handelsmakt. EU stöder den ekonomiska tillväxten genom att investera i transport, energi och forskning, samtidigt som man försöker minimera miljöeffekterna av den ekonomiska utvecklingen.</p>             <h2>                <a href=\"http://europa.eu/about-eu/facts-figures/administration/index_sv.htm\"                   lang=\"sv\">EU:s förvaltning - personal, språk och verksamhetsorter</a>             </h2>             <p>Ungefär 6 procent av EU:s budget går till personal, förvaltning och underhåll av kontorsbyggnader.</p>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_af418c86642dc64ed3b9430a9d6e4bec"
+            ]
+        },
+        "download_item": {
+            "und": [
+                "download_item_af418c86642dc64ed3b9430a9d6e4bec"
+            ]
+        }
+    }
+}

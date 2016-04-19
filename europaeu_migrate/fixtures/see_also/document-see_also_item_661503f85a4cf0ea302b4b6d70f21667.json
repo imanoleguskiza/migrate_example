@@ -1,0 +1,303 @@
+{
+    "_id": "see_also_item_661503f85a4cf0ea302b4b6d70f21667",
+    "type": "see_also_item",
+    "default_language": "en",
+    "languages": [
+        "pt",
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "es",
+        "fr",
+        "ga",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "hr"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "DORIE – База данни на Европейската комисия с документи",
+                "Търсене в историческите архиви на Комисията"
+            ],
+            "cs": [
+                "DORIE – Databáze dokumentů Evropské komise",
+                "Vyhledávání v archivu Komise"
+            ],
+            "da": [
+                "DORIE – Europa-Kommissionens dokumentdatabase",
+                "Søg i Kommissionens historiske arkiver "
+            ],
+            "de": [
+                "DORIE – Dokumentendatenbank der Europäischen Kommission",
+                "Suche in den historischen Archiven der Kommission "
+            ],
+            "el": [
+                "DORIE – Βάση εγγράφων της Ευρωπαϊκής Επιτροπής ",
+                "Αναζήτηση στα ιστορικά αρχεία της Επιτροπής "
+            ],
+            "en": [
+                "DORIE – European Commission database of documents",
+                "Search the Commission's historical archives "
+            ],
+            "es": [
+                "DORIE: base de datos de documentos de la Comisión Europea",
+                "Buscar en los archivos históricos de la Comisión "
+            ],
+            "et": [
+                "DORIE – Euroopa Komisjoni dokumentide andmebaas",
+                "Otsing Euroopa Komisjoni ajalooarhiividest"
+            ],
+            "fi": [
+                "Dorie-tietokanta – Euroopan komission asiakirjakokoelma",
+                "Haku komission historiallisista arkistoista"
+            ],
+            "fr": [
+                "DORIE – Base de données documentaire de la Commission européenne",
+                "Recherche dans les archives de la Commission"
+            ],
+            "ga": [
+                "DORIE – Bunachar doiciméad an Choimisiúin Eorpaigh",
+                "Cuardaigh cartlanna staire an Choimisiúin "
+            ],
+            "hr": [
+                "DORIE – podatkovna baza dokumenata Europske komisije",
+                "Pretražite Komisijine povijesne arhive"
+            ],
+            "hu": [
+                "DORIE – Az Európai Bizottság dokumentációs adatbázisa",
+                "Keresés a Bizottság történeti levéltárában"
+            ],
+            "it": [
+                "DORIE – Banca dati di documenti della Commissione europea",
+                "Cercare negli archivi storici della Commissione "
+            ],
+            "lt": [
+                "DORIE – Europos Komisijos dokumentų duomenų bazė",
+                "Komisijos istorinių archyvų paieška "
+            ],
+            "lv": [
+                "Eiropas Komisijas datubāze “DORIE”",
+                "Meklēšana Komisijas vēstures arhīvos "
+            ],
+            "mt": [
+                "DORIE – Bażi tad-dejta tad-dokumenti tal-Kummissjoni Ewropea",
+                "Fittex l-arkivji storiċi tal-Kummissjoni "
+            ],
+            "nl": [
+                "DORIE – Documentendatabank van de Europese Commissie",
+                "Zoeken in de historische archieven van de Commissie "
+            ],
+            "pl": [
+                "DORIE – baza dokumentów Komisji Europejskiej",
+                "Szukaj w archiwach Komisji Europejskiej "
+            ],
+            "pt": [
+                "DORIE – Base de dados dos documentos da Comissão Europeia",
+                "Pesquisa no arquivo histórico da Comissão "
+            ],
+            "ro": [
+                "DORIE – Baza de date documentară a Comisiei Europene",
+                "Arhivele istorice ale Comisiei - motor de căutare "
+            ],
+            "sk": [
+                "DORIE – databáza dokumentov Európskej komisie",
+                "Vyhľadávanie v historických archívoch Komisie "
+            ],
+            "sl": [
+                "Podatkovna zbirka dokumentov Evropske komisije (DORIE)",
+                "Iskanje po zgodovinskih arhivih Evropske komisije "
+            ],
+            "sv": [
+                "Dorie – EU-kommissionens dokumentdatabas",
+                "Sök i kommissionens historiska arkiv "
+            ]
+        },
+        "link": {
+            "bg": [
+                "https://open-data.europa.eu/bg/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "cs": [
+                "https://open-data.europa.eu/cs/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "da": [
+                "https://open-data.europa.eu/da/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "de": [
+                "https://open-data.europa.eu/de/data/dataset/sg-dorie",
+                "http://ec.europa.eu/historical_archives/archisplus/arcp_central.cfm?page=recherche&lng=de"
+            ],
+            "el": [
+                "https://open-data.europa.eu/el/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "en": [
+                "https://open-data.europa.eu/en/data/dataset/sg-dorie",
+                "http://ec.europa.eu/historical_archives/archisplus/arcp_central.cfm?page=recherche&lng=en"
+            ],
+            "es": [
+                "https://open-data.europa.eu/es/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "et": [
+                "https://open-data.europa.eu/et/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "fi": [
+                "https://open-data.europa.eu/fi/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "fr": [
+                "https://open-data.europa.eu/fr/data/dataset/sg-dorie",
+                "http://ec.europa.eu/historical_archives/archisplus/arcp_central.cfm?page=recherche&lng=fr"
+            ],
+            "ga": [
+                "https://open-data.europa.eu/ga/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "hr": [
+                "https://open-data.europa.eu/hr/data/dataset/sg-dorie",
+                "empty"
+            ],
+            "hu": [
+                "https://open-data.europa.eu/hu/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "it": [
+                "https://open-data.europa.eu/it/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "lt": [
+                "https://open-data.europa.eu/lt/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "lv": [
+                "https://open-data.europa.eu/lv/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "mt": [
+                "https://open-data.europa.eu/mt/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "nl": [
+                "https://open-data.europa.eu/nl/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "pl": [
+                "https://open-data.europa.eu/pl/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "pt": [
+                "https://open-data.europa.eu/pt/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "ro": [
+                "https://open-data.europa.eu/ro/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "sk": [
+                "https://open-data.europa.eu/sk/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "sl": [
+                "https://open-data.europa.eu/sl/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ],
+            "sv": [
+                "https://open-data.europa.eu/sv/data/dataset/sg-dorie",
+                "http://europa.eu/nolink"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Библиотеки и архиви"
+            ],
+            "cs": [
+                "Knihovny a archivy"
+            ],
+            "da": [
+                "Biblioteker og arkiver"
+            ],
+            "de": [
+                "Bibliotheken und Archive"
+            ],
+            "el": [
+                "Βιβλιοθήκες και αρχεία"
+            ],
+            "en": [
+                "Libraries and archives"
+            ],
+            "es": [
+                "Bibliotecas y archivos"
+            ],
+            "et": [
+                "Raamatukogud ja arhiivid"
+            ],
+            "fi": [
+                "Kirjastot ja arkistot"
+            ],
+            "fr": [
+                "Bibliothèques et archives"
+            ],
+            "ga": [
+                "Leabharlanna agus cartlanna"
+            ],
+            "hr": [
+                "EUROPA – Knjižnice i arhivi"
+            ],
+            "hu": [
+                "Könyvtárak és levéltárak"
+            ],
+            "it": [
+                "Biblioteche e archivi"
+            ],
+            "lt": [
+                "EUROPA. Bibliotekos ir archyvai"
+            ],
+            "lv": [
+                "Bibliotēkas un arhīvi"
+            ],
+            "mt": [
+                "Libreriji u arkivji"
+            ],
+            "nl": [
+                "Bibliotheken en archieven"
+            ],
+            "pl": [
+                "Biblioteki i archiwa"
+            ],
+            "pt": [
+                "Bibliotecas e arquivos"
+            ],
+            "ro": [
+                "Biblioteci şi arhive"
+            ],
+            "sk": [
+                "Knižnice a archívy"
+            ],
+            "sl": [
+                "Knjižnice in arhivi"
+            ],
+            "sv": [
+                "Bibliotek och arkiv"
+            ]
+        }
+    }
+}

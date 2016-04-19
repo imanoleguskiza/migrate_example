@@ -1,0 +1,208 @@
+{
+  "_id": "label_services_about",
+  "type": "menu_service",
+  "default_language": "und",
+  "languages": [
+    "und",
+    "bg",
+    "ca",
+    "cs",
+    "da",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lv",
+    "lt",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "sv",
+    "tr",
+    "uk"
+  ],
+  "fields": {
+    "title": {
+      "bg": [
+        "За този сайт"
+      ],
+      "ca": [
+        "Informació sobre el web"
+      ],
+      "cs": [
+        "O těchto stránkách"
+      ],
+      "cy": [
+        "Ynglŷn â’r wefan hon"
+      ],
+      "da": [
+        "Om dette websted"
+      ],
+      "de": [
+        "Über diese Website"
+      ],
+      "el": [
+        "Γενικά"
+      ],
+      "und": [
+        "About this site"
+      ],
+      "es": [
+        "Sobre este sitio"
+      ],
+      "et": [
+        "Selle saidi kohta"
+      ],
+      "fi": [
+        "Tietoa sivustosta"
+      ],
+      "fr": [
+        "À propos de ce site"
+      ],
+      "ga": [
+        "Faoin suíomh seo"
+      ],
+      "hr": [
+        "O ovoj stranici"
+      ],
+      "hu": [
+        "A honlapról"
+      ],
+      "it": [
+        "Informazioni sul sito"
+      ],
+      "lt": [
+        "Apie svetainę",
+        "Par šo vietni"
+      ],
+      "mt": [
+        "Dwar dan is-sit"
+      ],
+      "nl": [
+        "Over deze site"
+      ],
+      "pl": [
+        "Informacje o stronie"
+      ],
+      "pt": [
+        "Acerca deste sítio"
+      ],
+      "ro": [
+        "Despre site"
+      ],
+      "sk": [
+        "O tejto lokalite"
+      ],
+      "sl": [
+        "O spletišču"
+      ],
+      "sv": [
+        "Om webbplatsen"
+      ],
+      "tr": [
+        "About this site"
+      ],
+      "uk": [
+        "Інформація про цей сайт"
+      ]
+    },
+    "weight": {
+      "und": [
+        3
+      ]
+    },
+    "link": {
+      "bg": [
+        "abouteuropa"
+      ],
+      "ca": [
+        "abouteuropa"
+      ],
+      "cs": [
+        "abouteuropa"
+      ],
+      "da": [
+        "abouteuropa"
+      ],
+      "de": [
+        "abouteuropa"
+      ],
+      "el": [
+        "abouteuropa"
+      ],
+      "und": [
+        "abouteuropa"
+      ],
+      "es": [
+        "abouteuropa"
+      ],
+      "et": [
+        "abouteuropa"
+      ],
+      "fi": [
+        "abouteuropa"
+      ],
+      "fr": [
+        "abouteuropa"
+      ],
+      "ga": [
+        "abouteuropa"
+      ],
+      "hr": [
+        "abouteuropa"
+      ],
+      "hu": [
+        "abouteuropa"
+      ],
+      "it": [
+        "abouteuropa"
+      ],
+      "lt": [
+        "abouteuropa"
+      ],
+      "lv": [
+        "abouteuropa"
+      ],
+      "mt": [
+        "abouteuropa"
+      ],
+      "nl": [
+        "abouteuropa"
+      ],
+      "pl": [
+        "abouteuropa"
+      ],
+      "pt": [
+        "abouteuropa"
+      ],
+      "ro": [
+        "abouteuropa"
+      ],
+      "sk": [
+        "abouteuropa"
+      ],
+      "sl": [
+        "abouteuropa"
+      ],
+      "sv": [
+        "abouteuropa"
+      ],
+      "tr": [
+        "abouteuropa"
+      ],
+      "uk": [
+        "abouteuropa"
+      ]
+    }
+  }
+}

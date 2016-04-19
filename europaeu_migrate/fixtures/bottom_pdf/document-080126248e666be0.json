@@ -1,0 +1,407 @@
+{
+  "_id": "080126248e666be0",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "cs",
+    "bg",
+    "en",
+    "da",
+    "et",
+    "de",
+    "el",
+    "fr",
+    "es",
+    "hr",
+    "lt",
+    "hu",
+    "it",
+    "lv",
+    "mt",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "nl",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2015-02-17 16:34:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        33
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/singl/thumb_banking_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/singl/thumb_banking_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/singl/thumb_banking_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/singl/thumb_banking_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/singl/thumb_banking_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/singl/thumb_banking_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/singl/thumb_banking_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/singl/thumb_banking_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/singl/thumb_banking_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/singl/thumb_banking_fr.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/singl/thumb_banking_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/singl/thumb_banking_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/singl/thumb_banking_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/singl/thumb_banking_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/singl/thumb_banking_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/singl/thumb_banking_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/singl/thumb_banking_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/singl/thumb_banking_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/singl/thumb_banking_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/singl/thumb_banking_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/singl/thumb_banking_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/singl/thumb_banking_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/singl/thumb_banking_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Банково дело и финанси"
+      ],
+      "cs": [
+        "Bankarstvo i financije"
+      ],
+      "da": [
+        "Bankvæsen og finans"
+      ],
+      "de": [
+        "Banken und Finanzen"
+      ],
+      "el": [
+        "Τραπεζικός και χρηματοπιστωτικός τομέας"
+      ],
+      "en": [
+        "Banking and finance"
+      ],
+      "es": [
+        "Banca y finanzas"
+      ],
+      "et": [
+        "Pangandus- ja finantssektor"
+      ],
+      "fi": [
+        "Pankki- ja rahoitusala"
+      ],
+      "fr": [
+        "Banques et finance"
+      ],
+      "hr": [
+        "Bankarstvo i financije"
+      ],
+      "hu": [
+        "Bank- és pénzügyek"
+      ],
+      "it": [
+        "Banche e finanza"
+      ],
+      "lt": [
+        "Bankininkystė ir finansai"
+      ],
+      "lv": [
+        "Banku darbība un finanses"
+      ],
+      "mt": [
+        "Servizzi bankarji u Finanzi"
+      ],
+      "nl": [
+        "Bankwezen en financiën"
+      ],
+      "pl": [
+        "Bankowość i finanse"
+      ],
+      "pt": [
+        "Setor bancário e financeiro"
+      ],
+      "ro": [
+        "Finanțe și bănci"
+      ],
+      "sk": [
+        "Bankovníctvo a financie"
+      ],
+      "sl": [
+        "Bančništvo in finance"
+      ],
+      "sv": [
+        "Bank- och finanstjänster"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Банково дело и финанси"
+      ],
+      "cs": [
+        "Bankarstvo i financije"
+      ],
+      "da": [
+        "Bankvæsen og finans"
+      ],
+      "de": [
+        "Banken und Finanzen"
+      ],
+      "el": [
+        "Τραπεζικός και χρηματοπιστωτικός τομέας"
+      ],
+      "en": [
+        "Banking and finance"
+      ],
+      "es": [
+        "Banca y finanzas"
+      ],
+      "et": [
+        "Pangandus- ja finantssektor"
+      ],
+      "fi": [
+        "Pankki- ja rahoitusala"
+      ],
+      "fr": [
+        "Banques et finance"
+      ],
+      "hr": [
+        "Bankarstvo i financije"
+      ],
+      "hu": [
+        "Bank- és pénzügyek"
+      ],
+      "it": [
+        "Banche e finanza"
+      ],
+      "lt": [
+        "Bankininkystė ir finansai"
+      ],
+      "lv": [
+        "Banku darbība un finanses"
+      ],
+      "mt": [
+        "Servizzi bankarji u Finanzi"
+      ],
+      "nl": [
+        "Bankwezen en financiën"
+      ],
+      "pl": [
+        "Bankowość i finanse"
+      ],
+      "pt": [
+        "Setor bancário e financeiro"
+      ],
+      "ro": [
+        "Finanțe și bănci"
+      ],
+      "sk": [
+        "Bankovníctvo a financie"
+      ],
+      "sl": [
+        "Bančništvo in finance"
+      ],
+      "sv": [
+        "Bank- och finanstjänster"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през ноември 2014 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Rukopis aktualizován v Listopad 2014</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i november 2014</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Manuskript aktualisiert im November 2014</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Νοέμβριος του 2014.</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<p class=\"readmore_float\">Manuscript completed in November 2014</p><p class=\"series\">This publication is part of the 'European Union explained' series</p>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto original actualizado en noviembre de 2014</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud november 2014</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty marraskuu 2014</p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit actualisé en novembre 2014</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u studeni 2014.</p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">A kézirat frissítve: 2014. november</p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Redazione aggiornata ad novembre 2014</p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2014 m. novembris mėn.</p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunināts 2014. gada novembris.</p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Manuskritt aġġornat f'Novembru 2014</p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Tekst bijgewerkt in november 2014</p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano w listopad 2014 r.</p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em novembro de 2014</p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în noiembrie 2014</p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol aktualizovaný v november 2014</p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen november 2014.</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterat i november 2014</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c31"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://bookshop.europa.eu/bg/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-BG-C/NA0414872BGC_002.pdf?FileName=NA0414872BGC_002.pdf&SKU=NA0414872BGC_PDF&CatalogueNumber=NA-04-14-872-BG-C"
+      ],
+      "cs": [
+        "http://bookshop.europa.eu/cs/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-HR-C/NA0414872HRC_002.pdf?FileName=NA0414872HRC_002.pdf&SKU=NA0414872HRC_PDF&CatalogueNumber=NA-04-14-872-HR-C"
+      ],
+      "da": [
+        "http://bookshop.europa.eu/da/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-DA-C/NA0414872DAC_002.pdf?FileName=NA0414872DAC_002.pdf&SKU=NA0414872DAC_PDF&CatalogueNumber=NA-04-14-872-DA-C"
+      ],
+      "de": [
+        "http://bookshop.europa.eu/de/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-DE-C/NA0414872DEC_002.pdf?FileName=NA0414872DEC_002.pdf&SKU=NA0414872DEC_PDF&CatalogueNumber=NA-04-14-872-DE-C"
+      ],
+      "el": [
+        "http://bookshop.europa.eu/el/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-EL-C/NA0414872ELC_002.pdf?FileName=NA0414872ELC_002.pdf&SKU=NA0414872ELC_PDF&CatalogueNumber=NA-04-14-872-EL-C"
+      ],
+      "en": [
+        "http://bookshop.europa.eu/en/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-EN-C/NA0414872ENC_002.pdf?FileName=NA0414872ENC_002.pdf&SKU=NA0414872ENC_PDF&CatalogueNumber=NA-04-14-872-EN-C"
+      ],
+      "es": [
+        "http://bookshop.europa.eu/es/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-ES-C/NA0414872ESC_002.pdf?FileName=NA0414872ESC_002.pdf&SKU=NA0414872ESC_PDF&CatalogueNumber=NA-04-14-872-ES-C"
+      ],
+      "et": [
+        "http://bookshop.europa.eu/et/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-ET-C/NA0414872ETC_002.pdf?FileName=NA0414872ETC_002.pdf&SKU=NA0414872ETC_PDF&CatalogueNumber=NA-04-14-872-ET-C"
+      ],
+      "fi": [
+        "http://bookshop.europa.eu/fi/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-FI-C/NA0414872FIC_002.pdf?FileName=NA0414872FIC_002.pdf&SKU=NA0414872FIC_PDF&CatalogueNumber=NA-04-14-872-FI-C"
+      ],
+      "fr": [
+        "http://bookshop.europa.eu/fr/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-FR-C/NA0414872FRC_002.pdf?FileName=NA0414872FRC_002.pdf&SKU=NA0414872FRC_PDF&CatalogueNumber=NA-04-14-872-FR-C"
+      ],
+      "hr": [
+        "http://bookshop.europa.eu/hr/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-HR-C/NA0414872HRC_002.pdf?FileName=NA0414872HRC_002.pdf&SKU=NA0414872HRC_PDF&CatalogueNumber=NA-04-14-872-HR-C"
+      ],
+      "hu": [
+        "http://bookshop.europa.eu/hu/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-HU-C/NA0414872HUC_002.pdf?FileName=NA0414872HUC_002.pdf&SKU=NA0414872HUC_PDF&CatalogueNumber=NA-04-14-872-HU-C"
+      ],
+      "it": [
+        "http://bookshop.europa.eu/it/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-IT-C/NA0414872ITC_002.pdf?FileName=NA0414872ITC_002.pdf&SKU=NA0414872ITC_PDF&CatalogueNumber=NA-04-14-872-IT-C"
+      ],
+      "lt": [
+        "http://bookshop.europa.eu/lt/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-LT-C/NA0414872LTC_002.pdf?FileName=NA0414872LTC_002.pdf&SKU=NA0414872LTC_PDF&CatalogueNumber=NA-04-14-872-LT-C"
+      ],
+      "lv": [
+        "http://bookshop.europa.eu/lv/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-LV-C/NA0414872LVC_002.pdf?FileName=NA0414872LVC_002.pdf&SKU=NA0414872LVC_PDF&CatalogueNumber=NA-04-14-872-LV-C"
+      ],
+      "mt": [
+        "http://bookshop.europa.eu/mt/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-MT-C/NA0414872MTC_002.pdf?FileName=NA0414872MTC_002.pdf&SKU=NA0414872MTC_PDF&CatalogueNumber=NA-04-14-872-MT-C"
+      ],
+      "nl": [
+        "http://bookshop.europa.eu/nl/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-NL-C/NA0414872NLC_002.pdf?FileName=NA0414872NLC_002.pdf&SKU=NA0414872NLC_PDF&CatalogueNumber=NA-04-14-872-NL-C"
+      ],
+      "pl": [
+        "http://bookshop.europa.eu/pl/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-PL-C/NA0414872PLC_002.pdf?FileName=NA0414872PLC_002.pdf&SKU=NA0414872PLC_PDF&CatalogueNumber=NA-04-14-872-PL-C"
+      ],
+      "pt": [
+        "http://bookshop.europa.eu/pt/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-PT-C/NA0414872PTC_002.pdf?FileName=NA0414872PTC_002.pdf&SKU=NA0414872PTC_PDF&CatalogueNumber=NA-04-14-872-PT-C"
+      ],
+      "ro": [
+        "http://bookshop.europa.eu/ro/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-RO-C/NA0414872ROC_002.pdf?FileName=NA0414872ROC_002.pdf&SKU=NA0414872ROC_PDF&CatalogueNumber=NA-04-14-872-RO-C"
+      ],
+      "sk": [
+        "http://bookshop.europa.eu/sk/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-SK-C/NA0414872SKC_002.pdf?FileName=NA0414872SKC_002.pdf&SKU=NA0414872SKC_PDF&CatalogueNumber=NA-04-14-872-SK-C"
+      ],
+      "sl": [
+        "http://bookshop.europa.eu/sl/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-SL-C/NA0414872SLC_002.pdf?FileName=NA0414872SLC_002.pdf&SKU=NA0414872SLC_PDF&CatalogueNumber=NA-04-14-872-SL-C"
+      ],
+      "sv": [
+        "http://bookshop.europa.eu/sv/banking-and-finance-pbNA0414872/downloads/NA-04-14-872-SV-C/NA0414872SVC_002.pdf?FileName=NA0414872SVC_002.pdf&SKU=NA0414872SVC_PDF&CatalogueNumber=NA-04-14-872-SV-C"
+      ]
+    }
+  }
+}

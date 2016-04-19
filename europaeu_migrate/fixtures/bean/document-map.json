@@ -1,0 +1,20 @@
+{
+  "_id": "map",
+  "type": "webtools",
+  "default_language": "und",
+  "languages": [
+    "und"
+  ],
+  "fields": {
+    "title": {
+      "und": [
+        "Webtools map block"
+      ]
+    },
+    "json_object": {
+      "und": [
+        "{\n\"service\": \"map\",\n\"custom\": \"http:\/\/localhost\/platform\/sites\/all\/modules\/custom\/europaeu_maps_charts\/js\/abouteu_map.js\"\n}"
+      ]
+    }
+  }
+}

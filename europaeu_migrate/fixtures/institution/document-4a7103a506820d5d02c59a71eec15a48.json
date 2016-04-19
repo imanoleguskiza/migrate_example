@@ -1,0 +1,789 @@
+{
+  "_id": "4a7103a506820d5d02c59a71eec15a48",
+  "type": "institution",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/security_agencies/eda/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска агенция по отбрана"
+      ],
+      "cs": [
+        "Evropská obranná agentura"
+      ],
+      "da": [
+        "Det Europæiske Forsvarsagentur"
+      ],
+      "de": [
+        "Europäische Verteidigungsagentur"
+      ],
+      "el": [
+        "Ευρωπαϊκός Οργανισμός Άμυνας"
+      ],
+      "en": [
+        "European Defence Agency"
+      ],
+      "es": [
+        "Agencia Europea de Defensa"
+      ],
+      "et": [
+        "Euroopa Kaitseagentuur"
+      ],
+      "fi": [
+        "Eurooopan puolustusvirasto"
+      ],
+      "fr": [
+        "Agence européenne de défense"
+      ],
+      "ga": [
+        "An Ghníomhaireacht Eorpach um Chosaint"
+      ],
+      "hr": [
+        "Europska agencija za obranu"
+      ],
+      "hu": [
+        "Európai Védelmi Ügynökség"
+      ],
+      "it": [
+        "Agenzia europea per la difesa"
+      ],
+      "lt": [
+        "Europos gynybos agentūra"
+      ],
+      "lv": [
+        "Eiropas Aizsardzības aģentūra"
+      ],
+      "mt": [
+        "Aġenzija Ewropea għad-Difiża"
+      ],
+      "nl": [
+        "Europees Defensieagentschap"
+      ],
+      "pl": [
+        "Europejska Agencja Obrony"
+      ],
+      "pt": [
+        "Agência Europeia de Defesa"
+      ],
+      "ro": [
+        "Agenţia Europeană de Apărare"
+      ],
+      "sk": [
+        "Evropská obranná agentura"
+      ],
+      "sl": [
+        "Evropska obrambna agencija"
+      ],
+      "sv": [
+        "Europeiska försvarsbyrån"
+      ]
+    },
+    "category": {
+      "und": [
+        "23337c35",
+        "40261c24"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "AGENCIES"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "EUROPA/"
+      ],
+      "es": [
+        "EUROPA"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "EUROPA/"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA/"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "AGENCIES"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "cs": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "sk": [
+        "58-Document for general distribution (intended for the general public)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Достъп и основна информация за Европейската агенция по отбрана, агенция на Европейския съюз "
+      ],
+      "cs": [
+        "Přístup k Evropské obranné agentuře, agentuře Evropské unie, a obecné informace o ní"
+      ],
+      "da": [
+        "Adgang til og baggrundsoplysninger om Det Europæiske Forsvarsagentur, et EU-agentur"
+      ],
+      "de": [
+        "Zugang und Hintergrundinformationen zum Satellitenzentrum der Europäischen Union, einer Einrichtung der Europäischen Union"
+      ],
+      "el": [
+        "Πρόσβαση στην ιστοσελίδα και ενημερωτικό υπόβαθρο σχετικά με τον Ευρωπαϊκό Αμυντικό Οργανισμό, έναν Οργανισμό (υπηρεσία) της Ευρωπαϊκής Ένωσης"
+      ],
+      "en": [
+        "Access to and background information on the European Defence Agency, an agency of the European Union"
+      ],
+      "es": [
+        "Acceso a la Oficina Comunitaria de Variedades Vegetales, una agencia de la Unión Europea, e información sobre la misma"
+      ],
+      "et": [
+        "Juurdepääs Euroopa Liidu ametile Euroopa Kaitseagentuur ja taustteave ameti kohta"
+      ],
+      "fi": [
+        "Tietoa Euroopan unionin satelliittikeskuksesta, joka on yksi Euroopan unionin erillisvirastoista"
+      ],
+      "fr": [
+        "Accès au site de l'Agence européenne de défense, une des agences de l’Union européenne, et informations générales à son sujet."
+      ],
+      "ga": [
+        "Rochtain ar an nGníomhaireacht Eorpach um Chosaint, ar gníomhaireacht de chuid an Aontais Eorpaigh í, agus faisnéis chúlra maidir léi"
+      ],
+      "hr": [
+        "Pristup Europskoj agenciji za obranu (agenciji Europske unije) i popratne informacije"
+      ],
+      "hu": [
+        "Hozzáférés az Európai Védelmi Ügynökséghez, az Európai Unió egyik ügynökségéhez, és háttérinformáció az ügynökségről"
+      ],
+      "it": [
+        "Informazioni generali e accesso  al sito dell’Agenzia europea della difesa, un'agenzia dell'Unione europea"
+      ],
+      "lt": [
+        "Prieiga, pagrindinė informacija apie Europos gynybos agentūrą, Europos Sąjungos agentūra"
+      ],
+      "lv": [
+        "Pieeja informācijai un vispārēja informācija par , Eiropas Aizsardzības aģentūru, Eiropas Savienības aģentūru"
+      ],
+      "mt": [
+        "Aċċess għal, u sfond ta’ tagħrif dwar l-Aġenzija Ewropea għad-Difiża, Aġenzija ta’ l-Unjoni Ewropea"
+      ],
+      "nl": [
+        "Toegang tot en achtergrondinformatie over het Europees defensieagentschap, een agentschap van de Europese Unie"
+      ],
+      "pl": [
+        "dostęp do Agencji oraz podstawowe informacje o Europejskiej Agencji Obrony, agencji Unii Europejskiej"
+      ],
+      "pt": [
+        "Acesso e informações sobre o Instituto Comunitário das Variedades Vegetais, uma Agência da União Europeia"
+      ],
+      "ro": [
+        "Acces şi informaţii generale referitoare la Agenţia Europeană de Apărare, agenţie a Uniunii Europene"
+      ],
+      "sk": [
+        "Přístup k Evropské obranné agentuře, agentuře Evropské unie, a obecné informace o ní"
+      ],
+      "sl": [
+        "Dostop do in ozadje o Evropski obrambni agenciji, agenciji Evropske unije."
+      ],
+      "sv": [
+        "Tillgång till och bakgrundsinformation om Europeiska försvarsbyrån, ett av Europeiska unionens organ"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "europa"
+      ],
+      "cs": [
+        "EUROPA",
+        "agentury",
+        "orgány",
+        "evropská",
+        "unie",
+        "eu"
+      ],
+      "da": [
+        "agenturer",
+        "europa",
+        "institutioner",
+        "den europæiske union",
+        "eu"
+      ],
+      "de": [
+        "europa",
+        "Einrichtungen",
+        "Institutionen",
+        "Europäische Union",
+        "EU"
+      ],
+      "el": [
+        "europa",
+        "Οργανισμοί (υπηρεσίες)",
+        "θεσμικά όργανα",
+        "Ευρωπαϊκή Ένωση",
+        "ΕΕ"
+      ],
+      "en": [
+        "europa"
+      ],
+      "es": [
+        "europa",
+        "organismos",
+        "instituciones",
+        "union europea",
+        "ue"
+      ],
+      "et": [
+        "europa",
+        "Ametid",
+        "institutsioonid",
+        "Euroopa Liit",
+        "EL"
+      ],
+      "fi": [
+        "europa",
+        "erillisvirastot",
+        "toimielimet",
+        "Euroopan unioni",
+        "EU"
+      ],
+      "fr": [
+        "europa",
+        "agences",
+        "institutions",
+        "Union européenne",
+        "UE"
+      ],
+      "ga": [
+        "europa"
+      ],
+      "hr": [
+        "europa"
+      ],
+      "hu": [
+        "europa",
+        "ügynökségek",
+        "intézmények",
+        "európai unió",
+        "eu"
+      ],
+      "it": [
+        "europa",
+        "agenzie",
+        "istituzioni",
+        "Unione europea",
+        "UE"
+      ],
+      "lt": [
+        "europa",
+        "agentūros",
+        "institucijos",
+        "europos sąjunga",
+        "es"
+      ],
+      "lv": [
+        "europa",
+        "aģentūras",
+        "iestādes",
+        "eiropas",
+        "savienība",
+        "es"
+      ],
+      "mt": [
+        "europa",
+        "aġenziji",
+        "istituzzjonijiet",
+        "unjoni ewropea",
+        "ue"
+      ],
+      "nl": [
+        "europa",
+        "agentschappen",
+        "instellingen",
+        "Europese Unie",
+        "EU"
+      ],
+      "pl": [
+        "europa",
+        "agencje",
+        "instytucje",
+        "unia europejska",
+        "UE"
+      ],
+      "pt": [
+        "europa",
+        "agências",
+        "instituições",
+        "União Europeia",
+        "UE"
+      ],
+      "ro": [
+        "europa"
+      ],
+      "sk": [
+        "EUROPA",
+        "agentury",
+        "orgány",
+        "evropská",
+        "unie",
+        "eu"
+      ],
+      "sl": [
+        "europa",
+        "agencije",
+        "institucije",
+        "evropska unija",
+        "eu"
+      ],
+      "sv": [
+        "europa",
+        "organ",
+        "institutioner",
+        "Europeiska unionen",
+        "EU"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "info1": {
+      "bg": [
+        "<p>Европейската агенция по отбрана е създадена при <a href=\"http://eur-lex.europa.eu/legal-content/bg/TXT/PDF/?uri=CELEX:32004E0551&amp;from=bg\">Съвместно действие на Съвета на министрите от 12 юли 2004 г.</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> с цел:<br/>             </p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>да се подобрят възможностите за отбрана на ЕС, особено в областта на управлението на кризи;</p>                   </li>                   <li>                      <p>да се насърчи сътрудничество на въоръжените сили;</p>                   </li>                   <li>                      <p>да се подобри промишлената и технологична отбранителна база на ЕС, както и да се създаде конкурентен европейски пазар за отбранително оборудване;</p>                   </li>                   <li>                      <p>да се насърчава научноизследователската дейност с цел подобряване на промишления и технологичен потенциал на Европа в областта на отбраната.</p>                   </li>                </ol>             </div>"
+      ],
+      "cs": [
+        "<p>Evropská obranná agentura byla zøízena podle <a href=\"http://eur-lex.europa.eu/legal-content/cs/TXT/PDF/?uri=CELEX:32004E0551&amp;from=cs\"> společné akce Rady ministrů ze dne 12. července 2004</a> <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> s cílem:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>zlepšit obrannyschopnost EU, zejména v oblasti krizového řízení;</p>                   </li>                   <li>                      <p>podporovat spolupráci EU v oblasti vyzbrojování;</p>                   </li>                   <li>                      <p>posílit průmyslovou a technologickou základnu obrany EU a vytvořit evropský konkurenceschopný trh s obranným vybavením;</p>                   </li>                   <li>                      <p>podporovat výzkum s cílem posílení průmyslového a technologického potenciálu Evropy v oblasti obrany.</p>                   </li>                </ol>             </div>"
+      ],
+      "da": [
+        "<p>Det Europæiske Forsvarsagentur blev oprettet ved en fælles aktion, der blev vedtaget af <a href=\"http://eur-lex.europa.eu/legal-content/da/TXT/PDF/?uri=CELEX:32004E0551&amp;from=da\"> Rådet den 12. juli 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> med henblik på:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>at forbedre EU's forsvarskapacitet, især inden for krisestyring</p>                   </li>                   <li>                      <p>at fremme EU's samarbejde om forsvarsmateriel</p>                   </li>                   <li>                      <p>at styrke EU's industri- og teknologibase på forsvarsområdet og skabe et konkurrencedygtigt europæisk marked for forsvarsudstyr.</p>                   </li>                   <li>                      <p>at fremme forskning med henblik på at styrke Europas industri- og teknologipotentiale på forsvarsområdet.</p>                   </li>                </ol>             </div>"
+      ],
+      "de": [
+        "<p>Die Europäische Verteidigungsagentur wurde durch eine <a href=\"http://eur-lex.europa.eu/legal-content/de/TXT/PDF/?uri=CELEX:32004E0551&amp;from=de\"> Gemeinsame Aktion des Ministerrats vom 12. Juli 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> eingerichtet und hat folgende Aufgaben:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>Verbesserung der Verteidigungsfähigkeiten der EU, insbesondere im Bereich der Krisenbewältigung;</p>                   </li>                   <li>                      <p>Förderung der Rüstungszusammenarbeit der EU;</p>                   </li>                   <li>                      <p>Stärkung der industriellen und technischen Verteidigungsbasis der EU und Schaffung eines wettbewerbsfähigen europäischen Marktes für Verteidigungsgüter;</p>                   </li>                   <li>                      <p>Förderung von Forschungsprojekten, die auf die Stärkung des industriellen und technologischen Potenzials Europas im Verteidigungsbereich ausgerichtet sind.</p>                   </li>                </ol>             </div>"
+      ],
+      "el": [
+        "<p>Ο Ευρωπαϊκός Οργανισμός Άμυνας δημιουργήθηκε βάσει <a href=\"http://eur-lex.europa.eu/legal-content/el/TXT/PDF/?uri=CELEX:32004E0551&amp;from=el\"> κοινής δράσης του Συμβουλίου των υπουργών της 12ης Ιουλίου 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> με σκοπό:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>την ανάπτυξη των αμυντικών δυνατοτήτων της ΕΕ στον τομέα της διαχείρισης κρίσεων.</p>                   </li>                   <li>                      <p>την προώθηση της ευρωπαϊκής συνεργασίας στον τομέα των εξοπλισμών.</p>                   </li>                   <li>                      <p>την ενίσχυση της ευρωπαϊκής βιομηχανικής και τεχνολογικής βάσης στον τομέα της άμυνας και τη δημιουργία ανταγωνιστικής ευρωπαϊκής αγοράς στον τομέα του αμυντικού εξοπλισμού.</p>                   </li>                   <li>                      <p>την προαγωγή της έρευνας με στόχο την ενίσχυση του ευρωπαϊκού βιομηχανικού και τεχνολογικού δυναμικού στον τομέα της άμυνας.</p>                   </li>                </ol>             </div>"
+      ],
+      "en": [
+        "<p>The European Defence Agency was established under a <a href=\"http://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32004E0551&amp;from=en\"> Joint Action of the Council of Ministers on 12 July, 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     width=\"16\"/> in order to:<br/>             </p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>improve the EU's defence capabilities especially in the field of crisis management;</p>                   </li>                   <li>                      <p>promote EU armaments cooperation;</p>                   </li>                   <li>                      <p>strengthen the EU defence industrial and technological base and create a competitive European defence equipment market;</p>                   </li>                   <li>                      <p>promote research, with a view to strengthening Europe's industrial and technological potential in the defence field.</p>                   </li>                </ol>             </div>"
+      ],
+      "es": [
+        "<p>La Agencia Europea de Defensa <a href=\"http://eur-lex.europa.eu/legal-content/es/TXT/PDF/?uri=CELEX:32004E0551&amp;from=es\"> se creó mediante la Acción Común del Consejo de 12 de julio de 2004</a> <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/>, con el objetivo de:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>impulsar las capacidades de defensa de la UE, especialmente en el ámbito de la gestión de crisis;</p>                   </li>                   <li>                      <p>promover la cooperación europea en materia de armamento;</p>                   </li>                   <li>                      <p>consolidar la base tecnológica e industrial de defensa europea y crear un mercado europeo competitivo de material de defensa; y</p>                   </li>                   <li>                      <p>fomentar la investigación con objeto de fortalecer el potencial tecnológico e industrial de Europa en el ámbito de la defensa.</p>                   </li>                </ol>             </div>"
+      ],
+      "et": [
+        "<p>Euroopa Kaitseagentuur on asutatud <a href=\"http://eur-lex.europa.eu/legal-content/et/TXT/PDF/?uri=CELEX:32004E0551&amp;from=et\"> Euroopa Liidu Nõukogu 12. juuli 2004. aasta ühismeetme</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> kohaselt. Agentuuri ülesanne on</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>ELi kaitsevõime suurendamine eriti kriisijuhtimise valdkonnas,</p>                   </li>                   <li>                      <p>ELi relvastuskoostöö edendamine,</p>                   </li>                   <li>                      <p>ELi kaitse tööstusliku ja tehnoloogilise baasi tugevdamine ja konkurentsivõimelise Euroopa kaitsevarustuse turu loomine,</p>                   </li>                   <li>                      <p>teadusuuringute edendamine, et tugevdada Euroopa kaitsevaldkonna tööstus- ja tehnoloogilist potentsiaali.</p>                   </li>                </ol>             </div>"
+      ],
+      "fi": [
+        "<p>Euroopan puolustusvirasto perustettiin <a href=\"http://eur-lex.europa.eu/legal-content/fi/TXT/PDF/?uri=CELEX:32004E0551&amp;from=fi\"> 12. heinäkuuta 2004 ministerineuvoston yhteisen toiminnan osana</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/>. Sen tarkoituksena on:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>parantaa Euroopan puolustusvalmiuksia erityisesti kriisinhallinnan alalla;</p>                   </li>                   <li>                      <p>edistää asevarustelua koskevaa yhteistyötä Euroopassa;</p>                   </li>                   <li>                      <p>lujittaa eurooppalaisen puolustusteollisuuden ja -teknologian asemaa sekä luoda kilpailukykyiset eurooppalaiset puolustusvälinemarkkinat;</p>                   </li>                   <li>                      <p>edistää tutkimustyötä Euroopan teollisuuden ja teknologian mahdollisuuksien vahvistamiseksi puolustusalalla.</p>                   </li>                </ol>             </div>"
+      ],
+      "fr": [
+        "<p>L'Agence européenne de défense a été créée par une <a href=\"http://eur-lex.europa.eu/legal-content/fr/TXT/PDF/?uri=CELEX:32004E0551&amp;from=fr\"> action commune du Conseil du 12 juillet 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> afin :</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>d'améliorer les capacités de défense de l’Union européenne, notamment dans le domaine de la gestion des crises;</p>                   </li>                   <li>                      <p>de promouvoir la coopération européenne dans le domaine de l'armement;</p>                   </li>                   <li>                      <p>de renforcer la base industrielle et technologique de défense de l'UE et de créer un marché européen des équipements de défense qui soit concurrentiel;</p>                   </li>                   <li>                      <p>de favoriser la recherche, en vue de renforcer le potentiel industriel et technologique européen dans le domaine de la défense.</p>                   </li>                </ol>             </div>"
+      ],
+      "ga": [
+        "<p>                <span class=\"link-disabled\">Bunaíodh an Ghníomhaireacht Eorpach um Chosaint le Gníomhaíocht Chomhpháirteach ó Chomhairle na nAirí an 12 Iúil, 2004</span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Roghnaigh aistriúcháin an naisc roimhe seo.\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Roghnaigh aistriúcháin an naisc roimhe seo.\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/legal-content/bg/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"bg\"                            lang=\"bg\"                            title=\"български (bg)\">                            <span class=\"off-screen\">български (</span>bg<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/cs/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"cs\"                            lang=\"cs\"                            title=\"čeština (cs)\">                            <span class=\"off-screen\">čeština (</span>cs<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/da/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/de/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/et/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"et\"                            lang=\"et\"                            title=\"eesti keel (et)\">                            <span class=\"off-screen\">eesti keel (</span>et<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/el/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/es/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/fr/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/it/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/lv/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"lv\"                            lang=\"lv\"                            title=\"latviešu valoda (lv)\">                            <span class=\"off-screen\">latviešu valoda (</span>lv<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/lt/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"lt\"                            lang=\"lt\"                            title=\"lietuvių kalba (lt)\">                            <span class=\"off-screen\">lietuvių kalba (</span>lt<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/hu/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"hu\"                            lang=\"hu\"                            title=\"magyar (hu)\">                            <span class=\"off-screen\">magyar (</span>hu<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/mt/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"mt\"                            lang=\"mt\"                            title=\"Malti (mt)\">                            <span class=\"off-screen\">Malti (</span>mt<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/nl/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/pl/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/pt/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"pt\"                            lang=\"pt\"                            title=\"português (pt)\">                            <span class=\"off-screen\">português (</span>pt<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/ro/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"ro\"                            lang=\"ro\"                            title=\"română (ro)\">                            <span class=\"off-screen\">română (</span>ro<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/sk/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"sk\"                            lang=\"sk\"                            title=\"slovenčina (sk)\">                            <span class=\"off-screen\">slovenčina (</span>sk<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/sl/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"sl\"                            lang=\"sl\"                            title=\"slovenščina (sl)\">                            <span class=\"off-screen\">slovenščina (</span>sl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/fi/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/sv/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://ec.europa.eu//wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     height=\"16\"                     width=\"16\"/>\t  \t\td’fhonn: <br/>             </p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>cumais chosanta an AE a fheabhsú, go háirithe i réimse na bainistíochta géarchéime; </p>                   </li>                   <li>                      <p>comhar a chur chun cinn maidir le harmálacha an AE;</p>                   </li>                   <li>                      <p>bonn cosanta an AE, ó thaobh na tionsclaíochta agus na teicneolaíochta de, a neartú agus margadh iomaíoch Eorpach a chruthú i dtrealamh cosanta;</p>                   </li>                   <li>                      <p>taighde a chur chun cinn, d'fhonn cumas tionsclaíoch agus teicneolaíochta na hEorpa a neartú i réimse na cosanta. </p>                   </li>                </ol>             </div>"
+      ],
+      "hr": [
+        "<p>                <span class=\"link-disabled\">Europska agencija za obranu osnovana je Zajedničkom akcijom Vijeća ministara od 12. srpnja 2004. </span>                <span class=\"ws-popup ws-modal\">                   <a href=\"javascript:void(o)\" class=\"ws-ico\"                      onclick=\"return webservice.popup(this,'')\"                      title=\"Odaberi prijevod prethodne poveznice\">                      <img src=\"http://europa.eu/wel/images/languages/ws.gif\"                           alt=\"Odaberi prijevod prethodne poveznice\"                           height=\"13\"                           width=\"16\"/>                      <span class=\"s\"> </span>                   </a>                   <span class=\"ws-links\">                      <span class=\"ws-popup-layout\">                         <a href=\"http://eur-lex.europa.eu/legal-content/bg/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"bg\"                            lang=\"bg\"                            title=\"български (bg)\">                            <span class=\"off-screen\">български (</span>bg<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/cs/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"cs\"                            lang=\"cs\"                            title=\"čeština (cs)\">                            <span class=\"off-screen\">čeština (</span>cs<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/da/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"da\"                            lang=\"da\"                            title=\"dansk (da)\">                            <span class=\"off-screen\">dansk (</span>da<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/de/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"de\"                            lang=\"de\"                            title=\"Deutsch (de)\">                            <span class=\"off-screen\">Deutsch (</span>de<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/et/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"et\"                            lang=\"et\"                            title=\"eesti keel (et)\">                            <span class=\"off-screen\">eesti keel (</span>et<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/el/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"el\"                            lang=\"el\"                            title=\"ελληνικά (el)\">                            <span class=\"off-screen\">ελληνικά (</span>el<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/en/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"en\"                            lang=\"en\"                            title=\"English (en)\">                            <span class=\"off-screen\">English (</span>en<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/es/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"es\"                            lang=\"es\"                            title=\"español (es)\">                            <span class=\"off-screen\">español (</span>es<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/fr/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"fr\"                            lang=\"fr\"                            title=\"français (fr)\">                            <span class=\"off-screen\">français (</span>fr<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/it/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"it\"                            lang=\"it\"                            title=\"italiano (it)\">                            <span class=\"off-screen\">italiano (</span>it<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/lv/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"lv\"                            lang=\"lv\"                            title=\"latviešu valoda (lv)\">                            <span class=\"off-screen\">latviešu valoda (</span>lv<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/lt/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"lt\"                            lang=\"lt\"                            title=\"lietuvių kalba (lt)\">                            <span class=\"off-screen\">lietuvių kalba (</span>lt<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/hu/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"hu\"                            lang=\"hu\"                            title=\"magyar (hu)\">                            <span class=\"off-screen\">magyar (</span>hu<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/mt/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"mt\"                            lang=\"mt\"                            title=\"Malti (mt)\">                            <span class=\"off-screen\">Malti (</span>mt<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/nl/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"nl\"                            lang=\"nl\"                            title=\"Nederlands (nl)\">                            <span class=\"off-screen\">Nederlands (</span>nl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/pl/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"pl\"                            lang=\"pl\"                            title=\"polski (pl)\">                            <span class=\"off-screen\">polski (</span>pl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/pt/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"pt\"                            lang=\"pt\"                            title=\"português (pt)\">                            <span class=\"off-screen\">português (</span>pt<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/ro/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"ro\"                            lang=\"ro\"                            title=\"română (ro)\">                            <span class=\"off-screen\">română (</span>ro<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/sk/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"sk\"                            lang=\"sk\"                            title=\"slovenčina (sk)\">                            <span class=\"off-screen\">slovenčina (</span>sk<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/sl/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"sl\"                            lang=\"sl\"                            title=\"slovenščina (sl)\">                            <span class=\"off-screen\">slovenščina (</span>sl<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/fi/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"fi\"                            lang=\"fi\"                            title=\"suomi (fi)\">                            <span class=\"off-screen\">suomi (</span>fi<span class=\"off-screen\">)</span>                         </a>                         <a href=\"http://eur-lex.europa.eu/legal-content/sv/TXT/PDF/?uri=CELEX:32004E0551\"                            class=\"lang\"                            hreflang=\"sv\"                            lang=\"sv\"                            title=\"svenska (sv)\">                            <span class=\"off-screen\">svenska (</span>sv<span class=\"off-screen\">)</span>                         </a>                      </span>                   </span>                </span>                <img src=\"http://ec.europa.eu//wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\"                     height=\"16\"                     width=\"16\"/>\t radi:<br/>             </p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>poboljšanja obrambenih sposobnosti EU-a, posebno u području upravljanja kriznim situacijama</p>                   </li>                   <li>                      <p>promicanja suradnje u naoružanju EU-a</p>                   </li>                   <li>                      <p>jačanja industrijskih i tehnoloških temelja obrane EU-a te stvaranja konkurentnoga europskog tržišta obrambene opreme</p>                   </li>                   <li>                      <p>promicanja istraživanja u cilju jačanja europskoga industrijskog i tehnološkog potencijala u području obrane.</p>                   </li>                </ol>             </div>"
+      ],
+      "hu": [
+        "<p>Az Európai Védelmi Ügynökséget <a href=\"http://eur-lex.europa.eu/legal-content/hu/TXT/PDF/?uri=CELEX:32004E0551&amp;from=hu\"> a Miniszterek Tanácsa 2004. július 12-i együttes fellépésével</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> hozták létre az alábbi céllal</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>az EU védelmi képességeinek javítása, különösen a válságkezelés területén;</p>                   </li>                   <li>                      <p>az uniós fegyverkezési együttműködés előmozdítása;</p>                   </li>                   <li>                      <p>az EU védelmi ipari és technológiai alapjainak megerősítése és versenyképes európai védelmi felszerelési piac létrehozása;</p>                   </li>                   <li>                      <p>a kutatás támogatása Európa védelmi ipari és technológiai potenciáljának megerősítése érdekében.</p>                   </li>                </ol>             </div>"
+      ],
+      "it": [
+        "<p>L’Agenzia europea per la difesa è stata istituita nel quadro di <a href=\"http://eur-lex.europa.eu/legal-content/it/TXT/PDF/?uri=CELEX:32004E0551&amp;from=it\"> un’azione comune del Consiglio dei Ministri, il 12 luglio 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/>, al fine di:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>migliorare le capacità di difesa dell’UE nel settore della gestione delle crisi;</p>                   </li>                   <li>                      <p>promuovere la cooperazione europea in materia di armamenti;</p>                   </li>                   <li>                      <p>rafforzare la base industriale e tecnologica della difesa europea e creare un mercato europeo dei materiali di difesa che sia competitivo;</p>                   </li>                   <li>                      <p>promuovere le attività di ricerca al fine di rafforzare il potenziale industriale e tecnologico dell’Europa in questo settore.</p>                   </li>                </ol>             </div>"
+      ],
+      "lt": [
+        "<p>Europos gynybos agentūra įsteigta remiantis <a href=\"http://eur-lex.europa.eu/legal-content/lt/TXT/PDF/?uri=CELEX:32004E0551&amp;from=lt\"> 2004 m. liepos 12 d. Ministrų Tarybos bendraisiais veiksmais</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> siekiant:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>tobulinti ES gynybos pajėgumus, ypač krizių valdymo srityje;</p>                   </li>                   <li>                      <p>skatinti ES bendradarbiavimą ginkluotės srityje;</p>                   </li>                   <li>                      <p>stiprinti ES gynybos pramoninį bei technologinį pagrindą ir sukurti konkurencingą Europos gynybos įrangos rinką;</p>                   </li>                   <li>                      <p>skatinti mokslinius tyrimus, kad būtų stiprinamas Europos pramonės ir technologijų potencialas gynybos srityje.</p>                   </li>                </ol>             </div>"
+      ],
+      "lv": [
+        "<p>                <a href=\"http://eur-lex.europa.eu/legal-content/lv/TXT/PDF/?uri=CELEX:32004E0551&amp;from=lv\">Pamatojoties uz Ministru padomes Vienoto rīcību, 2004. gada 12. jūlijā</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> tika izveidota Eiropas Aizsardzības aģentūra ar mērķi:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>uzlabot ES aizsardzības spēju īpaši krīzes pārvarēšanas jomā;</p>                   </li>                   <li>                      <p>veicināt ES sadarbību bruņojuma jomā;</p>                   </li>                   <li>                      <p>nostiprināt ES aizsardzības rūpniecisko un tehnoloģisko bāzi un izveidot konkurētspējīgu Eiropas aizsardzības aprīkojuma tirgu;</p>                   </li>                   <li>                      <p>veicināt pētniecību, lai nostiprinātu Eiropas rūpniecisko un tehnoloģisko potenciālu aizsardzības jomā.</p>                   </li>                </ol>             </div>"
+      ],
+      "mt": [
+        "<p>L-Aġenzija Ewropea għad-Difiża twaqqfet taħt l- <a href=\"http://eur-lex.europa.eu/legal-content/mt/TXT/PDF/?uri=CELEX:32004E0551&amp;from=mt\"> Azzjoni Konġunta tal-Kunsill tal-Ministri nhar it-12 ta’ Lulju 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> sabiex:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>tmexxi ’l quddiem il-kapaċitajiet tad-difiża ta’ l-UE speċjalment fil-qasam tat-tmexxija tal-kriżi;</p>                   </li>                   <li>                      <p>tippromwovi l-kooperazzjoni fl-armamenti ta’ l-UE;</p>                   </li>                   <li>                      <p>issaħħaħ il-bażi tad-difiża industrijali u teknoloġika ta’ l-UE u toħloq suq Ewropew kompetittiv tat-tagħmir tad-difiża;</p>                   </li>                   <li>                      <p>tippromwovi r-riċerka, bl-għan li ssaħħaħ il-potenzal industrijali u teknoloġiku ta’ l-Ewropa fil-qasam tad-difiża.</p>                   </li>                </ol>             </div>"
+      ],
+      "nl": [
+        "<p>Het Europees Defensieagentschap is opgericht bij <a href=\"http://eur-lex.europa.eu/legal-content/nl/TXT/PDF/?uri=CELEX:32004E0551&amp;from=nl\"> gemeenschappelijk optreden van de Raad van 12 juli 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/>, met als doel:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>De defensievermogens van de EU te ontwikkelen, in het bijzonder op het gebied van crisisbeheersing;</p>                   </li>                   <li>                      <p>De EU-samenwerking op het stuk van bewapening te bevorderen;</p>                   </li>                   <li>                      <p>De Europese technologische en industriële defensiebasis te versterken en een concurrerende Europese markt voor defensie-uitrusting tot stand te brengen;</p>                   </li>                   <li>                      <p>Het onderzoek te bevorderen, ten einde het Europees industrieel en technologisch potentieel op defensiegebied te versterken.</p>                   </li>                </ol>             </div>"
+      ],
+      "pl": [
+        "<p>Europejską Agencję Obrony powołano na podstawie <a href=\"http://eur-lex.europa.eu/legal-content/pl/TXT/PDF/?uri=CELEX:32004E0551&amp;from=pl\"> wspólnego działania Rady z dnia 12 lipca 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> r. w celu</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>poprawy zdolności obronnych UE, w szczególności w obszarze zarządzania kryzysowego;</p>                   </li>                   <li>                      <p>promowanie europejskiej współpracy w dziedzinie uzbrojenia;</p>                   </li>                   <li>                      <p>wzmocnienie europejskiego przemysłu obronnego i bazy technologicznej oraz stworzenie konkurencyjnego europejskiego rynku uzbrojenia;</p>                   </li>                   <li>                      <p>wspieranie badań w celu wzmocnienia przemysłowego i technologicznego potencjału w zakresie zdolności obronnych.</p>                   </li>                </ol>             </div>"
+      ],
+      "pt": [
+        "<p>A Agência Europeia de Defesa foi criada por uma <a href=\"http://eur-lex.europa.eu/legal-content/pt/TXT/PDF/?uri=CELEX:32004E0551&amp;from=pt\"> Acção Comum do Conselho de Ministros de 12 de Julho de 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> a fim de</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>melhorar as capacidades de defesa da UE sobretudo no domínio da gestão de crises;</p>                   </li>                   <li>                      <p>promover, a nível da UE, a cooperação no domínio do armamento;</p>                   </li>                   <li>                      <p>reforçar a base industrial e tecnológica da UE no domínio da defesa e criar um mercado europeu dos equipamentos de defesa competitivo;</p>                   </li>                   <li>                      <p>promover a investigação com vista a reforçar as potencialidades industriais e tecnológicas europeias no domínio da defesa.</p>                   </li>                </ol>             </div>"
+      ],
+      "ro": [
+        "<p>                <a href=\"http://eur-lex.europa.eu/legal-content/ro/TXT/PDF/?uri=CELEX:32004E0551\">Agenţia Europeană de Apărare a fost înfiinţată printr-o Acţiune comună a Consiliului de Miniştri din 12 iulie 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/>, în următoarele scopuri:<br/>             </p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>îmbunătăţirea capacităţilor de apărare ale UE, în special în domeniul gestionării crizelor;</p>                   </li>                   <li>                      <p>promovarea cooperării UE în domeniul armamentului;</p>                   </li>                   <li>                      <p>consolidarea bazei tehnologice şi industriale de apărare a UE şi crearea unei pieţe de echipamente de apărare europene competitive;</p>                   </li>                   <li>                      <p>promovarea cercetării, în vederea întăririi potenţialului industrial şi tehnologic al Europei în domeniul apărării.</p>                   </li>                </ol>             </div>"
+      ],
+      "sk": [
+        "<p>Evropská obranná agentura byla zøízena podle <a href=\"http://eur-lex.europa.eu/legal-content/cs/TXT/PDF/?uri=CELEX:32004E0551&amp;from=cs\"> společné akce Rady ministrů ze dne 12. července 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> s cílem:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>zlepšit obrannyschopnost EU, zejména v oblasti krizového řízení;</p>                   </li>                   <li>                      <p>podporovat spolupráci EU v oblasti vyzbrojování;</p>                   </li>                   <li>                      <p>posílit průmyslovou a technologickou základnu obrany EU a vytvořit evropský konkurenceschopný trh s obranným vybavením;</p>                   </li>                   <li>                      <p>podporovat výzkum s cílem posílení průmyslového a technologického potenciálu Evropy v oblasti obrany.</p>                   </li>                </ol>             </div>"
+      ],
+      "sl": [
+        "<p>Evropska obrambna agencija je bila ustanovljena s <a href=\"http://eur-lex.europa.eu/legal-content/sl/TXT/PDF/?uri=CELEX:32004E0551&amp;from=sl\"> Skupnim ukrepom Sveta z dne 12. julija 2004</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/> z namenom:</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>izboljšanja obrambnih zmogljivosti EU zlasti na področju kriznega upravljanja;</p>                   </li>                   <li>                      <p>pospeševanja sodelovanja pri oborožitvi EU;</p>                   </li>                   <li>                      <p>krepitve baze evropske obrambne industrije in tehnologije ter vzpostavljanja konkurenčnega evropskega trga obrambne opreme;</p>                   </li>                   <li>                      <p>spodbujanja raziskav z namenom krepitve evropskega industrijskega in tehnološkega potenciala na področju obrambe.</p>                   </li>                </ol>             </div>"
+      ],
+      "sv": [
+        "<p>Europeiska försvarsbyrån inrättades genom <a href=\"http://eur-lex.europa.eu/legal-content/sv/TXT/PDF/?uri=CELEX:32004E0551&amp;from=sv\"> rådets gemensamma åtgärd 2004/551/GUSP</a>                <img src=\"http://europa.eu/wel/images/doc_icons/f_pdf_16.gif\" alt=\"PDF\" border=\"0\"                     height=\"16\"                     style=\"vertical-align: bottom\"                     width=\"16\"/>. Syftet var att</p>             <div class=\"edafirstlist\">                <ol>                   <li>                      <p>stärka EU:s försvarskapacitet, särskilt beträffande krishantering;</p>                   </li>                   <li>                      <p>stärka EU-samarbetet på försvarsmaterielområdet;</p>                   </li>                   <li>                      <p>stärka EU:s industri- och teknikbas inom försvarsområdet och skapa en konkurrenskraftig EU-marknad för försvarsmateriel, och;</p>                   </li>                   <li>                      <p>främja forskning i syftet att stärka EU:s industriella och tekniska potential på försvarsområdet.</p>                   </li>                </ol>             </div>"
+      ]
+    },
+    "info2": {
+      "bg": [
+        "<p>Следователно, настоящите дейности на агенцията включват:</p>             <ol>                <li>                   <p>създаване на конкурентен и систематичен подход при определянето и задоволяването на нуждите на европейската политика за сигурност и отбрана; насърчаване на сътрудничеството между страните членки на ЕС по отношение на отбранителното оборудване;</p>                </li>                <li>                   <p>съдействие при разработването и цялостното преструктуриране на европейската отбранителна промишленост;</p>                </li>                <li>                   <p>насърчаване на европейска научна дейност и технологии, в съответствие с приоритетите на европейските политики;</p>                </li>                <li>                   <p>изпълнение на дейности в тясно сътрудничество с Комисията с цел разработване на международен конкурентен пазар за отбранително оборудване в Европа.</p>                </li>             </ol>             <p>„Конкурентното предимство” на агенцията е нейното умение да се справя с всички тези направления и да реализира увеличаването на ефективността от обединяването им.</p>"
+      ],
+      "cs": [
+        "<p>Současným úkolem agentury tedy je:</p>             <ol>                <li>                   <p>vytvořit komplexní a systematický přístup při definování a uspokojování potřeb Evropské bezpečnostní a obranné politiky;</p>                </li>                <li>                   <p>podporovat vzájemnou spolupráci členských států EU v oblasti obranného vybavení;</p>                </li>                <li>                   <p>napomáhat při rozvoji a celkové restrukturalizaci evropského obranného průmyslu;</p>                </li>                <li>                   <p>podporovat výzkum a technologii v oblasti obrany EU při současném zohlednění evropských politických priorit;</p>                </li>                <li>                   <p>rozvíjet úzkou spolupráci s Komisí v rámci budování mezinárodního konkurenceschopného trhu s obranným vybavením.</p>                </li>             </ol>             <p>„Srovnatelnou výhodou“ agentury je její schopnost vykonávat zmíněné úkoly a propojovat je tak, aby bylo dosaženo synergického účinku. schopnosti.</p>"
+      ],
+      "da": [
+        "<p>Agenturet har derfor i dag følgende opgaver:</p>             <ol>                <li>                   <p>at skabe en global og systematisk tilgang ved fastlæggelsen af den europæiske sikkerheds- og forsvarspolitik og gennemførelsen af denne</p>                </li>                <li>                   <p>at fremme samarbejde om forsvarsudstyr mellem EU's medlemsstater</p>                </li>                <li>                   <p>at bistå med udvikling og global omstrukturering af den europæiske forsvarsindustri</p>                </li>                <li>                   <p>at fremme forsvarsrelateret forskning og teknologi i EU under hensyntagen til de europæiske politiske prioriteringer</p>                </li>                <li>                   <p>i nært samarbejde med Kommissionen at arbejde for udvikling af et internationalt konkurrencedygtigt marked for forsvarsudstyr i Europa.</p>                </li>             </ol>             <p>Agenturets \"komparative fordel\" består i evnen til at beskæftige sig med alle disse forskellige spørgsmål og relatere dem til hinanden med henblik på at opnå en synergieffekt.</p>"
+      ],
+      "de": [
+        "<p>Zu den gegenwärtigen Aufgaben der Agentur zählen daher:</p>             <ol>                <li>                   <p>Erarbeitung eines umfassenden und systematischen Ansatzes bei der Festlegung und Deckung der Bedürfnisse der Europäischen Sicherheits- und Verteidigungspolitik;</p>                </li>                <li>                   <p>Förderung der Zusammenarbeit der Mitgliedstaaten der EU im Bereich der Verteidigungsgüter;</p>                </li>                <li>                   <p>Hilfestellung bei der Entwicklung und Umstrukturierung der europäischen Verteidigungsindustrie;</p>                </li>                <li>                   <p>in enger Zusammenarbeit mit der Kommission Mitwirkung an der Entwicklung eines international wettbewerbsfähigen Marktes für Verteidigungsgüter in Europa.</p>                </li>             </ol>             <p>Der „komparative Vorteil“ der Agentur liegt in ihrer Fähigkeit, all diese Aufgaben anzugehen und sie so miteinander zu verknüpfen, dass die hieraus erwachsenden Synergieeffekte genutzt werden können.</p>"
+      ],
+      "el": [
+        "<p>Ως εκ τούτου, τα τρέχοντα καθήκοντα του οργανισμού περιλαμβάνουν:</p>             <ol>                <li>                   <p>την ανάπτυξη ολοκληρωμένης και συστηματικής προσέγγισης για τον ορισμό και την κάλυψη των αναγκών της Ευρωπαϊκής Πολιτικής Ασφάλειας και Άμυνας.</p>                </li>                <li>                   <p>την προώθηση της συνεργασίας όσον αφορά τον αμυντικό εξοπλισμό μεταξύ των κρατών μελών της ΕΕ.</p>                </li>                <li>                   <p>την ενίσχυση της ανάπτυξης και γενικής αναδιάρθρωσης της ευρωπαϊκής αμυντικής βιομηχανίας.</p>                </li>                <li>                   <p>τηνπροώθησητηςευρωπαϊκήςέρευναςκαιτεχνολογίαςστοντομέατηςάμυνας, λαμβάνοντας υπόψη τις προτεραιότητες της ευρωπαϊκής πολιτικής.</p>                </li>                <li>                   <p>τη στενή συνεργασία με την Επιτροπή για τη δημιουργία διεθνώς ανταγωνιστικής ευρωπαϊκής αγοράς αμυντικού εξοπλισμού.</p>                </li>             </ol>             <p>Το «συγκριτικό πλεονέκτημα» του οργανισμού συνίσταται στην ικανότητά του να επιλαμβάνεται όλων των εν λόγω θεμάτων, και χάρη στο συσχετισμό τους να επιτυγχάνει τις μεταξύ τους συνέργιες.</p>"
+      ],
+      "en": [
+        "<p>Consequently, the Agency's current tasks include:</p>             <ol>                <li>                   <p>to create a comprehensive and systematic approach when defining and meeting the needs of the European Security and Defence Policy; to promote defence equipment collaborations between the EU Member States;</p>                </li>                <li>                   <p>to assist in the development and overall restructuring of the European defence industry;</p>                </li>                <li>                   <p>to promote EU defence-related Research and Technology, while keeping in mind European policy priorities;</p>                </li>                <li>                   <p>to work, in close cooperation with the Commission, for the development of an internationally competitive market for defence equipment in Europe.</p>                </li>             </ol>             <p>The Agency's \"comparative advantage\" is its ability to deal with all these agendas, and relate them so as to realise their synergies.</p>"
+      ],
+      "es": [
+        "<p>En consecuencia, las funciones actuales de la agencia son:</p>             <ol>                <li>                   <p>elaborar un enfoque amplio y sistemático que defina y cubra las necesidades de la política europea de seguridad y defensa;</p>                </li>                <li>                   <p>fomentar la colaboración en materia de armamento entre los Estados miembros de UE;</p>                </li>                <li>                   <p>ayudar al desarrollo y a la reestructuración global de la industria europea de defensa;</p>                </li>                <li>                   <p>trabajar, en colaboración estrecha con la Comisión, en el desarrollo de un mercado europeo de armamento competitivo a escala internacional.</p>                </li>             </ol>             <p>La «ventaja comparativa» de la agencia radica en su capacidad para cumplir todas estas funciones y relacionarlas entre sí creando provechosas sinergias.</p>"
+      ],
+      "et": [
+        "<p>Lisaks peab agentuur:</p>             <ol>                <li>                   <p>töötama välja arusaadava ja süsteemse viisi Euroopa ühise julgeoleku- ja kaitsepoliitika vajaduste määratlemiseks ja rahuldamiseks,</p>                </li>                <li>                   <p>edendama liikmesriikidevahelist koostööd kaitsevarustuse alal,</p>                </li>                <li>                   <p>aitama kaasa Euroopa kaitsetööstuse arendamisele ja selle struktuuri ümberkorraldamisele,</p>                </li>                <li>                   <p>edendama ELi kaitsealaseid teadus- ja tehnoloogiauuringuid lähtudes Euroopa poliitilistest prioriteetidest,</p>                </li>                <li>                   <p>tegema tihedat koostööd Euroopa Komisjoniga, et arendada Euroopa kaitsevarustuse turu rahvusvahelist konkurentsivõimet.</p>                </li>             </ol>             <p>Agentuuri eelis peitub võimaluses nende küsimustega kompleksselt ja kasutada sellega kaasnevat sünergiat.</p>"
+      ],
+      "fi": [
+        "<p>Viraston tämänhetkisiin tehtäviin kuuluu:</p>             <ol>                <li>                   <p>luoda kokonaisvaltainen lähestymistapa Euroopan turvallisuus- ja puolustuspolitiikan tarpeiden määrittelyyn ja toteuttamiseen;</p>                </li>                <li>                   <p>edistää unionin jäsenvaltioiden välistä yhteistyötä puolustusvälineasioissa;</p>                </li>                <li>                   <p>olla mukana Euroopan puolustusteollisuuden kehittämisessä ja rakenneuudistuksessa;</p>                </li>                <li>                   <p>edistää EU-alueen puolustukseen liittyvää tutkimustoimintaa ja teknologiaa, huomioiden yhteisön politiikan painopisteet;</p>                </li>                <li>                   <p>toimia tiiviissä yhteistyössä komission kanssa kansainvälisesti kilpailukykyisten puolustusvälinemarkkinoiden luomiseksi Euroopassa.</p>                </li>             </ol>             <p>Virastolla on kyky toimia näissä kaikissa asioissa ja hyödyntää niiden synergiaetuja.</p>"
+      ],
+      "fr": [
+        "<p>Les tâches actuelles de l'Agence consistent donc notamment à:</p>             <ol>                <li>                   <p>établir une approche globale et systématique pour définir les besoins de la politique européenne de sécurité et de défense et pour répondre à ces besoins;</p>                </li>                <li>                   <p>promouvoir les actions de coopération entre les États membres de l'UE dans le domaine des équipements de défense;</p>                </li>                <li>                   <p>contribuer au développement et à la restructuration globale de l'industrie européenne de défense;</p>                </li>                <li>                   <p>promouvoir la recherche et technologie européenne dans le domaine de la défense, sans oublier les priorités politiques européennes;</p>                </li>                <li>                   <p>œuvrer, en étroite collaboration avec la Commission, à l'établissement d'un marché européen des équipements de défense concurrentiel au plan international.</p>                </li>             </ol>             <p>L'«avantage comparatif» de l'Agence est sa capacité à traiter l'ensemble de ces questions de façon coordonnée afin de réaliser leurs synergies.</p>"
+      ],
+      "ga": [
+        "<p>Dá réir sin, áirítear na cúraimí seo a leanas ar chúraimí reatha na Gníomhaireachta:  </p>             <ol>                <li>                   <p>cur chuige cuimsitheach córasach a chruthú maidir le ceanglais Bheartas Slándála agus Cosanta na hEorpa a shainiú agus freastal dóibh; comhar a chur chun cinn idir Ballstáit an AE maidir le trealamh cosanta; </p>                </li>                <li>                   <p>cabhrú chun tionscal cosanta na hEorpa a fhorbairt agus a athstruchtúrú ó bhun; </p>                </li>                <li>                   <p>Taighde agus Teicneolaíocht de chuid an AE, a bhaineann le cosaint, a chur chun cinn, agus aire a thabhairt i gcónaí do thosaíochtaí beartais Eorpacha; </p>                </li>                <li>                   <p>dul i ndlúthchomhar leis an gCoimisiún chun margadh a bheadh iomaíoch go hidirnáisiúnta a fhorbairt san Eoraip do threalamh cosanta. </p>                </li>             </ol>             <p>Is é “buntáiste comparáideach” na Gníomhaireachta a cumas déileáil leis na cláir oibre seo ar fad, agus iad a thabhairt le chéile ar shlí a fhíoraíonn a sineirgíochtaí. </p>"
+      ],
+      "hr": [
+        "<p>Trenutačne zadaće Agencije stoga obuhvaćaju:</p>             <ol>                <li>                   <p>stvaranje sveobuhvatnoga i sustavnoga pristupa pri utvrđivanju i ispunjavanju potreba europske sigurnosne i obrambene politike promicanje suradnje među državama članicama EU-a u području obrambene opreme</p>                </li>                <li>                   <p>pomoć pri razvoju i cjelokupnome restrukturiranju europske obrambene industrije</p>                </li>                <li>                   <p>promicanje istraživanja i tehnologija EU-a vezanih uz obranu, imajući pritom u vidu prioritete europske politike</p>                </li>                <li>                   <p>blisku suradnju s Komisijom na razvoju međunarodno konkurentnoga tržišta obrambene opreme u Europi.</p>                </li>             </ol>             <p>Komparativna je prednost Agencije njezina sposobnost da ispuni sve te zadatke i međusobno ih poveže kako bi se ostvarili sinergijski učinci.</p>"
+      ],
+      "hu": [
+        "<p>Ezek alapján az ügynökség aktuális feladatai a következők:</p>             <ol>                <li>                   <p>átfogó és rendszeres megközelítés kialakítása az európai biztonsági és védelmi politikai szükségletek meghatározásával és teljesítésével kapcsolatban;</p>                </li>                <li>                   <p>a védelmi felszerelési együttműködés előmozdítása az EU tagállamai között;</p>                </li>                <li>                   <p>részvétel az európai védelmi ipar fejlesztésében és általános szerkezetátalakításában;</p>                </li>                <li>                   <p>a védelemmel kapcsolatos európai kutatás és technológiák támogatása az európai politikai prioritások figyelembe vétele mellett;</p>                </li>                <li>                   <p>A Bizottsággal szoros együttműködésben részvétel a védelmi felszerelések nemzetközileg versenyképes európai piacának kialakításában.</p>                </li>             </ol>             <p>Az ügynökség komparatív előnye abban áll, hogy egyszerre képes a fenti területek mindegyikével foglalkozni, és átlátni az ezek összekapcsolásából adódó szinergiákat.</p>"
+      ],
+      "it": [
+        "<p>I compiti attuali dell’Agenzia sono quindi i seguenti:</p>             <ol>                <li>                   <p>elaborare un approccio globale e sistematico nel definire e soddisfare le esigenze della politica europea in materia di sicurezza e di difesa;</p>                </li>                <li>                   <p>promuovere la collaborazione tra gli Stati membri dell’UE nel campo dei materiali di difesa;</p>                </li>                <li>                   <p>contribuire allo sviluppo e alla ristrutturazione generale dell’industria europea della difesa;</p>                </li>                <li>                   <p>promuovere la ricerca e la tecnologia europea nel settore della difesa, tenendo conto delle priorità politiche europee;</p>                </li>                <li>                   <p>operare in stretta collaborazione con la Commissione per creare un mercato europeo dei materiali di difesa, che sia competitivo a livello internazionale.</p>                </li>             </ol>             <p>Il “vantaggio comparativo” dell’Agenzia risiede nella sua capacità di svolgere tutti questi compiti e di coordinarli creando in tal modo sinergie.</p>"
+      ],
+      "lt": [
+        "<p>Agentūros uždaviniai yra šie:</p>             <ol>                <li>                   <p>visapusiškai ir sistemiškai apibrėžti bei tenkinti Europos saugumo ir gynybos politikos poreikius;</p>                </li>                <li>                   <p>skatinti ES valstybių narių tarpusavio bendradarbiavimą gynybos įrangos srityje;</p>                </li>                <li>                   <p>padėti plėtoti ir iš viso pertvarkyti Europos gynybos pramonę;</p>                </li>                <li>                   <p>skatinti mokslinių tyrimų ir technologijų plėtrą ES gynybos srityje, atsižvelgiant į Europos politikos prioritetus;</p>                </li>                <li>                   <p>glaudžiai bendradarbiaujant su Komisija kurti tarptautiniu mastu konkurencingą Europos gynybos įrangos rinką.</p>                </li>             </ol>             <p>Agentūros santykinis pranašumas – gebėjimas įvykdyti visus šiuos uždavinius ir juos susieti, kad būtų gaunamas sinerginis poveikis.</p>"
+      ],
+      "lv": [
+        "<p>Tādējādi aģentūras pašreizējie uzdevumi ir:</p>             <ol>                <li>                   <p>aizsargājot un īstenojot Eiropas drošības un aizsardzības politikas prasības, radīt visaptverošu un sistemātisku pieeju;</p>                </li>                <li>                   <p>veicināt sadarbību starp ES dalībvalstīm aizsardzības aprīkojuma jomā;</p>                </li>                <li>                   <p>sekmēt Eiropas aizsardzības nozares attīstību un vispārēju pārstrukturēšanu;</p>                </li>                <li>                   <p>veicināt ar ES aizsardzību saistītu pētniecību un tehnoloģijas, ievērojot Eiropas politikas prioritātes;</p>                </li>                <li>                   <p>strādāt ciešā sadarbībā ar Komisiju, lai Eiropā izveidotu starptautiski konkurētspējīgu aizsardzības aprīkojuma tirgu.</p>                </li>             </ol>             <p>Aģentūras „salīdzinošā priekšrocība” ir tās spēja tikt galā ar visiem šiem uzdevumiem un saistīt tos tā, lai realizētu gūtās sinerģijas.</p>"
+      ],
+      "mt": [
+        "<p>B’konsegwenza ta’ dan, il-ħidmiet li għandha bħalissa l-Aġenzija jinkludu:</p>             <ol>                <li>                   <p>l-ħolqien ta’ strateġija komprensiva u sistematika meta jiġu definiti u milħuqa l-ħtiġijiet tal-Politika tas-Sigurtà u d-Difiża Ewropea;</p>                </li>                <li>                   <p>il-promozzjoni tal-kollaborazzjonijiet fit-tagħmir tad-difiża bejn l-Istati Membri ta’ l-UE;</p>                </li>                <li>                   <p>l-assistenza fl-iżvilupp u r-ristrutturar ġenerali ta’ l-industrija Ewropea tad-difiża;</p>                </li>                <li>                   <p>il-promozzjoni tar-Riċerka u t-Teknoloġija relatati mad-difiża ta’ l-UE, waqt li l-prijoritajiet politiċi Ewropej jittieħdu f’kunsiderazzjoni;</p>                </li>                <li>                   <p>il-ħidma, f’kooperazzjoni mill-qrib mal-Kummissjoni, għall-iżvilupp ta’ suq kompetittiv fuq skala internazzjonali għat-tagħmir tad-difiża fl-Ewropa.</p>                </li>             </ol>             <p>“Il-vantaġġ komparattiv” ta’ l-Aġenzija huwa l-kapaċità li tieħu ħsieb dawn l-aġendi kollha, u li tirrelatahom biex twettaq is-sinerġiji tagħhom.</p>"
+      ],
+      "nl": [
+        "<p>De huidige taken van het agentschap omvatten daarom:</p>             <ol>                <li>                   <p>Een allesomvattende en systematische benadering scheppen voor het bepalen van en het voldoen aan de behoeften van het Europees veiligheids- en defensiebeleid;</p>                </li>                <li>                   <p>Samenwerking op het gebied van defensie-uitrusting tussen de EU-lidstaten bevorderen;</p>                </li>                <li>                   <p>Bijdragen tot de ontwikkeling en de algemene herstructurering van de Europese defensie-industrie;</p>                </li>                <li>                   <p>Europees onderzoek en technologie op defensiegebied bevorderen, met inachtname van de Europese beleidsprioriteiten;</p>                </li>                <li>                   <p>In nauwe samenwerking met de Commissie aan de ontwikkeling van een internationaal concurrerende Europese markt voor defensie-uitrusting werken.</p>                </li>             </ol>             <p>Het comparatieve voordeel van het agentschap is dat het met al deze verschillende agenda's kan omgaan en ze met elkaar in verband kan brengen om synergiëen te ontwikkelen.</p>"
+      ],
+      "pl": [
+        "<p>Obecnie do zadań agencji należy:</p>             <ol>                <li>                   <p>wypracowanie spójnego i systematycznego podejścia przy definiowaniu i realizacji Europejskiej Polityki Bezpieczeństwa i Obrony;</p>                </li>                <li>                   <p>wspieranie współpracy między Państwami Członkowskimi w dziedzinie uzbrojenia;</p>                </li>                <li>                   <p>wspieranie rozwoju i ogólna restrukturyzacja europejskiego przemysłu obronnego;</p>                </li>                <li>                   <p>promowanie badań i technologii w dziedzinie obrony w UE z uwzględnieniem priorytetów politycznych UE;</p>                </li>                <li>                   <p>działanie – w ścisłej współpracy z Komisją – na rzecz rozwoju konkurencyjnego w skali światowej europejskiego rynku uzbrojenia.</p>                </li>             </ol>             <p>Zaletą agencji jest jej zdolność do realizacji wszystkich tych zadań jednocześnie w celu ich wzajemnego powiązania i maksymalizacji synergii.</p>"
+      ],
+      "pt": [
+        "<p>Assim, as funções actuais da Agência são, nomeadamente:</p>             <ol>                <li>                   <p>desenvolver uma abordagem global e sistemática ao definir e satisfazer as necessidades da Política Europeia de Segurança e Defesa;</p>                </li>                <li>                   <p>promover a colaboração entre a UE e os Estados-Membros no domínio do equipamento de defesa;</p>                </li>                <li>                   <p>apoiar o desenvolvimento e a reestruturação de fundo da indústria europeia de defesa;</p>                </li>                <li>                   <p>promover a Investigação e a Tecnologia relacionada com a defesa, tendo em conta as prioridades políticas europeias;</p>                </li>                <li>                   <p>trabalhar em estreita colaboração com a Comissão no sentido de desenvolver na Europa um mercado dos equipamentos de defesa competitivo a nível internacional.</p>                </li>             </ol>             <p>A \"vantagem comparativa\" da Agência reside na capacidade que tem de se ocupar de todos estes objectivos, interligando-os por forma a proporcionarem sinergias.</p>"
+      ],
+      "ro": [
+        "<p>În consecinţă, sarcinile actuale ale Agenţiei includ:</p>             <ol>                <li>                   <p>crearea unei abordări cuprinzătoare şi sistematice pentru a defini necesităţile Politicii europene de securitate şi apărare şi pentru a răspunde la aceste necesităţi; promovarea colaborărilor între statele membre ale UE în domeniul echipamentelor de apărare;</p>                </li>                <li>                   <p>acordarea de sprijin pentru dezvoltarea şi restructurarea generală a industriei europene de apărare;</p>                </li>                <li>                   <p>promovarea cercetării şi tehnologiei UE în domeniul apărării, reţinându-se totodată priorităţile politice europene;</p>                </li>                <li>                   <p>lucrul, în strânsă colaborare cu Comisia, la crearea unei pieţe europene pentru echipamentele de apărare care să fie competitivă la nivel internaţional.</p>                </li>             </ol>             <p>„Avantajul comparativ” al Agenţiei este capacitatea acesteia de a se ocupa de toate aceste sarcini şi de a le corela astfel încât să realizeze sinergii.</p>"
+      ],
+      "sk": [
+        "<p>Současným úkolem agentury tedy je:</p>             <ol>                <li>                   <p>vytvořit komplexní a systematický přístup při definování a uspokojování potřeb Evropské bezpečnostní a obranné politiky;</p>                </li>                <li>                   <p>podporovat vzájemnou spolupráci členských států EU v oblasti obranného vybavení;</p>                </li>                <li>                   <p>napomáhat při rozvoji a celkové restrukturalizaci evropského obranného průmyslu;</p>                </li>                <li>                   <p>podporovat výzkum a technologii v oblasti obrany EU při současném zohlednění evropských politických priorit;</p>                </li>                <li>                   <p>rozvíjet úzkou spolupráci s Komisí v rámci budování mezinárodního konkurenceschopného trhu s obranným vybavením.</p>                </li>             </ol>             <p>„Srovnatelnou výhodou“ agentury je její schopnost vykonávat zmíněné úkoly a propojovat je tak, aby bylo dosaženo synergického účinku. schopnosti.</p>"
+      ],
+      "sl": [
+        "<p>Posledično sedanje naloge agencije vključujejo:</p>             <ol>                <li>                   <p>oblikovanje celovitega in sistematičnega pristopa pri opredelitvi in izpolnjevanju potreb evropske varnostne in obrambne politike;</p>                </li>                <li>                   <p>spodbujanje sodelovanja med državami članicami EU na področju obrambne opreme;</p>                </li>                <li>                   <p>pomoč pri razvoju in splošnem prestrukturiranju evropske obrambne industrije;</p>                </li>                <li>                   <p>pospeševanje obrambnih raziskav in tehnologij EU ob upoštevanju prednostnih nalog evropske politike;</p>                </li>                <li>                   <p>delovanje v tesnem sodelovanju s Komisijo za razvoj mednarodno konkurenčnega trga obrambne opreme v Evropi.</p>                </li>             </ol>             <p>„Primerjalna prednost“ agencije je njena sposobnost izpolnjevanja vseh teh nalog in njihovega povezovanja, da se ustvarijo sinergijski učinki.</p>"
+      ],
+      "sv": [
+        "<p>Byrån har för närvarande följande arbetsuppgifter:</p>             <ol>                <li>                   <p>Att sörja för en övergripande och systematisk policy i samband med att den europeiska säkerhets- och försvarspolitikens mål fastställs och genomförs;</p>                </li>                <li>                   <p>Att främja samarbete mellan medlemsstaterna om försvarsmateriel;</p>                </li>                <li>                   <p>Att medverka i arbetet med att utveckla och omstrukturera försvarsindustrin inom EU;</p>                </li>                <li>                   <p>Att mot bakgrund av EU:s politiska mål främja försvarsrelaterad forskning och teknisk utveckling inom EU;</p>                </li>                <li>                   <p>Att i samarbete med kommissionen arbeta för främja konkurrens på EU-marknaden för försvarsmateriel.</p>                </li>             </ol>             <p>Europeiska försvarsbyrån har den kompetens som krävs för att kunna hantera alla dessa mål och dessutom skapa synergieffekter dem emellan.</p>"
+      ]
+    },
+    "left_sub_menu": {
+      "und": [
+        true
+      ]
+    }
+  }
+}

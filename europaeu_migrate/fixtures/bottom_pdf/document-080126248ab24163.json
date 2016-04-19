@@ -1,0 +1,423 @@
+{
+  "_id": "080126248ab24163",
+  "type": "bottom_pdf_item",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv",
+    "bg",
+    "cs",
+    "da",
+    "de",
+    "et",
+    "el",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv"
+  ],
+  "fields": {
+    "date": {
+      "und": [
+        "2013-11-06 11:18:00"
+      ]
+    },
+    "weight": {
+      "und": [
+        16
+      ]
+    },
+    "level": {
+      "und": [
+        1
+      ]
+    },
+    "pdf_preview": {
+      "bg": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_bg.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_cs.jpg"
+      ],
+      "da": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_da.jpg"
+      ],
+      "de": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_de.jpg"
+      ],
+      "el": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_el.jpg"
+      ],
+      "en": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_en.jpg"
+      ],
+      "es": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_es.jpg"
+      ],
+      "et": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_et.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_fi.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_fr.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_ga.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_hr.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_hu.jpg"
+      ],
+      "it": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_it.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_lt.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_lv.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_mt.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_nl.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_pl.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_pt.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_ro.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_sk.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_sl.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/pol/images/enlarg/thumb_enlarg_sv.jpg"
+      ]
+    },
+    "pdf_alt_text": {
+      "bg": [
+        "Разширяване"
+      ],
+      "cs": [
+        "Rozšíření"
+      ],
+      "da": [
+        "Udvidelse"
+      ],
+      "de": [
+        "Erweiterung"
+      ],
+      "el": [
+        "Διεύρυνση"
+      ],
+      "en": [
+        "Enlargement"
+      ],
+      "es": [
+        "Ampliación"
+      ],
+      "et": [
+        "Laienemine"
+      ],
+      "fi": [
+        "Laajentuminen"
+      ],
+      "fr": [
+        "Élargissement"
+      ],
+      "ga": [
+        "Méadú"
+      ],
+      "hr": [
+        "Proširenje"
+      ],
+      "hu": [
+        "Bővítési politika"
+      ],
+      "it": [
+        "Allargamento"
+      ],
+      "lt": [
+        "ES plėtra"
+      ],
+      "lv": [
+        "Paplašināšanās"
+      ],
+      "mt": [
+        "Tkabbir"
+      ],
+      "nl": [
+        "Uitbreiding"
+      ],
+      "pl": [
+        "Rozszerzenie"
+      ],
+      "pt": [
+        "Alargamento"
+      ],
+      "ro": [
+        "Extinderea"
+      ],
+      "sk": [
+        "Rozšírenie"
+      ],
+      "sl": [
+        "Širitev"
+      ],
+      "sv": [
+        "Utvidgning"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Разширяване"
+      ],
+      "cs": [
+        "Rozšíření"
+      ],
+      "da": [
+        "Udvidelse"
+      ],
+      "de": [
+        "Erweiterung"
+      ],
+      "el": [
+        "Διεύρυνση"
+      ],
+      "en": [
+        "Enlargement"
+      ],
+      "es": [
+        "Ampliación"
+      ],
+      "et": [
+        "Laienemine"
+      ],
+      "fi": [
+        "Laajentuminen"
+      ],
+      "fr": [
+        "Élargissement"
+      ],
+      "ga": [
+        "Méadú"
+      ],
+      "hr": [
+        "Proširenje"
+      ],
+      "hu": [
+        "Bővítési politika"
+      ],
+      "it": [
+        "Allargamento"
+      ],
+      "lt": [
+        "ES plėtra"
+      ],
+      "lv": [
+        "Paplašināšanās"
+      ],
+      "mt": [
+        "Tkabbir"
+      ],
+      "nl": [
+        "Uitbreiding"
+      ],
+      "pl": [
+        "Rozszerzenie"
+      ],
+      "pt": [
+        "Alargamento"
+      ],
+      "ro": [
+        "Extinderea"
+      ],
+      "sk": [
+        "Rozšírenie"
+      ],
+      "sl": [
+        "Širitev"
+      ],
+      "sv": [
+        "Utvidgning"
+      ]
+    },
+    "pdf_text": {
+      "bg": [
+        "<p class=\"readmore_float\">Текстът е актуализиран през юни 2015 г.</p><p class=\"series\">Тази публикация е част от серията „Политиките на Европейския съюз“</p>"
+      ],
+      "cs": [
+        "<p class=\"readmore_float\">Rukopis dokončen v červnu 2015</p><p class=\"series\">Publikace je součástí edice Politiky Evropské unie</p>"
+      ],
+      "da": [
+        "<p class=\"readmore_float\">Manuskript ajourført i juni 2015</p><p class=\"series\">Denne publikation indgår i serien \"Indblik i EU-politik\"</p>"
+      ],
+      "de": [
+        "<p class=\"readmore_float\">Letzte Aktualisierung: Juni 2015</p><p class=\"series\">Teil der Reihe „Die Europäische Union erklärt“</p>"
+      ],
+      "el": [
+        "<p class=\"readmore_float\">Το χειρόγραφο επικαιροποιήθηκε τον Ιούνιο του 2015.</p><p class=\"series\">Η έκδοση αυτή αποτελεί μέρος της σειράς «Η Ευρωπαϊκή Ένωση με απλά λόγια»</p>"
+      ],
+      "en": [
+        "<div class=\"right_content\"><p class=\"readmore_float\">Manuscript updated in June 2015</p><p class=\"series\">This publication is part of the 'European Union explained' series</p></div>"
+      ],
+      "es": [
+        "<p class=\"readmore_float\">Texto original actualizado en junio de 2015</p><p class=\"series\">Esta publicación forma parte de la serie “Comprender las políticas de la Unión Europea”</p>"
+      ],
+      "et": [
+        "<p class=\"readmore_float\">Käsikiri on ajakohastatud juunis 2015</p><p class=\"series\">See väljaanne on osa sarjast „Euroopa Liit lahtiseletatuna”</p>"
+      ],
+      "fi": [
+        "<p class=\"readmore_float\">Teksti on päivitetty kesäkuussa 2015</p><p class=\"series\">Julkaisu kuuluu Valokeilassa Euroopan unionin politiikka -sarjaan</p>"
+      ],
+      "fr": [
+        "<p class=\"readmore_float\">Manuscrit mis à jour en juin 2015</p><p class=\"series\">Cette publication fait partie de la série «Comprendre les politiques de l’Union européenne»</p>"
+      ],
+      "ga": [
+        "<p class=\"readmore_float\">Arna thabhairt cothrom le dáta mí an Mheithimh 2015</p><p class=\"series\">Cuid den tsraith 'Foras Feasa ar an Aontas Eorpach' is ea an foilseachán seo</p>"
+      ],
+      "hr": [
+        "<p class=\"readmore_float\">Rukopis ažuriran u lipnju 2015.</p><p class=\"series\">Ova publikacija je dio serije \"Objašnjena Europska Unija\"</p>"
+      ],
+      "hu": [
+        "<p class=\"readmore_float\">A kézirat frissítve: 2015. június</p><p class=\"series\">A kiadvány a „Közérthetően az Európai Unió szakpolitikáiról” sorozat része.</p>"
+      ],
+      "it": [
+        "<p class=\"readmore_float\">Ultimo aggiornamento: giugno 2015</p><p class=\"series\">Questa pubblicazione fa parte della serie \"Le politiche dell'UE\"</p>"
+      ],
+      "lt": [
+        "<p class=\"readmore_float\">Rankraštis atnaujintas 2015 m. birželio mėn.</p><p class=\"series\">Tai vienas iš serijos „Apie Europos Sąjungos politiką“ leidinių</p>"
+      ],
+      "lv": [
+        "<p class=\"readmore_float\">Manuskripts atjaunināts 2015. gada jūnijā.</p><p class=\"series\">Šī publikācija izdota sērijā “Ieskats Eiropas Savienības politikā”</p>"
+      ],
+      "mt": [
+        "<p class=\"readmore_float\">Manuskritt aġġornat f'Ġunju 2015</p><p class=\"series\">Din il-pubblikazzjoni hi parti mis-serje \"Nifhmu l-politiki tal-UE\"</p>"
+      ],
+      "nl": [
+        "<p class=\"readmore_float\">Manuscript voltooid in juni 2015</p><p class=\"series\">Deze publicatie maakt deel uit van de reeks \"De Europese Unie in het kort\"</p>"
+      ],
+      "pl": [
+        "<p class=\"readmore_float\">Tekst zaktualizowano w czerwcu 2015 r.</p><p class=\"series\">Niniejsza publikacja stanowi część serii „Zrozumieć politykę Unii Europejskiej”.</p>"
+      ],
+      "pt": [
+        "<p class=\"readmore_float\">Manuscrito atualizado em junho de 2015</p><p class=\"series\">Esta brochura faz parte da coleção «Compreender melhor a UE»</p>"
+      ],
+      "ro": [
+        "<p class=\"readmore_float\">Manuscris actualizat în iunie 2015</p><p class=\"series\">Această publicaţie face parte din seria „Să înţelegem politicile Uniunii Europene”</p>"
+      ],
+      "sk": [
+        "<p class=\"readmore_float\">Rukopis bol aktualizovaný v júni 2015.</p><p class=\"series\">Táto publikácia je súčasťou série „Politiky Európskej únie“</p>"
+      ],
+      "sl": [
+        "<p class=\"readmore_float\">Rokopis je bil posodobljen junija 2015.</p><p class=\"series\">Publikacija je del zbirke „Politike Evropske unije“.</p>"
+      ],
+      "sv": [
+        "<p class=\"readmore_float\">Manuskriptet uppdaterades i juni 2015</p><p class=\"series\">Broschyren ingår i serien ”Insyn i EU-politiken”</p>"
+      ]
+    },
+    "category": {
+      "und": [
+        "27698c15"
+      ]
+    },
+    "pdf_url": {
+      "bg": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-BG-N/NA0215516BGN_002.pdf?FileName=NA0215516BGN_002.pdf&SKU=NA0215516BGN_PDF&CatalogueNumber=NA-02-15-516-BG-N"
+      ],
+      "cs": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-CS-N/NA0215516CSN_002.pdf?FileName=NA0215516CSN_002.pdf&SKU=NA0215516CSN_PDF&CatalogueNumber=NA-02-15-516-CS-N"
+      ],
+      "da": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-DA-N/NA0215516DAN_002.pdf?FileName=NA0215516DAN_002.pdf&SKU=NA0215516DAN_PDF&CatalogueNumber=NA-02-15-516-DA-N"
+      ],
+      "de": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-DE-N/NA0215516DEN_002.pdf?FileName=NA0215516DEN_002.pdf&SKU=NA0215516DEN_PDF&CatalogueNumber=NA-02-15-516-DE-N"
+      ],
+      "el": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-EL-N/NA0215516ELN_002.pdf?FileName=NA0215516ELN_002.pdf&SKU=NA0215516ELN_PDF&CatalogueNumber=NA-02-15-516-EL-N"
+      ],
+      "en": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-EN-N/NA0215516ENN_002.pdf?FileName=NA0215516ENN_002.pdf&SKU=NA0215516ENN_PDF&CatalogueNumber=NA-02-15-516-EN-N"
+      ],
+      "es": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-ES-N/NA0215516ESN_002.pdf?FileName=NA0215516ESN_002.pdf&SKU=NA0215516ESN_PDF&CatalogueNumber=NA-02-15-516-ES-N"
+      ],
+      "et": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-ET-N/NA0215516ETN_002.pdf?FileName=NA0215516ETN_002.pdf&SKU=NA0215516ETN_PDF&CatalogueNumber=NA-02-15-516-ET-N"
+      ],
+      "fi": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-FI-N/NA0215516FIN_002.pdf?FileName=NA0215516FIN_002.pdf&SKU=NA0215516FIN_PDF&CatalogueNumber=NA-02-15-516-FI-N"
+      ],
+      "fr": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-FR-N/NA0215516FRN_002.pdf?FileName=NA0215516FRN_002.pdf&SKU=NA0215516FRN_PDF&CatalogueNumber=NA-02-15-516-FR-N"
+      ],
+      "ga": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-GA-N/NA0215516GAN_002.pdf?FileName=NA0215516GAN_002.pdf&SKU=NA0215516GAN_PDF&CatalogueNumber=NA-02-15-516-GA-N"
+      ],
+      "hr": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-HR-N/NA0215516HRN_002.pdf?FileName=NA0215516HRN_002.pdf&SKU=NA0215516HRN_PDF&CatalogueNumber=NA-02-15-516-HR-N"
+      ],
+      "hu": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-HU-N/NA0215516HUN_002.pdf?FileName=NA0215516HUN_002.pdf&SKU=NA0215516HUN_PDF&CatalogueNumber=NA-02-15-516-HU-N"
+      ],
+      "it": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-IT-N/NA0215516ITN_002.pdf?FileName=NA0215516ITN_002.pdf&SKU=NA0215516ITN_PDF&CatalogueNumber=NA-02-15-516-IT-N"
+      ],
+      "lt": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-LT-N/NA0215516LTN_002.pdf?FileName=NA0215516LTN_002.pdf&SKU=NA0215516LTN_PDF&CatalogueNumber=NA-02-15-516-LT-N"
+      ],
+      "lv": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-LV-N/NA0215516LVN_002.pdf?FileName=NA0215516LVN_002.pdf&SKU=NA0215516LVN_PDF&CatalogueNumber=NA-02-15-516-LV-N"
+      ],
+      "mt": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-MT-N/NA0215516MTN_002.pdf?FileName=NA0215516MTN_002.pdf&SKU=NA0215516MTN_PDF&CatalogueNumber=NA-02-15-516-MT-N"
+      ],
+      "nl": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-NL-N/NA0215516NLN_002.pdf?FileName=NA0215516NLN_002.pdf&SKU=NA0215516NLN_PDF&CatalogueNumber=NA-02-15-516-NL-N"
+      ],
+      "pl": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-PL-N/NA0215516PLN_002.pdf?FileName=NA0215516PLN_002.pdf&SKU=NA0215516PLN_PDF&CatalogueNumber=NA-02-15-516-PL-N"
+      ],
+      "pt": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-PT-N/NA0215516PTN_002.pdf?FileName=NA0215516PTN_002.pdf&SKU=NA0215516PTN_PDF&CatalogueNumber=NA-02-15-516-PT-N"
+      ],
+      "ro": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-RO-N/NA0215516RON_002.pdf?FileName=NA0215516RON_002.pdf&SKU=NA0215516RON_PDF&CatalogueNumber=NA-02-15-516-RO-N"
+      ],
+      "sk": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-SK-N/NA0215516SKN_002.pdf?FileName=NA0215516SKN_002.pdf&SKU=NA0215516SKN_PDF&CatalogueNumber=NA-02-15-516-SK-N"
+      ],
+      "sl": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-SL-N/NA0215516SLN_002.pdf?FileName=NA0215516SLN_002.pdf&SKU=NA0215516SLN_PDF&CatalogueNumber=NA-02-15-516-SL-N"
+      ],
+      "sv": [
+        "http://bookshop.europa.eu/en/enlargement-pbNA0215516/downloads/NA-02-15-516-SV-N/NA0215516SVN_002.pdf?FileName=NA0215516SVN_002.pdf&SKU=NA0215516SVN_PDF&CatalogueNumber=NA-02-15-516-SV-N"
+      ]
+    }
+  }
+}

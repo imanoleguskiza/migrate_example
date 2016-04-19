@@ -1,0 +1,591 @@
+{
+  "_id": "080126248e077287",
+  "type": "contact",
+  "default_language": "en",
+  "languages": [
+    "bg",
+    "cs",
+    "et",
+    "da",
+    "de",
+    "el",
+    "en",
+    "es",
+    "fr",
+    "ga",
+    "hr",
+    "it",
+    "lv",
+    "lt",
+    "hu",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl",
+    "fi",
+    "sv"
+  ],
+  "fields": {
+    "parent_id": {
+      "und": [
+        "080126248e07722d",
+        "080126248e077287",
+        "080126248e077287",
+        "080126248e077287",
+        "080126248e077287",
+        "080126248e077287",
+        "080126248e077287",
+        "080126248e077287",
+        "080126248e077287",
+        "080126248e077287"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Съвет на Европейския съюз"
+      ],
+      "cs": [
+        "Rada Evropské unie"
+      ],
+      "da": [
+        "Rådet for Den Europæiske Union"
+      ],
+      "de": [
+        "Rat der Europäischen Union"
+      ],
+      "el": [
+        "Συμβούλιο της Ευρωπαϊκής Ένωσης"
+      ],
+      "en": [
+        "Council of the European Union"
+      ],
+      "es": [
+        "Consejo de la Unión Europea"
+      ],
+      "et": [
+        "Euroopa Liidu Nõukogu"
+      ],
+      "fi": [
+        "Euroopan unionin neuvosto"
+      ],
+      "fr": [
+        "Conseil de l'Union Européenne"
+      ],
+      "ga": [
+        "Comhairle an Aontais Eorpaigh"
+      ],
+      "hr": [
+        "Vijeće Europske unije"
+      ],
+      "hu": [
+        "Az Európai Unió Tanácsa"
+      ],
+      "it": [
+        "Consiglio dell'Unione europea"
+      ],
+      "lt": [
+        "Europos Sąjungos Taryba"
+      ],
+      "lv": [
+        "Eiropas Savienības Padome"
+      ],
+      "mt": [
+        "il-Kunsill tal-Unjoni Ewropea"
+      ],
+      "nl": [
+        "Raad van de Europese Unie"
+      ],
+      "pl": [
+        "Rada Unii Europejskiej"
+      ],
+      "pt": [
+        "Conselho da União Europeia"
+      ],
+      "ro": [
+        "Consiliul Uniunii Europene"
+      ],
+      "sk": [
+        "Rada Európskej únie"
+      ],
+      "sl": [
+        "Svet Evropske unije"
+      ],
+      "sv": [
+        "Ministerrådet"
+      ]
+    },
+    "logo": {
+      "bg": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "cs": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "da": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "de": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "el": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "en": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "es": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "et": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "fi": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "fr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "ga": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "hr": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "hu": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "it": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "lt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "lv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "mt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "nl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "pl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "pt": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "ro": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "sk": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "sl": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ],
+      "sv": [
+        "http://europa.eu/contact/images/institutions-bodies/european_council.jpg"
+      ]
+    },
+    "contact_type": {
+      "und": [
+        "institutions"
+      ]
+    },
+    "adress": {
+      "en": [
+        "<p>Rue de la Loi / Wetstraat, 175</p> <p>B-1048 Bruxelles/Brussel</p> <p>Belgique/België</p>"
+      ]
+    },
+    "tel": {
+      "und": [
+        "+32 2 281 61 11"
+      ]
+    },
+    "fax": {
+      "und": [
+        "+32 2 281 73 97 / 81"
+      ]
+    },
+    "link_url": {
+      "bg": [
+        "http://www.consilium.europa.eu/bg/contact/"
+      ],
+      "cs": [
+        "http://www.consilium.europa.eu/cs/contact/"
+      ],
+      "da": [
+        "http://www.consilium.europa.eu/da/contact/"
+      ],
+      "de": [
+        "http://www.consilium.europa.eu/de/contact/"
+      ],
+      "el": [
+        "http://www.consilium.europa.eu/el/contact/"
+      ],
+      "en": [
+        "http://www.consilium.europa.eu/en/contact/"
+      ],
+      "es": [
+        "http://www.consilium.europa.eu/es/contact/"
+      ],
+      "et": [
+        "http://www.consilium.europa.eu/et/contact/"
+      ],
+      "fi": [
+        "http://www.consilium.europa.eu/fi/contact/"
+      ],
+      "fr": [
+        "http://www.consilium.europa.eu/fr/contact/"
+      ],
+      "ga": [
+        "http://www.consilium.europa.eu/ga/contact/"
+      ],
+      "hr": [
+        "http://www.consilium.europa.eu/hr/contact/"
+      ],
+      "hu": [
+        "http://www.consilium.europa.eu/hu/contact/"
+      ],
+      "it": [
+        "http://www.consilium.europa.eu/it/contact/"
+      ],
+      "lt": [
+        "http://www.consilium.europa.eu/lt/contact/"
+      ],
+      "lv": [
+        "http://www.consilium.europa.eu/lv/contact/"
+      ],
+      "mt": [
+        "http://www.consilium.europa.eu/mt/contact/"
+      ],
+      "nl": [
+        "http://www.consilium.europa.eu/nl/contact/"
+      ],
+      "pl": [
+        "http://www.consilium.europa.eu/pl/contact/"
+      ],
+      "pt": [
+        "http://www.consilium.europa.eu/pt/contact/"
+      ],
+      "ro": [
+        "http://www.consilium.europa.eu/ro/contact/"
+      ],
+      "sk": [
+        "http://www.consilium.europa.eu/sk/contact/"
+      ],
+      "sl": [
+        "http://www.consilium.europa.eu/sl/contact/"
+      ],
+      "sv": [
+        "http://www.consilium.europa.eu/sv/contact/"
+      ]
+    },
+    "link_label": {
+      "bg": [
+        "Contact"
+      ],
+      "cs": [
+        "Contact"
+      ],
+      "da": [
+        "Contact"
+      ],
+      "de": [
+        "Contact"
+      ],
+      "el": [
+        "Contact"
+      ],
+      "en": [
+        "Contact"
+      ],
+      "es": [
+        "Contact"
+      ],
+      "et": [
+        "Contact"
+      ],
+      "fi": [
+        "Contact"
+      ],
+      "fr": [
+        "Contact"
+      ],
+      "ga": [
+        "Contact"
+      ],
+      "hr": [
+        "Kontakt"
+      ],
+      "hu": [
+        "Contact"
+      ],
+      "it": [
+        "Contact"
+      ],
+      "lt": [
+        "Contact"
+      ],
+      "lv": [
+        "Contact"
+      ],
+      "mt": [
+        "Contact"
+      ],
+      "nl": [
+        "Contact"
+      ],
+      "pl": [
+        "Contact"
+      ],
+      "pt": [
+        "Contact"
+      ],
+      "ro": [
+        "Contact"
+      ],
+      "sk": [
+        "Contact"
+      ],
+      "sl": [
+        "Contact"
+      ],
+      "sv": [
+        "Contact"
+      ]
+    },
+    "visit": {
+      "bg": [
+        "<p>Вид посещение: информационна сесия, семинар</p> <p>Минимален размер на групата: 20 души</p> <p>Изискване за предварителна резервация: 3 месеца</p> <p>Минимална възраст на посетителите: 15 години</p> <p><a href=\"http://www.consilium.europa.eu/bg/contact/visits/\">Посетете Съвета на Европейския съюз</a></p>"
+      ],
+      "cs": [
+        "<p>Typ návštěvy: informační prohlídka, seminář</p> <p>Minimální velikost skupiny: 20 osob</p> <p>Povinná rezervace: 3 měsíce předem</p> <p>Minimální věk návštěvníků: 15 let</p> <p><a href=\"http://www.consilium.europa.eu/cs/contact/visits/\">Rada Evropské unie – návštěvy pro veřejnost</a></p>"
+      ],
+      "da": [
+        "<p>Former for besøg: Informationsbesøg, seminarer</p> <p>Minimumstørrelse på gruppe: 20 personer</p> <p>Krav om forudbestilling: 3 måneder</p> <p>Minimumsalder på besøgende: 15 år</p> <p><a href=\"http://www.consilium.europa.eu/da/contact/visits/\">Besøg Rådet for Den Europæiske Union</a></p>"
+      ],
+      "de": [
+        "<p>Art des Besuchs: Informationsbesuch, Seminar</p> <p>Mindestteilnehmerzahl: 20 Personen</p> <p>Anmeldung: Drei Monate im Voraus</p> <p>Mindestalter der Besucher: 15 Jahre</p> <p><a href=\"http://www.consilium.europa.eu/de/contact/visits/\">Besuchen Sie den Rat der Europäischen Union</a></p>"
+      ],
+      "el": [
+        "<p>Είδη επισκέψεων: ενημερωτικές επισκέψεις, σεμινάρια</p> <p>Ελάχιστο μέγεθος ομάδας επισκεπτών: 20 άτομα</p> <p>Υποχρέωση κράτησης: 3 μήνες νωρίτερα</p> <p>Κατώτατο όριο ηλικίας των επισκεπτών: 15 ετών</p> <p><a href=\"hhttp://www.consilium.europa.eu/el/contact/visits/\">Επισκεφθείτε το Συμβούλιο της Ευρωπαϊκής Ένωσης</a></p>"
+      ],
+      "en": [
+        "<p>Type of visit: Information session, seminar</p> <p>Minimum size of group: 20 people</p> <p>Advance booking requirement: 3 months</p> <p>Minimum age of visitors: 15 years old</p> <p><a href=\"http://www.consilium.europa.eu/en/contact/visits/\">Visit the Council of the European Union</a></p>"
+      ],
+      "es": [
+        "<p>Tipo de visita: Visita de información, seminario</p> <p>Tamaño mínimo del grupo: 20 personas</p> <p>Plazo mínimo para hacer la solicitud: 3 meses</p> <p>Edad mínima de los visitantes: 15 años</p> <p><a href=\"http://www.consilium.europa.eu/es/contact/visits/\">Visitas al Consejo de la Unión Europea</a></p>"
+      ],
+      "et": [
+        "<p>Külastuste liigid: Teabekülastus, seminar</p> <p>Minimaalne rühma suurus: 20 inimest</p> <p>Kohustus eelnevalt registreerida: 3 kuud ette</p> <p>Minimaalne külastajate vanus: 15 aastat</p> <p><a href=\"http://www.consilium.europa.eu/et/contact/visits/\">Külastage Euroopa Liidu Nõukogu</a></p>"
+      ],
+      "fi": [
+        "<p>Vierailutyypit: esittelytilaisuus, seminaari</p> <p>Ryhmän vähimmäiskoko: 20 henkeä</p> <p>Pakollinen etukäteisvaraus: 3 kuukautta etukäteen</p> <p>Vierailijoiden vähimmäisikä: 15 vuotta</p> <p><a href=\"http://www.consilium.europa.eu/fi/contact/visits/\">Vierailut Euroopan unionin neuvostossa</a></p>"
+      ],
+      "fr": [
+        "<p>Type de visite: Séance d’information, séminaire</p> <p>Taille minimale des groupes: 20 personnes</p> <p>Délai de réservation: 3 mois</p> <p>Âge minimum des visiteurs: 15 ans</p> <p><a href=\"http://www.consilium.europa.eu/fr/contact/visits/\">Visiter le Conseil de l’Union européenne</a></p>"
+      ],
+      "ga": [
+        "<p>Cineál cuairte: seisiún eolais, seimineár</p> <p>Íosmhéid an ghrúpa: 20 duine</p> <p>Riachtanas réamháirithinte: 3 mhí</p> <p>Aois íosta na gcuairteoirí: 15 bliana d'aois</p> <p><a href=\"http://www.consilium.europa.eu/ga/contact/visits/\">Cuairt ar Chomhairle an Aontais Eorpaigh</a></p>"
+      ],
+      "hr": [
+        "<p>Vrsta posjeta: informativni sastanak, seminar</p> <p>Minimalna veličina skupine: 20 osoba</p> <p>Obvezna prethodna rezervacija: 3 mjeseca</p> <p>Minimalna dob posjetitelja: 15 godina</p> <p><a href=\"http://www.consilium.europa.eu/hr/contact/visits/\">Posjetite Vijeće Europske unije</a></p>"
+      ],
+      "hu": [
+        "<p>Látogatás típusa: Információs látogatás, szeminárium</p> <p>Csoport minimális létszáma: 20 fő</p> <p>Előzetes bejelentkezés: 3 hónappal a látogatás tervezett időpontja előtt</p> <p>Látogatók alsó korhatára: 15 év</p> <p><a href=\"http://www.consilium.europa.eu/hu/contact/visits/\">Látogatás az Európai Unió Tanácsánál</a></p>"
+      ],
+      "it": [
+        "<p>Tipo di visita: sessione informativa, seminario</p> <p>Numero minimo di partecipanti: 20 persone</p> <p>Prenotazione: 3 mesi prima</p> <p>Età minima dei visitatori: 15 anni</p> <p><a href=\"http://www.consilium.europa.eu/it/contact/visits/\">Visitate il Consiglio dell'Unione europea</a></p>"
+      ],
+      "lt": [
+        "<p>Apsilankymo pobūdis: Informacinė paskaita, seminaras</p> <p>Minimalus grupės dydis: 20 asmenų</p> <p>Prieš kiek laiko būtina susitarti dėl apsilankymo?: Prieš 3 mėnesius</p> <p>Minimalus lankytojų amžius: 15 metų</p> <p><a href=\"http://www.consilium.europa.eu/lt/contact/visits/\">Apsilankykite Europos Sąjungos Taryboje</a></p>"
+      ],
+      "lv": [
+        "<p>Apmeklējuma veids: informatīvs apmeklējums, seminārs</p> <p>Minimālais grupas lielums: 20 cilvēki</p> <p>Iepriekšēja pieteikšanās: 3 mēnešus iepriekš</p> <p>Apmeklētāju minimālais vecums: 15 gadi</p> <p><a href=\"http://www.consilium.europa.eu/lv/contact/visits/\">Eiropas Savienības Padomes apmeklējums</a></p>"
+      ],
+      "mt": [
+        "<p>Tip ta’ żjara: sessjoni ta' informazzjoni, seminar</p> <p>Daqs minimu tal-grupp: 20 ruħ</p> <p>Rekwiżit tar-Riżervazzjoni bil-quddiem: Ħmistax-il (3-il) xahar</p> <p>L-età minima tal-viżitaturi: 15-il sena</p> <p><a href=\"http://www.consilium.europa.eu/mt/contact/visits/\">Żur il-Kunsill tal-Unjoni Ewropea</a></p>"
+      ],
+      "nl": [
+        "<p>Soort bezoek: Voorlichtingsbezoek, seminar</p> <p>Groepsgrootte: Minimaal 20 personen</p> <p>Reservering: Minimaal 3 maanden van tevoren</p> <p>Minimumleeftijd: 15 jaar</p> <p><a href=\"http://www.consilium.europa.eu/nl/contact/visits/\">Bezoek de Raad van de Europese Unie</a></p>"
+      ],
+      "pl": [
+        "<p>Rodzaj wizyty: Sesja informacyjna, szkolenie</p> <p>Minimalna wielkość grupy: 20 osób</p> <p>Wymóg rezerwacji: 3 miesiące wcześniej</p> <p>Minimalny wiek odwiedzających: 15 lat</p> <p><a href=\"http://www.consilium.europa.eu/pl/contact/visits/\">Wizyty w Radzie Unii Europejskiej</a></p>"
+      ],
+      "pt": [
+        "<p>Tipo de visita: sessão de informação, seminário</p> <p>Número mínimo de participantes: 20 pessoas</p> <p>Marcação prévia obrigatória: 3 meses</p> <p>Idade mínima dos visitantes: 15 anos</p> <p><a href=\"http://www.consilium.europa.eu/pt/contact/visits/\">Visite o Conselho da União Europeia</a></p>"
+      ],
+      "ro": [
+        "<p>Tipul de vizită: sesiune de informare, seminar</p> <p>Dimensiunea minimă a grupului: 20 persoane</p> <p>Rezervare: cu 3 luni înainte de data vizitei</p> <p>Vârsta minimă a vizitatorilor: 15 ani</p> <p><a href=\"http://www.consilium.europa.eu/ro/contact/visits/\">Vizitaţi Consiliul Uniunii Europene</a></p>"
+      ],
+      "sk": [
+        "<p>Typy návštev: informatívne stretnutia, semináre</p> <p>Minimálna veľkosť skupiny: 20 osôb</p> <p>Povinná rezervácia: 3 mesiace pred návštevou</p> <p>Minimálny vek návštevníkov: 15 rokov</p> <p><a href=\"http://www.consilium.europa.eu/sk/contact/visits/\">Navštívte Radu Európskej únie</a></p>"
+      ],
+      "sl": [
+        "<p>Vrsta obiska: Informativna predstavitev</p> <p>Velikost skupine: Najmanj 20 oseb</p> <p>Vnaprejšnja rezervacija: 3 meseca</p> <p>Starost obiskovalcev: Najmanj 15 let</p> <p><a href=\"http://www.consilium.europa.eu/sl/contact/visits/\">Obiščite Svet Evropske unije</a></p>"
+      ],
+      "sv": [
+        "<p>Typ av besök: Föredrag och seminarier</p> <p>Gruppens storlek: Minst 20 personer</p> <p>Förhandsbokning: 3 månader</p> <p>Åldersgräns: 15 år</p> <p><a href=\"http://www.consilium.europa.eu/sv/contact/visits/\">Besök ministerrådet</a></p>"
+      ]
+    },
+    "social_url": {
+      "bg": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "cs": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "da": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "de": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "el": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "en": [
+        "https://www.facebook.com/eucouncil",
+        "https://twitter.com/euCouncilPress",
+        "https://www.youtube.com/user/eucouncil",
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "es": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "et": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fi": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "fr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ga": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hr": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "hu": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "it": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "lv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "mt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "nl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "pt": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "ro": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sk": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sl": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ],
+      "sv": [
+        "http://europa.eu/contact/social-networks/index_en.html"
+      ]
+    },
+    "social_label": {
+      "bg": [
+        "ЕС в социалните мрежи"
+      ],
+      "cs": [
+        "Sociální sítě a EU"
+      ],
+      "da": [
+        "Sociale netværk og EU"
+      ],
+      "de": [
+        "Soziale Netzwerke und die EU"
+      ],
+      "el": [
+        "Η ΕΕ στα κοινωνικά δίκτυα"
+      ],
+      "en": [
+        "Facebook",
+        "Twitter",
+        "YouTube",
+        "Social networks"
+      ],
+      "es": [
+        "Las redes sociales y la UE"
+      ],
+      "et": [
+        "Suhtlusvõrgustikud ja EL"
+      ],
+      "fi": [
+        "EU sosiaalisessa mediassa"
+      ],
+      "fr": [
+        "Les réseaux sociaux et l'UE"
+      ],
+      "ga": [
+        "Líonraí sóisialta agus an tAontas Eorpach"
+      ],
+      "hr": [
+        "Društvene mreže i EU"
+      ],
+      "hu": [
+        "A közösségi hálózatok és az EU"
+      ],
+      "it": [
+        "Le reti sociali e l'UE"
+      ],
+      "lt": [
+        "Socialiniai tinklai ir ES"
+      ],
+      "lv": [
+        "Sociālie tīkli un ES"
+      ],
+      "mt": [
+        "Netwerks soċjali u l-UE"
+      ],
+      "nl": [
+        "Sociale netwerken en de EU"
+      ],
+      "pl": [
+        "UE w serwisach społecznościowych"
+      ],
+      "pt": [
+        "As redes sociais e a UE"
+      ],
+      "ro": [
+        "Rețelele sociale și UE"
+      ],
+      "sk": [
+        "Sociálne siete a EÚ"
+      ],
+      "sl": [
+        "Družabna omrežja in EU"
+      ],
+      "sv": [
+        "EU på sociala medier"
+      ]
+    }
+  }
+}

@@ -1,0 +1,925 @@
+{
+    "_id": "89ffc297ef5a3417455661004d3e0fb5",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/eu-history/2010-today/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Историята на Европейския съюз: 2010 г. — до наши дни"
+            ],
+            "cs": [
+                "Historie Evropské unie: 2010 – dnes"
+            ],
+            "da": [
+                "Den Europæiske Unions historie: 2010 – i dag"
+            ],
+            "de": [
+                "Die Geschichte der Europäischen Union: 2010 – heute"
+            ],
+            "el": [
+                "Η ιστορία της Ευρωπαϊκής Ένωσης: 2010 – μέχρι σήμερα"
+            ],
+            "en": [
+                "The history of the European Union: 2010 – today"
+            ],
+            "es": [
+                "La Historia de la Uniòn Europea: 2010 - actualidad"
+            ],
+            "et": [
+                "Euroopa Liidu ajalugu: 2010 – tänapäev"
+            ],
+            "fi": [
+                "Euroopan unionin historia: Vuodesta 2010 nykypäivään"
+            ],
+            "fr": [
+                "L'histoire de l'Union européenne : 2010 – aujourd’hui"
+            ],
+            "ga": [
+                "Stair an Aontais Eorpaigh: 2010 – inniu"
+            ],
+            "hr": [
+                "Povijest Europske unije: 2010. – danas"
+            ],
+            "hu": [
+                "Az Európai Unió története: 2010-től napjainkig"
+            ],
+            "it": [
+                "La Storia dell'Unione europea: 2010 – giorni nostri"
+            ],
+            "lt": [
+                "Europos Sąjungos istorija: Nuo 2010 m. iki dabar"
+            ],
+            "lv": [
+                "Eiropas Savienības vēsture: No 2010. gada līdz šodienai"
+            ],
+            "mt": [
+                "L-Istorja tal-Unjoni Ewropea: 2010 – illum"
+            ],
+            "nl": [
+                "De geschiedenis van de Europese Unie: 2010 – nu"
+            ],
+            "pl": [
+                "Historia Unii Europejskiej: 2010 – do dziś"
+            ],
+            "pt": [
+                "A história da União Europeia: A partir de 2010"
+            ],
+            "ro": [
+                "Istoria Uniunii Europene: 2010 – astăzi"
+            ],
+            "sk": [
+                "História Európskej únie: 2010 – súčasnosť"
+            ],
+            "sl": [
+                "Zgodovina Evropske unije: 2010–danes"
+            ],
+            "sv": [
+                "Europeiska unionens historia: 2010 – idag"
+            ]
+        },
+        "category": {
+            "und": [
+                "33755c30"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/ABOUT-EU/HISTORY/BG"
+            ],
+            "cs": [
+                "EUROPA/ABOUT-EU/HISTORY/CS"
+            ],
+            "da": [
+                "EUROPA/ABOUT-EU/HISTORY/DA"
+            ],
+            "de": [
+                "EUROPA/ABOUT-EU/HISTORY/DE"
+            ],
+            "el": [
+                "EUROPA/ABOUT-EU/HISTORY/EL"
+            ],
+            "en": [
+                "EUROPA/ABOUT-EU/HISTORY/EN"
+            ],
+            "es": [
+                "EUROPA/ABOUT-EU/HISTORY/ES"
+            ],
+            "et": [
+                "EUROPA/ABOUT-EU/HISTORY/ET"
+            ],
+            "fi": [
+                "EUROPA/ABOUT-EU/HISTORY/FI"
+            ],
+            "fr": [
+                "EUROPA/ABOUT-EU/HISTORY/FR"
+            ],
+            "ga": [
+                "EUROPA/ABOUT-EU/HISTORY/"
+            ],
+            "hr": [
+                "EUROPA/ABOUT-EU/HISTORY/EN"
+            ],
+            "hu": [
+                "EUROPA/ABOUT-EU/HISTORY/HU"
+            ],
+            "it": [
+                "EUROPA/ABOUT-EU/HISTORY/IT"
+            ],
+            "lt": [
+                "EUROPA/ABOUT-EU/HISTORY/LT"
+            ],
+            "lv": [
+                "EUROPA/ABOUT-EU/HISTORY/LV"
+            ],
+            "mt": [
+                "EUROPA/ABOUT-EU/HISTORY/"
+            ],
+            "nl": [
+                "EUROPA/ABOUT-EU/HISTORY/NL"
+            ],
+            "pl": [
+                "EUROPA/ABOUT-EU/HISTORY/PL"
+            ],
+            "pt": [
+                "EUROPA/ABOUT-EU/HISTORY/PT"
+            ],
+            "ro": [
+                "EUROPA/ABOUT-EU/HISTORY/RO"
+            ],
+            "sk": [
+                "EUROPA/ABOUT-EU/HISTORY/SK"
+            ],
+            "sl": [
+                "EUROPA/ABOUT-EU/HISTORY/SL"
+            ],
+            "sv": [
+                "EUROPA/ABOUT-EU/HISTORY/SV"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM"
+            ],
+            "cs": [
+                "COMM"
+            ],
+            "da": [
+                "COMM"
+            ],
+            "de": [
+                "COMM"
+            ],
+            "el": [
+                "COMM"
+            ],
+            "en": [
+                "COMM"
+            ],
+            "es": [
+                "COMM"
+            ],
+            "et": [
+                "COMM"
+            ],
+            "fi": [
+                "COMM"
+            ],
+            "fr": [
+                "COMM"
+            ],
+            "ga": [
+                "COMM"
+            ],
+            "hu": [
+                "COMM"
+            ],
+            "it": [
+                "COMM"
+            ],
+            "lt": [
+                "COMM"
+            ],
+            "lv": [
+                "COMM"
+            ],
+            "mt": [
+                "COMM"
+            ],
+            "nl": [
+                "COMM"
+            ],
+            "pl": [
+                "COMM"
+            ],
+            "pt": [
+                "COMM"
+            ],
+            "ro": [
+                "COMM"
+            ],
+            "sk": [
+                "COMM"
+            ],
+            "sl": [
+                "COMM"
+            ],
+            "sv": [
+                "COMM"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "cs": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "da": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "de": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "el": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "en": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "es": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "et": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fi": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "fr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ga": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hr": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hu": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "it": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "lv": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "mt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "nl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "pt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "ro": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sk": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sl": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "sv": [
+                "58-Document for general distribution (intended for the general public)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Европейска комисия - Тази страница предоставя информация за историята на Европейския съюз между 2000 и 2006 г."
+            ],
+            "cs": [
+                "Tato stránka obsahuje informace o historii Evropské unie v letech 2000 až dnes."
+            ],
+            "da": [
+                "Denne side indeholder oplysninger om Den Europæiske Unions historie fra 2000 til 2006"
+            ],
+            "de": [
+                "Diese Seite enthält Informationen über die Geschichte der Europäischen Union von 2000 bis 2006"
+            ],
+            "el": [
+                "Η σελίδα αυτή παρέχει πληροφορίες για την ιστορία της Ευρωπαϊκής Ένωσης από το 2000 έως το 2006"
+            ],
+            "en": [
+                "European Commission - This page provides information on The history of the European Union from 2000 until 2009"
+            ],
+            "es": [
+                "P?ina informativa sobre la historia de la Uni? Europea de 2000 a 2006"
+            ],
+            "et": [
+                "Euroopa Komisjon ? Sellel lehek?jel on teave Euroopa Liidu ajaloost aastatel 2000?2006"
+            ],
+            "fi": [
+                "Sivulla on tietoa Euroopan unionin historiasta"
+            ],
+            "fr": [
+                "Vous trouverez sur cette page des informations sur l'histoire de l'Union européenne de 2000 à 2006"
+            ],
+            "ga": [
+                "An Coimisiún Eorpach - Gheofar ar an leathanach seo faisnéis faoi stair an Aontais Eorpaigh ó 2000 go 2009"
+            ],
+            "hr": [
+                "Europska komisija – Na ovoj su stranici navedene informacije o povijesti Europske unije između 2000. i 2009."
+            ],
+            "hu": [
+                "Ez az oldal az Európai Unió történetéről nyújt információt"
+            ],
+            "it": [
+                "Questa pagina fornisce informazioni sulla storia dell'Unione europea"
+            ],
+            "lt": [
+                "Šiame puslapyje pateikiama informacija apie Europos Sąjungos istoriją"
+            ],
+            "lv": [
+                "Šajā lapā sniegta informācija par Eiropas Savienības vēsturi"
+            ],
+            "mt": [
+                "Il-Kummissjoni Ewropea - Din il-paġna tipprovdi informazzjoni dwar l-istorja tal-Unjoni Ewropea bejn l-2000 sal-2009"
+            ],
+            "nl": [
+                "Deze pagina verschaft informatie over de geschiedenis van de Europese Unie"
+            ],
+            "pl": [
+                "Strona zawiera informacje o historii Unii Europejskiej"
+            ],
+            "pt": [
+                "Esta página apresenta informações sobre a história da União Europeia"
+            ],
+            "ro": [
+                "Comisia Europeană - Această pagină cuprinde informaţii despre istoria Uniunii Europene în perioada 2000-2006"
+            ],
+            "sk": [
+                "Táto stránka poskytuje informácie o histórii Európskej únie"
+            ],
+            "sl": [
+                "Ta stran vsebuje informacije o zgodovini Evropske unije"
+            ],
+            "sv": [
+                "Sidan informerar om Europeiska unionens historia"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "2000 г. - до наши дни",
+                "11 септември",
+                "евро",
+                "мироопазващи сили на ЕС",
+                "разширяване",
+                "конституция",
+                "Протокол от Киото",
+                "глобално затопляне",
+                "интерактивна карта",
+                "Европейски навигатор",
+                "Европейска комисия",
+                "институции",
+                "Европейски съюз",
+                "ЕС"
+            ],
+            "cs": [
+                "2000–dnes",
+                "11. září",
+                "euro",
+                "mírové operace EU",
+                "rozšíření",
+                "ústava",
+                "Kjótský protokol",
+                "globální oteplování",
+                "animovaná mapa",
+                "European Navigator",
+                "Evropská komise",
+                "instituce",
+                "Evropská unie",
+                "EU"
+            ],
+            "da": [
+                "2000–i dag",
+                "11. september",
+                "euro",
+                "EU’s fredsstyrke",
+                "udvidelse",
+                "forfatning",
+                "Kyoto-protokollen",
+                "global opvarmning",
+                "animeret kort",
+                "European Navigator",
+                "Europa-Kommissionen",
+                "institutioner",
+                "Den Europæiske Union",
+                "EU"
+            ],
+            "de": [
+                "2000 – heute",
+                "11. September",
+                "Euro",
+                "EU-Friedensmissionen",
+                "Erweiterung",
+                "Verfassung",
+                "Kyoto-Protokoll",
+                "globale Erwärmung",
+                "dynamische Karte",
+                "European Navigator",
+                "Europäische Kommission",
+                "Institutionen",
+                "Europäische Union",
+                "EU"
+            ],
+            "el": [
+                "2000 – σήμερα",
+                "11η Σεπτεμβρίου",
+                "ευρώ",
+                "ειρηνευτικές πρωτοβουλίε",
+                "διεύρυνση",
+                "Σύνταγμα",
+                "Πρωτόκολλο του Κυότο",
+                "υπερθέρμανση του πλανήτη",
+                "κινούμενος χάρτης",
+                "European Navigator",
+                "Ευρωπαϊκή Επιτροπή",
+                "θεσμικά όργανα",
+                "Ευρωπαϊκή Ένωση",
+                "ΕΕ"
+            ],
+            "en": [
+                "EU",
+                "European Union",
+                "2000 – today",
+                "euro",
+                "EU peacekeeping",
+                "enlargement",
+                "global warming",
+                "animated map",
+                "European Commission",
+                "institutions"
+            ],
+            "es": [
+                "Desde 2000",
+                "11 de septiembre",
+                "euro",
+                "mantenimiento de la paz",
+                "ampliaci?",
+                "Constituci?",
+                "Protocolo de Kioto",
+                "calentamiento mundial",
+                "mapa animado",
+                "Navegador Europeo",
+                "Comisi? Europea",
+                "instituciones",
+                "Uni? Europea",
+                "UE"
+            ],
+            "et": [
+                "2000 ? t?ap?v",
+                "11. september",
+                "euro",
+                "ELi rahuvalve",
+                "laienemine",
+                "p?iseadus",
+                "Kyoto protokoll",
+                "?eilmne soojenemine",
+                "interaktiivne kaart",
+                "European Navigator",
+                "Euroopa Komisjon",
+                "institutsioonid",
+                "Euroopa Liit",
+                "EL"
+            ],
+            "fi": [
+                "abc",
+                "eu",
+                "euroopan unioni",
+                "eurooppa",
+                "euroopan unionin historia",
+                "eu tietokantoja",
+                "eu kronologinen"
+            ],
+            "fr": [
+                "2000 – 2006",
+                "11 septembre",
+                "euro",
+                "interventions de maintien de la paix de l'UE",
+                "élargissement",
+                "constitution",
+                "protocole de Kyoto",
+                "réchauffement de la planète",
+                "carte animée",
+                "European Navigator",
+                "Commission européenne",
+                "institutions",
+                "Union européenne",
+                "UE"
+            ],
+            "ga": [
+                "An AE",
+                "An tAontas Eorpach",
+                "2000-an lá atá inniu ann",
+                "euro",
+                "síocháin á coimeád ag an AE",
+                "méadú",
+                "téamh domhanda",
+                "léarscáil bheochana",
+                "An Coimisiún Eorpach",
+                "institiúidí"
+            ],
+            "hr": [
+                "EU",
+                "Europska unija",
+                "2000. – danas",
+                "euro",
+                "operacije EU-a za očuvanje mira",
+                "proširenje",
+                "globalno zatopljenje",
+                "animirana karta",
+                "Europska komisija",
+                "institucije"
+            ],
+            "hu": [
+                "abc",
+                "eu",
+                "europai unio",
+                "europa",
+                "az eu tortenete",
+                "eu-informacio",
+                "eu-kronologia"
+            ],
+            "it": [
+                "abc",
+                "ue",
+                "unione europea",
+                "europa",
+                "storia ue",
+                "informazioni ue",
+                "cronologia ue"
+            ],
+            "lt": [
+                "abc",
+                "es",
+                "europos sąjunga",
+                "europa",
+                "es istorija",
+                "informacija apie es",
+                "es chronologija"
+            ],
+            "lv": [
+                "abc",
+                "es",
+                "eiropas savieniba",
+                "eiropa",
+                "es vesture",
+                "informacija par es",
+                "es hronologija"
+            ],
+            "mt": [
+                "UE",
+                "Unjoni Ewropea",
+                "2000 - illum",
+                "ewro",
+                "żamma tal-paċi tal-UE",
+                "tkabbir",
+                "tisħin globali",
+                "mappa animata",
+                "Kummissjoni Ewropea",
+                "istituzzjonijiet"
+            ],
+            "nl": [
+                "abc",
+                "eu",
+                "europese unie",
+                "europa",
+                "eu geschiedenis",
+                "eu informatie",
+                "eu chronologie"
+            ],
+            "pl": [
+                "abc",
+                "ue",
+                "unia europejska",
+                "europa",
+                "historia ue",
+                "informacje o ue",
+                "chronologia wydarzen ue"
+            ],
+            "pt": [
+                "abc",
+                "ue",
+                "uniao europeia",
+                "europa",
+                "ue historia",
+                "ue informaçao",
+                "ue chronologias"
+            ],
+            "ro": [
+                "2000 - astăzi",
+                "11 septembrie",
+                "moneda euro",
+                "misiuni UE de menţinere a păcii",
+                "extindere",
+                "Constituţia",
+                "Protocolul de la Kyoto",
+                "încălzirea globală",
+                "hartă animată",
+                "European Navigator",
+                "Comisia Europeană",
+                "instituţii",
+                "Uniunea Europeană",
+                "UE"
+            ],
+            "sk": [
+                "abc",
+                "eu",
+                "europska unia",
+                "europa",
+                "historia eu",
+                "informacie o eu",
+                "chronologia eu"
+            ],
+            "sl": [
+                "abc",
+                "eu",
+                "evropska unija",
+                "evropa",
+                "zgodovina eu",
+                "informacije o eu",
+                "kronologija eu"
+            ],
+            "sv": [
+                "abc",
+                "eu",
+                "europeiska unionen",
+                "europa",
+                "historia",
+                "information",
+                "kronologi"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Историята на Европейския съюз: 2010 г. — до наши дни</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_bg.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_bg.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_bg.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_bg.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_bg.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_bg.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_bg.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Десетилетие на възможности и предизвикателства</h2>                                     <p>Новото десетилетие започва със сериозна икономическа криза, но и с надежда, че инвестициите в нови зелени и благоприятни за климата технологии, и по-тясното европейско сътрудничество ще доведат до траен растеж и благосъстояние.</p>                                     <div class=\"ff_single\">                                        <p>Новото десетилетие започва със сериозна икономическа криза, но и с надежда, че инвестициите в нови зелени и благоприятни за климата технологии, и по-тясното европейско сътрудничество ще доведат до траен растеж и благосъстояние.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_bg.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_bg.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_bg.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_bg.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_bg.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_bg.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_bg.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "cs": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Historie Evropské unie: 2010 – dnes</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_cs.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_cs.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_cs.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_cs.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_cs.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_cs.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_cs.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Desetiletí příležitostí a výzev</h2>                                     <p>Nové desetiletí začíná těžkou hospodářskou krizí, ale také nadějí, že investice do nových zelených a klimaticky vstřícných technologií a užší evropská spolupráce přinese trvalý růst a blahobyt.</p>                                     <div class=\"ff_single\">                                        <p>Nové desetiletí začíná těžkou hospodářskou krizí, ale také nadějí, že investice do nových zelených a klimaticky vstřícných technologií a užší evropská spolupráce přinese trvalý růst a blahobyt.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_cs.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_cs.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_cs.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_cs.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_cs.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_cs.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_cs.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "da": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Den Europæiske Unions historie: 2010 – i dag</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_da.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_da.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_da.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_da.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_da.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_da.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_da.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Mulighedernes og udfordringernes årti</h2>                                     <p>Det nye årti præges fra starten af den omfattende økonomiske krise men også af håbet om, at investeringer i ny grøn og klimavenlig teknologi og et tættere økonomisk samarbejde i Europa kan skabe vedvarende vækst og velfærd.</p>                                     <div class=\"ff_single\">                                        <p>Det nye årti præges fra starten af den omfattende økonomiske krise men også af håbet om, at investeringer i ny grøn og klimavenlig teknologi og et tættere økonomisk samarbejde i Europa kan skabe vedvarende vækst og velfærd.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_da.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_da.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_da.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_da.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_da.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_da.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_da.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "de": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Die Geschichte der Europäischen Union: 2010 – heute</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_de.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_de.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_de.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_de.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_de.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_de.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_de.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Ein Jahrzehnt der Chancen und Herausforderungen</h2>                                     <p>Das neue Jahrzehnt beginnt mit einer schlimmen Wirtschaftskrise, aber auch mit der Hoffnung, dass die Investitionen in neue grüne und klimafreundliche Technologien und eine engere europäische Zusammenarbeit nachhaltiges Wachstum und Wohlstand bringen werden.</p>                                     <div class=\"ff_single\">                                        <p>Das neue Jahrzehnt beginnt mit einer schlimmen Wirtschaftskrise, aber auch mit der Hoffnung, dass die Investitionen in neue grüne und klimafreundliche Technologien und eine engere europäische Zusammenarbeit nachhaltiges Wachstum und Wohlstand bringen werden.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_de.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_de.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_de.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_de.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_de.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_de.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_de.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "el": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Η ιστορία της Ευρωπαϊκής Ένωσης: 2010 – μέχρι σήμερα</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_el.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_el.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_el.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_el.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_el.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_el.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_el.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Μια δεκαετία ευκαιριών και προκλήσεων</h2>                                     <p>Η νέα δεκαετία ξεκινά με μια σοβαρή χρηματοπιστωτική κρίση, αλλά και με την ελπίδα ότι οι επενδύσεις σε νέες, πράσινες, φιλικές προς το περιβάλλον τεχνολογίες καθώς και η ευρωπαϊκή συνεργασία θα συμβάλουν στη διαρκή ανάπτυξη και ευημερία.</p>                                     <div class=\"ff_single\">                                        <p>Η νέα δεκαετία ξεκινά με μια σοβαρή χρηματοπιστωτική κρίση, αλλά και με την ελπίδα ότι οι επενδύσεις σε νέες, πράσινες, φιλικές προς το περιβάλλον τεχνολογίες καθώς και η ευρωπαϊκή συνεργασία θα συμβάλουν στη διαρκή ανάπτυξη και ευημερία.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_el.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_el.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_el.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_el.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_el.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_el.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_el.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "en": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">The history of the European Union: 2010 – today</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_en.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_en.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_en.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_en.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_en.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_en.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_en.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">A decade of opportunities and challenges</h2>                                     <p>The new decade starts with a severe economic crisis, but also with the hope that investments in new green and climate-friendly technologies and closer European cooperation will bring lasting growth and welfare.</p>                                     <div class=\"ff_single\">                                        <p>The new decade starts with a severe economic crisis, but also with the hope that investments in new green and climate-friendly technologies and closer European cooperation will bring lasting growth and welfare.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_en.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_en.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_en.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_en.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_en.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_en.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_en.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "es": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">La Historia de la Uniòn Europea: 2010 - actualidad</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_es.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_es.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_es.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_es.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_es.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_es.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_es.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Una década de oportunidades y desafíos</h2>                                     <p>La nueva década arranca con una grave crisis económica, pero también con la esperanza de que las inversiones en nuevas tecnologías ecológicas, más respetuosas con el clima, junto con una cooperación europea más estrecha, produzcan crecimiento y bienestar duraderos.</p>                                     <div class=\"ff_single\">                                        <p>La nueva década arranca con una grave crisis económica, pero también con la esperanza de que las inversiones en nuevas tecnologías ecológicas, más respetuosas con el clima, junto con una cooperación europea más estrecha, produzcan crecimiento y bienestar duraderos.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_es.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_es.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_es.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_es.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_es.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_es.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_es.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "et": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Euroopa Liidu ajalugu: 2010 – tänapäev</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_et.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_et.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_et.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_et.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_et.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_et.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_et.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Võimaluste ja proovikivide kümnend</h2>                                     <p>Uus kümnend algab ränga majanduskriisiga, kuid ka lootusega, et investeeringud uutesse keskkonna- ja kliimasõbralikesse tehnoloogiatesse ning tihedam koostöö kogu Euroopa ulatuses tagab kestva majanduskasvu ja heaolu.</p>                                     <div class=\"ff_single\">                                        <p>Uus kümnend algab ränga majanduskriisiga, kuid ka lootusega, et investeeringud uutesse keskkonna- ja kliimasõbralikesse tehnoloogiatesse ning tihedam koostöö kogu Euroopa ulatuses tagab kestva majanduskasvu ja heaolu.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_et.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_et.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_et.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_et.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_et.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_et.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_et.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fi": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Euroopan unionin historia: Vuodesta 2010 nykypäivään</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_fi.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_fi.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_fi.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_fi.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_fi.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_fi.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_fi.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Mahdollisuuksien ja haasteiden vuosikymmen</h2>                                     <p>Uusi vuosikymmen alkaa ankaran talouskriisin varjossa. Toisaalta toivotaan, että investoimalla uuteen vihreään ja ilmastoystävälliseen teknologiaan ja tiivistämällä eurooppalaista yhteistyötä voidaan luoda pysyvää kasvua ja hyvinvointia.</p>                                     <div class=\"ff_single\">                                        <p>Uusi vuosikymmen alkaa ankaran talouskriisin varjossa. Toisaalta toivotaan, että investoimalla uuteen vihreään ja ilmastoystävälliseen teknologiaan ja tiivistämällä eurooppalaista yhteistyötä voidaan luoda pysyvää kasvua ja hyvinvointia.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_fi.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_fi.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_fi.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_fi.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_fi.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_fi.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_fi.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">L'histoire de l'Union européenne : 2010 – aujourd’hui</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_fr.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_fr.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_fr.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_fr.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_fr.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_fr.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_fr.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Dix ans d’opportunités et de défis</h2>                                     <p>La nouvelle décennie commence par une grave crise économique mais aussi avec l’espoir de voir des investissements dans de nouvelles technologies écologiques et respectueuses du climat et une coopération européenne renforcée se traduire par une croissance et un bien-être durables.</p>                                     <div class=\"ff_single\">                                        <p>La nouvelle décennie commence par une grave crise économique mais aussi avec l’espoir de voir des investissements dans de nouvelles technologies écologiques et respectueuses du climat et une coopération européenne renforcée se traduire par une croissance et un bien-être durables.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_fr.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_fr.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_fr.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_fr.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_fr.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_fr.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_fr.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ga": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Stair an Aontais Eorpaigh: 2010 – inniu</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_ga.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_ga.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_ga.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_ga.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_ga.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_ga.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_ga.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Deichbhliain de dheiseanna agus de dhúshláin</h2>                                     <p>Tosaíonn an deichbhliain nua le géarchéim mhór gheilleagrach, ach tá dóchas ann, leis, go bhfeicfear fás agus leas san fhadtéarma de thoradh infheistíochtaí i dteicneolaíochtaí nua glasa atá báúil leis an timpeallacht agus comhar níos dlúithe i measc mhuintir na hEorpa.</p>                                     <div class=\"ff_single\">                                        <p>The new decade starts with a severe economic crisis, but also with the hope that investments in new green and climate-friendly technologies and closer European cooperation will bring lasting growth and welfare.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_ga.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_ga.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_ga.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_ga.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_ga.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_ga.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_ga.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Povijest Europske unije: 2010. – danas</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_hr.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_hr.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_hr.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_hr.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_hr.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_hr.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_hr.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Desetljeće mogućnosti i izazova</h2>                                     <p>Novo desetljeće počelo je s teškom gospodarskom krizom, ali i nadom da će ulaganje u nove zelene i klimatski prihvatljive tehnologije te tješnja europska suradnja donijeti trajan rast i dobrobit.</p>                                     <div class=\"ff_single\">                                        <p>Novo desetljeće počelo je s teškom gospodarskom krizom, ali i nadom da će ulaganja u nove zelene i klimatski prihvatljive tehnologije te tješnja europska suradnja donijeti trajan rast i dobrobit.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_hr.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_hr.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_hr.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_hr.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_hr.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_hr.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_hr.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hu": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Az Európai Unió története: 2010-től napjainkig</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_hu.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_hu.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_hu.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_hu.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_hu.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_hu.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_hu.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">A lehetőségek és a kihívások évtizede</h2>                                     <p>Az új évtized súlyos gazdasági válsággal kezdődik, ugyanakkor annak reményével is, hogy a „zöld” és klímabarát technológiákba való befektetések, továbbá a szorosabb európai együttműködés tartós növekedést és jólétet fognak eredményezni.</p>                                     <div class=\"ff_single\">                                        <p>Az új évtized súlyos gazdasági válsággal kezdődik, ugyanakkor annak reményével is, hogy a „zöld” és klímabarát technológiákba való befektetések, továbbá a szorosabb európai együttműködés tartós növekedést és jólétet fognak eredményezni.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_hu.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_hu.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_hu.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_hu.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_hu.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_hu.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_hu.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "it": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">La Storia dell'Unione europea: 2010 – giorni nostri</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_it.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_it.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_it.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_it.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_it.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_it.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_it.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Un decennio di opportunità e sfide</h2>                                     <p>Il nuovo decennio si apre con una profonda crisi economica, ma anche con la speranza che gli investimenti in nuove tecnologie verdi e rispettose del clima e una più stretta collaborazione europea possano portare a una crescita e a un benessere duraturi.</p>                                     <div class=\"ff_single\">                                        <p>Il nuovo decennio si apre con una profonda crisi economica, ma anche con la speranza che gli investimenti in nuove tecnologie verdi e rispettose del clima e una più stretta collaborazione europea possano portare a una crescita e a un benessere duraturi.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_it.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_it.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_it.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_it.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_it.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_it.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_it.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Europos Sąjungos istorija: Nuo 2010 m. iki dabar</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_lt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_lt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_lt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_lt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_lt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_lt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_lt.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Galimybių ir iššūkių dešimtmetis</h2>                                     <p>Naująjį dešimtmetį pasitikome su sunkia ekonomine krize ir viltimi, kad investicijos į naująsias ekologiškas ir klimatui nekenksmingas technologijas bei artimesnis Europos bendradarbiavimas paskatins ilgalaikį augimą ir gerovę.</p>                                     <div class=\"ff_single\">                                        <p>Naująjį dešimtmetį pasitikome su sunkia ekonomine krize ir viltimi, kad investicijos į naująsias ekologiškas ir klimatui nekenksmingas technologijas bei artimesnis Europos bendradarbiavimas paskatins ilgalaikį augimą ir gerovę.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_lt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_lt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_lt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_lt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_lt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_lt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_lt.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Eiropas Savienības vēsture: No 2010. gada līdz šodienai</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_lv.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_lv.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_lv.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_lv.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_lv.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_lv.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_lv.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Iespēju un sarežģījumu desmitgade</h2>                                     <p>Jaunā desmitgade ir iesākusies ne vien ar smagu ekonomikas krīzi, bet arī ar cerību, ka ieguldījumi jaunās videi un klimatam nekaitīgās tehnoloģijās un ciešāka Eiropas valstu sadarbība nodrošinās ilgstošu izaugsmi un labklājību.</p>                                     <div class=\"ff_single\">                                        <p>Jaunā desmitgade ir iesākusies ne vien ar smagu ekonomikas krīzi, bet arī ar cerību, ka ieguldījumi jaunās videi un klimatam nekaitīgās tehnoloģijās un ciešāka Eiropas valstu sadarbība nodrošinās ilgstošu izaugsmi un labklājību.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_lv.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_lv.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_lv.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_lv.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_lv.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_lv.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_lv.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "mt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">L-Istorja tal-Unjoni Ewropea: 2010 – illum</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_mt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_mt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_mt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_mt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_mt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_mt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_mt.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Deċennju ta’ opportunitajiet u sfidi</h2>                                     <p>Id-deċennju l-ġdid jibda bi kriżi ekonomika severa, iżda wkoll bit-tama li investimenti f’teknoloġiji li jibżgħu għall-ambjent u li ma jagħmlux ħsara lill-klima kif ukoll kooperazzjoni Ewropea eqreb iġibu tkabbir u benesseri dewwiema.</p>                                     <div class=\"ff_single\">                                        <p>Id-deċennju l-ġdid jibda bi kriżi ekonomika severa, iżda wkoll bit-tama li investimenti f’teknoloġiji li jibżgħu għall-ambjent u li ma jagħmlux ħsara lill-klima kif ukoll kooperazzjoni Ewropea eqreb iġibu tkabbir u benesseri dewwiema.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_mt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_mt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_mt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_mt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_mt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_mt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_mt.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "nl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">De geschiedenis van de Europese Unie: 2010 – nu</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_nl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_nl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_nl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_nl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_nl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_nl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_nl.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Een periode van mogelijkheden en uitdagingen</h2>                                     <p>Het nieuwe decennium begint met een ernstige economische crisis, maar ook met de hoop dat investeringen in nieuwe groene en klimaatvriendelijke technologieën en nauwere Europese samenwerking zullen leiden tot blijvende groei en welvaart.</p>                                     <div class=\"ff_single\">                                        <p>Het nieuwe decennium begint met een ernstige economische crisis, maar ook met de hoop dat investeringen in nieuwe groene en klimaatvriendelijke technologieën en nauwere Europese samenwerking zullen leiden tot blijvende groei en welvaart.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_nl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_nl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_nl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_nl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_nl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_nl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_nl.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Historia Unii Europejskiej: 2010 – do dziś</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_pl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_pl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_pl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_pl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_pl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_pl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_pl.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Dekada wyzwań i nowych możliwości</h2>                                     <p>Nowa dekada rozpoczyna się od dotkliwego kryzysu gospodarczego, ale daje również nadzieję, że inwestycje w nowe ekologiczne i przyjazne dla klimatu technologie oraz bliska współpraca krajów europejskich zaowocują długofalowym rozwojem i dobrobytem.</p>                                     <div class=\"ff_single\">                                        <p>Nowa dekada rozpoczyna się od dotkliwego kryzysu gospodarczego, ale daje również nadzieję, że inwestycje w nowe ekologiczne i przyjazne dla klimatu technologie oraz bliska współpraca krajów europejskich zaowocują długofalowym rozwojem i dobrobytem.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_pl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_pl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_pl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_pl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_pl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_pl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_pl.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">A história da União Europeia: A partir de 2010</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_pt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_pt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_pt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_pt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_pt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_pt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_pt.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Uma década de oportunidade e desafios</h2>                                     <p>A nova década tem início com uma grave crise económica, mas também com a esperança de que os investimentos nas novas tecnologias verdes e amigas do ambiente e a cooperação europeia mais estreita tragam crescimento e bem-estar duradouros.</p>                                     <div class=\"ff_single\">                                        <p>A nova década tem início com uma grave crise económica, mas também com a esperança de que os investimentos nas novas tecnologias verdes e amigas do ambiente e a cooperação europeia mais estreita tragam crescimento e bem-estar duradouros.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_pt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_pt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_pt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_pt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_pt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_pt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_pt.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ro": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Istoria Uniunii Europene: 2010 – astăzi</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_ro.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_ro.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_ro.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_ro.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_ro.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_ro.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_ro.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Un deceniu de oportunităţi şi provocări</h2>                                     <p>Noul deceniu începe cu o gravă criză financiară, dar şi cu speranţa că investiţiile în noi tehnologii verzi şi ecologice, alături de o mai strânsă cooperare europeană, vor duce la o creștere şi o bunăstare de lungă durată.</p>                                     <div class=\"ff_single\">                                        <p>Noul deceniu începe cu o gravă criză financiară, dar și cu speranţa că investiţiile în noi tehnologii verzi și ecologice, alături de o mai strânsă cooperare europeană, vor duce la o creștere și o bunăstare de lungă durată.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_ro.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_ro.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_ro.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_ro.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_ro.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_ro.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_ro.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sk": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">História Európskej únie: 2010 – súčasnosť</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sk.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sk.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sk.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sk.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sk.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sk.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sk.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Desaťročie príležitostí a výzev</h2>                                     <p>Začiatok nového desaťročia sprevádzala vážna hospodárska kríza, ale aj nádej, že investície do nových ekologických technológií šetrných k životnému prostrediu a užšia spolupráca Európy prinesú trváci rast a blaho.</p>                                     <div class=\"ff_single\">                                        <p>Začiatok nového desaťročia sprevádzala vážna hospodárska kríza, ale aj nádej, že investície do nových ekologických technológií šetrných k životnému prostrediu a užšia spolupráca Európy prinesú trváci rast a blaho.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sk.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sk.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sk.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sk.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sk.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sk.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sk.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Zgodovina Evropske unije: 2010–danes</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sl.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Desetletje priložnosti in izzivov</h2>                                     <p>Novo desetletje se je začelo s hudo gospodarsko krizo, vendar tudi z upanjem, da bodo investicije v nove okolju in podnebju prijazne tehnologije ter tesnejše evropsko sodelovanje prinesli trajno rast in blaginjo.</p>                                     <div class=\"ff_single\">                                        <p>Novo desetletje se je začelo s hudo gospodarsko krizo, vendar tudi z upanjem, da bodo investicije v nove okolju in podnebju prijazne tehnologije ter tesnejše evropsko sodelovanje prinesli trajno rast in blaginjo.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sl.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Europeiska unionens historia: 2010 – idag</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sv.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sv.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sv.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sv.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sv.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sv.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sv.htm\">2016</a>                                     </div>                                     <h2 id=\"goto_1\">Möjligheternas och utmaningarnas decennium</h2>                                     <p>Det nya decenniet börjar med en fortsatt allvarlig ekonomisk kris, men också med hoppet om att investeringar i ny klimatvänlig teknik och närmare europeiskt samarbete ska föra med sig långvarig tillväxt och ökat välstånd.</p>                                     <div class=\"ff_single\">                                        <p>Det nya decenniet börjar med en fortsatt allvarlig ekonomisk kris, men också med hoppet om att investeringar i ny klimatvänlig teknik och närmare europeiskt samarbete ska föra med sig långvarig tillväxt och ökat välstånd.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sv.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sv.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sv.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sv.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sv.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sv.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sv.htm\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_89ffc297ef5a3417455661004d3e0fb5"
+            ]
+        }
+    }
+}

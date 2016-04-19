@@ -1,0 +1,201 @@
+{
+    "_id": "73c78c06bda728cc1747024c6165f2df",
+    "type": "menu",
+    "default_language": "und",
+    "languages": [
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "und",
+        "es",
+        "fr",
+        "ga",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv",
+        "hr"
+    ],
+    "fields": {
+        "reference_date": {
+            "und": [
+                "2009-06-26 10:38:00"
+            ]
+        },
+        "weight": {
+            "und": [
+                18
+            ]
+        },
+        "parent": {
+            "und": [
+                "cd2cfa2fae2fea0a06ca5cf2cc6c2d9"
+            ]
+        },
+        "level": {
+            "und": [
+                3
+            ]
+        },
+        "title": {
+            "bg": [
+                "Данъчно облагане"
+            ],
+            "cs": [
+                "Daně"
+            ],
+            "da": [
+                "Beskatning"
+            ],
+            "de": [
+                "Steuerwesen"
+            ],
+            "el": [
+                "Φορολογία"
+            ],
+            "und": [
+                "Taxation"
+            ],
+            "es": [
+                "Fiscalidad"
+            ],
+            "et": [
+                "Maksundus"
+            ],
+            "fi": [
+                "Verotus"
+            ],
+            "fr": [
+                "Fiscalité"
+            ],
+            "ga": [
+                "Cánachas"
+            ],
+            "hr": [
+                "Oporezivanje"
+            ],
+            "hu": [
+                "Adóügy"
+            ],
+            "it": [
+                "Regime fiscale"
+            ],
+            "lt": [
+                "Mokesčiai"
+            ],
+            "lv": [
+                "Nodokļi"
+            ],
+            "mt": [
+                "Tassazzjoni"
+            ],
+            "nl": [
+                "Belastingen"
+            ],
+            "pl": [
+                "Podatki"
+            ],
+            "pt": [
+                "Fiscalidade"
+            ],
+            "ro": [
+                "Fiscalitate"
+            ],
+            "sk": [
+                "Dane"
+            ],
+            "sl": [
+                "Davki"
+            ],
+            "sv": [
+                "Skatter"
+            ]
+        },
+        "link": {
+            "bg": [
+                "pol/tax"
+            ],
+            "cs": [
+                "pol/tax"
+            ],
+            "da": [
+                "pol/tax"
+            ],
+            "de": [
+                "pol/tax"
+            ],
+            "el": [
+                "pol/tax"
+            ],
+            "und": [
+                "pol/tax"
+            ],
+            "es": [
+                "pol/tax"
+            ],
+            "et": [
+                "pol/tax"
+            ],
+            "fi": [
+                "pol/tax"
+            ],
+            "fr": [
+                "pol/tax"
+            ],
+            "ga": [
+                "pol/tax"
+            ],
+            "hr": [
+                "pol/tax"
+            ],
+            "hu": [
+                "pol/tax"
+            ],
+            "it": [
+                "pol/tax"
+            ],
+            "lt": [
+                "pol/tax"
+            ],
+            "lv": [
+                "pol/tax"
+            ],
+            "mt": [
+                "pol/tax"
+            ],
+            "nl": [
+                "pol/tax"
+            ],
+            "pl": [
+                "pol/tax"
+            ],
+            "pt": [
+                "pol/tax"
+            ],
+            "ro": [
+                "pol/tax"
+            ],
+            "sk": [
+                "pol/tax"
+            ],
+            "sl": [
+                "pol/tax"
+            ],
+            "sv": [
+                "pol/tax"
+            ]
+        }
+    }
+}

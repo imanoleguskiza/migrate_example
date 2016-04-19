@@ -1,0 +1,867 @@
+{
+  "_id": "5b7ef8a9b077aaf61c7d2871f235371c",
+  "type": "common_page",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/abouteuropa/linking_policy/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/abouteuropa/linking_policy/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/abouteuropa/linking_policy/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/abouteuropa/linking_policy/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/abouteuropa/linking_policy/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/abouteuropa/linking_policy/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/abouteuropa/linking_policy/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/abouteuropa/linking_policy/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/abouteuropa/linking_policy/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/abouteuropa/linking_policy/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/abouteuropa/linking_policy/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/abouteuropa/linking_policy/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/abouteuropa/linking_policy/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/abouteuropa/linking_policy/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/abouteuropa/linking_policy/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/abouteuropa/linking_policy/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/abouteuropa/linking_policy/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/abouteuropa/linking_policy/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/abouteuropa/linking_policy/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/abouteuropa/linking_policy/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/abouteuropa/linking_policy/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/abouteuropa/linking_policy/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/abouteuropa/linking_policy/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/abouteuropa/linking_policy/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Политика за интернет връзките"
+      ],
+      "cs": [
+        "Používání odkazů"
+      ],
+      "da": [
+        "Politik for anvendelse af links"
+      ],
+      "de": [
+        "Verlinkungsregeln"
+      ],
+      "el": [
+        "Πολιτική συνδέσμων"
+      ],
+      "en": [
+        "Linking policy"
+      ],
+      "es": [
+        "Política de enlaces"
+      ],
+      "et": [
+        "Linkimine"
+      ],
+      "fi": [
+        "Linkitysehdot"
+      ],
+      "fr": [
+        "Politique matière d'hyperliens"
+      ],
+      "ga": [
+        "An beartas um nascadh"
+      ],
+      "hr": [
+        "Pravila o poveznicama"
+      ],
+      "hu": [
+        "Linkkészítési tudnivalók"
+      ],
+      "it": [
+        "Politica in materia di link"
+      ],
+      "lt": [
+        "Nuorodų teikimo tvarka"
+      ],
+      "lv": [
+        "Saišu veidošanas politika"
+      ],
+      "mt": [
+        "Politika dwar il-links"
+      ],
+      "nl": [
+        "Regels voor links naar deze website"
+      ],
+      "pl": [
+        "Zamieszczanie linków do stron portalu"
+      ],
+      "pt": [
+        "Política em matéria de ligações"
+      ],
+      "ro": [
+        "Politica privind linkurile"
+      ],
+      "sk": [
+        "Pravidlá vytvárania odkazov"
+      ],
+      "sl": [
+        "Smernice za povezave"
+      ],
+      "sv": [
+        "Riktlinjer för länkar"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "Europa"
+      ],
+      "cs": [
+        "Europa"
+      ],
+      "da": [
+        "Europa"
+      ],
+      "de": [
+        "Europa"
+      ],
+      "el": [
+        "Europa"
+      ],
+      "en": [
+        "Europa"
+      ],
+      "es": [
+        "Europa"
+      ],
+      "et": [
+        "Europa"
+      ],
+      "fi": [
+        "Europa"
+      ],
+      "fr": [
+        "Europa"
+      ],
+      "ga": [
+        "Europa"
+      ],
+      "hr": [
+        "Europa"
+      ],
+      "hu": [
+        "Europa"
+      ],
+      "it": [
+        "Europa"
+      ],
+      "lt": [
+        "Europa"
+      ],
+      "lv": [
+        "Europa"
+      ],
+      "mt": [
+        "Europa"
+      ],
+      "nl": [
+        "Europa"
+      ],
+      "pl": [
+        "Europa"
+      ],
+      "pt": [
+        "Europa"
+      ],
+      "ro": [
+        "Europa"
+      ],
+      "sk": [
+        "Europa"
+      ],
+      "sl": [
+        "Europa"
+      ],
+      "sv": [
+        "Europa"
+      ]
+    },
+    "meta_creator": {
+      "bg": [
+        "COMM/COMM/A5"
+      ],
+      "cs": [
+        "COMM/COMM/A5"
+      ],
+      "da": [
+        "COMM/COMM/A5"
+      ],
+      "de": [
+        "COMM/COMM/A5"
+      ],
+      "el": [
+        "COMM/COMM/A5"
+      ],
+      "en": [
+        "COMM/COMM/A5"
+      ],
+      "es": [
+        "COMM/COMM/A5"
+      ],
+      "et": [
+        "COMM/COMM/A5"
+      ],
+      "fi": [
+        "COMM/COMM/A5"
+      ],
+      "fr": [
+        "COMM/COMM/A5"
+      ],
+      "ga": [
+        "COMM/COMM/A5"
+      ],
+      "hr": [
+        "COMM/COMM/A5"
+      ],
+      "hu": [
+        "COMM/COMM/A5"
+      ],
+      "it": [
+        "COMM/COMM/A5"
+      ],
+      "lt": [
+        "COMM/COMM/A5"
+      ],
+      "lv": [
+        "COMM/COMM/A5"
+      ],
+      "mt": [
+        "COMM/COMM/A5"
+      ],
+      "nl": [
+        "COMM/COMM/A5"
+      ],
+      "pl": [
+        "COMM/COMM/A5"
+      ],
+      "pt": [
+        "COMM/COMM/A5"
+      ],
+      "ro": [
+        "COMM/COMM/A5"
+      ],
+      "sk": [
+        "COMM/COMM/A5"
+      ],
+      "sl": [
+        "COMM/COMM/A5"
+      ],
+      "sv": [
+        "COMM/COMM/A5"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Политика за интернет връзките към уебсайтове на ЕС (EUROPA) — насоки за създаване на връзки към EUROPA"
+      ],
+      "cs": [
+        "Používání odkazů na internetové stránky EU (EUROPA) – Pokyny, jak správně odkazovat na portál EUROPA"
+      ],
+      "da": [
+        "Politik for anvendelse af links til EU’s website (EUROPA) – retningslinjer for, hvordan man linker til EUROPA-websitet"
+      ],
+      "de": [
+        "Verlinkungsregeln für die EUROPA-Internetseiten der EU – Leitlinien für die Verlinkung zu EUROPA"
+      ],
+      "el": [
+        "Πολιτική για τους συνδέσμους που οδηγούν σε ιστότοπους της ΕΕ (EUROPA) – Οδηγίες για τη δημιουργία συνδέσμων προς τον EUROPA"
+      ],
+      "en": [
+        "Linking policy for EU (EUROPA) websites – guidelines on how to link to EUROPA"
+      ],
+      "es": [
+        "Política de enlaces de los sitios web de la UE (EUROPA) – directrices para enlazar con EUROPA"
+      ],
+      "et": [
+        "ELi (EUROPA) veebisaitide linkimine – Juhised selle kohta, kuidas luua linke portaali EUROPA"
+      ],
+      "fi": [
+        "EU:n verkkosivujen linkitysehdot – EUROPA-sivuston linkitysohjeet"
+      ],
+      "fr": [
+        "Politique des sites web (EUROPA) de l'UE en matière d'hyperliens – Lignes directrices pour la création d'hyperliens vers EUROPA"
+      ],
+      "ga": [
+        "An beartas um nascadh do shuíomhanna gréasáin AE  (EUROPA) – treoirlínte faoi nascadh le  EUROPA."
+      ],
+      "hr": [
+        "Pravila o poveznicama na web-mjesta EU-a (EUROPA) – smjernice za povezivanje na portal EUROPA"
+      ],
+      "hu": [
+        "Az EU webhelyeihez (az EUROPA portál oldalaihoz) vezető linkek készítése – iránymutatások"
+      ],
+      "it": [
+        " Politica in materia di link per i siti dell’UE (EUROPA) - orientamenti su come creare link a EUROPA"
+      ],
+      "lt": [
+        "Nuorodų į ES interneto svetaines (portalą EUROPA) teikimo tvarka. Gairės, kaip teikti nuodas į portalą EUROPA"
+      ],
+      "lv": [
+        "Uz ES (EUROPA) vietnēm vedošo saišu veidošanas politika – pamatnostādnes par saišu izveidi uz portālu EUROPA"
+      ],
+      "mt": [
+        "Politika dwar il-links tal-UE għas-siti web (EUROPA) – linji gwida dwar kif tagħmel link għal EUROPA"
+      ],
+      "nl": [
+        "Regels en richtsnoeren voor links naar EU-websites (europa.eu)"
+      ],
+      "pl": [
+        "Zasady zamieszczania linków do stron portalu EUROPA – wskazówki dotyczące linkowania stron"
+      ],
+      "pt": [
+        "Política em matéria de ligações para os sítios Web da UE (EUROPA) – como criar ligações para o EUROPA"
+      ],
+      "ro": [
+        "Politica privind linkurile către site-urile portalului EUROPA - Orientări privind publicarea de linkuri către EUROPA"
+      ],
+      "sk": [
+        "Pravidlá pre vytváranie odkazov na webové sídla EÚ (EUROPA) – ako vytvárať odkazy na portál EUROPA"
+      ],
+      "sl": [
+        "Smernice za povezave na spletišča EU (EUROPA) – navodila, kako ustvariti povezavo na portal EUROPA"
+      ],
+      "sv": [
+        "Riktlinjer för hur man länkar till EU:s webbplatser (europa.eu)"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "ЕС",
+        "Europa",
+        "политика за връзките",
+        "насоки",
+        "официално лого",
+        "търговски марки",
+        "правна информация",
+        "Европейски съюз"
+      ],
+      "cs": [
+        "EU",
+        "Europa, Evropa",
+        "používání odkazů, odkazy",
+        "pokyny",
+        "oficiální logo",
+        "ochranné známky",
+        "právní upozornění",
+        "Evropská unie"
+      ],
+      "da": [
+        "EU",
+        "Europa",
+        "politik for anvendelse af links",
+        "retningslinjer",
+        "officielt logo",
+        "varemærker",
+        "juridisk meddelelse",
+        "Den Europæiske Union"
+      ],
+      "de": [
+        "EU",
+        "Europa",
+        "Verlinkungsregeln, Linkregeln",
+        "Leitfaden, Leitlinien",
+        "offizielles Logo",
+        "Marken, Handelsmarken",
+        "rechtlicher Hinweis",
+        "Europäische Union"
+      ],
+      "el": [
+        "ΕΕ",
+        "Europa",
+        "πολιτική συνδέσμων",
+        "οδηγίες",
+        "επίσημος λογότυπος",
+        "εμπορικά σήματα",
+        "νομική ανακοίνωση",
+        "Ευρωπαϊκή Ένωση"
+      ],
+      "en": [
+        "EU",
+        "Europa",
+        "linking policy",
+        "guidelines",
+        "official logo",
+        "trademarks",
+        "legal notice",
+        "European Union"
+      ],
+      "es": [
+        "UE",
+        "Europa",
+        "política de enlaces",
+        "directrices",
+        "logotipo oficial",
+        "marcas comerciales",
+        "Aviso jurídico",
+        "Unión Europea"
+      ],
+      "et": [
+        "EL",
+        "Europa",
+        "linkide loomine, linkimine",
+        "suunised",
+        "ametlik logo",
+        "kaubamärgid",
+        "õigusteave",
+        "Euroopa Liit"
+      ],
+      "fi": [
+        "EU",
+        "Europa",
+        "Linkitysehdot",
+        "ohjeet",
+        "virallinen logo",
+        "tavaramerkit",
+        "oikeudellinen huomautus",
+        "Euroopan unioni"
+      ],
+      "fr": [
+        "UE",
+        "Europa",
+        "politique en matière d'hyperliens",
+        "lignes directrices",
+        "logo officiel",
+        "marques",
+        "avis juridique",
+        "Union européenne"
+      ],
+      "ga": [
+        "AE",
+        "Europa",
+        "an beartas um nascadh",
+        "treoirlínte",
+        "an lógó oifigiúil",
+        "trádmharcanna",
+        "fógra dlí",
+        "An tAontas Eorpach"
+      ],
+      "hr": [
+        "EU",
+        "Europa",
+        "pravila o poveznicama",
+        "smjernice",
+        "službeni logotip",
+        "žigovi",
+        "pravna obavijest",
+        "Europska unija"
+      ],
+      "hu": [
+        "EU",
+        "Europa",
+        "linkkészítési tudnivalók",
+        "iránymutatások",
+        "hivatalos logó",
+        "védjegy",
+        "jogi nyilatkozat",
+        "Európai Unió"
+      ],
+      "it": [
+        "UE",
+        "Europa",
+        "politica in materia di link",
+        "linee guida, orientamenti",
+        "logo ufficiale",
+        "marchi",
+        "note legali",
+        "Unione europea"
+      ],
+      "lt": [
+        "ES",
+        "Europa",
+        "nuorodų teikimo tvarka",
+        "gairės",
+        "oficialus logotipas",
+        "prekių ženklai",
+        "teisinė informacija, teisinis pranešimas",
+        "Europos Sąjunga"
+      ],
+      "lv": [
+        "ES",
+        "Europa",
+        "saišu veidošanas politika",
+        "vadlīnijas",
+        "oficiāls logotips",
+        "preču zīmes, tirdzniecības zīmes",
+        "juridisks paziņojums",
+        "Eiropas Savienība"
+      ],
+      "mt": [
+        "UE",
+        "Europa",
+        "Politika dwar il-links",
+        "linji gwida",
+        "logo uffiċjali",
+        "marki kummerċjali",
+        "avviż legali",
+        "Unjoni Ewropea"
+      ],
+      "nl": [
+        "EU",
+        "Europa-website",
+        "linking policy, regels voor links",
+        "richtsnoeren, aanbevelingen",
+        "officiëel logo",
+        "handelsmerk, handelsmerken",
+        "juridische mededeling",
+        "Europese Unie"
+      ],
+      "pl": [
+        "UE",
+        "Europa, portal Europa",
+        "zamieszczanie linków do stron portalu",
+        "wytyczne",
+        "oficjalne logo",
+        "znaki towarowe",
+        "informacja prawna",
+        "Unia Europejska"
+      ],
+      "pt": [
+        "ue",
+        "europa",
+        "política em matéria de ligações",
+        "orientações, diretrizes",
+        "logótipo oficial",
+        "marcas",
+        "advertência jurídica",
+        "união europeia"
+      ],
+      "ro": [
+        "ue",
+        "europa",
+        "politica privind linkurile",
+        "orientări",
+        "logo oficial",
+        "mărci",
+        "aviz juridic",
+        "uniunea europeană"
+      ],
+      "sk": [
+        "EÚ",
+        "Europa",
+        "pravidlá vytvárania odkazov",
+        "usmernenia",
+        "oficiálne logo",
+        "ochranné známky",
+        "právne upozornenie",
+        "Európska únia"
+      ],
+      "sl": [
+        "EU",
+        "Europa",
+        "Smernice za povezave",
+        "smernice, navodila",
+        "uradni logotip",
+        "zaščitene znamke",
+        "pravno obvestilo",
+        "Evropska unija"
+      ],
+      "sv": [
+        "EU",
+        "europa, europa.eu",
+        "policy",
+        "riktlinjer för länkar",
+        "officiell logotyp",
+        "varumärke",
+        "rättsligt meddelande",
+        "Europeiska unionen"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "cs": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "da": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "de": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "el": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "en": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "es": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "et": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "fi": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "fr": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "ga": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "hr": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "hu": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "it": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "lt": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "lv": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "mt": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "nl": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "pl": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "pt": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "ro": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "sk": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "sl": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ],
+      "sv": [
+        "04-000-Information Society, Communication, Information, Audiovisual, Telecommunications, Public Opinion"
+      ]
+    },
+    "body": {
+      "bg": [
+        "<p>Връзките към EUROPA от външни сайтове трябва да отговарят на следните условия:</p>             <ul>                <li>Връзките <b>не бива да създават впечатление, че институциите на ЕС поддържат</b> целите или съдържанието на приемния уебсайт или на организацията, която го управлява.</li>                <li>Ако връзките се създават от базиран на фреймове (рамки) уебсайт, страниците <b>не трябва да се показват във фреймове</b> на този сайт по начин, който може да заблуди потребителите за действителния им произход.</li>             </ul>"
+      ],
+      "cs": [
+        "<p>Odkazy na portál EUROPA z ostatních stránek by měly splňovat následující podmínky:</p>             <ul>                <li>odkazy by neměly <b>vyvolávat dojem, že orgány EU schvalují nebo podporují</b> cíle nebo obsah hostitelských stránek nebo organizace, která je spravuje</li>                <li>pokud je odkaz vytvořen ze stránky založené na rámcích (frame-based website), <b>nesmí způsob, jakým se stránky zobrazují jako rámce</b>, v uživateli vyvolávat mylný dojem co do skutečného původu stránek</li>             </ul>"
+      ],
+      "da": [
+        "<p>Links til EUROPA fra eksterne wibesites skal overholde følgende betingelser:</p>             <ul>                <li>Links må <b>ikke give indtryk af, at EU-institutionerne er enige i eller støtter</b> målsætninger eller indhold på det eksterne website eller den organisation, der administrerer det.</li>                <li>Hvis der linkes fra et website med frames, bør siderne <b>ikke fremstå som frames</b> på webstedet, så brugerne kan misforstå, hvor siderne egentlig kommer fra.</li>             </ul>"
+      ],
+      "de": [
+        "<p>Links von externen Websites zu EUROPA müssen folgende Bedingungen erfüllen:</p>             <ul>                <li>Links sollten <b>nicht den Eindruck erwecken, dass die EU-Institutionen</b> Ziele oder Inhalte der Host-Website oder der sie betreibenden Organisation <b>billigen oder unterstützen</b>.</li>                <li>Wenn Links von einer auf Frames basierenden Website aus eingerichtet werden, dürfen die EUROPA-Seiten dort <b>nicht in Form von Frames präsentiert</b> werden, um den Nutzer nicht über ihre wahre Herkunft zu täuschen.</li>             </ul>"
+      ],
+      "el": [
+        "<p>Οι σύνδεσμοι προς τον Europa που υπάρχουν σε εξωτερικούς ιστότοπους πρέπει να πληρούν τις εξής προϋποθέσεις:</p>             <ul>                <li>Οι σύνδεσμοι <b>δεν πρέπει να δίνουν την εντύπωση ότι τα θεσμικά όργανα της ΕΕ υιοθετούν ή στηρίζουν</b> τους στόχους ή το περιεχόμενο του εκάστοτε εξωτερικού ιστότοπου ή του φορέα ο οποίος τον διαχειρίζεται.</li>                <li>Αν οι σύνδεσμοι εισάγονται σε ιστότοπο που χρησιμοποιεί πλαίσια, οι σελίδες <b>δεν πρέπει να εμφανίζονται σε πλαίσια</b> του ιστότοπου αυτού με τρόπο που θα μπορούσε να παραπλανήσει τους χρήστες ως προς την πραγματική τους προέλευση.</li>             </ul>"
+      ],
+      "en": [
+        "<p>Links to EUROPA from external sites should meet the following conditions:</p>             <ul>                <li>Links should <b>not give the impression that the EU institutions endorse or support</b> the objectives or contents of the host website or the organisation managing it.</li>                <li>If links are made from a frames-based website, the pages should <b>not be displayed as frames</b> on that site in a way that might mislead users as to their true origin.</li>             </ul>"
+      ],
+      "es": [
+        "<p>Los enlaces a EUROPA desde sitios exteriores deben cumplir las siguientes condiciones:</p>             <ul>                <li>                   <b>No deben dar la impresión de que las instituciones de la UE respaldan o apoyan</b> los objetivos o contenidos de la web anfitriona o la organización responsable de la misma.</li>                <li>Si parten de una web basada en marcos, las páginas de dicha web <b>no deben presentarse</b> de manera que pueda confundir a los usuarios acerca de su verdadero origen.</li>             </ul>"
+      ],
+      "et": [
+        "<p>Mis tahes väliselt saidilt portaali EUROPA loodud lingid peavad vastama järgmistele tingimustele:</p>             <ul>                <li>Lingid <b>ei tohi jätta muljet, et ELi institutsioonid kiidavad heaks või toetavad</b> asjaomase teise veebisaidi eesmärke või selle sisu või kõnealust veebisaiti haldavat organisatsiooni.</li>                <li>Kui lingid luuakse raamidel põhinevalt veebisaidilt, siis <b>ei tohi sellel saidil kuvada lehekülgi raamidena</b> nii, et see eksitaks kasutajaid seoses nende päritoluga.</li>             </ul>"
+      ],
+      "fi": [
+        "<p>EUROPA-sivuille johtavia linkkejä voi tehdä muille verkkosivustoille seuraavin edellytyksin:</p>             <ul>                <li>Linkin <b>ei</b> tule antaa sellaista mielikuvaa, että sivuston sisältö tai sen ylläpitäjäorganisaation tavoitteet olisivat <b>EU:n toimielinten hyväksymiä tai tukemia</b>.</li>                <li>Jos linkit tehdään kehyksiä käyttävältä sivustolta, EUROPA-sivuja <b>ei saa esittää sivuston kehyksissä</b> siten, että käyttäjät voisivat erehtyä sivujen alkuperästä.</li>             </ul>"
+      ],
+      "fr": [
+        "<p>Les hyperliens de sites externes renvoyant vers EUROPA doivent respecter les conditions suivantes:</p>             <ul>                <li>ils <b>ne doivent pas donner l'impression que les institutions de l'UE approuvent ou soutiennent</b> les objectifs ou le contenu du site web d'origine ou de l'organisation qui le gère;</li>                <li>s'ils sont créés à partir d'un site web structuré en cadres («frames»), les pages d'EUROPA <b>ne doivent pas être affichées dans des cadres</b> intégrés à ce site d'une manière qui pourrait conduire les utilisateurs à se méprendre sur leur origine véritable.</li>             </ul>"
+      ],
+      "ga": [
+        "<p>Ní mór do naisc chuig EUROPA ó shuíomhanna seachtracha na coinníollacha a leanas a chomhlíonadh:</p>             <ul>                <li>Níor cheart go gceapfadh duine ó na naisc <b>go bhfuil institiúidí AE  ag formhuiniú ná ag tacú le</b> cuspóirí nó ábhar an tsuímh ghréasáin óstaigh ná leis an eagraíocht a bhainistíonn é. </li>                <li>Má dhéantar naisc ó shuíomh gréasáin atá bunaithe ar fhrámaí, <b>níor cheart na leathanaigh a thaispeáint i bhfoirm frámaí</b> ar an suíomh sin ar shlí a chuirfeadh úsáideoirí amú maidir lena mbunús ceart.</li>             </ul>"
+      ],
+      "hr": [
+        "<p>Poveznice s vanjskih <i>web</i>-mjesta na portal EUROPA trebale bi ispunjivati sljedeće uvjete:</p>             <ul>                <li>poveznicama se <b>ne smije stvarati dojam da institucije EU-a odobravaju ili podržavaju </b>ciljeve ili sadržaje <i>web</i>-mjesta na kojem se poveznica prikazuje ili organizacije koja njime upravlja,</li>                <li>ako se poveznice postavljaju na <i>web</i>-mjesto na kojemu se upotrebljavaju okviri, stranice s poveznica na njemu se <b>ne smiju prikazivati kao okviri</b> na način da korisnicima nije jasno njihovo stvarno podrijetlo.</li>             </ul>"
+      ],
+      "hu": [
+        "<p>Külső weblapokon a következő feltételek betartásával lehet elhelyezni az EUROPA portálhoz vezető linkeket:</p>             <ul>                <li>A linkeket tartalmazó weblap <b>nem sugallhatja azt, hogy az uniós intézmények egyetértenek</b> a hivatkozó weboldal tartalmával vagy a weboldalt üzemeltető szervezetek célkitűzéseivel.</li>                <li>Ha a linkek keretes oldalszerkezetet (frame-eket) alkalmazó weboldalon szerepelnek, az EUROPA oldalakat <b>nem szabad az adott weboldal kereteibe</b> oly módon beágyazni, hogy az olvasó ne tudja, honnan származnak.</li>             </ul>"
+      ],
+      "it": [
+        "<p>È possibile creare link a EUROPA a partire da un sito esterno, purché siano rispettate le seguenti condizioni:</p>             <ul>                <li>I link <b>non devono dare l'impressione che le istituzioni dell'UE sostengano</b> gli obiettivi o i contenuti del sito che ospita il link o dell'organizzazione che lo gestisce.</li>                <li>Se i link sono inseriti in un sito che fa uso di riquadri (\"frame\"), le pagine <b>non devono apparire in riquadri del sito</b> in modo tale da confondere gli utenti riguardo all'effettiva origine delle pagine stesse.</li>             </ul>"
+      ],
+      "lt": [
+        "<p>Išorės svetainėse į portalą EUROPA teikiamos nuorodos turi atitikti šias sąlygas:</p>             <ul>                <li>Nuorodos <b>neturėtų sudaryti įspūdžio, kad ES institucijos remia</b> svetainės, kurioje tos nuorodos pateiktos, arba ją tvarkančios organizacijos tikslus ar pritaria tos svetainės turiniui.</li>                <li>Jeigu nuorodos teikiamos rėmelius palaikančioje svetainėje, puslapiai, į kuriuos jos veda, <b>neturėtų būti atidaromi rėmeliuose toje svetainėje</b>, kad naudotojai nebūtų klaidinami dėl tikrosios tų puslapių autorystės.</li>             </ul>"
+      ],
+      "lv": [
+        "<p>Ārējo vietņu saitēm uz portālu EUROPA jāatbilst šādiem noteikumiem:</p>             <ul>                <li>saitēm <b>nevajadzētu radīt iespaidu, ka ES iestādes atbalsta vai atzīst</b> ārējās tīmekļa vietnes (vai to pārvaldošās organizācijas) mērķus vai saturu,</li>                <li>ja saite ir ievietota tīmekļa vietnē ar kadriem, lapas šajā vietnē <b>nedrīkst rādīt kadru veidā</b> tā, ka tas varētu maldināt lietotājus par lapu faktisko izcelsmi.</li>             </ul>"
+      ],
+      "mt": [
+        "<p>Il-links għal EUROPA minn siti esterni għandhom jilħqu dawn il-kundizzjonijiet:</p>             <ul>                <li>Il-links <b>m'għandhomx jagħtu l-impressjoni li l-istituzzjonijiet tal-UE japprovaw jew jappoġġaw</b> l-għanijiet jew il-kontenut tas-sit ospitanti jew l-organizzazzjoni li timmaniġġjah.</li>                <li>Jekk il-links isiru minn sit web ibbażat fuq il-frejms, il-paġni <b>m'għandhomx jintwerew bħala frejms</b> fuq dak is-sit b'tali mod li jistgħu jiżgwidaw lill-utenti rigward l-oriġini veru tagħhom.</li>             </ul>"
+      ],
+      "nl": [
+        "<p>U mag vanaf elke externe website naar EUROPA linken, als u aan de volgende voorwaarden voldoet:</p>             <ul>                <li>Een link mag <b>niet de indruk wekken dat de EU-instellingen hun goedkeuring of steun geven</b> aan de inhoud of doelstellingen van de externe website in kwestie of de organisatie die de website beheert.</li>                <li>Bij links op een website die met frames werkt, mogen de <b>pagina's niet zo worden weergegeven dat de herkomst ervan onduidelijk wordt</b>.</li>             </ul>"
+      ],
+      "pl": [
+        "<p>Linki do stron portalu EUROPA można zamieszczać na innych dowolnych stronach internetowych, o ile spełnione zostaną następujące warunki:</p>             <ul>                <li>Linki <b>nie powinny stwarzać wrażenia, że instytucje UE w jakikolwiek sposób popierają</b> cele lub przekaz strony, na której te linki zamieszczono, ani organizacji, która nią zarządza.</li>                <li>Jeśli linki mają zostać umieszczone w witrynie zbudowanej w oparciu o ramki, <b>strony, do których prowadzą, nie powinny się wyświetlać jako ramki</b> w tej witrynie w sposób, który wprowadziłby użytkowników w błąd co do prawdziwego pochodzenia tych stron.</li>             </ul>"
+      ],
+      "pt": [
+        "<p>As ligações para o EUROPA a partir de um sítio externo devem satisfazer as seguintes condições:</p>             <ul>                <li>                   <b>não devem dar a ideia de que as instituições da UE subscrevem ou apoiam</b> os objetivos ou conteúdo do sítio Web em que figuram ou da organização que o gere</li>                <li>no caso de um sítio Web com subjanelas (frames), as páginas <b>não devem ser apresentadas como subjanelas</b> dentro do sítio em questão de uma forma que possa induzir em erro quanto à sua verdadeira origem</li>             </ul>"
+      ],
+      "ro": [
+        "<p>Pentru a publica linkuri către EUROPA pe un site extern, trebuie să respectați următoarele cerințe:</p>             <ul>                <li>Linkurile <b>nu trebuie să lase impresia că instituțiile UE aprobă sau sprijină</b> obiectivele sau conținutul site-ului care le găzduiește sau ale organizației care îl administrează.</li>                <li>Dacă linkurile sunt create de pe un site care utilizează cadre (frame-based website), acestea trebuie să se afișeze pe pagină <b>într-un un mod care să nu îi inducă pe utilizatori în eroare</b> cu privire la adevărata lor proveniență. </li>             </ul>"
+      ],
+      "sk": [
+        "<p>Odkazy na portál EUROPA z externých webových sídiel by mali spĺňajú tieto podmienky:</p>             <ul>                <li>Odkazy by <b>nemali vyvolávať dojem, že európske inštitúcie schvaľujú alebo podporujú</b> ciele alebo obsah hostiteľských webových stránok alebo organizáciu, ktorá ich spravuje.</li>                <li>V prípade odkazov z webového sídla využívajúceho rámce (frame-based website) je potrebné zabezpečiť, aby sa stránky portálu EUROPA <b>nezobrazovali ako rámce</b> , t. j. zdanlivo ako súčasť webového sídla. Používatelia musia vedieť jasne rozlíšiť pôvod jeho jednotlivých častí.</li>             </ul>"
+      ],
+      "sl": [
+        "<p>Pri povezavah na portal EUROPA z zunanjih spletišč je treba upoštevati naslednja pravila:</p>             <ul>                <li>Povezave <b>ne smejo dajati vtisa, da so evropske institucije odobrile ali podprle</b> cilje ali vsebino zadevne spletne strani ali organizacije, ki to stran upravlja.</li>                <li>Če so povezave vzpostavljene s spletišča, ki uporablja okvirje, spletne strani EUROPA na tem spletišču ne smejo biti <b>prikazane kot okvirji</b>, da si uporabniki ne bi napačno razlagali njihovega izvora.</li>             </ul>"
+      ],
+      "sv": [
+        "<p>Länkar till europa.eu från externa webbplatser måste uppfylla följande villkor:</p>             <ul>                <li>Länkarna <b>får inte ge intryck av att EU-institutionerna ställer sig bakom eller stöder</b> den länkande webbplatsens innehåll eller den ansvariga organisationens syften och mål.</li>                <li>Om din webbplats bygger på ramteknik får de länkade sidorna <b>inte visas i ramar</b> på din webbplats så att det blir oklart var sidorna kommer ifrån.</li>             </ul>"
+      ]
+    }
+  }
+}

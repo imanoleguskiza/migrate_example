@@ -1,0 +1,637 @@
+{
+  "_id": "32a846be5716325fbcfea292be5e3dd9",
+  "type": "institution",
+  "default_language": "en",
+  "languages": [
+    "en",
+    "bg",
+    "cs",
+    "da",
+    "sv",
+    "de",
+    "el",
+    "es",
+    "et",
+    "fi",
+    "fr",
+    "ga",
+    "hr",
+    "hu",
+    "it",
+    "lt",
+    "lv",
+    "mt",
+    "nl",
+    "pl",
+    "pt",
+    "ro",
+    "sk",
+    "sl"
+  ],
+  "fields": {
+    "original_url": {
+      "bg": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_bg.htm"
+      ],
+      "cs": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_cs.htm"
+      ],
+      "da": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_da.htm"
+      ],
+      "de": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_de.htm"
+      ],
+      "el": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_el.htm"
+      ],
+      "en": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_en.htm"
+      ],
+      "es": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_es.htm"
+      ],
+      "et": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_et.htm"
+      ],
+      "fi": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_fi.htm"
+      ],
+      "fr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_fr.htm"
+      ],
+      "ga": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_ga.htm"
+      ],
+      "hr": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_hr.htm"
+      ],
+      "hu": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_hu.htm"
+      ],
+      "it": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_it.htm"
+      ],
+      "lt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_lt.htm"
+      ],
+      "lv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_lv.htm"
+      ],
+      "mt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_mt.htm"
+      ],
+      "nl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_nl.htm"
+      ],
+      "pl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_pl.htm"
+      ],
+      "pt": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_pt.htm"
+      ],
+      "ro": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_ro.htm"
+      ],
+      "sk": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_sk.htm"
+      ],
+      "sl": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_sl.htm"
+      ],
+      "sv": [
+        "http://europa.eu/about-eu/agencies/regulatory_agencies_bodies/policy_agencies/efca/index_sv.htm"
+      ]
+    },
+    "title": {
+      "bg": [
+        "Европейска агенция за контрол на рибарството"
+      ],
+      "cs": [
+        "Evropská agentura pro kontrolu rybolovu (EFCA)"
+      ],
+      "da": [
+        "EU-Fiskerikontrolagenturet (EFCA)"
+      ],
+      "de": [
+        "Europäische Fischereiaufsichtsagentur (EFCA)"
+      ],
+      "el": [
+        "Ευρωπαϊκή Υπηρεσία Ελέγχου της Αλιείας (ΕΥΕΑ)"
+      ],
+      "en": [
+        "European Fisheries Control Agency (EFCA)"
+      ],
+      "es": [
+        "Agencia Europea de Control de la Pesca (AECP)"
+      ],
+      "et": [
+        "Euroopa Kalanduskontrolli Amet (EFCA)"
+      ],
+      "fi": [
+        "Euroopan kalastuksenvalvontavirasto (EFCA)"
+      ],
+      "fr": [
+        "Agence européenne de contrôle des pêches (AECP)"
+      ],
+      "ga": [
+        "An Ghníomhaireacht Eorpach um Rialú ar Iascach (EFCA)"
+      ],
+      "hr": [
+        "Europska agencija za nadzor u ribarstvu (EFCA)"
+      ],
+      "hu": [
+        "Európai Halászati Ellenőrző Hivatal"
+      ],
+      "it": [
+        "Agenzia europea di controllo della pesca (EFCA)"
+      ],
+      "lt": [
+        "Europos žuvininkystės kontrolės agentūra (EFCA)"
+      ],
+      "lv": [
+        "Eiropas Zivsaimniecības kontroles aģentūra"
+      ],
+      "mt": [
+        "l-Aġenzija Ewropea għall-Kontroll tas-Sajd (EFCA)"
+      ],
+      "nl": [
+        "Europees Bureau voor visserijcontrole"
+      ],
+      "pl": [
+        "Europejska Agencja Kontroli Rybołówstwa (EFCA)"
+      ],
+      "pt": [
+        "Agência Comunitária de Controlo das Pescas"
+      ],
+      "ro": [
+        "Agenţia Europeană de Control al Pescuitului (AECP)"
+      ],
+      "sk": [
+        "Európska agentúra na kontrolu rybného hospodárstva (EFCA)"
+      ],
+      "sl": [
+        "Evropska agencija za nadzor ribištva"
+      ],
+      "sv": [
+        "Europeiska fiskerikontrollbyrån (Efca)"
+      ]
+    },
+    "category": {
+      "und": [
+        "23337c7",
+        "40261c2"
+      ]
+    },
+    "meta_reference": {
+      "bg": [
+        "EUROPA/"
+      ],
+      "cs": [
+        "EUROPA/"
+      ],
+      "da": [
+        "EUROPA/"
+      ],
+      "de": [
+        "EUROPA/"
+      ],
+      "el": [
+        "EUROPA/"
+      ],
+      "en": [
+        "EUROPA/"
+      ],
+      "es": [
+        "EUROPA/"
+      ],
+      "et": [
+        "EUROPA/"
+      ],
+      "fi": [
+        "EUROPA/"
+      ],
+      "fr": [
+        "EUROPA/"
+      ],
+      "ga": [
+        "EUROPA/"
+      ],
+      "hr": [
+        "EUROPA/"
+      ],
+      "hu": [
+        "EUROPA/"
+      ],
+      "it": [
+        "EUROPA/"
+      ],
+      "lt": [
+        "EUROPA/"
+      ],
+      "lv": [
+        "EUROPA/"
+      ],
+      "mt": [
+        "EUROPA/"
+      ],
+      "nl": [
+        "EUROPA/"
+      ],
+      "pl": [
+        "EUROPA/"
+      ],
+      "pt": [
+        "EUROPA/"
+      ],
+      "ro": [
+        "EUROPA/"
+      ],
+      "sk": [
+        "EUROPA/"
+      ],
+      "sl": [
+        "EUROPA/"
+      ],
+      "sv": [
+        "EUROPA/"
+      ]
+    },
+    "meta_document_type": {
+      "bg": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "cs": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "da": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "de": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "el": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "en": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "es": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "et": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fi": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "fr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ga": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hr": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "hu": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "it": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "lv": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "mt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "nl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "pt": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "ro": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sk": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sl": [
+        "57-Web home page (text, logo, image of a department)"
+      ],
+      "sv": [
+        "57-Web home page (text, logo, image of a department)"
+      ]
+    },
+    "meta_description": {
+      "bg": [
+        "Европейска агенция за контрол на рибарството"
+      ],
+      "cs": [
+        "Evropská agentura pro kontrolu rybolovu (EFCA)"
+      ],
+      "da": [
+        "EU-Fiskerikontrolagenturet (EFCA)"
+      ],
+      "de": [
+        "Europäische Fischereiaufsichtsagentur (EFCA)"
+      ],
+      "el": [
+        "Ευρωπαϊκή Υπηρεσία Ελέγχου της Αλιείας (ΕΥΕΑ)"
+      ],
+      "en": [
+        "European Fisheries Control Agency (EFCA)"
+      ],
+      "es": [
+        "Agencia Europea de Control de la Pesca (AECP)"
+      ],
+      "et": [
+        "Euroopa Kalanduskontrolli Amet (EFCA)"
+      ],
+      "fi": [
+        "Euroopan kalastuksenvalvontavirasto (EFCA)"
+      ],
+      "fr": [
+        "Agence européenne de contrôle des pêches (AECP)"
+      ],
+      "ga": [
+        "An Ghníomhaireacht Eorpach um Rialú ar Iascach (EFCA)"
+      ],
+      "hr": [
+        "Europska agencija za nadzor u ribarstvu (EFCA)"
+      ],
+      "hu": [
+        "Európai Halászati Ellenőrző Hivatal"
+      ],
+      "it": [
+        "Agenzia europea di controllo della pesca (EFCA)"
+      ],
+      "lt": [
+        "Europos žuvininkystės kontrolės agentūra (EFCA)"
+      ],
+      "lv": [
+        "Eiropas Zivsaimniecības kontroles aģentūra  (EFCA)"
+      ],
+      "mt": [
+        "l-Aġenzija Ewropea għall-Kontroll tas-Sajd (EFCA)"
+      ],
+      "nl": [
+        "Europees Bureau voor visserijcontrole"
+      ],
+      "pl": [
+        "Europejska Agencja Kontroli Rybołówstwa (EFCA)"
+      ],
+      "pt": [
+        "Agência Comunitária de Controlo das Pescas"
+      ],
+      "ro": [
+        "Agenţia Europeană de Control al Pescuitului (AECP)"
+      ],
+      "sk": [
+        "Európska agentúra na kontrolu rybného hospodárstva (EFCA)"
+      ],
+      "sl": [
+        "Evropska agencija za nadzor ribištva, EFCA"
+      ],
+      "sv": [
+        "Europeiska fiskerikontrollbyrån (Efca)"
+      ]
+    },
+    "meta_keywords": {
+      "bg": [
+        "europa"
+      ],
+      "cs": [
+        "Evropa, europa"
+      ],
+      "da": [
+        "europa"
+      ],
+      "de": [
+        "Europa"
+      ],
+      "el": [
+        "europa"
+      ],
+      "en": [
+        "europa"
+      ],
+      "es": [
+        "Europa"
+      ],
+      "et": [
+        "europa"
+      ],
+      "fi": [
+        "europa"
+      ],
+      "fr": [
+        "Europa"
+      ],
+      "ga": [
+        "europa"
+      ],
+      "hr": [
+        "europa"
+      ],
+      "hu": [
+        "EUROPA"
+      ],
+      "it": [
+        "europa"
+      ],
+      "lt": [
+        "europa"
+      ],
+      "lv": [
+        "europa"
+      ],
+      "mt": [
+        "europa"
+      ],
+      "nl": [
+        "Europa"
+      ],
+      "pl": [
+        "europa"
+      ],
+      "pt": [
+        "europa",
+        "agências",
+        "instituições",
+        "União Europeia",
+        "UE"
+      ],
+      "ro": [
+        "europa"
+      ],
+      "sk": [
+        "europa"
+      ],
+      "sl": [
+        "EUROPA"
+      ],
+      "sv": [
+        "europa, europa.eu"
+      ]
+    },
+    "meta_classification": {
+      "bg": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "cs": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "da": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "de": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "el": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "en": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "es": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "et": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fi": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "fr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ga": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hr": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "hu": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "it": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "lv": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "mt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "nl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "pt": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "ro": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sk": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sl": [
+        "16-000-EU Institutions and EU Legislation"
+      ],
+      "sv": [
+        "16-000-EU Institutions and EU Legislation"
+      ]
+    },
+    "info1": {
+      "bg": [
+        "<p>Европейската агенция за контрол на рибарството, със седалище във Виго, Испания, е създадена с цел насърчаване на висок общ стандарт за контрол, проверка и надзор в рамките на <a href=\"http://ec.europa.eu/fisheries/cfp/index_bg.htm\" lang=\"bg\">Общата политика в областта на рибарството (ОПОР)</a>.</p>             <p>Агенцията улеснява <strong>оперативното сътрудничество</strong> между страните от ЕС, помагайки както на тях, така и на Комисията. Тя организира и координира сътрудничеството между националните служби за контрол и инспекционните дейности и обучава национални инспектори и инструктори, за да гарантира ефективното и последователно изпълнение и прилагане на правилата на ОПОР.</p>             <p>Агенцията допринася за осигуряването на <strong>равноправни условия на конкуренция</strong> за всички в риболовната промишленост, с което гарантира спазването на задълженията и равното третиране на работещите в сектора, където и да извършват дейността си. Тя допринася също така за изграждането на <strong>устойчиво рибарство</strong> като подобрява спазването на съществуващите мерки за опазване и управление в полза на бъдещите поколения.</p>"
+      ],
+      "cs": [
+        "<p>Evropská agentura pro kontrolu rybolovu se sídlem ve Vigu (Španělsko) prosazuje přísné společné standardy pro kontrolu, inspekci a dohled v rámci <a href=\"http://ec.europa.eu/fisheries/cfp/index_cs.htm\" lang=\"cs\">společné rybářské politiky (SRP)</a>.</p>             <p>EFCA zprostředkovává <strong>operativní spolupráci</strong> mezi zeměmi EU. Její služby využívají jak členské státy, tak Evropská komise. Organizuje a koordinuje spolupráci vnitrostátních kontrolních a inspekční subjektů a zajišťuje odbornou přípravu inspektorů a školitelů ze zemí Unie tak, aby byla pravidla SRP dodržována a uplatňována účinně a důsledně.</p>             <p>Agentura přispívá k tomu, aby byly v odvětví rybolovu zajištěny <strong>rovné podmínky</strong>, a stará se o to, aby bez ohledu na místo činnosti plnily všechny subjekty své povinnosti a nedocházelo k diskriminaci. Přispívá také k tomu, aby měl rybolov v EU <strong>udržitelný charakter</strong> – díky ní jsou lépe dodržována platná opatření v zájmu ochrany  a řízení rybích populací, aby byly zachovány v dobrém stavu i v budoucnu.</p>"
+      ],
+      "da": [
+        "<p>EU-Fiskerikontrolaganturet hører hjemme i Vigo i Spanien. Det skal sørge for, at kontrol-. inspektions- og overvågningsarbejdet under den <a href=\"http://ec.europa.eu/fisheries/cfp/index_da.htm\" lang=\"da\">fælles fiskeripolitik</a> følger de højest mulige fælles standarder.</p>             <p>Agenturet står centralt i det <strong>operationelle samarbejde</strong> mellem EU-landene. Det bistår landene og Kommissionen i deres arbejde, organiserer og koordinerer nationale kontrol- og inspektionsaktiviteter og uddanner landenes inspektører og instruktører. Dermed sørger agenturet for, at den fælles fiskeripolitiks regler overholdes og anvendes effektivt og konsekvent.</p>             <p>Agenturet bidrager til <strong>lige konkurrencevilkår</strong> inden for fiskeriet ved at sikre, at alle opfylder deres forpligtelser og behandles lige, uanset hvor de driver virksomhed. Det er også med til at sikre et <strong>bæredygtigt fiskeri</strong> ved at sørge for, at de gældende bevarelses- og forvaltningsforanstaltninger overholdes til gavn for de nuværende og kommende generationer.</p>"
+      ],
+      "de": [
+        "<p>Die Europäische Fischereiaufsichtsagentur mit Sitz in Vigo (Spanien) wurde eingerichtet, um im Rahmen der <a href=\"http://ec.europa.eu/fisheries/cfp/index_de.htm\" lang=\"de\">Gemeinsamen Fischereipolitik (GFP)</a> die höchsten gemeinsamen Standards für Überwachung, Kontrolle und Beaufsichtigung zu fördern.</p>             <p>Die EFCA vermittelt bei der <strong>operativen Zusammenarbeit</strong> zwischen EU-Ländern und unterstützt diese und die Kommission. Damit die Vorschriften der GFP eingehalten sowie wirksam und einheitlich umgesetzt werden, organisiert und koordiniert die Agentur die Zusammenarbeit bei nationalen Kontrollen und Inspektionen und schult nationale Inspektoren und Ausbilder.</p>             <p>Die Agentur trägt zu <strong>einheitlichen Wettbewerbsbedingungen</strong> im Fischereisektor bei und sorgt dafür, dass Verpflichtungen eingehalten und alle Akteure des Sektors gleich behandelt werden – unabhängig davon, wo sie tätig sind. Indem sie die Beachtung bereits ergriffener Erhaltungs- und Bewirtschaftungsmaßnahmen fördert, trägt die Agentur außerdem zur <strong>nachhaltigen Fischerei</strong> bei – im Interesse der derzeitigen und künftigen Generationen.</p>"
+      ],
+      "el": [
+        "<p>H Ευρωπαϊκή Υπηρεσία Ελέγχου της Αλιείας, με έδρα το Βίγκο της Ισπανίας, έχει ως έργο να προωθεί τις υψηλότερες κοινές προδιαγραφές ελέγχου, επιθεώρησης και επιτήρησης στο πλαίσιο της <a href=\"http://ec.europa.eu/fisheries/cfp/index_el.htm\" lang=\"el\">Κοινής Αλιευτικής Πολιτικής (ΚΑΠ)</a>.</p>             <p>Η ΕΥΕΑ προωθεί την <strong>επιχειρησιακή συνεργασία</strong> μεταξύ των χωρών της ΕΕ, και συνδράμει τις χώρες αυτές αλλά και την Επιτροπή. Οργανώνει και συντονίζει τη συνεργασία που απαιτείται κατά τη διενέργεια εθνικών επιχειρήσεων ελέγχου και επιθεώρησης και εκπαιδεύει εθνικούς ελεγκτές και ασκουμένους, ώστε να διασφαλίζεται η τήρηση και η αποτελεσματική εφαρμογή των κανόνων της ΚΑΠ.</p>             <p>Η υπηρεσία αυτή συμβάλλει στη διαμόρφωση <strong>ισότιμων όρων ανταγωνισμού</strong> στον κλάδο της αλιείας, ώστε να τηρούνται όλες οι ισχύουσες υποχρεώσεις και να απολαύουν ισότιμης μεταχείρισης όσοι ανήκουν στον κλάδο αυτό, οπουδήποτε κι αν δραστηριοποιούνται. Επίσης, προωθεί τη <strong>βιώσιμη αλιεία</strong> βελτιώνοντας τη συμμόρφωση προς τα ισχύοντα μέτρα διατήρησης και διαχείρισης, προς όφελος των σημερινών αλλά και των μελλοντικών γενεών.</p>"
+      ],
+      "en": [
+        "<p>The European Fisheries Control Agency, based in Vigo, Spain, was set up to promote the highest common standards for control, inspection and surveillance under the <a href=\"http://ec.europa.eu/fisheries/cfp/index_en.htm\" lang=\"en\">Common Fisheries Policy (CFP)</a>.</p>             <p>EFCA brokers <strong>operational cooperation</strong> between EU countries, and assists them and the Commission. It organises and coordinates cooperation between national control and inspection activities and trains national inspectors and trainers, to ensure that CFP rules are respected and applied effectively and consistently.</p>             <p>The Agency helps to ensure there is a <strong>level playing field</strong> for the fishing industry so that obligations are observed and everyone in the sector is treated equally, wherever they operate. It also contributes towards <strong>sustainable fisheries</strong> by improving compliance with existing conservation and management measures for the benefit of present and future generations.</p>"
+      ],
+      "es": [
+        "<p>La Agencia Europea de Control de la Pesca, con sede en Vigo, se creó con el fin de impulsar la máxima calidad del control, la inspección y la vigilancia en el marco de la <a href=\"http://ec.europa.eu/fisheries/cfp/index_es.htm\" lang=\"es\">Política Pesquera Común (PPC)</a>.</p>             <p>La Agencia se encarga de la <strong>cooperación operativa</strong> entre los países de la UE y les presta su ayuda, lo mismo que a la Comisión. Organiza y coordina la cooperación entre las actividades nacionales de control e inspección y forma a los inspectores e instructores nacionales para que las normas de la PPC se cumplan y apliquen con eficacia y coherencia.</p>             <p>La Agencia ayuda a garantizar <strong>condiciones de igualdad</strong> para la industria pesquera, de manera que se cumplan las obligaciones y haya un trato equitativo para todos los componentes del sector, operen donde operen. También contribuye a la <strong>pesca sostenible</strong> fomentando la observancia de las medidas de conservación y gestión en beneficio de las generaciones actuales y futuras.</p>"
+      ],
+      "et": [
+        "<p>Hispaanias Vigos asuv Euroopa Kalanduskontrolli Amet loodi selleks, et edendada <a href=\"http://ec.europa.eu/fisheries/cfp/index_et.htm\" lang=\"et\">ühise kalanduspoliitika (ÜKP)</a> raames kõrgeimaid ühiseid kontrolli-, inspekteerimis- ja seirestandardeid.</p>             <p>Euroopa Kalanduskontrolli Amet aitab kaasa ELi liikmesriikide vahelisele <strong>opetatiivkoostööle</strong> ning abistab neid ja komisjoni. Asjaomane amet korraldab ning koordineerib koostööd riikliku kontrolli- ja inspekteerimistegevuse alal ning koolitab välja riiklikke inspektoreid ning koolitajaid, et tagada ÜKP eeskirjadest kinnipidamine ja nende tõhus ning järjepidev kohaldamine.</p>             <p>Amet aitab tagada <strong>võrdsete võimaluste</strong> olemasolu kalandustööstuses, et järgitaks kohustustest kinnipidamist ning et asjaomases sektoris koheldaks kõiki võrdselt, olenemata sellest, kus nad tegutsevad. Samuti aitab ameti töö kaasa <strong>jätkusuutliku kalanduse</strong> püsimajäämisele, täiustades kehtivate kaitse- ja haldusmeetmete järgimist praeguste ning tulevaste põlvkondade hüvanguks.</p>"
+      ],
+      "fi": [
+        "<p>Euroopan kalastuksenvalvontavirasto (EFCA) perustettiin edistämään <a href=\"http://ec.europa.eu/fisheries/cfp/index_fi.htm\" lang=\"fi\">yhteisen kalastuspolitiikan (YKP)</a> mukaisia yhteisiä valvonta- ja tarkastusstandardeja. Virasto sijaitsee Vigossa Espanjassa.</p>             <p>EFCA on mukana järjestämässä EU-maiden <strong>operationaalista yhteistyötä</strong> ja avustaa kansallisia viranomaisia ja komissiota. Se organisoi ja koordinoi yhteistyötä kansallisten valvonta- ja tarkastustoimien välillä sekä kouluttaa kansallisia tarkastajia ja kouluttajia. Siten halutaan varmistaa, että yhteisen kalastuspolitiikan sääntöjä noudatetaan ja ne pannaan tehokkaasti ja yhtenäisesti täytäntöön.</p>             <p>EFCA auttaa huolehtimaan siitä, että kalastusalalla on <strong>yhtäläiset toimintaolosuhteet</strong>, jolloin alan toimijoita kohdellaan yhdenvertaisesti ja velvoitteita noudatetaan kaikkialla. EFCA edistää myös <strong>kestävää kalataloutta</strong> ja kalavarojen säilyttämis- ja hoitotoimenpiteiden noudattamista, mikä hyödyttää sekä nykyisiä että tulevia sukupolvia.</p>"
+      ],
+      "fr": [
+        "<p>L'Agence européenne de contrôle des pêches (AECP), dont le siège est à Vigo (Espagne), a pour mission de veiller à l'application, dans le cadre de la <a href=\"http://ec.europa.eu/fisheries/cfp/index_fr.htm\" lang=\"fr\">politique commune de la pêche (PCP)</a>, de normes communes les plus strictes en matière de contrôle, d'inspection et de surveillance.</p>             <p>L'AECP facilite la <strong>coopération opérationnelle</strong> entre les États membres de l'UE et assiste les États membres et la Commission. Elle organise et coordonne les activités nationales de contrôle et d'inspection et forme des inspecteurs et des formateurs nationaux, afin de s'assurer que les règles de la PCP sont respectées et appliquées de manière efficace et cohérente.</p>             <p>L'agence aide à garantir des <strong>conditions égales</strong> aux professionnels de la pêche, afin que les obligations soient respectées et que chacun soit traité de la même manière, quel que soit son lieu d'activité. Elle contribue également à la <strong>pêche durable</strong> en améliorant le respect des mesures de conservation et de gestion des ressources halieutiques, dans l'intérêt des générations actuelles et futures.</p>"
+      ],
+      "ga": [
+        "<div>Bunaíodh an Ghníomhaireacht Eorpach um Rialú ar Iascach, atá lonnaithe in Vigo na Spáinne, chun na comhchaighdeáin is airde rialaithe, cigireachta agus faireachais a chur chun cinn faoin <a href=\"http://ec.europa.eu/fisheries/cfp/index_bg.htm\" lang=\"bg\">gComhbheartas Iascaigh (CBI)</a>.         </div>             <p>Is idirghabhálaí í EFCA maidir le <strong>comhar oibríochtúil</strong> idir thíortha an AE, agus cuidíonn sí leo agus leis an gCoimisiún. Eagraíonn agus comhordaíonn sí comhar idir gníomhaíochtaí náisiúnta rialaithe agus cigireachta agus cuireann sí oiliúint ar chigirí agus ar oiliúnóirí lena chinntiú go n-urramófar rialacha an CBI agus go gcuirfear i bhfeidhm iad ar shlí éifeachtach chomhleanúnach.</p>             <p>Cuidíonn an Ghníomhaireacht lena chinntiú go bhfuil <strong>cothrom iomaíochta</strong> ann do thionscal na hiascaireachta le go gcomhlíontar oibleagáidí agus go bhfaighidh gach duine san earnáil an chóir chéanna, pé áit a n-oibríonn siad. Tacaíonn sí freisin le <strong>hiascach inbhuanaithe</strong> tríd an tslí ina gcomhlíontar na bearta caomhnaithe agus bainistíochta a fheabhsú ar mhaithe leis an nglúin seo agus na glúnta amach romhainn.</p>"
+      ],
+      "hr": [
+        "<p>Europska agencija za nadzor u ribarstvu, sa sjedištem u Vigu u Španjolskoj, osnovana je radi promicanja najviših zajedničkih standarda nadzora, inspekcije i praćenja u okviru <a href=\"http://ec.europa.eu/fisheries/cfp/index_en.htm\" lang=\"en\">zajedničke ribarstvene politike (ZRP)</a>.</p>             <p>Agencija posreduje pri <strong>operativnoj suradnji</strong> među državama EU-a te pomaže njima i Komisiji. Organizira i koordinira suradnju među nacionalnim nadzornim i inspekcijskim aktivnostima te osposobljava nacionalne inspektore i instruktore kako bi osigurala poštovanje te učinkovitu i dosljednu primjenu pravila zajedničke ribarstvene politike.</p>             <p>Agencija pomaže osigurati <strong>jednake uvjete za sve</strong> u ribarstvenoj industriji tako da promiče ispunjavanje obveza i jednak tretman za sve u sektoru, bez obzira na to gdje djeluju. Poboljšanjem sukladnosti s postojećim mjerama očuvanja i gospodarenja Agencija također pridonosi <strong>održivomu ribarstvu</strong> na dobrobit sadašnjih i budućih generacija.</p>"
+      ],
+      "hu": [
+        "<p>A spanyolországi Vigoban székelő Európai Halászati Ellenőrző Hivatal azt hivatott biztosítani, hogy a <a href=\"http://ec.europa.eu/fisheries/cfp/index_hu.htm\" lang=\"hu\">közös halászati politika</a> keretében folytatott ellenőrzés, vizsgálat és nyomon követés a legszigorúbb közös előírások szerint történjen.</p>             <p>A hivatal megkönnyíti az uniós tagállamok közötti <strong>operatív koordinációt</strong>, és támogatja ezen tagországok, valamint a Bizottság munkáját. Feladata, hogy megszervezze, illetve koordinálja a tagállami ellenőrzéseket és vizsgálatokat. A hivatal továbbképzést is biztosít a tagállami felügyelők és oktatók részére annak érdekében, hogy a közös halászati politika szabályai érvényre jussanak, és alkalmazásuk hatékony és következetes legyen.</p>             <p>A hivatal elősegíti, hogy a halászati ágazat szereplői között <strong>egyenlő feltételek</strong> jöjjenek létre. Ez lehetővé teszi, hogy a kötelezettségeket mindenki betartsa, és mindenki ugyanolyan elbánásban részesüljön, függetlenül a munkavégzés helyétől.  Hozzájárul emellett a <strong>fenntartható halászat</strong> előmozdításához is, hiszen céljául tűzte ki, hogy a gazdasági szereplők a mostani és a majdani generációk érdekében jobban megfeleljenek a meglévő védelmi és gazdálkodási intézkedéseknek.</p>"
+      ],
+      "it": [
+        "<p>L'Agenzia europea di controllo della pesca, con sede a Vigo, in Spagna, è stata istituita per promuovere i più elevati standard di controllo, ispezione e sorveglianza nell'ambito della <a href=\"http://ec.europa.eu/fisheries/cfp/index_it.htm\" lang=\"it\">politica comune della pesca (PCP)</a>.</p>             <p>L'EFCA facilita la <strong>cooperazione operativa</strong> tra i paesi dell'UE, ai quali fornisce inoltre assistenza, così come alla Commissione. L'agenzia organizza e coordina la cooperazione tra le attività nazionali di controllo e ispezione e forma gli ispettori e i formatori nazionali per assicurare che le norme della PCP siano rispettate e applicate in maniera efficace e coerente.</p>             <p>L'agenzia interviene inoltre per garantire <strong>condizioni eque di concorrenza</strong> nel settore della pesca, affinché gli obblighi siano rispettati e tutti gli operatori del settore siano trattati con equità, indipendentemente da dove svolgono la loro attività. Contribuisce inoltre a promuovere una <strong>pesca sostenibile</strong>, facendo meglio rispettare le misure di conservazione e di gestione vigenti, a beneficio delle generazioni future.</p>"
+      ],
+      "lt": [
+        "<p>Europos žuvininkystės kontrolės agentūra Vigo mieste Ispanijoje buvo įsteigta siekiant propaguoti aukščiausius bendrus kontrolės, tikrinimo ir priežiūros standartus, vykdant <a href=\"http://ec.europa.eu/fisheries/cfp/index_lt.htm\" lang=\"lt\">bendrąją žuvininkystės politiką (BŽP)</a>.</p>             <p>EFCA tarpininkauja užtikrindama ES šalių <strong>bendradarbiavimą</strong> ir padeda joms bei Komisijai. Kad būtų laikomasi BŽP taisyklių ir jos būtų veiksmingai ir nuosekliai taikomos, ji organizuoja ir koordinuoja bendradarbiavimą vykdant nacionalinę kontrolę ir tikrinimą, rengia nacionalinius inspektorius ir instruktorius.</p>             <p>Agentūra padeda užtikrinti <strong>vienodas veiklos sąlygas</strong> žvejybos įmonėms, kad būtų laikomasi įpareigojimų ir visi šiame sektoriuje turėtų vienodas galimybes, neatsižvelgiant į tai, kur jie savo veikla užsiima. Dabartinės ir ateities kartų labui ji prisideda ir prie <strong>tausios žvejybos</strong> užtikrindama, kad būtų griežčiau laikomasi galiojančių išteklių išsaugojimo ir valdymo priemonių.</p>"
+      ],
+      "lv": [
+        "<p>Eiropas Zivsaimniecības kontroles aģentūru, kuras birojs atrodas Vigo (Spānijā) izveidoja, lai veicinātu augstus vienotus standartus attiecībā uz kontroli, inspekciju un uzraudzību, kas jāveic atbilstīgi <a href=\"http://ec.europa.eu/fisheries/cfp/index_lv.htm\" lang=\"lv\">kopējai zivsaimniecības politikai (KZP)</a>.</p>             <p>Šī aģentūra ir <strong>operatīvās sadarbības vidutājs</strong> starp ES dalībvalstīm, palīdz tām un Komisijai. Aģentūra arī organizē un koordinē valstu sadarbību kontroles un inspicēšanas jomā, kā arī apmāca valstu inspektorus un instruktorus, lai nodrošinātu KZP noteikumu efektīvu un konsekventu ievērošanu.</p>             <p>Eiropas Zivsaimniecības kontroles aģentūra palīdz nodrošināt <strong>visiem vienādus spēles noteikumus</strong> zvejniecības nozarē, proti, tā seko līdzi, vai tiek izpildītas saistības un vai nozarē ir pret visiem vienāda attieksme visur ES. Tā sniedz ieguldījumu arī <strong>zivsaimniecības ilgtspējā</strong>, veicinot pašreizējo saglabāšanas un pārvaldības noteikumu precīzāku izpildi mūsu visu un arī turpmāko paaudžu interesēs.</p>"
+      ],
+      "mt": [
+        "<p>L-Aġenzija Ewropea għall-Kontroll tas-Sajd, ibbażata f’Vigo, Spanja, twaqqfet biex tippromwovi l-ogħla livelli komuni għall-kontroll, spezzjoni u sorveljanza skont il-<a href=\"http://ec.europa.eu/fisheries/cfp/index_mt.htm\" lang=\"mt\">Politika Komuni tas-Sajd (PKS)</a>.</p>             <p>L-EFCA tippromwovi l-<strong>kooperazzjoni operazzjonali</strong> bejn il-pajjiżi tal-UE, u tgħin lilhom u lill-Kummissjoni. Torganizza u tikkoordina l-kooperazzjoni bejn l-attivitajiet nazzjonali ta' kontroll u spezzjoni u tħarreġ spetturi nazzjonali u ħarrieġa, biex tiżgura li r-regoli tal-PKS jiġu rispettati u applikati effettivament u b’mod konsistenti.</p>             <p>L-Aġenzija tgħin biex jiġi żgurat li jkun hemm <strong>ambjent ekwu</strong> għall-industrija tas-sajd sabiex l-obbligi jiġu mħarsa u kulħadd fis-settur ikun trattat indaqs, kull fejn jopera. Tikkontribwixxi wkoll lejn is-<strong>sajd sostenibbli</strong> billi ttejjeb il-konformità mal-miżuri ta' konservazzjoni u amministrazzjoni eżistenti għall-benefiċċju tal-ġenerazzjonijiet preżenti u tal-ġejjieni.</p>"
+      ],
+      "nl": [
+        "<p>Het Europees Bureau voor visserijcontrole in Vigo (Spanje) werd opgericht om de strengste gemeenschappelijke normen voor controle, inspectie en toezicht te handhaven in het kader van het <a href=\"http://ec.europa.eu/fisheries/cfp/index_nl.htm\" lang=\"nl\">gemeenschappelijk visserijbeleid</a>. </p>             <p>Het bureau regelt de <strong>operationele samenwerking</strong> tussen de EU-landen, en staat hen en de Commissie bij.  Het organiseert en coördineert de samenwerking tussen de nationale controles en inspecties, en het leidt inspecteurs en lesgevers van de EU-landen op om ervoor te zorgen dat de EU-regels voor visserij overal effectief en gelijk worden nageleefd en toegepast.</p>             <p>Het bureau draagt ertoe bij dat iedereen in de visserijsector zijn verplichtingen nakomt en overal <strong>op gelijke voet</strong> kan concurreren.  Het promoot ook <strong>duurzame visserij</strong> door ervoor te zorgen dat de maatregelen voor de instandhouding en het beheer van visbestanden beter worden nageleefd in het belang van de huidige en de toekomstige generaties.</p>"
+      ],
+      "pl": [
+        "<p>Europejska Agencja Kontroli Rybołówstwa (EFCA) z siedzibą w Vigo (Hiszpania) została ustanowiona w celu promowania stosowania najwyższych wspólnych norm w zakresie kontroli, inspekcji oraz nadzoru w ramach <a href=\"http://ec.europa.eu/fisheries/cfp/index_pl.htm\" lang=\"pl\">wspólnej polityki rybołówstwa (WPRyb)</a>.</p>             <p>EFCA ułatwia <strong>współpracę operacyjną</strong> między krajami UE oraz zapewnia wsparcie krajom UE i Komisji. Organizuje i koordynuje krajowe działania w zakresie kontroli i inspekcji, organizuje szkolenia dla inspektorów i osób prowadzących szkolenia z krajów UE, tak aby zagwarantować, że przepisy dotyczące WPRyb są skutecznie i konsekwentnie stosowane.</p>             <p>Agencja pomaga zapewnić <strong>równe szanse</strong> wszystkim przedstawicielom sektora rybołówstwa, tak aby byli traktowani jednakowo niezależnie od miejsca prowadzenia swojej działalności oraz aby przepisy były prawidłowo stosowane. Działa również na rzecz promowania <strong>zrównoważonego rybołówstwa</strong> i mając na uwadze dobro obecnych przyszłych pokoleń, czuwa nad lepszym przestrzeganiem obowiązujących środków ochrony zasobów rybnych i zarządzania nimi.</p>"
+      ],
+      "ro": [
+        "<p>Agenţia Europeană de Control al Pescuitului (AECP), cu sediul la Vigo (Spania), a fost creată pentru a promova cele mai înalte standarde în materie de control, inspecţie şi supraveghere în cadrul <a href=\"http://ec.europa.eu/fisheries/cfp/index_ro.htm\" lang=\"ro\">politicii comune în domeniul pescuitului (PCP)</a>.</p>             <p>AECP structurează <strong>cooperarea operaţională</strong> dintre statele membre şi le oferă asistenţă acestora şi Comisiei. Organizează şi coordonează cooperarea la nivelul activităţilor naţionale de control şi inspecţie şi se ocupă de pregătirea inspectorilor şi a formatorilor, pentru a garanta respectarea şi aplicarea eficientă şi coerentă a normelor PCP.</p>             <p>Agenţia contribuie la asigurarea unor <strong>condiţii echitabile de concurenţă</strong> în industria pescuitului, astfel încât obligaţiile să fie respectate şi toate părţile implicate în acest sector să fie tratate în mod egal, indiferent unde operează. De asemenea, promovează <strong>un pescuit durabil</strong>, contribuind la respectarea măsurilor de conservare şi gestionare existente, în beneficiul generaţiilor de azi şi de mâine.</p>"
+      ],
+      "sk": [
+        "<p>Európska agentúra na kontrolu rybného hospodárstva so sídlom v španielskom meste Vigo bola vytvorená s cieľom podporovať najvyššie spoločné štandardy kontroly, inšpekcií a dohľadu v rámci <a href=\"http://ec.europa.eu/fisheries/cfp/index_sk.htm\" lang=\"sk\">spoločnej rybárskej politiky (SRP)</a>.</p>             <p>Agentúra EFCA sprostredkúva <strong>operačnú spoluprácu</strong> medzi krajinami EÚ, poskytuje im podporu a poradenstvo a pomáha Komisii. Agentúra zabezpečuje a koordinuje súlad medzi vnútroštátnymi činnosťami kontroly a inšpekcie a usporadúva školenia pre národných inšpektorov a školiteľov, aby sa zabezpečilo jednotné dodržiavanie noriem SRP a ich účinné a súrodé uplatňovanie.</p>             <p>Okrem toho pomáha zabezpečovať <strong>rovnaké východiskové podmienky</strong> pre spoločnosti podnikajúce v odvetví rybárstva a zaistiť, aby si všetky subjekty plnili svoje povinnosti a aby sa zabezpečilo rovnaké zaobchádzanie pre všetkých aktérov bez ohľadu na to, kde vykonávajú svoju podnikateľskú činnosť. Agentúra EFCA sa takisto podieľa na zlepšovaní plnenia platných opatrení v oblasti zachovania a riadenia rybolovných zdrojov, čím prispieva k dosiahnutiu cieľa <strong>udržateľného rybolovu</strong>, ktorý je v záujme súčasných aj budúcich generácií Európanov.</p>"
+      ],
+      "sl": [
+        "<p>Evropska agencija za nadzor ribištva (EFCA), ki ima sedež v španskem Vigu, v okviru <a href=\"http://ec.europa.eu/fisheries/cfp/index_sl.htm\" lang=\"sl\">skupne ribiške politike</a> skrbi za uveljavljanje visokih skupnih standardov nadzora, inšpekcije in spremljanja.</p>             <p>Agencija skrbi za <strong>operativno sodelovanje</strong> med državami EU ter državam in Evropski komisiji zagotavlja podporo. Organizira in usklajuje nacionalne dejavnosti nadzora in inšpekcije ter z usposabljanjem nacionalnih inšpektorjev in voditeljev usposabljanj zagotavlja učinkovito in dosledno spoštovanje in izvajanje pravil Skupne ribiške politike.</p>             <p>Agencija prispeva tudi k oblikovanju <strong>enakih pogojev</strong> za vse v ribištvu, in sicer z zagotavljanjem spoštovanja obveznosti in enake obravnave vseh udeležencev v sektorju, ne glede na to, kje delujejo. Podpira tudi <strong>trajnostno ribištvo</strong>, saj krepi spoštovanje veljavnih ukrepov za ohranjanje in upravljanje ribolovnih virov, kar bo koristilo sedanjim in prihodnjim generacijam.</p>"
+      ],
+      "sv": [
+        "<p>Fiskerikontrollbyrån har sitt säte i den spanska staden Vigo och ser till att den <a href=\"http://ec.europa.eu/fisheries/cfp/index_sv.htm\" lang=\"sv\">gemensamma fiskepolitikens</a> kontroller och övervakningsåtgärder följer högsta möjliga gemensamma standard.</p>             <p>Byrån är navet i EU-ländernas <strong>operativa samarbete</strong>. Den bistår länderna och EU-kommissionen i deras arbete, organiserar och samordnar nationella kontroll- och inspektionsinsatser samt utbildar ländernas inspektörer och instruktörer. På så sätt ser byrån till att den gemensamma fiskepolitikens regler följs och tillämpas effektivt och konsekvent.</p>             <p>Byrån bidrar till <strong>lika konkurrensvillkor</strong> inom fiskenäringen genom att se till att alla uppfyller sina skyldigheter och behandlas lika, oberoende av var de är verksamma. Den bidrar också till ett <strong>hållbart fiske</strong> genom att säkerställa att gällande bestämmelser för bevarande och förvaltning verkligen följs, så att fiskeresurserna kan utnyttjas både av nuvarande och framtida generationer.</p>"
+      ]
+    },
+    "left_sub_menu": {
+      "und": [
+        true
+      ]
+    }
+  }
+}

@@ -1,0 +1,865 @@
+{
+    "_id": "e6015b0a162d0bc30fef84e98b0c7000",
+    "type": "common_page",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "sv",
+        "de",
+        "el",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "ga",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl"
+    ],
+    "fields": {
+        "original_url": {
+            "bg": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_bg.htm"
+            ],
+            "cs": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_cs.htm"
+            ],
+            "da": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_da.htm"
+            ],
+            "de": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_de.htm"
+            ],
+            "el": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_el.htm"
+            ],
+            "en": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_en.htm"
+            ],
+            "es": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_es.htm"
+            ],
+            "et": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_et.htm"
+            ],
+            "fi": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_fi.htm"
+            ],
+            "fr": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_fr.htm"
+            ],
+            "ga": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_ga.htm"
+            ],
+            "hr": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_hr.htm"
+            ],
+            "hu": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_hu.htm"
+            ],
+            "it": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_it.htm"
+            ],
+            "lt": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_lt.htm"
+            ],
+            "lv": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_lv.htm"
+            ],
+            "mt": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_mt.htm"
+            ],
+            "nl": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_nl.htm"
+            ],
+            "pl": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_pl.htm"
+            ],
+            "pt": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_pt.htm"
+            ],
+            "ro": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_ro.htm"
+            ],
+            "sk": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_sk.htm"
+            ],
+            "sl": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_sl.htm"
+            ],
+            "sv": [
+                "http://europa.eu/about-eu/eu-history/2010-today/2016/index_sv.htm"
+            ]
+        },
+        "title": {
+            "bg": [
+                "Историята на Европейския съюз"
+            ],
+            "cs": [
+                "EUROPA Historie Evropské unie"
+            ],
+            "da": [
+                "Den Europæiske Unions historie"
+            ],
+            "de": [
+                "Die Geschichte der Europäischen Union"
+            ],
+            "el": [
+                "Η ιστορία της Ευρωπαϊκής Ένωσης"
+            ],
+            "en": [
+                "The History of the European Union"
+            ],
+            "es": [
+                "La Historia de la Unión Europea"
+            ],
+            "et": [
+                "Lühiülevaade EL - Euroopa Liidu ajalugu"
+            ],
+            "fi": [
+                "Euroopan unionin historia"
+            ],
+            "fr": [
+                "L'histoire de l'Union européenne"
+            ],
+            "ga": [
+                "Stair an Aontais Eorpaigh"
+            ],
+            "hr": [
+                "The History of the European Union"
+            ],
+            "hu": [
+                "Az EU röviden - Az Európai Unió története"
+            ],
+            "it": [
+                "La Storia dell'Unione europea"
+            ],
+            "lt": [
+                "Europos Sąjungos istorija"
+            ],
+            "lv": [
+                "Eiropas Savienības vēsture"
+            ],
+            "mt": [
+                "Daqqa t'għajn lejn l-UE - L-Istorja tal-Unjoni Ewropea"
+            ],
+            "nl": [
+                "De geschiedenis van de Europese Unie"
+            ],
+            "pl": [
+                "Historia Unii Europejskiej"
+            ],
+            "pt": [
+                "A história da União Europeia"
+            ],
+            "ro": [
+                "Istoria Uniunii Europene"
+            ],
+            "sk": [
+                "EÚ v kocke - História Európskej únie"
+            ],
+            "sl": [
+                "EU na kratko - Zgodovina Evropske unije"
+            ],
+            "sv": [
+                "Europeiska unionens historia"
+            ]
+        },
+        "category": {
+            "und": [
+                "33755c30"
+            ]
+        },
+        "meta_reference": {
+            "bg": [
+                "EUROPA/ABOUT-EU/HISTORY/BG"
+            ],
+            "cs": [
+                "EUROPA/ABOUT-EU/HISTORY/CS"
+            ],
+            "da": [
+                "EUROPA/ABOUT-EU/HISTORY/DA"
+            ],
+            "de": [
+                "EUROPA/ABOUT-EU/HISTORY/DE"
+            ],
+            "el": [
+                "EUROPA/ABOUT-EU/HISTORY/EL"
+            ],
+            "en": [
+                "EUROPA/ABOUT-EU/HISTORY/EN"
+            ],
+            "es": [
+                "EUROPA/ABOUT-EU/HISTORY/ES"
+            ],
+            "et": [
+                "EUROPA/ABOUT-EU/HISTORY/ET"
+            ],
+            "fi": [
+                "EUROPA/ABOUT-EU/HISTORY/FI"
+            ],
+            "fr": [
+                "EUROPA/ABOUT-EU/HISTORY/FR"
+            ],
+            "ga": [
+                "EUROPA/ABOUT-EU/HISTORY/"
+            ],
+            "hr": [
+                "EUROPA/ABOUT-EU/HISTORY/EN"
+            ],
+            "hu": [
+                "EUROPA/ABOUT-EU/HISTORY/HU"
+            ],
+            "it": [
+                "EUROPA/ABOUT-EU/HISTORY/IT"
+            ],
+            "lt": [
+                "EUROPA/ABOUT-EU/HISTORY/LT"
+            ],
+            "lv": [
+                "EUROPA/ABOUT-EU/HISTORY/LV"
+            ],
+            "mt": [
+                "EUROPA/ABOUT-EU/HISTORY/"
+            ],
+            "nl": [
+                "EUROPA/ABOUT-EU/HISTORY/NL"
+            ],
+            "pl": [
+                "EUROPA/ABOUT-EU/HISTORY/PL"
+            ],
+            "pt": [
+                "EUROPA/ABOUT-EU/HISTORY/PT"
+            ],
+            "ro": [
+                "EUROPA/ABOUT-EU/HISTORY/RO"
+            ],
+            "sk": [
+                "EUROPA/ABOUT-EU/HISTORY/SK"
+            ],
+            "sl": [
+                "EUROPA/ABOUT-EU/HISTORY/SL"
+            ],
+            "sv": [
+                "EUROPA/ABOUT-EU/HISTORY/SV"
+            ]
+        },
+        "meta_creator": {
+            "bg": [
+                "COMM"
+            ],
+            "cs": [
+                "COMM"
+            ],
+            "da": [
+                "COMM"
+            ],
+            "de": [
+                "COMM"
+            ],
+            "el": [
+                "COMM"
+            ],
+            "en": [
+                "COMM"
+            ],
+            "es": [
+                "COMM"
+            ],
+            "et": [
+                "COMM"
+            ],
+            "fi": [
+                "COMM"
+            ],
+            "fr": [
+                "COMM"
+            ],
+            "ga": [
+                "COMM/COMM/C2"
+            ],
+            "hr": [
+                "COMM"
+            ],
+            "hu": [
+                "COMM"
+            ],
+            "it": [
+                "COMM"
+            ],
+            "lt": [
+                "COMM"
+            ],
+            "lv": [
+                "COMM"
+            ],
+            "mt": [
+                "COMM/COMM/C2"
+            ],
+            "nl": [
+                "COMM"
+            ],
+            "pl": [
+                "COMM"
+            ],
+            "pt": [
+                "COMM"
+            ],
+            "ro": [
+                "COMM"
+            ],
+            "sk": [
+                "COMM"
+            ],
+            "sl": [
+                "COMM"
+            ],
+            "sv": [
+                "COMM"
+            ]
+        },
+        "meta_document_type": {
+            "bg": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "cs": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "da": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "de": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "el": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "en": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "es": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "et": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fi": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "fr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ga": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "hr": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "hu": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "it": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "lv": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "mt": [
+                "58-Document for general distribution (intended for the general public)"
+            ],
+            "nl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "pt": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "ro": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sk": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sl": [
+                "57-Web home page (text, logo, image of a department)"
+            ],
+            "sv": [
+                "57-Web home page (text, logo, image of a department)"
+            ]
+        },
+        "meta_description": {
+            "bg": [
+                "Тази страница предоставя информация за историята на Европейския съюз"
+            ],
+            "cs": [
+                "tato stranka obsahuje informace o historii evropske unie"
+            ],
+            "da": [
+                "Denne side indeholder oplysninger om EU's historie"
+            ],
+            "de": [
+                "Diese Seite liefert Informationen über die Geschichte der Europäischen Union"
+            ],
+            "el": [
+                "This page provides information on the history of the European Union"
+            ],
+            "en": [
+                "This page provides information on the history of the European Union"
+            ],
+            "es": [
+                "Esta página contiene información sobre la historia de la Unión Europea"
+            ],
+            "et": [
+                "Sellel leheküljel on informatsioon Euroopa Liidu ajaloo kohta"
+            ],
+            "fi": [
+                "Sivulla on tietoa Euroopan unionin historiasta"
+            ],
+            "fr": [
+                "Cette page fournit des informations sur l'histoire de l'Union européenne"
+            ],
+            "ga": [
+                "Gheofar ar an leathanach seo faisnéis faoi stair an Aontais Eorpaigh. "
+            ],
+            "hr": [
+                "This page provides information on the history of the European Union"
+            ],
+            "hu": [
+                "Ez az oldal az Európai Unió történetéről nyújt információt"
+            ],
+            "it": [
+                "Questa pagina fornisce informazioni sulla storia dell'Unione europea"
+            ],
+            "lt": [
+                "Šiame puslapyje pateikiama informacija apie Europos Sąjungos istoriją"
+            ],
+            "lv": [
+                "Šajā lapā sniegta informācija par Eiropas Savienības vēsturi"
+            ],
+            "mt": [
+                "Din il-paġna tipprovdi informazzjoni dwar l-istorja tal-Unjoni Ewropea"
+            ],
+            "nl": [
+                "Deze pagina verschaft informatie over de geschiedenis van de Europese Unie"
+            ],
+            "pl": [
+                "Strona zawiera informacje o historii Unii Europejskiej"
+            ],
+            "pt": [
+                "Esta página apresenta informações sobre a história da União Europeia"
+            ],
+            "ro": [
+                "Comisia Europeană - Această pagină cuprinde informaţii despre istoria Uniunii Europene în perioada 2007"
+            ],
+            "sk": [
+                "Táto stránka poskytuje informácie o histórii Európskej únie"
+            ],
+            "sl": [
+                "Ta stran vsebuje informacije o zgodovini Evropske unije"
+            ],
+            "sv": [
+                "Sidan informerar om Europeiska unionens historia"
+            ]
+        },
+        "meta_keywords": {
+            "bg": [
+                "2000 г. - до наши дни",
+                "11 септември",
+                "евро",
+                "мироопазващи сили на ЕС",
+                "разширяване",
+                "конституция",
+                "Протокол от Киото",
+                "глобално затопляне",
+                "интерактивна карта",
+                "Европейски навигатор",
+                "Европейска комисия",
+                "институции",
+                "Европейски съюз",
+                "ЕС"
+            ],
+            "cs": [
+                "abc",
+                "eu",
+                "evropska unie",
+                "evropa",
+                "historie eu",
+                "informace o eu",
+                "chronologicky vyvoj eu"
+            ],
+            "da": [
+                "abc",
+                "europæiske union",
+                "eu",
+                "europa",
+                "den europæiske unions historie",
+                "den europæiske unions institutioner",
+                "eu tidsregning"
+            ],
+            "de": [
+                "abc",
+                "eu",
+                "europaische union",
+                "europa",
+                "geschichte der eu",
+                "informationen zur eu",
+                "chronologie der eu"
+            ],
+            "el": [
+                "abc",
+                "eu",
+                "european union",
+                "europe",
+                "eu history",
+                "eu information",
+                "eu chronologies"
+            ],
+            "en": [
+                "abc",
+                "eu",
+                "european union",
+                "europe",
+                "eu history",
+                "eu information",
+                "eu chronologies"
+            ],
+            "es": [
+                "abc",
+                "eu",
+                "union europea",
+                "europa",
+                "historia de la ue",
+                "informacion ue",
+                "chronologias de la ue"
+            ],
+            "et": [
+                "abc",
+                "el",
+                "euroopa liit",
+                "euroopa",
+                "el-i ajalugu",
+                "informatsioon el-i kohta",
+                "el-i kronoloogia"
+            ],
+            "fi": [
+                "abc",
+                "eu",
+                "euroopan unioni",
+                "eurooppa",
+                "euroopan unionin historia",
+                "eu tietokantoja",
+                "eu kronologinen"
+            ],
+            "fr": [
+                "abc",
+                "ue",
+                "union europeenne",
+                "europe",
+                "histoire ue",
+                "information ue",
+                "chronologies ue"
+            ],
+            "ga": [
+                "an ae",
+                "an t-aontas eorpach",
+                "an eoraip",
+                "stair an ae",
+                "faisnéis ae",
+                "croineolaíocht an ae"
+            ],
+            "hr": [
+                "abc",
+                "eu",
+                "european union",
+                "europe",
+                "eu history",
+                "eu information",
+                "eu chronologies"
+            ],
+            "hu": [
+                "abc",
+                "eu",
+                "europai unio",
+                "europa",
+                "az eu tortenete",
+                "eu-informacio",
+                "eu-kronologia"
+            ],
+            "it": [
+                "abc",
+                "ue",
+                "unione europea",
+                "europa",
+                "storia ue",
+                "informazioni ue",
+                "cronologia ue"
+            ],
+            "lt": [
+                "abc",
+                "es",
+                "europos sąjunga",
+                "europa",
+                "es istorija",
+                "informacija apie es",
+                "es chronologija"
+            ],
+            "lv": [
+                "abc",
+                "es",
+                "eiropas savieniba",
+                "eiropa",
+                "es vesture",
+                "informacija par es",
+                "es hronologija"
+            ],
+            "mt": [
+                "ue",
+                "Unjoni Ewropea",
+                "Ewropa",
+                "storja tal-UE",
+                "informazzjoni dwar l-UE",
+                "kronoloġija tal-UE"
+            ],
+            "nl": [
+                "abc",
+                "eu",
+                "europese unie",
+                "europa",
+                "eu geschiedenis",
+                "eu informatie",
+                "eu chronologie"
+            ],
+            "pl": [
+                "abc",
+                "ue",
+                "unia europejska",
+                "europa",
+                "historia ue",
+                "informacje o ue",
+                "chronologia wydarzen ue"
+            ],
+            "pt": [
+                "abc",
+                "ue",
+                "uniao europeia",
+                "europa",
+                "ue historia",
+                "ue informaçao",
+                "ue chronologias"
+            ],
+            "ro": [
+                "2000 - astăzi",
+                "11 septembrie",
+                "moneda euro",
+                "misiuni UE de menţinere a păcii",
+                "extindere",
+                "Constituţia",
+                "Protocolul de la Kyoto",
+                "încălzirea globală",
+                "hartă animată",
+                "European Navigator",
+                "Comisia Europeană",
+                "instituţii",
+                "Uniunea Europeană",
+                "UE"
+            ],
+            "sk": [
+                "abc",
+                "eu",
+                "europska unia",
+                "europa",
+                "historia eu",
+                "informacie o eu",
+                "chronologia eu"
+            ],
+            "sl": [
+                "abc",
+                "eu",
+                "evropska unija",
+                "evropa",
+                "zgodovina eu",
+                "informacije o eu",
+                "kronologija eu"
+            ],
+            "sv": [
+                "abc",
+                "eu",
+                "europeiska unionen",
+                "europa",
+                "historia",
+                "information",
+                "kronologi"
+            ]
+        },
+        "meta_classification": {
+            "bg": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "cs": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "da": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "de": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "el": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "en": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "es": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "et": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fi": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "fr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ga": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hr": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "hu": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "it": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "lv": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "mt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "nl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "pt": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "ro": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sk": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sl": [
+                "16-000-EU Institutions and EU Legislation"
+            ],
+            "sv": [
+                "16-000-EU Institutions and EU Legislation"
+            ]
+        },
+        "body": {
+            "bg": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Историята на Европейския съюз</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_bg.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_bg.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_bg.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_bg.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_bg.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_bg.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_bg.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Януари</h2>                                        <h3>1</h3>                                        <p>Нидерландия поема шестмесечното ротационно председателство на Съвета на ЕС.</p>                                        <h3>1</h3>                                        <p>Вроцлав (Полша) и Сан Себастиан (Испания) са европейските столици на културата за 2016 г. В двата града ще се проведат прояви, популяризиращи тяхната култура.</p>                                        <h3>28</h3>                                        <p>Европейската комисия обявява предложения за борба с избягването на данъци от големи дружества във всички 28 страни от ЕС. Пакетът от мерки за борба с избягването на данъци ще възпрепятства агресивното данъчно планиране, ще доведе до повишаване на прозрачността на данъците и ще гарантира еднакви условия на конкуренция за всички предприятия в ЕС.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_bg.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_bg.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_bg.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_bg.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_bg.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_bg.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_bg.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "cs": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">EUROPA Historie Evropské unie</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_cs.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_cs.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_cs.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_cs.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_cs.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_cs.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_cs.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Leden</h2>                                        <h3>1</h3>                                        <p>Předsednictví v Radě EU se na šest měsíců ujímá Nizozemsko.</p>                                        <h3>1</h3>                                        <p>Evropským hlavním městem kultury jsou pro rok 2016 polská Vratislav a španělský San Sebastián. Obě města nabídnou nepřeberné množství akcí propagujících místní kulturu.</p>                                        <h3>28</h3>                                        <p>Evropská komise přichází s návrhem, jak skoncovat se situací, kdy se velké společnosti ve všech 28 zemích EU běžně vyhýbají daňovým povinnostem. Balíček nových právních předpisů zabrání agresivnímu daňovému plánování, zvýší daňovou transparentnost a zajistí rovné podmínky pro všechny podniky v členských státech EU.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_cs.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_cs.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_cs.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_cs.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_cs.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_cs.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_cs.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "da": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Den Europæiske Unions historie</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_da.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_da.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_da.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_da.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_da.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_da.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_da.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Januar</h2>                                        <h3>1.</h3>                                        <p>Holland overtager det seksmåneders formandskab for Rådet for Den Europæiske Union.</p>                                        <h3>1.</h3>                                        <p>Wrocław (Polen) og San Sebastián (Spanien) er de europæiske kulturhovedstæder i 2016. Begge byer vil afholde arrangementer for at udbrede kendskabet til deres lokale kultur.</p>                                        <h3>28.</h3>                                        <p>Europa-Kommissionen offentliggør forslag til bekæmpelse af store virksomheders skatteunddragelse i alle 28 EU-lande. Pakken af instrumenter til bekæmpelse af skatteundgåelse skal sætte en stopper for aggressiv skatteplanlægning, øge åbenheden på skatteområdet og sikre ens spilleregler for alle virksomheder i EU.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_da.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_da.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_da.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_da.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_da.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_da.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_da.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "de": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Die Geschichte der Europäischen Union</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_de.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_de.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_de.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_de.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_de.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_de.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_de.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Januar</h2>                                        <h3>1</h3>                                        <p>Die Niederlande übernehmen die alle sechs Monate wechselnde EU-Ratspräsidentschaft.</p>                                        <h3>1</h3>                                        <p>Wrocław (Polen) und Umeå (Schweden) sind die Europäischen Kulturhauptstädte 2016. In beiden Städten werden Veranstaltungen zur Darstellung ihrer lokalen Kultur stattfinden.</p>                                        <h3>28</h3>                                        <p>Die Europäische Kommission kündigt Vorschläge an, wie Steuervermeidung auf Ebene großer Unternehmen in allen 28 EU-Ländern bekämpft werden kann. Das Paket zur Bekämpfung der Steuervermeidung soll aggressive Steuerplanung verhindern, die Steuertransparenz verbessern und einen fairen Wettbewerb für alle Unternehmen in allen EU-Mitgliedsländern gewährleisten.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_de.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_de.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_de.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_de.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_de.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_de.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_de.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "el": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Η ιστορία της Ευρωπαϊκής Ένωσης</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_el.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_el.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_el.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_el.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_el.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_el.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_el.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Ιανουάριος</h2>                                        <h3>1</h3>                                        <p>Οι Κάτω Χώρες αναλαμβάνουν την εξάμηνη εκ περιτροπής προεδρία του Συμβουλίου της ΕΕ.</p>                                        <h3>1</h3>                                        <p>Οι πόλεις Wrocław (Πολωνία) και San Sebastián (Ισπανία) είναι οι πολιτιστικές πρωτεύουσες της Ευρώπης για το 2016. Οι δύο πόλεις θα διοργανώσουν διάφορες εκδηλώσεις για να προβάλουν τον πολιτισμό τους.</p>                                        <h3>28</h3>                                        <p>Η Ευρωπαϊκή Επιτροπή ανακοινώνει προτάσεις για την αντιμετώπιση από τις 28 χώρες της ΕΕ της φοροαποφυγής μεγάλων εταιρειών. Η δέσμη μέτρων κατά της φοροαποφυγής θα μειώσει τον επιθετικό φορολογικό σχεδιασμό, θα αυξήσει τη διαφάνεια και θα εξασφαλίσει ισότιμους όρους ανταγωνισμού για τις επιχειρήσεις σε όλα τα κράτη μέλη της ΕΕ.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_el.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_el.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_el.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_el.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_el.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_el.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_el.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "en": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">The History of the European Union</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_en.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_en.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_en.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_en.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_en.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_en.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_en.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">January</h2>                                        <h3>1</h3>                                        <p>The Netherlands takes over the six-month rotating presidency of the Council of the EU.</p>                                        <h3>1</h3>                                        <p>Wrocław (Poland) and San Sebastián (Spain) are the European Capitals of Culture for 2016. Both cities will host events to promote their local culture.</p>                                        <h3>28</h3>                                        <p>The European Commission announces proposals to tackle corporate tax avoidance by large companies in all 28 EU countries. The Anti-Tax Avoidance Package will hamper aggressive tax planning, increase tax transparency and secure a level playing field for all businesses in the EU Member States.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_en.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_en.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_en.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_en.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_en.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_en.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_en.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "es": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">La Historia de la Unión Europea</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_es.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_es.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_es.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_es.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_es.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_es.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_es.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Enero</h2>                                        <h3>1</h3>                                        <p>Los Países Bajos asumen la Presidencia semestral rotatoria del Consejo de la UE.</p>                                        <h3>1</h3>                                        <p>Breslavia (Polonia) y San Sebastián (España) son las Capitales Europeas de la Cultura en 2016. Las dos ciudades organizarán actos de promoción de la cultura local.</p>                                        <h3>28</h3>                                        <p>La Comisión Europea anuncia propuestas contra la elusión del impuesto de sociedades por parte de las grandes empresas en los 28 países de la UE. El paquete de lucha contra la elusión fiscal dificultará la planificación fiscal abusiva, aumentará la transparencia fiscal y garantizará unas condiciones equitativas para todas las empresas en los Estados miembros de la UE.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_es.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_es.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_es.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_es.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_es.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_es.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_es.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "et": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Lühiülevaade EL - Euroopa Liidu ajalugu</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_et.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_et.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_et.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_et.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_et.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_et.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_et.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Jaanuar</h2>                                        <h3>1</h3>                                        <p>Järgmised kuus kuud on Euroopa Liidu Nõukogu eesistuja Madalmaad.</p>                                        <h3>1</h3>                                        <p>Wrocław Poolas ja San Sebastián Hispaanias saavad 2016. aasta Euroopa kultuuripealinnadeks. Mõlemas linnas korraldatakse kohalikku kultuuri tutvustavaid üritusi.</p>                                        <h3>28</h3>                                        <p>Euroopa Komisjon esitab ettepanekud, kuidas võidelda kõigis 28 liikmesriigis suurettevõtete katsetega vältida tulumaksuga maksustamist. Maksustamise vältimise vastaste õigusaktide pakett takistab agressiivset maksuplaneerimist, suurendab maksustamise läbipaistvust ja tagab kõikidele ELi liikmesriikide ettevõtjatele võrdsed tingimused.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_et.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_et.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_et.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_et.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_et.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_et.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_et.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fi": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Euroopan unionin historia</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_fi.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_fi.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_fi.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_fi.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_fi.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_fi.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_fi.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Tammikuu</h2>                                        <h3>1.</h3>                                        <p>Alankomaiden puolivuotiskausi EU:n neuvoston puheenjohtajamaana alkaa.</p>                                        <h3>1.</h3>                                        <p>Wrocław (Puola) ja San Sebastián (Espanja) ovat Euroopan kulttuuripääkaupungit vuonna 2016. Kummassakin kaupungissa järjestetään tapahtumia, joissa esitellään paikallista kulttuuria.</p>                                        <h3>28.</h3>                                        <p>Euroopan komissio tekee ehdotuksia, joiden tavoitteena on torjua suurten yritysten yhtiöveron kiertoa kaikissa EU-maissa. Veronkierron vastaisella toimenpidepaketilla ehkäistään aggressiivista verosuunnittelua, lisätään verotuksen avoimuutta ja varmistetaan tasapuoliset toimintaedellytykset kaikille yrityksille EU:n jäsenvaltioissa.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_fi.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_fi.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_fi.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_fi.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_fi.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_fi.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_fi.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "fr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">L'histoire de l'Union européenne</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_fr.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_fr.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_fr.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_fr.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_fr.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_fr.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_fr.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Janvier</h2>                                        <h3>1</h3>                                        <p>Les Pays-Bas prennent la présidence du Conseil de l'UE pour six mois.</p>                                        <h3>1</h3>                                        <p>Wrocław (Pologne) et Saint-Sébastien (Espagne) sont les capitales européennes de la culture de l'année 2016. Ces deux villes accueilleront des manifestations destinées à promouvoir la culture locale.</p>                                        <h3>28</h3>                                        <p>La Commission européenne annonce des propositions destinées à prévenir l'évasion fiscale des grandes entreprises dans les 28 pays de l'UE. Le paquet de mesures contre l'évasion fiscale doit faire obstacle à la planification fiscale agressive, accroître la transparence et assurer une concurrence plus loyale pour toutes les entreprises de l'UE.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_fr.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_fr.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_fr.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_fr.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_fr.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_fr.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_fr.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ga": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Stair an Aontais Eorpaigh</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_ga.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_ga.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_ga.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_ga.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_ga.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_ga.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_ga.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Eanáir</h2>                                        <h3>1</h3>                                        <p>Tús le tréimhse uachtaránachta sé mhí na hÍsiltíre ar Chomhairle an Aontais Eorpaigh.</p>                                        <h3>1</h3>                                        <p>Is iad Wrocław (an Pholainn) agus San Sebastián (an Spáinn) Príomhchathracha Cultúir na hEorpa don bhliain 2016. Beidh imeachtaí ar siúl sa dá chathair sin chun an cultúr áitiúil a chur chun cinn.</p>                                        <h3>28</h3>                                        <p>D'fhógair an Coimisiún Eorpach tograí chun dul i ngleic le seachaint cánach corparáide ag cuideachtaí móra i ngach ceann de 28 dtír an Aontais Eorpaigh. A bhuí leis an bPacáiste i gcoinne Seachaint Cánach cuirfear bac ar phleanáil ionsaitheach chánach, déanfar trédhearcacht cánach a fheabhsú agus cinnteofar go mbeidh cothrom iomaíochta ann do na gnólachtaí ar fad i mBallstáit an Aontais Eorpaigh.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_ga.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_ga.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_ga.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_ga.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_ga.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_ga.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_ga.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hr": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">The History of the European Union</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_hr.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_hr.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_hr.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_hr.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_hr.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_hr.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_hr.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Siječanj</h2>                                        <h3>1.</h3>                                        <p>Nizozemska preuzima šestomjesečno rotirajuće predsjedanje Vijećem EU-a.</p>                                        <h3>1.</h3>                                        <p>Wrocław (Poljska) i San Sebastián (Španjolska) postaju „Europske prijestolnice kulture” za 2016. Ti će gradovi organizirati niz događanja u okviru kojih će promicati lokalnu kulturu.</p>                                        <h3>28.</h3>                                        <p>Europska komisija najavljuje prijedloge za suzbijanje izbjegavanja plaćanja poreza velikih poduzeća u svih 28 država članica EU-a. Paketom mjera za borbu protiv izbjegavanja plaćanja poreza otežat će se agresivno porezno planiranje, povećati porezna transparentnost i osigurati ravnopravni uvjeti tržišnog natjecanja za sva poduzeća u državama članicama EU-a.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_hr.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_hr.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_hr.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_hr.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_hr.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_hr.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_hr.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "hu": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Az EU röviden - Az Európai Unió története</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_hu.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_hu.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_hu.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_hu.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_hu.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_hu.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_hu.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Január</h2>                                        <h3>1.</h3>                                        <p>Hollandia átveszi az EU Tanácsának hat hónapig tartó soros elnöki tisztségét.</p>                                        <h3>1.</h3>                                        <p>2016-ban a lengyelországi Wrocław (Boroszló) és a spanyolországi San Sebastián nyeri el az Európa Kulturális Fővárosa címet. A két város számos rendezvénynek ad majd otthont a helyi kultúra népszerűsítésére.</p>                                        <h3>28.</h3>                                        <p>A Bizottság javaslatokat terjeszt elő, melyek azt hivatottak megakadályozni, hogy a nagy cégek kibújjanak a társaságiadó-fizetési kötelezettségeik alól az EU 28 tagországában. Az adókikerülési csomag gátat fog szabni az agresszív adótervezésnek, átláthatóbbá fogja tenni az adózást, és egyenlő versenyfeltételeket fog teremteni a vállalkozások számára az EU tagállamaiban.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_hu.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_hu.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_hu.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_hu.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_hu.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_hu.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_hu.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "it": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">La Storia dell'Unione europea</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_it.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_it.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_it.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_it.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_it.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_it.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_it.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Gennaio</h2>                                        <h3>1</h3>                                        <p>I Paesi Bassi assumono la presidenza semestrale di turno del Consiglio dell'UE.</p>                                        <h3>1</h3>                                        <p>Le città di Wrocław (Polonia) e San Sebastián (Spagna) sono le Capitali europee della cultura 2016. Le due città ospiteranno una serie di eventi per promuovere la cultura locale.</p>                                        <h3>28</h3>                                        <p>La Commissione europea annuncia proposte volte a contrastare l’elusione dell’imposta sulle società da parte delle grandi imprese in tutti i 28 paesi dell’UE. Il pacchetto di misure contro l'elusione contrasterà la pianificazione fiscale aggressiva, aumenterà la trasparenza fiscale e garantirà condizioni paritarie per tutte le imprese negli Stati membri dell’UE.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_it.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_it.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_it.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_it.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_it.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_it.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_it.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Europos Sąjungos istorija</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_lt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_lt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_lt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_lt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_lt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_lt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_lt.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Sausis</h2>                                        <h3>1 d.</h3>                                        <p>Nyderlandai rotacijos tvarka perėmė šešių mėnesių pirmininkavimą ES Tarybai.</p>                                        <h3>1 d.</h3>                                        <p>Vroclavas (Lenkija) ir San Sebastianas (Ispanija) tapo 2016 m. Europos kultūros sostinėmis. Abiejuose miestuose vyks vietos kultūros populiarinimo renginiai.</p>                                        <h3>28 d.</h3>                                        <p>Europos Komisija paskelbė kovos su didžiųjų įmonių pelno mokesčio vengimu visose 28 ES šalyse pasiūlymus. Kovos su mokesčių vengimu priemonių rinkiniu bus stabdomas agresyvus mokesčių planavimas, didinamas mokesčių skaidrumas ir visoms įmonėms užtikrinamos saugios veiklos sąlygos ES valstybėse narėse.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_lt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_lt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_lt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_lt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_lt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_lt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_lt.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "lv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Eiropas Savienības vēsture</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_lv.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_lv.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_lv.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_lv.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_lv.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_lv.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_lv.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Janvāris</h2>                                        <h3>1.</h3>                                        <p>Nīderlandei pienākusi kārta pārņemt sešu mēnešu prezidentūru ES Padomē.</p>                                        <h3>1.</h3>                                        <p>Vroclava (Polijā) un Sansevastjana (Spānija) ir 2016. gada Eiropas kultūras galvaspilsētas. Abās pilsētās notiks pasākumi, kuru mērķis ir iepazīstināt ar vietējo kultūru.</p>                                        <h3>28.</h3>                                        <p>Eiropas Komisija paziņo par priekšlikumiem, kuru mērķis ir visās 28 ES dalībvalstīs vērsties pret to, ka lieli uzņēmumi izvairās no nodokļiem. Šis pasākumu kopums nodokļu apiešanas novēršanai būs vērsts pret nodokļu agresīvu plānošanu, vairos pārredzamību nodokļu jomā un ES dalībvalstīs visiem uzņēmumiem nodrošinās godīgas konkurences apstākļus.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_lv.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_lv.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_lv.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_lv.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_lv.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_lv.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_lv.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "mt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Daqqa t'għajn lejn l-UE - L-Istorja tal-Unjoni Ewropea</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_mt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_mt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_mt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_mt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_mt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_mt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_mt.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Jannar</h2>                                        <h3>1</h3>                                        <p>In-Netherlands tieħu f'idejha l-presidenza b'rotazzjoni ta' sitt xhur tal-Kunsill tal-UE.</p>                                        <h3>1</h3>                                        <p>Wrocław (il-Polonja) u San Sebastián (Spanja) huma l-Kapitali Ewropej tal-Kultura għall-2016. Iż-żewġt ibliet se jospitaw avvenimenti għall-promozzjoni tal-kultura lokali tagħhom.</p>                                        <h3>28</h3>                                        <p>Il-Kummissjoni Ewropea tħabbar proposti biex tittratta l-evitar tat-taxxa korporattiva minn kumpaniji kbar fit-28 pajjiż tal-UE. Il-Pakkett Kontra l-Evitar tat-Taxxa se jfixkel l-ippjanar aggressiv tat-taxxa, iżid it-trasparenza fiskali u jassigura l-istess kundizzjonijiet għan-negozji kollha tal-Istati Membri.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_mt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_mt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_mt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_mt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_mt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_mt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_mt.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "nl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">De geschiedenis van de Europese Unie</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_nl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_nl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_nl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_nl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_nl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_nl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_nl.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Januari</h2>                                        <h3>1</h3>                                        <p>Nederland neemt voor zes maanden het roulerend voorzitterschap van de Raad van de EU over.</p>                                        <h3>1</h3>                                        <p>Wrocław (Polen) en San Sebastián (Spanje) worden de Europese Culturele Hoofdsteden van 2016. In beide steden worden evenementen georganiseerd om de lokale cultuur te promoten.</p>                                        <h3>28</h3>                                        <p>De Europese Commissie doet voorstellen om belastingontwijking door grote bedrijven in alle 28 EU-landen aan te pakken. Het pakket ter bestrijding van belastingontwijking belemmert agressieve fiscale planning, vergroot de fiscale transparantie en zorgt voor een gelijk speelveld voor alle bedrijven in de EU-landen.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_nl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_nl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_nl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_nl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_nl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_nl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_nl.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Historia Unii Europejskiej</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_pl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_pl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_pl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_pl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_pl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_pl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_pl.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Styczeń</h2>                                        <h3>1</h3>                                        <p>Holandia przejmuje na sześć miesięcy rotacyjne przewodnictwo w Radzie UE.</p>                                        <h3>1</h3>                                        <p>W 2016 r. Europejskimi Stolicami Kultury są Wrocław i hiszpański kurort San Sebastián. Obydwa miasta zorganizują szereg wydarzeń popularyzujących lokalną kulturę.</p>                                        <h3>28</h3>                                        <p>Komisja Europejska zapowiada przyjęcie przepisów mających zapobiec unikaniu opodatkowania przez duże przedsiębiorstwa we wszystkich 28 państwach UE. Pakiet przeciwko unikaniu opodatkowania utrudni agresywne planowanie podatkowe, zwiększy przejrzystość fiskalną i zapewni sprawiedliwe warunki konkurencji wszystkim przedsiębiorcom działającym na jednolitym rynku.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_pl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_pl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_pl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_pl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_pl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_pl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_pl.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "pt": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">A história da União Europeia</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_pt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_pt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_pt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_pt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_pt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_pt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_pt.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Janeiro</h2>                                        <h3>1</h3>                                        <p>Os Países Baixos assumem a presidência rotativa do Conselho da UE por seis meses.</p>                                        <h3>1</h3>                                        <p>Wrocław (Polónia) e San Sebastián (Espanha) são as Capitais Europeias da Cultura de 2016. Ao longo do ano, em ambas as cidades serão organizados eventos para promover a cultura local.</p>                                        <h3>28</h3>                                        <p>A Comissão Europeia anuncia propostas para combater a elisão fiscal das grandes empresas em todos os 28 países da UE. O pacote de medidas para lutar contra a elisão fiscal irá prevenir o planeamento fiscal agressivo, aumentar a transparência fiscal e garantir condições de concorrência equitativas para todas as empresas dos países da UE.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_pt.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_pt.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_pt.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_pt.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_pt.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_pt.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_pt.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "ro": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Istoria Uniunii Europene</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_ro.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_ro.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_ro.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_ro.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_ro.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_ro.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_ro.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Ianuarie</h2>                                        <h3>1</h3>                                        <p>Țările de Jos preiau președinția semestrială rotativă a Consiliului UE.</p>                                        <h3>1</h3>                                        <p>Wrocław (Polonia) și San Sebastián (Spania) sunt Capitalele Europene ale Culturii în 2016. Ambele orașe vor găzdui evenimente de promovare a culturii locale.</p>                                        <h3>28</h3>                                        <p>Comisia Europeană anunță propuneri de combatere a evaziunii fiscale în rândul marilor întreprinderi, în toate cele 28 de state membre ale UE. Pachetul privind combaterea evaziunii fiscale va împiedica planificarea fiscală abuzivă, va spori transparența fiscală și va garanta condiții echitabile pentru toate întreprinderile din țările UE.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_ro.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_ro.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_ro.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_ro.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_ro.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_ro.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_ro.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sk": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">EÚ v kocke - História Európskej únie</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sk.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sk.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sk.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sk.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sk.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sk.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sk.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Január</h2>                                        <h3>1</h3>                                        <p>Holandsko prebralo šesťmesačné rotujúce predsedníctvo Rady EÚ.</p>                                        <h3>1</h3>                                        <p>Vroclav (Poľsko) a San Sebastián (Španielsko) budú v roku 2016 Európskymi hlavnými mestami kultúry. Obe mestá budú hostiť podujatia na podporu miestnej kultúry.</p>                                        <h3>28</h3>                                        <p>Európska komisia oznámila návrhy na boj proti vyhýbaniu sa daňovým povinnostiam zo strany veľkých spoločností vo všetkých 28 krajinách EÚ. Balík týchto návrhov má obmedziť agresívne daňové plánovanie, zvýšiť daňovú transparentnosť a zabezpečiť rovnaké podmienky pre všetky podniky v členských štátoch EÚ.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sk.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sk.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sk.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sk.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sk.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sk.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sk.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sl": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">EU na kratko - Zgodovina Evropske unije</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sl.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Januar</h2>                                        <h3>1</h3>                                        <p>Nizozemska je prevzela šestmesečno predsedovanje Svetu EU.</p>                                        <h3>1</h3>                                        <p>Wrocław (Poljska) in San Sebastián (Španija) sta postala evropski prestolnici kulture leta 2016. V obeh mestih bodo s številnimi prireditvami promovirali lokalno kulturo.</p>                                        <h3>28</h3>                                        <p>Evropska komisija je objavila predloge ukrepov za preprečevanje izogibanja davku od dohodkov v velikih družbah v vseh 28 državah EU. Sveženj ukrepov proti izogibanju davkom bo omejil agresivno davčno načrtovanje, povečal davčno transparentnost in zagotovil enake konkurenčne pogoje vsem podjetjem v državah EU.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sl.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sl.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sl.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sl.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sl.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sl.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sl.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ],
+            "sv": [
+                "<div class=\"layout-wrapper\">                <div class=\"layout-wrapper-reset\">                   <a name=\"content\" id=\"content\"/>                   <h1 id=\"goto_0\">Europeiska unionens historia</h1>                   <div class=\"layout-content no-left-nav\">                      <div class=\"layout-content-reset\">                         <div class=\"template-row\">                            <div class=\"col col-content\">                               <div class=\"full_content\">                                  <div class=\"content_frag\">                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sv.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sv.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sv.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sv.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sv.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sv.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sv.htm\"                                           class=\"active\">2016</a>                                     </div>                                     <div class=\"ff_single\">                                        <h2 id=\"goto_1\">Januari</h2>                                        <h3>1</h3>                                        <p>Nederländerna tar över det halvårslånga roterande EU-ordförandeskapet.</p>                                        <h3>1</h3>                                        <p>Wrocław (Polen) och San Sebastián (Spanien) är europeiska kulturhuvudstäder 2016. Städerna kommer att hålla olika evenemang för att främja sin kultur.</p>                                        <h3>28</h3>                                        <p>EU-kommissionen föreslår ett åtgärdspaket för att ta itu med bolagsskatteflykt i samtliga 28 medlemsländer. Det ska motverka aggressiv skatteplanering, öka öppenheten på skatteområdet och säkerställa rättvisa konkurrensvillkor för alla företag i EU-länderna.</p>                                     </div>                                     <div class=\"years content_menu_pipe\">                                        <a title=\"2010\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2010/index_sv.htm\">2010</a> |                      <a title=\"2011\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2011/index_sv.htm\">2011</a> |                      <a title=\"2012\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2012/index_sv.htm\">2012</a> |                      <a title=\"2013\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2013/index_sv.htm\">2013</a> |                      <a title=\"2014\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2014/index_sv.htm\">2014</a> |                      <a title=\"2015\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2015/index_sv.htm\">2015</a> |                      <a title=\"2016\"                                           href=\"http://europa.eu/about-eu/eu-history/2010-today/2016/index_sv.htm\"                                           class=\"active\">2016</a>                                     </div>                                  </div>                               </div>                            </div>                         </div>                      </div>                   </div>                </div>             </div>"
+            ]
+        },
+        "see_also_item": {
+            "und": [
+                "see_also_item_e6015b0a162d0bc30fef84e98b0c7000"
+            ]
+        }
+    }
+}

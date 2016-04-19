@@ -1,0 +1,499 @@
+{
+    "_id": "video_gallery_item_e46caa10947416b1a7e163c8dd9c0a82",
+    "type": "video_gallery_item",
+    "default_language": "en",
+    "languages": [
+        "en",
+        "bg",
+        "cs",
+        "da",
+        "de",
+        "et",
+        "el",
+        "es",
+        "fr",
+        "ga",
+        "hr",
+        "it",
+        "lv",
+        "lt",
+        "hu",
+        "mt",
+        "nl",
+        "pl",
+        "pt",
+        "ro",
+        "sk",
+        "sl",
+        "fi",
+        "sv"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Професионалисти без граници",
+                "Кариерата на един изследовател"
+            ],
+            "cs": [
+                "Profesionálové bez hranic",
+                "Kariéra ve výzkumu"
+            ],
+            "da": [
+                "Professionelle uden grænser",
+                "Hjælp til en forskerkarriere"
+            ],
+            "de": [
+                "Berufsausübung ohne Grenzen",
+                "Eine Karriere als Forscher"
+            ],
+            "el": [
+                "Επαγγελματίες χωρίς σύνορα",
+                "Σταδιοδρομία στην έρευνα"
+            ],
+            "en": [
+                "Professionals without borders",
+                "Developing a research career"
+            ],
+            "es": [
+                "Profesionales sin fronteras",
+                "Una carrera en la investigación"
+            ],
+            "et": [
+                "piirideta professionaalid",
+                "Teadlaskarjäär"
+            ],
+            "fi": [
+                "Ammattilaiset ilman rajoja",
+                "Tukea tutkijanuralle"
+            ],
+            "fr": [
+                "Professions sans frontières",
+                "Devenir chercheur"
+            ],
+            "ga": [
+                "Gairmithe gan teorainneacha",
+                "Gairm taighde á forbairt"
+            ],
+            "hr": [
+                "Stručnjaci bez granica",
+                "Razvoj istraživačke karijere"
+            ],
+            "hu": [
+                "Szakemberek határok nélkül",
+                "Kutatói karrier uniós segítséggel"
+            ],
+            "it": [
+                "Professionisti senza frontiere",
+                "Una carriera nella ricerca"
+            ],
+            "lt": [
+                "Profesionalai be sienų",
+                "Mokslo darbuotojo karjera"
+            ],
+            "lv": [
+                "Profesionāļi bez robežām",
+                "Pētnieka karjeras veidošana"
+            ],
+            "mt": [
+                "Professjonisti mingħajr fruntieri",
+                "L-iżvilupp ta' karriera fir-riċerka"
+            ],
+            "nl": [
+                "Beroepen zonder grenzen",
+                "Een onderzoekscarrière ontwikkelen"
+            ],
+            "pl": [
+                "Łatwiejsze uznawanie kwalifikacji",
+                "Badania i rozwój − kariera naukowa"
+            ],
+            "pt": [
+                "Profissionais sem fronteiras",
+                "Uma carreira na investigação"
+            ],
+            "ro": [
+                "profesionişti fără frontiere",
+                "O carieră în domeniul cercetării"
+            ],
+            "sk": [
+                "Odborníci bez hraníc",
+                "Budovanie vedeckej kariéry"
+            ],
+            "sl": [
+                "poklicna pot brez meja",
+                "Poklicna pot na področju raziskav"
+            ],
+            "sv": [
+                "Yrkesmän utan gränser",
+                "Hjälp med forskarkarriären."
+            ]
+        },
+        "media": {
+            "bg": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/bg/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "cs": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/cs/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "da": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/da/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "de": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/de/mpeg4/1545/j005-0013-de-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "el": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/el/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "en": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/en/mpeg4/1545/j005-0013xx-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "es": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/es/mpeg4/1545/j005-0013-es-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "et": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/et/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "fi": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/fi/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "fr": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/fr/mpeg4/1545/j005-0013-fr-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "ga": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/en/mpeg4/1545/j005-0013xx-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "hr": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/hr/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "hu": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/hu/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "it": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/it/mpeg4/1545/j005-0013-it-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "lt": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/lt/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "lv": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/lv/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "mt": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/mt/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "nl": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/nl/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "pl": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/pl/mpeg4/1545/j005-0013-pl-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "pt": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/pt/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "ro": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/ro/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "sk": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/sk/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "sl": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/sl/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ],
+            "sv": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/video/sv/mpeg4/1545/j005-0013x-1536k.mp4",
+                "http://europa.eu/eu-life/videos/it_simone.flv"
+            ]
+        },
+        "image": {
+            "bg": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "cs": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "da": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "de": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "el": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "en": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "es": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "et": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "fi": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "fr": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "ga": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "hr": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "hu": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "it": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "lt": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "lv": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "mt": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "nl": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "pl": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "pt": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "ro": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "sk": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "sl": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ],
+            "sv": [
+                "http://cdn1.cache.twofourdigital.net/mediafreedom/storage/origin/europarltv/94ce6dd9-cffd-4c48-aabf-a2f500e8826e/images/master/j005-0013x.jpg",
+                "http://europa.eu/eu-life/videos/it_simone_en.jpg"
+            ]
+        },
+        "image_alt": {
+            "bg": [
+                "Професионалисти без граници",
+                "Кариерата на един изследовател"
+            ],
+            "cs": [
+                "Profesionálové bez hranic",
+                "Kariéra ve výzkumu"
+            ],
+            "da": [
+                "Professionelle uden grænser",
+                "Hjælp til en forskerkarriere"
+            ],
+            "de": [
+                "Berufsausübung ohne Grenzen",
+                "Eine Karriere als Forscher"
+            ],
+            "el": [
+                "Επαγγελματίες χωρίς σύνορα",
+                "Σταδιοδρομία στην έρευνα"
+            ],
+            "en": [
+                "Professionals without borders",
+                "Developing a research career"
+            ],
+            "es": [
+                "Profesionales sin fronteras",
+                "Una carrera en la investigación"
+            ],
+            "et": [
+                "piirideta professionaalid",
+                "Teadlaskarjäär"
+            ],
+            "fi": [
+                "Ammattilaiset ilman rajoja",
+                "Tukea tutkijanuralle"
+            ],
+            "fr": [
+                "Professions sans frontières",
+                "Devenir chercheur"
+            ],
+            "ga": [
+                "Gairmithe gan teorainneacha",
+                "Gairm taighde á forbairt"
+            ],
+            "hr": [
+                "Stručnjaci bez granica",
+                "Razvoj istraživačke karijere"
+            ],
+            "hu": [
+                "Szakemberek határok nélkül",
+                "Kutatói karrier uniós segítséggel"
+            ],
+            "it": [
+                "Professionisti senza frontiere",
+                "Una carriera nella ricerca"
+            ],
+            "lt": [
+                "Profesionalai be sienų",
+                "Mokslo darbuotojo karjera"
+            ],
+            "lv": [
+                "Profesionāļi bez robežām",
+                "Pētnieka karjeras veidošana"
+            ],
+            "mt": [
+                "Professjonisti mingħajr fruntieri",
+                "L-iżvilupp ta' karriera fir-riċerka"
+            ],
+            "nl": [
+                "Beroepen zonder grenzen",
+                "Een onderzoekscarrière ontwikkelen"
+            ],
+            "pl": [
+                "Łatwiejsze uznawanie kwalifikacji",
+                "Badania i rozwój − kariera naukowa"
+            ],
+            "pt": [
+                "Profissionais sem fronteiras",
+                "Uma carreira na investigação"
+            ],
+            "ro": [
+                "profesionişti fără frontiere",
+                "O carieră în domeniul cercetării"
+            ],
+            "sk": [
+                "Odborníci bez hraníc",
+                "Budovanie vedeckej kariéry"
+            ],
+            "sl": [
+                "poklicna pot brez meja",
+                "Poklicna pot na področju raziskav"
+            ],
+            "sv": [
+                "Yrkesmän utan gränser",
+                "Hjälp med forskarkarriären."
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Работа и пенсиониране в ЕС"
+            ],
+            "cs": [
+                "Práce a důchod v EU"
+            ],
+            "da": [
+                "Arbejde og pension i EU"
+            ],
+            "de": [
+                "Arbeit und Ruhestand in der EU"
+            ],
+            "el": [
+                "Εργασία και συνταξιοδότηση στην ΕΕ"
+            ],
+            "en": [
+                "Work and retirement in the EU"
+            ],
+            "es": [
+                "Trabajo y jubilación en la UE"
+            ],
+            "et": [
+                "Töötamine ja pensionile jäämine ELis"
+            ],
+            "fi": [
+                "Työskentely ja eläkkeelle jääminen toisessa EU-maassa"
+            ],
+            "fr": [
+                "Travailler et prendre sa retraite dans l'UE"
+            ],
+            "ga": [
+                "Obair agus scor san AE"
+            ],
+            "hr": [
+                "Rad i umirovljenje u EU-u"
+            ],
+            "hu": [
+                "Munkavállalás és nyugdíjba vonulás az EU-ban"
+            ],
+            "it": [
+                "Lavoro e pensionamento nell'UE"
+            ],
+            "lt": [
+                "Darbas ir pensija ES"
+            ],
+            "lv": [
+                "Darbs un pensionēšanās ES"
+            ],
+            "mt": [
+                "Xogħol u rtirar fl-UE"
+            ],
+            "nl": [
+                "Werk en pensioenen in de EU"
+            ],
+            "pl": [
+                "Praca i emerytura w UE"
+            ],
+            "pt": [
+                "Trabalhar e reformar-se na UE"
+            ],
+            "ro": [
+                "Munca și pensionarea în UE"
+            ],
+            "sk": [
+                "Práca a dôchodok v EÚ"
+            ],
+            "sl": [
+                "Zaposlitev in upokojitev v EU"
+            ],
+            "sv": [
+                "Arbeta och pensionera sig i EU"
+            ]
+        }
+    }
+}

@@ -1,0 +1,543 @@
+{
+    "_id": "see_also_item_f827d58f70173985d038fac7ea2ae640",
+    "type": "see_also_item",
+    "default_language": "en",
+    "languages": [
+        "nl",
+        "pt",
+        "el",
+        "et",
+        "ro",
+        "sl",
+        "pl",
+        "fi",
+        "lt",
+        "mt",
+        "sv",
+        "de",
+        "bg",
+        "cs",
+        "lv",
+        "fr",
+        "da",
+        "es",
+        "hu",
+        "it",
+        "sk",
+        "ga",
+        "en",
+        "hr"
+    ],
+    "fields": {
+        "title": {
+            "bg": [
+                "Бюджет на ЕС",
+                "Бюджетът на ЕС в моята страна",
+                "Бюджет на ЕС и роля на Съвета на ЕС",
+                "Бюджет на ЕС за 2015 г. ",
+                "Разходите на ЕС – краят на един мит ",
+                "Финансиране от ЕС",
+                "Вашата страна и еврото"
+            ],
+            "cs": [
+                "Rozpočet EU",
+                "Rozpočet EU v jednotlivých zemích  ",
+                "Rozpočet EU a úloha Rady EU ",
+                "Rozpočet EU na rok 2015 ",
+                "Výdaje EU – Uvádíme mýty na pravou míru ",
+                "Finanční prostředky EU",
+                "Vaše země a euro"
+            ],
+            "da": [
+                "EU's budget",
+                "EU's budget i mit land",
+                "EU's budget og Rådets rolle",
+                "EU's budget for 2015 ",
+                "EU's udgifter – Myter og fakta ",
+                "Finansiering fra EU",
+                "Dit land og euroen"
+            ],
+            "de": [
+                "EU-Haushalt",
+                "EU-Gelder in meinem Land",
+                "EU-Haushaltsplan und Rolle des Rates der EU",
+                "EU-Haushaltsplan2015 ",
+                "EU-Ausgaben – Mythen und Fakten ",
+                "EU-Finanzhilfen",
+                "Die EU-Länder und der Euro"
+            ],
+            "el": [
+                "Προϋπολογισμός της ΕΕ",
+                "Ο προϋπολογισμός της ΕΕ στη χώρα μου",
+                "Ο προϋπολογισμός της ΕΕ και ο ρόλος του Συμβουλίου",
+                "Ο προϋπολογισμός της ΕΕ για το 2015 ",
+                "Οι δαπάνες της ΕΕ – Η κατάρριψη ενός μύθου ",
+                "Χρηματοδοτήσεις της ΕΕ",
+                "Η χώρα σας και το ευρώ"
+            ],
+            "en": [
+                "EU budget",
+                "EU budget in my country",
+                "EU budget and the Council of the EU's role",
+                "EU budget for 2015",
+                "EU spending – a myth-buster",
+                "EU funding",
+                "Your country and the euro"
+            ],
+            "es": [
+                "Presupuesto de la UE",
+                "El presupuesto de la UE en mi país",
+                "Presupuesto de la UE y cometido del Consejo",
+                "El presupuesto de la UE para 2015 ",
+                "El Gasto de la UE: una leyenda falsa ",
+                "Financiación de la UE",
+                "Su país y el euro"
+            ],
+            "et": [
+                "ELi eelarve",
+                "ELi eelarve minu liikmesriigis",
+                "ELi eelarve ja ELi Nõukogu roll",
+                "ELi 2015. aasta eelarve ",
+                "ELi kulutused – müüdipurustaja ",
+                "ELi-poolne rahastamine",
+                "Sinu riik ja euro"
+            ],
+            "fi": [
+                "EU:n talousarvio",
+                "EU:n talousarvio maittain",
+                "EU:n talousarvio ja EU:n neuvoston rooli",
+                "EU:n talousarvio 2015",
+                "EU:n rahankäyttö. Myytit nurin ",
+                "EU-rahoitus",
+                "Euron käyttöönotto – tilanne eri maissa"
+            ],
+            "fr": [
+                "Le budget de l'UE",
+                "Le budget de l’UE dans mon pays",
+                "Le budget de l'UE et le rôle du Conseil de l'UE ",
+                "Le budget de l'UE pour 2015 ",
+                "Les dépenses de l'UE – Pour en finir avec les mythes ",
+                "Financements octroyés par l’Union européenne",
+                "Votre pays et l'euro"
+            ],
+            "ga": [
+                "Buiséad an AE",
+                "Buiséad an Aontais Eorpaigh i mo thír",
+                "Buiséad AE agus ról Chomhairle an Aontais Eorpaigh",
+                "Buiséad AE do 2015",
+                "Caiteachas an AE – Réabóir miotais",
+                "Maoiniú ón AE",
+                "Do thírse agus an euro"
+            ],
+            "hr": [
+                "Proračun EU-a",
+                "Proračun EU-a u mojoj zemlji",
+                "Proračun EU-a i uloga Vijeća ",
+                "Proračun EU-a za 2015.",
+                "Potrošnja Europske unije - Razbijač mitova     ",
+                "Financiranje sredstvima EU-a",
+                "Vaša zemlja i euro"
+            ],
+            "hu": [
+                "Az EU költségvetése",
+                "Uniós források a hazámban",
+                "Az EU költségvetése és az Európai Unió Tanácsának szerepe a költségvetés elfogadásában ",
+                "A 2015. évi uniós költségvetés ",
+                "Az uniós források felhasználása – Leszámolás a mítoszokkal ",
+                "Uniós finanszírozás",
+                "Az Ön országa és az euró"
+            ],
+            "it": [
+                "Il bilancio dell'UE",
+                "Il bilancio dell'UE nel mio paese",
+                "Bilancio dell'Unione europea e ruolo del Consiglio dell'UE ",
+                "Bilancio dell'UE per il 2015 ",
+                "I soldi dell'Unione europea – Alcuni miti da sfatare ",
+                "Finanziamenti dell'UE",
+                "Il tuo paese e l'euro"
+            ],
+            "lt": [
+                "ES biudžetas",
+                "ES biudžetas mano šalyje",
+                "ES biudžetas ir ES Tarybos vaidmuo ",
+                "2015 m. ES biudžetas ",
+                "ES biudžetas. Faktai ir mitai ",
+                "ES finansavimas",
+                "Jūsų šalis ir euras"
+            ],
+            "lv": [
+                "ES budžets",
+                "ES budžets manā valstī",
+                "Es budžets un ES Padomes loma ",
+                "ES budžets 2015. gadam",
+                "Kliedējam mītus par ES tēriņiem ",
+                "ES finansējums",
+                "Jūsu valsts un eiro"
+            ],
+            "mt": [
+                "Baġit tal-UE",
+                "Il-baġit tal-UE f'pajjiżi",
+                "Il-baġit tal-UE u r-rwol  tal-Kunsill tal-UE",
+                "Il-baġit tal-UE għall-2015 ",
+                "L-infiq tal-UE – fatti u ħrejjef ",
+                "Finanzjament mill-UE",
+                "Pajjiżek u l-ewro"
+            ],
+            "nl": [
+                "EU-begroting",
+                "De EU-begroting en mijn land",
+                "De EU-begroting en de rol van de Raad van de EU ",
+                "De EU-begroting voor 2015 ",
+                "EU-uitgaven - Mythes en feiten ",
+                "EU-financiering",
+                "Uw land en de euro"
+            ],
+            "pl": [
+                "Budżet UE",
+                "Środki z budżetu UE w moim kraju",
+                "Budżet UE i rola Rady UE ",
+                "Budżet UE na 2015 r.",
+                "Wydatki UE – mity i fakty ",
+                "Wsparcie ze środków unijnych",
+                "Twój kraj i euro"
+            ],
+            "pt": [
+                "Orçamento da UE",
+                "O orçamento da UE no meu país",
+                "Orçamento da UE e papel do Conselho da UE ",
+                "Orçamento da UE para 2015 ",
+                "Despesas da UE: acabar com os mitos ",
+                "Financiamento da UE",
+                "O seu país e o euro"
+            ],
+            "ro": [
+                "Bugetul UE",
+                "Bugetul UE în țara mea",
+                "Bugetul UE și rolul Consiliului UE ",
+                "Bugetul UE pe 2015 ",
+                "Cheltuielile UE - demontarea unui mit ",
+                "Finanțare europeană",
+                "Ţara dumneavoastră şi moneda euro"
+            ],
+            "sk": [
+                "Rozpočet EÚ",
+                "Rozpočet EÚ v mojej krajine",
+                "Rozpočet EÚ a úloha Rady EÚ ",
+                "Rozpočet EÚ na rok 2015",
+                "Výdavky EÚ – Vyvraciame mýty ",
+                "Finančné prostriedky EÚ",
+                "Vaša krajina a euro"
+            ],
+            "sl": [
+                "Proračun EU",
+                "Proračunska sredstva EU v moji državi ",
+                "Proračun EU in vloga Sveta EU ",
+                "Proračun EU za leto 2015 ",
+                "Poraba EU – miti in dejstva ",
+                "Finančna sredstva EU",
+                "Vaša država in evro"
+            ],
+            "sv": [
+                "EU:s budget",
+                "EU-budgeten i mitt land  ",
+                "EU:s budget och rådets roll ",
+                "EU:s budget för 2015 ",
+                "EU:s utgifter – några myter ",
+                "EU:s stöd och program",
+                "Ditt land och euron"
+            ]
+        },
+        "link": {
+            "bg": [
+                "http://europa.eu/pol/financ/index_bg.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/bg/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/bg/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_bg.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "cs": [
+                "http://europa.eu/pol/financ/index_cs.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/cs/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/cs/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_cs.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "da": [
+                "http://europa.eu/pol/financ/index_da.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/da/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/da/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_da.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "de": [
+                "http://europa.eu/pol/financ/index_de.htm",
+                "http://ec.europa.eu/budget/mycountry/index_de.cfm",
+                "http://www.consilium.europa.eu/de/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/de/policies/eu-annual-budget/eu-budget-2015/",
+                "http://ec.europa.eu/budget/explained/myths/myths_de.cfm",
+                "http://europa.eu/about-eu/funding-grants/index_de.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "el": [
+                "http://europa.eu/pol/financ/index_el.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/el/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/el/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_el.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "en": [
+                "http://europa.eu/pol/financ/index_en.htm",
+                "http://ec.europa.eu/budget/mycountry/index_en.cfm",
+                "http://www.consilium.europa.eu/en/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/en/policies/eu-annual-budget/eu-budget-2015/",
+                "http://ec.europa.eu/budget/explained/myths/myths_en.cfm",
+                "http://europa.eu/about-eu/funding-grants/index_en.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "es": [
+                "http://europa.eu/pol/financ/index_es.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/es/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/es/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_es.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "et": [
+                "http://europa.eu/pol/financ/index_et.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/et/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/et/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_et.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "fi": [
+                "http://europa.eu/pol/financ/index_fi.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/fi/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/fi/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_fi.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "fr": [
+                "http://europa.eu/pol/financ/index_fr.htm",
+                "http://ec.europa.eu/budget/mycountry/index_fr.cfm",
+                "http://www.consilium.europa.eu/fr/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/fr/policies/eu-annual-budget/eu-budget-2015/",
+                "http://ec.europa.eu/budget/explained/myths/myths_fr.cfm",
+                "http://europa.eu/about-eu/funding-grants/index_fr.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "ga": [
+                "http://europa.eu/pol/financ/index_ga.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/ga/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/ga/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_ga.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "hr": [
+                "http://europa.eu/pol/financ/index_hr.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/hr/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/hr/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_hr.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "hu": [
+                "http://europa.eu/pol/financ/index_hu.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/hu/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/hu/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_hu.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "it": [
+                "http://europa.eu/pol/financ/index_it.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/it/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/it/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_it.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "lt": [
+                "http://europa.eu/pol/financ/index_lt.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/lt/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/lt/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_lt.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "lv": [
+                "http://europa.eu/pol/financ/index_lv.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/lv/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/lv/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_lv.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "mt": [
+                "http://europa.eu/pol/financ/index_mt.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/mt/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/mt/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_mt.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "nl": [
+                "http://europa.eu/pol/financ/index_nl.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/nl/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/nl/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_nl.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "pl": [
+                "http://europa.eu/pol/financ/index_pl.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/pl/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/pl/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_pl.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "pt": [
+                "http://europa.eu/pol/financ/index_pt.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/pt/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/pt/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_pt.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "ro": [
+                "http://europa.eu/pol/financ/index_ro.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/ro/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/ro/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_ro.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "sk": [
+                "http://europa.eu/pol/financ/index_sk.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/sk/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/sk/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_sk.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "sl": [
+                "http://europa.eu/pol/financ/index_sl.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/sl/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/sl/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_sl.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ],
+            "sv": [
+                "http://europa.eu/pol/financ/index_sv.htm",
+                "http://europa.eu/nolink",
+                "http://www.consilium.europa.eu/sv/policies/eu-annual-budget/",
+                "http://www.consilium.europa.eu/sv/policies/eu-annual-budget/eu-budget-2015/",
+                "http://europa.eu/nolink",
+                "http://europa.eu/about-eu/funding-grants/index_sv.htm",
+                "http://ec.europa.eu/economy_finance/euro/countries/index_en.html"
+            ]
+        },
+        "document_title": {
+            "bg": [
+                "Как се изразходва бюджетът на ЕС?"
+            ],
+            "cs": [
+                "Jak se využívá rozpočet EU?"
+            ],
+            "da": [
+                "Hvordan bruges EU-budgettet?"
+            ],
+            "de": [
+                "Wie werden die EU-Haushaltsmittel ausgegeben?"
+            ],
+            "el": [
+                "Πώς διατίθεται ο προϋπολογισμός της ΕΕ;"
+            ],
+            "en": [
+                "How is the EU budget spent?"
+            ],
+            "es": [
+                "¿Cómo se gasta el presupuesto de la UE?"
+            ],
+            "et": [
+                "Kuidas ELi eelarvet kasutatakse?"
+            ],
+            "fi": [
+                "EU:n talousarviovarojen käyttö"
+            ],
+            "fr": [
+                "À quoi est consacré le budget de l'UE?"
+            ],
+            "ga": [
+                "Conas a chaitear buiséad an AE?"
+            ],
+            "hr": [
+                "Kako se troši proračun EU-a?"
+            ],
+            "hu": [
+                "Hogyan költi el az EU a pénzt?"
+            ],
+            "it": [
+                "Come viene speso il bilancio dell'UE"
+            ],
+            "lt": [
+                "Kaip naudojamos ES biudžeto lėšos?"
+            ],
+            "lv": [
+                "Kā tiek izlietots ES budžets"
+            ],
+            "mt": [
+                "Kif jintefaq il-baġit tal-UE?"
+            ],
+            "nl": [
+                "Zo wordt het EU-geld besteed"
+            ],
+            "pl": [
+                "Jak wykorzystywane są środki z budżetu UE?"
+            ],
+            "pt": [
+                "Como é gasto o orçamento da UE?"
+            ],
+            "ro": [
+                "Cum este cheltuit bugetul UE?"
+            ],
+            "sk": [
+                "Na čo sa využíva rozpočet EÚ?"
+            ],
+            "sl": [
+                "Poraba proračunskih sredstev EU"
+            ],
+            "sv": [
+                "Hur används EU:s budget?"
+            ]
+        }
+    }
+}
